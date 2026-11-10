@@ -1,0 +1,36 @@
+name: Refresh plugin metadata
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '20 23 * * 1' # Tuesday 08:20 JST
+
+permissions:
+  contents: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install collector dependencies
+        run: |
+          python -m pip install -r requirements.txt
+          python -m playwright install --with-deps chromium
+      - name: Check collector syntax
+        run: python -m py_compile collector.py
+      - name: Collect public plugin metadata
+        run: python collector.py --browser-discovery --max-pages 100 --max-clicks 40
+      - name: Commit JSON reports (never modify Android HTML)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add official-metadata.json pending-translation.json sync-report.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Update public plugin metadata"
+            git push
+          fi
