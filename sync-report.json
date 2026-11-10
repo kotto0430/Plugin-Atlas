@@ -1,60 +1,7 @@
 {
   "checkedAt": "2026-11-10",
   "directoryLinksFound": 24,
-  "knownPluginsChanged": [
-    {
-      "id": "box",
-      "name": "Box"
-    },
-    {
-      "id": "canva",
-      "name": "Canva"
-    },
-    {
-      "id": "dropbox",
-      "name": "Dropbox"
-    },
-    {
-      "id": "figma",
-      "name": "Figma"
-    },
-    {
-      "id": "github",
-      "name": "GitHub"
-    },
-    {
-      "id": "gmail",
-      "name": "Gmail"
-    },
-    {
-      "id": "gcal",
-      "name": "Google Calendar"
-    },
-    {
-      "id": "drive",
-      "name": "Google Drive"
-    },
-    {
-      "id": "hubspot",
-      "name": "HubSpot"
-    },
-    {
-      "id": "outlookcal",
-      "name": "Outlook Calendar"
-    },
-    {
-      "id": "outlook",
-      "name": "Outlook Email"
-    },
-    {
-      "id": "teams",
-      "name": "Teams"
-    },
-    {
-      "id": "slack",
-      "name": "Slack"
-    }
-  ],
+  "knownPluginsChanged": [],
   "pagesParsed": 24,
   "pendingNames": [
     "Adobe",
