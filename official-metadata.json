@@ -1,0 +1,111 @@
+{
+  "lastSuccessfulCheck": "2026-11-10",
+  "pagesParsed": 24,
+  "plugins": {
+    "box": {
+      "checkedAt": "2026-11-10",
+      "contentHash": "2397520dc8098617",
+      "howItWorks": "Work with documents, spreadsheets, and presentations stored in Box to create concise summaries, pre-reads, or stakeholder updates.",
+      "name": "Box",
+      "summary": "Search and reference your documents box, cloud storage, file sharing, documents, files, collaboration",
+      "url": "https://openai.com/business/plugins/box/"
+    },
+    "canva": {
+      "checkedAt": "2026-11-10",
+      "contentHash": "f9570b5270463912",
+      "howItWorks": "Ask Canva to create social posts, presentations, marketing materials, or other visual assets based on your current conversation, then continue editing together in the chat.",
+      "name": "Canva",
+      "summary": "Search, create, and edit designs",
+      "url": "https://openai.com/business/plugins/canva/"
+    },
+    "drive": {
+      "checkedAt": "2026-11-10",
+      "contentHash": "4eabf9f9a49c1c7e",
+      "howItWorks": "Work with Google Drive documents—including Docs, Slides, PDFs, and uploaded files—to search content, create summaries, synthesize information, and pull context into new drafts without manually switching between documents.",
+      "name": "Google Drive",
+      "summary": "Search and reference files from your Drive google-drive, google, google workspace, drive, docs, sheets, slides, files, google-docs, google-sheets, google-slides, productivity",
+      "url": "https://openai.com/business/plugins/google-drive/"
+    },
+    "dropbox": {
+      "checkedAt": "2026-11-10",
+      "contentHash": "30c68593cd03222f",
+      "howItWorks": "Use synced file content to surface key details and generate accurate briefs and updates, helping teams move faster without manual copy and paste.",
+      "name": "Dropbox",
+      "summary": "Find and access your stored files dropbox, files, storage, cloud, cloud storage, save, upload, download, share, sharing, sync, folder, folders, documents, docs, content, links, per",
+      "url": "https://openai.com/business/plugins/dropbox/"
+    },
+    "figma": {
+      "checkedAt": "2026-11-10",
+      "contentHash": "552bfc6ef54c3595",
+      "howItWorks": "Transform ideas into production-ready designs, slides, and diagrams by generating editable Figma and FigJam assets that streamline creation and collaboration.",
+      "name": "Figma",
+      "summary": "Make diagrams, slides, assets figma, design, prototyping, collaboration, developer handoff, design systems, design-to-code, ui-implementation, code-connect, design-system",
+      "url": "https://openai.com/business/plugins/figma/"
+    },
+    "gcal": {
+      "checkedAt": "2026-11-10",
+      "contentHash": "fb8d358333ddb6f0",
+      "howItWorks": "View upcoming events and attendee availability to plan meetings, avoid conflicts, and coordinate schedules faster across teams.",
+      "name": "Google Calendar",
+      "summary": "Look up events and availability google-calendar, google, google workspace, calendar, events, meetings, availability, agenda, daily-brief, scheduling, productivity",
+      "url": "https://openai.com/business/plugins/google-calendar/"
+    },
+    "github": {
+      "checkedAt": "2026-11-10",
+      "contentHash": "6cbdc82c3d8a546d",
+      "howItWorks": "Explore repo files, docs, and commit history to understand code, summarize PRs, and generate clear explanations that streamline reviews and make technical work easier to share.",
+      "name": "GitHub",
+      "summary": "Access repositories, issues, and pull requests github, microsoft, git, repositories, source control, pull requests, github actions, ci/cd, pull-request, code-review, issues, ci, ac",
+      "url": "https://openai.com/business/plugins/github/"
+    },
+    "gmail": {
+      "checkedAt": "2026-11-10",
+      "contentHash": "a38df23c95c2e4f5",
+      "howItWorks": "Review your Gmail conversations to prepare replies, recap recent exchanges, gather talking points for meetings, or highlight action items.",
+      "name": "Gmail",
+      "summary": "Find and reference emails from your inbox gmail, email, google, google workspace, mail, inbox, threads, drafts",
+      "url": "https://openai.com/business/plugins/gmail/"
+    },
+    "hubspot": {
+      "checkedAt": "2026-11-10",
+      "contentHash": "d6fdad2f781658c6",
+      "howItWorks": "Work with your HubSpot data to uncover patterns, prepare reports, and answer everyday questions about your pipeline or customer base.",
+      "name": "HubSpot",
+      "summary": "Analyze CRM data and surface insights",
+      "url": "https://openai.com/business/plugins/hubspot/"
+    },
+    "outlook": {
+      "checkedAt": "2026-11-10",
+      "contentHash": "54e3dc5a000c5bae",
+      "howItWorks": "Review your Outlook conversations to prepare replies, recap recent exchanges, gather talking points for meetings, or highlight action items.",
+      "name": "Outlook Email",
+      "summary": "Search and reference your Outlook email outlook-email, outlook, email, microsoft, microsoft 365, office 365, exchange, mail, inbox",
+      "url": "https://openai.com/business/plugins/microsoft-outlook-email/"
+    },
+    "outlookcal": {
+      "checkedAt": "2026-11-10",
+      "contentHash": "4c61c5e13ba76374",
+      "howItWorks": "Review your Outlook calendar events and email threads to prepare for calls, revisit past conversations, surface upcoming meetings, or pull out action items.",
+      "name": "Outlook Calendar",
+      "summary": "Look up events and availability outlook-calendar, outlook, calendar, microsoft, microsoft 365, office 365, exchange, events, meetings, availability, scheduling, teams, daily-brief,",
+      "url": "https://openai.com/business/plugins/microsoft-outlook-calendar/"
+    },
+    "slack": {
+      "checkedAt": "2026-11-10",
+      "contentHash": "4dae4560b9aba092",
+      "howItWorks": "Use your Slack messages and channel discussions to create recaps, gather background before a meeting, highlight decisions, or draft responses with the right context.",
+      "name": "Slack",
+      "summary": "Look up chats and messages slack, salesforce, chat, collaboration, messaging, channels, threads, workplace chat",
+      "url": "https://openai.com/business/plugins/slack/"
+    },
+    "teams": {
+      "checkedAt": "2026-11-10",
+      "contentHash": "3d52d0fed6a364da",
+      "howItWorks": "Search and retrieve Teams chats and messages so teams can quickly find past discussions, shared links, and context needed to move work forward.",
+      "name": "Teams",
+      "summary": "Look up chats and messages teams, microsoft teams, chat, microsoft, microsoft 365, office 365, meetings, messages, channels, video conferencing",
+      "url": "https://openai.com/business/plugins/microsoft-teams/"
+    }
+  },
+  "source": "OpenAI public plugin pages; incomplete catalog possible"
+}

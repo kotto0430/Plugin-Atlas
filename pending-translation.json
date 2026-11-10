@@ -1,0 +1,83 @@
+{
+  "checkedAt": "2026-11-10",
+  "note": "Review and translate before publishing",
+  "plugins": {
+    "Adobe": {
+      "contentHash": "4acfd42b11dc5427",
+      "howItWorks": "Describe what you want to make or change, and Adobe tools can help you turn ideas, images, videos, and documents into polished outputs. Edit and transform photos, create PDFs, design social assets, resize videos for different platforms, search Creative Cloud assets, and generate data-driven documents from the conversation.",
+      "name": "Adobe",
+      "summary": "Design, combine, and edit",
+      "url": "https://openai.com/business/plugins/adobe/"
+    },
+    "BigQuery": {
+      "contentHash": "7fee306e3469db15",
+      "howItWorks": "Connect BigQuery to ChatGPT to explore datasets, generate and review SQL, summarize query results, and turn Google Cloud warehouse data into analysis, charts, and reports.",
+      "name": "BigQuery",
+      "summary": "Explore BigQuery data and generate SQL from natural language bigquery, big query, google, google cloud, gcp, sql, data warehouse, analytics, datasets, tables, queries",
+      "url": "https://openai.com/business/plugins/bigquery/"
+    },
+    "ClickHouse": {
+      "contentHash": "9d6eb5bed9b50ee5",
+      "howItWorks": "ClickHouse plugin helps users inspect ClickHouse Cloud organizations, services, databases, tables, backups, ClickPipes, billing costs, and Managed Postgres diagnostics, and run read-only SQL queries.",
+      "name": "ClickHouse",
+      "summary": "Explore ClickHouse Cloud",
+      "url": "https://openai.com/business/plugins/clickhouse/"
+    },
+    "Data": {
+      "contentHash": "be866bf1745706f2",
+      "howItWorks": "Data helps you turn questions about your product or business into answers you can trust. Ask why a metric changed, what the data shows about where a team should focus next, how to define KPIs, whether a dataset is reliable, or how large an opportunity might be, and it can help you investigate the data and turn the findings into shareable reports, charts, dashboards, notebooks, and recommendations.\n\nStart with the data you already have: connected warehouses, BI or product analytics tools, docs, chats, spreadsheets, uploaded files, pasted results, or clearly labeled sample data. The plugin guides you through the right workflow, checks sources where possible, and keeps the evidence visible in reviewable tables, charts, dashboards, and report apps you can share.\n\nYou can also turn metric-definition links, dashboard and report examples, design references, and working preferences into reusable Data context, then package it for personal or team use.",
+      "name": "Data",
+      "summary": "Answer questions with data data-analytics, analytics, business intelligence, sql, business-context, dashboards, funnel-analysis, kpi-reporting, market-sizing, metric-diagnostics, p",
+      "url": "https://openai.com/business/plugins/data/"
+    },
+    "Databricks Genie": {
+      "contentHash": "2cbeb264ea46ada6",
+      "howItWorks": "Connect Databricks to ChatGPT to inspect governed lakehouse data, ask analytics questions, generate SQL, summarize dashboards or Genie outputs, and package insights for teams.",
+      "name": "Databricks Genie",
+      "summary": "Analyze lakehouse data and dashboards with natural language databricks, genie, lakehouse, sql, unity catalog, jobs, lakeflow, pipelines, data warehouse, data engineering, machine l",
+      "url": "https://openai.com/business/plugins/databricks/"
+    },
+    "Product Design": {
+      "contentHash": "e4282ec99b564f72",
+      "howItWorks": "Use Product Design in ChatGPT to turn product briefs, research notes, and user journeys into concepts, flows, prototypes, critique notes, and design-ready artifacts.",
+      "name": "Product Design",
+      "summary": "Turn product ideas into designs and research artifacts prototype, product design, prototyping, user experience, wireframes, design systems, figma, frontend, ux-research, ux-audit,",
+      "url": "https://openai.com/business/plugins/product-design/"
+    },
+    "Sales": {
+      "contentHash": "98acfb84cb6fd29a",
+      "howItWorks": "Use Sales in ChatGPT to prepare account plans, meeting briefs, outreach, follow-ups, and pipeline summaries from available context so teams can move faster across the customer lifecycle.",
+      "name": "Sales",
+      "summary": "Prepare account work and customer follow-up sales, crm, hubspot, zoominfo, outreach, gmail, outlook, microsoft teams, sales intelligence, account-intelligence, meeting-preparation,",
+      "url": "https://openai.com/business/plugins/sales/"
+    },
+    "Salesforce": {
+      "contentHash": "4727bc78f86559ff",
+      "howItWorks": "Connect Salesforce CRM context to ChatGPT to review accounts, opportunities, contacts, and activity, create deal summaries, and prepare follow-ups while keeping teams aligned on the latest customer data.",
+      "name": "Salesforce",
+      "summary": "Use the Salesforce plugin to review permitted CRM records, understand accounts and deals, summarize pipeline risk, and prepare follow-up salesforce, sales cloud, crm, soql, agentfo",
+      "url": "https://openai.com/business/plugins/salesforce/"
+    },
+    "SharePoint": {
+      "contentHash": "eefe5576e87d8f22",
+      "howItWorks": "Work with documents stored in SharePoint or OneDrive — including PDFs, Word, PowerPoint, and Excel docs — to create onboarding guides, prepare pre-reads, summarize complex materials, or extract key points for stakeholders.",
+      "name": "SharePoint",
+      "summary": "Search and pull from shared sites and OneDrive sharepoint, documents, microsoft, microsoft 365, office 365, onedrive, files, intranet, collaboration",
+      "url": "https://openai.com/business/plugins/microsoft-sharepoint/"
+    },
+    "Snowflake": {
+      "contentHash": "f843b73f106e513f",
+      "howItWorks": "Connect Snowflake data to ChatGPT to ask business questions, inspect schemas, generate SQL, summarize query results, and turn governed warehouse data into reusable analysis.",
+      "name": "Snowflake",
+      "summary": "Ask governed analytics questions of Snowflake data snowflake, sql, data warehouse, analytics, warehouse, database, cortex, cortex search, snowpark, mcp, connectors",
+      "url": "https://openai.com/business/plugins/snowflake/"
+    },
+    "Stripe": {
+      "contentHash": "a2e473f8fc6edea8",
+      "howItWorks": "Answer finance and operations questions with live Stripe data, review revenue drivers, customers, and subscription changes.",
+      "name": "Stripe",
+      "summary": "Use the Stripe plugin for ChatGPT to analyze live revenue, customers, subscriptions, disputes, and refunds, and build payment integrations stripe, payments, subscriptions, webhooks",
+      "url": "https://openai.com/business/plugins/stripe/"
+    }
+  }
+}
