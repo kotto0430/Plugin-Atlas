@@ -1,0 +1,40 @@
+name: "💡 Idea or app request / 改善・掲載希望"
+description: "Suggest a feature, translation improvement, or ChatGPT app to include / 改善案・掲載希望"
+title: "[Idea] "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for your idea! / ご提案ありがとうございます！
+        Please do not post private account details. / 個人情報は投稿しないでください。
+  - type: dropdown
+    id: kind
+    attributes:
+      label: "Request type / 希望の種類"
+      options:
+        - "Add an app / アプリ追加"
+        - "Improve translation / 翻訳改善"
+        - "New feature / 新機能"
+        - "Other / その他"
+    validations:
+      required: true
+  - type: input
+    id: name
+    attributes:
+      label: "App name or feature / アプリ名・機能名"
+      placeholder: "e.g. Chessy"
+    validations:
+      required: true
+  - type: textarea
+    id: reason
+    attributes:
+      label: "What would you like to change and why? / 何を、なぜ改善したいですか？"
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: "Official app link, if available / 公式ページ（任意）"
+    validations:
+      required: false
