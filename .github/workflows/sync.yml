@@ -3,7 +3,7 @@ name: Refresh plugin metadata
 on:
   workflow_dispatch:
   schedule:
-    - cron: '20 23 * * 1' # Tuesday 08:20 JST
+    - cron: '59 14 * * 2' # Tuesday 23:59 JST
 
 permissions:
   contents: write
