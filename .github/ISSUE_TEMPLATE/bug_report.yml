@@ -1,0 +1,60 @@
+name: "🐛 Bug report / 不具合報告"
+description: "Report a problem with Plugin Atlas / 動作不良を報告"
+title: "[Bug] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for helping improve Plugin Atlas! / ご協力ありがとうございます！
+        **Do not include email addresses, passwords, API keys, or private information.**
+        **メールアドレス・パスワード・認証情報・個人情報は記載しないでください。**
+  - type: input
+    id: language
+    attributes:
+      label: "Display language / 表示言語"
+      placeholder: "日本語 / English / Español..."
+    validations:
+      required: true
+  - type: input
+    id: device
+    attributes:
+      label: "Device and browser / 端末・ブラウザ"
+      placeholder: "Android 14 / Chrome, Windows 11 / Edge..."
+    validations:
+      required: true
+  - type: dropdown
+    id: area
+    attributes:
+      label: "Affected feature / 問題が起きた機能"
+      options:
+        - "Search / 検索"
+        - "Categories / カテゴリー"
+        - "My Apps / マイアプリ"
+        - "Use in ChatGPT / ChatGPTで使う"
+        - "Translations / 翻訳"
+        - "Page loading / 画面表示"
+        - "Other / その他"
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: "Steps to reproduce / 再現手順"
+      description: "What did you tap or type? / 何を押し、何を入力しましたか？"
+      placeholder: "1. Open... / 1. ...を開く\n2. Tap... / 2. ...を押す"
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: "Expected vs actual / 期待した動作と実際の動作"
+    validations:
+      required: true
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: "Screenshots or extra details / 画像・補足"
+      description: "Remove personal information from screenshots. / 画像内の個人情報を隠してください。"
+    validations:
+      required: false
