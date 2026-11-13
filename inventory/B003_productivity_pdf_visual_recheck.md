@@ -4,7 +4,7 @@ Source: `生産性向上.pdf` (image-only, 15 pages), uploaded 2026-11-13. Each 
 
 Status: PARTIAL RECHECK, covering 10 specified columns of 30 total PDF columns. The earlier 696-item OCR draft remains preserved; this is additional visual evidence and should not simply be summed as all-new names.
 
-Coverage: 10 screenshot columns, 465 observed entries; 462 distinct visual strings within these columns (normalization only).
+Coverage: 10 screenshot columns, 463 observed entries; 461 distinct visual strings within these columns (normalization only).
 
 Potential transcription issues: symbolic/random-looking app names and page-boundary-cut titles require another exact-ID check before publication. For example the `...ROGNALIA` names are separate visually labeled apps in the screenshot.
 
@@ -206,7 +206,7 @@ Potential transcription issues: symbolic/random-looking app names and page-bound
 46. Recalo
 47. OpenCompare
 
-## PDF page 11, left column (47 names)
+## PDF page 11, left column (46 names)
 
 1. item
 2. eworker
@@ -218,43 +218,42 @@ Potential transcription issues: symbolic/random-looking app names and page-bound
 8. You.com
 9. Employee Surveys & eNPS
 10. Speaker Delivery Profiler
-11. note Studio mini
-12. ROGNALIA
-13. SRT Subtitle Translator
-14. Sop Builder
-15. report writing tool
-16. okrdev
-17. Simple Macros
-18. Telagus
-19. Capability Orchestrator
-20. B2B Messaging Workshop
-21. Dossaro
-22. Cache Stats
-23. Remember
-24. Research Methodology
-25. Linchpin
-26. Relic
-27. FinGrad Appendix Generator
-28. Fixture and Finish
-29. Jao Universal Creative Studio
-30. TidyGuardian
-31. ForgeMind
-32. Follow Anywhere
-33. Monday AI: Hook Helper
-34. Aivana Dataverse App Architect
-35. Snailer
-36. Aivana Power BI Fabric
-37. EW AI Flowchart
-38. RAGOps
-39. Liinks
-40. Trinity
-41. Talamus Memory
-42. Natural writing
-43. Progressive Clarity
-44. STATEC Explorer
-45. AirPal Pilot
-46. SaaS Launch Planner
-47. DevRecap
+11. note Studio mini | ROGNALIA
+12. SRT Subtitle Translator
+13. Sop Builder
+14. report writing tool
+15. okrdev
+16. Simple Macros
+17. Telagus
+18. Capability Orchestrator
+19. B2B Messaging Workshop
+20. Dossaro
+21. Cache Stats
+22. Remember
+23. Research Methodology
+24. Linchpin
+25. Relic
+26. FinGrad Appendix Generator
+27. Fixture and Finish
+28. Jao Universal Creative Studio
+29. TidyGuardian
+30. ForgeMind
+31. Follow Anywhere
+32. Monday AI: Hook Helper
+33. Aivana Dataverse App Architect
+34. Snailer
+35. Aivana Power BI Fabric
+36. EW AI Flowchart
+37. RAGOps
+38. Liinks
+39. Trinity
+40. Talamus Memory
+41. Natural writing
+42. Progressive Clarity
+43. STATEC Explorer
+44. AirPal Pilot
+45. SaaS Launch Planner
+46. DevRecap
 
 ## PDF page 11, right column (46 names)
 
@@ -354,7 +353,7 @@ Potential transcription issues: symbolic/random-looking app names and page-bound
 45. Clipto
 46. Mapa Starej Tożsamości
 
-## PDF page 12, right column (47 names)
+## PDF page 12, right column (46 names)
 
 1. Trellis
 2. SupaBird
@@ -376,33 +375,32 @@ Potential transcription issues: symbolic/random-looking app names and page-bound
 18. Activepieces
 19. Argovance Personal & Life
 20. Roomwise
-21. note Workspace
-22. ROGNALIA
-23. BR PropMarketer
-24. Magnus Realtor Asset Finder
-25. Executive Council Core
-26. Master Change Guard
-27. Brokerage Screenshot Parser
-28. Q8△Z4·X7◇N2_K9◆V6
-29. Surfer
-30. MyBI IA
-31. Atlabs Ai
-32. Russian General Assistant
-33. Whitespace Reentry
-34. 6X6
-35. Conductor
-36. QuarryFi R&D Tracker
-37. Ukrainian-language assistant
-38. JackHamr
-39. Spend Management Analysis
-40. Tinylawn
-41. Z4◇K8△V2·Q7_X9§N3
-42. VeTayStudio Support
-43. Monday AI: Caption Coach
-44. Finrun
-45. Andexnite Shopping
-46. WST Commander
-47. LIGA Workflows
+21. note Workspace | ROGNALIA
+22. BR PropMarketer
+23. Magnus Realtor Asset Finder
+24. Executive Council Core
+25. Master Change Guard
+26. Brokerage Screenshot Parser
+27. Q8△Z4·X7◇N2_K9◆V6
+28. Surfer
+29. MyBI IA
+30. Atlabs Ai
+31. Russian General Assistant
+32. Whitespace Reentry
+33. 6X6
+34. Conductor
+35. QuarryFi R&D Tracker
+36. Ukrainian-language assistant
+37. JackHamr
+38. Spend Management Analysis
+39. Tinylawn
+40. Z4◇K8△V2·Q7_X9§N3
+41. VeTayStudio Support
+42. Monday AI: Caption Coach
+43. Finrun
+44. Andexnite Shopping
+45. WST Commander
+46. LIGA Workflows
 
 ## PDF page 13, left column (47 names)
 
