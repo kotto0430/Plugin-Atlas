@@ -103,8 +103,10 @@
     {
       "row_id": "p05L17",
       "name": "Mütalaa: Hukuk, Vergi, İçtihat",
-      "status": "要再確認",
-      "match": false
+      "status": "画像再確認済み",
+      "match": false,
+      "review_note": "原本の拡大画像で表示名を再確認",
+      "catalog_id": "atlas-pdf-education-p05l17"
     },
     {
       "row_id": "p05L18",
@@ -271,8 +273,10 @@
     {
       "row_id": "p05L45",
       "name": "Kiểm định trùng lặp NCKH",
-      "status": "要再確認",
-      "match": false
+      "status": "画像再確認済み",
+      "match": false,
+      "review_note": "原本の拡大画像で表示名を再確認",
+      "catalog_id": "atlas-pdf-education-p05l45"
     },
     {
       "row_id": "p05L46",
@@ -337,8 +341,10 @@
     {
       "row_id": "p05R10",
       "name": "Tự học",
-      "status": "要再確認",
-      "match": false
+      "status": "画像再確認済み",
+      "match": false,
+      "review_note": "原本の拡大画像で表示名を再確認",
+      "catalog_id": "atlas-pdf-education-p05r10"
     },
     {
       "row_id": "p05R11",
