@@ -1,0 +1,560 @@
+{
+  "source": "教育.pdf",
+  "sha256": "55f8221b4acb622a175b4c4537221fed9bedeb0bfe364f888805f181a7d0fab7",
+  "page": 6,
+  "baseline_index_sha": "40bd858149169eeaa64708cbda961ecdacf31bce",
+  "rows": [
+    {
+      "row_id": "p06L01",
+      "name": "Bible Study Companion",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06L02",
+      "name": "Voidly Atlas",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06L03",
+      "name": "Sommelier's Window",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06L04",
+      "name": "English Speaking Coach",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06L05",
+      "name": "JusticeNow Library",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06L06",
+      "name": "Educaplay",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06L07",
+      "name": "AI Rechtshulp",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06L08",
+      "name": "Text-First Scriptural Exegesis",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06L09",
+      "name": "Khattet",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06L10",
+      "name": "Universal Primer",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06L11",
+      "name": "Aisystant Open",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06L12",
+      "name": "LSAT Unplugged",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06L13",
+      "name": "MockMaster AI",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06L14",
+      "name": "ProSchool360",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06L15",
+      "name": "Medical Paper Converter",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06L16",
+      "name": "StuMana",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06L17",
+      "name": "9/11 Records",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06L18",
+      "name": "NaCl Prep",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06L19",
+      "name": "Zakros AI Corpus Engine",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06L20",
+      "name": "cytado",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06L21",
+      "name": "Peptide Reconstitution Calc",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06L22",
+      "name": "Nutri Creative",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06L23",
+      "name": "EBM SEARCH",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06L24",
+      "name": "Simulado ENEM",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06L25",
+      "name": "CitedEvidence",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06L26",
+      "name": "Converge Bio",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06L27",
+      "name": "FindChildcare.ca",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06L28",
+      "name": "Delulus Director",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06L29",
+      "name": "Endocrine Learning Coach",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06L30",
+      "name": "Luyện thi",
+      "status": "要再確認",
+      "match": false
+    },
+    {
+      "row_id": "p06L31",
+      "name": "CĐHA Assistant",
+      "status": "要再確認",
+      "match": false
+    },
+    {
+      "row_id": "p06L32",
+      "name": "Paragrafiq",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06L33",
+      "name": "Thoven",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06L34",
+      "name": "Schedule of Reductions (SOR)",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06L35",
+      "name": "Clew",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06L36",
+      "name": "Interactive Video Designer",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06L37",
+      "name": "İsveç Ehliyet",
+      "status": "要再確認",
+      "match": false
+    },
+    {
+      "row_id": "p06L38",
+      "name": "Thực Hành Nội - Nhi - Tim mạch",
+      "status": "要再確認",
+      "match": false
+    },
+    {
+      "row_id": "p06L39",
+      "name": "Analyste Spam et Hameçonnage",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06L40",
+      "name": "vaultcraft",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06L41",
+      "name": "Medical Visual Assistant",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06L42",
+      "name": "ĐỌC Y VĂN",
+      "status": "要再確認",
+      "match": false
+    },
+    {
+      "row_id": "p06L43",
+      "name": "FocusPlay Worksheets",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06L44",
+      "name": "Sander Saar Videos",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06L45",
+      "name": "2hongo",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06L46",
+      "name": "HỌC NHI",
+      "status": "要再確認",
+      "match": false
+    },
+    {
+      "row_id": "p06R01",
+      "name": "Five-Minute Math",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06R02",
+      "name": "HL Business Advisor",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06R03",
+      "name": "The Archivist",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06R04",
+      "name": "Translator Pro",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06R05",
+      "name": "uNotes",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06R06",
+      "name": "Creative Educator",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06R07",
+      "name": "Smarty PANCE",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06R08",
+      "name": "Verity",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06R09",
+      "name": "AnyLawyer",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06R10",
+      "name": "Record",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06R11",
+      "name": "HanyuGuide",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06R12",
+      "name": "Trợ lý tiếng Việt",
+      "status": "要再確認",
+      "match": false
+    },
+    {
+      "row_id": "p06R13",
+      "name": "Citation Checker",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06R14",
+      "name": "Juriv'IA",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06R15",
+      "name": "PolyMind Chess",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06R16",
+      "name": "Gradics",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06R17",
+      "name": "Study Plan Builder",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06R18",
+      "name": "Muslim Expert",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06R19",
+      "name": "LNW Biblical Companion",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06R20",
+      "name": "PhysioAI",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06R21",
+      "name": "CAT Assistant",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06R22",
+      "name": "ScormStack",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06R23",
+      "name": "Rare Disease Assistant",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06R24",
+      "name": "OxbridgeAI TMUA and ESAT",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06R25",
+      "name": "Paceword Speed Reader",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06R26",
+      "name": "Research Extractor",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06R27",
+      "name": "Chessbrix",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06R28",
+      "name": "Viết Báo Cáo NCKH Y Khoa",
+      "status": "要再確認",
+      "match": false
+    },
+    {
+      "row_id": "p06R29",
+      "name": "Recherche Externe",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06R30",
+      "name": "Let's Church",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06R31",
+      "name": "Luma Assist",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06R32",
+      "name": "Parkinson's Pathways",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06R33",
+      "name": "Game Theory Learning Designer",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06R34",
+      "name": "HỌC EBM",
+      "status": "要再確認",
+      "match": false
+    },
+    {
+      "row_id": "p06R35",
+      "name": "EBM Systematic Review Guide",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06R36",
+      "name": "UK Home Education Reports",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06R37",
+      "name": "Chat Korean",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06R38",
+      "name": "Rotate Pilot",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06R39",
+      "name": "Informática 2000 | Novedades",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06R40",
+      "name": "Vocabulary-Rich Task Creator",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06R41",
+      "name": "Medical Lab Support",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06R42",
+      "name": "Grammaropolis for Teachers",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06R43",
+      "name": "Classroom Behavior Helper",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06R44",
+      "name": "Healthcare Mgmt Assistant",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06R45",
+      "name": "GMAS Practice Builder",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06R46",
+      "name": "DeepMedChem",
+      "status": "要再確認",
+      "match": false
+    }
+  ]
+}
