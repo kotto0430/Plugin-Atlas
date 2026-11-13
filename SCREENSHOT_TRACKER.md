@@ -159,3 +159,9 @@
 受領した2ページの左右列を原画像・OCRで確認。各列の表示名は1ページ左43・右43、2ページ左41・右40の計167枠、表示名の重複を除くと166種類。作業ブランチ148件との名称一致7種類、不一致159種類を一覧に追加し307件。名称一致はアプリの同一性の保証ではない。2ページで `Realtor Reply Email Drafts` が左右に表示されるため両方を記録し、表示名では1件にまとめた（公式IDは未確認）。
 
 [掲載行CSV](inventory/B005_communication/rows.csv)・[照合JSON](inventory/B005_communication/inventory.json)・[名前画像](inventory/B005_communication/evidence/)・[OCR原文](inventory/B005_communication/extraction_raw.json)。追加IDはサイト内の仮識別子。画面の名前のみを登録し、個別の機能や公式IDは推測していない。本番への反映は別工程。
+
+## B006 クリエイティブPDF（2026-11-13）
+
+画像型PDF8ページの左右を確認し、OCR 674行を記録。判読を保留した3行を除き、確定候補を名称単位で既存一覧と比較した。既存名称一致11種類、追加651名称、作業ブランチ一覧958名称。行数と新規名称数は異なる。同名表示の同一性、公式ID、機能は未確認。ページ境界の一部は文字が切れる可能性があり、原画像の再確認が必要。
+
+[行別CSV](inventory/B006_creative/rows.csv)・[照合JSON](inventory/B006_creative/inventory.json)・[画像](inventory/B006_creative/evidence/)・[OCR原文](inventory/B006_creative/extraction_raw.json)。`atlas-pdf-` はサイト内仮ID。本番サイトへは未反映。
