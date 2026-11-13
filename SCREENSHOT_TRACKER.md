@@ -271,3 +271,10 @@ Chromeの科学研究一覧をホイールで `Oliver's mTOR Atlas`・`Biosimula
 ### データと分析 Chrome一覧（2026-11-13、途中）
 
 Chromeのデータと分析を開き、読み上げ情報のインストールボタンから[先頭285行](inventory/data_analytics_chrome/chrome_partial_names_2026-11-13.json)を保存。出力は20000文字で途中切れであり、インストール済みや別種のボタンは含まれない。その先を画面を重ねてスクロールし[目視01](inventory/data_analytics_chrome/chrome_scroll_01_2026-11-13.json) 103行、[目視02](inventory/data_analytics_chrome/chrome_scroll_02_2026-11-13.json) 80行を保存。index 3932件（blob `fd13ece4009fcf170733daf819bb2e7424328a60`）との大文字小文字を区別しない名前比較では、先頭285行の16行が一致、目視183行はすべて不一致。名前の一致は同一性の確定ではなく、不一致を新規件数とはしない。目視転記誤り・重複・先頭の別種のボタンの漏れは未検証。画面位置は `AdBeacon`・`Otter` 付近、下は未確認。引き続きその位置から重ねてスクロールする。候補は一覧本体に未追加。main・本番未変更。
+
+
+### データと分析 Chromeスクロール末尾（2026-11-13）
+
+`AdBeacon`・`Otter` 付近から続けて[目視03](inventory/data_analytics_chrome/chrome_scroll_03_2026-11-13.json) 96行（一致1・不一致95）、[目視04](inventory/data_analytics_chrome/chrome_scroll_04_2026-11-13.json) 102行（一致1・不一致101）、[目視05](inventory/data_analytics_chrome/chrome_scroll_05_2026-11-13.json) 74行（一致0・不一致74）を保存。同じ3932件のindex blobとの大文字小文字を区別しない名前比較。名前の不一致は新規アプリ数ではない。目視転記の誤り・重複、先頭の読み上げ抽出から漏れた表示、テンプレート等の確認は未完了。`CareJobs.Now` の右隣のアラビア語を含む名称は判読保留。
+
+スクロール途中で追加読み込みを確認し、末尾のテンプレート `Sigma` まで到達。待機後に複数回下へスクロールしても位置と表示が変わらないことを確認した。これは閲覧時点の画面末尾であり、全表示の完全な転記や永続的な全件数を保証しない。候補は一覧本体に未追加。main・本番は変更していない。
