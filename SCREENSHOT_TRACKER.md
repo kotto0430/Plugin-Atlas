@@ -287,3 +287,10 @@ Chromeのデータと分析を開き、読み上げ情報のインストール�
 アクセシビリティ出力が途中で切れたため、以後は画面を見て表示名を転記した。[目視01](inventory/other_chrome/chrome_visual_01_2026-11-13.json) 108行、[02](inventory/other_chrome/chrome_visual_02_2026-11-13.json) 96行、[03](inventory/other_chrome/chrome_visual_03_2026-11-13.json) 94行、計298行は同じ一覧との表示名比較で全行不一致。表示名が同じ `Draft dashapi-publish-version` は複数枠を記録しており、同一性は未確認。Tailor.ai の右隣のヘブライ語名と末尾の省略表示 `ZAMA 中古バイク買取・原付買取・スクーター出張…` は判読保留。目視転記の誤記、リンク抽出からの漏れや重複、各項目の同一性・機能は未検証。名前の不一致は新規件数ではない。候補はindex本体に未追加。
 
 末尾の `Rozetka: інтернет гіпермаркет` と省略表示されたZAMAの行を表示し、待機後も複数回下へスクロールして位置や表示が変化しないことを確認。これは閲覧時点の画面末尾の観測で、全表示を完全に記録した保証や将来の全件数ではない。main・本番未変更。
+
+
+### B012 教育 Chromeスクロール確認（2026-11-14、途中）
+
+教育一覧を開き、読み上げのインストールボタンから[先頭側276行](inventory/B012_education/chrome_partial_names_2026-11-14.json)を取得。出力は途中で切れ、インストール済み・別種のボタンの項目は漏れる可能性がある。続きは表示を重ねてスクロールし、[目視01](inventory/B012_education/chrome_visual_01_2026-11-14.json) 98行、[02](inventory/B012_education/chrome_visual_02_2026-11-14.json) 112行、[03](inventory/B012_education/chrome_visual_03_2026-11-14.json) 82行、[04](inventory/B012_education/chrome_visual_04_2026-11-14.json) 90行、[05](inventory/B012_education/chrome_visual_05_2026-11-14.json) 98行、[06](inventory/B012_education/chrome_visual_06_2026-11-14.json) 94行、[07](inventory/B012_education/chrome_visual_07_2026-11-14.json) 29行を保存。合計879行。3932件のindex blob `fd13ece4009fcf170733daf819bb2e7424328a60` に対する大文字小文字を区別しない名前比較は658行一致・221行不一致。行の重複、目視転記誤り、異表記、同名項目の同一性は未確認。名前不一致は新規アプリ数ではない。目視02には `Clarity` の2枠を両方記録した。教育PDFに記録された範囲より下にも多くの項目が続くことを確認し、候補は一覧本体には未追加。
+
+表示省略のちゃんべん2枠と、アラビア語を含む名称など少なくとも3枠は判読保留。スクロール中の画面取得が `FrameArrived timed out: timed out waiting on channel` となり、Chromeの対象ウィンドウを再選択して再取得しても同じタイムアウトで中断。最後に確認した画面は `GreyScienx`・`chatPTA｜PTA実務・運営支援` から `Say Daily`・`LangLearn` 付近。中断したスクロールの成否は不明のため、再開時はこの位置から重ねて続ける。画面末尾は未確認。mainと本番は変更していない。
