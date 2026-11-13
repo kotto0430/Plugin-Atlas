@@ -1,0 +1,310 @@
+{
+  "source": "Chrome ChatGPT データと分析",
+  "date": "2026-11-13",
+  "method": "画面を重ねてスクロールし表示名を目視転記。転記ミスや重複の可能性あり。",
+  "notes": "CareJobs.Now の右側のアラビア語を含む名前は判読に自信がないため未転記。末尾 Sigma まで到達し、待機後もスクロール位置が変わらないことを確認。",
+  "catalog_blob": "fd13ece4009fcf170733daf819bb2e7424328a60",
+  "counts": {
+    "rows": 74,
+    "matched": 0,
+    "unmatched": 74
+  },
+  "rows": [
+    {
+      "name": "Microstat",
+      "matched": false
+    },
+    {
+      "name": "Verso",
+      "matched": false
+    },
+    {
+      "name": "Earlflow",
+      "matched": false
+    },
+    {
+      "name": "Daily Command",
+      "matched": false
+    },
+    {
+      "name": "OpenChase",
+      "matched": false
+    },
+    {
+      "name": "Glasser Competitor Research",
+      "matched": false
+    },
+    {
+      "name": "CareJobs.Now",
+      "matched": false
+    },
+    {
+      "name": "Fospha [North & South America]",
+      "matched": false
+    },
+    {
+      "name": "ConstruChain Vision",
+      "matched": false
+    },
+    {
+      "name": "Cituna",
+      "matched": false
+    },
+    {
+      "name": "Bullseye",
+      "matched": false
+    },
+    {
+      "name": "Levels.fyi",
+      "matched": false
+    },
+    {
+      "name": "Survicate",
+      "matched": false
+    },
+    {
+      "name": "Hardal",
+      "matched": false
+    },
+    {
+      "name": "Refix",
+      "matched": false
+    },
+    {
+      "name": "Espresso AI",
+      "matched": false
+    },
+    {
+      "name": "WatchCharts",
+      "matched": false
+    },
+    {
+      "name": "SurFox AI",
+      "matched": false
+    },
+    {
+      "name": "Margyn: Profit & Ad Analytics",
+      "matched": false
+    },
+    {
+      "name": "Adzviser Merchant Center",
+      "matched": false
+    },
+    {
+      "name": "Nimbata",
+      "matched": false
+    },
+    {
+      "name": "TalkToData Ad Insights",
+      "matched": false
+    },
+    {
+      "name": "DrillSense",
+      "matched": false
+    },
+    {
+      "name": "Adlane",
+      "matched": false
+    },
+    {
+      "name": "MentionedOn",
+      "matched": false
+    },
+    {
+      "name": "The Expected Value",
+      "matched": false
+    },
+    {
+      "name": "Measure Studio",
+      "matched": false
+    },
+    {
+      "name": "Collibra",
+      "matched": false
+    },
+    {
+      "name": "Querypanel",
+      "matched": false
+    },
+    {
+      "name": "Rawbbit.one Game Event Tracker",
+      "matched": false
+    },
+    {
+      "name": "TextQL",
+      "matched": false
+    },
+    {
+      "name": "Trackberry",
+      "matched": false
+    },
+    {
+      "name": "social.plus Agentry",
+      "matched": false
+    },
+    {
+      "name": "HOT AI搜車",
+      "matched": false
+    },
+    {
+      "name": "Rankfor Answer Trail",
+      "matched": false
+    },
+    {
+      "name": "Arketa",
+      "matched": false
+    },
+    {
+      "name": "Mapped",
+      "matched": false
+    },
+    {
+      "name": "Easy App Reports",
+      "matched": false
+    },
+    {
+      "name": "DSIR GHE Health Estimates",
+      "matched": false
+    },
+    {
+      "name": "Kolena",
+      "matched": false
+    },
+    {
+      "name": "Assetfy",
+      "matched": false
+    },
+    {
+      "name": "Webeyez Analytics",
+      "matched": false
+    },
+    {
+      "name": "Circuitry",
+      "matched": false
+    },
+    {
+      "name": "Social Index",
+      "matched": false
+    },
+    {
+      "name": "Orion",
+      "matched": false
+    },
+    {
+      "name": "YPulse Insights",
+      "matched": false
+    },
+    {
+      "name": "MoSPI",
+      "matched": false
+    },
+    {
+      "name": "ArgAutos",
+      "matched": false
+    },
+    {
+      "name": "EverBee Research",
+      "matched": false
+    },
+    {
+      "name": "Occam Edge",
+      "matched": false
+    },
+    {
+      "name": "Leap by Enerdatics",
+      "matched": false
+    },
+    {
+      "name": "TalkToData Search Console",
+      "matched": false
+    },
+    {
+      "name": "Orgvue US",
+      "matched": false
+    },
+    {
+      "name": "Instinct MSP Intelligence",
+      "matched": false
+    },
+    {
+      "name": "DataHub Cloud",
+      "matched": false
+    },
+    {
+      "name": "Buzzabout",
+      "matched": false
+    },
+    {
+      "name": "Maktkartan",
+      "matched": false
+    },
+    {
+      "name": "Riley",
+      "matched": false
+    },
+    {
+      "name": "Product Hunt",
+      "matched": false
+    },
+    {
+      "name": "Landosaur",
+      "matched": false
+    },
+    {
+      "name": "Average Rent",
+      "matched": false
+    },
+    {
+      "name": "Vibewatch",
+      "matched": false
+    },
+    {
+      "name": "ラッコキーワード",
+      "matched": false
+    },
+    {
+      "name": "conclusia",
+      "matched": false
+    },
+    {
+      "name": "Orgvue AP",
+      "matched": false
+    },
+    {
+      "name": "Personyze",
+      "matched": false
+    },
+    {
+      "name": "[cafeteria]",
+      "matched": false
+    },
+    {
+      "name": "IPinfo",
+      "matched": false
+    },
+    {
+      "name": "Olympus by Old Bones",
+      "matched": false
+    },
+    {
+      "name": "PingAura",
+      "matched": false
+    },
+    {
+      "name": "clema.ai",
+      "matched": false
+    },
+    {
+      "name": "Flowsery",
+      "matched": false
+    },
+    {
+      "name": "Pineprompt",
+      "matched": false
+    },
+    {
+      "name": "Sigma",
+      "matched": false
+    }
+  ]
+}
