@@ -277,8 +277,10 @@
     {
       "row_id": "p03L46",
       "name": "Lattice",
-      "status": "要再確認",
-      "match": false
+      "status": "画像再確認済み",
+      "match": false,
+      "review_note": "原本の拡大画像で表示名を確認",
+      "catalog_id": "atlas-pdf-business-p03l46"
     },
     {
       "row_id": "p03R01",
@@ -553,8 +555,10 @@
     {
       "row_id": "p03R46",
       "name": "AuthorityPrompt GPT",
-      "status": "要再確認",
-      "match": false
+      "status": "画像再確認済み",
+      "match": false,
+      "review_note": "原本の拡大画像で表示名を確認",
+      "catalog_id": "atlas-pdf-business-p03r46"
     }
   ]
 }
