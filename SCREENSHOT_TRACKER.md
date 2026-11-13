@@ -153,3 +153,9 @@
 `人気.pdf` 49枠、新着・注目.pdf 22枠、中小企業.pdf 16枠、計87枠を画像で確認。作業ブランチの134件と表示名を照合し、名称不一致の14件を `index.html` に追加した（作業ブランチ148件）。説明はPDFの表示文を使用。`atlas-pdf-` で始まるIDはサイト内の仮識別子であり公式プラグインIDではない。名称が一致する場合も同一性を保証しない。
 
 追加: Adobe、ElevenLabs、Sonos、Magnific、Stack Overflow for Agents、Hevy、tldraw、Coda、Wrike、Gusto、ClickUp、HoneyBook、Mercury、PayPal。[行ごとの照合JSON](inventory/B004_2026-11-13.json)・[CSV](inventory/B004_2026-11-13.csv)。新着・注目と中小企業の各カテゴリはB002と再照合し、今回のPDF全行をB004に記録。人気PDFにはB001の Browser・Binance は表示されていないが、既存記録は維持。`Remote Desktop Commander` と `Interactive Brokers (IBKR)` は今回のPDFで省略のない表示を確認。
+
+## B005 コミュニケーションPDF（2026-11-13）
+
+受領した2ページの左右列を原画像・OCRで確認。各列の表示名は1ページ左43・右43、2ページ左41・右40の計167枠、表示名の重複を除くと166種類。作業ブランチ148件との名称一致7種類、不一致159種類を一覧に追加し307件。名称一致はアプリの同一性の保証ではない。2ページで `Realtor Reply Email Drafts` が左右に表示されるため両方を記録し、表示名では1件にまとめた（公式IDは未確認）。
+
+[掲載行CSV](inventory/B005_communication/rows.csv)・[照合JSON](inventory/B005_communication/inventory.json)・[名前画像](inventory/B005_communication/evidence/)・[OCR原文](inventory/B005_communication/extraction_raw.json)。追加IDはサイト内の仮識別子。画面の名前のみを登録し、個別の機能や公式IDは推測していない。本番への反映は別工程。
