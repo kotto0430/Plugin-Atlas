@@ -277,8 +277,10 @@
     {
       "row_id": "p05L46",
       "name": "20Tabs",
-      "status": "要再確認",
-      "match": false
+      "status": "画像再確認済み",
+      "match": false,
+      "review_note": "原本の拡大画像で表示名を確認",
+      "catalog_id": "atlas-pdf-business-p05l46"
     },
     {
       "row_id": "p05R01",
@@ -547,8 +549,10 @@
     {
       "row_id": "p05R45",
       "name": "Gleap",
-      "status": "要再確認",
-      "match": false
+      "status": "画像再確認済み",
+      "match": false,
+      "review_note": "原本の拡大画像で表示名を確認",
+      "catalog_id": "atlas-pdf-business-p05r45"
     }
   ]
 }
