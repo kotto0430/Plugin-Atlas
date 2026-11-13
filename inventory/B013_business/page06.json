@@ -411,8 +411,10 @@
     {
       "row_id": "p06R22",
       "name": "AIsa GTM",
-      "status": "要再確認",
-      "match": false
+      "status": "画面再確認済み",
+      "match": false,
+      "review_note": "ChatGPT一覧の表示文字列とPDF上の説明文が一致",
+      "catalog_id": "atlas-pdf-business-p06r22"
     },
     {
       "row_id": "p06R23",
