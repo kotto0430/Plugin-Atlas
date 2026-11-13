@@ -1,0 +1,533 @@
+{
+  "source": "Chrome ChatGPT その他",
+  "date": "2026-11-13",
+  "method": "カテゴリー一覧を重ねてスクロールし、読み込まれたリンクのアクセシビリティ名とURLを取得。リンク単位で重複除去。表示上の漏れや同一性は未検証。",
+  "catalog_blob": "fd13ece4009fcf170733daf819bb2e7424328a60",
+  "counts": {
+    "rows": 104,
+    "matched": 1,
+    "unmatched": 103
+  },
+  "rows": [
+    {
+      "name": "LinkedIn",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_69949aa62bf48191be5e57a01202beca?category=other",
+      "matched": false
+    },
+    {
+      "name": "Kleinanzeigen",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_694a63a053f081918b9a3738bd3640c9?category=other",
+      "matched": false
+    },
+    {
+      "name": "Etsy",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_69dfa26ad60081919fb9e3a1a50e3e53?category=other",
+      "matched": false
+    },
+    {
+      "name": "Ask Tarot Cards",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_69fde861d3988191a7157df33544f855?category=other",
+      "matched": false
+    },
+    {
+      "name": "Astrologic",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_6944733e4ddc8191bd617f781ff93d51?category=other",
+      "matched": false
+    },
+    {
+      "name": "Homey",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_6946bbc90ca4819188f817f992348b98?category=other",
+      "matched": false
+    },
+    {
+      "name": "Zen Shopping",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_6944c4eec37c8191839ab9eafaa2f1f4?category=other",
+      "matched": false
+    },
+    {
+      "name": "True Sky",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_69490a4a06148191a0dd78606a3dbf1f?category=other",
+      "matched": false
+    },
+    {
+      "name": "idealista",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_6996f481ed0c8191852f9c34c6a97d44?category=other",
+      "matched": false
+    },
+    {
+      "name": "The Astro Scope Horoscope",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_69f8e6b3abf08191931ed329fda8a980?category=other",
+      "matched": false
+    },
+    {
+      "name": "TriAstra Astrology & Saju",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_699eac35bfd481919778eb627e41f5e1?category=other",
+      "matched": false
+    },
+    {
+      "name": "Shop",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_6982cfb482bc81918416ec35e7cc90e5?category=other",
+      "matched": true
+    },
+    {
+      "name": "The Astro Scope Tarot Reading",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_69ce71df7f3481919c8ccbe6b831d40a?category=other",
+      "matched": false
+    },
+    {
+      "name": "Astrologer Jyai",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_6988b506fc1481919e582261062d77e4?category=other",
+      "matched": false
+    },
+    {
+      "name": "AutoScout24",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_69442d964bd08191a7958aabc6e34394?category=other",
+      "matched": false
+    },
+    {
+      "name": "Nuvemshop",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_6a2ae47de5e08191962381231866870a?category=other",
+      "matched": false
+    },
+    {
+      "name": "PandaFind",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_6a0f5ffd83d48191804db94fab92add0?category=other",
+      "matched": false
+    },
+    {
+      "name": "12andus Astrology",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_695c995d2b308191844e041c5c06e292?category=other",
+      "matched": false
+    },
+    {
+      "name": "TiendaNube",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_6a1de605376c8191a4eddafe1866159f?category=other",
+      "matched": false
+    },
+    {
+      "name": "Channel3 Shopping",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_6a75ed6249248191a24de4fd945c8dbc?category=other",
+      "matched": false
+    },
+    {
+      "name": "Letra da Lei",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_6a340f7357f081918671d8cac7544365?category=other",
+      "matched": false
+    },
+    {
+      "name": "Liftosaur",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_6a5bb283d24481918813e6efbc3d66ad?category=other",
+      "matched": false
+    },
+    {
+      "name": "Autotrader",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_69e20b3fd240819196cf290041542225?category=other",
+      "matched": false
+    },
+    {
+      "name": "All your Horoscopes",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_6985e37c6b5881919f369288a930e9c7?category=other",
+      "matched": false
+    },
+    {
+      "name": "The Astro Scope Destiny Matrix",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_6a60f5382c848191bc438d738d5d4026?category=other",
+      "matched": false
+    },
+    {
+      "name": "realestate.com.au",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_6943a66cd50881918bee527e5fbdcde3?category=other",
+      "matched": false
+    },
+    {
+      "name": "Luma",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_6a82e719c090819198c38d465cf13874?category=other",
+      "matched": false
+    },
+    {
+      "name": "A-Z Holy Bible",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_69985bb469908191a8abda024bb692cb?category=other",
+      "matched": false
+    },
+    {
+      "name": "Redfin",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_69446e62b0448191925a9c3398500f72?category=other",
+      "matched": false
+    },
+    {
+      "name": "Outfit Lens",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_69a0eba51b5c81918c4a9f8973869153?category=other",
+      "matched": false
+    },
+    {
+      "name": "Fotocasa",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_69b40837c4148191b5a5ed913835f5ac?category=other",
+      "matched": false
+    },
+    {
+      "name": "Print.com",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_6a7f07c5917881919fdfd03997469c43?category=other",
+      "matched": false
+    },
+    {
+      "name": "Appy Coupons - deals+discounts",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_69ba9160ecb48191bab3f67e9b56ef34?category=other",
+      "matched": false
+    },
+    {
+      "name": "Tomorrow.io Weather",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_694d197c90948191a51098efce20c259?category=other",
+      "matched": false
+    },
+    {
+      "name": "Internshala",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_695f41bcf9c48191936f395f1be1ee08?category=other",
+      "matched": false
+    },
+    {
+      "name": "Minty AI Cashback & Coupons",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_697370f80b8081919f024b93e49a8ab2?category=other",
+      "matched": false
+    },
+    {
+      "name": "AI Endurance",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_69456fbb59d081918bcb148a12380f92?category=other",
+      "matched": false
+    },
+    {
+      "name": "QuintoAndar",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_6967a44d66348191b91c9bf4e417794e?category=other",
+      "matched": false
+    },
+    {
+      "name": "Milanuncios",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_69ccbb3ffc248191a85d54f948607406?category=other",
+      "matched": false
+    },
+    {
+      "name": "Open Ephemeris",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_6a9c2787bc48819197698e71b29ef7c2?category=other",
+      "matched": false
+    },
+    {
+      "name": "OTOMOTO",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_698c54e054c08191b7980a9a1e126157?category=other",
+      "matched": false
+    },
+    {
+      "name": "AutoTrader",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_694426f4c978819186fffa16b4fab82a?category=other",
+      "matched": false
+    },
+    {
+      "name": "Airtasker",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_6a218c0242c48191a2a249e4d8342d46?category=other",
+      "matched": false
+    },
+    {
+      "name": "1-2-3-Cook+Bake Food to eat!",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_69c3ec0db7fc81918cc29e50d3c57643?category=other",
+      "matched": false
+    },
+    {
+      "name": "Systembolaget",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_69ccd8330a608191b0bcd015d6b8f973?category=other",
+      "matched": false
+    },
+    {
+      "name": "Barfoot & Thompson Homes",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_69e15c831ffc8191b4693705cb7aa7fc?category=other",
+      "matched": false
+    },
+    {
+      "name": "REMAX Turkiye",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_6a8d35609a748191a4c10bd428d1836b?category=other",
+      "matched": false
+    },
+    {
+      "name": "Workopia",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_69d48d1113e88191954bf235f0a87a89?category=other",
+      "matched": false
+    },
+    {
+      "name": "Tessie",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_6a06af11448c819197403537fadb90c1?category=other",
+      "matched": false
+    },
+    {
+      "name": "Real Random",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_6985a21b1db081918cdf76468346349a?category=other",
+      "matched": false
+    },
+    {
+      "name": "Swiggy Food",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_6a3de8146ae4819186b6799a5d907074?category=other",
+      "matched": false
+    },
+    {
+      "name": "hepsiemlak",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_6981e59048848191be52e8fa2c36ca60?category=other",
+      "matched": false
+    },
+    {
+      "name": "Deglaze",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_69fcadaf68148191a21542f48091d67b?category=other",
+      "matched": false
+    },
+    {
+      "name": "Newsify",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_699ec01259e48191bc0981a4b7917026?category=other",
+      "matched": false
+    },
+    {
+      "name": "Immobiliare.it",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_69dcbe3a6f308191a189f62097c977c9?category=other",
+      "matched": false
+    },
+    {
+      "name": "Meetup",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_6943e63ae0b4819185d8d108167e98cd?category=other",
+      "matched": false
+    },
+    {
+      "name": "Break The Web News",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_6944d44bc4f08191a593d2cb964e5dae?category=other",
+      "matched": false
+    },
+    {
+      "name": "Promocodes.com",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_69a5df2a72d48191b607f926c389d948?category=other",
+      "matched": false
+    },
+    {
+      "name": "onX Offroad",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_69d7fc1e77988191aec4891b19d96da2?category=other",
+      "matched": false
+    },
+    {
+      "name": "Cora",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_6a481c9adf108191a38a7f8c1a2d7af2?category=other",
+      "matched": false
+    },
+    {
+      "name": "coches.net",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_69c6947c4908819198cea999b8c20761?category=other",
+      "matched": false
+    },
+    {
+      "name": "Cashback Hive: Deals & Coupons",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_69b5cc9fcc48819184707cee3eded7b4?category=other",
+      "matched": false
+    },
+    {
+      "name": "Figaro Immobilier",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_69c2bebd2a8481919951962d1c7209a9?category=other",
+      "matched": false
+    },
+    {
+      "name": "Bandsintown",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_69a751a2cb848191818f5ba7c3570bf8?category=other",
+      "matched": false
+    },
+    {
+      "name": "Liftin'",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_6a61adae381c8191bb830d69d674c522?category=other",
+      "matched": false
+    },
+    {
+      "name": "Immobilien immoprofessional",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_6a20232ebb58819192ed31f53977422a?category=other",
+      "matched": false
+    },
+    {
+      "name": "Bayut",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_694924fe5c1881919adf68da467511c1?category=other",
+      "matched": false
+    },
+    {
+      "name": "OLX India",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_69fc29a6b7f481919049274f924ddece?category=other",
+      "matched": false
+    },
+    {
+      "name": "Belk",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_6a50f3db58fc819188c9886ac74b43fb?category=other",
+      "matched": false
+    },
+    {
+      "name": "La Centrale",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_695256821cb4819198a87219d61351d2?category=other",
+      "matched": false
+    },
+    {
+      "name": "Imovirtual",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_6981e6ceb0c48191868bff15712b2348?category=other",
+      "matched": false
+    },
+    {
+      "name": "Secondhand Marketplace",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_698bdafd6d748191ba5d0c2a98a7a307?category=other",
+      "matched": false
+    },
+    {
+      "name": "DoneDeal",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_69441e180ab08191bfa67c85bdd424c6?category=other",
+      "matched": false
+    },
+    {
+      "name": "Haaretz",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_69edff348084819194ce1b72b0cce735?category=other",
+      "matched": false
+    },
+    {
+      "name": "gethumandesign.com",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_69cf88a4c838819191d5d95dc3120191?category=other",
+      "matched": false
+    },
+    {
+      "name": "Shipal",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_69f52db368a881919443d6b1c0e1735d?category=other",
+      "matched": false
+    },
+    {
+      "name": "CARS24",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_6960ed8bd9508191bcc2297e0210d3ec?category=other",
+      "matched": false
+    },
+    {
+      "name": "Peristyle Grocery Cart",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_6a49382adf148191b86d3a83ad0c3d8b?category=other",
+      "matched": false
+    },
+    {
+      "name": "Emlakjet",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_696a2c4321188191a92cb65fbc2e4943?category=other",
+      "matched": false
+    },
+    {
+      "name": "MyRegistry.com",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_69c1b82faf2c81919e80900a7443dcfd?category=other",
+      "matched": false
+    },
+    {
+      "name": "Standvirtual",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_69c2b84775a88191be24591433fbfd30?category=other",
+      "matched": false
+    },
+    {
+      "name": "0-100 WiFi Internet Speed Test",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_6963c1dcd0308191aa3857d94c4cb909?category=other",
+      "matched": false
+    },
+    {
+      "name": "Lifestyle Helper",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_69f34c257e348191837391add40db13f?category=other",
+      "matched": false
+    },
+    {
+      "name": "Spee24 Shopping",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_6a3063973c708191b47aa3b3ebc495d0?category=other",
+      "matched": false
+    },
+    {
+      "name": "3-2-1 Go Stopwatch",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_6963ccfca5008191a5190d17f0cce5a4?category=other",
+      "matched": false
+    },
+    {
+      "name": "Unni",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_6a222b08034c8191971de848048156c5?category=other",
+      "matched": false
+    },
+    {
+      "name": "Fryd",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_6a01dc64b8148191b322e0f5dc9d4641?category=other",
+      "matched": false
+    },
+    {
+      "name": "Boulanger - Achat en ligne",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_6a2ff4164ec4819191f77cc281cbc5a2?category=other",
+      "matched": false
+    },
+    {
+      "name": "Daft.ie",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_6995ca8f0dcc8191a57296a352c22ed2?category=other",
+      "matched": false
+    },
+    {
+      "name": "motos.net",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_69e20acaf7c48191a19ae9baeec8f38f?category=other",
+      "matched": false
+    },
+    {
+      "name": "Fresha",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_6a2030e52eb88191ad6a81fca66bed46?category=other",
+      "matched": false
+    },
+    {
+      "name": "ShopBack",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_6984364a642c8191875c8f5523d9e54a?category=other",
+      "matched": false
+    },
+    {
+      "name": "Gumtree",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_6a228e2eb94881918fc00539402e0758?category=other",
+      "matched": false
+    },
+    {
+      "name": "Avito.ma",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_69b75fd4d648819197eb031e0662707e?category=other",
+      "matched": false
+    },
+    {
+      "name": "The Astro Scope Birth Arcana",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_6a7f06570cb48191b768d4bbaab3b710?category=other",
+      "matched": false
+    },
+    {
+      "name": "Engel & Völkers",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_6a29247dd3fc8191aa56c8363bdfa2d4?category=other",
+      "matched": false
+    },
+    {
+      "name": "BuyWise",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_69ef477faf648191be6872320e9ba0b9?category=other",
+      "matched": false
+    },
+    {
+      "name": "Pricey- monitor+history+alerts",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_6978cefe33448191ac463fdda027ba08?category=other",
+      "matched": false
+    },
+    {
+      "name": "Zinde AI Free Calorie Tracker",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_6a28188ff0308191abc0698e30c5d273?category=other",
+      "matched": false
+    },
+    {
+      "name": "ClickDealer",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_6a295a19524c8191851041064e00e3c7?category=other",
+      "matched": false
+    },
+    {
+      "name": "Loft",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_69bda0ecbc0881919d6fddb830721187?category=other",
+      "matched": false
+    },
+    {
+      "name": "Love and Lemons",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_69dea4beafec8191ad87857bd871499a?category=other",
+      "matched": false
+    },
+    {
+      "name": "Journaling with Medome",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_6a3316f2001881919b8525d622428229?category=other",
+      "matched": false
+    },
+    {
+      "name": "ChefJoJo",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_69cd67a432948191b2935d0b5ecc2bbe?category=other",
+      "matched": false
+    }
+  ]
+}
