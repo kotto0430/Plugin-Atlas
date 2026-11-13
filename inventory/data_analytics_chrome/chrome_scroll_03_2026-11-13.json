@@ -1,0 +1,397 @@
+{
+  "source": "Chrome ChatGPT データと分析",
+  "date": "2026-11-13",
+  "method": "画面を重ねてスクロールし表示名を目視転記。転記ミスや重複の可能性あり。",
+  "catalog_blob": "fd13ece4009fcf170733daf819bb2e7424328a60",
+  "counts": {
+    "rows": 96,
+    "matched": 1,
+    "unmatched": 95
+  },
+  "rows": [
+    {
+      "name": "Prophecy DataGPT",
+      "matched": false
+    },
+    {
+      "name": "LogRocket",
+      "matched": false
+    },
+    {
+      "name": "Get AI Cited",
+      "matched": false
+    },
+    {
+      "name": "GovBot County Hazards",
+      "matched": false
+    },
+    {
+      "name": "GovBot Mitigation Plans",
+      "matched": false
+    },
+    {
+      "name": "Black SEO Analyzer",
+      "matched": false
+    },
+    {
+      "name": "StayCharted AI Model Trainer",
+      "matched": false
+    },
+    {
+      "name": "Deltabase",
+      "matched": false
+    },
+    {
+      "name": "Appier Ad Cloud Portal",
+      "matched": false
+    },
+    {
+      "name": "DataCEVA US Layoff Notices",
+      "matched": false
+    },
+    {
+      "name": "Rill",
+      "matched": false
+    },
+    {
+      "name": "AIImport.AR",
+      "matched": false
+    },
+    {
+      "name": "AnySchool",
+      "matched": false
+    },
+    {
+      "name": "Dreamdata",
+      "matched": false
+    },
+    {
+      "name": "Sancera",
+      "matched": false
+    },
+    {
+      "name": "Anomaly AI",
+      "matched": false
+    },
+    {
+      "name": "Sequence Training",
+      "matched": false
+    },
+    {
+      "name": "SharksAPI.AI",
+      "matched": false
+    },
+    {
+      "name": "Rival Ads",
+      "matched": false
+    },
+    {
+      "name": "Sentinel Ridge AI Visibility",
+      "matched": false
+    },
+    {
+      "name": "3RD",
+      "matched": false
+    },
+    {
+      "name": "Brandwave",
+      "matched": false
+    },
+    {
+      "name": "DXB Interact",
+      "matched": false
+    },
+    {
+      "name": "Meiku Charts",
+      "matched": false
+    },
+    {
+      "name": "Glasser SEO Audit",
+      "matched": false
+    },
+    {
+      "name": "PharmIQ",
+      "matched": false
+    },
+    {
+      "name": "Dalton",
+      "matched": false
+    },
+    {
+      "name": "Framework",
+      "matched": false
+    },
+    {
+      "name": "GovBot Energy Infrastructure",
+      "matched": false
+    },
+    {
+      "name": "Stora: ASO & Apple Ads",
+      "matched": false
+    },
+    {
+      "name": "Morning Consult",
+      "matched": false
+    },
+    {
+      "name": "PayHelm",
+      "matched": false
+    },
+    {
+      "name": "V-Kit",
+      "matched": false
+    },
+    {
+      "name": "Wounded Warriors",
+      "matched": false
+    },
+    {
+      "name": "Pilot",
+      "matched": true
+    },
+    {
+      "name": "1stPage",
+      "matched": false
+    },
+    {
+      "name": "aclipp",
+      "matched": false
+    },
+    {
+      "name": "Atmy",
+      "matched": false
+    },
+    {
+      "name": "Product Information API",
+      "matched": false
+    },
+    {
+      "name": "MD Atlas",
+      "matched": false
+    },
+    {
+      "name": "MORVS",
+      "matched": false
+    },
+    {
+      "name": "Rastreador Inteligente",
+      "matched": false
+    },
+    {
+      "name": "AnythingMCP",
+      "matched": false
+    },
+    {
+      "name": "Undercart",
+      "matched": false
+    },
+    {
+      "name": "Waypoint",
+      "matched": false
+    },
+    {
+      "name": "SEO by Builders HQ",
+      "matched": false
+    },
+    {
+      "name": "Epsilo",
+      "matched": false
+    },
+    {
+      "name": "Clarmix",
+      "matched": false
+    },
+    {
+      "name": "Dativue",
+      "matched": false
+    },
+    {
+      "name": "GovBot Soils",
+      "matched": false
+    },
+    {
+      "name": "HoverBot",
+      "matched": false
+    },
+    {
+      "name": "Kipify",
+      "matched": false
+    },
+    {
+      "name": "NerdyData",
+      "matched": false
+    },
+    {
+      "name": "SigRank | SignalAF Analyst",
+      "matched": false
+    },
+    {
+      "name": "Solberg Data Bridge",
+      "matched": false
+    },
+    {
+      "name": "TalkToData Google Analytics",
+      "matched": false
+    },
+    {
+      "name": "Oxford Economics",
+      "matched": false
+    },
+    {
+      "name": "Lumo by HorusBI",
+      "matched": false
+    },
+    {
+      "name": "MemberSpace",
+      "matched": false
+    },
+    {
+      "name": "Spyglass",
+      "matched": false
+    },
+    {
+      "name": "SEO Gets",
+      "matched": false
+    },
+    {
+      "name": "Keytomic",
+      "matched": false
+    },
+    {
+      "name": "Disc Golf Scout",
+      "matched": false
+    },
+    {
+      "name": "HarborRank",
+      "matched": false
+    },
+    {
+      "name": "Marketproof",
+      "matched": false
+    },
+    {
+      "name": "Open Creator Graph",
+      "matched": false
+    },
+    {
+      "name": "TalkToData Webmaster",
+      "matched": false
+    },
+    {
+      "name": "ThoughtLeaders",
+      "matched": false
+    },
+    {
+      "name": "Competiscan",
+      "matched": false
+    },
+    {
+      "name": "FullSession",
+      "matched": false
+    },
+    {
+      "name": "Zovo Spreadsheet Checker",
+      "matched": false
+    },
+    {
+      "name": "Solomon",
+      "matched": false
+    },
+    {
+      "name": "AppTrendKit",
+      "matched": false
+    },
+    {
+      "name": "Adzviser Klaviyo",
+      "matched": false
+    },
+    {
+      "name": "Trends by Country",
+      "matched": false
+    },
+    {
+      "name": "MedTech by 10xAnd",
+      "matched": false
+    },
+    {
+      "name": "Modo Energy",
+      "matched": false
+    },
+    {
+      "name": "MOIRA Majlis",
+      "matched": false
+    },
+    {
+      "name": "Overview - Market Intelligence",
+      "matched": false
+    },
+    {
+      "name": "Refora",
+      "matched": false
+    },
+    {
+      "name": "AppMoney",
+      "matched": false
+    },
+    {
+      "name": "Quest",
+      "matched": false
+    },
+    {
+      "name": "AMZScout",
+      "matched": false
+    },
+    {
+      "name": "Ultimaps Map Maker",
+      "matched": false
+    },
+    {
+      "name": "Compute Screener",
+      "matched": false
+    },
+    {
+      "name": "DC Hub",
+      "matched": false
+    },
+    {
+      "name": "gamepricefeed",
+      "matched": false
+    },
+    {
+      "name": "Octolens",
+      "matched": false
+    },
+    {
+      "name": "TickerMint",
+      "matched": false
+    },
+    {
+      "name": "TrulyAir",
+      "matched": false
+    },
+    {
+      "name": "Global Trade Alert",
+      "matched": false
+    },
+    {
+      "name": "publicdata.au",
+      "matched": false
+    },
+    {
+      "name": "Healthcare Provider Explorer",
+      "matched": false
+    },
+    {
+      "name": "nv.design",
+      "matched": false
+    },
+    {
+      "name": "Nextatlas",
+      "matched": false
+    },
+    {
+      "name": "Adstudio",
+      "matched": false
+    }
+  ]
+}
