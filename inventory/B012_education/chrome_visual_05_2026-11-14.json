@@ -1,0 +1,405 @@
+{
+  "source": "Chrome ChatGPT 教育",
+  "date": "2026-11-14",
+  "method": "画面を重ねてスクロールし表示名を目視転記。誤記・重複の可能性あり。",
+  "catalog_blob": "fd13ece4009fcf170733daf819bb2e7424328a60",
+  "counts": {
+    "rows": 98,
+    "matched": 3,
+    "unmatched": 95
+  },
+  "rows": [
+    {
+      "name": "Their First Words",
+      "matched": true
+    },
+    {
+      "name": "Praxeum",
+      "matched": false
+    },
+    {
+      "name": "Quant Daily",
+      "matched": false
+    },
+    {
+      "name": "LQT Hexagonal Task Generator",
+      "matched": false
+    },
+    {
+      "name": "PrepSim Exam Practice",
+      "matched": false
+    },
+    {
+      "name": "Chess Coach",
+      "matched": false
+    },
+    {
+      "name": "Treehorn",
+      "matched": false
+    },
+    {
+      "name": "Pocat",
+      "matched": false
+    },
+    {
+      "name": "Servanta",
+      "matched": false
+    },
+    {
+      "name": "Coglen",
+      "matched": false
+    },
+    {
+      "name": "Der erste Notenpunkt",
+      "matched": true
+    },
+    {
+      "name": "Carnet de Padres",
+      "matched": false
+    },
+    {
+      "name": "Ask Zoe – Australian Law",
+      "matched": false
+    },
+    {
+      "name": "ISG3 - Credit Mastery",
+      "matched": false
+    },
+    {
+      "name": "Pakistan Case Law",
+      "matched": false
+    },
+    {
+      "name": "Motley NYC",
+      "matched": false
+    },
+    {
+      "name": "Buzzterms",
+      "matched": false
+    },
+    {
+      "name": "AIYuCha Domain Intelligence",
+      "matched": false
+    },
+    {
+      "name": "Atlas Citation Check",
+      "matched": false
+    },
+    {
+      "name": "PedHeK EBM Info",
+      "matched": false
+    },
+    {
+      "name": "Family Tree & Genealogy",
+      "matched": false
+    },
+    {
+      "name": "Christian Pure",
+      "matched": false
+    },
+    {
+      "name": "Proud Indian",
+      "matched": false
+    },
+    {
+      "name": "SocialNarratives",
+      "matched": false
+    },
+    {
+      "name": "Bid Protest Nexus",
+      "matched": false
+    },
+    {
+      "name": "Cluelabs Content Studio",
+      "matched": false
+    },
+    {
+      "name": "Helium - Student Planner",
+      "matched": false
+    },
+    {
+      "name": "Planit Teachers",
+      "matched": false
+    },
+    {
+      "name": "Audemic",
+      "matched": false
+    },
+    {
+      "name": "Repertorium",
+      "matched": false
+    },
+    {
+      "name": "SentLines",
+      "matched": true
+    },
+    {
+      "name": "Thaqalayn",
+      "matched": false
+    },
+    {
+      "name": "LexAgent",
+      "matched": false
+    },
+    {
+      "name": "SudoStudy",
+      "matched": false
+    },
+    {
+      "name": "Vaivox",
+      "matched": false
+    },
+    {
+      "name": "iusLink",
+      "matched": false
+    },
+    {
+      "name": "Dojo",
+      "matched": false
+    },
+    {
+      "name": "Orienty",
+      "matched": false
+    },
+    {
+      "name": "TuPartidoCorrupto",
+      "matched": false
+    },
+    {
+      "name": "Vocapi",
+      "matched": false
+    },
+    {
+      "name": "Contexta Learning",
+      "matched": false
+    },
+    {
+      "name": "IAJUS - Jurisprudência PT",
+      "matched": false
+    },
+    {
+      "name": "ML1 MIA - Practical Teacher",
+      "matched": false
+    },
+    {
+      "name": "PlugPup Citation Generator",
+      "matched": false
+    },
+    {
+      "name": "RedMo",
+      "matched": false
+    },
+    {
+      "name": "Scratch Helper by CreatiCode",
+      "matched": false
+    },
+    {
+      "name": "User Intuition",
+      "matched": false
+    },
+    {
+      "name": "Tutors.kz",
+      "matched": false
+    },
+    {
+      "name": "ECG Mentor",
+      "matched": false
+    },
+    {
+      "name": "OK JLPT",
+      "matched": false
+    },
+    {
+      "name": "Scento Perfume API",
+      "matched": false
+    },
+    {
+      "name": "EP Votes",
+      "matched": false
+    },
+    {
+      "name": "DharmikStudio",
+      "matched": false
+    },
+    {
+      "name": "SceneLingo",
+      "matched": false
+    },
+    {
+      "name": "Japanese Speaking Coach",
+      "matched": false
+    },
+    {
+      "name": "Lexie",
+      "matched": false
+    },
+    {
+      "name": "Sottaku",
+      "matched": false
+    },
+    {
+      "name": "DivineAI",
+      "matched": false
+    },
+    {
+      "name": "Improve Nutrition",
+      "matched": false
+    },
+    {
+      "name": "Heliciel Propeller Design",
+      "matched": false
+    },
+    {
+      "name": "Karma Jyotisha Vedic Astrology",
+      "matched": false
+    },
+    {
+      "name": "LQT Gradual Release Generator",
+      "matched": false
+    },
+    {
+      "name": "LQT Opener Generator",
+      "matched": false
+    },
+    {
+      "name": "PocketCaddie",
+      "matched": false
+    },
+    {
+      "name": "YAID Certification Coach",
+      "matched": false
+    },
+    {
+      "name": "Irish Legal Assistant",
+      "matched": false
+    },
+    {
+      "name": "Equity Learning Design Agent",
+      "matched": false
+    },
+    {
+      "name": "Alka-Terranean® AI - 2",
+      "matched": false
+    },
+    {
+      "name": "Desire",
+      "matched": false
+    },
+    {
+      "name": "Write into Learning",
+      "matched": false
+    },
+    {
+      "name": "Quantum Law Course Guide",
+      "matched": false
+    },
+    {
+      "name": "Leksio",
+      "matched": false
+    },
+    {
+      "name": "Akadem.ia Sup",
+      "matched": false
+    },
+    {
+      "name": "BestProp.ai",
+      "matched": false
+    },
+    {
+      "name": "CarWhere",
+      "matched": false
+    },
+    {
+      "name": "Causal Mechanism Registry",
+      "matched": false
+    },
+    {
+      "name": "Presentation Maker",
+      "matched": false
+    },
+    {
+      "name": "eMentor",
+      "matched": false
+    },
+    {
+      "name": "LQT CRA Math Generator",
+      "matched": false
+    },
+    {
+      "name": "NightSky.earth",
+      "matched": false
+    },
+    {
+      "name": "Nihontekini",
+      "matched": false
+    },
+    {
+      "name": "Rablabla: DET Practice",
+      "matched": false
+    },
+    {
+      "name": "Zoteus",
+      "matched": false
+    },
+    {
+      "name": "Skinn",
+      "matched": false
+    },
+    {
+      "name": "BecauseAI",
+      "matched": false
+    },
+    {
+      "name": "Doxa",
+      "matched": false
+    },
+    {
+      "name": "uListen AI",
+      "matched": false
+    },
+    {
+      "name": "Akadem.ia",
+      "matched": false
+    },
+    {
+      "name": "RAG Caligráfico/Documentología",
+      "matched": false
+    },
+    {
+      "name": "Dial Atlas",
+      "matched": false
+    },
+    {
+      "name": "Giggle Bureau",
+      "matched": false
+    },
+    {
+      "name": "Huddle Up Learning",
+      "matched": false
+    },
+    {
+      "name": "TorahLM",
+      "matched": false
+    },
+    {
+      "name": "Mahj Trainer",
+      "matched": false
+    },
+    {
+      "name": "LQT Check for Understanding",
+      "matched": false
+    },
+    {
+      "name": "My Reading Pace",
+      "matched": false
+    },
+    {
+      "name": "Nacre",
+      "matched": false
+    },
+    {
+      "name": "Sacred Oracle",
+      "matched": false
+    }
+  ]
+}
