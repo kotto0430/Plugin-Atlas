@@ -193,8 +193,10 @@
     {
       "row_id": "p02L32",
       "name": "Suplla",
-      "status": "要再確認",
-      "match": false
+      "status": "画面再確認済み",
+      "match": false,
+      "review_note": "ChatGPT教育一覧の表示名とPDFの説明文が一致",
+      "catalog_id": "atlas-pdf-education-p02l32"
     },
     {
       "row_id": "p02L33",
