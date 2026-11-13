@@ -165,3 +165,9 @@
 画像型PDF8ページの左右を確認し、OCR 674行を記録。判読を保留した3行を除き、確定候補を名称単位で既存一覧と比較した。既存名称一致11種類、追加651名称、作業ブランチ一覧958名称。行数と新規名称数は異なる。同名表示の同一性、公式ID、機能は未確認。ページ境界の一部は文字が切れる可能性があり、原画像の再確認が必要。
 
 [行別CSV](inventory/B006_creative/rows.csv)・[照合JSON](inventory/B006_creative/inventory.json)・[画像](inventory/B006_creative/evidence/)・[OCR原文](inventory/B006_creative/extraction_raw.json)。`atlas-pdf-` はサイト内仮ID。本番サイトへは未反映。
+
+## B008 ヘルスケアPDF（2026-11-13）
+
+画像型PDF3ページの左右で225行を抽出。2行は表記要確認として保留、既存一覧との名称一致3種類、216名称を追加し作業ブランチの一覧は1174名称。`rit.run`・`VeriMom` は複数行に表示されており、名称単位でまとめたが同一性は未検証。大文字小文字違いも名称単位で扱う。ページ境界や字形の微細な誤認識が残る可能性があり、公式ID・機能は未確認。仮IDはサイト内部用。
+
+[掲載行CSV](inventory/B008_health/rows.csv)・[照合JSON](inventory/B008_health/inventory.json)・[OCR原文](inventory/B008_health/extraction_raw.json)・[名前画像](inventory/B008_health/evidence/)。mainと本番サイトには未反映。
