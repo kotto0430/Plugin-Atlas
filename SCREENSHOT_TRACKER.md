@@ -248,3 +248,6 @@ Windows更新による再起動予告ダイアログが表示され、操作を�
 ### B007 開発者ツール Chrome一覧（2026-11-13、途中）
 
 Chromeの開発者ツールを開き、読み上げ情報の「をインストール」ボタンから[先頭側の289名称](inventory/B007_developer_tools/chrome_partial_names_2026-11-13.json)を抽出。出力は途中で切れており、インストール済みや別種のボタンの項目は含まれない。次に画面を重ねてスクロールし、[目視01](inventory/B007_developer_tools/chrome_scroll_01_2026-11-13.json) 96行、[02](inventory/B007_developer_tools/chrome_scroll_02_2026-11-13.json) 96行、[03](inventory/B007_developer_tools/chrome_scroll_03_2026-11-13.json) 111行、[04](inventory/B007_developer_tools/chrome_scroll_04_2026-11-13.json) 93行、[05](inventory/B007_developer_tools/chrome_scroll_05_2026-11-13.json) 97行を保存した。目視の合計493行、読めない1枠は保留。表示名の大文字小文字を区別しない照合（index blob `fd13ece4009fcf170733daf819bb2e7424328a60`、3932件）では、読み上げ情報の21行と目視1行が一致。残りは表示名不一致だが、新規件数ではなく、重複・表記差・転記誤り・同名の別製品の確認は未完了。候補はindex本体に未追加。途中で項目の追加読み込みを確認。画面位置は `Dashboard Icons`・`Sprout` 付近で、その下も続くため、次回ここから重ねて進める。スクロール末尾、全件の完全性、B007 PDFとの照合は未確認。mainと本番サイトは変更していない。
+
+
+B007続き: [目視06](inventory/B007_developer_tools/chrome_scroll_06_2026-11-13.json)に82行を保存し、同じ一覧との名前比較では全82行が不一致。目視01〜06は計575行（1行一致・574行不一致）、読み上げ取得289行とは別の記録。画面位置は `AMS`・`GeminiLaunch` 付近、さらに下に続く。上の `Dashboard Icons`・`Sprout` 位置はこの追記で更新。スクロール末尾はまだ未確認。候補は一覧本体に未追加。
