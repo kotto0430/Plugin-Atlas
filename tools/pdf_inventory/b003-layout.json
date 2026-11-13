@@ -1,0 +1,13 @@
+{
+  "reference_width": 3840,
+  "render_dpi": 465,
+  "columns": [
+    {"id": "L", "title_x": [1567, 2105]},
+    {"id": "R", "title_x": [2275, 2813]}
+  ],
+  "start_y_by_page": {"1": 330},
+  "brightness_threshold": 215,
+  "minimum_bright_pixels": 3,
+  "ocr_language": "eng",
+  "workers": 6
+}

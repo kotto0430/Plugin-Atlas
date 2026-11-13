@@ -141,3 +141,9 @@
 ### 再開メモ
 
 次のチャットで「Plugin Atlasのスクショ続きをやろう」と言われたら、この`SCREENSHOT_TRACKER.md`をGitHubから読み取って、直前までの受領バッチと既存登録を突き合わせること。画像を再送してもらう前にこのログを確認する。
+
+### B003 全ページ再照合（2026-11-13）
+
+15ページ・30列とページ境界を照合。表示名断片1,311行から境界重複3行を除いた掲載枠は1,308枠。うち12枠は判読保留。確定表示名は正規化後1,288種類。B001/B002との名称一致は233種類、mainのカタログとの名称一致は29種類（名前の照合であり同一性の確定ではない）。新規アプリ数は未確定。
+
+[行別CSV](inventory/B003_verified/rows.csv) ・ [名称別CSV](inventory/B003_verified/apps.csv) ・ [JSON](inventory/B003_verified/inventory.json) ・ [要確認](inventory/B003_verified/unconfirmed.csv) ・ [検証レポート](inventory/B003_verified/verification.md) ・ [再利用手順](tools/pdf_inventory/README.md)。公式ID・機能・公開可能性は未確認。旧OCR草稿と部分目視記録は履歴として保持。
