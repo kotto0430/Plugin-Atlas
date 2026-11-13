@@ -181,14 +181,18 @@
     {
       "row_id": "p06L30",
       "name": "Luyện thi",
-      "status": "要再確認",
-      "match": false
+      "status": "画像再確認済み",
+      "match": false,
+      "review_note": "原本の拡大画像で表示名を再確認",
+      "catalog_id": "atlas-pdf-education-p06l30"
     },
     {
       "row_id": "p06L31",
       "name": "CĐHA Assistant",
-      "status": "要再確認",
-      "match": false
+      "status": "画像再確認済み",
+      "match": false,
+      "review_note": "原本の拡大画像で表示名を再確認",
+      "catalog_id": "atlas-pdf-education-p06l31"
     },
     {
       "row_id": "p06L32",
@@ -223,14 +227,18 @@
     {
       "row_id": "p06L37",
       "name": "İsveç Ehliyet",
-      "status": "要再確認",
-      "match": false
+      "status": "画像再確認済み",
+      "match": false,
+      "review_note": "原本の拡大画像で表示名を再確認",
+      "catalog_id": "atlas-pdf-education-p06l37"
     },
     {
       "row_id": "p06L38",
       "name": "Thực Hành Nội - Nhi - Tim mạch",
-      "status": "要再確認",
-      "match": false
+      "status": "画像再確認済み",
+      "match": false,
+      "review_note": "原本の拡大画像で表示名を再確認",
+      "catalog_id": "atlas-pdf-education-p06l38"
     },
     {
       "row_id": "p06L39",
@@ -253,8 +261,10 @@
     {
       "row_id": "p06L42",
       "name": "ĐỌC Y VĂN",
-      "status": "要再確認",
-      "match": false
+      "status": "画像再確認済み",
+      "match": false,
+      "review_note": "原本の拡大画像で表示名を再確認",
+      "catalog_id": "atlas-pdf-education-p06l42"
     },
     {
       "row_id": "p06L43",
@@ -277,8 +287,10 @@
     {
       "row_id": "p06L46",
       "name": "HỌC NHI",
-      "status": "要再確認",
-      "match": false
+      "status": "画像再確認済み",
+      "match": false,
+      "review_note": "原本の拡大画像で表示名を再確認",
+      "catalog_id": "atlas-pdf-education-p06l46"
     },
     {
       "row_id": "p06R01",
@@ -349,8 +361,10 @@
     {
       "row_id": "p06R12",
       "name": "Trợ lý tiếng Việt",
-      "status": "要再確認",
-      "match": false
+      "status": "画像再確認済み",
+      "match": false,
+      "review_note": "原本の拡大画像で表示名を再確認",
+      "catalog_id": "atlas-pdf-education-p06r12"
     },
     {
       "row_id": "p06R13",
@@ -445,8 +459,10 @@
     {
       "row_id": "p06R28",
       "name": "Viết Báo Cáo NCKH Y Khoa",
-      "status": "要再確認",
-      "match": false
+      "status": "画像再確認済み",
+      "match": false,
+      "review_note": "原本の拡大画像で表示名を再確認",
+      "catalog_id": "atlas-pdf-education-p06r28"
     },
     {
       "row_id": "p06R29",
@@ -481,8 +497,10 @@
     {
       "row_id": "p06R34",
       "name": "HỌC EBM",
-      "status": "要再確認",
-      "match": false
+      "status": "画像再確認済み",
+      "match": false,
+      "review_note": "原本の拡大画像で表示名を再確認",
+      "catalog_id": "atlas-pdf-education-p06r34"
     },
     {
       "row_id": "p06R35",
@@ -553,8 +571,10 @@
     {
       "row_id": "p06R46",
       "name": "DeepMedChem",
-      "status": "要再確認",
-      "match": false
+      "status": "画像再確認済み",
+      "match": false,
+      "review_note": "原本の拡大画像で表示名を再確認",
+      "catalog_id": "atlas-pdf-education-p06r46"
     }
   ]
 }
