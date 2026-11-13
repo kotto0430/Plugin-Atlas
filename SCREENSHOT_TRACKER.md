@@ -181,3 +181,7 @@
 ## B010 旅行PDF（未完了）
 
 画像型PDF7ページ。OCR候補604行を抽出したが、画像照合・ページ境界確認・既存一覧との確定照合・不足分追加は未完了。候補はアプリ名の確定値でも新規件数でもない。[候補CSV](inventory/B010_travel/candidates.csv)・[OCR原文](inventory/B010_travel/extraction_raw.json)・[名前画像](inventory/B010_travel/evidence/)。次回は画像と各行を照合し、読めない名称を保留してから一覧へ追加する。PDF原本はリポジトリには含まれない。
+
+### B010 画像照合の進捗（2026-11-13）
+
+ユーザー指定の原本PDFのSHA-256は `369784a69adce0e15dd508522fd26291c167abcd6ea25ca579249608704e5a79`。1ページ左右の86行を拡大画像で確認し、OCRの `Al Trip Planner` を `AI Trip Planner` に修正。[1ページ目の確認CSV](inventory/B010_travel/page01_verified.csv)。作業ブランチのindex.htmlとの大文字小文字を区別しない表示名比較では1行一致、85行不一致。表示名のみの比較であり同一性・新規アプリ数を示さない。2〜7ページ、ページ境界の重複、一覧への追加は未完了。
