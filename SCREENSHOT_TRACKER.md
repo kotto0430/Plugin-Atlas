@@ -294,3 +294,10 @@ Chromeのデータと分析を開き、読み上げ情報のインストール�
 教育一覧を開き、読み上げのインストールボタンから[先頭側276行](inventory/B012_education/chrome_partial_names_2026-11-14.json)を取得。出力は途中で切れ、インストール済み・別種のボタンの項目は漏れる可能性がある。続きは表示を重ねてスクロールし、[目視01](inventory/B012_education/chrome_visual_01_2026-11-14.json) 98行、[02](inventory/B012_education/chrome_visual_02_2026-11-14.json) 112行、[03](inventory/B012_education/chrome_visual_03_2026-11-14.json) 82行、[04](inventory/B012_education/chrome_visual_04_2026-11-14.json) 90行、[05](inventory/B012_education/chrome_visual_05_2026-11-14.json) 98行、[06](inventory/B012_education/chrome_visual_06_2026-11-14.json) 94行、[07](inventory/B012_education/chrome_visual_07_2026-11-14.json) 29行を保存。合計879行。3932件のindex blob `fd13ece4009fcf170733daf819bb2e7424328a60` に対する大文字小文字を区別しない名前比較は658行一致・221行不一致。行の重複、目視転記誤り、異表記、同名項目の同一性は未確認。名前不一致は新規アプリ数ではない。目視02には `Clarity` の2枠を両方記録した。教育PDFに記録された範囲より下にも多くの項目が続くことを確認し、候補は一覧本体には未追加。
 
 表示省略のちゃんべん2枠と、アラビア語を含む名称など少なくとも3枠は判読保留。スクロール中の画面取得が `FrameArrived timed out: timed out waiting on channel` となり、Chromeの対象ウィンドウを再選択して再取得しても同じタイムアウトで中断。最後に確認した画面は `GreyScienx`・`chatPTA｜PTA実務・運営支援` から `Say Daily`・`LangLearn` 付近。中断したスクロールの成否は不明のため、再開時はこの位置から重ねて続ける。画面末尾は未確認。mainと本番は変更していない。
+
+
+### B012 教育 Chromeスクロール末尾（2026-11-14）
+
+`Say Daily`・`LangLearn` 付近からスクロールを再開し、[目視08](inventory/B012_education/chrome_visual_08_2026-11-14.json)に95行を保存。同じ3932件のindex blob `fd13ece4009fcf170733daf819bb2e7424328a60` との大文字小文字を区別しない表示名比較は、一致0行・不一致95行。不一致は新規アプリ数ではなく、目視転記の誤り、重複、異表記、同名項目の同一性は未確認。判読できない複数の文字を含む枠は推測せず保留した。既存の省略名なども引き続き要確認。候補は一覧本体に未追加。
+
+末尾に `InkDraft` を表示し、待機を挟んで複数回下へスクロールしても位置と表示が変化せず、追加読み込みがないことを確認した。これは閲覧時点の画面末尾であり、全表示を完全に記録した保証や将来の全件数ではない。main・本番は変更していない。
