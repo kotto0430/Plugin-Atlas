@@ -219,3 +219,9 @@
 当初保留した13枠は再確認済み。拡大画像で `Firmable` と `Jiminny` の表記を訂正し、`AIsa GTM` はChatGPT一覧の表示名とPDFの説明文が一致することを確認した。表示名による照合であり、同名アプリの同一性や公式IDは未確認。`atlas-pdf-business-` で始まるIDはサイト内の仮識別子で、機能は推測していない。
 
 [1ページ](inventory/B013_business/page01.json)・[2ページ](inventory/B013_business/page02.json)・[3ページ](inventory/B013_business/page03.json)・[4ページ](inventory/B013_business/page04.json)・[5ページ](inventory/B013_business/page05.json)・[6ページ](inventory/B013_business/page06.json)・[7ページ](inventory/B013_business/page07.json)・[未校正OCR草稿](inventory/B013_business/ocr_draft.json)。最終ページの画像は説明文の途中で切れており、PDF外に一覧の続きがあるか、掲載内容が完全かは未確認。原本PDFはユーザー指定のEドライブにある。mainと本番サイトには未反映。
+
+## PDF記録の照合メモ（2026-11-13）
+
+B003の[確認済み名称一覧](inventory/B003_verified/apps.csv) 1,288名称を、作業ブランチの一覧（比較時3,932件、index blob `fd13ece4009fcf170733daf819bb2e7424328a60`）と大文字小文字を区別せず比較した。45名称が一致し、1,243名称は表示名が不一致。[不一致の行](inventory/B003_verified/catalog_name_unmatched_2026-11-13.csv)を保存。これは文字列比較であり、新規アプリ数や未収録を断定するものではない。別表記・OCRや転記の誤り・同名の別アプリを含みうるため画像と照合してから扱う。保留12枠は別途未確認。
+
+記録上、B006は3枠、B008は2枠、B009は3枠、B010は8枠、B011は18枠が保留。ページ境界の確認も未完了のものがある。B012の保留38枠とB013の保留13枠は前述のとおり再確認済み。ローカルには開発者ツール、セキュリティー、その他、データと分析、科学研究のPDFもあるが、このログではそれぞれの完了記録を確認できていない。これらの未記載は未処理の可能性を示すもので、リポジトリ全体に記録が存在しないことまでは断定しない。
