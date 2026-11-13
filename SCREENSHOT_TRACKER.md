@@ -231,3 +231,9 @@ B003の[確認済み名称一覧](inventory/B003_verified/apps.csv) 1,288名称�
 ChromeのBusiness＆オペレーションで、残っていた `GTM` 検索を解除し、一覧中央でホイールを繰り返して下へ移動した。スクロールのたびに表示名が変わり、初めに末尾らしく見えた `DroneBundle` の下へ進むと追加項目が読み込まれた。PDFに写った範囲がカテゴリの全件ではないことを画面で確認。さらに `Remindlo`・`Settle` 付近まで進んだが、最終末尾は未確認。
 
 [Chromeのアクセシビリティ出力から取得した部分292名称](inventory/B013_business/chrome_partial_names_2026-11-13.json)は比較時の一覧3,932件と名前がすべて一致。ただし出力途中で切れ、インストール済みなどは抽出されないため全件ではない。[追加読み込み後に目視転記した部分43名称](inventory/B013_business/chrome_lazy_loaded_partial_2026-11-13.json)のうち40名称は一覧と表示名不一致。転記や同一性の確認前の候補であり、一括で新規アプリ数とはしない。これ以降にも画面が続くため、未記録分の取得・照合は継続が必要。main・本番は変更していない。
+
+### B013 Chromeスクロール続き（2026-11-13）
+
+前回の `Remindlo`・`Settle` 付近から一覧中央でスクロールを再開。表示名334件を目視転記し、比較時の作業ブランチ一覧（index blob `fd13ece4009fcf170733daf819bb2e7424328a60`）と大文字小文字を区別せず比較した結果、1名称一致・333名称不一致。[記録01（102件）](inventory/B013_business/chrome_scroll_continuation_01.json)・[記録02（96件）](inventory/B013_business/chrome_scroll_continuation_02.json)・[記録03（98件）](inventory/B013_business/chrome_scroll_continuation_03.json)・[記録04（38件）](inventory/B013_business/chrome_scroll_continuation_04.json)。表示名の目視転記につき微細な誤記や同名の別アプリの可能性があり、公式ID・機能は推測せず、新規アプリ数と断定しない。画面のすべてを記録できたことを保証しない。記録は候補であり一覧本体には未追加。
+
+Windows更新による再起動予告ダイアログが表示され、操作を中断。直前の画面位置は `JobPhoning`・`IperContent Leads`・`Praxikon` 付近で、この下は未確認。再開時はダイアログ・ブラウザの状態を確認し、記録済み範囲と重複させてスクロールを続ける。自動再起動後は一覧位置が失われる可能性がある。mainと本番サイトは変更していない。
