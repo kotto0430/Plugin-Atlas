@@ -189,3 +189,9 @@
 ### B010 全ページ一次照合と作業ブランチへの追加（2026-11-13）
 
 7ページのOCR候補604行を画像と照合。[1ページ](inventory/B010_travel/page01_verified.csv)、[2ページ](inventory/B010_travel/page02_review.csv)、[3ページ](inventory/B010_travel/page03_review.csv)、[4ページ](inventory/B010_travel/page04_review.csv)、[5ページ](inventory/B010_travel/page05_review.csv)、[6ページ](inventory/B010_travel/page06_review.csv)、[7ページ](inventory/B010_travel/page07_review.csv)。ページ境界や最終ページ末尾の8行は要再確認として保留。残る596行を追加前の `index.html` と大文字小文字を区別せず表示名で比較し、2行一致、1行はPDF内重複、593名称が不一致。593名称を作業ブランチの一覧に追加し、一覧は2263件。名称一致は同一性の確定ではない。追加した `atlas-pdf-travel-` IDはサイト内仮IDで、機能は推測していない。既存の候補CSVと画像を保持。保留8行とページ境界の完全性の確認は未完了。
+
+## B011 エンターテイメントPDF（2026-11-13）
+
+原本5ページ、SHA-256 `aca71709aaebf1c69ff91abd940401c8264de53b36cd298d4209656e7fe6b3f2`。画像から429枠を記録。うち18枠は小さい文字またはページ境界のため再確認待ち。確認済み411枠は、追加前の一覧と表示名が5枠一致、PDF内で1枠重複、405名称を作業ブランチに追加。追加後の一覧は2668件。表示名の一致は同一性を保証しない。ID `atlas-pdf-entertainment-` はサイト内仮IDで、機能は推測していない。
+
+[1ページ](inventory/B011_entertainment/page01.json)・[2ページ](inventory/B011_entertainment/page02.json)・[3ページ](inventory/B011_entertainment/page03.json)・[4ページ](inventory/B011_entertainment/page04.json)・[5ページ](inventory/B011_entertainment/page05.json)。記録の名前は目視転記で、18枠の再確認とページ境界の完全性確認は未完了。原本PDFはユーザー指定のEドライブにある。
