@@ -1,0 +1,1170 @@
+{
+  "source": "Chrome ChatGPT 開発者ツール",
+  "date": "2026-11-13",
+  "method": "表示された一覧のアクセシビリティ出力から「をインストール」ボタンの名称を抽出。出力は途中で切れ、インストール済みや別のボタンの項目は含まれない。カテゴリ全件ではない。",
+  "catalog_blob": "fd13ece4009fcf170733daf819bb2e7424328a60",
+  "comparison": "大文字小文字を区別しない表示名比較。同名は同一性を保証しない。",
+  "counts": {
+    "rows": 289,
+    "matched": 21,
+    "unmatched": 268
+  },
+  "rows": [
+    {
+      "name": "Remote Desktop Commander",
+      "matched": true
+    },
+    {
+      "name": "Supabase",
+      "matched": true
+    },
+    {
+      "name": "TinyFish",
+      "matched": true
+    },
+    {
+      "name": "Vercel",
+      "matched": true
+    },
+    {
+      "name": "Exa",
+      "matched": true
+    },
+    {
+      "name": "Lovable",
+      "matched": true
+    },
+    {
+      "name": "WPVibe",
+      "matched": true
+    },
+    {
+      "name": "Base44",
+      "matched": true
+    },
+    {
+      "name": "Railway",
+      "matched": true
+    },
+    {
+      "name": "Floot",
+      "matched": false
+    },
+    {
+      "name": "Render",
+      "matched": true
+    },
+    {
+      "name": "Replit",
+      "matched": true
+    },
+    {
+      "name": "AppDeploy",
+      "matched": false
+    },
+    {
+      "name": "Netlify",
+      "matched": false
+    },
+    {
+      "name": "WordPress",
+      "matched": true
+    },
+    {
+      "name": "Neon",
+      "matched": true
+    },
+    {
+      "name": "Hatchable",
+      "matched": false
+    },
+    {
+      "name": "Resend",
+      "matched": false
+    },
+    {
+      "name": "Tavily",
+      "matched": false
+    },
+    {
+      "name": "GitLab (Beta)",
+      "matched": false
+    },
+    {
+      "name": "Context7",
+      "matched": true
+    },
+    {
+      "name": "SentinelX",
+      "matched": false
+    },
+    {
+      "name": "Namecheap",
+      "matched": false
+    },
+    {
+      "name": "AWS Core",
+      "matched": false
+    },
+    {
+      "name": "DigitalOcean",
+      "matched": false
+    },
+    {
+      "name": "ShipStatic",
+      "matched": false
+    },
+    {
+      "name": "Cloudinary",
+      "matched": false
+    },
+    {
+      "name": "MongoDB Atlas",
+      "matched": true
+    },
+    {
+      "name": "Macaly Cloud",
+      "matched": false
+    },
+    {
+      "name": "Context.dev",
+      "matched": false
+    },
+    {
+      "name": "Keenable",
+      "matched": false
+    },
+    {
+      "name": "NVIDIA Skills",
+      "matched": false
+    },
+    {
+      "name": "Build Web Data Visualization",
+      "matched": false
+    },
+    {
+      "name": "Mermaid Chart",
+      "matched": false
+    },
+    {
+      "name": "GitBook",
+      "matched": false
+    },
+    {
+      "name": "Code Tytor: Python",
+      "matched": false
+    },
+    {
+      "name": "Spaceship",
+      "matched": false
+    },
+    {
+      "name": "Engram",
+      "matched": false
+    },
+    {
+      "name": "Olostep",
+      "matched": false
+    },
+    {
+      "name": "Datadog",
+      "matched": true
+    },
+    {
+      "name": "Cloudflare",
+      "matched": false
+    },
+    {
+      "name": "Gateway SSH",
+      "matched": false
+    },
+    {
+      "name": "Mobile App & Website Builder",
+      "matched": false
+    },
+    {
+      "name": "Hercules",
+      "matched": false
+    },
+    {
+      "name": "Convex",
+      "matched": false
+    },
+    {
+      "name": "BrowserAct",
+      "matched": false
+    },
+    {
+      "name": "Nimble",
+      "matched": false
+    },
+    {
+      "name": "Code",
+      "matched": false
+    },
+    {
+      "name": "DNS Inspector",
+      "matched": false
+    },
+    {
+      "name": "Hostinger Connector",
+      "matched": false
+    },
+    {
+      "name": "Alchemy",
+      "matched": false
+    },
+    {
+      "name": "PageShare",
+      "matched": false
+    },
+    {
+      "name": "Postman",
+      "matched": false
+    },
+    {
+      "name": "ProductOS",
+      "matched": false
+    },
+    {
+      "name": "YepCode",
+      "matched": false
+    },
+    {
+      "name": "Twilio Developer Kit",
+      "matched": false
+    },
+    {
+      "name": "Grow My Website",
+      "matched": false
+    },
+    {
+      "name": "MacroDroid Macro Builder",
+      "matched": false
+    },
+    {
+      "name": "Build 3D Game Rooms",
+      "matched": false
+    },
+    {
+      "name": "Buildy",
+      "matched": false
+    },
+    {
+      "name": "MiroMiro",
+      "matched": false
+    },
+    {
+      "name": "Sent",
+      "matched": false
+    },
+    {
+      "name": "HAPI MCP Registry",
+      "matched": false
+    },
+    {
+      "name": "omgskills",
+      "matched": false
+    },
+    {
+      "name": "Create State",
+      "matched": false
+    },
+    {
+      "name": "Val Town",
+      "matched": false
+    },
+    {
+      "name": "Runpod (Official)",
+      "matched": false
+    },
+    {
+      "name": "Primitive",
+      "matched": false
+    },
+    {
+      "name": "Sticklight",
+      "matched": false
+    },
+    {
+      "name": "Game Development Studio",
+      "matched": false
+    },
+    {
+      "name": "Stack Overflow for Agents",
+      "matched": true
+    },
+    {
+      "name": "3Min API",
+      "matched": false
+    },
+    {
+      "name": "Git Diff Patcher Bridge",
+      "matched": false
+    },
+    {
+      "name": "Sugra API",
+      "matched": false
+    },
+    {
+      "name": "OpenAI Ads Conversions",
+      "matched": false
+    },
+    {
+      "name": "Aiven",
+      "matched": false
+    },
+    {
+      "name": "OneSignal",
+      "matched": false
+    },
+    {
+      "name": "Jam",
+      "matched": false
+    },
+    {
+      "name": "Themely Design+Style Generator",
+      "matched": false
+    },
+    {
+      "name": "ClickHouse",
+      "matched": true
+    },
+    {
+      "name": "Brainbase MCP",
+      "matched": false
+    },
+    {
+      "name": "Catalyst by Zoho",
+      "matched": false
+    },
+    {
+      "name": "microfn",
+      "matched": false
+    },
+    {
+      "name": "WorkOS",
+      "matched": false
+    },
+    {
+      "name": "Temporal",
+      "matched": false
+    },
+    {
+      "name": "Sprites",
+      "matched": false
+    },
+    {
+      "name": "emem",
+      "matched": false
+    },
+    {
+      "name": "Sitelemetry",
+      "matched": false
+    },
+    {
+      "name": "ArmorCodex",
+      "matched": false
+    },
+    {
+      "name": "Stele",
+      "matched": false
+    },
+    {
+      "name": "WebMCP",
+      "matched": false
+    },
+    {
+      "name": "RevenueCat",
+      "matched": false
+    },
+    {
+      "name": "Agent Ready",
+      "matched": false
+    },
+    {
+      "name": "Codex Engineering Guardrails",
+      "matched": false
+    },
+    {
+      "name": "Cortex · Semantic Memory",
+      "matched": false
+    },
+    {
+      "name": "MiniUp",
+      "matched": false
+    },
+    {
+      "name": "SiteTriage",
+      "matched": false
+    },
+    {
+      "name": "Manufact",
+      "matched": false
+    },
+    {
+      "name": "Visily",
+      "matched": false
+    },
+    {
+      "name": "Outside Agent",
+      "matched": false
+    },
+    {
+      "name": "Charming",
+      "matched": false
+    },
+    {
+      "name": "Appwrite",
+      "matched": false
+    },
+    {
+      "name": "Alpic",
+      "matched": false
+    },
+    {
+      "name": "Better Design",
+      "matched": false
+    },
+    {
+      "name": "Statsig",
+      "matched": true
+    },
+    {
+      "name": "Quicknode",
+      "matched": false
+    },
+    {
+      "name": "API Documentation Checker",
+      "matched": false
+    },
+    {
+      "name": "Ponytail",
+      "matched": false
+    },
+    {
+      "name": "Pathors",
+      "matched": false
+    },
+    {
+      "name": "Termalin",
+      "matched": false
+    },
+    {
+      "name": "Prismic",
+      "matched": false
+    },
+    {
+      "name": "Frontend Design Premium",
+      "matched": false
+    },
+    {
+      "name": "WoWSQL",
+      "matched": false
+    },
+    {
+      "name": "Hot100.ai",
+      "matched": false
+    },
+    {
+      "name": "Soracom Knowledge",
+      "matched": false
+    },
+    {
+      "name": "VillageSQL Skills",
+      "matched": true
+    },
+    {
+      "name": "Upstash Redis",
+      "matched": false
+    },
+    {
+      "name": "Redis",
+      "matched": true
+    },
+    {
+      "name": "AI Task Brief Builder",
+      "matched": false
+    },
+    {
+      "name": "Strix",
+      "matched": false
+    },
+    {
+      "name": "60fps",
+      "matched": false
+    },
+    {
+      "name": "MGS Agile Toolkit",
+      "matched": false
+    },
+    {
+      "name": "NORMS: Evidence & Scope",
+      "matched": false
+    },
+    {
+      "name": "Honeycomb",
+      "matched": false
+    },
+    {
+      "name": "Descope",
+      "matched": false
+    },
+    {
+      "name": "BrowserStack",
+      "matched": false
+    },
+    {
+      "name": "@imqueue",
+      "matched": false
+    },
+    {
+      "name": "HTML/CSS to Image API",
+      "matched": false
+    },
+    {
+      "name": "Cecil-IA Labs FFmpeg",
+      "matched": false
+    },
+    {
+      "name": "FlawPilot",
+      "matched": false
+    },
+    {
+      "name": "GrillMe",
+      "matched": false
+    },
+    {
+      "name": "Testifly",
+      "matched": false
+    },
+    {
+      "name": "DocRunic",
+      "matched": false
+    },
+    {
+      "name": "zeroheight",
+      "matched": false
+    },
+    {
+      "name": "zyberspace",
+      "matched": false
+    },
+    {
+      "name": "API Impact Mapper",
+      "matched": false
+    },
+    {
+      "name": "Agent Community",
+      "matched": false
+    },
+    {
+      "name": "Unity Essentials",
+      "matched": false
+    },
+    {
+      "name": "AICtrl",
+      "matched": false
+    },
+    {
+      "name": "Metaplay SDK Docs",
+      "matched": false
+    },
+    {
+      "name": "Ezoic Setup",
+      "matched": false
+    },
+    {
+      "name": "Agent Skills",
+      "matched": false
+    },
+    {
+      "name": "Opscotch",
+      "matched": false
+    },
+    {
+      "name": "Test Failure Triage",
+      "matched": false
+    },
+    {
+      "name": "Graphify",
+      "matched": false
+    },
+    {
+      "name": "Lumen UI",
+      "matched": false
+    },
+    {
+      "name": "Plugin Autopilot",
+      "matched": false
+    },
+    {
+      "name": "IDrive e2",
+      "matched": false
+    },
+    {
+      "name": "Domain Scan",
+      "matched": false
+    },
+    {
+      "name": "Agent Reach",
+      "matched": false
+    },
+    {
+      "name": "QA Wolf",
+      "matched": false
+    },
+    {
+      "name": "Magic Patterns",
+      "matched": false
+    },
+    {
+      "name": "Stem",
+      "matched": false
+    },
+    {
+      "name": "Vantage",
+      "matched": false
+    },
+    {
+      "name": "Alloy",
+      "matched": false
+    },
+    {
+      "name": "GEO Tool Check",
+      "matched": false
+    },
+    {
+      "name": "Garchi CMS",
+      "matched": false
+    },
+    {
+      "name": "Sleuth Skills",
+      "matched": false
+    },
+    {
+      "name": "Code Assistant",
+      "matched": false
+    },
+    {
+      "name": "NPMScan",
+      "matched": false
+    },
+    {
+      "name": "Mnemom",
+      "matched": false
+    },
+    {
+      "name": "PR Readiness Check",
+      "matched": false
+    },
+    {
+      "name": "BasicDeploy",
+      "matched": false
+    },
+    {
+      "name": "Flyte",
+      "matched": false
+    },
+    {
+      "name": "Noodle Seed",
+      "matched": false
+    },
+    {
+      "name": "StubEngine",
+      "matched": false
+    },
+    {
+      "name": "Limrun",
+      "matched": false
+    },
+    {
+      "name": "ConoHa VPS",
+      "matched": false
+    },
+    {
+      "name": "Camber",
+      "matched": false
+    },
+    {
+      "name": "ConsentLayer",
+      "matched": false
+    },
+    {
+      "name": "Better Stack",
+      "matched": false
+    },
+    {
+      "name": "MCP Conduct Register",
+      "matched": false
+    },
+    {
+      "name": "mittwald",
+      "matched": false
+    },
+    {
+      "name": "SQL Expert",
+      "matched": false
+    },
+    {
+      "name": "Tiniest Cloud",
+      "matched": false
+    },
+    {
+      "name": "AiAkiv Memory",
+      "matched": false
+    },
+    {
+      "name": "Sabre Developer Hub MCP Server",
+      "matched": false
+    },
+    {
+      "name": "DataBlue",
+      "matched": false
+    },
+    {
+      "name": "pstack",
+      "matched": false
+    },
+    {
+      "name": "Kody",
+      "matched": false
+    },
+    {
+      "name": "Mapbox",
+      "matched": false
+    },
+    {
+      "name": "Unbounce - Classic Builder",
+      "matched": false
+    },
+    {
+      "name": "Control Plane",
+      "matched": false
+    },
+    {
+      "name": "EngineeringSuite",
+      "matched": false
+    },
+    {
+      "name": "HOME AI Node",
+      "matched": false
+    },
+    {
+      "name": "Greptile",
+      "matched": false
+    },
+    {
+      "name": "Mobile App Builder",
+      "matched": false
+    },
+    {
+      "name": "Etherscan",
+      "matched": false
+    },
+    {
+      "name": "Spacefast",
+      "matched": false
+    },
+    {
+      "name": "BoxToPlay",
+      "matched": false
+    },
+    {
+      "name": "Craftian",
+      "matched": false
+    },
+    {
+      "name": "Resolve AI",
+      "matched": false
+    },
+    {
+      "name": "EzzyBills",
+      "matched": false
+    },
+    {
+      "name": "Uizze",
+      "matched": false
+    },
+    {
+      "name": "Shopify App Builder",
+      "matched": false
+    },
+    {
+      "name": "Tailscale",
+      "matched": false
+    },
+    {
+      "name": "Unblocked",
+      "matched": false
+    },
+    {
+      "name": "Vibe Coder",
+      "matched": false
+    },
+    {
+      "name": "Modern Web Guidance",
+      "matched": false
+    },
+    {
+      "name": "TALON Knowledge",
+      "matched": false
+    },
+    {
+      "name": "QtMesh Cloud",
+      "matched": false
+    },
+    {
+      "name": "FluxBuilder",
+      "matched": false
+    },
+    {
+      "name": "qBraid",
+      "matched": false
+    },
+    {
+      "name": "Instant",
+      "matched": false
+    },
+    {
+      "name": "KERNEL",
+      "matched": false
+    },
+    {
+      "name": "Microsoft Dataverse",
+      "matched": false
+    },
+    {
+      "name": "Caveman",
+      "matched": false
+    },
+    {
+      "name": "Network Solutions",
+      "matched": false
+    },
+    {
+      "name": "Armature",
+      "matched": false
+    },
+    {
+      "name": "HTML Code Generator",
+      "matched": false
+    },
+    {
+      "name": "Tessryx",
+      "matched": false
+    },
+    {
+      "name": "Annotations Extensibility",
+      "matched": false
+    },
+    {
+      "name": "Dependency Upgrade Plan",
+      "matched": false
+    },
+    {
+      "name": "Software Architect",
+      "matched": false
+    },
+    {
+      "name": "FreakUI",
+      "matched": false
+    },
+    {
+      "name": "CodSpeed",
+      "matched": false
+    },
+    {
+      "name": "PayU Builder MCP",
+      "matched": false
+    },
+    {
+      "name": "Relewise Developer",
+      "matched": false
+    },
+    {
+      "name": "Hyperhuman Agent Workspace",
+      "matched": false
+    },
+    {
+      "name": "Andrej Karpathy Skills",
+      "matched": false
+    },
+    {
+      "name": "AI Software Architect",
+      "matched": false
+    },
+    {
+      "name": "RideDesk",
+      "matched": false
+    },
+    {
+      "name": "Rubikpara",
+      "matched": false
+    },
+    {
+      "name": "Montra",
+      "matched": false
+    },
+    {
+      "name": "Loadster",
+      "matched": false
+    },
+    {
+      "name": "Watchgoose",
+      "matched": false
+    },
+    {
+      "name": "Smooth Bundle",
+      "matched": false
+    },
+    {
+      "name": "Lobu",
+      "matched": false
+    },
+    {
+      "name": "Build",
+      "matched": false
+    },
+    {
+      "name": "Prism by Crossdeck",
+      "matched": false
+    },
+    {
+      "name": "Knowledge for Agents",
+      "matched": false
+    },
+    {
+      "name": "Vynix",
+      "matched": false
+    },
+    {
+      "name": "Debug",
+      "matched": false
+    },
+    {
+      "name": "Birdie",
+      "matched": false
+    },
+    {
+      "name": "Samautomation Workflows",
+      "matched": false
+    },
+    {
+      "name": "PlanetScale",
+      "matched": false
+    },
+    {
+      "name": "Suger",
+      "matched": false
+    },
+    {
+      "name": "Openlayer",
+      "matched": false
+    },
+    {
+      "name": "Artie",
+      "matched": false
+    },
+    {
+      "name": "Light Remote",
+      "matched": false
+    },
+    {
+      "name": "MijnSpel",
+      "matched": false
+    },
+    {
+      "name": "Chartquery",
+      "matched": false
+    },
+    {
+      "name": "LabWired",
+      "matched": false
+    },
+    {
+      "name": "Prisma",
+      "matched": false
+    },
+    {
+      "name": "Extend",
+      "matched": false
+    },
+    {
+      "name": "Develoop",
+      "matched": false
+    },
+    {
+      "name": "Build MCP Apps",
+      "matched": false
+    },
+    {
+      "name": "Software & AI Copilot",
+      "matched": false
+    },
+    {
+      "name": "get-fable",
+      "matched": false
+    },
+    {
+      "name": "1Password Developer Tools",
+      "matched": false
+    },
+    {
+      "name": "ApyHub EU",
+      "matched": false
+    },
+    {
+      "name": "Webcmd",
+      "matched": false
+    },
+    {
+      "name": "Fingerprint",
+      "matched": false
+    },
+    {
+      "name": "BitsWeave",
+      "matched": false
+    },
+    {
+      "name": "gstack Workflows",
+      "matched": false
+    },
+    {
+      "name": "SwiftUI Expert",
+      "matched": false
+    },
+    {
+      "name": "RepoLore",
+      "matched": false
+    },
+    {
+      "name": "LLM & Agent Builder Copilot",
+      "matched": false
+    },
+    {
+      "name": "WarmHub",
+      "matched": false
+    },
+    {
+      "name": "DEEPBOM Artifact Evidence",
+      "matched": false
+    },
+    {
+      "name": "Hey Terminal",
+      "matched": false
+    },
+    {
+      "name": "Akwadra",
+      "matched": false
+    },
+    {
+      "name": "FastAPI Cloud",
+      "matched": false
+    },
+    {
+      "name": "NeuronSearchLab",
+      "matched": false
+    },
+    {
+      "name": "Programming Hub",
+      "matched": false
+    },
+    {
+      "name": "Gondwana",
+      "matched": false
+    },
+    {
+      "name": "Prefect",
+      "matched": false
+    },
+    {
+      "name": "Bubble",
+      "matched": false
+    },
+    {
+      "name": "Web App QA & Release Copilot",
+      "matched": false
+    },
+    {
+      "name": "Codex Browser Recorder",
+      "matched": false
+    },
+    {
+      "name": "DocuWriter.ai",
+      "matched": false
+    },
+    {
+      "name": "Flowlines",
+      "matched": false
+    },
+    {
+      "name": "DB Fiddle",
+      "matched": false
+    },
+    {
+      "name": "Pydantic Logfire",
+      "matched": false
+    },
+    {
+      "name": "Replay.io",
+      "matched": false
+    },
+    {
+      "name": "Vapi",
+      "matched": false
+    },
+    {
+      "name": "Auth0",
+      "matched": false
+    },
+    {
+      "name": "Bits & Bolts Remote",
+      "matched": false
+    },
+    {
+      "name": "Building React Native Apps",
+      "matched": false
+    },
+    {
+      "name": "Codex TestFlight Release",
+      "matched": false
+    },
+    {
+      "name": "Keystone",
+      "matched": false
+    },
+    {
+      "name": "ASO Skill",
+      "matched": false
+    },
+    {
+      "name": "Review",
+      "matched": false
+    },
+    {
+      "name": "doDomain",
+      "matched": false
+    },
+    {
+      "name": "Panderr",
+      "matched": false
+    },
+    {
+      "name": "Riqor",
+      "matched": false
+    },
+    {
+      "name": "Zuora Coding Agent",
+      "matched": false
+    },
+    {
+      "name": "Handoff",
+      "matched": false
+    },
+    {
+      "name": "LaunchDarkly",
+      "matched": false
+    }
+  ]
+}
