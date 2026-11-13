@@ -271,8 +271,10 @@
     {
       "row_id": "p07L45",
       "name": "Dillien VDR",
-      "status": "要再確認",
-      "match": false
+      "status": "画像再確認済み",
+      "match": false,
+      "review_note": "原本の拡大画像で表示名を確認",
+      "catalog_id": "atlas-pdf-business-p07l45"
     },
     {
       "row_id": "p07R01",
@@ -541,8 +543,10 @@
     {
       "row_id": "p07R45",
       "name": "Abacor",
-      "status": "要再確認",
-      "match": false
+      "status": "画像再確認済み",
+      "match": false,
+      "review_note": "原本の拡大画像で表示名を確認",
+      "catalog_id": "atlas-pdf-business-p07r45"
     }
   ]
 }
