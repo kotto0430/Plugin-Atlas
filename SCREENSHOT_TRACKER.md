@@ -147,3 +147,9 @@
 15ページ・30列とページ境界を照合。表示名断片1,311行から境界重複3行を除いた掲載枠は1,308枠。うち12枠は判読保留。確定表示名は正規化後1,288種類。B001/B002との名称一致は233種類、mainのカタログとの名称一致は29種類（名前の照合であり同一性の確定ではない）。新規アプリ数は未確定。
 
 [行別CSV](inventory/B003_verified/rows.csv) ・ [名称別CSV](inventory/B003_verified/apps.csv) ・ [JSON](inventory/B003_verified/inventory.json) ・ [要確認](inventory/B003_verified/unconfirmed.csv) ・ [検証レポート](inventory/B003_verified/verification.md) ・ [再利用手順](tools/pdf_inventory/README.md)。公式ID・機能・公開可能性は未確認。旧OCR草稿と部分目視記録は履歴として保持。
+
+## B004 追加PDFの照合（2026-11-13）
+
+`人気.pdf` 49枠、新着・注目.pdf 22枠、中小企業.pdf 16枠、計87枠を画像で確認。作業ブランチの134件と表示名を照合し、名称不一致の14件を `index.html` に追加した（作業ブランチ148件）。説明はPDFの表示文を使用。`atlas-pdf-` で始まるIDはサイト内の仮識別子であり公式プラグインIDではない。名称が一致する場合も同一性を保証しない。
+
+追加: Adobe、ElevenLabs、Sonos、Magnific、Stack Overflow for Agents、Hevy、tldraw、Coda、Wrike、Gusto、ClickUp、HoneyBook、Mercury、PayPal。[行ごとの照合JSON](inventory/B004_2026-11-13.json)・[CSV](inventory/B004_2026-11-13.csv)。新着・注目と中小企業の各カテゴリはB002と再照合し、今回のPDF全行をB004に記録。人気PDFにはB001の Browser・Binance は表示されていないが、既存記録は維持。`Remote Desktop Commander` と `Interactive Brokers (IBKR)` は今回のPDFで省略のない表示を確認。
