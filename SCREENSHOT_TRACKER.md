@@ -195,3 +195,9 @@
 原本5ページ、SHA-256 `aca71709aaebf1c69ff91abd940401c8264de53b36cd298d4209656e7fe6b3f2`。画像から429枠を記録。うち18枠は小さい文字またはページ境界のため再確認待ち。確認済み411枠は、追加前の一覧と表示名が5枠一致、PDF内で1枠重複、405名称を作業ブランチに追加。追加後の一覧は2668件。表示名の一致は同一性を保証しない。ID `atlas-pdf-entertainment-` はサイト内仮IDで、機能は推測していない。
 
 [1ページ](inventory/B011_entertainment/page01.json)・[2ページ](inventory/B011_entertainment/page02.json)・[3ページ](inventory/B011_entertainment/page03.json)・[4ページ](inventory/B011_entertainment/page04.json)・[5ページ](inventory/B011_entertainment/page05.json)。記録の名前は目視転記で、18枠の再確認とページ境界の完全性確認は未完了。原本PDFはユーザー指定のEドライブにある。
+
+## B012 教育PDF（途中、2026-11-13）
+
+原本は8ページ、SHA-256 `55f8221b4acb622a175b4c4537221fed9bedeb0bfe364f888805f181a7d0fab7`。1ページの86枠と2ページの93枠を目視で記録。2ページの3枠は表記またはページ境界を再確認待ち。確認済み176枠のうち追加前の一覧と表示名が2枠一致し、174名称を作業ブランチに追加。一覧は2842件。既存のカテゴリ体系に教育専用カテゴリがないため、追加分はResearchに分類した。ID `atlas-pdf-education-` はサイト内仮ID。機能や公式IDは推測していない。
+
+[1ページ](inventory/B012_education/page01.json)・[2ページ](inventory/B012_education/page02.json)・[全ページのOCR草稿](inventory/B012_education/ocr_draft.json)。OCR草稿の行番号と名前は別々に認識されており、欠落や誤認識がある。3〜8ページの画像照合、ページ境界、保留3枠の確認は未完了。原本はユーザー指定のEドライブにある。
