@@ -8,7 +8,7 @@ Plugin Atlas is a **free, unofficial multilingual guide and launcher** for disco
 
 ## Features
 
-- **42 curated apps, 12 categories, 9 interface languages** (v2.9 series)
+- **117 ChatGPT apps, 14 categories, 9 interface languages** (v3.11)
 - Search by name or purpose and browse by category
 - Save favorites in **My Apps** for quick access
 - Send suggested prompts to ChatGPT with **Use in ChatGPT**
