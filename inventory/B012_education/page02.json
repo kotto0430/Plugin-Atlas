@@ -283,8 +283,10 @@
     {
       "row_id": "p02L47",
       "name": "Legal Research by Lawstronaut",
-      "status": "要再確認",
-      "match": false
+      "status": "画像再確認済み",
+      "match": false,
+      "review_note": "原本の拡大画像で表示名を再確認",
+      "catalog_id": "atlas-pdf-education-p02l47"
     },
     {
       "row_id": "p02R01",
@@ -559,8 +561,10 @@
     {
       "row_id": "p02R46",
       "name": "UrbanPro Tutor Finder",
-      "status": "要再確認",
-      "match": false
+      "status": "画像再確認済み",
+      "match": false,
+      "review_note": "原本の拡大画像で表示名を再確認",
+      "catalog_id": "atlas-pdf-education-p02r46"
     }
   ]
 }
