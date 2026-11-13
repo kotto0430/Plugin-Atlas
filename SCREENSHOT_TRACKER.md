@@ -177,3 +177,7 @@
 画像型6ページ、OCR候補505行。名前画像と照合し3行を表記要確認に保留、既存一覧と名称一致6種類、496名称を作業ブランチに追加。作業ブランチの一覧は1670名称。公式ID・機能・同名アプリの同一性は未確認。仮IDはサイト内部用。ページ境界や似た字形の微細な誤認識は残る可能性がある。
 
 [掲載行CSV](inventory/B009_finance/rows.csv)・[照合JSON](inventory/B009_finance/inventory.json)・[名前画像](inventory/B009_finance/evidence/)・[OCR原文](inventory/B009_finance/extraction_raw.json)。本番への反映は別工程。
+
+## B010 旅行PDF（未完了）
+
+画像型PDF7ページ。OCR候補604行を抽出したが、画像照合・ページ境界確認・既存一覧との確定照合・不足分追加は未完了。候補はアプリ名の確定値でも新規件数でもない。[候補CSV](inventory/B010_travel/candidates.csv)・[OCR原文](inventory/B010_travel/extraction_raw.json)・[名前画像](inventory/B010_travel/evidence/)。次回は画像と各行を照合し、読めない名称を保留してから一覧へ追加する。PDF原本はリポジトリには含まれない。
