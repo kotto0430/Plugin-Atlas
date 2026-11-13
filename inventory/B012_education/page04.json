@@ -7,8 +7,10 @@
     {
       "row_id": "p04L01",
       "name": "TÕPS",
-      "status": "要再確認",
-      "match": false
+      "status": "画像再確認済み",
+      "match": false,
+      "review_note": "原本の拡大画像で表示名を再確認",
+      "catalog_id": "atlas-pdf-education-p04l01"
     },
     {
       "row_id": "p04L02",
@@ -397,8 +399,10 @@
     {
       "row_id": "p04R20",
       "name": "Trợ lý Phân tích Content Viral",
-      "status": "要再確認",
-      "match": false
+      "status": "画像再確認済み",
+      "match": false,
+      "review_note": "原本の拡大画像で表示名を再確認",
+      "catalog_id": "atlas-pdf-education-p04r20"
     },
     {
       "row_id": "p04R21",
