@@ -8,7 +8,7 @@ Plugin Atlas ist ein **kostenloser, inoffizieller Wegweiser**, mit dem du ChatGP
 
 ## Funktionen
 
-- **117 Apps, 14 Kategorien und 9 Sprachen** (v3.11)
+- **134 Apps, 16 Kategorien und 9 Sprachen** (v3.12)
 - Suche nach Name oder Zweck und stöbere nach Kategorie
 - Speichere Favoriten unter **Meine Apps**
 - Sende mit **In ChatGPT verwenden** eine Anfrage an ChatGPT
