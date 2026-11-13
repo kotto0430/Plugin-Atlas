@@ -8,7 +8,7 @@ Plugin Atlas é um **guia gratuito e não oficial** para descobrir, salvar e usa
 
 ## Principais recursos
 
-- **42 aplicativos, 12 categorias e 9 idiomas** (versão 2.9)
+- **117 aplicativos, 14 categorias e 9 idiomas** (v3.11)
 - Pesquisa por nome ou finalidade e navegação por categoria
 - Salve favoritos em **Meus apps**
 - Envie uma solicitação ao ChatGPT pelo botão **Usar**
