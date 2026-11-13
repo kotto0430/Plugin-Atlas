@@ -211,3 +211,11 @@
 ### B012 保留38枠の再確認（2026-11-13）
 
 保留していた38枠を原本の拡大画像で再確認。37枠は表示名を画像で確認し、`Suplla` はChatGPT教育一覧の表示文字列とPDF上の説明文の一致で確認。38名称を作業ブランチの一覧に追加し、一覧は3322件。B012の記録657枠のうち既存表示名2枠とPDF内重複1枠を除く654名称が収録済み。名前による比較であり公式IDや同一性の確定ではない。各ページのJSONに再確認状態と仮IDを記録。原本最終ページの画像は末尾で切れているため、PDFに含まれていない続きの有無は未確認。
+
+## B013 Business＆オペレーションPDF（2026-11-13）
+
+原本は7ページ、SHA-256 `a565a71685964a805522619ee160bc9554b980497a2766488f9329ca83b8d574`。画像から表示名637枠を記録し、追加前の作業ブランチ一覧との表示名一致27枠、名称不一致610件を確認。610名称を一覧に追加し、作業ブランチの一覧は3932件。追加分は既存カテゴリ体系のBusinessに分類した。
+
+当初保留した13枠は再確認済み。拡大画像で `Firmable` と `Jiminny` の表記を訂正し、`AIsa GTM` はChatGPT一覧の表示名とPDFの説明文が一致することを確認した。表示名による照合であり、同名アプリの同一性や公式IDは未確認。`atlas-pdf-business-` で始まるIDはサイト内の仮識別子で、機能は推測していない。
+
+[1ページ](inventory/B013_business/page01.json)・[2ページ](inventory/B013_business/page02.json)・[3ページ](inventory/B013_business/page03.json)・[4ページ](inventory/B013_business/page04.json)・[5ページ](inventory/B013_business/page05.json)・[6ページ](inventory/B013_business/page06.json)・[7ページ](inventory/B013_business/page07.json)・[未校正OCR草稿](inventory/B013_business/ocr_draft.json)。最終ページの画像は説明文の途中で切れており、PDF外に一覧の続きがあるか、掲載内容が完全かは未確認。原本PDFはユーザー指定のEドライブにある。mainと本番サイトには未反映。
