@@ -1,0 +1,214 @@
+{
+  "source": "Chrome ChatGPT 旅行",
+  "date": "2026-11-14",
+  "catalog_blob": "fd13ece4009fcf170733daf819bb2e7424328a60",
+  "method": "画面を重ねてスクロールし表示名を目視転記。大文字小文字を区別せず名前を照合。",
+  "notes": "誤記・重複の可能性あり。一致は同一性、不一致は新規件数を意味しない。Remjet右のヘブライ語名は判読保留。TheFoilBuddy は上方に同名表示あり。",
+  "counts": {
+    "rows": 50,
+    "matched": 1,
+    "unmatched": 49
+  },
+  "rows": [
+    {
+      "name": "SunSeekr",
+      "matched": false
+    },
+    {
+      "name": "RentalCal",
+      "matched": false
+    },
+    {
+      "name": "Jourvanta",
+      "matched": false
+    },
+    {
+      "name": "HomeBase Services",
+      "matched": false
+    },
+    {
+      "name": "Dream Trip",
+      "matched": false
+    },
+    {
+      "name": "Toronto Taxi App",
+      "matched": false
+    },
+    {
+      "name": "Reisplanner: vakantie plannen",
+      "matched": false
+    },
+    {
+      "name": "Journeyed LA hotel facts",
+      "matched": false
+    },
+    {
+      "name": "Remjet",
+      "matched": false
+    },
+    {
+      "name": "PackRat",
+      "matched": false
+    },
+    {
+      "name": "Topo",
+      "matched": false
+    },
+    {
+      "name": "Packfits",
+      "matched": false
+    },
+    {
+      "name": "PK Spot",
+      "matched": false
+    },
+    {
+      "name": "drivoo",
+      "matched": false
+    },
+    {
+      "name": "Matkasuunnittelija lomallesi",
+      "matched": false
+    },
+    {
+      "name": "Bargly",
+      "matched": false
+    },
+    {
+      "name": "BEEP Car Rental Poland",
+      "matched": false
+    },
+    {
+      "name": "Cheapflightsfares",
+      "matched": false
+    },
+    {
+      "name": "OurTrip.Page",
+      "matched": false
+    },
+    {
+      "name": "Lion Travel 雄獅旅遊",
+      "matched": false
+    },
+    {
+      "name": "카카오 T 공항가자",
+      "matched": false
+    },
+    {
+      "name": "Events.lc",
+      "matched": false
+    },
+    {
+      "name": "esim.tc eSIM Paketleri",
+      "matched": false
+    },
+    {
+      "name": "Mauritius",
+      "matched": false
+    },
+    {
+      "name": "Adrenaline List",
+      "matched": false
+    },
+    {
+      "name": "CitySignal",
+      "matched": false
+    },
+    {
+      "name": "Stay Cost Brain",
+      "matched": false
+    },
+    {
+      "name": "Trip Captain",
+      "matched": false
+    },
+    {
+      "name": "Book Safari Tours",
+      "matched": false
+    },
+    {
+      "name": "Island Adventures Reservations",
+      "matched": false
+    },
+    {
+      "name": "TVFoodMaps",
+      "matched": false
+    },
+    {
+      "name": "pickthebus",
+      "matched": false
+    },
+    {
+      "name": "TheFoilBuddy",
+      "matched": true
+    },
+    {
+      "name": "Libya Streets",
+      "matched": false
+    },
+    {
+      "name": "Table12",
+      "matched": false
+    },
+    {
+      "name": "Holicay",
+      "matched": false
+    },
+    {
+      "name": "Travel Protect Insurance",
+      "matched": false
+    },
+    {
+      "name": "VIPbus Reiswijzer",
+      "matched": false
+    },
+    {
+      "name": "Seyrio Flight Insights",
+      "matched": false
+    },
+    {
+      "name": "Atly",
+      "matched": false
+    },
+    {
+      "name": "CollabsMap",
+      "matched": false
+    },
+    {
+      "name": "DlandTables",
+      "matched": false
+    },
+    {
+      "name": "旅行計画：旅程と旅のしおり作成",
+      "matched": false
+    },
+    {
+      "name": "Səyahət planı: səfər marşrutu",
+      "matched": false
+    },
+    {
+      "name": "TrimCarbon",
+      "matched": false
+    },
+    {
+      "name": "旅游攻略：旅行计划与行程",
+      "matched": false
+    },
+    {
+      "name": "GC Airport Transfers",
+      "matched": false
+    },
+    {
+      "name": "Squatch Connect",
+      "matched": false
+    },
+    {
+      "name": "하나투어",
+      "matched": false
+    },
+    {
+      "name": "Bota Car Rental",
+      "matched": false
+    }
+  ]
+}
