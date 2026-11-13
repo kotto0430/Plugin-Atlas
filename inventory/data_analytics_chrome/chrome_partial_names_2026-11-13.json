@@ -1,0 +1,1153 @@
+{
+  "source": "Chrome ChatGPT データと分析",
+  "date": "2026-11-13",
+  "method": "読み上げ情報中のインストールボタン名を抽出。出力は20000文字で途中切れ、インストール済み・別ボタンの項目は含まれない。全件ではない。",
+  "catalog_blob": "fd13ece4009fcf170733daf819bb2e7424328a60",
+  "counts": {
+    "rows": 285,
+    "matched": 16,
+    "unmatched": 269
+  },
+  "rows": [
+    {
+      "name": "Data",
+      "matched": true
+    },
+    {
+      "name": "GSC Wizard - SEO analysis",
+      "matched": false
+    },
+    {
+      "name": "PostHog",
+      "matched": true
+    },
+    {
+      "name": "Blockscout Blockchain Data",
+      "matched": false
+    },
+    {
+      "name": "TubeAlfred",
+      "matched": false
+    },
+    {
+      "name": "Helium 10",
+      "matched": false
+    },
+    {
+      "name": "GSC SEO & Content Planner",
+      "matched": false
+    },
+    {
+      "name": "StatsHawk",
+      "matched": false
+    },
+    {
+      "name": "Amplitude",
+      "matched": true
+    },
+    {
+      "name": "Mixpanel",
+      "matched": true
+    },
+    {
+      "name": "Typeform",
+      "matched": false
+    },
+    {
+      "name": "JoomPulse",
+      "matched": false
+    },
+    {
+      "name": "Waldo",
+      "matched": false
+    },
+    {
+      "name": "Keyword Tool: Free SEO Ideas",
+      "matched": false
+    },
+    {
+      "name": "MotherDuck",
+      "matched": true
+    },
+    {
+      "name": "BlazeSQL",
+      "matched": false
+    },
+    {
+      "name": "Similarweb",
+      "matched": true
+    },
+    {
+      "name": "Serpstat",
+      "matched": false
+    },
+    {
+      "name": "Trellis Law",
+      "matched": false
+    },
+    {
+      "name": "Metorik",
+      "matched": false
+    },
+    {
+      "name": "Brand & Market Social Research",
+      "matched": false
+    },
+    {
+      "name": "Atria",
+      "matched": false
+    },
+    {
+      "name": "Searchland",
+      "matched": false
+    },
+    {
+      "name": "Coupler.io",
+      "matched": false
+    },
+    {
+      "name": "Coupler.io",
+      "matched": false
+    },
+    {
+      "name": "Powerset Research",
+      "matched": false
+    },
+    {
+      "name": "Deepnote",
+      "matched": true
+    },
+    {
+      "name": "Tenzo",
+      "matched": false
+    },
+    {
+      "name": "Polar Analytics",
+      "matched": false
+    },
+    {
+      "name": "Ramp Data",
+      "matched": false
+    },
+    {
+      "name": "SkyWatch",
+      "matched": false
+    },
+    {
+      "name": "Sixtyfour Intelligence",
+      "matched": false
+    },
+    {
+      "name": "GIS Cloud",
+      "matched": false
+    },
+    {
+      "name": "CData Connect AI",
+      "matched": false
+    },
+    {
+      "name": "Propalt",
+      "matched": false
+    },
+    {
+      "name": "Mixpanel Headless",
+      "matched": false
+    },
+    {
+      "name": "Landstack",
+      "matched": false
+    },
+    {
+      "name": "Minter.io",
+      "matched": false
+    },
+    {
+      "name": "OpenRush",
+      "matched": false
+    },
+    {
+      "name": "Amplitude EU",
+      "matched": false
+    },
+    {
+      "name": "Kwater",
+      "matched": false
+    },
+    {
+      "name": "ProfitTree",
+      "matched": false
+    },
+    {
+      "name": "Logimu Shopping",
+      "matched": false
+    },
+    {
+      "name": "BigGeo AI",
+      "matched": false
+    },
+    {
+      "name": "Adzviser",
+      "matched": false
+    },
+    {
+      "name": "Sometrend",
+      "matched": false
+    },
+    {
+      "name": "Master Metrics",
+      "matched": false
+    },
+    {
+      "name": "AppSkyline ASO",
+      "matched": false
+    },
+    {
+      "name": "Yuno",
+      "matched": false
+    },
+    {
+      "name": "Kindora",
+      "matched": false
+    },
+    {
+      "name": "InsightfulPipe",
+      "matched": false
+    },
+    {
+      "name": "AWS Data Analytics",
+      "matched": true
+    },
+    {
+      "name": "Catchr",
+      "matched": false
+    },
+    {
+      "name": "Omni",
+      "matched": true
+    },
+    {
+      "name": "Azure Cosmos DB",
+      "matched": true
+    },
+    {
+      "name": "Inner Sanctum SAGE",
+      "matched": false
+    },
+    {
+      "name": "Crustdata",
+      "matched": false
+    },
+    {
+      "name": "Dataslayer",
+      "matched": false
+    },
+    {
+      "name": "Lytical",
+      "matched": false
+    },
+    {
+      "name": "forms.app: Form Builder",
+      "matched": false
+    },
+    {
+      "name": "KrystalView",
+      "matched": false
+    },
+    {
+      "name": "Peec AI",
+      "matched": false
+    },
+    {
+      "name": "Windsock",
+      "matched": false
+    },
+    {
+      "name": "Presentation Builder",
+      "matched": false
+    },
+    {
+      "name": "Clics",
+      "matched": false
+    },
+    {
+      "name": "Porter Metrics",
+      "matched": false
+    },
+    {
+      "name": "MyGeotab MCP",
+      "matched": false
+    },
+    {
+      "name": "Improvado AI Agent",
+      "matched": false
+    },
+    {
+      "name": "Carbon Arc",
+      "matched": false
+    },
+    {
+      "name": "Keenable SELECT",
+      "matched": false
+    },
+    {
+      "name": "Syncly Social",
+      "matched": false
+    },
+    {
+      "name": "ChartMogul",
+      "matched": false
+    },
+    {
+      "name": "Fr8Labs Analytics",
+      "matched": false
+    },
+    {
+      "name": "Pokeka",
+      "matched": false
+    },
+    {
+      "name": "Muffed",
+      "matched": false
+    },
+    {
+      "name": "Writrex SEO",
+      "matched": false
+    },
+    {
+      "name": "Tango MCP",
+      "matched": false
+    },
+    {
+      "name": "Hex",
+      "matched": true
+    },
+    {
+      "name": "Sweet Analytics",
+      "matched": false
+    },
+    {
+      "name": "Property Hazard MCP",
+      "matched": false
+    },
+    {
+      "name": "PolicyNote",
+      "matched": false
+    },
+    {
+      "name": "Temso",
+      "matched": false
+    },
+    {
+      "name": "Whatagraph",
+      "matched": false
+    },
+    {
+      "name": "Alation",
+      "matched": true
+    },
+    {
+      "name": "WitCloud",
+      "matched": false
+    },
+    {
+      "name": "Evidence Studio",
+      "matched": false
+    },
+    {
+      "name": "DMAP AI",
+      "matched": false
+    },
+    {
+      "name": "Amplifyr",
+      "matched": false
+    },
+    {
+      "name": "Trace",
+      "matched": false
+    },
+    {
+      "name": "ApartmentIQ",
+      "matched": false
+    },
+    {
+      "name": "ConvRadar: CRO for GA4",
+      "matched": false
+    },
+    {
+      "name": "Fullstory",
+      "matched": false
+    },
+    {
+      "name": "Centiment",
+      "matched": false
+    },
+    {
+      "name": "Reverse Contact",
+      "matched": false
+    },
+    {
+      "name": "SEO Programático",
+      "matched": false
+    },
+    {
+      "name": "Metabase",
+      "matched": true
+    },
+    {
+      "name": "Ezoic Analytics",
+      "matched": false
+    },
+    {
+      "name": "Otto by PassBy",
+      "matched": false
+    },
+    {
+      "name": "Property Index Dubai",
+      "matched": false
+    },
+    {
+      "name": "Adobe CJA",
+      "matched": false
+    },
+    {
+      "name": "Subtext",
+      "matched": false
+    },
+    {
+      "name": "Influencers Club",
+      "matched": false
+    },
+    {
+      "name": "ThoughtSpot Spotter",
+      "matched": false
+    },
+    {
+      "name": "Homesage.ai",
+      "matched": false
+    },
+    {
+      "name": "Atlan",
+      "matched": false
+    },
+    {
+      "name": "Clarivate IPOne CM Trademarks",
+      "matched": false
+    },
+    {
+      "name": "Remedy Legal",
+      "matched": false
+    },
+    {
+      "name": "Lazyweb",
+      "matched": false
+    },
+    {
+      "name": "Aurora",
+      "matched": false
+    },
+    {
+      "name": "CryptoSocials",
+      "matched": false
+    },
+    {
+      "name": "RainbowStats",
+      "matched": false
+    },
+    {
+      "name": "Hologrow",
+      "matched": false
+    },
+    {
+      "name": "august",
+      "matched": false
+    },
+    {
+      "name": "Alizé",
+      "matched": false
+    },
+    {
+      "name": "SiteTrax.io",
+      "matched": false
+    },
+    {
+      "name": "Net Zero Insights",
+      "matched": false
+    },
+    {
+      "name": "Autosheet",
+      "matched": false
+    },
+    {
+      "name": "Recall Scout",
+      "matched": false
+    },
+    {
+      "name": "WaveMaster AI",
+      "matched": false
+    },
+    {
+      "name": "Azadea One",
+      "matched": false
+    },
+    {
+      "name": "RainVis Hourly Weather Charts",
+      "matched": false
+    },
+    {
+      "name": "Webless",
+      "matched": false
+    },
+    {
+      "name": "Quanti IA",
+      "matched": false
+    },
+    {
+      "name": "Collecte MTL",
+      "matched": false
+    },
+    {
+      "name": "Tembi Intelligence",
+      "matched": false
+    },
+    {
+      "name": "Blockworks",
+      "matched": false
+    },
+    {
+      "name": "OWOX Data Marts",
+      "matched": false
+    },
+    {
+      "name": "Padel Analyst",
+      "matched": false
+    },
+    {
+      "name": "Adzviser Amazon Seller Central",
+      "matched": false
+    },
+    {
+      "name": "HORIZON SHIELD",
+      "matched": false
+    },
+    {
+      "name": "Dash Social",
+      "matched": false
+    },
+    {
+      "name": "Repuso Reviews",
+      "matched": false
+    },
+    {
+      "name": "DataAssist-IO",
+      "matched": false
+    },
+    {
+      "name": "GeoAI Skills",
+      "matched": false
+    },
+    {
+      "name": "Damoov Telematics",
+      "matched": false
+    },
+    {
+      "name": "DoveVannoINostriSoldi",
+      "matched": false
+    },
+    {
+      "name": "Refiner",
+      "matched": false
+    },
+    {
+      "name": "LinkedIn Career Intelligence",
+      "matched": false
+    },
+    {
+      "name": "AIDA",
+      "matched": false
+    },
+    {
+      "name": "Jepto",
+      "matched": false
+    },
+    {
+      "name": "Trakkr",
+      "matched": false
+    },
+    {
+      "name": "Looki",
+      "matched": false
+    },
+    {
+      "name": "ECDB",
+      "matched": false
+    },
+    {
+      "name": "TubeLab",
+      "matched": false
+    },
+    {
+      "name": "Reevl",
+      "matched": false
+    },
+    {
+      "name": "RED Atlas API",
+      "matched": false
+    },
+    {
+      "name": "Sleekplan",
+      "matched": false
+    },
+    {
+      "name": "Datadog Experiments",
+      "matched": true
+    },
+    {
+      "name": "Julius: Excel & Data Analysis",
+      "matched": false
+    },
+    {
+      "name": "Parse.ly",
+      "matched": false
+    },
+    {
+      "name": "Impala",
+      "matched": false
+    },
+    {
+      "name": "USAspending by 1102tools",
+      "matched": false
+    },
+    {
+      "name": "R Programming Expert",
+      "matched": false
+    },
+    {
+      "name": "Fullmetrix",
+      "matched": false
+    },
+    {
+      "name": "New Vintage",
+      "matched": false
+    },
+    {
+      "name": "ProfileID",
+      "matched": false
+    },
+    {
+      "name": "Lightreel",
+      "matched": false
+    },
+    {
+      "name": "GovScanner",
+      "matched": false
+    },
+    {
+      "name": "SEOmatic SEO Audit",
+      "matched": false
+    },
+    {
+      "name": "Gainsight Customer Communities",
+      "matched": false
+    },
+    {
+      "name": "TopicLift Editorial Insights",
+      "matched": false
+    },
+    {
+      "name": "eRank",
+      "matched": false
+    },
+    {
+      "name": "AirOps",
+      "matched": false
+    },
+    {
+      "name": "smart-me",
+      "matched": false
+    },
+    {
+      "name": "eCFR by 1102tools",
+      "matched": false
+    },
+    {
+      "name": "Maxed",
+      "matched": false
+    },
+    {
+      "name": "PowerDMARC",
+      "matched": false
+    },
+    {
+      "name": "Marketing Intelligence",
+      "matched": false
+    },
+    {
+      "name": "Finseo",
+      "matched": false
+    },
+    {
+      "name": "Juicy Profit Analytics",
+      "matched": false
+    },
+    {
+      "name": "Keyword Tool Pro",
+      "matched": false
+    },
+    {
+      "name": "Ingest Labs",
+      "matched": false
+    },
+    {
+      "name": "Normalic Assistant",
+      "matched": false
+    },
+    {
+      "name": "Allium",
+      "matched": false
+    },
+    {
+      "name": "Infoparcelle",
+      "matched": false
+    },
+    {
+      "name": "Lead Recorder",
+      "matched": false
+    },
+    {
+      "name": "AiTrillion",
+      "matched": false
+    },
+    {
+      "name": "PerceptionX",
+      "matched": false
+    },
+    {
+      "name": "DolphinX",
+      "matched": false
+    },
+    {
+      "name": "Cargo",
+      "matched": false
+    },
+    {
+      "name": "DataForSEO",
+      "matched": false
+    },
+    {
+      "name": "viral.app",
+      "matched": false
+    },
+    {
+      "name": "Steep",
+      "matched": false
+    },
+    {
+      "name": "WisdomAI",
+      "matched": true
+    },
+    {
+      "name": "Real-Time LCA",
+      "matched": false
+    },
+    {
+      "name": "Riveter",
+      "matched": false
+    },
+    {
+      "name": "MerchantFlow",
+      "matched": false
+    },
+    {
+      "name": "Fodda Intelligence",
+      "matched": false
+    },
+    {
+      "name": "InfiniteWatch",
+      "matched": false
+    },
+    {
+      "name": "Upspring",
+      "matched": false
+    },
+    {
+      "name": "Aria",
+      "matched": false
+    },
+    {
+      "name": "Football Charts",
+      "matched": false
+    },
+    {
+      "name": "Savri",
+      "matched": false
+    },
+    {
+      "name": "Otnox",
+      "matched": false
+    },
+    {
+      "name": "LocationLists",
+      "matched": false
+    },
+    {
+      "name": "Technis",
+      "matched": false
+    },
+    {
+      "name": "Kanal",
+      "matched": false
+    },
+    {
+      "name": "GSA CALC+ by 1102tools",
+      "matched": false
+    },
+    {
+      "name": "Churn Solution",
+      "matched": false
+    },
+    {
+      "name": "Pressure Atlas",
+      "matched": false
+    },
+    {
+      "name": "Leadstore.xyz: AI Visibility",
+      "matched": false
+    },
+    {
+      "name": "Soku",
+      "matched": false
+    },
+    {
+      "name": "Unwrap",
+      "matched": false
+    },
+    {
+      "name": "Wren AI",
+      "matched": false
+    },
+    {
+      "name": "Adzviser TikTok Ads",
+      "matched": false
+    },
+    {
+      "name": "EBHOOM EMS",
+      "matched": false
+    },
+    {
+      "name": "v2v",
+      "matched": false
+    },
+    {
+      "name": "Nanga",
+      "matched": false
+    },
+    {
+      "name": "Agenticaso",
+      "matched": false
+    },
+    {
+      "name": "Seline",
+      "matched": false
+    },
+    {
+      "name": "Data Market",
+      "matched": false
+    },
+    {
+      "name": "Omnia",
+      "matched": false
+    },
+    {
+      "name": "MaxAEO AI Visibility",
+      "matched": false
+    },
+    {
+      "name": "SignalCrow",
+      "matched": false
+    },
+    {
+      "name": "Advan Research REI",
+      "matched": false
+    },
+    {
+      "name": "Feedoptimise",
+      "matched": false
+    },
+    {
+      "name": "Montis.icu Coach",
+      "matched": false
+    },
+    {
+      "name": "Farmbit",
+      "matched": false
+    },
+    {
+      "name": "Index Energia",
+      "matched": false
+    },
+    {
+      "name": "Cubi Estate",
+      "matched": false
+    },
+    {
+      "name": "EdgePilot Research",
+      "matched": false
+    },
+    {
+      "name": "Data Engineering Copilot",
+      "matched": false
+    },
+    {
+      "name": "Plota: Planning Applications",
+      "matched": false
+    },
+    {
+      "name": "Nexscope",
+      "matched": false
+    },
+    {
+      "name": "Microburbs",
+      "matched": false
+    },
+    {
+      "name": "USDT & USDC Blacklist Tracker",
+      "matched": false
+    },
+    {
+      "name": "Peaka",
+      "matched": false
+    },
+    {
+      "name": "Epinium",
+      "matched": false
+    },
+    {
+      "name": "Enrow",
+      "matched": false
+    },
+    {
+      "name": "Momently",
+      "matched": false
+    },
+    {
+      "name": "ThoughtSpot SpotterCode",
+      "matched": true
+    },
+    {
+      "name": "Everest Group AI",
+      "matched": false
+    },
+    {
+      "name": "Fit File Forge",
+      "matched": false
+    },
+    {
+      "name": "SalaryAPI",
+      "matched": false
+    },
+    {
+      "name": "Versive",
+      "matched": false
+    },
+    {
+      "name": "DSIR GHO Health Data Skill",
+      "matched": false
+    },
+    {
+      "name": "HFS Research",
+      "matched": false
+    },
+    {
+      "name": "astronomer-data",
+      "matched": false
+    },
+    {
+      "name": "Flippo AI",
+      "matched": false
+    },
+    {
+      "name": "DSIR SDG Data Skill",
+      "matched": false
+    },
+    {
+      "name": "Pillr",
+      "matched": false
+    },
+    {
+      "name": "ExplorationMaps",
+      "matched": false
+    },
+    {
+      "name": "TuneWorks",
+      "matched": false
+    },
+    {
+      "name": "The Viral Sauce",
+      "matched": false
+    },
+    {
+      "name": "ActivityInfo.org",
+      "matched": false
+    },
+    {
+      "name": "Statiko",
+      "matched": false
+    },
+    {
+      "name": "Docteur Bet",
+      "matched": false
+    },
+    {
+      "name": "Seal Copilot",
+      "matched": false
+    },
+    {
+      "name": "Local SEO by VibeSEO",
+      "matched": false
+    },
+    {
+      "name": "TalkToData Analytics",
+      "matched": false
+    },
+    {
+      "name": "Intentwise",
+      "matched": false
+    },
+    {
+      "name": "CallRail",
+      "matched": false
+    },
+    {
+      "name": "Search Console by VibeSEO",
+      "matched": false
+    },
+    {
+      "name": "ASOScan App Store Optimization",
+      "matched": false
+    },
+    {
+      "name": "Intuizi",
+      "matched": false
+    },
+    {
+      "name": "TerraLab",
+      "matched": false
+    },
+    {
+      "name": "DATAV3 Search",
+      "matched": false
+    },
+    {
+      "name": "IntelliGoal",
+      "matched": false
+    },
+    {
+      "name": "Jsonify",
+      "matched": false
+    },
+    {
+      "name": "Autobound",
+      "matched": false
+    },
+    {
+      "name": "GrowByData Compass",
+      "matched": false
+    },
+    {
+      "name": "Laup",
+      "matched": false
+    },
+    {
+      "name": "Genseo",
+      "matched": false
+    },
+    {
+      "name": "Fospha (North & South America)",
+      "matched": false
+    },
+    {
+      "name": "Hypha",
+      "matched": false
+    },
+    {
+      "name": "Converly",
+      "matched": false
+    },
+    {
+      "name": "Agentio",
+      "matched": false
+    },
+    {
+      "name": "Docket Demand MCP",
+      "matched": false
+    },
+    {
+      "name": "Lemonado Marketing Analytics",
+      "matched": false
+    },
+    {
+      "name": "TitanSigma",
+      "matched": false
+    },
+    {
+      "name": "BLS OEWS by 1102tools",
+      "matched": false
+    },
+    {
+      "name": "LeagueSaga",
+      "matched": false
+    },
+    {
+      "name": "MiningBridge Intelligence",
+      "matched": false
+    },
+    {
+      "name": "Nova42",
+      "matched": false
+    },
+    {
+      "name": "Socialinsider",
+      "matched": false
+    },
+    {
+      "name": "Statable",
+      "matched": false
+    },
+    {
+      "name": "Google Tag Manager by HYPD",
+      "matched": false
+    },
+    {
+      "name": "Sheet Geek",
+      "matched": false
+    },
+    {
+      "name": "Adzviser CallTrackingMetrics",
+      "matched": false
+    },
+    {
+      "name": "CFDB",
+      "matched": false
+    },
+    {
+      "name": "AI SEO by VibeSEO",
+      "matched": false
+    },
+    {
+      "name": "Simma",
+      "matched": false
+    },
+    {
+      "name": "ProfitHero",
+      "matched": false
+    },
+    {
+      "name": "Charts by Szum",
+      "matched": false
+    },
+    {
+      "name": "AfAMax Property Calculations",
+      "matched": false
+    }
+  ]
+}
