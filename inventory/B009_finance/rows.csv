@@ -1,0 +1,506 @@
+﻿row_id,page,column,row,display_name,candidate_text,status,note,ocr_raw,matched_before,evidence
+p01L01,1,L,1,Interactive Brokers (IBKR),Interactive Brokers (IBKR),画像照合済み,,Interactive Brokers (IBKR),True,evidence/page-01.png
+p01L02,1,L,2,Binance,Binance,画像照合済み,,Binance,True,evidence/page-01.png
+p01L03,1,L,3,Stripe,Stripe,画像照合済み,,Stripe,True,evidence/page-01.png
+p01L04,1,L,4,Bigdata.com,Bigdata.com,画像照合済み,,Bigdata.com,False,evidence/page-01.png
+p01L05,1,L,5,Financial Datasets,Financial Datasets,画像照合済み,,Financial Datasets,False,evidence/page-01.png
+p01L06,1,L,6,IOL invertironline,IOL invertironline,画像照合済み,,IOL invertironline,False,evidence/page-01.png
+p01L07,1,L,7,Parqet,Parqet,画像照合済み,,Parget,False,evidence/page-01.png
+p01L08,1,L,8,TradingCursor,TradingCursor,画像照合済み,,TradingCursor,False,evidence/page-01.png
+p01L09,1,L,9,QBO Connector by Meridian,QBO Connector by Meridian,画像照合済み,,QBO Connector by Meridian,False,evidence/page-01.png
+p01L10,1,L,10,Unusual Whales,Unusual Whales,画像照合済み,,Unusual Whales,False,evidence/page-01.png
+p01L11,1,L,11,FMP,FMP,画像照合済み,,FMP,False,evidence/page-01.png
+p01L12,1,L,12,MyInvestor,MyInvestor,画像照合済み,,Mylnvestor,False,evidence/page-01.png
+p01L13,1,L,13,Quartr,Quartr,画像照合済み,,Quartr,False,evidence/page-01.png
+p01L14,1,L,14,Alpaca Paper Trading,Alpaca Paper Trading,画像照合済み,,Alpaca Paper Trading,False,evidence/page-01.png
+p01L15,1,L,15,Investment Banking,Investment Banking,画像照合済み,,Investment Banking,False,evidence/page-01.png
+p01L16,1,L,16,Fugle-Stock,Fugle-Stock,画像照合済み,,Fugle-Stock,False,evidence/page-01.png
+p01L17,1,L,17,TickerLayer,TickerLayer,画像照合済み,,TickerLayer,False,evidence/page-01.png
+p01L18,1,L,18,Portfolio Dividend Tracker,Portfolio Dividend Tracker,画像照合済み,,Portfolio Dividend Tracker,False,evidence/page-01.png
+p01L19,1,L,19,StrategyTune: Backtesting,StrategyTune: Backtesting,画像照合済み,,StrategyTune: Backtesting,False,evidence/page-01.png
+p01L20,1,L,20,Zacks Financial Data,Zacks Financial Data,画像照合済み,,Zacks Financial Data,False,evidence/page-01.png
+p01L21,1,L,21,PayPal,PayPal,画像照合済み,,PayPal,True,evidence/page-01.png
+p01L22,1,L,22,Fiscal.ai,Fiscal.ai,画像照合済み,,Fiscal.ai,False,evidence/page-01.png
+p01L23,1,L,23,Next Stock - Market Insights,Next Stock - Market Insights,画像照合済み,,Next Stock - Market Insights,False,evidence/page-01.png
+p01L24,1,L,24,Kubera,Kubera,画像照合済み,,Kubera,False,evidence/page-01.png
+p01L25,1,L,25,VODER,VODER,画像照合済み,,VODER,False,evidence/page-01.png
+p01L26,1,L,26,Pocket Ledger Expense Tracker,Pocket Ledger Expense Tracker,画像照合済み,,Pocket Ledger Expense Tracker,False,evidence/page-01.png
+p01L27,1,L,27,FinancialFilings,FinancialFilings,画像照合済み,,FinancialFilings,False,evidence/page-01.png
+p01L28,1,L,28,Accounting,Accounting,画像照合済み,,Accounting,False,evidence/page-01.png
+p01L29,1,L,29,The Fly Market Intelligence,The Fly Market Intelligence,画像照合済み,,The Fly Market Intelligence,False,evidence/page-01.png
+p01L30,1,L,30,Finhay,Finhay,画像照合済み,,Finhay,False,evidence/page-01.png
+p01L31,1,L,31,Razorpay,Razorpay,画像照合済み,,Razorpay,False,evidence/page-01.png
+p01L32,1,L,32,Bull AI,Bull AI,画像照合済み,,Bull Al,False,evidence/page-01.png
+p01L33,1,L,33,Exum: ExoScope Crypto,Exum: ExoScope Crypto,画像照合済み,,Exum: ExoScope Crypto,False,evidence/page-01.png
+p01L34,1,L,34,KiasuMiles,KiasuMiles,画像照合済み,,KiasuMiles,False,evidence/page-01.png
+p01L35,1,L,35,AIXBT,AIXBT,画像照合済み,,AIXBT,False,evidence/page-01.png
+p01L36,1,L,36,IBI SMART,IBI SMART,画像照合済み,,IBI SMART,False,evidence/page-01.png
+p01L37,1,L,37,Aiera,Aiera,画像照合済み,,Aiera,False,evidence/page-01.png
+p01L38,1,L,38,YNAB: Get Good At Money,YNAB: Get Good At Money,画像照合済み,,YNAB: Get Good At Money,False,evidence/page-01.png
+p01L39,1,L,39,Manulife®,Manulife®,画像照合済み,,Manulife®,False,evidence/page-01.png
+p01L40,1,L,40,MetricDuck,MetricDuck,画像照合済み,,MetricDuck,False,evidence/page-01.png
+p01L41,1,L,41,S&P Global - Deterministic,S&P Global - Deterministic,画像照合済み,,S&P Global - Deterministic,False,evidence/page-01.png
+p01L42,1,L,42,Third Bridge,Third Bridge,画像照合済み,,Third Bridge,False,evidence/page-01.png
+p01L43,1,L,43,InvestmentIQ,InvestmentIQ,画像照合済み,,InvestmentIQ,False,evidence/page-01.png
+p01R01,1,R,1,Public Equity Investing,Public Equity Investing,画像照合済み,,Public Equity Investing,True,evidence/page-01.png
+p01R02,1,R,2,Longbridge,Longbridge,画像照合済み,,Longbridge,False,evidence/page-01.png
+p01R03,1,R,3,Massive,Massive,画像照合済み,,Massive,False,evidence/page-01.png
+p01R04,1,R,4,CoinMarketCap,CoinMarketCap,画像照合済み,,CoinMarketCap,False,evidence/page-01.png
+p01R05,1,R,5,CoinGecko,CoinGecko,画像照合済み,,CoinGecko,False,evidence/page-01.png
+p01R06,1,R,6,Webull,Webull,画像照合済み,,Webull,False,evidence/page-01.png
+p01R07,1,R,7,Alpha Vantage,Alpha Vantage,画像照合済み,,Alpha Vantage,False,evidence/page-01.png
+p01R08,1,R,8,Stocktwits,Stocktwits,画像照合済み,,Stocktwits,False,evidence/page-01.png
+p01R09,1,R,9,Bybit,Bybit,画像照合済み,,Bybit,False,evidence/page-01.png
+p01R10,1,R,10,Xero,Xero,画像照合済み,,Xero,False,evidence/page-01.png
+p01R11,1,R,11,TipRanks,TipRanks,画像照合済み,,TipRanks,False,evidence/page-01.png
+p01R12,1,R,12,Era Context,Era Context,画像照合済み,,Era Context,False,evidence/page-01.png
+p01R13,1,R,13,Moneytree,Moneytree,画像照合済み,,Moneytree,False,evidence/page-01.png
+p01R14,1,R,14,TraderSpy,TraderSpy,画像照合済み,,TraderSpy,False,evidence/page-01.png
+p01R15,1,R,15,CryptoAudit,CryptoAudit,画像照合済み,,CryptoAudit,False,evidence/page-01.png
+p01R16,1,R,16,Co-Invest,Co-Invest,画像照合済み,,Co-Invest,False,evidence/page-01.png
+p01R17,1,R,17,Rallies,Rallies,画像照合済み,,Rallies,False,evidence/page-01.png
+p01R18,1,R,18,Mercury,Mercury,画像照合済み,,Mercury,True,evidence/page-01.png
+p01R19,1,R,19,LONA™,LONA™,画像照合済み,,LONA™,False,evidence/page-01.png
+p01R20,1,R,20,AlphaStocks,AlphaStocks,画像照合済み,,AlphaStocks,False,evidence/page-01.png
+p01R21,1,R,21,Synci,Synci,画像照合済み,,Synci,False,evidence/page-01.png
+p01R22,1,R,22,Revolut X,Revolut X,画像照合済み,,Revolut X,False,evidence/page-01.png
+p01R23,1,R,23,Token Terminal,Token Terminal,画像照合済み,,Token Terminal,False,evidence/page-01.png
+p01R24,1,R,24,Itau Beneficios,Itau Beneficios,画像照合済み,,Itau Beneficios,False,evidence/page-01.png
+p01R25,1,R,25,PitchBook,PitchBook,画像照合済み,,PitchBook,False,evidence/page-01.png
+p01R26,1,R,26,PicPay,PicPay,画像照合済み,,PicPay,False,evidence/page-01.png
+p01R27,1,R,27,Fakturoid,Fakturoid,画像照合済み,,Fakturoid,False,evidence/page-01.png
+p01R28,1,R,28,ForInvest,ForInvest,画像照合済み,,ForlInvest,False,evidence/page-01.png
+p01R29,1,R,29,FactSet AI-Ready Data,FactSet AI-Ready Data,画像照合済み,,FactSet Al-Ready Data,False,evidence/page-01.png
+p01R30,1,R,30,StockLens,StockLens,画像照合済み,,StockLens,False,evidence/page-01.png
+p01R31,1,R,31,PocketSmith Complete Access,PocketSmith Complete Access,画像照合済み,,PocketSmith Complete Access,False,evidence/page-01.png
+p01R32,1,R,32,LSEG,LSEG,画像照合済み,,LSEG,False,evidence/page-01.png
+p01R33,1,R,33,Crunchbase,Crunchbase,画像照合済み,,Crunchbase,False,evidence/page-01.png
+p01R34,1,R,34,Xero Connector by Meridian,Xero Connector by Meridian,画像照合済み,,Xero Connector by Meridian,False,evidence/page-01.png
+p01R35,1,R,35,Morningstar,Morningstar,画像照合済み,,Morningstar,False,evidence/page-01.png
+p01R36,1,R,36,Simply Family Budget,Simply Family Budget,画像照合済み,,Simply Family Budget,False,evidence/page-01.png
+p01R37,1,R,37,Gainium,Gainium,画像照合済み,,Gainium,False,evidence/page-01.png
+p01R38,1,R,38,Halkbank,Halkbank,画像照合済み,,Halkbank,False,evidence/page-01.png
+p01R39,1,R,39,Expensify,Expensify,画像照合済み,,Expensify,False,evidence/page-01.png
+p01R40,1,R,40,GoCardless,GoCardless,画像照合済み,,GoCardless,False,evidence/page-01.png
+p01R41,1,R,41,CloFin,CloFin,画像照合済み,,CloFin,False,evidence/page-01.png
+p01R42,1,R,42,Financial Summarizer Pro,Financial Summarizer Pro,画像照合済み,,Financial Summarizer Pro,False,evidence/page-01.png
+p01R43,1,R,43,Economic Mind,Economic Mind,画像照合済み,,Economic Mind,False,evidence/page-01.png
+p02L01,2,L,1,Alpaca Live,Alpaca Live,画像照合済み,,Alpaca Live,False,evidence/page-02.png
+p02L02,2,L,2,Learn to invest with AJ Bell,Learn to invest with AJ Bell,画像照合済み,,Learn to invest with AJ Bell,False,evidence/page-02.png
+p02L03,2,L,3,LunarCrush,LunarCrush,画像照合済み,,LunarCrush,False,evidence/page-02.png
+p02L04,2,L,4,MSCI Connector,MSCI Connector,画像照合済み,,MSCI Connector,False,evidence/page-02.png
+p02L05,2,L,5,Kick,Kick,画像照合済み,,Kick,False,evidence/page-02.png
+p02L06,2,L,6,Double,Double,画像照合済み,,Double,False,evidence/page-02.png
+p02L07,2,L,7,Freeway Insurance,Freeway Insurance,画像照合済み,,Freeway Insurance,False,evidence/page-02.png
+p02L08,2,L,8,WealthCheck Financial Planner,WealthCheck Financial Planner,画像照合済み,,WealthCheck Financial Planner,False,evidence/page-02.png
+p02L09,2,L,9,Options Analysis Suite,Options Analysis Suite,画像照合済み,,Options Analysis Suite,False,evidence/page-02.png
+p02L10,2,L,10,Clear Energy Facts,Clear Energy Facts,画像照合済み,,Clear Energy Facts,False,evidence/page-02.png
+p02L11,2,L,11,RealEstateIQ,RealEstateIQ,画像照合済み,,RealEstatelQ,False,evidence/page-02.png
+p02L12,2,L,12,PointBagel,PointBagel,画像照合済み,,PointBagel,False,evidence/page-02.png
+p02L13,2,L,13,Elecz - Electricity Prices,Elecz - Electricity Prices,画像照合済み,,Elecz - Electricity Prices,False,evidence/page-02.png
+p02L14,2,L,14,Mansa African Markets,Mansa African Markets,画像照合済み,,Mansa African Markets,False,evidence/page-02.png
+p02L15,2,L,15,Tuio,Tuio,画像照合済み,,Tuio,False,evidence/page-02.png
+p02L16,2,L,16,Cube,Cube,画像照合済み,,Cube,False,evidence/page-02.png
+p02L17,2,L,17,TradingNX Risk Manager,TradingNX Risk Manager,画像照合済み,,TradingNX Risk Manager,False,evidence/page-02.png
+p02L18,2,L,18,Paribu,Paribu,画像照合済み,,Paribu,False,evidence/page-02.png
+p02L19,2,L,19,ExpenseBot,ExpenseBot,画像照合済み,,ExpenseBot,False,evidence/page-02.png
+p02L20,2,L,20,Gate Info,Gate Info,画像照合済み,,Gate Info,False,evidence/page-02.png
+p02L21,2,L,21,Western Union,Western Union,画像照合済み,,Western Union,False,evidence/page-02.png
+p02L22,2,L,22,Moody's,Moody's,画像照合済み,,Moody's,False,evidence/page-02.png
+p02L23,2,L,23,Money by Checkr,Money by Checkr,画像照合済み,,Money by Checkr,False,evidence/page-02.png
+p02L24,2,L,24,OptionClaws Options Scanner,OptionClaws Options Scanner,画像照合済み,,OptionClaws Options Scanner,False,evidence/page-02.png
+p02L25,2,L,25,Pane,Pane,画像照合済み,,Pane,False,evidence/page-02.png
+p02L26,2,L,26,TrueProfit,TrueProfit,画像照合済み,,TrueProfit,False,evidence/page-02.png
+p02L27,2,L,27,Plymouth Rock Home Assurance,Plymouth Rock Home Assurance,画像照合済み,,Plymouth Rock Home Assurance,False,evidence/page-02.png
+p02L28,2,L,28,Boleron AI Insurance Broker,Boleron AI Insurance Broker,画像照合済み,,Boleron Al Insurance Broker,False,evidence/page-02.png
+p02L29,2,L,29,Mortgage IQ,Mortgage IQ,画像照合済み,,Mortgage IQ,False,evidence/page-02.png
+p02L30,2,L,30,Ethos,Ethos,画像照合済み,,Ethos,False,evidence/page-02.png
+p02L31,2,L,31,VUHL VA Loan Calculator,VUHL VA Loan Calculator,画像照合済み,,VUHL VA Loan Calculator,False,evidence/page-02.png
+p02L32,2,L,32,WikiFx,WikiFx,画像照合済み,,WikiFx,False,evidence/page-02.png
+p02L33,2,L,33,Leocare,Leocare,画像照合済み,,Leocare,False,evidence/page-02.png
+p02L34,2,L,34,Deal Analyzer MCP,Deal Analyzer MCP,画像照合済み,,Deal Analyzer MCP,False,evidence/page-02.png
+p02L35,2,L,35,Sponge,Sponge,画像照合済み,,Sponge,False,evidence/page-02.png
+p02L36,2,L,36,AmazingPensions,AmazingPensions,画像照合済み,,AmazingPensions,False,evidence/page-02.png
+p02L37,2,L,37,ElevenFlo,ElevenFlo,画像照合済み,,ElevenFlo,False,evidence/page-02.png
+p02L38,2,L,38,Mamble Calculators,Mamble Calculators,画像照合済み,,Mamble Calculators,False,evidence/page-02.png
+p02L39,2,L,39,Superfunds,Superfunds,画像照合済み,,Superfunds,False,evidence/page-02.png
+p02L40,2,L,40,NestPilot,NestPilot,画像照合済み,,NestPilot,False,evidence/page-02.png
+p02L41,2,L,41,Moody's Credit,Moody's Credit,画像照合済み,,Moody's Credit,False,evidence/page-02.png
+p02L42,2,L,42,AutoIQ,AutoIQ,画像照合済み,,AutolQ,False,evidence/page-02.png
+p02L43,2,L,43,Capycash,Capycash,画像照合済み,,Capycash,False,evidence/page-02.png
+p02L44,2,L,44,RateAPI,RateAPI,画像照合済み,,RateAPI,False,evidence/page-02.png
+p02L45,2,L,45,Photon Commerce,Photon Commerce,画像照合済み,,Photon Commerce,False,evidence/page-02.png
+p02L46,2,L,46,Zocks,Zocks,画像照合済み,,Zocks,False,evidence/page-02.png
+p02L47,2,L,47,Nella Finance AI,Nella Finance AI,画像照合済み,,Nella Finance Al,False,evidence/page-02.png
+p02R01,2,R,1,Manilo,Manilo,画像照合済み,,Manilo,False,evidence/page-02.png
+p02R02,2,R,2,Elevate Invoices,Elevate Invoices,画像照合済み,,Elevate Invoices,False,evidence/page-02.png
+p02R03,2,R,3,XE Currency Converter,XE Currency Converter,画像照合済み,,XE Currency Converter,False,evidence/page-02.png
+p02R04,2,R,4,Bajaj Broking,Bajaj Broking,画像照合済み,,Bajaj Broking,False,evidence/page-02.png
+p02R05,2,R,5,CB Insights,CB Insights,画像照合済み,,CB Insights,False,evidence/page-02.png
+p02R06,2,R,6,Dakota Marketplace,Dakota Marketplace,画像照合済み,,Dakota Marketplace,False,evidence/page-02.png
+p02R07,2,R,7,Daloopa,Daloopa,画像照合済み,,Daloopa,False,evidence/page-02.png
+p02R08,2,R,8,Cactus: Real Estate Analysis,Cactus: Real Estate Analysis,画像照合済み,,Cactus: Real Estate Analysis,False,evidence/page-02.png
+p02R09,2,R,9,Jaz Accounting,Jaz Accounting,画像照合済み,,Jaz Accounting,False,evidence/page-02.png
+p02R10,2,R,10,Brex,Brex,画像照合済み,,Brex,False,evidence/page-02.png
+p02R11,2,R,11,Lev,Lev,画像照合済み,,Lev,False,evidence/page-02.png
+p02R12,2,R,12,Finmagine,Finmagine,画像照合済み,,Finmagine,False,evidence/page-02.png
+p02R13,2,R,13,RetirementIQ,RetirementIQ,画像照合済み,,RetirementiQ,False,evidence/page-02.png
+p02R14,2,R,14,PortfolioIQ,PortfolioIQ,画像照合済み,,PortfoliolQ,False,evidence/page-02.png
+p02R15,2,R,15,Nansen,Nansen,画像照合済み,,Nansen,False,evidence/page-02.png
+p02R16,2,R,16,Harmonic,Harmonic,画像照合済み,,Harmonic,False,evidence/page-02.png
+p02R17,2,R,17,Bankrate,Bankrate,画像照合済み,,Bankrate,False,evidence/page-02.png
+p02R18,2,R,18,Allianz Direct España,Allianz Direct España,画像照合済み,,Allianz Direct Espafia,False,evidence/page-02.png
+p02R19,2,R,19,UK Property Valuation,UK Property Valuation,画像照合済み,,UK Property Valuation,False,evidence/page-02.png
+p02R20,2,R,20,Mashvisor,Mashvisor,画像照合済み,,Mashvisor,False,evidence/page-02.png
+p02R21,2,R,21,Superbrain Finanzas,Superbrain Finanzas,画像照合済み,,Superbrain Finanzas,False,evidence/page-02.png
+p02R22,2,R,22,Buy Or Rent Simulator,Buy Or Rent Simulator,画像照合済み,,Buy Or Rent Simulator,False,evidence/page-02.png
+p02R23,2,R,23,Ekohesap,Ekohesap,画像照合済み,,Ekohesap,False,evidence/page-02.png
+p02R24,2,R,24,Any Exchange Rate,Any Exchange Rate,画像照合済み,,Any Exchange Rate,False,evidence/page-02.png
+p02R25,2,R,25,Kredit,Kredit,画像照合済み,,Kredit,False,evidence/page-02.png
+p02R26,2,R,26,RealOpen,RealOpen,画像照合済み,,RealOpen,False,evidence/page-02.png
+p02R27,2,R,27,Fahali,Fahali,画像照合済み,,Fahali,False,evidence/page-02.png
+p02R28,2,R,28,AnyMortgageCalculator,AnyMortgageCalculator,画像照合済み,,AnyMortgageCalculator,False,evidence/page-02.png
+p02R29,2,R,29,Sacra,Sacra,画像照合済み,,Sacra,False,evidence/page-02.png
+p02R30,2,R,30,SecureLend,SecureLend,画像照合済み,,SecureLend,False,evidence/page-02.png
+p02R31,2,R,31,Refermate,Refermate,画像照合済み,,Refermate,False,evidence/page-02.png
+p02R32,2,R,32,TaxHeaven,TaxHeaven,画像照合済み,,TaxHeaven,False,evidence/page-02.png
+p02R33,2,R,33,Cashfree,Cashfree,画像照合済み,,Cashfree,False,evidence/page-02.png
+p02R34,2,R,34,Granatum Financeiro,Granatum Financeiro,画像照合済み,,Granatum Financeiro,False,evidence/page-02.png
+p02R35,2,R,35,Aave,Aave,画像照合済み,,Aave,False,evidence/page-02.png
+p02R36,2,R,36,Xflow,Xflow,画像照合済み,,Xflow,False,evidence/page-02.png
+p02R37,2,R,37,MutuiOnline.it,MutuiOnline.it,画像照合済み,,MutuiOnline.it,False,evidence/page-02.png
+p02R38,2,R,38,Akaunting,Akaunting,画像照合済み,,Akaunting,False,evidence/page-02.png
+p02R39,2,R,39,WalleK,WalleK,画像照合済み,,WalleK,False,evidence/page-02.png
+p02R40,2,R,40,ualet,ualet,画像照合済み,,ualet,False,evidence/page-02.png
+p02R41,2,R,41,GrantLink,GrantLink,画像照合済み,,GrantLink,False,evidence/page-02.png
+p02R42,2,R,42,Aleph,Aleph,画像照合済み,,Aleph,False,evidence/page-02.png
+p02R43,2,R,43,Whisper Money,Whisper Money,画像照合済み,,Whisper Money,False,evidence/page-02.png
+p02R44,2,R,44,Facile.it,Facile.it,画像照合済み,,Facile.it,False,evidence/page-02.png
+p02R45,2,R,45,Fintoc,Fintoc,画像照合済み,,Fintoc,False,evidence/page-02.png
+p02R46,2,R,46,Chargebee (US Region),Chargebee (US Region),画像照合済み,,Chargebee (US Region),False,evidence/page-02.png
+p02R47,2,R,47,AuctionScout,AuctionScout,画像照合済み,,AuctionScout,False,evidence/page-02.png
+p03L01,3,L,1,Midpoint Card Prices,Midpoint Card Prices,画像照合済み,,Midpoint Card Prices,False,evidence/page-03.png
+p03L02,3,L,2,Pretto,Pretto,画像照合済み,,Pretto,False,evidence/page-03.png
+p03L03,3,L,3,Vector Smart Chain,Vector Smart Chain,画像照合済み,,Vector Smart Chain,False,evidence/page-03.png
+p03L04,3,L,4,Guidepoint,Guidepoint,画像照合済み,,Guidepoint,False,evidence/page-03.png
+p03L05,3,L,5,Wisesheets,Wisesheets,画像照合済み,,Wisesheets,False,evidence/page-03.png
+p03L06,3,L,6,Norman,Norman,画像照合済み,,Norman,False,evidence/page-03.png
+p03L07,3,L,7,Shinhan Securities Assistant,Shinhan Securities Assistant,画像照合済み,,Shinhan Securities Assistant,False,evidence/page-03.png
+p03L08,3,L,8,Stock Market Summary,Stock Market Summary,画像照合済み,,Stock Market Summary,False,evidence/page-03.png
+p03L09,3,L,9,In Practise,In Practise,画像照合済み,,In Practise,False,evidence/page-03.png
+p03L10,3,L,10,GlobalSource Partners,GlobalSource Partners,画像照合済み,,GlobalSource Partners,False,evidence/page-03.png
+p03L11,3,L,11,Seguro Match,Seguro Match,画像照合済み,,Seguro Match,False,evidence/page-03.png
+p03L12,3,L,12,Octus,Octus,画像照合済み,,Octus,False,evidence/page-03.png
+p03L13,3,L,13,SaaSFlow,SaaSFlow,画像照合済み,,SaaSFlow,False,evidence/page-03.png
+p03L14,3,L,14,Pazy,Pazy,画像照合済み,,Pazy,False,evidence/page-03.png
+p03L15,3,L,15,Addy AI,Addy AI,画像照合済み,,Addy Al,False,evidence/page-03.png
+p03L16,3,L,16,Pine Labs Payment Assistant,Pine Labs Payment Assistant,画像照合済み,,Pine Labs Payment Assistant,False,evidence/page-03.png
+p03L17,3,L,17,Calculadora de Combustível,Calculadora de Combustível,画像照合済み,,Calculadora de Combustivel,False,evidence/page-03.png
+p03L18,3,L,18,Investra,Investra,画像照合済み,,Investra,False,evidence/page-03.png
+p03L19,3,L,19,D&B Risk Analytics,D&B Risk Analytics,画像照合済み,,D&B Risk Analytics,False,evidence/page-03.png
+p03L20,3,L,20,Kalkınma Yatırım Bankası,Kalkınma Yatırım Bankası,画像照合済み,,Kalkinma Yatirim Bankas!,False,evidence/page-03.png
+p03L21,3,L,21,facturillo,facturillo,画像照合済み,,facturillo,False,evidence/page-03.png
+p03L22,3,L,22,Vantixs,Vantixs,画像照合済み,,Vantixs,False,evidence/page-03.png
+p03L23,3,L,23,ClearCash,ClearCash,画像照合済み,,ClearCash,False,evidence/page-03.png
+p03L24,3,L,24,Europea Seguros,Europea Seguros,画像照合済み,,Europea Seguros,False,evidence/page-03.png
+p03L25,3,L,25,PGicover,PGicover,画像照合済み,,PGicover,False,evidence/page-03.png
+p03L26,3,L,26,Albsig,Albsig,画像照合済み,,Albsig,False,evidence/page-03.png
+p03L27,3,L,27,Stable.com,Stable.com,画像照合済み,,Stable.com,False,evidence/page-03.png
+p03L28,3,L,28,Secfi,Secfi,画像照合済み,,Secfi,False,evidence/page-03.png
+p03L29,3,L,29,Equibles,Equibles,画像照合済み,,Equibles,False,evidence/page-03.png
+p03L30,3,L,30,TaxMadeEazy: Rideshare Ded,TaxMadeEazy: Rideshare Ded,画像照合済み,,TaxMadeEazy: Rideshare Ded,False,evidence/page-03.png
+p03L31,3,L,31,Per Diem,Per Diem,画像照合済み,,Per Diem,False,evidence/page-03.png
+p03L32,3,L,32,FinPilot,FinPilot,画像照合済み,,FinPilot,False,evidence/page-03.png
+p03L33,3,L,33,Nogogo AI,Nogogo AI,画像照合済み,,Nogogo Al,False,evidence/page-03.png
+p03L34,3,L,34,LedgerLens,LedgerLens,画像照合済み,,LedgerLens,False,evidence/page-03.png
+p03L35,3,L,35,Whop,Whop,画像照合済み,,Whop,False,evidence/page-03.png
+p03L36,3,L,36,Moody's Growth and Strategy,Moody's Growth and Strategy,画像照合済み,,Moody's Growth and Strategy,False,evidence/page-03.png
+p03L37,3,L,37,Halan Borsa,Halan Borsa,画像照合済み,,Halan Borsa,False,evidence/page-03.png
+p03L38,3,L,38,Lassie,Lassie,画像照合済み,,Lassie,False,evidence/page-03.png
+p03L39,3,L,39,InsurConnect,InsurConnect,画像照合済み,,InsurConnect,False,evidence/page-03.png
+p03L40,3,L,40,StackerScan,StackerScan,画像照合済み,,StackerScan,False,evidence/page-03.png
+p03L41,3,L,41,Obolus,Obolus,画像照合済み,,Obolus,False,evidence/page-03.png
+p03L42,3,L,42,Bitpanda,Bitpanda,画像照合済み,,Bitpanda,False,evidence/page-03.png
+p03L43,3,L,43,Vings,Vings,画像照合済み,,Vings,False,evidence/page-03.png
+p03L44,3,L,44,Balanços.AI,Balanços.AI,画像照合済み,,Balancos.Al,False,evidence/page-03.png
+p03L45,3,L,45,PortfolioFit,PortfolioFit,画像照合済み,,PortfolioFit,False,evidence/page-03.png
+p03L46,3,L,46,Lexfi,Lexfi,画像照合済み,,Lexfi,False,evidence/page-03.png
+p03R01,3,R,1,Bill Splitter,Bill Splitter,画像照合済み,,Bill Splitter,False,evidence/page-03.png
+p03R02,3,R,2,Billabex,Billabex,画像照合済み,,Billabex,False,evidence/page-03.png
+p03R03,3,R,3,FactorWeave,FactorWeave,画像照合済み,,FactorWeave,False,evidence/page-03.png
+p03R04,3,R,4,MT Newswires,MT Newswires,画像照合済み,,MT Newswires,False,evidence/page-03.png
+p03R05,3,R,5,BizCover AU,BizCover AU,画像照合済み,,BizCover AU,False,evidence/page-03.png
+p03R06,3,R,6,Monito,Monito,画像照合済み,,Monito,False,evidence/page-03.png
+p03R07,3,R,7,Clear Street,Clear Street,画像照合済み,,Clear Street,False,evidence/page-03.png
+p03R08,3,R,8,OakbrookOne,OakbrookOne,画像照合済み,,OakbrookOne,False,evidence/page-03.png
+p03R09,3,R,9,Bank Statement Conversion,Bank Statement Conversion,画像照合済み,,Bank Statement Conversion,False,evidence/page-03.png
+p03R10,3,R,10,Multiples.vc,Multiples.vc,画像照合済み,,Multiples.vc,False,evidence/page-03.png
+p03R11,3,R,11,Borderless Budget,Borderless Budget,画像照合済み,,Borderless Budget,False,evidence/page-03.png
+p03R12,3,R,12,SkyWatch.ai,SkyWatch.ai,画像照合済み,,SkyWatch.ai,False,evidence/page-03.png
+p03R13,3,R,13,Dr. Klein,Dr. Klein,画像照合済み,,Dr. Klein,False,evidence/page-03.png
+p03R14,3,R,14,RateZip Deposit/Mortgage Rates,RateZip Deposit/Mortgage Rates,画像照合済み,,RateZip Deposit/Mortgage Rates,False,evidence/page-03.png
+p03R15,3,R,15,Datarails FinanceOS,Datarails FinanceOS,画像照合済み,,Datarails FinanceOS,False,evidence/page-03.png
+p03R16,3,R,16,ALPHAPORT.AI,ALPHAPORT.AI,画像照合済み,,ALPHAPORT.AI,False,evidence/page-03.png
+p03R17,3,R,17,SueldoNeto,SueldoNeto,画像照合済み,,SueldoNeto,False,evidence/page-03.png
+p03R18,3,R,18,D&B Finance Analytics,D&B Finance Analytics,画像照合済み,,D&B Finance Analytics,False,evidence/page-03.png
+p03R19,3,R,19,Wealthfront,Wealthfront,画像照合済み,,Wealthfront,False,evidence/page-03.png
+p03R20,3,R,20,HelpDol,HelpDol,画像照合済み,,HelpDol,False,evidence/page-03.png
+p03R21,3,R,21,Vestd,Vestd,画像照合済み,,Vestd,False,evidence/page-03.png
+p03R22,3,R,22,CMC Markets,CMC Markets,画像照合済み,,CMC Markets,False,evidence/page-03.png
+p03R23,3,R,23,,GREI,要確認,Iとlの字形は要確認,GREl,False,evidence/page-03.png
+p03R24,3,R,24,Chargebee (EU Region),Chargebee (EU Region),画像照合済み,,Chargebee (EU Region),False,evidence/page-03.png
+p03R25,3,R,25,Savvly,Savvly,画像照合済み,,Savvly,False,evidence/page-03.png
+p03R26,3,R,26,Klardaten DATEV-Connector,Klardaten DATEV-Connector,画像照合済み,,Klardaten DATEV-Connector,False,evidence/page-03.png
+p03R27,3,R,27,Modrek,Modrek,画像照合済み,,Modrek,False,evidence/page-03.png
+p03R28,3,R,28,Tally Markets,Tally Markets,画像照合済み,,Tally Markets,False,evidence/page-03.png
+p03R29,3,R,29,Ambak Loan Offers,Ambak Loan Offers,画像照合済み,,Ambak Loan Offers,False,evidence/page-03.png
+p03R30,3,R,30,Irish Tax Hub,Irish Tax Hub,画像照合済み,,Irish Tax Hub,False,evidence/page-03.png
+p03R31,3,R,31,Réassurez-Moi,Réassurez-Moi,画像照合済み,,Réassurez-Moi,False,evidence/page-03.png
+p03R32,3,R,32,Meshed Cover,Meshed Cover,画像照合済み,,Meshed Cover,False,evidence/page-03.png
+p03R33,3,R,33,Assurance Emprunteur Lemoine,Assurance Emprunteur Lemoine,画像照合済み,,Assurance Emprunteur Lemoine,False,evidence/page-03.png
+p03R34,3,R,34,Assurance Temporaire,Assurance Temporaire,画像照合済み,,Assurance Temporaire,False,evidence/page-03.png
+p03R35,3,R,35,FactIQ,FactIQ,画像照合済み,,FactlQ,False,evidence/page-03.png
+p03R36,3,R,36,Dakota Platform,Dakota Platform,画像照合済み,,Dakota Platform,False,evidence/page-03.png
+p03R37,3,R,37,Noweir Market Data,Noweir Market Data,画像照合済み,,Noweir Market Data,False,evidence/page-03.png
+p03R38,3,R,38,ACE Money Transfer,ACE Money Transfer,画像照合済み,,ACE Money Transfer,False,evidence/page-03.png
+p03R39,3,R,39,Antevo Executive Brief,Antevo Executive Brief,画像照合済み,,Antevo Executive Brief,False,evidence/page-03.png
+p03R40,3,R,40,DayTrading.Monster,DayTrading.Monster,画像照合済み,,DayTrading.Monster,False,evidence/page-03.png
+p03R41,3,R,41,RemitCheap,RemitCheap,画像照合済み,,RemitCheap,False,evidence/page-03.png
+p03R42,3,R,42,Juspay Genius,Juspay Genius,画像照合済み,,Juspay Genius,False,evidence/page-03.png
+p03R43,3,R,43,ClarityTrack,ClarityTrack,画像照合済み,,ClarityTrack,False,evidence/page-03.png
+p03R44,3,R,44,SimsaSplit,SimsaSplit,画像照合済み,,SimsaSplit,False,evidence/page-03.png
+p03R45,3,R,45,Finom,Finom,画像照合済み,,Finom,False,evidence/page-03.png
+p03R46,3,R,46,S&P Global - Adaptive,S&P Global - Adaptive,画像照合済み,,S&P Global - Adaptive,False,evidence/page-03.png
+p04L01,4,L,1,BestRemit,BestRemit,画像照合済み,,BestRemit,False,evidence/page-04.png
+p04L02,4,L,2,Jawz,Jawz,画像照合済み,,Jawz,False,evidence/page-04.png
+p04L03,4,L,3,Lexplorer Swiss Tax Research,Lexplorer Swiss Tax Research,画像照合済み,,Lexplorer Swiss Tax Research,False,evidence/page-04.png
+p04L04,4,L,4,QuanterLab: Backtest Trading,QuanterLab: Backtest Trading,画像照合済み,,QuanterLab: Backtest Trading,False,evidence/page-04.png
+p04L05,4,L,5,Cryptoworth,Cryptoworth,画像照合済み,,Cryptoworth,False,evidence/page-04.png
+p04L06,4,L,6,SAHMK,SAHMK,画像照合済み,,SAHMK,False,evidence/page-04.png
+p04L07,4,L,7,airpay,airpay,画像照合済み,,airpay,False,evidence/page-04.png
+p04L08,4,L,8,FX Hedge,FX Hedge,画像照合済み,,FX Hedge,False,evidence/page-04.png
+p04L09,4,L,9,Thrifle,Thrifle,画像照合済み,,Thrifle,False,evidence/page-04.png
+p04L10,4,L,10,AIR Credit Intelligence,AIR Credit Intelligence,画像照合済み,,AIR Credit Intelligence,False,evidence/page-04.png
+p04L11,4,L,11,Ask Gina,Ask Gina,画像照合済み,,Ask Gina,False,evidence/page-04.png
+p04L12,4,L,12,The Kingdom Bank,The Kingdom Bank,画像照合済み,,The Kingdom Bank,False,evidence/page-04.png
+p04L13,4,L,13,Candor Finance,Candor Finance,画像照合済み,,Candor Finance,False,evidence/page-04.png
+p04L14,4,L,14,MONVELOP,MONVELOP,画像照合済み,,MONVELOP,False,evidence/page-04.png
+p04L15,4,L,15,Theia Insights,Theia Insights,画像照合済み,,Theia Insights,False,evidence/page-04.png
+p04L16,4,L,16,Murali Growth Screener Mobile,Murali Growth Screener Mobile,画像照合済み,,Murali Growth Screener Mobile,False,evidence/page-04.png
+p04L17,4,L,17,PuntoSeguro,PuntoSeguro,画像照合済み,,PuntoSeguro,False,evidence/page-04.png
+p04L18,4,L,18,Laabam.One,Laabam.One,画像照合済み,,Laabam.One,False,evidence/page-04.png
+p04L19,4,L,19,Wefunder,Wefunder,画像照合済み,,Wefunder,False,evidence/page-04.png
+p04L20,4,L,20,HourProof,HourProof,画像照合済み,,HourProof,False,evidence/page-04.png
+p04L21,4,L,21,AI Expense,AI Expense,画像照合済み,,Al Expense,False,evidence/page-04.png
+p04L22,4,L,22,Lendflow,Lendflow,画像照合済み,,Lendflow,False,evidence/page-04.png
+p04L23,4,L,23,No Trilho Finanças,No Trilho Finanças,画像照合済み,,No Trilho Finangas,False,evidence/page-04.png
+p04L24,4,L,24,Bizora Tax Research,Bizora Tax Research,画像照合済み,,Bizora Tax Research,False,evidence/page-04.png
+p04L25,4,L,25,Vaatun,Vaatun,画像照合済み,,Vaatun,False,evidence/page-04.png
+p04L26,4,L,26,Bound MCP,Bound MCP,画像照合済み,,Bound MCP,False,evidence/page-04.png
+p04L27,4,L,27,Donorbox,Donorbox,画像照合済み,,Donorbox,False,evidence/page-04.png
+p04L28,4,L,28,Pocket Runway,Pocket Runway,画像照合済み,,Pocket Runway,False,evidence/page-04.png
+p04L29,4,L,29,Chronograph LP,Chronograph LP,画像照合済み,,Chronograph LP,False,evidence/page-04.png
+p04L30,4,L,30,Awaken Tax,Awaken Tax,画像照合済み,,Awaken Tax,False,evidence/page-04.png
+p04L31,4,L,31,OptionsAhoy,OptionsAhoy,画像照合済み,,OptionsAhoy,False,evidence/page-04.png
+p04L32,4,L,32,Coupon Hive,Coupon Hive,画像照合済み,,Coupon Hive,False,evidence/page-04.png
+p04L33,4,L,33,Caribooks,Caribooks,画像照合済み,,Caribooks,False,evidence/page-04.png
+p04L34,4,L,34,Retirement Lab,Retirement Lab,画像照合済み,,Retirement Lab,False,evidence/page-04.png
+p04L35,4,L,35,Belgian Annual Accounts,Belgian Annual Accounts,画像照合済み,,Belgian Annual Accounts,False,evidence/page-04.png
+p04L36,4,L,36,RoboSystems,RoboSystems,画像照合済み,,RoboSystems,False,evidence/page-04.png
+p04L37,4,L,37,Clarifo,Clarifo,画像照合済み,,Clarifo,False,evidence/page-04.png
+p04L38,4,L,38,Kintsugi AI,Kintsugi AI,画像照合済み,,Kintsugi Al,False,evidence/page-04.png
+p04L39,4,L,39,Twelve Data,Twelve Data,画像照合済み,,Twelve Data,False,evidence/page-04.png
+p04L40,4,L,40,Distill Markets,Distill Markets,画像照合済み,,Distill Markets,False,evidence/page-04.png
+p04L41,4,L,41,AccountsOS,AccountsOS,画像照合済み,,AccountsOS,False,evidence/page-04.png
+p04L42,4,L,42,OnChainDiligence,OnChainDiligence,画像照合済み,,OnChainDiligence,False,evidence/page-04.png
+p04L43,4,L,43,Análise de Ações Listadas,Análise de Ações Listadas,画像照合済み,,Analise de Ac6ées Listadas,False,evidence/page-04.png
+p04L44,4,L,44,Dineo,Dineo,画像照合済み,,Dineo,False,evidence/page-04.png
+p04L45,4,L,45,Trader.AI,Trader.AI,画像照合済み,,Trader.Al,False,evidence/page-04.png
+p04L46,4,L,46,Strata,Strata,画像照合済み,,Strata,False,evidence/page-04.png
+p04R01,4,R,1,Kova,Kova,画像照合済み,,Kova,False,evidence/page-04.png
+p04R02,4,R,2,IFG,IFG,画像照合済み,,IFG,False,evidence/page-04.png
+p04R03,4,R,3,PANDA Tierversicherung,PANDA Tierversicherung,画像照合済み,,PANDA Tierversicherung,False,evidence/page-04.png
+p04R04,4,R,4,Findash,Findash,画像照合済み,,Findash,False,evidence/page-04.png
+p04R05,4,R,5,Embat,Embat,画像照合済み,,Embat,False,evidence/page-04.png
+p04R06,4,R,6,Calculadora de Autônomos,Calculadora de Autônomos,画像照合済み,,Calculadora de Aut6nomos,False,evidence/page-04.png
+p04R07,4,R,7,ValuEdge - Stock Valuation,ValuEdge - Stock Valuation,画像照合済み,,ValuEdge - Stock Valuation,False,evidence/page-04.png
+p04R08,4,R,8,DSCR Loan Calculator,DSCR Loan Calculator,画像照合済み,,DSCR Loan Calculator,False,evidence/page-04.png
+p04R09,4,R,9,Comparador de seguros BuenaIA,Comparador de seguros BuenaIA,画像照合済み,,Comparador de seguros BuenalA,False,evidence/page-04.png
+p04R10,4,R,10,Fitch Solutions,Fitch Solutions,画像照合済み,,Fitch Solutions,False,evidence/page-04.png
+p04R11,4,R,11,Análise de FIIs,Análise de FIIs,画像照合済み,,Anilise de Flls,False,evidence/page-04.png
+p04R12,4,R,12,Alvore Finance,Alvore Finance,画像照合済み,,Alvore Finance,False,evidence/page-04.png
+p04R13,4,R,13,Airwallex,Airwallex,画像照合済み,,Airwallex,False,evidence/page-04.png
+p04R14,4,R,14,MonitorBankRates,MonitorBankRates,画像照合済み,,MonitorBankRates,False,evidence/page-04.png
+p04R15,4,R,15,OnePro AI,OnePro AI,画像照合済み,,OnePro Al,False,evidence/page-04.png
+p04R16,4,R,16,PrefMark,PrefMark,画像照合済み,,PrefMark,False,evidence/page-04.png
+p04R17,4,R,17,Primary,Primary,画像照合済み,,Primary,False,evidence/page-04.png
+p04R18,4,R,18,Menz Finance,Menz Finance,画像照合済み,,Menz Finance,False,evidence/page-04.png
+p04R19,4,R,19,B2B.nu,B2B.nu,画像照合済み,,B2B.nu,False,evidence/page-04.png
+p04R20,4,R,20,beatandraise,beatandraise,画像照合済み,,beatandraise,False,evidence/page-04.png
+p04R21,4,R,21,FinLens,FinLens,画像照合済み,,FinLens,False,evidence/page-04.png
+p04R22,4,R,22,Finara Personal Finance,Finara Personal Finance,画像照合済み,,Finara Personal Finance,False,evidence/page-04.png
+p04R23,4,R,23,Hey-Traders! Quant Trading,Hey-Traders! Quant Trading,画像照合済み,,Hey-Traders! Quant Trading,False,evidence/page-04.png
+p04R24,4,R,24,PublicAML,PublicAML,画像照合済み,,PublicAML,False,evidence/page-04.png
+p04R25,4,R,25,Lightsplit,Lightsplit,画像照合済み,,Lightsplit,False,evidence/page-04.png
+p04R26,4,R,26,BTC DCA Engine,BTC DCA Engine,画像照合済み,,BTC DCA Engine,False,evidence/page-04.png
+p04R27,4,R,27,Tapusor,Tapusor,画像照合済み,,Tapusor,False,evidence/page-04.png
+p04R28,4,R,28,SplitEasy,SplitEasy,画像照合済み,,SplitEasy,False,evidence/page-04.png
+p04R29,4,R,29,Trata,Trata,画像照合済み,,Trata,False,evidence/page-04.png
+p04R30,4,R,30,re:cap,re:cap,画像照合済み,,re:cap,False,evidence/page-04.png
+p04R31,4,R,31,Ornn Data,Ornn Data,画像照合済み,,Ornn Data,False,evidence/page-04.png
+p04R32,4,R,32,Institutional Equity Analyst,Institutional Equity Analyst,画像照合済み,,Institutional Equity Analyst,False,evidence/page-04.png
+p04R33,4,R,33,Rootline,Rootline,画像照合済み,,Rootline,False,evidence/page-04.png
+p04R34,4,R,34,Parity,Parity,画像照合済み,,Parity,False,evidence/page-04.png
+p04R35,4,R,35,Avalara,Avalara,画像照合済み,,Avalara,False,evidence/page-04.png
+p04R36,4,R,36,TEB,TEB,画像照合済み,,TEB,False,evidence/page-04.png
+p04R37,4,R,37,Morningstar Credit Analytics,Morningstar Credit Analytics,画像照合済み,,Morningstar Credit Analytics,False,evidence/page-04.png
+p04R38,4,R,38,PFT Edgebook - Trading Journal,PFT Edgebook - Trading Journal,画像照合済み,,PFT Edgebook - Trading Journal,False,evidence/page-04.png
+p04R39,4,R,39,PrimeSync AI Studio,PrimeSync AI Studio,画像照合済み,,PrimeSync Al Studio,False,evidence/page-04.png
+p04R40,4,R,40,FinOpps,FinOpps,画像照合済み,,FinOpps,False,evidence/page-04.png
+p04R41,4,R,41,Taxorio,Taxorio,画像照合済み,,Taxorio,False,evidence/page-04.png
+p04R42,4,R,42,Vibooks,Vibooks,画像照合済み,,Vibooks,False,evidence/page-04.png
+p04R43,4,R,43,wlthy,wlthy,画像照合済み,,withy,False,evidence/page-04.png
+p04R44,4,R,44,Suitoly,Suitoly,画像照合済み,,Suitoly,False,evidence/page-04.png
+p04R45,4,R,45,Chargebee (AU Region),Chargebee (AU Region),画像照合済み,,Chargebee (AU Region),False,evidence/page-04.png
+p04R46,4,R,46,Instant DSCR Term Sheet,Instant DSCR Term Sheet,画像照合済み,,Instant DSCR Term Sheet,False,evidence/page-04.png
+p05L01,5,L,1,Savvy,Savvy,画像照合済み,,Savvy,False,evidence/page-05.png
+p05L02,5,L,2,esure,esure,画像照合済み,,esure,False,evidence/page-05.png
+p05L03,5,L,3,Cashback Card,Cashback Card,画像照合済み,,Cashback Card,False,evidence/page-05.png
+p05L04,5,L,4,IndicadoresChilenos,IndicadoresChilenos,画像照合済み,,IndicadoresChilenos,False,evidence/page-05.png
+p05L05,5,L,5,ReInvestWealth,ReInvestWealth,画像照合済み,,RelnvestWealth,False,evidence/page-05.png
+p05L06,5,L,6,Intropic,Intropic,画像照合済み,,Intropic,False,evidence/page-05.png
+p05L07,5,L,7,Hypawave,Hypawave,画像照合済み,,Hypawave,False,evidence/page-05.png
+p05L08,5,L,8,BankPilot,BankPilot,画像照合済み,,BankPilot,False,evidence/page-05.png
+p05L09,5,L,9,Testfolio,Testfolio,画像照合済み,,Testfolio,False,evidence/page-05.png
+p05L10,5,L,10,Easy Cardz NBA Scout,Easy Cardz NBA Scout,画像照合済み,,Easy Cardz NBA Scout,False,evidence/page-05.png
+p05L11,5,L,11,paytech,paytech,画像照合済み,,paytech,False,evidence/page-05.png
+p05L12,5,L,12,Global Payments & Crypto,Global Payments & Crypto,画像照合済み,,Global Payments & Crypto,False,evidence/page-05.png
+p05L13,5,L,13,Antom Reconciliation Expert,Antom Reconciliation Expert,画像照合済み,,Antom Reconciliation Expert,False,evidence/page-05.png
+p05L14,5,L,14,Mergr: Private Equity & M&A,Mergr: Private Equity & M&A,画像照合済み,,Mergr: Private Equity & M&A,False,evidence/page-05.png
+p05L15,5,L,15,TrackMyStack,TrackMyStack,画像照合済み,,TrackMyStack,False,evidence/page-05.png
+p05L16,5,L,16,Pappers France,Pappers France,画像照合済み,,Pappers France,False,evidence/page-05.png
+p05L17,5,L,17,SiftingIO,SiftingIO,画像照合済み,,SiftinglO,False,evidence/page-05.png
+p05L18,5,L,18,Alpha Spread,Alpha Spread,画像照合済み,,Alpha Spread,False,evidence/page-05.png
+p05L19,5,L,19,finerd,finerd,画像照合済み,,finerd,False,evidence/page-05.png
+p05L20,5,L,20,Edgio Signals,Edgio Signals,画像照合済み,,Edgio Signals,False,evidence/page-05.png
+p05L21,5,L,21,Briefcase,Briefcase,画像照合済み,,Briefcase,False,evidence/page-05.png
+p05L22,5,L,22,CaixaBank,CaixaBank,画像照合済み,,CaixaBank,False,evidence/page-05.png
+p05L23,5,L,23,The Coin Daily,The Coin Daily,画像照合済み,,The Coin Daily,False,evidence/page-05.png
+p05L24,5,L,24,Mizan,Mizan,画像照合済み,,Mizan,False,evidence/page-05.png
+p05L25,5,L,25,Mirabello Immigration,Mirabello Immigration,画像照合済み,,Mirabello Immigration,False,evidence/page-05.png
+p05L26,5,L,26,CXProWealth,CXProWealth,画像照合済み,,CXProWealth,False,evidence/page-05.png
+p05L27,5,L,27,Bullflow,Bullflow,画像照合済み,,Bullflow,False,evidence/page-05.png
+p05L28,5,L,28,Mortgage Industry Regulations,Mortgage Industry Regulations,画像照合済み,,Mortgage Industry Regulations,False,evidence/page-05.png
+p05L29,5,L,29,ZeniFlow,ZeniFlow,画像照合済み,,ZeniFlow,False,evidence/page-05.png
+p05L30,5,L,30,Find My Money,Find My Money,画像照合済み,,Find My Money,False,evidence/page-05.png
+p05L31,5,L,31,StockViz Mutual Funds,StockViz Mutual Funds,画像照合済み,,StockViz Mutual Funds,False,evidence/page-05.png
+p05L32,5,L,32,GoFans Growth Assistant,GoFans Growth Assistant,画像照合済み,,GoFans Growth Assistant,False,evidence/page-05.png
+p05L33,5,L,33,FindBroadband,FindBroadband,画像照合済み,,FindBroadband,False,evidence/page-05.png
+p05L34,5,L,34,Aveon Sigorta,Aveon Sigorta,画像照合済み,,Aveon Sigorta,False,evidence/page-05.png
+p05L35,5,L,35,Stratify,Stratify,画像照合済み,,Stratify,False,evidence/page-05.png
+p05L36,5,L,36,Tallyproof Statement Converter,Tallyproof Statement Converter,画像照合済み,,Tallyproof Statement Converter,False,evidence/page-05.png
+p05L37,5,L,37,Finary,Finary,画像照合済み,,Finary,False,evidence/page-05.png
+p05L38,5,L,38,TableWealth,TableWealth,画像照合済み,,TableWealth,False,evidence/page-05.png
+p05L39,5,L,39,Harmonic (new),Harmonic (new),画像照合済み,,Harmonic (new),False,evidence/page-05.png
+p05L40,5,L,40,Insourcia,Insourcia,画像照合済み,,Insourcia,False,evidence/page-05.png
+p05L41,5,L,41,FocusPulse,FocusPulse,画像照合済み,,FocusPulse,False,evidence/page-05.png
+p05L42,5,L,42,WalletGraph: Address Lookup,WalletGraph: Address Lookup,画像照合済み,,WalletGraph: Address Lookup,False,evidence/page-05.png
+p05L43,5,L,43,BeanHub,BeanHub,画像照合済み,,BeanHub,False,evidence/page-05.png
+p05L44,5,L,44,Magnos,Magnos,画像照合済み,,Magnos,False,evidence/page-05.png
+p05L45,5,L,45,MosoFin,MosoFin,画像照合済み,,MosoFin,False,evidence/page-05.png
+p05L46,5,L,46,QRate Mortgage Rates,QRate Mortgage Rates,画像照合済み,,QRate Mortgage Rates,False,evidence/page-05.png
+p05R01,5,R,1,Fin3000,Fin3000,画像照合済み,,Fin3000,False,evidence/page-05.png
+p05R02,5,R,2,Canary Data,Canary Data,画像照合済み,,Canary Data,False,evidence/page-05.png
+p05R03,5,R,3,Drivetrain,Drivetrain,画像照合済み,,Drivetrain,False,evidence/page-05.png
+p05R04,5,R,4,FinAnts Financial Coach,FinAnts Financial Coach,画像照合済み,,FinAnts Financial Coach,False,evidence/page-05.png
+p05R05,5,R,5,Premiss: Backtest Trading,Premiss: Backtest Trading,画像照合済み,,Premiss: Backtest Trading,False,evidence/page-05.png
+p05R06,5,R,6,Gemral Edge,Gemral Edge,画像照合済み,,Gemral Edge,False,evidence/page-05.png
+p05R07,5,R,7,italian-investor,italian-investor,画像照合済み,,italian-investor,False,evidence/page-05.png
+p05R08,5,R,8,Distilla Investment Research,Distilla Investment Research,画像照合済み,,Distilla Investment Research,False,evidence/page-05.png
+p05R09,5,R,9,De Belegger,De Belegger,画像照合済み,,De Belegger,False,evidence/page-05.png
+p05R10,5,R,10,Bilköpskollen,Bilköpskollen,画像照合済み,,Bilk6pskollen,False,evidence/page-05.png
+p05R11,5,R,11,Gasti,Gasti,画像照合済み,,Gasti,False,evidence/page-05.png
+p05R12,5,R,12,Antevo Wealth,Antevo Wealth,画像照合済み,,Antevo Wealth,False,evidence/page-05.png
+p05R13,5,R,13,,PortfolIQ,要確認,Iとlの字形は要確認,PortfollQ,False,evidence/page-05.png
+p05R14,5,R,14,Prop Trading Intelligence,Prop Trading Intelligence,画像照合済み,,Prop Trading Intelligence,False,evidence/page-05.png
+p05R15,5,R,15,PhillipCapital Türkiye,PhillipCapital Türkiye,画像照合済み,,PhillipCapital Turkiye,False,evidence/page-05.png
+p05R16,5,R,16,Datassist Net Brut Hesaplama,Datassist Net Brut Hesaplama,画像照合済み,,Datassist Net Brut Hesaplama,False,evidence/page-05.png
+p05R17,5,R,17,CA Property Tax Appeal Guide,CA Property Tax Appeal Guide,画像照合済み,,CA Property Tax Appeal Guide,False,evidence/page-05.png
+p05R18,5,R,18,Rydoo,Rydoo,画像照合済み,,Rydoo,False,evidence/page-05.png
+p05R19,5,R,19,Hyperline,Hyperline,画像照合済み,,Hyperline,False,evidence/page-05.png
+p05R20,5,R,20,Coinversa Pulse,Coinversa Pulse,画像照合済み,,Coinversa Pulse,False,evidence/page-05.png
+p05R21,5,R,21,Revestor,Revestor,画像照合済み,,Revestor,False,evidence/page-05.png
+p05R22,5,R,22,Wallet by BudgetBakers,Wallet by BudgetBakers,画像照合済み,,Wallet by BudgetBakers,False,evidence/page-05.png
+p05R23,5,R,23,AlgoVault,AlgoVault,画像照合済み,,AlgoVault,False,evidence/page-05.png
+p05R24,5,R,24,Yoshi,Yoshi,画像照合済み,,Yoshi,False,evidence/page-05.png
+p05R25,5,R,25,Mollie,Mollie,画像照合済み,,Mollie,False,evidence/page-05.png
+p05R26,5,R,26,ABG Market Data,ABG Market Data,画像照合済み,,ABG Market Data,False,evidence/page-05.png
+p05R27,5,R,27,Ultralayer,Ultralayer,画像照合済み,,Ultralayer,False,evidence/page-05.png
+p05R28,5,R,28,Essentio,Essentio,画像照合済み,,Essentio,False,evidence/page-05.png
+p05R29,5,R,29,SPACInsider,SPACInsider,画像照合済み,,SPACInsider,False,evidence/page-05.png
+p05R30,5,R,30,Rillet,Rillet,画像照合済み,,Rillet,False,evidence/page-05.png
+p05R31,5,R,31,iAsig,iAsig,画像照合済み,,iAsig,False,evidence/page-05.png
+p05R32,5,R,32,LSEG AI,LSEG AI,画像照合済み,,LSEG Al,False,evidence/page-05.png
+p05R33,5,R,33,Spera,Spera,画像照合済み,,Spera,False,evidence/page-05.png
+p05R34,5,R,34,Revelata deepKPI,Revelata deepKPI,画像照合済み,,Revelata deepKPI,False,evidence/page-05.png
+p05R35,5,R,35,Finanse.app,Finanse.app,画像照合済み,,Finanse.app,False,evidence/page-05.png
+p05R36,5,R,36,Changelly,Changelly,画像照合済み,,Changelly,False,evidence/page-05.png
+p05R37,5,R,37,ETFtracker,ETFtracker,画像照合済み,,ETFtracker,False,evidence/page-05.png
+p05R38,5,R,38,Finrep,Finrep,画像照合済み,,Finrep,False,evidence/page-05.png
+p05R39,5,R,39,Offera.ai,Offera.ai,画像照合済み,,Offera.ai,False,evidence/page-05.png
+p05R40,5,R,40,Squidlor,Squidlor,画像照合済み,,Squidlor,False,evidence/page-05.png
+p05R41,5,R,41,Minhas Finanças,Minhas Finanças,画像照合済み,,Minhas Finangas,False,evidence/page-05.png
+p05R42,5,R,42,Daffy,Daffy,画像照合済み,,Daffy,False,evidence/page-05.png
+p05R43,5,R,43,Floyd by The F Suite,Floyd by The F Suite,画像照合済み,,Floyd by The F Suite,False,evidence/page-05.png
+p05R44,5,R,44,UAE Gratuity Calculator,UAE Gratuity Calculator,画像照合済み,,UAE Gratuity Calculator,False,evidence/page-05.png
+p05R45,5,R,45,MoveSurge,MoveSurge,画像照合済み,,MoveSurge,False,evidence/page-05.png
+p05R46,5,R,46,Wealth Tracker,Wealth Tracker,画像照合済み,,Wealth Tracker,False,evidence/page-05.png
+p06L01,6,L,1,Trackstone,Trackstone,画像照合済み,,Trackstone,False,evidence/page-06.png
+p06L02,6,L,2,Loris Crypto Markets,Loris Crypto Markets,画像照合済み,,Loris Crypto Markets,False,evidence/page-06.png
+p06L03,6,L,3,Momentum,Momentum,画像照合済み,,Momentum,False,evidence/page-06.png
+p06L04,6,L,4,Cancel My Sub,Cancel My Sub,画像照合済み,,Cancel My Sub,False,evidence/page-06.png
+p06L05,6,L,5,CoinTracker,CoinTracker,画像照合済み,,CoinTracker,False,evidence/page-06.png
+p06L06,6,L,6,Dubai Wealth Index Real Estate,Dubai Wealth Index Real Estate,画像照合済み,,Dubai Wealth Index Real Estate,False,evidence/page-06.png
+p06L07,6,L,7,OptionEdge AI,OptionEdge AI,画像照合済み,,OptionEdge Al,False,evidence/page-06.png
+p06L08,6,L,8,Jelli,Jelli,画像照合済み,,Jelli,False,evidence/page-06.png
+p06L09,6,L,9,Pace for ChatGPT,Pace for ChatGPT,画像照合済み,,Pace for ChatGPT,False,evidence/page-06.png
+p06L10,6,L,10,Vega Options,Vega Options,画像照合済み,,Vega Options,False,evidence/page-06.png
+p06L11,6,L,11,Calculadora CLT,Calculadora CLT,画像照合済み,,Calculadora CLT,False,evidence/page-06.png
+p06L12,6,L,12,Yield Clarity,Yield Clarity,画像照合済み,,Yield Clarity,False,evidence/page-06.png
+p06L13,6,L,13,QuarterWise 1099 Tax Planner,QuarterWise 1099 Tax Planner,画像照合済み,,QuarterWise 1099 Tax Planner,False,evidence/page-06.png
+p06L14,6,L,14,Expat Savings Rates,Expat Savings Rates,画像照合済み,,Expat Savings Rates,False,evidence/page-06.png
+p06L15,6,L,15,Kreditano,Kreditano,画像照合済み,,Kreditano,False,evidence/page-06.png
+p06L16,6,L,16,e-invoices.it,e-invoices.it,画像照合済み,,e-invoices.it,False,evidence/page-06.png
+p06L17,6,L,17,Vezna,Vezna,画像照合済み,,Vezna,False,evidence/page-06.png
+p06L18,6,L,18,Trade Chart,Trade Chart,画像照合済み,,Trade Chart,False,evidence/page-06.png
+p06L19,6,L,19,KashLog,KashLog,画像照合済み,,KashLog,False,evidence/page-06.png
+p06L20,6,L,20,CashflowPot,CashflowPot,画像照合済み,,CashflowPot,False,evidence/page-06.png
+p06L21,6,L,21,Lauki SIP Calculator,Lauki SIP Calculator,画像照合済み,,Lauki SIP Calculator,False,evidence/page-06.png
+p06L22,6,L,22,Monee Mate,Monee Mate,画像照合済み,,Monee Mate,False,evidence/page-06.png
+p06L23,6,L,23,Netwise Paycheck Calculator,Netwise Paycheck Calculator,画像照合済み,,Netwise Paycheck Calculator,False,evidence/page-06.png
+p06L24,6,L,24,InvoiceIQ by Analytos Labs,InvoiceIQ by Analytos Labs,画像照合済み,,InvoicelQ by Analytos Labs,False,evidence/page-06.png
+p06L25,6,L,25,Coindex,Coindex,画像照合済み,,Coindex,False,evidence/page-06.png
+p06R01,6,R,1,akta.pro,akta.pro,画像照合済み,,akta.pro,False,evidence/page-06.png
+p06R02,6,R,2,Kryptos,Kryptos,画像照合済み,,Kryptos,False,evidence/page-06.png
+p06R03,6,R,3,,ObligacjeIO,要確認,Iとlの字形は要確認,ObligacjelO,False,evidence/page-06.png
+p06R04,6,R,4,Earnings Feed,Earnings Feed,画像照合済み,,Earnings Feed,False,evidence/page-06.png
+p06R05,6,R,5,InvoiceVista Invoice Maker,InvoiceVista Invoice Maker,画像照合済み,,InvoiceVista Invoice Maker,False,evidence/page-06.png
+p06R06,6,R,6,Finmode,Finmode,画像照合済み,,Finmode,False,evidence/page-06.png
+p06R07,6,R,7,FINTRX,FINTRX,画像照合済み,,FINTRX,False,evidence/page-06.png
+p06R08,6,R,8,Slabline,Slabline,画像照合済み,,Slabline,False,evidence/page-06.png
+p06R09,6,R,9,Financial AI®,Financial AI®,画像照合済み,,Financial Al®,False,evidence/page-06.png
+p06R10,6,R,10,StockPortfolio.pro,StockPortfolio.pro,画像照合済み,,StockPortfolio.pro,False,evidence/page-06.png
+p06R11,6,R,11,Odometry Mileage Log,Odometry Mileage Log,画像照合済み,,Odometry Mileage Log,False,evidence/page-06.png
+p06R12,6,R,12,CipherOwl,CipherOwl,画像照合済み,,CipherOwl,False,evidence/page-06.png
+p06R13,6,R,13,WealthStoryLine,WealthStoryLine,画像照合済み,,WealthStoryLine,False,evidence/page-06.png
+p06R14,6,R,14,LeaseLine Rent Ledger,LeaseLine Rent Ledger,画像照合済み,,LeaseLine Rent Ledger,False,evidence/page-06.png
+p06R15,6,R,15,EarningsWatcher,EarningsWatcher,画像照合済み,,EarningsWatcher,False,evidence/page-06.png
+p06R16,6,R,16,FilingSpy,FilingSpy,画像照合済み,,FilingSpy,False,evidence/page-06.png
+p06R17,6,R,17,LuxAlgo,LuxAlgo,画像照合済み,,LuxAlgo,False,evidence/page-06.png
+p06R18,6,R,18,GrantLedger,GrantLedger,画像照合済み,,GrantLedger,False,evidence/page-06.png
+p06R19,6,R,19,Gold Price Today,Gold Price Today,画像照合済み,,Gold Price Today,False,evidence/page-06.png
+p06R20,6,R,20,MyLinedChart,MyLinedChart,画像照合済み,,MyLinedChart,False,evidence/page-06.png
+p06R21,6,R,21,Amortiza Loan Planner,Amortiza Loan Planner,画像照合済み,,Amortiza Loan Planner,False,evidence/page-06.png
+p06R22,6,R,22,Ogmentive Cashback,Ogmentive Cashback,画像照合済み,,Ogmentive Cashback,False,evidence/page-06.png
+p06R23,6,R,23,DeepStack,DeepStack,画像照合済み,,DeepStack,False,evidence/page-06.png
+p06R24,6,R,24,Public,Public,画像照合済み,,Public,False,evidence/page-06.png

@@ -171,3 +171,9 @@
 画像型PDF3ページの左右で225行を抽出。2行は表記要確認として保留、既存一覧との名称一致3種類、216名称を追加し作業ブランチの一覧は1174名称。`rit.run`・`VeriMom` は複数行に表示されており、名称単位でまとめたが同一性は未検証。大文字小文字違いも名称単位で扱う。ページ境界や字形の微細な誤認識が残る可能性があり、公式ID・機能は未確認。仮IDはサイト内部用。
 
 [掲載行CSV](inventory/B008_health/rows.csv)・[照合JSON](inventory/B008_health/inventory.json)・[OCR原文](inventory/B008_health/extraction_raw.json)・[名前画像](inventory/B008_health/evidence/)。mainと本番サイトには未反映。
+
+## B009 金融PDF（2026-11-13）
+
+画像型6ページ、OCR候補505行。名前画像と照合し3行を表記要確認に保留、既存一覧と名称一致6種類、496名称を作業ブランチに追加。作業ブランチの一覧は1670名称。公式ID・機能・同名アプリの同一性は未確認。仮IDはサイト内部用。ページ境界や似た字形の微細な誤認識は残る可能性がある。
+
+[掲載行CSV](inventory/B009_finance/rows.csv)・[照合JSON](inventory/B009_finance/inventory.json)・[名前画像](inventory/B009_finance/evidence/)・[OCR原文](inventory/B009_finance/extraction_raw.json)。本番への反映は別工程。
