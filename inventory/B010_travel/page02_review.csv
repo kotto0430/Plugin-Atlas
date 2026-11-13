@@ -1,0 +1,95 @@
+row_id,page,column,row,display_name,status,catalog_name_match,evidence
+p02L01,2,L,1,TrainPal,画像照合済み,false,evidence/page-02.png
+p02L02,2,L,2,Get My eSIM,画像照合済み,false,evidence/page-02.png
+p02L03,2,L,3,Adin Flights,画像照合済み,false,evidence/page-02.png
+p02L04,2,L,4,TripO by FreeTravel,画像照合済み,false,evidence/page-02.png
+p02L05,2,L,5,Travomint,画像照合済み,false,evidence/page-02.png
+p02L06,2,L,6,Cottages,画像照合済み,false,evidence/page-02.png
+p02L07,2,L,7,Ferryhopper,画像照合済み,false,evidence/page-02.png
+p02L08,2,L,8,RouteStack.ai,画像照合済み,false,evidence/page-02.png
+p02L09,2,L,9,Pricewin Hotels & Flights,画像照合済み,false,evidence/page-02.png
+p02L10,2,L,10,Recorrido,画像照合済み,false,evidence/page-02.png
+p02L11,2,L,11,Rail Monsters - Train Tickets,画像照合済み,false,evidence/page-02.png
+p02L12,2,L,12,Cleartrip,画像照合済み,false,evidence/page-02.png
+p02L13,2,L,13,Atlys,画像照合済み,false,evidence/page-02.png
+p02L14,2,L,14,Yango,画像照合済み,false,evidence/page-02.png
+p02L15,2,L,15,FareHarbor,画像照合済み,false,evidence/page-02.png
+p02L16,2,L,16,Motel One,画像照合済み,false,evidence/page-02.png
+p02L17,2,L,17,Travelenie,画像照合済み,false,evidence/page-02.png
+p02L18,2,L,18,Book Direct,画像照合済み,false,evidence/page-02.png
+p02L19,2,L,19,Wanderz,画像照合済み,false,evidence/page-02.png
+p02L20,2,L,20,JourneyBay,画像照合済み,false,evidence/page-02.png
+p02L21,2,L,21,Milepoint,画像照合済み,false,evidence/page-02.png
+p02L22,2,L,22,Paradise Beach Cozumel,画像照合済み,false,evidence/page-02.png
+p02L23,2,L,23,Meow Map,画像照合済み,false,evidence/page-02.png
+p02L24,2,L,24,Abandoned World App,画像照合済み,false,evidence/page-02.png
+p02L25,2,L,25,WeatherPromise,画像照合済み,false,evidence/page-02.png
+p02L26,2,L,26,OutReserve,画像照合済み,false,evidence/page-02.png
+p02L27,2,L,27,Headout,画像照合済み,false,evidence/page-02.png
+p02L28,2,L,28,Direct Host,画像照合済み,false,evidence/page-02.png
+p02L29,2,L,29,A-Z London Transport,画像照合済み,false,evidence/page-02.png
+p02L30,2,L,30,Executive Hotels AI,画像照合済み,false,evidence/page-02.png
+p02L31,2,L,31,Kombo,画像照合済み,false,evidence/page-02.png
+p02L32,2,L,32,BeachFinder,画像照合済み,false,evidence/page-02.png
+p02L33,2,L,33,Vegas,画像照合済み,false,evidence/page-02.png
+p02L34,2,L,34,BE-A,画像照合済み,false,evidence/page-02.png
+p02L35,2,L,35,Total Parks,画像照合済み,false,evidence/page-02.png
+p02L36,2,L,36,Bytetravel,画像照合済み,false,evidence/page-02.png
+p02L37,2,L,37,TiCATi,画像照合済み,false,evidence/page-02.png
+p02L38,2,L,38,WAUG,画像照合済み,false,evidence/page-02.png
+p02L39,2,L,39,Worldschedule,画像照合済み,false,evidence/page-02.png
+p02L40,2,L,40,FunNow,画像照合済み,false,evidence/page-02.png
+p02L41,2,L,41,Tripuck,画像照合済み,false,evidence/page-02.png
+p02L42,2,L,42,Barceló Hotel Group,画像照合済み,false,evidence/page-02.png
+p02L43,2,L,43,TrailVerse,画像照合済み,false,evidence/page-02.png
+p02L44,2,L,44,Goshuin Atlas,画像照合済み,false,evidence/page-02.png
+p02L45,2,L,45,Pick your match,画像照合済み,false,evidence/page-02.png
+p02L46,2,L,46,SecretBox,画像照合済み,false,evidence/page-02.png
+p02L47,2,L,47,LDN Travel,ページ境界要再確認,false,evidence/page-02.png
+p02R01,2,R,1,Hotels Booking,画像照合済み,false,evidence/page-02.png
+p02R02,2,R,2,Busbud,画像照合済み,false,evidence/page-02.png
+p02R03,2,R,3,Sunny Cars,画像照合済み,false,evidence/page-02.png
+p02R04,2,R,4,Road Trip Planner,画像照合済み,false,evidence/page-02.png
+p02R05,2,R,5,EconomyBookings,画像照合済み,false,evidence/page-02.png
+p02R06,2,R,6,Israir,画像照合済み,false,evidence/page-02.png
+p02R07,2,R,7,Sigtrip,画像照合済み,false,evidence/page-02.png
+p02R08,2,R,8,Direct Ferries,画像照合済み,false,evidence/page-02.png
+p02R09,2,R,9,HappyFares,画像照合済み,false,evidence/page-02.png
+p02R10,2,R,10,Tripsy,画像照合済み,true,evidence/page-02.png
+p02R11,2,R,11,ADAC Mietwagen,画像照合済み,false,evidence/page-02.png
+p02R12,2,R,12,AirHelp,画像照合済み,false,evidence/page-02.png
+p02R13,2,R,13,Paytm Travel,画像照合済み,false,evidence/page-02.png
+p02R14,2,R,14,Mondial tourisme,画像照合済み,false,evidence/page-02.png
+p02R15,2,R,15,Bed-and-Breakfast.it,画像照合済み,false,evidence/page-02.png
+p02R16,2,R,16,Direct Book AI,画像照合済み,false,evidence/page-02.png
+p02R17,2,R,17,eSIM Finder,画像照合済み,false,evidence/page-02.png
+p02R18,2,R,18,Is It Safe To Travel?,画像照合済み,false,evidence/page-02.png
+p02R19,2,R,19,hoppa,画像照合済み,false,evidence/page-02.png
+p02R20,2,R,20,eSIM Copilot,画像照合済み,false,evidence/page-02.png
+p02R21,2,R,21,Hotelzify - Book Direct,画像照合済み,false,evidence/page-02.png
+p02R22,2,R,22,Otto Travel,画像照合済み,false,evidence/page-02.png
+p02R23,2,R,23,Oojo,画像照合済み,false,evidence/page-02.png
+p02R24,2,R,24,AkbarTravels,画像照合済み,false,evidence/page-02.png
+p02R25,2,R,25,BonjourRATP,画像照合済み,false,evidence/page-02.png
+p02R26,2,R,26,Shangri-La Circle,画像照合済み,false,evidence/page-02.png
+p02R27,2,R,27,VisitorsCoverage,画像照合済み,false,evidence/page-02.png
+p02R28,2,R,28,Novasol,画像照合済み,false,evidence/page-02.png
+p02R29,2,R,29,ChecklistIQ,画像照合済み,false,evidence/page-02.png
+p02R30,2,R,30,WeRoad,画像照合済み,false,evidence/page-02.png
+p02R31,2,R,31,FINN,画像照合済み,false,evidence/page-02.png
+p02R32,2,R,32,SparkSpot,画像照合済み,false,evidence/page-02.png
+p02R33,2,R,33,Chapka,画像照合済み,false,evidence/page-02.png
+p02R34,2,R,34,Hotel Emperador Madrid,画像照合済み,false,evidence/page-02.png
+p02R35,2,R,35,HelloSafe Travel Insurance,画像照合済み,false,evidence/page-02.png
+p02R36,2,R,36,Dayuse Hotels,画像照合済み,false,evidence/page-02.png
+p02R37,2,R,37,Perigee Fishing,画像照合済み,false,evidence/page-02.png
+p02R38,2,R,38,Extra Holidays,画像照合済み,false,evidence/page-02.png
+p02R39,2,R,39,TravelSearch.io,画像照合済み,false,evidence/page-02.png
+p02R40,2,R,40,FlatHunt,画像照合済み,false,evidence/page-02.png
+p02R41,2,R,41,Wanderu,画像照合済み,false,evidence/page-02.png
+p02R42,2,R,42,Tripbtoz,画像照合済み,false,evidence/page-02.png
+p02R43,2,R,43,ToursByLocals,画像照合済み,false,evidence/page-02.png
+p02R44,2,R,44,Skyalo Travel Guide,画像照合済み,false,evidence/page-02.png
+p02R45,2,R,45,Motel 6,画像照合済み,false,evidence/page-02.png
+p02R46,2,R,46,TravelSwitch,画像照合済み,false,evidence/page-02.png
+p02R47,2,R,47,Simbye,ページ境界要再確認,false,evidence/page-02.png
