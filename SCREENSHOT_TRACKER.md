@@ -278,3 +278,12 @@ Chromeのデータと分析を開き、読み上げ情報のインストール�
 `AdBeacon`・`Otter` 付近から続けて[目視03](inventory/data_analytics_chrome/chrome_scroll_03_2026-11-13.json) 96行（一致1・不一致95）、[目視04](inventory/data_analytics_chrome/chrome_scroll_04_2026-11-13.json) 102行（一致1・不一致101）、[目視05](inventory/data_analytics_chrome/chrome_scroll_05_2026-11-13.json) 74行（一致0・不一致74）を保存。同じ3932件のindex blobとの大文字小文字を区別しない名前比較。名前の不一致は新規アプリ数ではない。目視転記の誤り・重複、先頭の読み上げ抽出から漏れた表示、テンプレート等の確認は未完了。`CareJobs.Now` の右隣のアラビア語を含む名称は判読保留。
 
 スクロール途中で追加読み込みを確認し、末尾のテンプレート `Sigma` まで到達。待機後に複数回下へスクロールしても位置と表示が変わらないことを確認した。これは閲覧時点の画面末尾であり、全表示の完全な転記や永続的な全件数を保証しない。候補は一覧本体に未追加。main・本番は変更していない。
+
+
+### その他 Chrome一覧（2026-11-13〜14）
+
+一覧中央をホイールで繰り返しスクロールし、表示の重なりと途中の追加読み込みを確認した。前半は読み込まれたカテゴリ付きリンクのアクセシビリティ名とURLを記録し、同一URLは重複除去した。[リンク01](inventory/other_chrome/chrome_links_01_2026-11-13.json) 104行、[02](inventory/other_chrome/chrome_links_02_2026-11-13.json) 96行、[03](inventory/other_chrome/chrome_links_03_2026-11-13.json) 96行、[04](inventory/other_chrome/chrome_links_04_2026-11-13.json) 96行、[05](inventory/other_chrome/chrome_links_05_2026-11-13.json) 48行、合計440行。3932件のindex blob `fd13ece4009fcf170733daf819bb2e7424328a60` と大文字小文字を区別せず表示名を比較し、1行一致・439行不一致。
+
+アクセシビリティ出力が途中で切れたため、以後は画面を見て表示名を転記した。[目視01](inventory/other_chrome/chrome_visual_01_2026-11-13.json) 108行、[02](inventory/other_chrome/chrome_visual_02_2026-11-13.json) 96行、[03](inventory/other_chrome/chrome_visual_03_2026-11-13.json) 94行、計298行は同じ一覧との表示名比較で全行不一致。表示名が同じ `Draft dashapi-publish-version` は複数枠を記録しており、同一性は未確認。Tailor.ai の右隣のヘブライ語名と末尾の省略表示 `ZAMA 中古バイク買取・原付買取・スクーター出張…` は判読保留。目視転記の誤記、リンク抽出からの漏れや重複、各項目の同一性・機能は未検証。名前の不一致は新規件数ではない。候補はindex本体に未追加。
+
+末尾の `Rozetka: інтернет гіпермаркет` と省略表示されたZAMAの行を表示し、待機後も複数回下へスクロールして位置や表示が変化しないことを確認。これは閲覧時点の画面末尾の観測で、全表示を完全に記録した保証や将来の全件数ではない。main・本番未変更。
