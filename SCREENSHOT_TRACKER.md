@@ -185,3 +185,7 @@
 ### B010 画像照合の進捗（2026-11-13）
 
 ユーザー指定の原本PDFのSHA-256は `369784a69adce0e15dd508522fd26291c167abcd6ea25ca579249608704e5a79`。1ページ左右の86行を拡大画像で確認し、OCRの `Al Trip Planner` を `AI Trip Planner` に修正。[1ページ目の確認CSV](inventory/B010_travel/page01_verified.csv)。作業ブランチのindex.htmlとの大文字小文字を区別しない表示名比較では1行一致、85行不一致。表示名のみの比較であり同一性・新規アプリ数を示さない。2〜7ページ、ページ境界の重複、一覧への追加は未完了。
+
+### B010 全ページ一次照合と作業ブランチへの追加（2026-11-13）
+
+7ページのOCR候補604行を画像と照合。[1ページ](inventory/B010_travel/page01_verified.csv)、[2ページ](inventory/B010_travel/page02_review.csv)、[3ページ](inventory/B010_travel/page03_review.csv)、[4ページ](inventory/B010_travel/page04_review.csv)、[5ページ](inventory/B010_travel/page05_review.csv)、[6ページ](inventory/B010_travel/page06_review.csv)、[7ページ](inventory/B010_travel/page07_review.csv)。ページ境界や最終ページ末尾の8行は要再確認として保留。残る596行を追加前の `index.html` と大文字小文字を区別せず表示名で比較し、2行一致、1行はPDF内重複、593名称が不一致。593名称を作業ブランチの一覧に追加し、一覧は2263件。名称一致は同一性の確定ではない。追加した `atlas-pdf-travel-` IDはサイト内仮IDで、機能は推測していない。既存の候補CSVと画像を保持。保留8行とページ境界の完全性の確認は未完了。
