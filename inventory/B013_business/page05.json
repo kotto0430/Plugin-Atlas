@@ -1,0 +1,554 @@
+{
+  "source": "Business＆オペレーション.pdf",
+  "sha256": "a565a71685964a805522619ee160bc9554b980497a2766488f9329ca83b8d574",
+  "page": 5,
+  "baseline_index_sha": "c184c7047105b64fabfa35ff74aa91d16bcab85a",
+  "rows": [
+    {
+      "row_id": "p05L01",
+      "name": "Beamtrace",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p05L02",
+      "name": "Wheelbase",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p05L03",
+      "name": "El Tasador - Soluna",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p05L04",
+      "name": "Fritto Time Tracker",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p05L05",
+      "name": "QR Tracker",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p05L06",
+      "name": "Controlle",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p05L07",
+      "name": "Pipeline Claims",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p05L08",
+      "name": "Nexoya",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p05L09",
+      "name": "Flyweel",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p05L10",
+      "name": "Arez",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p05L11",
+      "name": "Magnetly",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p05L12",
+      "name": "Seismic",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p05L13",
+      "name": "Hadaly",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p05L14",
+      "name": "Buildfire",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p05L15",
+      "name": "DigiTrust Evidence Assistant",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p05L16",
+      "name": "Flowlity Co-planner",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p05L17",
+      "name": "CloudX",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p05L18",
+      "name": "UMT-CAR Assistent",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p05L19",
+      "name": "Quotient",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p05L20",
+      "name": "AppReviewBot",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p05L21",
+      "name": "EZFlow Pro",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p05L22",
+      "name": "ExpenseOS",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p05L23",
+      "name": "YouEx.ai",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p05L24",
+      "name": "SalesEQ",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p05L25",
+      "name": "AthenaHQ",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p05L26",
+      "name": "Strella",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p05L27",
+      "name": "Kactus",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p05L28",
+      "name": "Spacebring",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p05L29",
+      "name": "Canny",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p05L30",
+      "name": "Clerky",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p05L31",
+      "name": "Tropic",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p05L32",
+      "name": "Voluum",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p05L33",
+      "name": "Clera",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p05L34",
+      "name": "Muninx",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p05L35",
+      "name": "Influencer Hero",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p05L36",
+      "name": "Nashville Real Estate AI",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p05L37",
+      "name": "nowo Immobilien",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p05L38",
+      "name": "Jeep",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p05L39",
+      "name": "beglaubigt.de",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p05L40",
+      "name": "Coevera",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p05L41",
+      "name": "magnews",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p05L42",
+      "name": "Lily Apple Ads",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p05L43",
+      "name": "Profit.co",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p05L44",
+      "name": "Marketing Council",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p05L45",
+      "name": "Sales Compass by Luzmo",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p05L46",
+      "name": "20Tabs",
+      "status": "要再確認",
+      "match": false
+    },
+    {
+      "row_id": "p05R01",
+      "name": "Yohn Wallet Card",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p05R02",
+      "name": "VeraDial",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p05R03",
+      "name": "Jockey by TwelveLabs",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p05R04",
+      "name": "DataGlass",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p05R05",
+      "name": "Instagram & TikTok by 1Social",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p05R06",
+      "name": "Userback",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p05R07",
+      "name": "Nexvio AI",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p05R08",
+      "name": "Vettara",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p05R09",
+      "name": "Ad Superpowers",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p05R10",
+      "name": "European Union Tender Search",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p05R11",
+      "name": "SyncERP for Softone",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p05R12",
+      "name": "Europacific Shipment Tracking",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p05R13",
+      "name": "Gem",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p05R14",
+      "name": "Feedspace",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p05R15",
+      "name": "APiM Galaxy",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p05R16",
+      "name": "Perk",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p05R17",
+      "name": "TopCounsel",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p05R18",
+      "name": "WareMatch",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p05R19",
+      "name": "Data247",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p05R20",
+      "name": "Pepper Cloud",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p05R21",
+      "name": "Anagram",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p05R22",
+      "name": "Advanced Web Ranking",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p05R23",
+      "name": "Remote Jobs",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p05R24",
+      "name": "Groas",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p05R25",
+      "name": "Specter",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p05R26",
+      "name": "Knak",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p05R27",
+      "name": "Adthena",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p05R28",
+      "name": "SAIRYO",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p05R29",
+      "name": "Ironclad Contracts",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p05R30",
+      "name": "Civic Marketplace",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p05R31",
+      "name": "Wingz by Wingify",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p05R32",
+      "name": "YesIQ",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p05R33",
+      "name": "Forj",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p05R34",
+      "name": "Testlify",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p05R35",
+      "name": "Salesloft",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p05R36",
+      "name": "magicplan",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p05R37",
+      "name": "Scribble",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p05R38",
+      "name": "SmartFlow",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p05R39",
+      "name": "Ray Arceneaux AI Consulting",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p05R40",
+      "name": "Demodesk",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p05R41",
+      "name": "Kangaroo Rewards",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p05R42",
+      "name": "Spot2",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p05R43",
+      "name": "WorkStory",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p05R44",
+      "name": "Mentionlytics",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p05R45",
+      "name": "Gleap",
+      "status": "要再確認",
+      "match": false
+    }
+  ]
+}
