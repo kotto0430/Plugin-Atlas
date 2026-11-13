@@ -237,3 +237,9 @@ ChromeのBusiness＆オペレーションで、残っていた `GTM` 検索を�
 前回の `Remindlo`・`Settle` 付近から一覧中央でスクロールを再開。表示名334件を目視転記し、比較時の作業ブランチ一覧（index blob `fd13ece4009fcf170733daf819bb2e7424328a60`）と大文字小文字を区別せず比較した結果、1名称一致・333名称不一致。[記録01（102件）](inventory/B013_business/chrome_scroll_continuation_01.json)・[記録02（96件）](inventory/B013_business/chrome_scroll_continuation_02.json)・[記録03（98件）](inventory/B013_business/chrome_scroll_continuation_03.json)・[記録04（38件）](inventory/B013_business/chrome_scroll_continuation_04.json)。表示名の目視転記につき微細な誤記や同名の別アプリの可能性があり、公式ID・機能は推測せず、新規アプリ数と断定しない。画面のすべてを記録できたことを保証しない。記録は候補であり一覧本体には未追加。
 
 Windows更新による再起動予告ダイアログが表示され、操作を中断。直前の画面位置は `JobPhoning`・`IperContent Leads`・`Praxikon` 付近で、この下は未確認。再開時はダイアログ・ブラウザの状態を確認し、記録済み範囲と重複させてスクロールを続ける。自動再起動後は一覧位置が失われる可能性がある。mainと本番サイトは変更していない。
+
+### B013 Chromeスクロール再開と末尾確認（2026-11-13）
+
+前回記録した位置からホイールでスクロールを再開し、画面の表示名を目視転記した。[05](inventory/B013_business/chrome_scroll_continuation_05.json) 96件・[06](inventory/B013_business/chrome_scroll_continuation_06.json) 98件・[07](inventory/B013_business/chrome_scroll_continuation_07.json) 98件・[08](inventory/B013_business/chrome_scroll_continuation_08.json) 96件・[09](inventory/B013_business/chrome_scroll_continuation_09.json) 98件・[10](inventory/B013_business/chrome_scroll_continuation_10.json) 98件・[11](inventory/B013_business/chrome_scroll_continuation_11.json) 102件・[12](inventory/B013_business/chrome_scroll_continuation_12.json) 97件・[13](inventory/B013_business/chrome_scroll_continuation_13.json) 94件・[14](inventory/B013_business/chrome_scroll_continuation_14.json) 36件。計913行。表示名の比較は各ファイル記載のindex blob（3932件）に対し大文字小文字を区別せず実施し、一致3行・不一致910行。不一致数は新規アプリ数ではない。行間や既存記録との重複、転記誤り、同名の同一性、テンプレート表示・利用条件の確認は未完了。表示名が読めないヘブライ文字1枠とアラビア文字など2枠は推測せず保留。
+
+スクロールで追加読み込みが何度も発生した後、最後は `ChatGPT Admin` と `D&B Commercial Graph` の行を表示。さらに複数回スクロールしても位置が変わらず、新しい項目が表示されない状態を確認した。これはこの閲覧時点の画面末尾の確認であり、リストの永続的な全件数の保証ではない。上記行はあくまで収集メモで、index本体には未追加。03以前の部分記録も併せ、抜け・重複・保留を再確認してから一覧に反映する。mainと本番サイトには変更なし。
