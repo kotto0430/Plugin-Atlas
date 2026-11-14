@@ -1,0 +1,22 @@
+{
+  "official_app_name": "Genspark AI Slides",
+  "provider": "Mainfunc PTE.LTD",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_694d313cc67c8191804aee33eeb7dfec?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Create professional presentations instantly with AI. Generate beautiful slides from any topic or content.",
+  "summary_ja": "テーマや内容を基にプレゼンテーション用スライドを作成する。",
+  "usage_tags": [
+    "プレゼンテーション",
+    "スライド作成"
+  ],
+  "limitations": [
+    "出力形式、PowerPointとしての編集可否、対応言語、料金は説明だけでは不明。",
+    "一覧本体との名称照合は未確認。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証",
+    "説明だけでは不明"
+  ]
+}
