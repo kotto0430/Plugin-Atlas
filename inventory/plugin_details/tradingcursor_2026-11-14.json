@@ -1,0 +1,19 @@
+{
+  "name": "TradingCursor",
+  "category": "Finance",
+  "provider": "Edwin",
+  "version": "2.0.0",
+  "observed_at": "2026-11-14",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a0d835ff1dc8191972eeabd14967446?category=finance",
+  "developer_url": "https://www.tradingcursor.com/",
+  "privacy_url": "https://www.tradingcursor.com/legal/privacy-policy/",
+  "original_description": "TradingCursor delivers structured, multi-signal analysis for stocks, crypto, forex, and ETFs.",
+  "summary_ja": "株式・暗号資産・外国為替・ETFを対象に、複数のシグナルを用いた分析を提供すると説明されている。",
+  "example_prompts": [
+    "Analyze BTCUSDT on the 1h timeframe",
+    "Run a technical analysis on Tesla stock with a daily timeframe",
+    "Analyze NVDA on the 1W timeframe"
+  ],
+  "review": "詳細画面を下まで確認。提供元の説明の記録で、分析内容の正確性・料金・利用地域は未検証。",
+  "catalog_status": "一覧本体に TradingCursor の名前あり。"
+}
