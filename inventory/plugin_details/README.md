@@ -91,6 +91,13 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 - [Vectali](vectali_2026-11-14.json) — ロゴやイラストをSVG・PDF・EPS・DXFに変換し、元画像と比較する。
 - [Rasterless](rasterless_2026-11-14.json) — アイコンやロゴなどをSVGに変換し、元画像と比較する。
 
+
+- [B&A: Draw Sketches](ba_draw_sketches_2026-11-14.json) — ホワイトボードに手描きや図形、矢印、文字で考えを描く。
+- [B&A: Sketch](ba_sketch_2026-11-14.json) — ホワイトボードでスケッチや図、メモを作る。
+- [drawDash - Sketch Challenge!](drawdash_sketch_challenge_2026-11-14.json) — お題に沿って絵を描き、ChatGPTが何を描いたか当てるゲーム。
+- [Amazing Drawing](amazing_drawing_2026-11-14.json) — 絵や図を描き、ChatGPTに説明・分析・感想などを依頼する。
+- [unsketch](unsketch_2026-11-14.json) — 商品写真から広告画像や短い動画を作成し、会話で修正・字幕編集する。
+
 ## 一覧本体との照合
 
 [名称照合の記録](catalog_name_audit_2026-11-14.json) — 詳細35件と作業ブランチの一覧3,941件を比較。34件は名前が一致、Palimpsestは一致なし。名前の一致は同一性の確定ではない。個々のJSONにある旧「照合未確認」の記載は調査時点の記録で、最新の照合結果はこの記録を参照。
