@@ -1,0 +1,25 @@
+{
+  "official_app_name": "BlitzReels",
+  "provider": "Virgile RIETSCH",
+  "version": "4.0.1",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6952ccb1c6a48191a9d2d07eedb46ad1?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Turn webinars, interviews, demos and short recordings into captioned videos for your business. Review moments, choose clips, revise captions, framing and sound, and export finished files. Generate supporting media or a scripted vertical video through storyboard and preview stages. Reuse reviewed business context and Series defaults. Existing account access, credits, export quality and watermark rules apply.",
+  "app_description": "BlitzReels helps you turn recordings into short videos. In ChatGPT, you can find existing projects and media, import a video you have permission to use, create captioned clips, edit timelines, generate video assets, and export finished files. Actions use your connected BlitzReels workspace and ask for confirmation before sensitive imports or likeness use.",
+  "summary_ja": "ウェビナーや録画から字幕付き短編を作り、字幕・構図・音声を修正して書き出す。絵コンテから縦型動画を作る機能も説明。",
+  "usage_tags": [
+    "動画編集",
+    "切り抜き",
+    "字幕",
+    "動画制作"
+  ],
+  "limitations": [
+    "接続済みワークスペースを使い、アカウント権限・クレジット・画質・透かしの規則が適用されると説明。",
+    "料金・実動作は未確認。",
+    "一覧本体との名称照合は未確認。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
