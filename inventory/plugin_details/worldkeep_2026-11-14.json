@@ -1,0 +1,28 @@
+{
+  "name": "Worldkeep",
+  "official_app_name": "Worldkeep",
+  "official_name_basis": "ChatGPTのプラグイン詳細画面に表示された名称",
+  "category": "Creativity",
+  "provider": "VADIM-MIHAI CHIRIAC",
+  "version": "0.3.3",
+  "observed_at": "2026-11-14",
+  "source_url": "https://chatgpt.com/plugins/plugins_6a8208a63c588191a30e60c667730569?category=creativity",
+  "developer_url": "https://github.com/vadim-chiriac/worldkeep",
+  "original_description": "Turn natural-language worldbuilding into a structured, approval-gated Markdown/YAML canon. Review the meanings the agent modeled, validate consistency, and refine configurable offline graph views.",
+  "description_scope": "ChatGPTの詳細画面に表示された提供元の英語説明。",
+  "summary_ja": "創作世界の設定を承認を経てMarkdown/YAMLに整理し、整合性の確認や関係のグラフ表示を支援する。",
+  "usage_tags": [
+    "世界観設定",
+    "小説制作",
+    "漫画制作",
+    "設定管理"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "limitations_ja": "説明では設定の記録・可視化向けであり、小説本文の執筆や特定ゲームのキャラクターシート向けではない。機能欄はRead, Write。実動作は未検証。",
+  "details_ja": "2つのスキルが表示され、worldbuilding-scribeは設定の抽出と承認提案、canon-viewerはworld.yamlを含む設定のグラフ表示を担当すると説明。",
+  "review": "詳細画面の説明と情報欄を確認。インストールや実機能の検証は行っていない。",
+  "catalog_status": "2026-11-14時点の一覧本体 index.html（blob 27fc7d17ee843cc9e0651a6c2913c06326f3b9db）に正式表示名の文字列なし。別名・同名製品との同一性は未確認。"
+}
