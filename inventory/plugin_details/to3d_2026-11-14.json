@@ -1,0 +1,26 @@
+{
+  "name": "to3D",
+  "official_app_name": "to3D",
+  "official_name_basis": "ChatGPTのプラグイン詳細画面に表示された名称",
+  "category": "Creativity",
+  "provider": "qubico",
+  "version": "1.0.0",
+  "observed_at": "2026-11-14",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6954f3d85c7881918ea8bc9cb482342b?category=creativity",
+  "developer_url": "https://to3d.app/",
+  "original_description": "to3D helps users convert 2D images into simple 3D glTF model. You can upload an image, preview the generated 3D result, and export it for further editing or use in design tools. The app is designed to make basic 3D conversion fast and accessible, even for users without professional 3D software experience.",
+  "description_scope": "ChatGPTの詳細画面に表示された提供元の英語説明",
+  "summary_ja": "2D画像からシンプルな3Dモデルを作り、glTF形式でプレビュー・書き出しできる。",
+  "usage_tags": [
+    "3D",
+    "画像変換",
+    "素材制作"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "limitations_ja": "生成モデルの品質、画像の対応範囲、利用料金や書き出しの挙動は未検証。",
+  "review": "詳細画面の説明と情報欄を確認。画像をアップロードしていない。",
+  "catalog_status": "一覧本体との名称照合は未確認。"
+}
