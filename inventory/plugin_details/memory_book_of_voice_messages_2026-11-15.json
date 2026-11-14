@@ -1,0 +1,26 @@
+{
+  "name": "Memory Book of Voice Messages",
+  "official_app_name": "Memory Book of Voice Messages",
+  "provider": "The Open Apps, Inc.",
+  "version": "1.0.1",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ad670e0a7c48191adab2bc09f5c2302?category=creativity",
+  "developer_url": "https://voxbind.ambientapp.ai/",
+  "category": "Creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Voxbind is a memory book of one person's voice messages: it turns their WhatsApp voice notes into a memoir, every note transcribed and dated, grouped into chapters, with listening pages that play their own voice.\n\nHow it works:\n1. In WhatsApp, open the chat and choose Export chat with media (Attach Media on iPhone, Include media on Android).\n2. Attach the ZIP in ChatGPT and ask for a memoir. Voxbind lists who sent voice notes and how many; you choose one person and confirm you may use their recordings.\n3. Voxbind keeps only that person's voice notes and deletes everything else in the export straight away. It transcribes each note in the language it was spoken.\n4. ChatGPT reads the transcripts and suggests chapter titles in the person's own words. Fix a misheard word or leave a note out in the card.\n\nThe printed book (United States and Canada only): a 6 x 9 inch hardcover with a contents page, dated chapters, the transcript of every note under its date, and a QR code at the start of each chapter. Any phone camera opens a private page that plays the original recordings, with no app or account. The back cover holds a code for the whole archive. Preview every page in the chat, then order it; the address and payment are entered on voxbind.ambientapp.ai. Printed and shipped to the United States and Canada only. Everywhere else, the memoir, transcripts, listening pages and recordings download work the same, without the printed book.\n\nAlso works with recordings from a phone's voice recorder (m4a, mp3, wav, ogg, opus). Exports too large to attach, or attachments that don't come through, go in on a private upload page.\n\nPrivacy:\n- Only the person you choose is kept. The chat text, photos and videos in the export are deleted as soon as it is read, and other people's voice notes when you choose, or after two hours if you don't.\n- No voiceprints: Voxbind knows who sent each note from the names in the export, never by analysing anyone's voice. It never imitates or clones a voice.\n- Audio stays on Voxbind's server; ChatGPT receives only the names in the export and, after you choose, the transcripts.\n- Delete a memoir at any time: say \"Delete my Voxbind memoir\".\n\nLimits:\n- Up to 600 voice notes per memoir.\n- Printed books (United States and Canada) have 24 to 320 pages; notes in Chinese, Japanese, Korean, Arabic, Hebrew or other scripts the book can't print yet stay in the memoir and play on their listening pages.\n- Not affiliated with WhatsApp or Meta.",
+  "original_description_language": "en",
+  "summary_ja": "一人分の音声メッセージを文字起こしして章にまとめ、録音を聴ける回想録を作る。",
+  "usage_tags": [
+    "音声",
+    "文字起こし",
+    "記念",
+    "出版"
+  ],
+  "limitations_ja": "印刷・配送は米国とカナダのみ。日本語などは印刷できないが音声ページで聴けると説明。最大600件。音声はVoxbindのサーバーに保存されるとの提供元の説明で、削除・通信の実挙動は未検証。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "一覧本体との名称照合は未確認。同名・別名の同一性は未確認。",
+  "review": "詳細画面の説明と情報欄を確認。実動作、料金、品質は未検証。"
+}
