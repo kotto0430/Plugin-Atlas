@@ -1,0 +1,26 @@
+{
+  "name": "MangaBoom",
+  "official_app_name": "MangaBoom",
+  "provider": "Vidline Inc.",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_694515f686a88191abd2f9c020d4bc06?category=creativity",
+  "developer_url": "https://awesomize.ai/apps/manga-boom",
+  "category": "Creativity",
+  "observed_at": "2026-11-14",
+  "original_description": "Your personal AI Manga Artist. Convert stories, chat logs, and concepts into dynamic, full-color comics in seconds.\n\nCore Capabilities\nChat-to-Comic: Copy text conversations to instantly generate 4-panel manga skits. Ideal for social media content.\n\nSmart Director Mode: Automatically structures stories with proper pacing (Intro, Build-up, Climax, Twist).\n\nMobile-First Format: Generates vertical scrolling layouts optimized for reading on smartphones.\n\nMulti-Style Support: Switch between Shonen action, Korean Webtoon, and American Cartoon styles.\n\nHow to Use in ChatGPT\n1. Connect: Connect MangaBoom to ChatGPT.\n2. Trigger: Activate the app using one of these methods: Type Commands: Simply type “@” then choose MangaBoom, or type “MangaBoom” in the chat box.\n3. Create: That's it!",
+  "original_description_language": "en",
+  "description_scope": "ChatGPT詳細画面の提供元の英語説明。",
+  "summary_ja": "文章や会話から、縦スクロール形式などのカラー漫画を作る。",
+  "usage_tags": [
+    "漫画制作",
+    "4コマ",
+    "画像生成"
+  ],
+  "limitations_ja": "提供元は会話から4コマを作り、複数の作風に対応すると説明。実際の品質や料金は未検証。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "詳細画面の説明と情報欄を確認。実動作、料金、品質、権利条件は未検証。",
+  "catalog_status": "一覧本体との名称照合は未確認。同名・別名の同一性は未確認。"
+}
