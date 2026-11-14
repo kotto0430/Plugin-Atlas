@@ -444,3 +444,8 @@ Chromeの詳細画面を確認し、[Krea](inventory/plugin_details/krea_2026-11
 ### 不明な機能の詳細調査（2026-11-14、漫画関連5件）
 
 [PersonalizedComics](inventory/plugin_details/personalizedcomics_2026-11-14.json)、[AI Manga Studio](inventory/plugin_details/ai_manga_studio_2026-11-14.json)、[Image Translator](inventory/plugin_details/image_translator_2026-11-14.json)、[Anifusion](inventory/plugin_details/anifusion_2026-11-14.json)、[TicToon](inventory/plugin_details/tictoon_2026-11-14.json)の表示名・提供元・版・英文原文・日本語要約・用途・制約を保存。[詳細索引](inventory/plugin_details/README.md)は累計85件。AI Manga Studioは連携アカウント内で企画・ネーム・ページ編集を扱い、ローカル専用作品は対象外と説明。Image TranslatorはMegaScenesに事前保存した画像を使い、結果はテキストではなく画像。Anifusionは非公開の編集可能な漫画を扱い、TicToonは参加済みチャンネルへの投稿と、それぞれ異なる役割。PersonalizedComicsは写真から短編を作り、掲載に同意した人物の写真だけを共有するよう記載。機能・料金・品質・権利条件・一覧本体との名称照合は未検証。作業ブランチのみ更新し、main・本番未変更。
+
+
+### 不明な機能の詳細調査（2026-11-14、物語・絵コンテ5件）
+
+[MangaBoom](inventory/plugin_details/mangaboom_2026-11-14.json)、[Story Writer](inventory/plugin_details/story_writer_2026-11-14.json)、[Firemoon Storyboard Studio](inventory/plugin_details/firemoon_storyboard_studio_2026-11-14.json)、[Storybook Maker](inventory/plugin_details/storybook_maker_2026-11-14.json)、[Storytailor](inventory/plugin_details/storytailor_2026-11-14.json)を記録。[詳細索引](inventory/plugin_details/README.md)は累計90件。Story Writerはアフィリエイトリンクの記載あり。Firemoonは人物の一貫性を保証しないと説明。Storybook Makerは1回1ページの挿絵を作り、物語の文字は画像ではなくチャットに残ると説明。機能・品質・料金・権利条件、一覧本体との名称照合は未検証。作業ブランチのみ更新、main・本番未変更。
