@@ -1,0 +1,23 @@
+{
+  "official_app_name": "AI Music Maker",
+  "provider": "InfoseekAI",
+  "version": "2.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a568082e3048191989e69beac2e4a59?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Generate original music with ElevenLabs’ state-of-the-art music model from a simple prompt, lyrics, and optional original audio reference. Create polished tracks for videos, social posts, podcasts, product stories, and creative projects.\n\n• Create music from natural-language creative direction\n• Add optional lyrics for vocal tracks\n• Use original MP3 or WAV audio as a reference\n• Listen to, save, and share completed tracks\n• Low-cost, usage-based pricing varies by track duration and settings",
+  "summary_ja": "文章や歌詞、必要に応じてオリジナル音声を参考に楽曲を作る。",
+  "usage_tags": [
+    "音楽制作",
+    "BGM",
+    "歌"
+  ],
+  "limitations": [
+    "ElevenLabsの音楽モデルを使うと説明。従量料金は曲の長さや設定によって変わると記載。",
+    "具体的な料金・権利条件・対応言語・実動作は未確認。",
+    "一覧本体との名称照合は未確認。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
