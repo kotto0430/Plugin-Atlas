@@ -1,0 +1,26 @@
+{
+  "name": "Brix36",
+  "official_app_name": "Brix36",
+  "provider": "SOCIALISER APP LTD",
+  "version": "1.0.2",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac5fb3b2cb8819194e4933c469bdc15?category=creativity",
+  "developer_url": "https://brix36.com/",
+  "category": "Creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Make films and music videos with your connected Brix36 account. Shape a story, review a storyboard, create a video and revisit finished projects in chat. Use your own material, fictional characters, or people who have given permission.",
+  "original_description_language": "en",
+  "summary_ja": "連携したアカウントで映画やミュージックビデオの企画・絵コンテ・動画を扱う。",
+  "usage_tags": [
+    "動画制作",
+    "音楽",
+    "絵コンテ"
+  ],
+  "limitations_ja": "アカウント連携が必要。自分の素材、架空の人物、または許可を得た人を使うよう説明。長さや料金は詳細説明だけでは不明。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証",
+    "説明だけでは不明"
+  ],
+  "catalog_status": "一覧本体との名称照合は未確認。同名・別名の同一性は未確認。",
+  "review": "詳細画面の説明・情報欄を確認。動作、料金、品質は未検証。"
+}
