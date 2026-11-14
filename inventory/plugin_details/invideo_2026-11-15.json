@@ -1,0 +1,25 @@
+{
+  "name": "invideo",
+  "official_app_name": "invideo",
+  "provider": "Invideo Inc",
+  "version": "3.2.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6943c531f50c8191b40bcd2ca978c780?category=creativity",
+  "developer_url": "https://invideo.io/",
+  "category": "Creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Edit videos with ChatGPT by connecting it to invideo, a professional editor in your browser. Nothing to install. Upload your footage or pull it from Google Drive, describe the edit, and ChatGPT assembles the cut, grades colour, mixes sound, builds effects and motion graphics from a description or a reference, and sources or generates any media you are missing. All of it on a frame-accurate, fully editable timeline.\n\nReview the cut, direct the next pass through chat, or fine-tune it yourself with colour, audio and 3D tools, 250+ AI models and multiplayer with live cursors. First cut to final export, you stay in control.",
+  "original_description_language": "en",
+  "summary_ja": "既存映像をチャットやブラウザーのタイムラインで編集し、書き出す。",
+  "usage_tags": [
+    "動画編集",
+    "モーショングラフィックス",
+    "共同作業"
+  ],
+  "limitations_ja": "Google Driveからの素材利用にも言及。モデル数・フレーム単位の編集・料金は提供元の説明で実動作未検証。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "一覧本体との名称照合は未確認。同名・別名の同一性は未確認。",
+  "review": "詳細画面の説明・情報欄を確認。動作、料金、品質は未検証。"
+}
