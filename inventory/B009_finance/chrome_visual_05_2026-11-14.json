@@ -1,0 +1,334 @@
+{
+  "source": "Chrome ChatGPT 金融",
+  "date": "2026-11-14",
+  "catalog_blob": "ed517167a5188fd9018de0c4c041e146750b43b9",
+  "method": "画面を重ねてスクロールし表示名を目視転記。大文字小文字を区別せず名前を照合。",
+  "notes": "誤記・重複・異表記の可能性あり。一致は同一性、不一致は新規件数を意味しない。",
+  "counts": {
+    "rows": 80,
+    "matched": 0,
+    "unmatched": 80
+  },
+  "rows": [
+    {
+      "name": "dibsresearch",
+      "matched": false
+    },
+    {
+      "name": "Numeric Close",
+      "matched": false
+    },
+    {
+      "name": "TchekMyPay",
+      "matched": false
+    },
+    {
+      "name": "CoinRebate",
+      "matched": false
+    },
+    {
+      "name": "Centry IFICI Planner",
+      "matched": false
+    },
+    {
+      "name": "Grundheim",
+      "matched": false
+    },
+    {
+      "name": "NetNest SEC Fundamentals",
+      "matched": false
+    },
+    {
+      "name": "Kilter Money",
+      "matched": false
+    },
+    {
+      "name": "0xArchive",
+      "matched": false
+    },
+    {
+      "name": "Analyzera",
+      "matched": false
+    },
+    {
+      "name": "AllRatesToday",
+      "matched": false
+    },
+    {
+      "name": "Binq",
+      "matched": false
+    },
+    {
+      "name": "Centry Adviser Coordination",
+      "matched": false
+    },
+    {
+      "name": "Agregator.ro",
+      "matched": false
+    },
+    {
+      "name": "The AR Agent",
+      "matched": false
+    },
+    {
+      "name": "Whizi Canadian Tax",
+      "matched": false
+    },
+    {
+      "name": "Cash Flow Frog",
+      "matched": false
+    },
+    {
+      "name": "QuantumFira",
+      "matched": false
+    },
+    {
+      "name": "SML RWA Evidence",
+      "matched": false
+    },
+    {
+      "name": "Lipi",
+      "matched": false
+    },
+    {
+      "name": "Tchin",
+      "matched": false
+    },
+    {
+      "name": "Monk.trade",
+      "matched": false
+    },
+    {
+      "name": "Sentio Connect",
+      "matched": false
+    },
+    {
+      "name": "Spliteo",
+      "matched": false
+    },
+    {
+      "name": "VnRebates - Học Trading",
+      "matched": false
+    },
+    {
+      "name": "Trivis",
+      "matched": false
+    },
+    {
+      "name": "ValYou",
+      "matched": false
+    },
+    {
+      "name": "Signal Whisper",
+      "matched": false
+    },
+    {
+      "name": "Alphascope",
+      "matched": false
+    },
+    {
+      "name": "GrowPanel",
+      "matched": false
+    },
+    {
+      "name": "Centry Crypto Records",
+      "matched": false
+    },
+    {
+      "name": "Boliglånsberegner",
+      "matched": false
+    },
+    {
+      "name": "Edetax",
+      "matched": false
+    },
+    {
+      "name": "Elterngeld Help",
+      "matched": false
+    },
+    {
+      "name": "VnRebates - Trader Tools",
+      "matched": false
+    },
+    {
+      "name": "Zovo Inflation Calculator",
+      "matched": false
+    },
+    {
+      "name": "Invoist",
+      "matched": false
+    },
+    {
+      "name": "Misfit Investor",
+      "matched": false
+    },
+    {
+      "name": "Rendeu",
+      "matched": false
+    },
+    {
+      "name": "PU Prime: CFD Market Data",
+      "matched": false
+    },
+    {
+      "name": "Receiptix",
+      "matched": false
+    },
+    {
+      "name": "Vianto - piața imobiliară",
+      "matched": false
+    },
+    {
+      "name": "SankeyArt",
+      "matched": false
+    },
+    {
+      "name": "Amore Insurance Quick Quote",
+      "matched": false
+    },
+    {
+      "name": "BeliefState",
+      "matched": false
+    },
+    {
+      "name": "CurrencyGo",
+      "matched": false
+    },
+    {
+      "name": "Filarise",
+      "matched": false
+    },
+    {
+      "name": "Zovo LEI Lookup",
+      "matched": false
+    },
+    {
+      "name": "Reach Reporting",
+      "matched": false
+    },
+    {
+      "name": "NL Tax Calculator",
+      "matched": false
+    },
+    {
+      "name": "Seistream Blockchain Data",
+      "matched": false
+    },
+    {
+      "name": "InsiderCat",
+      "matched": false
+    },
+    {
+      "name": "Fina",
+      "matched": false
+    },
+    {
+      "name": "Otis",
+      "matched": false
+    },
+    {
+      "name": "Kabuken",
+      "matched": false
+    },
+    {
+      "name": "Onramp Money",
+      "matched": false
+    },
+    {
+      "name": "Unhosted",
+      "matched": false
+    },
+    {
+      "name": "RetirementNeuron",
+      "matched": false
+    },
+    {
+      "name": "AdvPulse",
+      "matched": false
+    },
+    {
+      "name": "Altair Research",
+      "matched": false
+    },
+    {
+      "name": "Ask the Clock",
+      "matched": false
+    },
+    {
+      "name": "Cash-service.pl",
+      "matched": false
+    },
+    {
+      "name": "GoodbyeMatrix Residency Index",
+      "matched": false
+    },
+    {
+      "name": "POPA Recon",
+      "matched": false
+    },
+    {
+      "name": "Deal Screener",
+      "matched": false
+    },
+    {
+      "name": "Paply",
+      "matched": false
+    },
+    {
+      "name": "REIzer",
+      "matched": false
+    },
+    {
+      "name": "EyeQuant",
+      "matched": false
+    },
+    {
+      "name": "Centry Global Cashflow",
+      "matched": false
+    },
+    {
+      "name": "Thinking of Selling",
+      "matched": false
+    },
+    {
+      "name": "Cardzen",
+      "matched": false
+    },
+    {
+      "name": "Capable Cap Table",
+      "matched": false
+    },
+    {
+      "name": "ClarioMoney",
+      "matched": false
+    },
+    {
+      "name": "EQUIRE",
+      "matched": false
+    },
+    {
+      "name": "Finnce",
+      "matched": false
+    },
+    {
+      "name": "Foliyo PMS Data",
+      "matched": false
+    },
+    {
+      "name": "Harcourt Valuations",
+      "matched": false
+    },
+    {
+      "name": "Helious",
+      "matched": false
+    },
+    {
+      "name": "Nurly Tau",
+      "matched": false
+    },
+    {
+      "name": "Keel",
+      "matched": false
+    }
+  ]
+}
