@@ -1,0 +1,27 @@
+{
+  "name": "Inkroost: Comic & Manga Maker",
+  "official_app_name": "Inkroost: Comic & Manga Maker",
+  "official_name_basis": "ChatGPTのプラグイン詳細画面に表示された名称",
+  "category": "Creativity",
+  "provider": "Inkroost",
+  "version": "2.1.0",
+  "observed_at": "2026-11-14",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a95ead4b76081918743264bdfbfb543?category=creativity",
+  "developer_url": "https://inkroost.com/",
+  "original_description": "Make comics, manga, webtoons, manhwa and graphic novels from your own story, then turn a chapter into an anime or cartoon episode with voices and music. Plan a series with consistent characters and settings, pick a look from pictures, watch each page arrive in the chat or beside it, and keep the drawings you like with one click. Add accessible text and submit finished chapters for moderation. For an episode, watch examples first, then review and approve a plan before anything is animated. Your series also live in the sidebar.",
+  "description_scope": "ChatGPTの詳細画面に表示された提供元の英語説明。",
+  "summary_ja": "物語から漫画やウェブトゥーンのシリーズを企画・作画し、章を声や音楽付きのアニメにする機能を案内する。",
+  "usage_tags": [
+    "漫画制作",
+    "ウェブトゥーン",
+    "アニメ制作",
+    "キャラクター制作"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "limitations_ja": "完成章の審査提出や、アニメ化前の計画確認・承認について記載。機能欄はInteractive, Read, Write。実動作・品質・料金・権利条件は未検証。",
+  "review": "詳細画面の説明と情報欄を確認。インストールや実機能の検証は行っていない。",
+  "catalog_status": "2026-11-14時点の一覧本体 index.html（blob 27fc7d17ee843cc9e0651a6c2913c06326f3b9db）に正式表示名の文字列なし。別名・同名製品との同一性は未確認。"
+}
