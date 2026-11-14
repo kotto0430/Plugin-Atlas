@@ -1,0 +1,25 @@
+{
+  "name": "VideoGen - AI Video Generator",
+  "official_app_name": "VideoGen - AI Video Generator",
+  "provider": "VideoGen, Inc",
+  "version": "2.5.4",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a7632963b6c8191b3da907392ba6676",
+  "developer_url": "https://videogen.io/",
+  "category": "Creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Create and edit videos in ChatGPT with VideoGen's AI video generator and AI video editor. Turn a product brief, script, or photo into an editable video with captions and an MP4 download.\n\nMake product videos for ecommerce and DTC brands, retailers, consumer apps, agencies, and marketing teams. Create AI UGC-style ads, product demos, launch videos, and social video ads. Create videos for TikTok, Instagram Reels, YouTube Shorts, or landscape campaigns.\n\nText to video: turn a brief into a short storyboard with control over each shot. Use script to video for narrated marketing videos, explainers, lessons, or training. You can also create videos from an uploaded voiceover, PDF, or slideshow.\n\nImage to video: animate product photos or create clips from reference images and videos. Save product, actor, and visual-style references to reuse across scenes and projects. References guide generation; exact product details and character consistency can vary.\n\nEdit and deliver: add captions, transitions, or camera motion to an existing project. Create a separate version when you want to preserve the original. Export an MP4 and continue editing the timeline in VideoGen.\n\nCreate supporting media: AI images, video clips, voiceovers, music, sound effects, motion graphics, and avatar videos. Remove image or video backgrounds, upscale media, or turn a raster image into an SVG.\n\nConnect your VideoGen account to start. Generation uses your VideoGen team credits and depends on your account's feature access. Uploads use the in-chat uploader where supported. VideoGen creates media and projects; it does not publish ads or manage ad campaigns. If credits or access prevent a task, open https://app.videogen.io and manage your VideoGen account, then retry.",
+  "original_description_language": "en",
+  "summary_ja": "文章・画像などから動画を生成・編集し、MP4を書き出す。",
+  "usage_tags": [
+    "動画制作",
+    "広告",
+    "SNS"
+  ],
+  "limitations_ja": "VideoGenの連携とチームクレジットを使用。広告の公開や運用は対象外。人物や商品細部の一貫性は変動し得る。前回記録した別提供元のAI Video Generatorとは別ページ。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "一覧本体との名称照合は未確認。同名・別名の同一性は未確認。",
+  "review": "詳細画面の説明・情報欄を確認。動作、料金、品質は未検証。"
+}
