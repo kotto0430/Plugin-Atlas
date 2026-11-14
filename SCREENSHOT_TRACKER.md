@@ -367,3 +367,8 @@ Chromeの詳細ページを開き、長い説明は展開して下まで確認�
 ### 不明な機能の詳細調査（2026-11-14、金融・クリエイティブ追加5件）
 
 [StrategyTune: Backtesting](inventory/plugin_details/strategytune_backtesting_2026-11-14.json)、[LONA™](inventory/plugin_details/lona_2026-11-14.json)、[HyperFrames by HeyGen](inventory/plugin_details/hyperframes_by_heygen_2026-11-14.json)、[Creative Claw](inventory/plugin_details/creative_claw_2026-11-14.json)、[Creative Production（OpenAI）](inventory/plugin_details/creative_production_openai_2026-11-14.json)の詳細画面を確認し、名称、提供元、英語説明、日本語要約、用途タグ、確認状況を記録。[詳細索引](inventory/plugin_details/README.md)は累計25件。前2件は過去データによる検証で実注文・証券口座接続を行わないとの説明。Creative Clawは生成依頼の確認と完成動画のプレビューの違い、他者の音声には明示的な許可が必要という提供元の記載も保存。機能、品質、料金等は未検証。今回の5件と一覧本体の名称照合・同名製品の同一性は未確認。金融およびクリエイティブを含む各カテゴリーの詳細調査は未完了。作業ブランチのみ更新しmain・本番未変更。
+
+
+### 不明な機能の詳細調査（2026-11-14、クリエイティブ追加10件）
+
+Chromeの詳細画面を確認し、[Krea](inventory/plugin_details/krea_2026-11-14.json)、[Pollo AI](inventory/plugin_details/pollo_ai_2026-11-14.json)、[Mobbin](inventory/plugin_details/mobbin_2026-11-14.json)、[Refero](inventory/plugin_details/refero_2026-11-14.json)、[to3D](inventory/plugin_details/to3d_2026-11-14.json)、[BioRender](inventory/plugin_details/biorender_2026-11-14.json)、[MyFonts](inventory/plugin_details/myfonts_2026-11-14.json)、[VideoZero](inventory/plugin_details/videozero_2026-11-14.json)、[Instavar Video Templates](inventory/plugin_details/instavar_video_templates_2026-11-14.json)、[MagicPath](inventory/plugin_details/magicpath_2026-11-14.json)を記録。[詳細索引](inventory/plugin_details/README.md)は累計35件。表示名・提供元・版・出典・英文説明・日本語要約・用途タグ・確認状況を保存。Instavarは説明が短く詳細不明と明記。MagicPathのAl・Ulは読み上げ上の表記をそのまま保存。機能・品質・料金・ライセンスは未検証。今回の10件と一覧本体の名称照合・同名項目の同一性は未確認。クリエイティブ一覧全体の詳細選別は未完了。次は近辺の未調査項目から続ける。作業ブランチのみ更新し、main・本番未変更。
