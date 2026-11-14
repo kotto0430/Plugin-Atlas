@@ -439,3 +439,8 @@ Chromeの詳細画面を確認し、[Krea](inventory/plugin_details/krea_2026-11
 ### 不明な機能の詳細調査（2026-11-14、創作素材5件）
 
 [Fantasy Maps](inventory/plugin_details/fantasy_maps_2026-11-14.json)、[Character Art](inventory/plugin_details/character_art_2026-11-14.json)、[Pixel Art](inventory/plugin_details/pixel_art_2026-11-14.json)、[Book Covers by Abracadabrax](inventory/plugin_details/book_covers_by_abracadabrax_2026-11-14.json)、[Coloring Pages by Abracadabrax](inventory/plugin_details/coloring_pages_by_abracadabrax_2026-11-14.json)を記録。[詳細索引](inventory/plugin_details/README.md)は累計80件。いずれもAbracadabraxの詳細画面の説明では、テキストから作り、生成にはサインインと確認が必要。Pixel ArtはGIFやゲームエンジンのファイルを書き出さず、Book Coversは背表紙・裏表紙を対象外と説明。機能、品質、料金、権利条件、一覧本体との名称照合は未検証。作業ブランチのみ更新し、main・本番未変更。
+
+
+### 不明な機能の詳細調査（2026-11-14、漫画関連5件）
+
+[PersonalizedComics](inventory/plugin_details/personalizedcomics_2026-11-14.json)、[AI Manga Studio](inventory/plugin_details/ai_manga_studio_2026-11-14.json)、[Image Translator](inventory/plugin_details/image_translator_2026-11-14.json)、[Anifusion](inventory/plugin_details/anifusion_2026-11-14.json)、[TicToon](inventory/plugin_details/tictoon_2026-11-14.json)の表示名・提供元・版・英文原文・日本語要約・用途・制約を保存。[詳細索引](inventory/plugin_details/README.md)は累計85件。AI Manga Studioは連携アカウント内で企画・ネーム・ページ編集を扱い、ローカル専用作品は対象外と説明。Image TranslatorはMegaScenesに事前保存した画像を使い、結果はテキストではなく画像。Anifusionは非公開の編集可能な漫画を扱い、TicToonは参加済みチャンネルへの投稿と、それぞれ異なる役割。PersonalizedComicsは写真から短編を作り、掲載に同意した人物の写真だけを共有するよう記載。機能・料金・品質・権利条件・一覧本体との名称照合は未検証。作業ブランチのみ更新し、main・本番未変更。
