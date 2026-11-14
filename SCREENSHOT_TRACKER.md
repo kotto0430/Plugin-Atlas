@@ -352,3 +352,8 @@ Chromeの詳細ページを開き、長い説明は展開して下まで確認�
 ### 不明な機能の詳細調査（2026-11-14、続き）
 
 金融一覧から [VODER](inventory/plugin_details/voder_2026-11-14.json)、[Third Bridge](inventory/plugin_details/third_bridge_2026-11-14.json)、[CB Insights](inventory/plugin_details/cb_insights_2026-11-14.json)、[Cube](inventory/plugin_details/cube_2026-11-14.json)、[Parqet](inventory/plugin_details/parqet_2026-11-14.json) の詳細画面を確認し、英文・日本語の要点・用途タグ・確認状況などを保存。詳細調査の記録は累計10件。[索引](inventory/plugin_details/README.md)を更新した。機能や提供元の主張は実動作を検証していない。Cubeなど同名項目の同一性は未確認。Parqetの一覧本体との名称照合は別途確認。金融を含め、全カテゴリの選別・詳細確認は未完了。作業ブランチのみ更新、main・本番未変更。
+
+
+### 不明な機能の詳細調査（2026-11-14、追加5件）
+
+金融一覧の [Massive](inventory/plugin_details/massive_2026-11-14.json)、[Bigdata.com](inventory/plugin_details/bigdata_com_2026-11-14.json)、[Unusual Whales](inventory/plugin_details/unusual_whales_2026-11-14.json)、[Moneytree](inventory/plugin_details/moneytree_2026-11-14.json)、[CryptoAudit](inventory/plugin_details/cryptoaudit_2026-11-14.json) の詳細画面を確認し、英文・日本語の要点・用途タグ・確認状況を記録。[詳細調査索引](inventory/plugin_details/README.md)に追加し、累計15件。Bigdata.comは情報源の範囲が権限に依存し、Unusual Whalesはアカウントへのサインインが必要と記載。Moneytreeは個人データを接続していない。提供元の説明を記録したもので、機能・料金・情報の正確性などは未検証。今回の5件は一覧本体との名称照合が未確認。金融を含め全カテゴリの選別と詳細確認は未完了。次回も既存の詳細記録と重複しない項目から続行する。作業ブランチのみ更新し、main・本番は変更していない。
