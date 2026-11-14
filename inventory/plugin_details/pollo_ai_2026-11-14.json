@@ -1,0 +1,28 @@
+{
+  "name": "Pollo AI",
+  "official_app_name": "Pollo AI",
+  "official_name_basis": "ChatGPTのプラグイン詳細画面に表示された名称",
+  "category": "Creativity",
+  "provider": "Pollo AI",
+  "version": "2.1.3",
+  "observed_at": "2026-11-14",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a851a2552d08191a3c1cbb2e04c49d5?category=creativity",
+  "developer_url": "https://pollo.ai/",
+  "privacy_url": "https://pollo.ai/privacy-policy",
+  "original_description": "Pollo AI turns ChatGPT into an all-in-one creative platform, with ready-made workflows to create, edit, and manage videos, images, designs, music, and voiceovers. Start with a simple idea, a product link, a script, or your own images and videos. Pollo AI proposes a plan, estimates the credits, and carries the project end to end, from first shot to final export.\n\nWith Pollo AI, you can:\n\n• Generate any medium with top models. Create cinematic 4K video, scroll-stopping images, original songs, and natural voiceovers with 100+ models, including Seedance 2.5, Kling 3, Veo 3.1, GPT Image 2.6, and Nano Banana Pro.\n\n• Turn one brief into a finished piece. AI video production workflows deliver multi-shot product ads, UGC and try-on videos, brand spots, short dramas, music videos, story films, game trailers, property tours, and launch videos with exact text and numbers, or remake a proven ad for your product.\n\n• Reuse assets across projects. Keep characters, products, scenes, and styles consistent across every creation. Organize your files in a shared workspace that stays in sync with Pollo AI.\n\n• Edit and export in the same session. Arrange clips, regenerate any shot, and add transitions, titles, AI subtitles, and music in Director, then export a ready-to-publish cut as MP4, MOV, or WebM, without switching tools.\n\n• Enhance, transform, and localize any asset. Upscale footage, remove backgrounds or burned-in subtitles, and extend or restyle clips with a single prompt. Reframe for any platform and translate videos into 100+ languages with lip sync.\n\n• Batch tasks and control costs. Run up to 12 image or video tasks at once to compare prompts or models side by side. Pollo AI estimates credits upfront and suggests models for your budget, keeping your project spending in check.\n\nFrom first idea to final cut, your whole production now lives in ChatGPT. Sign in with your Pollo AI account, no API key needed, and start your first project.",
+  "description_scope": "ChatGPTの詳細画面で展開した提供元の英語説明",
+  "summary_ja": "動画・画像・音楽・音声の生成や編集を行い、素材の再利用や動画の書き出しを支援する。",
+  "usage_tags": [
+    "動画制作",
+    "画像制作",
+    "音声合成",
+    "音楽制作"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "limitations_ja": "提供元はPollo AIアカウントへのサインインとクレジットの見積もりに言及。掲載されたモデル数や性能、料金、出力品質は未検証。",
+  "review": "詳細画面の説明を展開して確認。生成・編集・書き出しは試していない。",
+  "catalog_status": "一覧本体との名称照合は未確認。"
+}
