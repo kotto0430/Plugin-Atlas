@@ -412,3 +412,8 @@ Chromeの詳細画面を確認し、[Krea](inventory/plugin_details/krea_2026-11
 ### 不明な機能の詳細調査（2026-11-14、画像制作・変換5件）
 
 [Alpix](inventory/plugin_details/alpix_2026-11-14.json)、[Vectorize](inventory/plugin_details/vectorize_2026-11-14.json)、[Shapesoda](inventory/plugin_details/shapesoda_2026-11-14.json)、[Vectali](inventory/plugin_details/vectali_2026-11-14.json)、[Rasterless](inventory/plugin_details/rasterless_2026-11-14.json)を確認し、英語説明・日本語要約・用途・確認状況を保存。[索引](inventory/plugin_details/README.md)は累計60件。Alpixは共有キャンバスでドット絵を描くと説明。Shapesodaは送信画像と結果を24時間後に削除すると説明。Vectaliはメイン説明の上限400万画素とアプリ欄の262144画素が食い違うため両方保存して要確認。Rasterlessはローカルで動作し送信しないとの提供元の説明で、実際の動作・通信は未検証。今回の5件の一覧本体との名称照合、各機能や料金は未検証。詳細調査は継続中。作業ブランチのみ更新し、main・本番未変更。
+
+
+### 不明な機能の詳細調査（2026-11-14、スケッチなど5件）
+
+[B&A: Draw Sketches](inventory/plugin_details/ba_draw_sketches_2026-11-14.json)、[B&A: Sketch](inventory/plugin_details/ba_sketch_2026-11-14.json)、[drawDash - Sketch Challenge!](inventory/plugin_details/drawdash_sketch_challenge_2026-11-14.json)、[Amazing Drawing](inventory/plugin_details/amazing_drawing_2026-11-14.json)、[unsketch](inventory/plugin_details/unsketch_2026-11-14.json)を確認し、画面原文・日本語要約・用途・確認状況を保存。[詳細索引](inventory/plugin_details/README.md)は累計65件。B&Aの2件は同じ説明文とサイトだが名前・提供元・詳細ページが異なり、関係や同一性は未確認。drawDashは絵を描いてChatGPTが当てるゲームと説明。unsketchの画面原文は日本語で、英語原文は未確認。各機能・料金と今回5件の一覧本体との名称照合は未検証。詳細調査は継続中。作業ブランチのみ更新、main・本番未変更。
