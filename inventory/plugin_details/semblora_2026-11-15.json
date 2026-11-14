@@ -1,0 +1,25 @@
+{
+  "name": "Semblora",
+  "official_app_name": "Semblora",
+  "provider": "Semblora",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ae35b17fe8c8191b850f16633622e16",
+  "developer_url": "https://semblora.com/",
+  "category": "Creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Semblora is an AI creative studio for ads, films, music videos, animation, anime and manga. Connect your Semblora account to list your creations, open their details and download links, check what a generation would use, and have the Semblora AI Director write or update a script and a text storyboard. Before any generation starts (storyboard images or the final video), Semblora shows exactly what it will use and waits for your confirmation. Each connection has a daily usage limit you set in Semblora (Settings > Apps), and you can remove access at any time.",
+  "original_description_language": "en",
+  "summary_ja": "連携した制作物の確認、脚本・絵コンテの作成や映像生成を扱う。",
+  "usage_tags": [
+    "映像制作",
+    "漫画制作",
+    "広告"
+  ],
+  "limitations_ja": "Sembloraアカウントが必要。画像・動画の生成前に使用量を表示し確認を待つと説明。接続ごとの日次上限をサービスで設定。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "一覧本体との名称照合は未確認。同名・別名の同一性は未確認。",
+  "review": "詳細画面の説明・情報欄を確認。動作、料金、品質は未検証。"
+}
