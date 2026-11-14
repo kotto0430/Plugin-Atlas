@@ -15,5 +15,18 @@
     "Analyze NVDA on the 1W timeframe"
   ],
   "review": "詳細画面を下まで確認。提供元の説明の記録で、分析内容の正確性・料金・利用地域は未検証。",
-  "catalog_status": "一覧本体に TradingCursor の名前あり。"
+  "catalog_status": "一覧本体に TradingCursor の名前あり。",
+  "official_app_name": "TradingCursor",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "投資分析",
+    "株式",
+    "暗号資産",
+    "為替"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
 }
