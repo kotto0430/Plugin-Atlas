@@ -496,3 +496,8 @@ Chromeの詳細画面を確認し、[Krea](inventory/plugin_details/krea_2026-11
 ### 詳細調査（2026-11-15、写真・デザイン・映像6件）
 
 [Simple Photo Gallery](inventory/plugin_details/simple_photo_gallery_2026-11-15.json)、[Ridvay: Carousels & Posters](inventory/plugin_details/ridvay_carousels_posters_2026-11-15.json)、[Memolio](inventory/plugin_details/memolio_2026-11-15.json)、[Semblora](inventory/plugin_details/semblora_2026-11-15.json)、[AISTLabs](inventory/plugin_details/aistlabs_2026-11-15.json)、[HeyGen](inventory/plugin_details/heygen_2026-11-15.json)の名称・提供元・版・英文原文・日本語要約・用途・制約を保存。前半4ページと合わせて今回10記録、詳細記録の累計127件。PixVerseの旧版と新ページを別々に記録しているため、独立したサービスが10件増えたという意味ではない。Simple Photo GalleryはApple Photos等に直接接続しないと説明。Ridvayは静止画を編集でき、SNS投稿や動画は対象外。Memolioは24ページの印刷本で配送国は注文前に外部サイトで表示。SembloraとAISTLabsは生成前の確認を説明。HeyGenはアバター・音声・翻訳等を説明し、同社のHyperFramesとは別ページ。実動作・料金・品質・配送地域・一覧本体との名称照合は未検証。カテゴリ全体の調査は未完了。作業ブランチのみ更新、main・本番未変更。
+
+
+### 詳細調査（2026-11-15、創作ソフト・デザイン3件）
+
+[Autodesk Product Help](inventory/plugin_details/autodesk_product_help_2026-11-15.json)、[AI Graphic Design（Superdesign）](inventory/plugin_details/ai_graphic_design_superdesign_2026-11-15.json)、[Arcads](inventory/plugin_details/arcads_2026-11-15.json)の名称・提供元・版・英文・日本語要約・用途・制約を保存。詳細記録は累計130件。Autodesk Product Helpは読み取り専用の公式製品文書検索で日本語を含む10言語対応と説明。AI Graphic Designは編集可能なPPT形式での出力は説明だけでは不明。Arcadsはアカウント・クレジットを使用し、競合広告の調査にはブラウザー自動化ツールが必要と記載。機能・料金・品質・一覧本体との名称照合は未検証。検索「story」を解除し、クリエイティブ一覧をスクロールして調査を継続。作業ブランチのみ更新、main・本番未変更。
