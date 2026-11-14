@@ -1,0 +1,26 @@
+{
+  "name": "Magnific",
+  "official_app_name": "Magnific",
+  "provider": "Magnific AI, S.L.U.",
+  "version": "1.1.3",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a1f227d5a848191ae3317c66947b440?category=creativity",
+  "developer_url": "https://www.magnific.com/app",
+  "category": "Creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Turn ideas, product photos, scripts, and reference images into complete visual campaigns with Magnific in ChatGPT.\n\nCreate AI images, AI videos, advertisements, branded content, and web experiences through natural conversation. Explore different creative directions, refine the results, and keep your product, presenter, and visual identity consistent across every asset.\n\nWith Magnific, you can:\n• Generate product imagery, campaign visuals, illustrations, social graphics, thumbnails, and videos from text or reference material.\n• Create UGC product demonstrations, reviews, tutorials, unboxings, fashion try-ons, testimonials, and conversion-focused website videos.\n• Produce content with a consistent AI host, or build faceless videos using scripts, narration, supporting visuals, motion graphics, and synchronized subtitles.\n• Use Ad Multiplier to turn one advertisement into targeted variations with different hooks, audiences, offers, languages, durations, and calls to action.\n• Transform static content with Motion Craft, including camera movement, animated typography, transitions, visual effects, branded layouts, and platform-specific formatting.\n• Write YouTube videos, advertisements, explainers, and social scripts. Generate narration, subtitles, thumbnails, covers, scene plans, and alternative versions for each channel.\n• Edit existing footage by changing its structure, pacing, framing, graphics, captions, or creative direction.\n• Build and publish landing pages, product websites, web apps, interactive experiences, and browser games, then continue improving them through chat.\n\nMagnific includes specialized workflows for Ad Multiplier, AI Host Video, Faceless Video, Creative Presets, Motion Craft, Narrator, Subtitles, Thumbnail Generation, UGC videos, Video Editing, Website Builder, and YouTube Script.\n\nStart with one asset and expand it into a coordinated campaign - from product visuals and social videos to ad variations, scripts, thumbnails, and a live website.",
+  "original_description_language": "en",
+  "summary_ja": "画像・動画・広告やウェブ向けの制作物を企画し、生成・編集する。",
+  "usage_tags": [
+    "広告",
+    "画像制作",
+    "動画制作",
+    "ウェブ制作"
+  ],
+  "limitations_ja": "ウェブ公開にも対応すると説明。料金・アカウント条件・実際の機能や品質は未検証。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "一覧本体との名称照合は未確認。同名・別名の同一性は未確認。",
+  "review": "詳細画面の説明・情報欄を確認。動作、料金、品質は未検証。"
+}
