@@ -149,6 +149,8 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 - [Zovo Love Story Poster](zovo_love_story_poster_2026-11-15.json) — 記念日から経過日数や節目を計算し、ポスターPDFと予定表を作る。
 - [Memory Book of Voice Messages](memory_book_of_voice_messages_2026-11-15.json) — 一人の音声メッセージを文字起こしして回想録にまとめる。日本語の印刷と配送地域に制限あり。
 
+- [Short Films（ManyMotions）](short_films_manymotions_2026-11-15.json) — 物語の概要から短編映画を制作。同名・同提供元の2ページを比較し、関係は未確認。
+
 ## 一覧本体との照合
 
 [名称照合の記録](catalog_name_audit_2026-11-14.json) — 詳細35件と作業ブランチの一覧3,941件を比較。34件は名前が一致、Palimpsestは一致なし。名前の一致は同一性の確定ではない。個々のJSONにある旧「照合未確認」の記載は調査時点の記録で、最新の照合結果はこの記録を参照。
