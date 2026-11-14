@@ -1,0 +1,29 @@
+{
+  "name": "Cube",
+  "official_app_name": "Cube",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Finance",
+  "provider": "Cube",
+  "version": "1.0.0",
+  "observed_at": "2026-11-14",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_69a5c0184ae48191a37b0a05ff0f76ec?category=finance",
+  "developer_url": "https://www.cubesoftware.com/",
+  "privacy_url": "https://www.cubesoftware.com/privacy-policy",
+  "original_description": "With the Cube MCP Server, you can:\n• Query live Cube data from actuals, budgets, forecasts, variances, and more\n• Ask an AI to generate board decks, run variance analysis, or build financial summaries using your real Cube data\n• Drill into transaction-level detail and dimension breakdowns directly from an AI chat\n• Maintain full security: Cube's role-based access control (RBAC) security model enforces your user permissions on every AI request. If you can't see it in Cube, the AI can't see it either",
+  "description_scope": "詳細ページ本文の英語説明",
+  "summary_ja": "Cube上の実績・予算・予測などを参照し、差異分析や財務要約、取引明細の確認に使う連携。",
+  "usage_tags": [
+    "予算管理",
+    "財務分析",
+    "経営資料"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "example_prompts": [
+    "Compare Actuals vs. Forecast for Revenue by entity"
+  ],
+  "review": "詳細画面を下まで確認。アクセス権限の保護に関する記述は提供元の説明で、実際の挙動は未検証。料金・契約・地域も未確認。",
+  "catalog_status": "一覧本体に Cube の名前あり。同名製品との同一性は未検証。"
+}
