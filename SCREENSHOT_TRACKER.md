@@ -481,3 +481,8 @@ Chromeの詳細画面を確認し、[Krea](inventory/plugin_details/krea_2026-11
 ### 詳細調査（2026-11-15、SNS・ウェブ・映像5件）
 
 [Social Images](inventory/plugin_details/social_images_2026-11-15.json)、[Website Builder（AI Research Plus）](inventory/plugin_details/website_builder_ai_research_plus_2026-11-15.json)、[Brix36](inventory/plugin_details/brix36_2026-11-15.json)、[Sequencer](inventory/plugin_details/sequencer_2026-11-15.json)、[Reverie Movies](inventory/plugin_details/reverie_movies_2026-11-15.json)の正式名・提供元・版・英文・日本語要約・用途・制約を記録。詳細記録は累計112件。Social Imagesは既存写真の編集や投稿を行わない。Website Builderは公開・ホスティングを行わず外部ビルダーリンクにアフィリエイトコードがあると説明。Brix36は説明が短く動画の長さや料金は不明。Sequencerは有料生成前の計画と費用確認、Reverie Moviesはアカウントが必要と説明。実動作・料金・品質・一覧本体との名称照合は未検証。引き続き検索「story」近辺の未調査項目を確認。作業ブランチのみ更新、main・本番未変更。
+
+
+### 詳細調査（2026-11-15、SNS・デザイン・動画5件）
+
+[Social Media Posts（MegaScenes）](inventory/plugin_details/social_media_posts_megascenes_2026-11-15.json)、[Video Lab](inventory/plugin_details/video_lab_2026-11-15.json)、[Imago](inventory/plugin_details/imago_2026-11-15.json)、[AI Video Generator（Syed Fasih Haider Raza Rizvi）](inventory/plugin_details/ai_video_generator_fasih_2026-11-15.json)、[Designly（Mamdouh Abo Ammar）](inventory/plugin_details/designly_mamdouh_2026-11-15.json)の表示名・提供元・版・原文・日本語要約・用途・制約を保存。今回前半5件と合わせ10件、詳細記録は累計117件。Social Media PostsはSNSへの投稿を行わず、文字は生成結果の確認が必要。Imagoは独自の画像生成サービスを持たず、利用環境のツールに依存すると説明。Video LabとAI Video Generatorはアフィリエイトの記載があり、実際の動画ファイル生成の範囲は説明だけでは不明。Designlyはアラビア語・RTLへの言及あり。いずれも実動作・料金・品質・一覧本体との名称照合は未検証。同名項目の同一性も未確認。検索「story」近辺の選別と他カテゴリーの調査は引き続き未完了。作業ブランチのみ更新、main・本番未変更。
