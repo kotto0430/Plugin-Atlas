@@ -112,6 +112,13 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 - [kernelCAD](kernelcad_2026-11-14.json) — 文章で寸法を変更できるCAD部品や組立モデルを作り、3D確認や図面出力を行う。
 - [Comic Strips](comic_strips_2026-11-14.json) — 文章で各コマ・人物・台詞を指定し、吹き出し付きの3・4・6コマ漫画を作る。
 
+
+- [Fantasy Maps](fantasy_maps_2026-11-14.json) — 文章で架空の国や都市、ダンジョンなどの地図画像を作る。
+- [Character Art](character_art_2026-11-14.json) — 文章から創作キャラクターの肖像・全身像・三面図を作る。
+- [Pixel Art](pixel_art_2026-11-14.json) — 文章から8・16ビット風のドット絵やスプライトシートを作る。
+- [Book Covers by Abracadabrax](book_covers_by_abracadabrax_2026-11-14.json) — 書名や著者、ジャンルを指定して電子書籍・印刷本の表紙画像を作る。
+- [Coloring Pages by Abracadabrax](coloring_pages_by_abracadabrax_2026-11-14.json) — 文章から、対象年齢に合わせた線の細かさの印刷用塗り絵を作る。
+
 ## 一覧本体との照合
 
 [名称照合の記録](catalog_name_audit_2026-11-14.json) — 詳細35件と作業ブランチの一覧3,941件を比較。34件は名前が一致、Palimpsestは一致なし。名前の一致は同一性の確定ではない。個々のJSONにある旧「照合未確認」の記載は調査時点の記録で、最新の照合結果はこの記録を参照。
