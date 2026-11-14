@@ -1,0 +1,25 @@
+{
+  "name": "KitCut",
+  "official_app_name": "KitCut",
+  "provider": "Botmakers LLC",
+  "version": "1.0.3",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac7c6b11f348191bd8a9a04ef0cb6ec?category=creativity",
+  "developer_url": "https://kitcut.ai/",
+  "category": "Creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "KitCut turns an idea into a finished animated film without leaving the chat. Describe the film (the story, who is in it, the tone), add pictures if you have them (a character, a product, a logo, a sketch to follow), and choose a length and a look: hand-drawn animation, painted scenes, or a paper collage. KitCut's studio then writes the film, draws and animates it in code, narrates it, scores it, and renders a video with subtitles.\n\nWhat you can do\n- Start a film and follow it. The chat shows the film maker, the stage the film is at while it is made, and then the film itself, with a link to watch, share or download it.\n- Use your own pictures: attach them in the chat, add them in the film maker, or open an upload link on your phone.\n- Bring characters back. The characters a film draws are kept, so the next film can use them by name, which helps with a series.\n- Start from a template: a finished film remade for your own event, product or occasion from a few words.\n- Look after your films: list them, check on one, make one again with changes, stop one that is being made, and choose whether a film is public or link-only.\n\nGood to know\n- A film takes about 8 to 30 minutes to make, and longer films take longer. The chat gives you the film's link straight away and can check on it for you.\n- Films are 5 seconds to 8 minutes long. The longest film you can make, and how many can be made at once, depend on your KitCut account.\n- Depending on your KitCut account, a film may carry a small KitCut mark and a short KitCut closing.\n- Films made from the chat are link-only unless you ask for them to be public.\n- KitCut makes animated films. It does not edit footage you already have, and it does not make photorealistic video.\n- You need a KitCut account, and you sign in to it when you connect. KitCut receives what you ask it to make and the pictures you give it, not your conversation.\n\nWho it is for: anyone who needs a short explainer, a product or event video, a lesson, a story or a greeting, and wants it illustrated and narrated rather than filmed.",
+  "original_description_language": "en",
+  "summary_ja": "物語や画像を基に、ナレーション・音楽・字幕を付けたアニメ動画を作る。",
+  "usage_tags": [
+    "アニメ",
+    "動画制作",
+    "物語"
+  ],
+  "limitations_ja": "KitCutアカウントが必要。5秒〜8分、上限はアカウントによる。既存映像の編集や写実的な動画は対象外。リンク限定公開などは提供元の説明で実動作未検証。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "一覧本体との名称照合は未確認。同名・別名の同一性は未確認。",
+  "review": "詳細画面の説明・情報欄を確認。動作、料金、品質は未検証。"
+}
