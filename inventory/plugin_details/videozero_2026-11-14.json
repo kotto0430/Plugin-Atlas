@@ -1,0 +1,27 @@
+{
+  "name": "VideoZero",
+  "official_app_name": "VideoZero",
+  "official_name_basis": "ChatGPTのプラグイン詳細画面に表示された名称",
+  "category": "Creativity",
+  "provider": "VIDEOZERO TECHNOLOGIES LTD",
+  "version": "2.0.0",
+  "observed_at": "2026-11-14",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_69764b4dee2081919eec8a58395a9c30?category=creativity",
+  "developer_url": "https://videozero.ai/",
+  "original_description": "Ever been stuck on a math problem you can’t quite picture? Wished you could illustrate an algorithm, but don’t have time to animate everything by hand? VideoZero generates the video you need to learn, visualize, and explain complex concepts.\n\nYou’ll get a narrated animated video with clear diagrams, animations, and visual explanations to help you study, understand, or illustrate new ideas. Need to change parts of the video? No problem — just tell ChatGPT what to change, and VideoZero refines it until you’re happy.\n\nOr you try our MCP integration and let your agent generate animations and videos with the power of our engine.",
+  "description_scope": "ChatGPTの詳細画面に表示された提供元の英語説明",
+  "summary_ja": "数学やアルゴリズムなどの概念を図解・ナレーション付きの動画にする。",
+  "usage_tags": [
+    "教育",
+    "動画制作",
+    "図解",
+    "プログラミング"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "limitations_ja": "動画の正確性、編集できる範囲や料金は未検証。",
+  "review": "詳細画面の説明と情報欄を確認。動画生成や編集は試していない。",
+  "catalog_status": "一覧本体との名称照合は未確認。"
+}
