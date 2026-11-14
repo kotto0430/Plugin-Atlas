@@ -138,6 +138,14 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 - [Kids Book Maker](kids_book_maker_2026-11-14.json) — 大人が子ども向けに、挿絵・読み上げ・字幕のある絵本を作る。
 - [Storyblocks](storyblocks_2026-11-14.json) — ストック動画・音楽・効果音・画像を検索して確認する。
 
+- [Conversational Narrative](conversational_narrative_2026-11-15.json) — 専門的な考えを会話調に書き直し、文章を点検する。
+- [Anime Stories](anime_stories_2026-11-15.json) — オリジナル物語の短いアニメ動画を作る。
+- [Short Story Lovers](short_story_lovers_2026-11-15.json) — 作家アカウントの下書きや公開を管理する。
+- [Animation Maker](animation_maker_2026-11-15.json) — アニメの企画や制作工程を検討する。
+- [Bedtime Story Maker](bedtime_story_maker_2026-11-15.json) — 子ども向け物語を音声で読み上げる。
+- [gilmOS](gilmos_2026-11-15.json) — 脚本、映像素材と制作予定を管理する。
+- [Topview 3D Builder](topview_3d_builder_2026-11-15.json) — 人物やカメラの配置を3Dで組み立てて映像の構図を検討する。
+
 ## 一覧本体との照合
 
 [名称照合の記録](catalog_name_audit_2026-11-14.json) — 詳細35件と作業ブランチの一覧3,941件を比較。34件は名前が一致、Palimpsestは一致なし。名前の一致は同一性の確定ではない。個々のJSONにある旧「照合未確認」の記載は調査時点の記録で、最新の照合結果はこの記録を参照。
