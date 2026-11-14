@@ -1,0 +1,28 @@
+{
+  "name": "Character Creator",
+  "provider": "Syed Fasih Haider Raza Rizvi",
+  "version": "2.0.1",
+  "source_url": "https://chatgpt.com/plugins/plugins_6ab0f8e43f988191a41142e72d4f7a59?category=creativity",
+  "developer_url": "https://github.com/Fasih38/plugin-pages/blob/main/README.md",
+  "original_description": "Create original characters for stories, games, comics, branding, and creative projects. Develop names, personalities, backstories, dialogue styles, appearances, outfits, poses, scenes, image prompts, consistent character references, turnaround ideas, and full character bibles. Build anime OCs, fantasy and sci-fi characters, D&D characters, NPCs, mascots, children’s book characters, VTuber concepts, and more. Responses may include a clearly disclosed Character Creator affiliate link.",
+  "summary_ja": "物語や漫画、ゲーム向けのキャラクターの性格・経歴・外見・画像用プロンプトなどを考える。",
+  "usage_tags": [
+    "キャラクター制作",
+    "漫画制作",
+    "ゲーム制作",
+    "小説制作",
+    "プロンプト作成"
+  ],
+  "limitations_ja": "回答に明示されたアフィリエイトリンクが含まれる場合があると説明。表示された一部スキルにはリンクと開示のフッターを毎回付ける旨の記述がある。画像生成自体や外見の一貫性は実動作未検証。",
+  "official_app_name": "Character Creator",
+  "official_name_basis": "ChatGPTのプラグイン詳細画面に表示された名称",
+  "category": "Creativity",
+  "observed_at": "2026-11-14",
+  "description_scope": "ChatGPT詳細画面の提供元の英語説明。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "詳細画面の説明と情報欄を確認。接続・実機能の検証は行っていない。",
+  "catalog_status": "2026-11-14時点の一覧本体 index.html（blob 27fc7d17ee843cc9e0651a6c2913c06326f3b9db）に正式表示名の文字列なし。別名・同名製品との同一性は未確認。"
+}
