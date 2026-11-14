@@ -1,0 +1,26 @@
+{
+  "name": "Dramatica",
+  "official_app_name": "Dramatica",
+  "official_name_basis": "ChatGPTのプラグイン詳細画面に表示された名称",
+  "category": "Creativity",
+  "provider": "Narrative First, Inc.",
+  "version": "1.0.0",
+  "observed_at": "2026-11-14",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a8deeac5f748191be22cc2500ce771e?category=creativity",
+  "developer_url": "https://dramatica.com/",
+  "original_description": "Dramatica helps authenticated writers inspect saved Stories and Storyforms, retrieve prior story-development context, compare canonical examples, validate structural constraints, and make exact confirmed changes without losing Dramatica context.",
+  "description_scope": "ChatGPTの詳細画面に表示された提供元の英語説明。",
+  "summary_ja": "認証済みの作家が保存済みの物語やStoryformを確認し、構造を検証して確認済みの変更を行うのを支援する。",
+  "usage_tags": [
+    "物語構成",
+    "小説制作",
+    "脚本"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "limitations_ja": "説明は認証済みの作家を対象とし、保存済みデータへの変更にも言及。認証条件、動作、料金は未検証。",
+  "review": "詳細画面の説明と情報欄を確認。インストールや実機能の検証は行っていない。",
+  "catalog_status": "2026-11-14時点の一覧本体 index.html（blob 27fc7d17ee843cc9e0651a6c2913c06326f3b9db）に正式表示名の文字列なし。別名・同名製品との同一性は未確認。"
+}
