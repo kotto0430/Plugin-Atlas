@@ -347,3 +347,8 @@ PDF境界で保留した8枠は、PDF画像とChrome一覧の名前を照合し�
 Chromeの詳細ページを開き、長い説明は展開して下まで確認。[詳細調査の索引](inventory/plugin_details/README.md)に4件を記録した。Palimpsest・TradingCursor・IBI SMART・Economic Mind。各記録には出典ページ、提供元、版、英文の説明または抜粋、日本語の要点と制約を保存。特にIBI SMARTは、取引プラットフォーム自体とプラグインの口座情報閲覧という範囲を分けて記した。表示文に基づく記録であり、動作・料金・利用地域等は未検証。Palimpsestは既存一覧との名前不一致候補であり一覧本体には未追加。全カテゴリの選別や詳細確認は未完了。作業ブランチのみを更新しmain・本番未変更。
 
 続けて [S&P Global - Deterministic](inventory/plugin_details/sp_global_deterministic_2026-11-14.json) の詳細を確認・保存し、上記の詳細調査は計5件。金融一覧は全項目の詳細選別まで未完了。main・本番未変更。
+
+
+### 不明な機能の詳細調査（2026-11-14、続き）
+
+金融一覧から [VODER](inventory/plugin_details/voder_2026-11-14.json)、[Third Bridge](inventory/plugin_details/third_bridge_2026-11-14.json)、[CB Insights](inventory/plugin_details/cb_insights_2026-11-14.json)、[Cube](inventory/plugin_details/cube_2026-11-14.json)、[Parqet](inventory/plugin_details/parqet_2026-11-14.json) の詳細画面を確認し、英文・日本語の要点・用途タグ・確認状況などを保存。詳細調査の記録は累計10件。[索引](inventory/plugin_details/README.md)を更新した。機能や提供元の主張は実動作を検証していない。Cubeなど同名項目の同一性は未確認。Parqetの一覧本体との名称照合は別途確認。金融を含め、全カテゴリの選別・詳細確認は未完了。作業ブランチのみ更新、main・本番未変更。
