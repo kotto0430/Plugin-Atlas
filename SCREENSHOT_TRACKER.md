@@ -471,3 +471,8 @@ Chromeの詳細画面を確認し、[Krea](inventory/plugin_details/krea_2026-11
 ### 同名ページの比較（2026-11-15）
 
 [Short Films（ManyMotions）](inventory/plugin_details/short_films_manymotions_2026-11-15.json)の2ページを確認し、両方の英文を1記録に保存した。名称・提供元・概要は同じだが詳細IDは異なり、版は1.0.2と1.0.1。前者の説明のみ使用クレジットの表示に言及する。重複・移行などの関係は未確認なので決めつけない。詳細記録は累計103ファイルで、2ページを別々に加算していない。動作・料金・一覧本体との名称照合は未検証。作業ブランチのみ更新しmain・本番未変更。
+
+
+### 詳細調査（2026-11-15、書籍・映像4件）
+
+[Meminto – Write Your Book](inventory/plugin_details/meminto_write_your_book_2026-11-15.json)、[papergarden](inventory/plugin_details/papergarden_2026-11-15.json)、[KitCut](inventory/plugin_details/kitcut_2026-11-15.json)、[LongStories](inventory/plugin_details/longstories_2026-11-15.json)の正式名、提供元、版、英文説明、日本語要約、用途、制約、確認状態を保存。詳細記録は累計107件。Memintoは取り込みが有効な場合に対応原稿を取り込めるが、OCRや元のレイアウトの再現は保証しないと説明。papergardenは24〜84ページの印刷本、KitCutはアニメ動画のアカウント別上限・リンク限定公開、LongStoriesは最大15分でアカウント制限内、アップスケール非対応と説明。機能・料金・品質・配送地域・一覧本体との名称照合は未検証。検索「story」の近辺には他にも未調査候補がある。作業ブランチのみ更新、main・本番未変更。
