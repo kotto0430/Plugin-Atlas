@@ -126,6 +126,13 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 - [Anifusion](anifusion_2026-11-14.json) — 物語やコマごとの脚本から非公開の漫画を作り、Anifusionでレイアウトや文字を編集する。
 - [TicToon](tictoon_2026-11-14.json) — 参加済みTicToonチャンネルに、画像と文章を漫画のスレッドとして投稿する。
 
+
+- [MangaBoom](mangaboom_2026-11-14.json) — 文章や会話から、縦スクロール形式などのカラー漫画を作る。
+- [Story Writer](story_writer_2026-11-14.json) — 物語の発想、構成、人物、台詞、推敲や出版準備を支援する。
+- [Firemoon Storyboard Studio](firemoon_storyboard_studio_2026-11-14.json) — 指示や参考画像から2〜6枚の絵コンテを作り、短い動画をつなぐ。
+- [Storybook Maker](storybook_maker_2026-11-14.json) — 短い物語の挿絵を1ページずつ生成し、絵本制作を支援する。
+- [Storytailor](storytailor_2026-11-14.json) — Storytailorの物語の作成・閲覧・続き・翻訳や登場人物を管理する。
+
 ## 一覧本体との照合
 
 [名称照合の記録](catalog_name_audit_2026-11-14.json) — 詳細35件と作業ブランチの一覧3,941件を比較。34件は名前が一致、Palimpsestは一致なし。名前の一致は同一性の確定ではない。個々のJSONにある旧「照合未確認」の記載は調査時点の記録で、最新の照合結果はこの記録を参照。
