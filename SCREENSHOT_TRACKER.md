@@ -402,3 +402,8 @@ Chromeの詳細画面を確認し、[Krea](inventory/plugin_details/krea_2026-11
 ### 不明な機能の詳細調査（2026-11-14、キャラクター・ゲーム2件）
 
 [Character Maker](inventory/plugin_details/character_maker_2026-11-14.json)と[Game Maker AI](inventory/plugin_details/game_maker_ai_2026-11-14.json)の詳細画面を確認し、名称、提供元、版、英語原文、日本語要約、用途、確認状況を保存。[詳細索引](inventory/plugin_details/README.md)は累計45件。Character MakerはMegaScenesを使ったオリジナル人物の画像生成で、サインイン・生成前確認が必要、既存キャラクターや実在人物などは対象外と説明。先に確認したCharacter Creatorとは表示名・提供元・詳細ページが異なる。Game Maker AIはゲーム設計書や難易度を検討し、ゲームの作成・実行・公開はしないと説明。外部ビルダーの任意リンクに作者のアフィリエイトコードを含む。どちらも実動作・料金は未検証。正式表示名の文字列は比較元一覧3,941件（index blob `27fc7d17ee843cc9e0651a6c2913c06326f3b9db`）に見当たらないが、別名等との同一性は未確認。一覧本体は変更していない。カテゴリ全体の調査は未完了。作業ブランチのみ更新し、main・本番未変更。
+
+
+### 不明な機能の詳細調査（2026-11-14、クリエイティブ追加10件）
+
+[RunComfy](inventory/plugin_details/runcomfy_2026-11-14.json)、[AI Video and Image by AIRP](inventory/plugin_details/ai_video_and_image_by_airp_2026-11-14.json)、[FLORA](inventory/plugin_details/flora_2026-11-14.json)、[Screel](inventory/plugin_details/screel_2026-11-14.json)、[Kive](inventory/plugin_details/kive_2026-11-14.json)、[Mirelo](inventory/plugin_details/mirelo_2026-11-14.json)、[Midify](inventory/plugin_details/midify_2026-11-14.json)、[Subdivide](inventory/plugin_details/subdivide_2026-11-14.json)、[VisualSong](inventory/plugin_details/visualsong_2026-11-14.json)、[Appllama](inventory/plugin_details/appllama_2026-11-14.json)の詳細ページを確認し、表示名・提供元・版・英文原文・日本語要約・用途タグ・確認状況を保存。[詳細索引](inventory/plugin_details/README.md)は累計55件。AI Video and Image by AIRPは完成物を外部のManyMotionsで生成し、アカウントが必要と説明。RunComfyとMireloはそれぞれのアカウントを使い、Mireloはクレジットを使用。VisualSongの音声が端末内に留まるという記載は提供元の説明で、実際の挙動は未検証。各アプリの機能・品質・料金は未検証。今回の10件の一覧本体との名称照合は未確認、同名・別名の同一性も未確認。一覧本体は変更していない。カテゴリ全体の調査は未完了。作業ブランチのみ更新し、main・本番未変更。
