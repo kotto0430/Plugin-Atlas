@@ -1,0 +1,26 @@
+{
+  "name": "LONA™",
+  "official_app_name": "LONA™",
+  "official_name_basis": "ChatGPTのプラグイン詳細画面の名称。内包アプリ欄は LONA Trading Assistant。",
+  "category": "Finance",
+  "provider": "Mindsight Ventures SL",
+  "version": "3.0.2",
+  "observed_at": "2026-11-14",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_694336b0c0948191a4ad234f9942885b?category=finance",
+  "original_description": "Create, backtest, optimize and walk-forward test trading strategies with LONA™. Describe your logic in plain language, or bring your own Python code. Read, edit and version your strategies.\n\nSTRATEGIES\n• Turn ideas into Python strategies with immutable versioning.\n• Create and maintain your own strategy code.\n\nMARKET DATA\n• US and China stocks and ETFs, crypto, forex and mutual funds, with daily and intraday data where available.\n• Split- and dividend-adjusted equity data.\n• Use LONA™ datasets or upload your own OHLCV CSV.\n\nBACKTESTING\n• Interactive candlestick charts, equity and drawdown curves, per-symbol statistics and a full trade log.\n• Buy & Hold and benchmark comparisons.\n\nOPTIMIZATION\n• Sweep parameter grids and compare combinations by performance metric.\n• Day-of-Week and Time-of-Day tests block new entries on a selected weekday or UTC time slot; existing positions can still exit.\n• Explore results with interactive 2D and 3D charts.\n\nWALK-FORWARD ANALYSIS\n• Test optimized parameters on historical data not used during optimization to help assess robustness and detect overfitting.\n• Rolling and anchored windows: optimize in-sample, then test out-of-sample.\n• Review stitched out-of-sample equity and drawdown, window schedules, efficiency ratios and the share of profitable windows.\n\nMETRICS\nRealized P&L, total return, CAGR, annualized Sharpe ratio, maximum drawdown, return volatility, Calmar ratio, recovery factor, profit factor, payoff ratio, expectancy, average trade, win rate and average bars held.\n\nHistorical simulations only. LONA™ does not place live trades or connect to brokerage accounts. Nothing it shows is investment advice.",
+  "description_scope": "ChatGPTの詳細画面で展開した提供元の英語説明",
+  "summary_ja": "文章やPythonで取引戦略を作り、過去データで検証・最適化する連携。",
+  "usage_tags": [
+    "バックテスト",
+    "市場分析",
+    "Python",
+    "データ分析"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "limitations_ja": "提供元は過去データのシミュレーションのみで、実注文・証券口座接続・投資助言を行わないと説明。データの対象と利用可能性は条件により異なる。",
+  "review": "詳細画面の説明を展開し末尾まで確認。実際のバックテスト、指標、データの精度は未検証。",
+  "catalog_status": "一覧本体との名称照合は未確認。"
+}
