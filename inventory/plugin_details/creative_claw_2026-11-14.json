@@ -1,0 +1,27 @@
+{
+  "name": "Creative Claw",
+  "official_app_name": "Creative Claw",
+  "official_name_basis": "ChatGPTのプラグイン詳細画面に表示された名称",
+  "category": "Creativity",
+  "provider": "Creative Claw",
+  "version": "5.4.2",
+  "observed_at": "2026-11-14",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a2528e2c49c8191a8015ba5475f177e?category=creativity",
+  "original_description": "Create videos, product ads, images and voiceovers in ChatGPT. Animate a photo, turn a script into a multi-scene film, or make a creator-style product ad with narration and captions. Built for marketers, creators and small teams who need on-brand media without leaving the conversation.\n\nPlan shots and storyboards, prepare consistent reference images, generate clips and assemble a first cut. Turn interviews and longer videos into social clips, cut and reorder selected moments, reframe for vertical formats, and add captions. Transcribe audio, video files and public video links. Ask for motion graphics, kinetic typography or an animated explainer, and a video agent designs and renders it with voiceover, music and sound.\n\nCreate a reusable avatar from your photos or a fictional character brief. Review its character sheet, save it as a Character, and reuse its visual references in images and videos. Give a Character a voice: design a new synthetic voice from a description, clone your own voice (or a speaker's voice with their explicit permission) from a clean recording, or choose a stock voice for multilingual narration. Sync speech to on-screen lips, and add music and sound effects to the same project.\n\nGenerate and edit supporting images, product photos and campaign visuals. Use reference images to guide product appearance, character identity, composition and style. Several image, video and voice models are available; availability and settings vary.\n\nVideo Review mode shows the proposed prompt, references and settings before you press Generate. It reviews the request, not a rendered video preview. Auto mode submits the requested generation immediately.\n\nResults, character consistency and voice similarity vary. You can send feedback from the conversation. For help, contact support@creativeclaw.co.",
+  "description_scope": "ChatGPTの詳細画面で展開した提供元の英語説明",
+  "summary_ja": "動画・画像・ナレーションを作り、絵コンテや再利用できるキャラクターを使った映像制作を支援する。",
+  "usage_tags": [
+    "動画制作",
+    "キャラクター制作",
+    "絵コンテ",
+    "音声合成",
+    "画像制作"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "limitations_ja": "提供元は、他者の声を複製する場合は本人の明示的な許可に言及。映像の事前確認モードは生成依頼の内容を確認するもので完成動画のプレビューではないと説明。品質・利用可能なモデルは変動すると記載。",
+  "review": "詳細画面の説明を展開し末尾まで確認。動画生成、音声生成、キャラクターの一貫性は未検証。",
+  "catalog_status": "一覧本体との名称照合は未確認。"
+}
