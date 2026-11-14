@@ -501,3 +501,8 @@ Chromeの詳細画面を確認し、[Krea](inventory/plugin_details/krea_2026-11
 ### 詳細調査（2026-11-15、創作ソフト・デザイン3件）
 
 [Autodesk Product Help](inventory/plugin_details/autodesk_product_help_2026-11-15.json)、[AI Graphic Design（Superdesign）](inventory/plugin_details/ai_graphic_design_superdesign_2026-11-15.json)、[Arcads](inventory/plugin_details/arcads_2026-11-15.json)の名称・提供元・版・英文・日本語要約・用途・制約を保存。詳細記録は累計130件。Autodesk Product Helpは読み取り専用の公式製品文書検索で日本語を含む10言語対応と説明。AI Graphic Designは編集可能なPPT形式での出力は説明だけでは不明。Arcadsはアカウント・クレジットを使用し、競合広告の調査にはブラウザー自動化ツールが必要と記載。機能・料金・品質・一覧本体との名称照合は未検証。検索「story」を解除し、クリエイティブ一覧をスクロールして調査を継続。作業ブランチのみ更新、main・本番未変更。
+
+
+### 詳細調査（2026-11-15、動画・音声など7件）
+
+[Everygen](inventory/plugin_details/everygen_2026-11-15.json)、[AI Voice Generator（Level 2 Labs）](inventory/plugin_details/ai_voice_generator_level2_2026-11-15.json)、[fal](inventory/plugin_details/fal_2026-11-15.json)、[Magnific](inventory/plugin_details/magnific_2026-11-15.json)、[OpenArt](inventory/plugin_details/openart_2026-11-15.json)、[invideo](inventory/plugin_details/invideo_2026-11-15.json)、[AI Video Maker（InfoseekAI）](inventory/plugin_details/ai_video_maker_infoseek_2026-11-15.json)の表示名・提供元・英文説明・日本語要約・用途・確認状況を保存。直前の3件と合わせ今回10件、詳細記録は累計137ファイル。一覧本体の件数とは別に数え、加算しない。短い説明のEverygenとAI Voice Generatorは不明点を明記。invideoはタイムラインによる既存映像の編集を説明。AI Video Makerは定額契約不要と説明する一方、解像度・時間などに応じた従量料金があると記載し、具体的な料金は未確認。実動作・品質・料金・今回の10件と一覧本体との名称照合は未検証。同名だけで別項目を統合しない。カテゴリ全体の選別は未完了。次回はクリエイティブ一覧の未調査候補を詳細索引と照合して続ける。作業ブランチのみ更新し、main・本番未変更。
