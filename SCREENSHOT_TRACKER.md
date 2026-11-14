@@ -357,3 +357,8 @@ Chromeの詳細ページを開き、長い説明は展開して下まで確認�
 ### 不明な機能の詳細調査（2026-11-14、追加5件）
 
 金融一覧の [Massive](inventory/plugin_details/massive_2026-11-14.json)、[Bigdata.com](inventory/plugin_details/bigdata_com_2026-11-14.json)、[Unusual Whales](inventory/plugin_details/unusual_whales_2026-11-14.json)、[Moneytree](inventory/plugin_details/moneytree_2026-11-14.json)、[CryptoAudit](inventory/plugin_details/cryptoaudit_2026-11-14.json) の詳細画面を確認し、英文・日本語の要点・用途タグ・確認状況を記録。[詳細調査索引](inventory/plugin_details/README.md)に追加し、累計15件。Bigdata.comは情報源の範囲が権限に依存し、Unusual Whalesはアカウントへのサインインが必要と記載。Moneytreeは個人データを接続していない。提供元の説明を記録したもので、機能・料金・情報の正確性などは未検証。今回の5件は一覧本体との名称照合が未確認。金融を含め全カテゴリの選別と詳細確認は未完了。次回も既存の詳細記録と重複しない項目から続行する。作業ブランチのみ更新し、main・本番は変更していない。
+
+
+### 不明な機能の詳細調査（2026-11-14、追加5件・会計など）
+
+金融一覧の [Rallies](inventory/plugin_details/rallies_2026-11-14.json)、[Synci](inventory/plugin_details/synci_2026-11-14.json)、[Kubera](inventory/plugin_details/kubera_2026-11-14.json)、[Co-Invest](inventory/plugin_details/co_invest_2026-11-14.json)、[Accounting（OpenAI）](inventory/plugin_details/accounting_openai_2026-11-14.json) の詳細画面の英文、名称、提供元、日本語の要点、タグ、確認状況を記録。[詳細調査索引](inventory/plugin_details/README.md)は累計20件。Synciは読み取り専用と説明し銀行の対象地域を列挙、日本の銀行への対応は未確認。Kuberaは保有情報を更新する例があり、Co-Investの注文の扱いは説明だけでは不明。Accountingは連携可能と表示されたプラグインも保存。個人口座や会計データを連携しておらず、動作・料金・主張は未検証。今回5件の一覧本体との名称照合は未確認。同名項目の同一性も未確認。金融を含め全カテゴリの詳細調査は未完了。作業ブランチのみ更新、main・本番未変更。
