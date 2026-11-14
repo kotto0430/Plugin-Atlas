@@ -422,3 +422,15 @@ Chromeの詳細画面を確認し、[Krea](inventory/plugin_details/krea_2026-11
 ### 不明な機能の詳細調査（2026-11-14、建築・間取り5件）
 
 [mnml AI](inventory/plugin_details/mnml_ai_2026-11-14.json)、[AI Architectures](inventory/plugin_details/ai_architectures_2026-11-14.json)、[Floor Plans](inventory/plugin_details/floor_plans_2026-11-14.json)、[WalkMyPlan — Floor Plans in 3D](inventory/plugin_details/walkmyplan_floor_plans_in_3d_2026-11-14.json)、[HZplan](inventory/plugin_details/hzplan_2026-11-14.json)を確認して公式画面の原文・日本語要約・用途・制約を保存。[詳細索引](inventory/plugin_details/README.md)は累計70件。Floor Plansは施工用ではなく寸法保証もないと説明。AI Architecturesは新規図面にアカウントとクレジットを使用し、アプリ欄で有資格者の確認が必要と説明。WalkMyPlanは構造安全性・建築基準を確認しないと説明し、メイン説明とアプリ欄のデータ利用記載の範囲に注意して両者を保存。機能・料金・精度と一覧本体との名称照合は未検証。引き続き建築関連の候補を確認する。作業ブランチのみ更新、main・本番未変更。
+
+
+### 不明な機能の詳細調査（2026-11-14、建築・漫画など5件）
+
+[Architecture Designer](inventory/plugin_details/architecture_designer_2026-11-14.json)、[PropertyPrompt](inventory/plugin_details/propertyprompt_2026-11-14.json)、[Rayon](inventory/plugin_details/rayon_2026-11-14.json)、[kernelCAD](inventory/plugin_details/kernelcad_2026-11-14.json)、[Comic Strips](inventory/plugin_details/comic_strips_2026-11-14.json)の表示名・提供元・版・英語原文・日本語要約・用途・制約を保存。[詳細索引](inventory/plugin_details/README.md)は累計75件。Architecture Designerはアフィリエイトリンクの開示を説明。PropertyPromptは実寸を一つ以上使い、モデル精度や商品情報の限界を記載。kernelCADは部品・組立のCAD、Comic Stripsはテキストから3・4・6コマの漫画を生成し、ログインと生成前確認が必要と説明。実動作、料金、精度、一覧本体との名称照合は未検証。作業ブランチのみ更新、main・本番未変更。
+
+### 作業整理（2026-11-14）
+
+- 一覧本体は直近の記録で3,941件。詳細調査75件はその内数と断定できず、足し算しない。詳細35件の名称照合は別の監査JSONに保存済み。以降の記録には未照合の項目が残る。
+- カテゴリ全体の選別は未完了。公式説明を確認した記録と、実動作・料金・品質を検証した結果は別。
+- 要確認：Vectaliの画像サイズ上限の説明差、WalkMyPlanのデータ利用に関する説明範囲、B&Aの類似2項目の関係。PDF保留や金融候補の点検も残っている。
+- 次回は詳細索引を確認し、未調査の候補から10件程度を進める。記録済みの説明は必要な時に出典に戻って確認し、同名だけで統合しない。
