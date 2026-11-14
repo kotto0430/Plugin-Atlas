@@ -491,3 +491,8 @@ Chromeの詳細画面を確認し、[Krea](inventory/plugin_details/krea_2026-11
 ### 詳細調査（2026-11-15、映像・画像4ページ）
 
 [VideoGen - AI Video Generator](inventory/plugin_details/videogen_ai_video_generator_2026-11-15.json)、[Martini](inventory/plugin_details/martini_2026-11-15.json)、[PixVerse旧版](inventory/plugin_details/pixverse_legacy_2026-11-15.json)、[PixVerse新ページ](inventory/plugin_details/pixverse_2026-11-15.json)の名称・提供元・版・英文説明・日本語要約・用途・制約を保存。詳細記録は累計121件（旧版と新ページは表示や版が異なるため別記録で、利用可能な別サービスの数を示すものではない）。VideoGenはアカウントのチームクレジットを使い、広告の公開や運用はしないと説明。Martiniは生成前の承認を説明。PixVerse旧版は終了予定と明示し、新ページにリンクするが終了日の記載は確認できない。新ページはタイムライン等に対応デスクトップCLI環境が必要と説明。実動作・料金・品質・一覧本体との名称照合は未検証。作業ブランチのみ更新、main・本番未変更。
+
+
+### 詳細調査（2026-11-15、写真・デザイン・映像6件）
+
+[Simple Photo Gallery](inventory/plugin_details/simple_photo_gallery_2026-11-15.json)、[Ridvay: Carousels & Posters](inventory/plugin_details/ridvay_carousels_posters_2026-11-15.json)、[Memolio](inventory/plugin_details/memolio_2026-11-15.json)、[Semblora](inventory/plugin_details/semblora_2026-11-15.json)、[AISTLabs](inventory/plugin_details/aistlabs_2026-11-15.json)、[HeyGen](inventory/plugin_details/heygen_2026-11-15.json)の名称・提供元・版・英文原文・日本語要約・用途・制約を保存。前半4ページと合わせて今回10記録、詳細記録の累計127件。PixVerseの旧版と新ページを別々に記録しているため、独立したサービスが10件増えたという意味ではない。Simple Photo GalleryはApple Photos等に直接接続しないと説明。Ridvayは静止画を編集でき、SNS投稿や動画は対象外。Memolioは24ページの印刷本で配送国は注文前に外部サイトで表示。SembloraとAISTLabsは生成前の確認を説明。HeyGenはアバター・音声・翻訳等を説明し、同社のHyperFramesとは別ページ。実動作・料金・品質・配送地域・一覧本体との名称照合は未検証。カテゴリ全体の調査は未完了。作業ブランチのみ更新、main・本番未変更。
