@@ -1,0 +1,25 @@
+{
+  "name": "AISTLabs",
+  "official_app_name": "AISTLabs",
+  "provider": "AI STORYTELLING LIMITED",
+  "version": "1.1.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac544232f088191a43e296fddc73435",
+  "developer_url": "https://aistlabs.ai/",
+  "category": "Creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "AISTLabs helps brand teams and creators make short product videos from product photos and a creative brief, and create images, videos and audio directly in AISTLabs Studio. Connect your account, create or choose an authorized brand and product, add your own photo, and review your creative brief before you confirm generation. Track each video through its production stages, inspect its saved script, and open the finished result.\n\nIn Studio you can choose a model, add your own reference images, videos or audio, review the exact request and confirm it before anything is generated. You can organize work into projects and folders, save reusable Elements, restyle a video you own with Virality by swapping people, objects or the location, turn one of your ads into variants with Ad Multiplier, and adapt the structure of proven ads to your own products with Performance Ads.\n\nUse AISTLabs when you want to work with your connected AISTLabs workspace or create media. ChatGPT can answer text-only script requests and general marketing questions directly. AISTLabs does not simply trim or subtitle uploaded videos.\n\nGeneration runs asynchronously and requires access to the selected workspace; some features are available only to accounts they are enabled for. AI-generated results can contain inaccuracies; review them before use. Upload only assets you own or have permission to use, and use a real person's face or voice only with their permission.",
+  "original_description_language": "en",
+  "summary_ja": "商品写真と企画から短い商品動画や、画像・動画・音声の素材を作る。",
+  "usage_tags": [
+    "広告",
+    "動画制作",
+    "商品"
+  ],
+  "limitations_ja": "連携ワークスペースへの権限が必要で、一部機能はアカウント次第。生成前に内容を確認。所有・許可のある素材を使い、実在人物の顔や声には許可が必要と説明。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "一覧本体との名称照合は未確認。同名・別名の同一性は未確認。",
+  "review": "詳細画面の説明・情報欄を確認。動作、料金、品質は未検証。"
+}
