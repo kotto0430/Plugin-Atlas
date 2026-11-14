@@ -1,0 +1,26 @@
+{
+  "name": "Topview 3D Builder",
+  "official_app_name": "Topview 3D Builder",
+  "provider": "Topview",
+  "version": "0.1.8",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6accab1016088191b19230b3c7ecaec4?category=creativity",
+  "developer_url": "https://www.topview.ai/3d-builder",
+  "category": "Creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Topview 3D Builder is a 3D director's stage for AI video. You describe the scene, and your agent builds it in 3D: who stands where, who faces what, what they hold, and where the camera sits. That 3D scene then guides the video model, so the staging comes from you instead of from luck.\n\nIt covers the whole path from an idea, to a 3D scene, to a real animated video. The 3D scene fixes blocking, scale and camera angles. Texture, lighting and performance come from the video model.",
+  "original_description_language": "en",
+  "summary_ja": "人物・小道具・カメラの配置を3Dで組み立て、映像制作の構図を検討する。",
+  "usage_tags": [
+    "3D",
+    "映像制作",
+    "絵コンテ"
+  ],
+  "limitations_ja": "アプリ欄では3Dシーンの構築とフレーム描画をローカルで行うと説明。完成レンダーをTopview Canvasに送ることも可能。動画生成全体がオフラインで行われるとは確認していない。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "一覧本体との名称照合は未確認。同名・別名の同一性は未確認。",
+  "review": "詳細画面の説明・情報欄を確認。動作、料金、品質は未検証。",
+  "additional_app_description": "Topview 3D Builder turns scene descriptions into 3D director scenes you can check and render locally. The topview-3d-cli command keeps each project in a folder on your machine, places characters, poses, props and primitives from a built-in offline asset library, sets up cameras and keyframes, checks layout and camera coverage, and renders frames and contact sheets with a local browser. Building and rendering stay on your machine. From the local Studio you can also send a finished render to a Topview Canvas."
+}
