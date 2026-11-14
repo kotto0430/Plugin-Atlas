@@ -173,6 +173,13 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 - [PixVerse (Legacy; EOL soon)](pixverse_legacy_2026-11-15.json) — 画像・動画制作の旧版。新しいページへの移行を案内。
 - [PixVerse](pixverse_2026-11-15.json) — 画像・短編動画や映像企画を扱う新しいページ。
 
+- [Simple Photo Gallery](simple_photo_gallery_2026-11-15.json) — アップロードした写真をアルバムや共有ギャラリーに整理する。
+- [Ridvay: Carousels & Posters](ridvay_carousels_posters_2026-11-15.json) — 編集可能なSNS投稿やポスターを作る。
+- [Memolio](memolio_2026-11-15.json) — 家族の思い出を水彩風の挿絵が付いた記念本にする。
+- [Semblora](semblora_2026-11-15.json) — 脚本・絵コンテや映像制作を扱う。
+- [AISTLabs](aistlabs_2026-11-15.json) — 商品写真から短い商品動画や画像・音声を作る。
+- [HeyGen](heygen_2026-11-15.json) — アバター動画・画像・音声・動画翻訳を扱う。
+
 ## 一覧本体との照合
 
 [名称照合の記録](catalog_name_audit_2026-11-14.json) — 詳細35件と作業ブランチの一覧3,941件を比較。34件は名前が一致、Palimpsestは一致なし。名前の一致は同一性の確定ではない。個々のJSONにある旧「照合未確認」の記載は調査時点の記録で、最新の照合結果はこの記録を参照。
