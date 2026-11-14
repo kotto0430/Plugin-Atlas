@@ -1,0 +1,14 @@
+{
+  "name": "S&P Global - Deterministic",
+  "category": "Finance",
+  "provider": "Kensho Technologies",
+  "version": "8.0.0",
+  "observed_at": "2026-11-14",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6980f65d75b881918eaa6d65477d87c6?category=finance",
+  "developer_url": "https://www.spglobal.com/",
+  "privacy_url": "https://www.spglobal.com/en/privacy/privacy-policy-english",
+  "original_description": "Use natural language to query a range of S&P Global datasets, including S&P Capital IQ Financials, transcripts, and more. Designed to save time and resources for engineering, product, and business teams in financial services, this server streamlines access to company information, financial statements, historical market data, and global securities.",
+  "summary_ja": "自然言語でS&P Globalのデータを検索し、企業情報、財務諸表、過去の市場データ、世界の証券情報などにアクセスするための連携。",
+  "review": "詳細画面を下まで確認。提供元の説明の記録で、データの範囲・権限・料金・利用地域・実際の動作は未検証。",
+  "catalog_status": "一覧本体に S&P Global - Deterministic の名前あり。"
+}
