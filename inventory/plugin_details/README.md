@@ -84,6 +84,13 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 - [VisualSong](visualsong_2026-11-14.json) — 端末内の音声ファイルに反応する映像表現をChatGPT内に表示する。
 - [Appllama](appllama_2026-11-14.json) — 売上上位のモバイルアプリの画面、操作フロー、オンボーディングや課金画面を調べるためのデザイン資料。
 
+
+- [Alpix](alpix_2026-11-14.json) — 共有キャンバス上でAIと一緒にドット絵を描く。
+- [Vectorize](vectorize_2026-11-14.json) — ロゴ画像を編集可能なSVGに変換し、色・曲線・背景などを調整する。
+- [Shapesoda](shapesoda_2026-11-14.json) — 既存画像をSVG・PDF・EPS・DXFなどに変換し、色や背景を調整する。
+- [Vectali](vectali_2026-11-14.json) — ロゴやイラストをSVG・PDF・EPS・DXFに変換し、元画像と比較する。
+- [Rasterless](rasterless_2026-11-14.json) — アイコンやロゴなどをSVGに変換し、元画像と比較する。
+
 ## 一覧本体との照合
 
 [名称照合の記録](catalog_name_audit_2026-11-14.json) — 詳細35件と作業ブランチの一覧3,941件を比較。34件は名前が一致、Palimpsestは一致なし。名前の一致は同一性の確定ではない。個々のJSONにある旧「照合未確認」の記載は調査時点の記録で、最新の照合結果はこの記録を参照。
