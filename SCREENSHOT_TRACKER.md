@@ -520,3 +520,12 @@ Tesseractは一覧に表示名が同じ2行があり、別URLの両ページを�
 クリエイティブ一覧の[Riverside](inventory/plugin_details/riverside_2026-11-15.json)付近の続きを確認し、[Videomagic](inventory/plugin_details/videomagic_2026-11-15.json)、[Frameo.AI](inventory/plugin_details/frameo_ai_2026-11-15.json)、[Shutterstock](inventory/plugin_details/shutterstock_2026-11-15.json)の表示名・提供元・版・英文原文・日本語要約・用途・確認状況を保存。詳細記録は累計150ファイルで、一覧本体の件数には加算しない。Frameo.AIはクレジット消費前に見積りと確認を行うとアプリ欄に記載。Videomagicのアプリ欄は生の会話履歴を要求・送信しないと述べる一方、共通の注意書きは関連するチャットやメモリが共有される場合があると説明し、実際の送信内容は未検証。
 
 Shutterstockのメイン説明は素材をダウンロードしないと記載する一方、アプリ欄は検索・ダウンロードすると記載。両原文を保存し、実動作は不明。説明間の不一致のため、指定されたルールに従い10件未満で調査を中断した。次回はこの不一致の扱いを確認し、クリエイティブ一覧のShutterstock付近、未調査のSynthesiaなどから再開する。実動作・料金・一覧本体との名称照合は未検証。作業ブランチのみ更新、main・本番未変更。
+
+
+### 詳細調査と再確認（2026-11-15、4件・画面取得後に中断）
+
+[Shutterstock](inventory/plugin_details/shutterstock_2026-11-15.json)のアプリ欄を開き、表示された5ツールの説明を確認。すべて検索用で、各説明はダウンロード・ライセンス取得を対象外とし、ダウンロード用ツールは表示されなかった。ツールは未実行で、アプリ欄の短文との不一致は未解決として両方を保持。
+
+続いて[Synthesia](inventory/plugin_details/synthesia_2026-11-15.json)、[AI Music Maker（InfoseekAI）](inventory/plugin_details/ai_music_maker_infoseek_2026-11-15.json)、[B12 Website Generator](inventory/plugin_details/b12_website_generator_2026-11-15.json)、[Deep Art AI](inventory/plugin_details/deep_art_ai_2026-11-15.json)の名称・提供元・版・英文原文・日本語要約・タグ・確認状況を保存。[索引](inventory/plugin_details/README.md)を更新。詳細記録は累計154ファイルで、一覧本体の件数には加算しない。Synthesia Syrenはベータ・最大3分・クレジット使用、アプリ欄には有料アカウントが必要と記載。AI Music Makerは長さと設定による従量料金を説明。実動作・品質・具体的な料金・一覧本体との名称照合は未検証。既存のAI Video Generator（Syed Fasih Haider Raza Rizvi）は提供元とページを確認して再登録しなかった。
+
+Deep Art AIの後、一覧へ戻る途中の画面取得で `FrameArrived timed out` が発生。Chromeのウィンドウを再取得したところ一覧の先頭を表示できたが、ユーザー指定のエラー時停止ルールに従って今回の調査を4件で中断。次回はクリエイティブ一覧のB12 Website Generator・Deep Art AI付近から下へ進み、既存記録のFLORAを避けてMorphixなど未調査項目を確認する。作業ブランチのみ更新、main・本番未変更。
