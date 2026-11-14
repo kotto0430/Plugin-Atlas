@@ -46,6 +46,17 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 - [Creative Claw](creative_claw_2026-11-14.json) — 絵コンテやキャラクターを使った動画・画像・音声制作。
 - [Creative Production（OpenAI）](creative_production_openai_2026-11-14.json) — 企画や商品画像を基にした広告・SNS向け画像案の検討。
 
+- [Krea](krea_2026-11-14.json) — 画像・動画・3D素材の作成と管理。
+- [Pollo AI](pollo_ai_2026-11-14.json) — 動画・画像・音楽・音声の生成と編集。
+- [Mobbin](mobbin_2026-11-14.json) — 実際のアプリ画面を使ったUI設計の参考調査。
+- [Refero](refero_2026-11-14.json) — 製品画面・操作フローのデザイン調査。
+- [to3D](to3d_2026-11-14.json) — 画像からシンプルな3D glTFモデルを作成。
+- [BioRender](biorender_2026-11-14.json) — 科学図のテンプレート検索と下書き作成。
+- [MyFonts](myfonts_2026-11-14.json) — 画像や説明文からフォント候補を探す。
+- [VideoZero](videozero_2026-11-14.json) — 数学などの概念を説明する動画の作成。
+- [Instavar Video Templates](instavar_video_templates_2026-11-14.json) — Remotion向け動画テンプレート。詳細の一部は説明だけでは不明。
+- [MagicPath](magicpath_2026-11-14.json) — アプリ・ウェブ画面の共有キャンバスでの設計・試作。
+
 ## 再開
 
 金融とクリエイティブの一覧から詳細調査を開始。各詳細を開いた後に一覧へ戻ると先頭へ戻ることがあるため、再開時は上記の記録と重複しないよう名前と詳細ページを確認する。次の候補は、一覧の短文だけでは対象や提供範囲が曖昧な項目から選ぶ。カテゴリー全体の選別・詳細調査はまだ完了していない。
