@@ -1,0 +1,25 @@
+{
+  "official_app_name": "OpusClip: Video Editing",
+  "provider": "Opusclip Inc. (formerly Immersively Inc.)",
+  "version": "1.0.2",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a84784ebb6c8191819a3b6a4d86359c?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "OpusClip brings AI video editing into ChatGPT. Turn long videos into short clips for TikTok, Instagram Reels, and YouTube Shorts, with AI-selected highlights, automatic reframing, and animated captions.\n\nStart with a public or unlisted video link from a supported source, or use videos already uploaded to OpusClip. Edit through conversation: cut unwanted sections, remove filler words and pauses, and customize captions. Your edits are saved to your OpusClip workspace.\n\nExport clips, draft social copy, and request publishing or scheduling to your connected social accounts. You choose the clips, destination accounts, and publishing times.",
+  "summary_ja": "長い動画を短いクリップに切り出し、会話で不要部分や字幕を編集。連携済みSNSへの投稿や予約も依頼できる。",
+  "usage_tags": [
+    "動画編集",
+    "切り抜き",
+    "字幕",
+    "SNS"
+  ],
+  "limitations": [
+    "対応元の公開・限定公開動画リンクまたはOpusClipにアップロード済みの動画を使うと説明。",
+    "編集はOpusClipのワークスペースに保存されると説明。",
+    "料金、対応言語、実動作は未確認。",
+    "一覧本体との名称照合は未確認。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
