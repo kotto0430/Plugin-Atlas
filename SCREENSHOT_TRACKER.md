@@ -392,3 +392,8 @@ Chromeの詳細画面を確認し、[Krea](inventory/plugin_details/krea_2026-11
 ### 不明な機能の詳細調査（2026-11-14、小説・脚本2件）
 
 [NoveLand for Writers](inventory/plugin_details/noveland_for_writers_2026-11-14.json)と[ShotClick: Screenplay & Script](inventory/plugin_details/shotclick_2026-11-14.json)の詳細画面で「続きを読む」を展開し、英文原文、日本語要点、用途、提供元、版、確認状況を保存。[詳細索引](inventory/plugin_details/README.md)は累計41件。NoveLandは人物・伏線・相関図などの管理を説明し、その場で表示した図は作品には保存されないとアプリ欄に記載。ShotClickは脚本データの編集や別案に対応し、アプリ欄に接続にはStudioプランが必要と記載。いずれも提供元の説明で、実動作・料金は未検証。正式表示名の文字列は比較元一覧本体3,941件（index blob `27fc7d17ee843cc9e0651a6c2913c06326f3b9db`）に見当たらず、別名等との同一性は未確認。一覧本体は変更していない。詳細調査は未完了。作業ブランチのみ更新し、main・本番未変更。
+
+
+### 不明な機能の詳細調査（2026-11-14、絵本・キャラクター2件）
+
+[PictureBooks](inventory/plugin_details/picturebooks_2026-11-14.json)と[Character Creator](inventory/plugin_details/character_creator_2026-11-14.json)の詳細画面から表示名、提供元、版、英文原文、日本語要約、用途タグ、確認状況を保存。[詳細索引](inventory/plugin_details/README.md)は累計43件。PictureBooksは既存アカウントのクレジットで非公開絵本を作り、プラグインは購入・カード決済・公開を行わないと説明。Character Creatorは人物設定や画像用プロンプト等の作成を説明し、回答にアフィリエイトリンクを含む場合があると明示。一部スキル説明にはリンクと開示のフッターを毎回付ける旨がある。実際の動作・料金は未検証。両正式表示名の文字列は比較元一覧3,941件（index blob `27fc7d17ee843cc9e0651a6c2913c06326f3b9db`）に見当たらず、別名等の同一性は未確認。一覧本体は変更していない。カテゴリ全体の調査は未完了。作業ブランチのみ更新し、main・本番未変更。
