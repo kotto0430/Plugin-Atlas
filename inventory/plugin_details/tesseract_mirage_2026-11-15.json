@@ -13,11 +13,18 @@
   ],
   "limitations": [
     "ローカルレンダリングは提供元の説明で実動作・通信は未検証。",
-    "一覧に同名・同じ短文の別行があり関係は未確認。",
+    "同じ名前・提供元・版・説明の別URLが2件あり、構成と利用規約リンクが異なる。関係は未確認。",
     "料金と一覧本体との名称照合は未確認。"
   ],
   "verification_status": [
     "公式説明を確認済み",
     "機能未検証"
-  ]
+  ],
+  "second_listing_comparison": {
+    "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ae1c48fd1048191ad1dddcf5e188fb8?category=creativity",
+    "provider": "Mirage",
+    "version": "0.7.0",
+    "original_description": "Tesseract brings professional creative tools into your agent workflow. Work with video layers, compositions, keyframes, and audio in one connected project. Preview the result, direct a revision, and render the finished video locally.",
+    "observations": "名前・提供元・版・メイン説明・スキル5件は同じ。こちらはアプリ欄1件を表示し、利用規約リンクは https://mirage.app/legal/api 。最初のページはスキル欄のみで利用規約リンクは https://mirage.app/legal/tesseract-terms 。関係は未確認。"
+  }
 }
