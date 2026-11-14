@@ -1,0 +1,24 @@
+{
+  "official_app_name": "Frameo.AI",
+  "provider": "Dashverse",
+  "version": "1.2.5",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ab639b28e2081919b704b4ada7e478f?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Frameo.AI turns your ideas into videos. Describe a scene, share a photo or paste a story, and Frameo.AI brings it to life: cinematic shots, characters who look the same from scene to scene, voices, music and sound effects, all cut together into a video that's ready to share.\n\nWith Frameo.AI, you can:\n\n• Put yourself in any scene: share a selfie and step into a film set, a far-off city or a cosy café.\n\n• Bring a photo to life, from a family snapshot to your pet's best portrait.\n\n• Turn a story, a script or a single line into a short film, an animated tale or a movie trailer.\n\n• Make reels, shorts and thumbnails for your social feeds, in vertical or widescreen.\n\n• Give your characters voices, then add music, sound effects, titles and subtitles.\n\n• Shoot your own products and designs, from T-shirts to candles, on models and in styled scenes.\n\n• Create with a wide range of image, video and audio models, all in one place.\n\nEverything you make is saved to your Frameo.AI account, so you can keep editing it in the Frameo.AI app. Connect your Frameo.AI account to get started.",
+  "app_description": "Frameo turns a prompt into a finished short video inside ChatGPT. It generates images, video clips, voiceovers, music, and sound effects in the user's Frameo workspace, keeps characters and style consistent across shots, and assembles the clips with ffmpeg and motion-graphics templates into a final cut. Users can also upload or import their own media, browse a free sound-effect library, and read back a project's canvas and Library. Every credit-spending generation is quoted first with estimate_cost and runs only after the user confirms.",
+  "summary_ja": "物語・画像などから人物、音声、音楽を組み合わせた短い動画を制作し、Frameoで編集を続ける。",
+  "usage_tags": [
+    "動画制作",
+    "物語",
+    "アニメ",
+    "音声"
+  ],
+  "limitations": [
+    "Frameo.AIアカウント連携が必要。アプリ欄ではクレジットを消費する生成は見積りと確認を先に行うと説明。",
+    "人物の一貫性、料金・品質、一覧本体との名称照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
