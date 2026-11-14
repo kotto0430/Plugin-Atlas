@@ -434,3 +434,8 @@ Chromeの詳細画面を確認し、[Krea](inventory/plugin_details/krea_2026-11
 - カテゴリ全体の選別は未完了。公式説明を確認した記録と、実動作・料金・品質を検証した結果は別。
 - 要確認：Vectaliの画像サイズ上限の説明差、WalkMyPlanのデータ利用に関する説明範囲、B&Aの類似2項目の関係。PDF保留や金融候補の点検も残っている。
 - 次回は詳細索引を確認し、未調査の候補から10件程度を進める。記録済みの説明は必要な時に出典に戻って確認し、同名だけで統合しない。
+
+
+### 不明な機能の詳細調査（2026-11-14、創作素材5件）
+
+[Fantasy Maps](inventory/plugin_details/fantasy_maps_2026-11-14.json)、[Character Art](inventory/plugin_details/character_art_2026-11-14.json)、[Pixel Art](inventory/plugin_details/pixel_art_2026-11-14.json)、[Book Covers by Abracadabrax](inventory/plugin_details/book_covers_by_abracadabrax_2026-11-14.json)、[Coloring Pages by Abracadabrax](inventory/plugin_details/coloring_pages_by_abracadabrax_2026-11-14.json)を記録。[詳細索引](inventory/plugin_details/README.md)は累計80件。いずれもAbracadabraxの詳細画面の説明では、テキストから作り、生成にはサインインと確認が必要。Pixel ArtはGIFやゲームエンジンのファイルを書き出さず、Book Coversは背表紙・裏表紙を対象外と説明。機能、品質、料金、権利条件、一覧本体との名称照合は未検証。作業ブランチのみ更新し、main・本番未変更。
