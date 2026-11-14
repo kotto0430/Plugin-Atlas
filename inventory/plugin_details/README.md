@@ -207,6 +207,11 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 - [Frameo.AI](frameo_ai_2026-11-15.json) — 物語や写真から画像・音声を組み合わせた短い動画を作る。
 - [Shutterstock](shutterstock_2026-11-15.json) — ストック素材を検索。ダウンロード可否の説明が食い違うため要確認。
 
+- [Synthesia](synthesia_2026-11-15.json) — 資料や台本から動画を作り、会話で修正する。
+- [AI Music Maker（InfoseekAI）](ai_music_maker_infoseek_2026-11-15.json) — 文章や歌詞、任意の音声を参考に楽曲を生成する。
+- [B12 Website Generator](b12_website_generator_2026-11-15.json) — 事業や企画の説明からウェブサイトを作る。
+- [Deep Art AI](deep_art_ai_2026-11-15.json) — 画像や動画を生成し、動画の進捗を確認する。
+
 ## 一覧本体との照合
 
 [名称照合の記録](catalog_name_audit_2026-11-14.json) — 詳細35件と作業ブランチの一覧3,941件を比較。34件は名前が一致、Palimpsestは一致なし。名前の一致は同一性の確定ではない。個々のJSONにある旧「照合未確認」の記載は調査時点の記録で、最新の照合結果はこの記録を参照。
