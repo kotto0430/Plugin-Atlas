@@ -1,0 +1,26 @@
+{
+  "official_app_name": "Shutterstock",
+  "provider": "Shutterstock",
+  "version": "2.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_69b34589585c819183939cb03b6bd191?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Searches stock libraries to find candidate images, videos, music, and sound effects that match user-specified subjects, styles, moods, or settings, returning watermarked preview URLs with basic metadata for selection. Use when users want to browse or choose existing stock media (including multiple grouped image searches), not to generate, edit, license, or download files.",
+  "app_description": "Search and download high-quality images, videos, music, and sound effects for any project — fast, simple, and ready to use.",
+  "summary_ja": "画像・動画・音楽・効果音のストック素材を検索し、候補を比較する。",
+  "usage_tags": [
+    "素材検索",
+    "画像",
+    "動画",
+    "音楽",
+    "効果音"
+  ],
+  "limitations": [
+    "メイン説明はファイルのダウンロードやライセンス取得を行わないと記載する一方、アプリ欄は検索・ダウンロードと記載。ダウンロード可否は説明間で食い違い、実動作は未確認。",
+    "一覧本体との名称照合は未確認。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証",
+    "説明間に不一致"
+  ]
+}
