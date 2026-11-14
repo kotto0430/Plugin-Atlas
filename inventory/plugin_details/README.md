@@ -168,6 +168,11 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 - [AI Video Generator（Syed Fasih Haider Raza Rizvi）](ai_video_generator_fasih_2026-11-15.json) — 動画の企画・脚本・生成用プロンプトなどを用意する。
 - [Designly（Mamdouh Abo Ammar）](designly_mamdouh_2026-11-15.json) — 広告やSNSの構図・文字・画像表現の検討と改善を支援する。
 
+- [VideoGen - AI Video Generator](videogen_ai_video_generator_2026-11-15.json) — 文章・画像などから動画を作成・編集し、MP4を書き出す。
+- [Martini](martini_2026-11-15.json) — 共有プロジェクトで映像を企画・生成・編集する。
+- [PixVerse (Legacy; EOL soon)](pixverse_legacy_2026-11-15.json) — 画像・動画制作の旧版。新しいページへの移行を案内。
+- [PixVerse](pixverse_2026-11-15.json) — 画像・短編動画や映像企画を扱う新しいページ。
+
 ## 一覧本体との照合
 
 [名称照合の記録](catalog_name_audit_2026-11-14.json) — 詳細35件と作業ブランチの一覧3,941件を比較。34件は名前が一致、Palimpsestは一致なし。名前の一致は同一性の確定ではない。個々のJSONにある旧「照合未確認」の記載は調査時点の記録で、最新の照合結果はこの記録を参照。
