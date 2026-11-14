@@ -529,3 +529,10 @@ Shutterstockのメイン説明は素材をダウンロードしないと記載�
 続いて[Synthesia](inventory/plugin_details/synthesia_2026-11-15.json)、[AI Music Maker（InfoseekAI）](inventory/plugin_details/ai_music_maker_infoseek_2026-11-15.json)、[B12 Website Generator](inventory/plugin_details/b12_website_generator_2026-11-15.json)、[Deep Art AI](inventory/plugin_details/deep_art_ai_2026-11-15.json)の名称・提供元・版・英文原文・日本語要約・タグ・確認状況を保存。[索引](inventory/plugin_details/README.md)を更新。詳細記録は累計154ファイルで、一覧本体の件数には加算しない。Synthesia Syrenはベータ・最大3分・クレジット使用、アプリ欄には有料アカウントが必要と記載。AI Music Makerは長さと設定による従量料金を説明。実動作・品質・具体的な料金・一覧本体との名称照合は未検証。既存のAI Video Generator（Syed Fasih Haider Raza Rizvi）は提供元とページを確認して再登録しなかった。
 
 Deep Art AIの後、一覧へ戻る途中の画面取得で `FrameArrived timed out` が発生。Chromeのウィンドウを再取得したところ一覧の先頭を表示できたが、ユーザー指定のエラー時停止ルールに従って今回の調査を4件で中断。次回はクリエイティブ一覧のB12 Website Generator・Deep Art AI付近から下へ進み、既存記録のFLORAを避けてMorphixなど未調査項目を確認する。作業ブランチのみ更新、main・本番未変更。
+
+
+### 詳細調査（2026-11-15、Morphix・画面取得後に中断）
+
+クリエイティブ一覧で[Morphix](inventory/plugin_details/morphix_2026-11-15.json)を確認し、正式表示名・提供元・版・英文原文・日本語要約・用途・確認状況を保存。画像・動画生成や商品写真、広告制作、画像補正を扱い、Morphixアカウントと共通クレジットの説明あり。機能・品質・料金・一覧本体との名称照合は未検証。[詳細索引](inventory/plugin_details/README.md)を更新し、詳細記録は累計155ファイル。一覧本体の件数とは別に数える。
+
+次の候補を探す途中、一覧の画面取得で再び `FrameArrived timed out: timed out waiting on channel` が発生。ユーザー指定のエラー時停止ルールに従い、1件で中断した。次回はクリエイティブ一覧のMorphix付近から、Color Designer - Palette Maker、Orshot、Apixelなどの未調査候補を索引と照合して再開する。作業ブランチのみ更新し、main・本番未変更。
