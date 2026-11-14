@@ -417,3 +417,8 @@ Chromeの詳細画面を確認し、[Krea](inventory/plugin_details/krea_2026-11
 ### 不明な機能の詳細調査（2026-11-14、スケッチなど5件）
 
 [B&A: Draw Sketches](inventory/plugin_details/ba_draw_sketches_2026-11-14.json)、[B&A: Sketch](inventory/plugin_details/ba_sketch_2026-11-14.json)、[drawDash - Sketch Challenge!](inventory/plugin_details/drawdash_sketch_challenge_2026-11-14.json)、[Amazing Drawing](inventory/plugin_details/amazing_drawing_2026-11-14.json)、[unsketch](inventory/plugin_details/unsketch_2026-11-14.json)を確認し、画面原文・日本語要約・用途・確認状況を保存。[詳細索引](inventory/plugin_details/README.md)は累計65件。B&Aの2件は同じ説明文とサイトだが名前・提供元・詳細ページが異なり、関係や同一性は未確認。drawDashは絵を描いてChatGPTが当てるゲームと説明。unsketchの画面原文は日本語で、英語原文は未確認。各機能・料金と今回5件の一覧本体との名称照合は未検証。詳細調査は継続中。作業ブランチのみ更新、main・本番未変更。
+
+
+### 不明な機能の詳細調査（2026-11-14、建築・間取り5件）
+
+[mnml AI](inventory/plugin_details/mnml_ai_2026-11-14.json)、[AI Architectures](inventory/plugin_details/ai_architectures_2026-11-14.json)、[Floor Plans](inventory/plugin_details/floor_plans_2026-11-14.json)、[WalkMyPlan — Floor Plans in 3D](inventory/plugin_details/walkmyplan_floor_plans_in_3d_2026-11-14.json)、[HZplan](inventory/plugin_details/hzplan_2026-11-14.json)を確認して公式画面の原文・日本語要約・用途・制約を保存。[詳細索引](inventory/plugin_details/README.md)は累計70件。Floor Plansは施工用ではなく寸法保証もないと説明。AI Architecturesは新規図面にアカウントとクレジットを使用し、アプリ欄で有資格者の確認が必要と説明。WalkMyPlanは構造安全性・建築基準を確認しないと説明し、メイン説明とアプリ欄のデータ利用記載の範囲に注意して両者を保存。機能・料金・精度と一覧本体との名称照合は未検証。引き続き建築関連の候補を確認する。作業ブランチのみ更新、main・本番未変更。
