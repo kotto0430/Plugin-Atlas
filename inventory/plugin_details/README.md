@@ -7,7 +7,7 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 ## 記録項目
 
 - `official_app_name`: ChatGPTのプラグイン詳細画面に表示された名前。別媒体の商標や同名アプリとの同一性は未確認。
-- `original_description`: 詳細画面の英語説明原文。全文を取得できない場合は抜粋と明記し、出典を残す。
+- `original_description`: 詳細画面に表示された説明原文（英語以外の場合は言語も記録）。全文を取得できない場合は抜粋と明記し、出典を残す。
 - `summary_ja`: 説明に基づく日本語の要点。
 - `usage_tags`: 説明から確認できる用途だけを配列で記録。
 - `verification_status`: 「公式説明を確認済み」「機能未検証」「説明だけでは不明」などを必要に応じて併記。公式説明を確認しても、実動作を検証したとは扱わない。
@@ -104,6 +104,13 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 - [Floor Plans](floor_plans_2026-11-14.json) — 部屋の構成や保存済みスケッチから、俯瞰の間取りイメージを生成する。
 - [WalkMyPlan — Floor Plans in 3D](walkmyplan_floor_plans_in_3d_2026-11-14.json) — 会話や既存図面から住宅の3D間取りを作り、歩行表示や編集を行う。
 - [HZplan](hzplan_2026-11-14.json) — 間取り画像や寸法から編集可能な住宅プランを作り、家具配置や2D・3D・VR表示を検討する。
+
+
+- [Architecture Designer](architecture_designer_2026-11-14.json) — 建築や内装、リフォームの企画、間取り案、材料や照明、チェックリストなどを検討する。
+- [PropertyPrompt](propertyprompt_2026-11-14.json) — 実寸を一つ以上使い、間取りから家具を配置できる3Dモデルを作る。
+- [Rayon](rayon_2026-11-14.json) — 接続済みRayonのプロジェクトで間取り・家具配置を検討し、表やプレゼン資料を作る。
+- [kernelCAD](kernelcad_2026-11-14.json) — 文章で寸法を変更できるCAD部品や組立モデルを作り、3D確認や図面出力を行う。
+- [Comic Strips](comic_strips_2026-11-14.json) — 文章で各コマ・人物・台詞を指定し、吹き出し付きの3・4・6コマ漫画を作る。
 
 ## 一覧本体との照合
 
