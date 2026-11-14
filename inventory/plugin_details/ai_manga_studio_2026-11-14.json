@@ -1,0 +1,27 @@
+{
+  "name": "AI Manga Studio",
+  "official_app_name": "AI Manga Studio",
+  "provider": "株式会社プロスパーワン",
+  "version": "1.0.5",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac2b6e0c4e4819189213b9811c7debe?category=creativity",
+  "developer_url": "https://ai-manga-s.com/en/",
+  "category": "Creativity",
+  "observed_at": "2026-11-14",
+  "original_description": "AI Manga Studio is a manga creation app. With this plugin, ChatGPT works with the manga works saved in your AI Manga Studio account: it can list your works, create a new work, write or revise the storyboard (pages, panels, scene descriptions, and dialogue), and change a single line of dialogue.\n\nChatGPT can also edit the pages directly: add, edit, merge, and reorder speech bubbles; add text blocks, including ruby; add effects such as focus lines; manage characters and their costumes in each panel; add, remove, move, resize, and reshape panels; add, delete, and reorder pages and change the panel layout; manage layers; and set the art style. It can undo its own last change.\n\nChatGPT can also draw a page itself. It reads the page's materials from AI Manga Studio (a drawing brief and reference images such as the panel-layout template and character sheets), generates the page image with ChatGPT's own image generation, and sends it back. AI Manga Studio cuts the image along the panel borders and places the pieces into the panels of that page. You can also attach a page image to your message and ask ChatGPT to place it into the panels.\n\nChatGPT can also place an existing image into a panel, add overlay images to a page, add images to the location and prop libraries of a work, and register costume B or C for a character.\n\nChatGPT can also work in the planning room: create a planning project and fill in the series details, characters, locations, props, relationships, foreshadowing, setting notes and episodes, including character sheets and images for location and prop cards. It can then make a work from one episode, or one volume from all episodes.\n\nHow it works:\n- You need an AI Manga Studio account (https://ai-manga-s.com/studio/). When you connect the plugin, sign in on the AI Manga Studio sign-in page that ChatGPT opens.\n- If you sign in with the same email address as your AI Manga Studio account (a verified address, or Google sign-in), the plugin links to your account automatically. If the addresses differ, ask ChatGPT to link your account: it gives you a one-time link (valid for 5 minutes); open it in a browser where you are signed in to AI Manga Studio and press \"Link\".\n- After that, AI Manga Studio does not need to be open. The plugin reads and saves works in your account on our server, so it also works from ChatGPT on mobile.\n- Planning projects made in AI Manga Studio become available to ChatGPT after you open AI Manga Studio once while the plugin is linked.\n\nIntended users: manga and comic creators, hobbyists, educators, and marketers who want to plan and assemble manga pages through conversation.\n\nLimitations:\n- The plugin cannot delete works and cannot read or write files on your computer.\n- It does not use AI Manga Studio's own image generation or your account's generation allowance. Drawing a page uses ChatGPT's image generation. The storyboard can be written and edited without images.\n- The main character sheet of a character in a work (costume A) cannot be added through the plugin. Add it in AI Manga Studio.\n- Speech bubbles and text added without a position are placed where they do not overlap the ones already on the page. You can move them in AI Manga Studio.\n- Only works saved to your account are available. Works kept only on one device with \"Local only\" are not shown.\n- Undo reverts only changes made by the plugin. Changes made later in AI Manga Studio itself are not reverted.\n- The plugin acts only on the AI Manga Studio account you linked.",
+  "original_description_language": "en",
+  "description_scope": "ChatGPT詳細画面の提供元の英語説明。",
+  "summary_ja": "漫画の企画・ネーム・コマ・吹き出しや画像配置を、連携した作品に対して会話で編集する。",
+  "usage_tags": [
+    "漫画制作",
+    "ネーム",
+    "吹き出し",
+    "企画"
+  ],
+  "limitations_ja": "アカウントが必要。ローカル専用作品やPC内ファイルは扱えず、作品削除も不可。ページ作画はChatGPTの画像生成を使用。アプリ欄では作画と添付画像のコマ配置はWorkモードで利用可、Chatモードには制限があると説明。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "詳細画面の説明と情報欄を確認。実動作・料金・品質・権利条件は未検証。",
+  "catalog_status": "一覧本体との名称照合は未確認。同名・別名の同一性は未確認。"
+}
