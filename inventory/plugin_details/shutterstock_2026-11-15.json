@@ -22,5 +22,17 @@
     "公式説明を確認済み",
     "機能未検証",
     "説明間に不一致"
-  ]
+  ],
+  "followup_tool_inspection": {
+    "date": "2026-11-15",
+    "method": "詳細画面のアプリ欄を開いて表示されたツールの説明を確認。ツールは実行していない。",
+    "observed_tools": [
+      "shutterstock_search_images",
+      "shutterstock_search_images_batch",
+      "shutterstock_search_music",
+      "shutterstock_search_sfx",
+      "shutterstock_search_videos"
+    ],
+    "finding_ja": "5件すべて検索用として表示され、それぞれライセンス・ダウンロード依頼は対象外と説明。ダウンロード用ツールは表示されなかった。実動作の検証やサービス全体でのダウンロード可否の確認は行っていない。アプリ欄の説明との不一致は残る。"
+  }
 }
