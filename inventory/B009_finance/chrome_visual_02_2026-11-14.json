@@ -1,0 +1,390 @@
+{
+  "source": "Chrome ChatGPT 金融",
+  "date": "2026-11-14",
+  "catalog_blob": "ed517167a5188fd9018de0c4c041e146750b43b9",
+  "method": "画面を重ねてスクロールし表示名を目視転記。大文字小文字を区別せず名前を照合。",
+  "notes": "誤記・重複・異表記の可能性あり。一致は同一性、不一致は新規件数を意味しない。I/lの判別が曖昧な2行は除外し別途保留。",
+  "counts": {
+    "rows": 94,
+    "matched": 94,
+    "unmatched": 0
+  },
+  "rows": [
+    {
+      "name": "Drivetrain",
+      "matched": true
+    },
+    {
+      "name": "Premiss: Backtest Trading",
+      "matched": true
+    },
+    {
+      "name": "Gemral Edge",
+      "matched": true
+    },
+    {
+      "name": "Hypawave",
+      "matched": true
+    },
+    {
+      "name": "ReInvestWealth",
+      "matched": true
+    },
+    {
+      "name": "italian-investor",
+      "matched": true
+    },
+    {
+      "name": "Intropic",
+      "matched": true
+    },
+    {
+      "name": "Distilla Investment Research",
+      "matched": true
+    },
+    {
+      "name": "BankPilot",
+      "matched": true
+    },
+    {
+      "name": "De Belegger",
+      "matched": true
+    },
+    {
+      "name": "Easy Cardz NBA Scout",
+      "matched": true
+    },
+    {
+      "name": "Testfolio",
+      "matched": true
+    },
+    {
+      "name": "Pappers France",
+      "matched": true
+    },
+    {
+      "name": "Bilköpskollen",
+      "matched": true
+    },
+    {
+      "name": "paytech",
+      "matched": true
+    },
+    {
+      "name": "Gasti",
+      "matched": true
+    },
+    {
+      "name": "Global Payments & Crypto",
+      "matched": true
+    },
+    {
+      "name": "Antom Reconciliation Expert",
+      "matched": true
+    },
+    {
+      "name": "Antevo Wealth",
+      "matched": true
+    },
+    {
+      "name": "Prop Trading Intelligence",
+      "matched": true
+    },
+    {
+      "name": "Alpha Spread",
+      "matched": true
+    },
+    {
+      "name": "TrackMyStack",
+      "matched": true
+    },
+    {
+      "name": "Mergr: Private Equity & M&A",
+      "matched": true
+    },
+    {
+      "name": "PhillipCapital Türkiye",
+      "matched": true
+    },
+    {
+      "name": "SiftingIO",
+      "matched": true
+    },
+    {
+      "name": "Datassist Net Brut Hesaplama",
+      "matched": true
+    },
+    {
+      "name": "CA Property Tax Appeal Guide",
+      "matched": true
+    },
+    {
+      "name": "Rydoo",
+      "matched": true
+    },
+    {
+      "name": "finerd",
+      "matched": true
+    },
+    {
+      "name": "Edgio Signals",
+      "matched": true
+    },
+    {
+      "name": "Coinversa Pulse",
+      "matched": true
+    },
+    {
+      "name": "Briefcase",
+      "matched": true
+    },
+    {
+      "name": "Hyperline",
+      "matched": true
+    },
+    {
+      "name": "Wallet by BudgetBakers",
+      "matched": true
+    },
+    {
+      "name": "CaixaBank",
+      "matched": true
+    },
+    {
+      "name": "Revestor",
+      "matched": true
+    },
+    {
+      "name": "The Coin Daily",
+      "matched": true
+    },
+    {
+      "name": "Mizan",
+      "matched": true
+    },
+    {
+      "name": "Mirabello Immigration",
+      "matched": true
+    },
+    {
+      "name": "Mollie",
+      "matched": true
+    },
+    {
+      "name": "AlgoVault",
+      "matched": true
+    },
+    {
+      "name": "CXProWealth",
+      "matched": true
+    },
+    {
+      "name": "Yoshi",
+      "matched": true
+    },
+    {
+      "name": "Ultralayer",
+      "matched": true
+    },
+    {
+      "name": "ABG Market Data",
+      "matched": true
+    },
+    {
+      "name": "Mortgage Industry Regulations",
+      "matched": true
+    },
+    {
+      "name": "ZeniFlow",
+      "matched": true
+    },
+    {
+      "name": "Bullflow",
+      "matched": true
+    },
+    {
+      "name": "SPACInsider",
+      "matched": true
+    },
+    {
+      "name": "Essentio",
+      "matched": true
+    },
+    {
+      "name": "Find My Money",
+      "matched": true
+    },
+    {
+      "name": "GoFans Growth Assistant",
+      "matched": true
+    },
+    {
+      "name": "Rillet",
+      "matched": true
+    },
+    {
+      "name": "iAsig",
+      "matched": true
+    },
+    {
+      "name": "StockViz Mutual Funds",
+      "matched": true
+    },
+    {
+      "name": "LSEG AI",
+      "matched": true
+    },
+    {
+      "name": "FindBroadband",
+      "matched": true
+    },
+    {
+      "name": "Spera",
+      "matched": true
+    },
+    {
+      "name": "Aveon Sigorta",
+      "matched": true
+    },
+    {
+      "name": "Revelata deepKPI",
+      "matched": true
+    },
+    {
+      "name": "Stratify",
+      "matched": true
+    },
+    {
+      "name": "Finanse.app",
+      "matched": true
+    },
+    {
+      "name": "Tallyproof Statement Converter",
+      "matched": true
+    },
+    {
+      "name": "Finary",
+      "matched": true
+    },
+    {
+      "name": "ETFtracker",
+      "matched": true
+    },
+    {
+      "name": "Changelly",
+      "matched": true
+    },
+    {
+      "name": "TableWealth",
+      "matched": true
+    },
+    {
+      "name": "Finrep",
+      "matched": true
+    },
+    {
+      "name": "Squidlor",
+      "matched": true
+    },
+    {
+      "name": "FocusPulse",
+      "matched": true
+    },
+    {
+      "name": "Harmonic (new)",
+      "matched": true
+    },
+    {
+      "name": "Offera.ai",
+      "matched": true
+    },
+    {
+      "name": "Minhas Finanças",
+      "matched": true
+    },
+    {
+      "name": "Insourcia",
+      "matched": true
+    },
+    {
+      "name": "WalletGraph: Address Lookup",
+      "matched": true
+    },
+    {
+      "name": "Daffy",
+      "matched": true
+    },
+    {
+      "name": "MoveSurge",
+      "matched": true
+    },
+    {
+      "name": "BeanHub",
+      "matched": true
+    },
+    {
+      "name": "Floyd by The F Suite",
+      "matched": true
+    },
+    {
+      "name": "Magnos",
+      "matched": true
+    },
+    {
+      "name": "UAE Gratuity Calculator",
+      "matched": true
+    },
+    {
+      "name": "MosoFin",
+      "matched": true
+    },
+    {
+      "name": "QRate Mortgage Rates",
+      "matched": true
+    },
+    {
+      "name": "Loris Crypto Markets",
+      "matched": true
+    },
+    {
+      "name": "Wealth Tracker",
+      "matched": true
+    },
+    {
+      "name": "Trackstone",
+      "matched": true
+    },
+    {
+      "name": "akta.pro",
+      "matched": true
+    },
+    {
+      "name": "Kryptos",
+      "matched": true
+    },
+    {
+      "name": "Momentum",
+      "matched": true
+    },
+    {
+      "name": "Cancel My Sub",
+      "matched": true
+    },
+    {
+      "name": "CoinTracker",
+      "matched": true
+    },
+    {
+      "name": "Earnings Feed",
+      "matched": true
+    },
+    {
+      "name": "Dubai Wealth Index Real Estate",
+      "matched": true
+    },
+    {
+      "name": "Finmode",
+      "matched": true
+    }
+  ]
+}
