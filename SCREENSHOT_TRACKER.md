@@ -397,3 +397,8 @@ Chromeの詳細画面を確認し、[Krea](inventory/plugin_details/krea_2026-11
 ### 不明な機能の詳細調査（2026-11-14、絵本・キャラクター2件）
 
 [PictureBooks](inventory/plugin_details/picturebooks_2026-11-14.json)と[Character Creator](inventory/plugin_details/character_creator_2026-11-14.json)の詳細画面から表示名、提供元、版、英文原文、日本語要約、用途タグ、確認状況を保存。[詳細索引](inventory/plugin_details/README.md)は累計43件。PictureBooksは既存アカウントのクレジットで非公開絵本を作り、プラグインは購入・カード決済・公開を行わないと説明。Character Creatorは人物設定や画像用プロンプト等の作成を説明し、回答にアフィリエイトリンクを含む場合があると明示。一部スキル説明にはリンクと開示のフッターを毎回付ける旨がある。実際の動作・料金は未検証。両正式表示名の文字列は比較元一覧3,941件（index blob `27fc7d17ee843cc9e0651a6c2913c06326f3b9db`）に見当たらず、別名等の同一性は未確認。一覧本体は変更していない。カテゴリ全体の調査は未完了。作業ブランチのみ更新し、main・本番未変更。
+
+
+### 不明な機能の詳細調査（2026-11-14、キャラクター・ゲーム2件）
+
+[Character Maker](inventory/plugin_details/character_maker_2026-11-14.json)と[Game Maker AI](inventory/plugin_details/game_maker_ai_2026-11-14.json)の詳細画面を確認し、名称、提供元、版、英語原文、日本語要約、用途、確認状況を保存。[詳細索引](inventory/plugin_details/README.md)は累計45件。Character MakerはMegaScenesを使ったオリジナル人物の画像生成で、サインイン・生成前確認が必要、既存キャラクターや実在人物などは対象外と説明。先に確認したCharacter Creatorとは表示名・提供元・詳細ページが異なる。Game Maker AIはゲーム設計書や難易度を検討し、ゲームの作成・実行・公開はしないと説明。外部ビルダーの任意リンクに作者のアフィリエイトコードを含む。どちらも実動作・料金は未検証。正式表示名の文字列は比較元一覧3,941件（index blob `27fc7d17ee843cc9e0651a6c2913c06326f3b9db`）に見当たらないが、別名等との同一性は未確認。一覧本体は変更していない。カテゴリ全体の調査は未完了。作業ブランチのみ更新し、main・本番未変更。
