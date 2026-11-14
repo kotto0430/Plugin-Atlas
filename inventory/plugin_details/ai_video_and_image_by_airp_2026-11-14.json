@@ -1,0 +1,27 @@
+{
+  "name": "AI Video and Image by AIRP",
+  "provider": "AI Research Plus",
+  "version": "1.0.13",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ad72d79824881918e12da6a8652354c?category=creativity",
+  "developer_url": "https://airesearchplus.com/",
+  "original_description": "Create AI images, logos and videos, including ad and product videos, through a short guided chat. The plugin asks a few questions, one at a time, turns your answers into a detailed brief, and gives you a link that opens your project on ManyMotions (manymotions.com) with those details filled in.\nWhat you can create:\n• Images, logos and general videos, such as YouTube, educational, personal or storytelling videos\n• Ad, promo and product videos, such as UGC ads, product demos, testimonials, tutorials, product reviews and unboxing videos, tailored to your product, target audience, language and tone\nWho it is for: content creators, marketers and small business owners who want images and short videos for social media, YouTube or product promotion without writing detailed prompts.\nLimitations: the plugin does not generate images or videos inside ChatGPT. The final media is created on ManyMotions, a separate third-party service that requires a ManyMotions account. Ad and product videos are available in English, Spanish, Portuguese, Korean, Japanese, Mandarin and Indonesian.",
+  "summary_ja": "対話で画像・ロゴ・動画の制作内容を整理し、ManyMotionsで制作するためのリンクを作る。",
+  "usage_tags": [
+    "画像制作",
+    "動画制作",
+    "広告",
+    "ロゴ"
+  ],
+  "limitations_ja": "最終的な生成はChatGPT内ではなくManyMotionsで行い、同サービスのアカウントが必要。広告・商品動画は日本語を含む記載の言語に対応。",
+  "official_app_name": "AI Video and Image by AIRP",
+  "official_name_basis": "ChatGPTのプラグイン詳細画面に表示された名称",
+  "category": "Creativity",
+  "observed_at": "2026-11-14",
+  "description_scope": "ChatGPT詳細画面の提供元の英語説明。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "詳細画面の説明と情報欄を確認。実機能、料金、品質は未検証。",
+  "catalog_status": "一覧本体との名称照合は未確認。同名・別名の同一性は未確認。"
+}
