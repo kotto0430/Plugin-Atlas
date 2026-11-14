@@ -66,6 +66,9 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 - [NoveLand for Writers](noveland_for_writers_2026-11-14.json) — 小説・脚本の人物設定、伏線、相関図などを管理。
 - [ShotClick: Screenplay & Script](shotclick_2026-11-14.json) — 脚本形式で編集し別案を管理。接続にStudioプランが必要と説明。
 
+- [PictureBooks](picturebooks_2026-11-14.json) — 既存クレジットを使って非公開の絵本を作成。
+- [Character Creator](character_creator_2026-11-14.json) — キャラクターの設定・外見・画像用プロンプトを考案。アフィリエイトリンクの記載あり。
+
 ## 一覧本体との照合
 
 [名称照合の記録](catalog_name_audit_2026-11-14.json) — 詳細35件と作業ブランチの一覧3,941件を比較。34件は名前が一致、Palimpsestは一致なし。名前の一致は同一性の確定ではない。個々のJSONにある旧「照合未確認」の記載は調査時点の記録で、最新の照合結果はこの記録を参照。
