@@ -1,0 +1,23 @@
+{
+  "official_app_name": "Sparki",
+  "provider": "SPARKVIEW TECH PTE. LTD.",
+  "version": "1.1.7",
+  "source_url": "https://chatgpt.com/plugins/plugins_6aab7349aeac819190867d3343cc17b3?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Turn local footage into polished vlogs, highlight reels, and social clips through natural-language editing with cloud rendering.",
+  "summary_ja": "手元の映像を自然言語で編集し、Vlogや短い動画にまとめる。レンダリングはクラウドで行うと説明。",
+  "usage_tags": [
+    "動画編集",
+    "Vlog",
+    "SNS"
+  ],
+  "limitations": [
+    "料金、対応形式、使用手順は説明だけでは不明。",
+    "一覧本体との名称照合は未確認。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証",
+    "説明だけでは不明"
+  ]
+}
