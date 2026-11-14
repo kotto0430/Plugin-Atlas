@@ -1,0 +1,24 @@
+{
+  "name": "AI Video Maker",
+  "official_app_name": "AI Video Maker",
+  "provider": "InfoseekAI",
+  "version": "3.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a1f42809af88191ae3055304a69523a?category=creativity",
+  "developer_url": "https://infoseek.ai/mcp/a7034de3f7/seedance-video",
+  "category": "Creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "The easiest way to generate incredible videos with the leading state of the art model, Seedance 2 and 2.5.\n\nTurn a prompt into polished short form video. Use it for social posts, product stories, cinematic concepts, and AI-assisted creative production.\n\n- No subscription required\n- Create videos from natural-language creative direction\n- Use images, video, and audio as generation references\n- Edit videos\n- Extend videos\n- Easily download or share completed videos\n- Low cost usage based pricing depends on video resolution and duration.\n- Use your Infoseek account for easy access to our library of GPT apps",
+  "original_description_language": "en",
+  "summary_ja": "文章や参考素材から短い動画を作り、編集・延長する。",
+  "usage_tags": [
+    "動画制作",
+    "SNS"
+  ],
+  "limitations_ja": "定期契約は不要と説明する一方、解像度・長さによる従量課金と記載。金額・対応モデル・品質は未検証。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "一覧本体との名称照合は未確認。同名・別名の同一性は未確認。",
+  "review": "詳細画面の説明・情報欄を確認。動作、料金、品質は未検証。"
+}
