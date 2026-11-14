@@ -513,3 +513,10 @@ Chromeの詳細画面を確認し、[Krea](inventory/plugin_details/krea_2026-11
 [Visla Video Maker](inventory/plugin_details/visla_video_maker_2026-11-15.json)、[OpusClip: Video Editing](inventory/plugin_details/opusclip_video_editing_2026-11-15.json)、[VEED Video Generator](inventory/plugin_details/veed_video_generator_2026-11-15.json)、[Genspark AI Slides](inventory/plugin_details/genspark_ai_slides_2026-11-15.json)、[sync. labs](inventory/plugin_details/sync_labs_2026-11-15.json)、[BlitzReels](inventory/plugin_details/blitzreels_2026-11-15.json)、[ImagineArt](inventory/plugin_details/imagineart_2026-11-15.json)、[Sparki](inventory/plugin_details/sparki_2026-11-15.json)、[Tesseract（Mirage）](inventory/plugin_details/tesseract_mirage_2026-11-15.json)、[Riverside](inventory/plugin_details/riverside_2026-11-15.json)の表示名、提供元、英文、日本語要約、用途、確認状況を保存。詳細記録は累計147ファイルで一覧本体の件数には加算しない。Vislaはアカウントが必要、sync. labsは吹き替えや口の動きの同期を説明し、単独音声や一般的なタイムライン編集は対象外と記載。Gensparkの出力形式とPPTの編集可否は説明だけでは不明。Riversideは対象有料プランが必要でFreeとProはMCPを利用できず、アプリ欄はGrow以上と説明。ImagineArtは他社制作アプリへのアクセスが別途必要と説明。実動作・料金・品質・一覧本体との名称照合は未検証。
 
 Tesseractは一覧に表示名が同じ2行があり、別URLの両ページを確認。提供元、版、メイン説明、スキル5件は同じだが、アプリ欄や利用規約リンクに違いがある。2ページの関係は不明とし、1ファイル内に双方のURLと比較結果を残した。次回は近辺の未調査候補から続行。クリエイティブ全体の選別・詳細調査は未完了。作業ブランチのみ更新し、main・本番未変更。
+
+
+### 詳細調査（2026-11-15、3件・説明差のため中断）
+
+クリエイティブ一覧の[Riverside](inventory/plugin_details/riverside_2026-11-15.json)付近の続きを確認し、[Videomagic](inventory/plugin_details/videomagic_2026-11-15.json)、[Frameo.AI](inventory/plugin_details/frameo_ai_2026-11-15.json)、[Shutterstock](inventory/plugin_details/shutterstock_2026-11-15.json)の表示名・提供元・版・英文原文・日本語要約・用途・確認状況を保存。詳細記録は累計150ファイルで、一覧本体の件数には加算しない。Frameo.AIはクレジット消費前に見積りと確認を行うとアプリ欄に記載。Videomagicのアプリ欄は生の会話履歴を要求・送信しないと述べる一方、共通の注意書きは関連するチャットやメモリが共有される場合があると説明し、実際の送信内容は未検証。
+
+Shutterstockのメイン説明は素材をダウンロードしないと記載する一方、アプリ欄は検索・ダウンロードすると記載。両原文を保存し、実動作は不明。説明間の不一致のため、指定されたルールに従い10件未満で調査を中断した。次回はこの不一致の扱いを確認し、クリエイティブ一覧のShutterstock付近、未調査のSynthesiaなどから再開する。実動作・料金・一覧本体との名称照合は未検証。作業ブランチのみ更新、main・本番未変更。
