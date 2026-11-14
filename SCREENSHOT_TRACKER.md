@@ -372,3 +372,8 @@ Chromeの詳細ページを開き、長い説明は展開して下まで確認�
 ### 不明な機能の詳細調査（2026-11-14、クリエイティブ追加10件）
 
 Chromeの詳細画面を確認し、[Krea](inventory/plugin_details/krea_2026-11-14.json)、[Pollo AI](inventory/plugin_details/pollo_ai_2026-11-14.json)、[Mobbin](inventory/plugin_details/mobbin_2026-11-14.json)、[Refero](inventory/plugin_details/refero_2026-11-14.json)、[to3D](inventory/plugin_details/to3d_2026-11-14.json)、[BioRender](inventory/plugin_details/biorender_2026-11-14.json)、[MyFonts](inventory/plugin_details/myfonts_2026-11-14.json)、[VideoZero](inventory/plugin_details/videozero_2026-11-14.json)、[Instavar Video Templates](inventory/plugin_details/instavar_video_templates_2026-11-14.json)、[MagicPath](inventory/plugin_details/magicpath_2026-11-14.json)を記録。[詳細索引](inventory/plugin_details/README.md)は累計35件。表示名・提供元・版・出典・英文説明・日本語要約・用途タグ・確認状況を保存。Instavarは説明が短く詳細不明と明記。MagicPathのAl・Ulは読み上げ上の表記をそのまま保存。機能・品質・料金・ライセンスは未検証。今回の10件と一覧本体の名称照合・同名項目の同一性は未確認。クリエイティブ一覧全体の詳細選別は未完了。次は近辺の未調査項目から続ける。作業ブランチのみ更新し、main・本番未変更。
+
+
+### 詳細調査35件と一覧の名称照合（2026-11-14）
+
+詳細調査の索引にある35件について、作業ブランチの `index.html` の `catalog` 配列3,941件（blob `27fc7d17ee843cc9e0651a6c2913c06326f3b9db`）と、NFKC正規化・英字大小・空白をならして名称を比較。[照合結果JSON](inventory/plugin_details/catalog_name_audit_2026-11-14.json)に名前、一覧側ID、カテゴリを保存した。34件は各1行に名称一致、Palimpsestは名称一致なし。名前の一致は同一アプリの確定ではなく、不一致も別名の可能性がある。`atlas-pdf-` のIDはサイト内仮ID。個別JSONの旧「照合未確認」は調査当時の状態として残し、最新結果は照合JSONを参照する。main・本番未変更。
