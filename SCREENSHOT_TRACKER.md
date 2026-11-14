@@ -476,3 +476,8 @@ Chromeの詳細画面を確認し、[Krea](inventory/plugin_details/krea_2026-11
 ### 詳細調査（2026-11-15、書籍・映像4件）
 
 [Meminto – Write Your Book](inventory/plugin_details/meminto_write_your_book_2026-11-15.json)、[papergarden](inventory/plugin_details/papergarden_2026-11-15.json)、[KitCut](inventory/plugin_details/kitcut_2026-11-15.json)、[LongStories](inventory/plugin_details/longstories_2026-11-15.json)の正式名、提供元、版、英文説明、日本語要約、用途、制約、確認状態を保存。詳細記録は累計107件。Memintoは取り込みが有効な場合に対応原稿を取り込めるが、OCRや元のレイアウトの再現は保証しないと説明。papergardenは24〜84ページの印刷本、KitCutはアニメ動画のアカウント別上限・リンク限定公開、LongStoriesは最大15分でアカウント制限内、アップスケール非対応と説明。機能・料金・品質・配送地域・一覧本体との名称照合は未検証。検索「story」の近辺には他にも未調査候補がある。作業ブランチのみ更新、main・本番未変更。
+
+
+### 詳細調査（2026-11-15、SNS・ウェブ・映像5件）
+
+[Social Images](inventory/plugin_details/social_images_2026-11-15.json)、[Website Builder（AI Research Plus）](inventory/plugin_details/website_builder_ai_research_plus_2026-11-15.json)、[Brix36](inventory/plugin_details/brix36_2026-11-15.json)、[Sequencer](inventory/plugin_details/sequencer_2026-11-15.json)、[Reverie Movies](inventory/plugin_details/reverie_movies_2026-11-15.json)の正式名・提供元・版・英文・日本語要約・用途・制約を記録。詳細記録は累計112件。Social Imagesは既存写真の編集や投稿を行わない。Website Builderは公開・ホスティングを行わず外部ビルダーリンクにアフィリエイトコードがあると説明。Brix36は説明が短く動画の長さや料金は不明。Sequencerは有料生成前の計画と費用確認、Reverie Moviesはアカウントが必要と説明。実動作・料金・品質・一覧本体との名称照合は未検証。引き続き検索「story」近辺の未調査項目を確認。作業ブランチのみ更新、main・本番未変更。
