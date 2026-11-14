@@ -1,0 +1,25 @@
+{
+  "official_app_name": "Riverside",
+  "provider": "Riverside",
+  "version": "1.1.1",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a7c90343f80819194c6cc6dac6e1fae?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Riverside is an end-to-end platform for creating videos and podcasts. Search your recordings by what was said, edit and caption videos, publish or schedule clips to connected social accounts, and manage hosted podcasts, episodes, artwork, distribution, and download analytics. Requires a Riverside account on a qualifying paid plan; Free and Pro accounts cannot use the MCP.",
+  "app_description": "Riverside is an end-to-end platform for creating videos and podcasts. Once connected, you can edit your recordings, cut clips for social media, publish to all your channels, draft all your episode assets, and find any moment across your recordings. Requires a Riverside account on a Grow plan or above.",
+  "summary_ja": "録画内容の発言検索、動画の編集・字幕・SNS投稿予約、ポッドキャストの配信や分析を管理する。",
+  "usage_tags": [
+    "動画編集",
+    "ポッドキャスト",
+    "字幕",
+    "SNS"
+  ],
+  "limitations": [
+    "メイン説明は対象の有料プランが必要でFreeとProはMCPを利用できないと記載。アプリ欄はGrow以上と記載。",
+    "具体的な料金・プランの現行条件・実動作は未確認。",
+    "一覧本体との名称照合は未確認。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
