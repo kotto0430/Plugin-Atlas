@@ -1,0 +1,26 @@
+{
+  "name": "drawDash - Sketch Challenge!",
+  "provider": "Widget",
+  "version": "2.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_69fb0ed2dbc4819182d9d1f0acb2a256?category=creativity",
+  "developer_url": "https://www.widget.olutely.com/",
+  "original_description": "Draw a picture. Let AI guess what it is. That is the whole game.\n\nDraw & Guess is a fun drawing guessing game you can play right inside ChatGPT. You get something to draw. You make your picture. ChatGPT looks at your drawing and tries to guess what you made. Then you can see if the AI got it right.\n\nNo art skills are needed. A wobbly cat is fine. A funny car is fine. A sun that looks like an egg is fine. In fact, silly drawings can make the game even more fun.\n\nEach round is quick and easy. First, you get a word or thing to draw. It could be an animal, food, a place, an object, or something else you know. Then it is time to draw. Use simple lines and shapes to show your idea. When you are done, ChatGPT takes a look and makes a guess.\n\nDid it guess right? Great. Did it get it very wrong? That can be even better.\n\nDraw & Guess turns a simple sketch into a little game between you and AI. You do not need to write a long prompt. You do not need to know how AI works. Just start a round, draw, and see what happens.\n\nIt is a good game when you want something fast to do. Play one round while you wait. Play a few rounds when you are bored. Try to make a clear drawing, or make things hard for the AI on purpose. You choose how you want to play.",
+  "original_description_language": "en",
+  "summary_ja": "お題に沿って絵を描き、ChatGPTが何を描いたか当てるゲーム。",
+  "usage_tags": [
+    "お絵描き",
+    "ゲーム"
+  ],
+  "limitations_ja": "アプリ欄はお題を60秒で描くと説明。実際の動作は未検証。",
+  "official_app_name": "drawDash - Sketch Challenge!",
+  "official_name_basis": "ChatGPTのプラグイン詳細画面に表示された名称",
+  "category": "Creativity",
+  "observed_at": "2026-11-14",
+  "description_scope": "ChatGPT詳細画面の提供元の英語説明。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "詳細画面の説明と情報欄を確認。実動作、料金、品質は未検証。",
+  "catalog_status": "一覧本体との名称照合は未確認。同名・別名の同一性は未確認。"
+}
