@@ -192,6 +192,17 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 - [invideo](invideo_2026-11-15.json) — 動画のタイムライン編集や書き出しを扱う。
 - [AI Video Maker（InfoseekAI）](ai_video_maker_infoseek_2026-11-15.json) — 短い動画を制作。説明では定額契約は不要で、使用量に応じた料金が発生する。
 
+- [Visla Video Maker](visla_video_maker_2026-11-15.json) — 文書やPDFなどを基に台本とナレーション動画を作る。
+- [OpusClip: Video Editing](opusclip_video_editing_2026-11-15.json) — 動画の切り抜き・字幕編集・SNS投稿予約を扱う。
+- [VEED Video Generator](veed_video_generator_2026-11-15.json) — キャラクターと声を選んで動画を作る。
+- [Genspark AI Slides](genspark_ai_slides_2026-11-15.json) — テーマや内容からスライドを生成する。
+- [sync. labs](sync_labs_2026-11-15.json) — 動画の吹き替え・口の動きの同期や発話修正を扱う。
+- [BlitzReels](blitzreels_2026-11-15.json) — 録画から字幕付きの短い動画を編集・出力する。
+- [ImagineArt](imagineart_2026-11-15.json) — 画像・動画・音楽・広告を制作し、既存素材を編集する。
+- [Sparki](sparki_2026-11-15.json) — 手元の動画を自然言語で編集し、クラウドでレンダリングする。
+- [Tesseract（Mirage）](tesseract_mirage_2026-11-15.json) — 動画やモーショングラフィックスを制作。同名の2ページを比較。
+- [Riverside](riverside_2026-11-15.json) — 動画・ポッドキャストの編集、投稿、配信管理を扱う。
+
 ## 一覧本体との照合
 
 [名称照合の記録](catalog_name_audit_2026-11-14.json) — 詳細35件と作業ブランチの一覧3,941件を比較。34件は名前が一致、Palimpsestは一致なし。名前の一致は同一性の確定ではない。個々のJSONにある旧「照合未確認」の記載は調査時点の記録で、最新の照合結果はこの記録を参照。
