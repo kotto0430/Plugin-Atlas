@@ -1,0 +1,25 @@
+{
+  "name": "StrategyTune: Backtesting",
+  "official_app_name": "StrategyTune: Backtesting",
+  "official_name_basis": "ChatGPTのプラグイン詳細画面に表示された名称",
+  "category": "Finance",
+  "provider": "StrategyTune",
+  "version": "1.2.0",
+  "observed_at": "2026-11-14",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a6fc95ba1f0819190aa1d20ae56d0ec?category=finance",
+  "original_description": "Ask ChatGPT to backtest a trading idea and get real numbers back. \"Backtest my idea on gold for the last year.\" \"Research this strategy, write a few versions of it and test each one on 15 minute and 1 hour bars.\" \"How often does EURUSD move 10 pips in 5 minutes?\" \"Write an RSI indicator and add it to my chart.\" You describe it in plain words; ChatGPT writes the code, runs it on StrategyTune and tells you what it found.\n\nStrategyTune is a backtesting platform. Every run uses real recorded market data, tick by tick, with real bid and ask prices and no look-ahead, in a sandboxed cloud. A simple strategy backtests a year of history in seconds, so you can try an idea, change one rule and try again. Forex, crypto (BTC and ETH), gold and other commodities, and stock indices are available, plus one US stock for testing.\n\nWhat ChatGPT can do for you here:\n• Write and save strategies, chart indicators, and reusable market conditions (StrategyTune calls them signals and filters).\n• Run backtests and give you the full report: profit, drawdown, win rate, every trade. Runs are saved as sessions in your StrategyTune account.\n• Run research code over the same data: count how often something happened, measure values at specific moments, compare variants.\n• Work with the chart you have open: read bars and indicator values, add and configure indicators, mark conditions on the timeline, switch instrument or timeframe.\n• Check its own work: if an indicator it wrote looks wrong, it reads the actual numbers behind the line.\n\nOpen strategytune.com/app to see more: every backtest on the chart with its trades drawn, the Run Report with equity and drawdown charts, and tick by tick market replay at 1x to 50000x where you trade a period by hand and continue later.\n\nConnect and ask: nothing to install, no data to set up. Everything runs on historical data. The plugin does not connect to a broker, place live orders, or give investment advice.",
+  "description_scope": "ChatGPTの詳細画面で展開した提供元の英語説明",
+  "summary_ja": "過去の市場データを使い、取引アイデアのバックテストやチャート分析を行う連携。",
+  "usage_tags": [
+    "バックテスト",
+    "市場分析",
+    "プログラミング"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "limitations_ja": "提供元は過去データを使い、証券会社への接続・実注文・投資助言は行わないと説明。利用対象には外国為替、BTC・ETH、商品、株価指数とテスト用の米国株1銘柄を挙げる。",
+  "review": "詳細画面の説明を展開し末尾まで確認。データの正確性・バックテストの挙動は未検証。",
+  "catalog_status": "一覧本体との名称照合は未確認。"
+}

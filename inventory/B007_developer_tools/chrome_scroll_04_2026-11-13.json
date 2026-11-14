@@ -1,0 +1,385 @@
+{
+  "source": "Chrome ChatGPT 開発者ツール",
+  "date": "2026-11-13",
+  "method": "一覧を重ねてスクロールし表示名を目視転記。転記誤りや重複の可能性あり。",
+  "catalog_blob": "fd13ece4009fcf170733daf819bb2e7424328a60",
+  "counts": {
+    "rows": 93,
+    "matched": 1,
+    "unmatched": 92
+  },
+  "rows": [
+    {
+      "name": "ATL Sandbox",
+      "matched": false
+    },
+    {
+      "name": "MA Commander",
+      "matched": false
+    },
+    {
+      "name": "Sinch Build for Codex",
+      "matched": false
+    },
+    {
+      "name": "Stoic Video Doctor",
+      "matched": false
+    },
+    {
+      "name": "Uniquel UI Components",
+      "matched": false
+    },
+    {
+      "name": "CoMavenAI AEO",
+      "matched": false
+    },
+    {
+      "name": "Frigade Engage",
+      "matched": false
+    },
+    {
+      "name": "Preset CLI Skills",
+      "matched": false
+    },
+    {
+      "name": "Zyllio",
+      "matched": false
+    },
+    {
+      "name": "Pinecone",
+      "matched": false
+    },
+    {
+      "name": "Joxo",
+      "matched": false
+    },
+    {
+      "name": "ActiveLayer",
+      "matched": false
+    },
+    {
+      "name": "SnapVisor",
+      "matched": false
+    },
+    {
+      "name": "PartsPlan",
+      "matched": false
+    },
+    {
+      "name": "Website Launch Check",
+      "matched": false
+    },
+    {
+      "name": "Numerical Research Kit",
+      "matched": false
+    },
+    {
+      "name": "GrowthBook",
+      "matched": false
+    },
+    {
+      "name": "AI Interpretation Layer Audit™",
+      "matched": false
+    },
+    {
+      "name": "TRELAB",
+      "matched": false
+    },
+    {
+      "name": "SenderKit",
+      "matched": false
+    },
+    {
+      "name": "Total CMS",
+      "matched": false
+    },
+    {
+      "name": "EW Manim Draw",
+      "matched": false
+    },
+    {
+      "name": "API Status Check",
+      "matched": false
+    },
+    {
+      "name": "Favicon Generator",
+      "matched": false
+    },
+    {
+      "name": "GTFS Validator",
+      "matched": false
+    },
+    {
+      "name": "CyberScore",
+      "matched": false
+    },
+    {
+      "name": "Nobl9",
+      "matched": false
+    },
+    {
+      "name": "Bitrise",
+      "matched": false
+    },
+    {
+      "name": "OtaKit",
+      "matched": false
+    },
+    {
+      "name": "Wever Brief",
+      "matched": false
+    },
+    {
+      "name": "Inngest",
+      "matched": false
+    },
+    {
+      "name": "Turnpoint",
+      "matched": false
+    },
+    {
+      "name": "Chapa",
+      "matched": false
+    },
+    {
+      "name": "Deriv",
+      "matched": false
+    },
+    {
+      "name": "AEOTester",
+      "matched": false
+    },
+    {
+      "name": "Email Domain Doctor",
+      "matched": false
+    },
+    {
+      "name": "PCBKit",
+      "matched": false
+    },
+    {
+      "name": "BEON PASS",
+      "matched": false
+    },
+    {
+      "name": "Copy Design",
+      "matched": false
+    },
+    {
+      "name": "KamuiDash",
+      "matched": false
+    },
+    {
+      "name": "Website Builder",
+      "matched": true
+    },
+    {
+      "name": "SHIP",
+      "matched": false
+    },
+    {
+      "name": "SimpleBackups",
+      "matched": false
+    },
+    {
+      "name": "Velox TriFit API Docs",
+      "matched": false
+    },
+    {
+      "name": "Roar AI",
+      "matched": false
+    },
+    {
+      "name": "Roboflow",
+      "matched": false
+    },
+    {
+      "name": "Aqteron",
+      "matched": false
+    },
+    {
+      "name": "upAPI",
+      "matched": false
+    },
+    {
+      "name": "Edge Skills",
+      "matched": false
+    },
+    {
+      "name": "Offline Protocol",
+      "matched": false
+    },
+    {
+      "name": "Informática 2000 | Soporte",
+      "matched": false
+    },
+    {
+      "name": "AgentAvow",
+      "matched": false
+    },
+    {
+      "name": "Redirect Checker: 301 & Status",
+      "matched": false
+    },
+    {
+      "name": "Mjegulla",
+      "matched": false
+    },
+    {
+      "name": "Spryloom",
+      "matched": false
+    },
+    {
+      "name": "Yes2SDK",
+      "matched": false
+    },
+    {
+      "name": "is it DNS?",
+      "matched": false
+    },
+    {
+      "name": "worklore",
+      "matched": false
+    },
+    {
+      "name": "Email Spam Tester",
+      "matched": false
+    },
+    {
+      "name": "Agent Signals",
+      "matched": false
+    },
+    {
+      "name": "FlutterGo",
+      "matched": false
+    },
+    {
+      "name": "getstackrun",
+      "matched": false
+    },
+    {
+      "name": "Zovo Palette Lab",
+      "matched": false
+    },
+    {
+      "name": "OpsTruth Verification",
+      "matched": false
+    },
+    {
+      "name": "ThemeSniffer",
+      "matched": false
+    },
+    {
+      "name": "stark AI Developer Tools",
+      "matched": false
+    },
+    {
+      "name": "Shellway",
+      "matched": false
+    },
+    {
+      "name": "CrowdStrike AgentWorks",
+      "matched": false
+    },
+    {
+      "name": "Remote Arc",
+      "matched": false
+    },
+    {
+      "name": "Ari - Agent for Magento",
+      "matched": false
+    },
+    {
+      "name": "OmniSkill",
+      "matched": false
+    },
+    {
+      "name": "Matt Pocock Skills",
+      "matched": false
+    },
+    {
+      "name": "Perseo Insights",
+      "matched": false
+    },
+    {
+      "name": "Hive Axyl",
+      "matched": false
+    },
+    {
+      "name": "ajq",
+      "matched": false
+    },
+    {
+      "name": "Rungstone",
+      "matched": false
+    },
+    {
+      "name": "VibeRaven",
+      "matched": false
+    },
+    {
+      "name": "PromptingCraft.com",
+      "matched": false
+    },
+    {
+      "name": "VARUA Remote Control",
+      "matched": false
+    },
+    {
+      "name": "Cmdexa",
+      "matched": false
+    },
+    {
+      "name": "Agent Memory",
+      "matched": false
+    },
+    {
+      "name": "Database Connector",
+      "matched": false
+    },
+    {
+      "name": "ArchLang",
+      "matched": false
+    },
+    {
+      "name": "Geekflare",
+      "matched": false
+    },
+    {
+      "name": "Layzr",
+      "matched": false
+    },
+    {
+      "name": "omg apps",
+      "matched": false
+    },
+    {
+      "name": "Currents",
+      "matched": false
+    },
+    {
+      "name": "Bilt",
+      "matched": false
+    },
+    {
+      "name": "no404: Lost Traffic Recovery",
+      "matched": false
+    },
+    {
+      "name": "QueryBear",
+      "matched": false
+    },
+    {
+      "name": "Hugeicons",
+      "matched": false
+    },
+    {
+      "name": "AI SPACE",
+      "matched": false
+    },
+    {
+      "name": "Expo",
+      "matched": false
+    }
+  ]
+}

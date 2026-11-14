@@ -1,0 +1,341 @@
+{
+  "source": "Chrome ChatGPT 開発者ツール",
+  "date": "2026-11-13",
+  "method": "一覧を重ねてスクロールし表示名を目視転記。転記誤りや重複の可能性あり。",
+  "catalog_blob": "fd13ece4009fcf170733daf819bb2e7424328a60",
+  "counts": {
+    "rows": 82,
+    "matched": 0,
+    "unmatched": 82
+  },
+  "rows": [
+    {
+      "name": "Telecom District",
+      "matched": false
+    },
+    {
+      "name": "GameRelay",
+      "matched": false
+    },
+    {
+      "name": "Glossa",
+      "matched": false
+    },
+    {
+      "name": "ParallelSandbox",
+      "matched": false
+    },
+    {
+      "name": "WebTwizz",
+      "matched": false
+    },
+    {
+      "name": "VividSites",
+      "matched": false
+    },
+    {
+      "name": "Development Intelligence DIAP",
+      "matched": false
+    },
+    {
+      "name": "PathToShip",
+      "matched": false
+    },
+    {
+      "name": "Piezas",
+      "matched": false
+    },
+    {
+      "name": "Goldsky",
+      "matched": false
+    },
+    {
+      "name": "Pollen",
+      "matched": false
+    },
+    {
+      "name": "Cloady",
+      "matched": false
+    },
+    {
+      "name": "Sadakio Developer Docs",
+      "matched": false
+    },
+    {
+      "name": "Grigora",
+      "matched": false
+    },
+    {
+      "name": "CVE Intelligence by Casco",
+      "matched": false
+    },
+    {
+      "name": "Darling Runtime",
+      "matched": false
+    },
+    {
+      "name": "Hamster",
+      "matched": false
+    },
+    {
+      "name": "Mobile Dev",
+      "matched": false
+    },
+    {
+      "name": "ReviewIQ",
+      "matched": false
+    },
+    {
+      "name": "Koi Launch",
+      "matched": false
+    },
+    {
+      "name": "Usercentrics",
+      "matched": false
+    },
+    {
+      "name": "GitHits",
+      "matched": false
+    },
+    {
+      "name": "Superwall",
+      "matched": false
+    },
+    {
+      "name": "UXKIN",
+      "matched": false
+    },
+    {
+      "name": "RevenueDot",
+      "matched": false
+    },
+    {
+      "name": "BuildCheap",
+      "matched": false
+    },
+    {
+      "name": "Back4app",
+      "matched": false
+    },
+    {
+      "name": "Bencher",
+      "matched": false
+    },
+    {
+      "name": "DomScan",
+      "matched": false
+    },
+    {
+      "name": "Geocode AI",
+      "matched": false
+    },
+    {
+      "name": "MetaRun",
+      "matched": false
+    },
+    {
+      "name": "Terraform Academy",
+      "matched": false
+    },
+    {
+      "name": "Scan.now",
+      "matched": false
+    },
+    {
+      "name": "Rollcage",
+      "matched": false
+    },
+    {
+      "name": "Vansah",
+      "matched": false
+    },
+    {
+      "name": "webinvasiv Praxis-Sichtbarkeit",
+      "matched": false
+    },
+    {
+      "name": "Bridge",
+      "matched": false
+    },
+    {
+      "name": "Ybug",
+      "matched": false
+    },
+    {
+      "name": "Compound Engineering",
+      "matched": false
+    },
+    {
+      "name": "AgentMart Site Check",
+      "matched": false
+    },
+    {
+      "name": "AutoRouter",
+      "matched": false
+    },
+    {
+      "name": "GetLinkFast SEO",
+      "matched": false
+    },
+    {
+      "name": "Blck Alpaca Agentic Audit",
+      "matched": false
+    },
+    {
+      "name": "Brvvo IDE",
+      "matched": false
+    },
+    {
+      "name": "PerfBee",
+      "matched": false
+    },
+    {
+      "name": "Blueweft",
+      "matched": false
+    },
+    {
+      "name": "Kastra",
+      "matched": false
+    },
+    {
+      "name": "Codex Advisor",
+      "matched": false
+    },
+    {
+      "name": "Vibe App Scanner",
+      "matched": false
+    },
+    {
+      "name": "CodeMouse",
+      "matched": false
+    },
+    {
+      "name": "Web Validator by DigestSEO",
+      "matched": false
+    },
+    {
+      "name": "WPBay",
+      "matched": false
+    },
+    {
+      "name": "IcePanel",
+      "matched": false
+    },
+    {
+      "name": "AtlasBurn",
+      "matched": false
+    },
+    {
+      "name": "DechoNet",
+      "matched": false
+    },
+    {
+      "name": "Domain Doctor",
+      "matched": false
+    },
+    {
+      "name": "DomainCanary",
+      "matched": false
+    },
+    {
+      "name": "DoneState",
+      "matched": false
+    },
+    {
+      "name": "PIO Agent",
+      "matched": false
+    },
+    {
+      "name": "SafeGrd",
+      "matched": false
+    },
+    {
+      "name": "TurboStack",
+      "matched": false
+    },
+    {
+      "name": "Widget House Reviews",
+      "matched": false
+    },
+    {
+      "name": "Windmill",
+      "matched": false
+    },
+    {
+      "name": "Data Dolphin",
+      "matched": false
+    },
+    {
+      "name": "BusySMS",
+      "matched": false
+    },
+    {
+      "name": "ChatStack - App Cost Estimator",
+      "matched": false
+    },
+    {
+      "name": "commercetools",
+      "matched": false
+    },
+    {
+      "name": "DMXReady",
+      "matched": false
+    },
+    {
+      "name": "Fastshot",
+      "matched": false
+    },
+    {
+      "name": "Momentic",
+      "matched": false
+    },
+    {
+      "name": "Phonic",
+      "matched": false
+    },
+    {
+      "name": "TPC Benchmarks",
+      "matched": false
+    },
+    {
+      "name": "Transica",
+      "matched": false
+    },
+    {
+      "name": "viaSocket",
+      "matched": false
+    },
+    {
+      "name": "Form Backend",
+      "matched": false
+    },
+    {
+      "name": "App Builder",
+      "matched": false
+    },
+    {
+      "name": "Anti-Slop Engineering",
+      "matched": false
+    },
+    {
+      "name": "NetPilot",
+      "matched": false
+    },
+    {
+      "name": "VulKill Security",
+      "matched": false
+    },
+    {
+      "name": "Anam AI Avatars",
+      "matched": false
+    },
+    {
+      "name": "AMS",
+      "matched": false
+    },
+    {
+      "name": "GeminiLaunch",
+      "matched": false
+    }
+  ]
+}

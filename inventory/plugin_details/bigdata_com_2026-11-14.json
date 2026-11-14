@@ -1,0 +1,31 @@
+{
+  "name": "Bigdata.com",
+  "official_app_name": "Bigdata.com",
+  "official_name_basis": "ChatGPTのアプリ詳細画面に表示された名称",
+  "category": "Finance",
+  "provider": "RavenPack",
+  "version": "10.0.2",
+  "observed_at": "2026-11-14",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_69491eceef3c8191beb70788b7840429?category=finance",
+  "original_description": "Bigdata.com is the AI grounding layer for finance, bringing cited financial research directly into ChatGPT. Research stocks and companies, follow the latest news on your portfolio, and query market data, fundamentals, SEC filings, earnings call transcripts, broker and analyst research, sentiment signals, and premium news using real, citable sources.\n\nSearch billions of documents spanning 25+ years. Depending on account entitlements and source availability, coverage may include 10M+ new public news documents monthly; 200+ premium news sources such as Financial Times, Benzinga, MT Newswires, CNBC, and more; filings across 50+ countries; 30+ years of fundamentals; expert interviews; and podcasts. RavenPack's financial knowledge graph helps resolve company and entity names automatically, so a plain-language question can surface relevant filings, transcripts, news, and data. This reduces manual ticker matching and helps you verify numbers and quotes against their cited sources.\n\nBuilt for anyone making a financial decision, from individual investors researching a stock or tracking a portfolio to analysts at hedge funds, asset managers, and investment banks. Run an initiation report, compare two 10-Ks, prepare a pre-earnings or pre-FOMC briefing, track a competitor, monitor a sentiment shift as it develops, or build a sourced brief before a call, all within one grounded research workflow.\n\nGo beyond public data by bringing your own research into the picture. With appropriate permissions, upload and search private notes, internal analysis, artifacts, and files alongside public filings and market data. This combines proprietary insight with external evidence in a single query.\n\nConnect through ChatGPT without writing code. Once connected, start searching cited financial data with a plain-language prompt.\n\nSource coverage varies by account and entitlement. Bigdata.com provides research, not investment advice; review cited sources before making investment decisions.",
+  "description_scope": "ChatGPTのアプリ詳細で展開した提供元の英語説明",
+  "summary_ja": "企業情報や決算資料、ニュースなどを出典付きで調べる金融リサーチ連携。権限に応じて私有資料も検索できると説明。",
+  "usage_tags": [
+    "企業調査",
+    "金融リサーチ",
+    "投資調査",
+    "ニュース"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "limitations_ja": "利用できる情報源はアカウントの権限や情報源の提供状況に左右される。提供元は投資助言ではなく調査を提供すると説明。",
+  "review": "詳細画面の提供元の説明を展開し末尾まで確認。検索結果の正確性・アクセス権・記載されたデータ量は未検証。",
+  "catalog_status": "一覧本体との名称照合は未確認。",
+  "example_prompts": [
+    "Research NVIDIA's latest earnings using filings, transcripts, news, and company financials.",
+    "Compare the valuation, growth, and sentiment of Microsoft, Amazon, and Alphabet.",
+    "Show upcoming earnings and economic events that could affect my watchlist."
+  ]
+}

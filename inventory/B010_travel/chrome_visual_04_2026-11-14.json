@@ -1,0 +1,354 @@
+{
+  "source": "Chrome ChatGPT 旅行",
+  "date": "2026-11-14",
+  "catalog_blob": "fd13ece4009fcf170733daf819bb2e7424328a60",
+  "method": "画面を重ねてスクロールし表示名を目視転記。大文字小文字を区別せず名前を照合。",
+  "notes": "誤記・重複の可能性あり。一致は同一性、不一致は新規件数を意味しない。Cruise Itinerary右のアラビア語名は判読保留。",
+  "counts": {
+    "rows": 85,
+    "matched": 2,
+    "unmatched": 83
+  },
+  "rows": [
+    {
+      "name": "Planificador de viajes",
+      "matched": false
+    },
+    {
+      "name": "Antalya Weather & Sea",
+      "matched": false
+    },
+    {
+      "name": "Blue Pillow Hotels & Stays",
+      "matched": false
+    },
+    {
+      "name": "CaptainBook Statistics",
+      "matched": false
+    },
+    {
+      "name": "Reiseplaner: Urlaub planen",
+      "matched": false
+    },
+    {
+      "name": "Car Rental Brain",
+      "matched": false
+    },
+    {
+      "name": "CruiseHops",
+      "matched": false
+    },
+    {
+      "name": "The Vanya Adventure",
+      "matched": false
+    },
+    {
+      "name": "Rezto",
+      "matched": false
+    },
+    {
+      "name": "Cheap Flights, Hotels & eSIMs",
+      "matched": false
+    },
+    {
+      "name": "Pianificatore di viaggio",
+      "matched": false
+    },
+    {
+      "name": "Daydream Luxury Hotel Search",
+      "matched": false
+    },
+    {
+      "name": "Kompare",
+      "matched": false
+    },
+    {
+      "name": "Valopilkku",
+      "matched": false
+    },
+    {
+      "name": "Travel Videos",
+      "matched": false
+    },
+    {
+      "name": "arso.lol — Slovenian weather",
+      "matched": false
+    },
+    {
+      "name": "Bilo",
+      "matched": false
+    },
+    {
+      "name": "eSIM Grab",
+      "matched": false
+    },
+    {
+      "name": "LibrePass eSIM",
+      "matched": false
+    },
+    {
+      "name": "Takeket",
+      "matched": false
+    },
+    {
+      "name": "Tickets Ibiza",
+      "matched": false
+    },
+    {
+      "name": "Gezi ve seyahat planlayıcısı",
+      "matched": false
+    },
+    {
+      "name": "Parky: Disney & Universal",
+      "matched": false
+    },
+    {
+      "name": "Unison Transfers",
+      "matched": false
+    },
+    {
+      "name": "おもいやり介護タクシー",
+      "matched": false
+    },
+    {
+      "name": "Planer putovanja i itinerar",
+      "matched": false
+    },
+    {
+      "name": "Travorro",
+      "matched": false
+    },
+    {
+      "name": "Подорожі: планувальник поїздок",
+      "matched": false
+    },
+    {
+      "name": "Flatovo",
+      "matched": false
+    },
+    {
+      "name": "ChecklistIQ",
+      "matched": true
+    },
+    {
+      "name": "PlanMyVisit",
+      "matched": false
+    },
+    {
+      "name": "TeamOut",
+      "matched": false
+    },
+    {
+      "name": "おもいやり介護タクシー（ご案内・空き状況）",
+      "matched": false
+    },
+    {
+      "name": "Aventuro",
+      "matched": false
+    },
+    {
+      "name": "Axel",
+      "matched": true
+    },
+    {
+      "name": "Traveto",
+      "matched": false
+    },
+    {
+      "name": "Cortenoi",
+      "matched": false
+    },
+    {
+      "name": "HeyYumi 한국 식당·카페 검색·예약",
+      "matched": false
+    },
+    {
+      "name": "여행 플래너: 여행 일정 짜기",
+      "matched": false
+    },
+    {
+      "name": "Thailand Stay Plan",
+      "matched": false
+    },
+    {
+      "name": "マッサージチェア設置場所検索",
+      "matched": false
+    },
+    {
+      "name": "Lufthaven",
+      "matched": false
+    },
+    {
+      "name": "ROOTE",
+      "matched": false
+    },
+    {
+      "name": "Planer podróży: plan wycieczki",
+      "matched": false
+    },
+    {
+      "name": "Planificator de călătorii",
+      "matched": false
+    },
+    {
+      "name": "Roam Rule",
+      "matched": false
+    },
+    {
+      "name": "Be Underwater",
+      "matched": false
+    },
+    {
+      "name": "Howdy Apartments",
+      "matched": false
+    },
+    {
+      "name": "Travel Check",
+      "matched": false
+    },
+    {
+      "name": "ATA Travel",
+      "matched": false
+    },
+    {
+      "name": "London Tourist Map",
+      "matched": false
+    },
+    {
+      "name": "bookotil",
+      "matched": false
+    },
+    {
+      "name": "ChefBear",
+      "matched": false
+    },
+    {
+      "name": "K-Style Trip",
+      "matched": false
+    },
+    {
+      "name": "VTC AEROPORT PARIS",
+      "matched": false
+    },
+    {
+      "name": "Tripseki",
+      "matched": false
+    },
+    {
+      "name": "Surf Booking",
+      "matched": false
+    },
+    {
+      "name": "Tabico",
+      "matched": false
+    },
+    {
+      "name": "GdeNaPlaninu smeštaj",
+      "matched": false
+    },
+    {
+      "name": "Cerca.me",
+      "matched": false
+    },
+    {
+      "name": "Reseplanerare: skapa resplaner",
+      "matched": false
+    },
+    {
+      "name": "SaySay",
+      "matched": false
+    },
+    {
+      "name": "Jinko",
+      "matched": false
+    },
+    {
+      "name": "Opplevagent",
+      "matched": false
+    },
+    {
+      "name": "Cruise Itinerary",
+      "matched": false
+    },
+    {
+      "name": "ljbus — LPP bus arrivals",
+      "matched": false
+    },
+    {
+      "name": "Trains.fyi",
+      "matched": false
+    },
+    {
+      "name": "Путешествия: план поездки",
+      "matched": false
+    },
+    {
+      "name": "sistaminuten.se",
+      "matched": false
+    },
+    {
+      "name": "OneTravel",
+      "matched": false
+    },
+    {
+      "name": "Sedna",
+      "matched": false
+    },
+    {
+      "name": "Budva Taxi App",
+      "matched": false
+    },
+    {
+      "name": "Reiseplanlegger for ferien",
+      "matched": false
+    },
+    {
+      "name": "2LNR",
+      "matched": false
+    },
+    {
+      "name": "CamperDays",
+      "matched": false
+    },
+    {
+      "name": "트래블마트 AI여행플래너",
+      "matched": false
+    },
+    {
+      "name": "Flyin",
+      "matched": false
+    },
+    {
+      "name": "Voyages : itinéraires complets",
+      "matched": false
+    },
+    {
+      "name": "이심통",
+      "matched": false
+    },
+    {
+      "name": "NEWT（ニュート）",
+      "matched": false
+    },
+    {
+      "name": "Οργάνωση ταξιδιού: πρόγραμμα",
+      "matched": false
+    },
+    {
+      "name": "Cestování: plánovač cest",
+      "matched": false
+    },
+    {
+      "name": "Sequana Fingerprint Guide",
+      "matched": false
+    },
+    {
+      "name": "Blackbird Concierge",
+      "matched": false
+    },
+    {
+      "name": "Retreat & Be Hotels",
+      "matched": false
+    }
+  ]
+}

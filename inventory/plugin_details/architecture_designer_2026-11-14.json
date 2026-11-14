@@ -1,0 +1,27 @@
+{
+  "name": "Architecture Designer",
+  "official_app_name": "Architecture Designer",
+  "provider": "Syed Fasih Haider Raza Rizvi",
+  "version": "1.0.1",
+  "source_url": "https://chatgpt.com/plugins/plugins_6ab1f3c5e5f08191982ebd8ec38e210e?category=creativity",
+  "developer_url": "https://github.com/Fasih38/plugin-pages/blob/main/README.md",
+  "category": "Creativity",
+  "observed_at": "2026-11-14",
+  "original_description": "Plan and refine architecture, home design, interiors, and renovation projects. Create design briefs, space programs, floor plans, room layouts, facades, material palettes, lighting ideas, site concepts, accessibility and code checklists, rough cost ranges, project plans, render prompts, and design reviews. Get guidance for houses, apartments, ADUs, commercial spaces, renovations, extensions, sustainable design, landscape, presentations, and student projects. Responses may include a clearly disclosed Architecture Designer affiliate link.",
+  "original_description_language": "en",
+  "description_scope": "ChatGPT詳細画面の提供元の英語説明。",
+  "summary_ja": "建築や内装、リフォームの企画、間取り案、材料や照明、チェックリストなどを検討する。",
+  "usage_tags": [
+    "建築",
+    "間取り",
+    "内装",
+    "設計検討"
+  ],
+  "limitations_ja": "アフィリエイトリンクが回答に含まれる場合があると明記。複数スキルには各回答に開示付きリンクを付ける旨の記載がある。設計の正確性・法規への適合は未検証。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "詳細画面の説明と情報欄を確認。実動作・料金・品質は未検証。",
+  "catalog_status": "一覧本体との名称照合は未確認。同名・別名の同一性は未確認。"
+}

@@ -1,0 +1,588 @@
+{
+  "source": "教育.pdf",
+  "sha256": "55f8221b4acb622a175b4c4537221fed9bedeb0bfe364f888805f181a7d0fab7",
+  "page": 7,
+  "baseline_index_sha": "40bd858149169eeaa64708cbda961ecdacf31bce",
+  "rows": [
+    {
+      "row_id": "p07L01",
+      "name": "Learn EBM",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p07L02",
+      "name": "Học Dược",
+      "status": "画像再確認済み",
+      "match": false,
+      "review_note": "原本の拡大画像で表示名を再確認",
+      "catalog_id": "atlas-pdf-education-p07l02"
+    },
+    {
+      "row_id": "p07L03",
+      "name": "FactoGraph",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p07L04",
+      "name": "Instructional Questions",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p07L05",
+      "name": "Lapka: Cat Training & Care",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p07L06",
+      "name": "RED PAPER Plagiarism Checker",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p07L07",
+      "name": "Learning Reflection",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p07L08",
+      "name": "Kho tri thức Nghề Content",
+      "status": "画像再確認済み",
+      "match": false,
+      "review_note": "原本の拡大画像で表示名を再確認",
+      "catalog_id": "atlas-pdf-education-p07l08"
+    },
+    {
+      "row_id": "p07L09",
+      "name": "Health Educator Assistant",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p07L10",
+      "name": "PEDGI WRITER",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p07L11",
+      "name": "Cyber Library",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p07L12",
+      "name": "ATNB Assistant 2",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p07L13",
+      "name": "Lernoa",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p07L14",
+      "name": "Baely Hair Ingredient Checker",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p07L15",
+      "name": "CWS Architecture",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p07L16",
+      "name": "Lanier",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p07L17",
+      "name": "Penline Handwriting Sheets",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p07L18",
+      "name": "nDot Physics Research",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p07L19",
+      "name": "Would You Rather? Designer",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p07L20",
+      "name": "K-5 GSE Writing Generator",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p07L21",
+      "name": "Peer Feedback Criteria",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p07L22",
+      "name": "3 Context Tasks",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p07L23",
+      "name": "Feedback Helper",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p07L24",
+      "name": "Classic Audioguide",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p07L25",
+      "name": "Zovo GPA Calc",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p07L26",
+      "name": "Học Giao tiếp an toàn",
+      "status": "画像再確認済み",
+      "match": false,
+      "review_note": "原本の拡大画像で表示名を再確認",
+      "catalog_id": "atlas-pdf-education-p07l26"
+    },
+    {
+      "row_id": "p07L27",
+      "name": "Best Of Motivation",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p07L28",
+      "name": "Pledr Legal",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p07L29",
+      "name": "EYA — Enhance Your Ability",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p07L30",
+      "name": "Tự Kỷ Info",
+      "status": "画像再確認済み",
+      "match": false,
+      "review_note": "原本の拡大画像で表示名を再確認",
+      "catalog_id": "atlas-pdf-education-p07l30"
+    },
+    {
+      "row_id": "p07L31",
+      "name": "Music Tutor",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p07L32",
+      "name": "Teopoki Korean",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p07L33",
+      "name": "Tardis World History",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p07L34",
+      "name": "Simply Guitar — Chords",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p07L35",
+      "name": "Data Analyst 4HP",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p07L36",
+      "name": "AI Avatar Video",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p07L37",
+      "name": "Eval8",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p07L38",
+      "name": "School Timetable Builder",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p07L39",
+      "name": "Zovo Baby Names",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p07L40",
+      "name": "AlgoCademy Mock Interview",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p07L41",
+      "name": "MyCase.ai.in",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p07L42",
+      "name": "Zitierfest",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p07L43",
+      "name": "Easy English in Action",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p07L44",
+      "name": "Zovo Big Five Test",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p07L45",
+      "name": "Zovo Typing Test",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p07L46",
+      "name": "Basketball Assistant",
+      "status": "画像再確認済み",
+      "match": false,
+      "review_note": "原本の拡大画像で表示名を再確認",
+      "catalog_id": "atlas-pdf-education-p07l46"
+    },
+    {
+      "row_id": "p07R01",
+      "name": "GPT Learning",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p07R02",
+      "name": "Formative Assessment",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p07R03",
+      "name": "Hô hấp Info",
+      "status": "画像再確認済み",
+      "match": false,
+      "review_note": "原本の拡大画像で表示名を再確認",
+      "catalog_id": "atlas-pdf-education-p07r03"
+    },
+    {
+      "row_id": "p07R04",
+      "name": "Lexpad",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p07R05",
+      "name": "Liu Cards",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p07R06",
+      "name": "Interactify Beta",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p07R07",
+      "name": "Mynawoo: Mystery Language Game",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p07R08",
+      "name": "Synthetic Users",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p07R09",
+      "name": "klaracase",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p07R10",
+      "name": "PMP® Practice Exam",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p07R11",
+      "name": "HỌC TIÊU HÓA NHI",
+      "status": "画像再確認済み",
+      "match": false,
+      "review_note": "原本の拡大画像で表示名を再確認",
+      "catalog_id": "atlas-pdf-education-p07r11"
+    },
+    {
+      "row_id": "p07R12",
+      "name": "Chống Nhiễm Khuẩn",
+      "status": "画像再確認済み",
+      "match": false,
+      "review_note": "原本の拡大画像で表示名を再確認",
+      "catalog_id": "atlas-pdf-education-p07r12"
+    },
+    {
+      "row_id": "p07R13",
+      "name": "Collaboration Idea Generator",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p07R14",
+      "name": "Học Điều dưỡng",
+      "status": "画像再確認済み",
+      "match": false,
+      "review_note": "原本の拡大画像で表示名を再確認",
+      "catalog_id": "atlas-pdf-education-p07r14"
+    },
+    {
+      "row_id": "p07R15",
+      "name": "NeoEBM Info",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p07R16",
+      "name": "Prior Knowledge Builder",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p07R17",
+      "name": "ThesisAI",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p07R18",
+      "name": "Langua",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p07R19",
+      "name": "Project-Based Learning Engine",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p07R20",
+      "name": "Jigsaw Method",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p07R21",
+      "name": "DOK Analyzer",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p07R22",
+      "name": "Milestones ALD Aligner",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p07R23",
+      "name": "WordAI",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p07R24",
+      "name": "Nisaa",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p07R25",
+      "name": "VERZIO",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p07R26",
+      "name": "Rafmennt",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p07R27",
+      "name": "Nihongo321",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p07R28",
+      "name": "English Coaching",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p07R29",
+      "name": "SPIJ IDx",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p07R30",
+      "name": "Waste Project Evaluator",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p07R31",
+      "name": "Zovo Name Wheel",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p07R32",
+      "name": "LawLens Search",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p07R33",
+      "name": "Sữa mẹ Assistant",
+      "status": "画像再確認済み",
+      "match": false,
+      "review_note": "原本の拡大画像で表示名を再確認",
+      "catalog_id": "atlas-pdf-education-p07r33"
+    },
+    {
+      "row_id": "p07R34",
+      "name": "Insight7 Speaking Coach",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p07R35",
+      "name": "Học Tâm lý",
+      "status": "画像再確認済み",
+      "match": false,
+      "review_note": "原本の拡大画像で表示名を再確認",
+      "catalog_id": "atlas-pdf-education-p07r35"
+    },
+    {
+      "row_id": "p07R36",
+      "name": "SUN",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p07R37",
+      "name": "AIAS Advisor",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p07R38",
+      "name": "Sheet Music Analysis",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p07R39",
+      "name": "BookGuard",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p07R40",
+      "name": "Study Hiragana",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p07R41",
+      "name": "Lietuvos teisės aktai",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p07R42",
+      "name": "Học Luật",
+      "status": "画像再確認済み",
+      "match": false,
+      "review_note": "原本の拡大画像で表示名を再確認",
+      "catalog_id": "atlas-pdf-education-p07r42"
+    },
+    {
+      "row_id": "p07R43",
+      "name": "DIGG.IA: Jurídico TCU",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p07R44",
+      "name": "Synaptic Recall",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p07R45",
+      "name": "Vi sinh LS",
+      "status": "画像再確認済み",
+      "match": false,
+      "review_note": "原本の拡大画像で表示名を再確認",
+      "catalog_id": "atlas-pdf-education-p07r45"
+    },
+    {
+      "row_id": "p07R46",
+      "name": "Not So Boring News",
+      "status": "画像再確認済み",
+      "match": false,
+      "review_note": "原本の拡大画像で表示名を再確認",
+      "catalog_id": "atlas-pdf-education-p07r46"
+    }
+  ]
+}

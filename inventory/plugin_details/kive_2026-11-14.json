@@ -1,0 +1,26 @@
+{
+  "name": "Kive",
+  "provider": "Kive",
+  "version": "3.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a5f329f776c819185906fea7ed52e9d?category=creativity",
+  "developer_url": "https://kive.ai/",
+  "original_description": "Kive helps users browse saved products and creative assets, import products, choose visual styles, and create or edit on-brand product images and videos from ChatGPT.",
+  "summary_ja": "保存済みの商品や素材を参照し、ブランドに沿った商品画像・動画を作成・編集する。",
+  "usage_tags": [
+    "商品画像",
+    "動画制作",
+    "素材管理"
+  ],
+  "limitations_ja": "詳細な利用条件や対応範囲は説明だけでは不明。",
+  "official_app_name": "Kive",
+  "official_name_basis": "ChatGPTのプラグイン詳細画面に表示された名称",
+  "category": "Creativity",
+  "observed_at": "2026-11-14",
+  "description_scope": "ChatGPT詳細画面の提供元の英語説明。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "詳細画面の説明と情報欄を確認。実機能、料金、品質は未検証。",
+  "catalog_status": "一覧本体との名称照合は未確認。同名・別名の同一性は未確認。"
+}

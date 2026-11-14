@@ -1,0 +1,398 @@
+{
+  "source": "Chrome ChatGPT エンターテインメント",
+  "date": "2026-11-14",
+  "catalog_blob": "fd13ece4009fcf170733daf819bb2e7424328a60",
+  "method": "画面を重ねてスクロールし表示名を目視転記。大文字小文字を区別せず名前を照合。",
+  "notes": "誤記・重複の可能性あり。一致は同一性、不一致は新規件数を意味しない。",
+  "counts": {
+    "rows": 96,
+    "matched": 93,
+    "unmatched": 3
+  },
+  "rows": [
+    {
+      "name": "Mirror Society",
+      "matched": true
+    },
+    {
+      "name": "Tirada de Cartas",
+      "matched": true
+    },
+    {
+      "name": "idle.am",
+      "matched": true
+    },
+    {
+      "name": "xmplaylist",
+      "matched": true
+    },
+    {
+      "name": "Publica Now",
+      "matched": true
+    },
+    {
+      "name": "Setline",
+      "matched": true
+    },
+    {
+      "name": "OffStereo",
+      "matched": false
+    },
+    {
+      "name": "Ziweave",
+      "matched": true
+    },
+    {
+      "name": "Triad Astro",
+      "matched": true
+    },
+    {
+      "name": "Quilty",
+      "matched": true
+    },
+    {
+      "name": "Aetheria Online",
+      "matched": true
+    },
+    {
+      "name": "Slide15",
+      "matched": true
+    },
+    {
+      "name": "Critics Room",
+      "matched": true
+    },
+    {
+      "name": "Adin Experiences",
+      "matched": true
+    },
+    {
+      "name": "DadGPT",
+      "matched": true
+    },
+    {
+      "name": "AllSolos",
+      "matched": true
+    },
+    {
+      "name": "TNT Sweeper",
+      "matched": true
+    },
+    {
+      "name": "Mi Basket",
+      "matched": true
+    },
+    {
+      "name": "Windowisp",
+      "matched": true
+    },
+    {
+      "name": "LiveSpot",
+      "matched": true
+    },
+    {
+      "name": "ForgeMaster Player Guide",
+      "matched": true
+    },
+    {
+      "name": "Spotts - Korea Festival",
+      "matched": true
+    },
+    {
+      "name": "Distrofy Chat",
+      "matched": true
+    },
+    {
+      "name": "MTG Tools",
+      "matched": true
+    },
+    {
+      "name": "Kaeban",
+      "matched": true
+    },
+    {
+      "name": "not hotdog",
+      "matched": true
+    },
+    {
+      "name": "Angell Naruto RPG Akatsuki",
+      "matched": true
+    },
+    {
+      "name": "WhatsTheID",
+      "matched": true
+    },
+    {
+      "name": "Daily Horoscope",
+      "matched": true
+    },
+    {
+      "name": "MusicAtlas",
+      "matched": true
+    },
+    {
+      "name": "VerseDB: Comic Book Tracker",
+      "matched": true
+    },
+    {
+      "name": "Veil Tarot",
+      "matched": true
+    },
+    {
+      "name": "Storieta",
+      "matched": true
+    },
+    {
+      "name": "Hunch Tarot",
+      "matched": true
+    },
+    {
+      "name": "Genie",
+      "matched": true
+    },
+    {
+      "name": "Whim",
+      "matched": true
+    },
+    {
+      "name": "Lantern Watch",
+      "matched": true
+    },
+    {
+      "name": "CarGene",
+      "matched": true
+    },
+    {
+      "name": "RoyaleTools",
+      "matched": true
+    },
+    {
+      "name": "ioreum Saju",
+      "matched": true
+    },
+    {
+      "name": "Fart Sounds",
+      "matched": true
+    },
+    {
+      "name": "Form Guide",
+      "matched": true
+    },
+    {
+      "name": "CCUCheck",
+      "matched": false
+    },
+    {
+      "name": "Mzelo Watch Party",
+      "matched": true
+    },
+    {
+      "name": "Inkspired",
+      "matched": true
+    },
+    {
+      "name": "Show & Tell",
+      "matched": true
+    },
+    {
+      "name": "Reading Your Love",
+      "matched": true
+    },
+    {
+      "name": "Cupid",
+      "matched": false
+    },
+    {
+      "name": "thott.bot",
+      "matched": true
+    },
+    {
+      "name": "Spielogue",
+      "matched": true
+    },
+    {
+      "name": "Brain Games",
+      "matched": true
+    },
+    {
+      "name": "FindTunes",
+      "matched": true
+    },
+    {
+      "name": "Wix Events Discovery",
+      "matched": true
+    },
+    {
+      "name": "Keikibu",
+      "matched": true
+    },
+    {
+      "name": "Picsel",
+      "matched": true
+    },
+    {
+      "name": "Statz Football",
+      "matched": true
+    },
+    {
+      "name": "PadConsole",
+      "matched": true
+    },
+    {
+      "name": "TVBrain: Search Series Guides",
+      "matched": true
+    },
+    {
+      "name": "Animal Sounds",
+      "matched": true
+    },
+    {
+      "name": "Kickwise",
+      "matched": true
+    },
+    {
+      "name": "webook.com",
+      "matched": true
+    },
+    {
+      "name": "Julius: Sports Stats & Fantasy",
+      "matched": true
+    },
+    {
+      "name": "VedPatrika",
+      "matched": true
+    },
+    {
+      "name": "Cosmic Rebellion",
+      "matched": true
+    },
+    {
+      "name": "FootVal",
+      "matched": true
+    },
+    {
+      "name": "Coronet Arcade",
+      "matched": true
+    },
+    {
+      "name": "Solitaire Tavern",
+      "matched": true
+    },
+    {
+      "name": "Santa Claus",
+      "matched": true
+    },
+    {
+      "name": "ChessEver",
+      "matched": true
+    },
+    {
+      "name": "Miney",
+      "matched": true
+    },
+    {
+      "name": "ZoneFoundry for Sonos",
+      "matched": true
+    },
+    {
+      "name": "AstroZaza",
+      "matched": true
+    },
+    {
+      "name": "Planets360 Astrology",
+      "matched": true
+    },
+    {
+      "name": "Dasha.fm",
+      "matched": true
+    },
+    {
+      "name": "Authority Astrology",
+      "matched": true
+    },
+    {
+      "name": "Art Spotter",
+      "matched": true
+    },
+    {
+      "name": "Astro Yuvam",
+      "matched": true
+    },
+    {
+      "name": "Charat",
+      "matched": true
+    },
+    {
+      "name": "Birth Oracle",
+      "matched": true
+    },
+    {
+      "name": "Orbit",
+      "matched": true
+    },
+    {
+      "name": "LetterLab Word Solver",
+      "matched": true
+    },
+    {
+      "name": "Kidoo",
+      "matched": true
+    },
+    {
+      "name": "Rule Masters Arbiter",
+      "matched": true
+    },
+    {
+      "name": "GoTickets",
+      "matched": true
+    },
+    {
+      "name": "SongUp AI",
+      "matched": true
+    },
+    {
+      "name": "Mythsensus",
+      "matched": true
+    },
+    {
+      "name": "KiedyKoncert",
+      "matched": true
+    },
+    {
+      "name": "Partynado",
+      "matched": true
+    },
+    {
+      "name": "Le Rugby",
+      "matched": true
+    },
+    {
+      "name": "PartyCam",
+      "matched": true
+    },
+    {
+      "name": "Naksha Muhurat",
+      "matched": true
+    },
+    {
+      "name": "CardShow",
+      "matched": true
+    },
+    {
+      "name": "BingeTube",
+      "matched": true
+    },
+    {
+      "name": "Fincanya Kahve Falı",
+      "matched": true
+    },
+    {
+      "name": "MyDramaDB",
+      "matched": true
+    },
+    {
+      "name": "Neume",
+      "matched": true
+    }
+  ]
+}

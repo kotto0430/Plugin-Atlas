@@ -1,0 +1,386 @@
+{
+  "source": "Chrome ChatGPT 金融",
+  "date": "2026-11-14",
+  "catalog_blob": "ed517167a5188fd9018de0c4c041e146750b43b9",
+  "method": "画面を重ねてスクロールし表示名を目視転記。大文字小文字を区別せず名前を照合。",
+  "notes": "誤記・重複・異表記の可能性あり。一致は同一性、不一致は新規件数を意味しない。読めない行および綴りが曖昧な行は保留。",
+  "counts": {
+    "rows": 93,
+    "matched": 4,
+    "unmatched": 89
+  },
+  "rows": [
+    {
+      "name": "TreasurySpring",
+      "matched": false
+    },
+    {
+      "name": "Oxeye",
+      "matched": false
+    },
+    {
+      "name": "Finbar",
+      "matched": false
+    },
+    {
+      "name": "Glimps",
+      "matched": false
+    },
+    {
+      "name": "Dinzo",
+      "matched": false
+    },
+    {
+      "name": "MyCaisse",
+      "matched": false
+    },
+    {
+      "name": "Zovo Installment Planner",
+      "matched": false
+    },
+    {
+      "name": "Zovo AR Aging Report",
+      "matched": false
+    },
+    {
+      "name": "GEXStream",
+      "matched": false
+    },
+    {
+      "name": "PlugPup Sales Tax Calculator",
+      "matched": false
+    },
+    {
+      "name": "BillGrid",
+      "matched": false
+    },
+    {
+      "name": "Lukka Digital Assets Intel",
+      "matched": false
+    },
+    {
+      "name": "Immoprobe",
+      "matched": false
+    },
+    {
+      "name": "Centry Residency Tracker",
+      "matched": false
+    },
+    {
+      "name": "Tax Hero AI",
+      "matched": false
+    },
+    {
+      "name": "Allocator Agent",
+      "matched": false
+    },
+    {
+      "name": "Validis (CA)",
+      "matched": false
+    },
+    {
+      "name": "Prime",
+      "matched": false
+    },
+    {
+      "name": "Tinman AI",
+      "matched": false
+    },
+    {
+      "name": "Centry Investment Fee Check",
+      "matched": false
+    },
+    {
+      "name": "Raylu",
+      "matched": false
+    },
+    {
+      "name": "FYVLO",
+      "matched": false
+    },
+    {
+      "name": "Centry Global Tax Calendar",
+      "matched": false
+    },
+    {
+      "name": "Hubity",
+      "matched": false
+    },
+    {
+      "name": "Circlemark",
+      "matched": false
+    },
+    {
+      "name": "Pagong Korean Auctions",
+      "matched": false
+    },
+    {
+      "name": "Zovo VAT Number Check",
+      "matched": false
+    },
+    {
+      "name": "Pension alimentaire — Québec",
+      "matched": false
+    },
+    {
+      "name": "CREparser Deal Review",
+      "matched": false
+    },
+    {
+      "name": "Wendy Market Analytics",
+      "matched": false
+    },
+    {
+      "name": "Tax Numbers",
+      "matched": false
+    },
+    {
+      "name": "Zovo Bill Calendar",
+      "matched": false
+    },
+    {
+      "name": "Corridome",
+      "matched": false
+    },
+    {
+      "name": "LiquiLens",
+      "matched": false
+    },
+    {
+      "name": "줍고 Jupgo",
+      "matched": false
+    },
+    {
+      "name": "Poof Bookkeeping",
+      "matched": false
+    },
+    {
+      "name": "Validis (AU)",
+      "matched": false
+    },
+    {
+      "name": "StockFit",
+      "matched": false
+    },
+    {
+      "name": "Whop",
+      "matched": true
+    },
+    {
+      "name": "stockinsights.ai - India",
+      "matched": false
+    },
+    {
+      "name": "PipeLedger",
+      "matched": false
+    },
+    {
+      "name": "Кредитний помічник CreditKasa",
+      "matched": false
+    },
+    {
+      "name": "Pepper",
+      "matched": false
+    },
+    {
+      "name": "Riptide",
+      "matched": false
+    },
+    {
+      "name": "BlockIQ",
+      "matched": false
+    },
+    {
+      "name": "AgentCollect",
+      "matched": false
+    },
+    {
+      "name": "RetirementIQ",
+      "matched": true
+    },
+    {
+      "name": "AskTexasEnergy",
+      "matched": false
+    },
+    {
+      "name": "SplitCheck",
+      "matched": false
+    },
+    {
+      "name": "WealthCheck Financial Planner",
+      "matched": true
+    },
+    {
+      "name": "Inkle",
+      "matched": false
+    },
+    {
+      "name": "Centry IFICI Calculator",
+      "matched": false
+    },
+    {
+      "name": "Lauki EMI Calculator",
+      "matched": false
+    },
+    {
+      "name": "WS Terminal",
+      "matched": false
+    },
+    {
+      "name": "Kolleno",
+      "matched": false
+    },
+    {
+      "name": "Calculadora MEI",
+      "matched": false
+    },
+    {
+      "name": "Bilem",
+      "matched": false
+    },
+    {
+      "name": "Keyva",
+      "matched": false
+    },
+    {
+      "name": "Diligence Desk",
+      "matched": false
+    },
+    {
+      "name": "Stanovina",
+      "matched": false
+    },
+    {
+      "name": "Undertow",
+      "matched": false
+    },
+    {
+      "name": "Residency Visa Checker",
+      "matched": false
+    },
+    {
+      "name": "Scorechain",
+      "matched": false
+    },
+    {
+      "name": "SubCenter for Teams",
+      "matched": false
+    },
+    {
+      "name": "Delegance",
+      "matched": false
+    },
+    {
+      "name": "Saxo",
+      "matched": false
+    },
+    {
+      "name": "Adviser Agent",
+      "matched": false
+    },
+    {
+      "name": "Monthwe",
+      "matched": false
+    },
+    {
+      "name": "Rollee",
+      "matched": false
+    },
+    {
+      "name": "Seiche Market Atlas Corpus",
+      "matched": false
+    },
+    {
+      "name": "Invoisata",
+      "matched": false
+    },
+    {
+      "name": "Cake Equity",
+      "matched": false
+    },
+    {
+      "name": "Ma Ptite Paperasse",
+      "matched": false
+    },
+    {
+      "name": "invoiso",
+      "matched": false
+    },
+    {
+      "name": "日本高配当株図鑑200",
+      "matched": false
+    },
+    {
+      "name": "Saldin",
+      "matched": false
+    },
+    {
+      "name": "Zenit Solar",
+      "matched": false
+    },
+    {
+      "name": "Timefire",
+      "matched": false
+    },
+    {
+      "name": "Atominvest",
+      "matched": false
+    },
+    {
+      "name": "Validis (UK)",
+      "matched": false
+    },
+    {
+      "name": "NarcoScope",
+      "matched": false
+    },
+    {
+      "name": "Tabs",
+      "matched": false
+    },
+    {
+      "name": "MySSAgent",
+      "matched": false
+    },
+    {
+      "name": "DEF 14",
+      "matched": false
+    },
+    {
+      "name": "Grunda",
+      "matched": false
+    },
+    {
+      "name": "Clarity AI",
+      "matched": false
+    },
+    {
+      "name": "マネーフォワード ME",
+      "matched": false
+    },
+    {
+      "name": "AutoIQ",
+      "matched": true
+    },
+    {
+      "name": "Dubai Car Index",
+      "matched": false
+    },
+    {
+      "name": "Quant Data",
+      "matched": false
+    },
+    {
+      "name": "Zovo Per Diem Calculator",
+      "matched": false
+    },
+    {
+      "name": "obrotomierz open data",
+      "matched": false
+    },
+    {
+      "name": "Zovo GST Invoice Maker",
+      "matched": false
+    }
+  ]
+}

@@ -1,0 +1,458 @@
+{
+  "source": "Chrome ChatGPT 開発者ツール",
+  "date": "2026-11-13",
+  "method": "一覧を重ねてスクロールし表示名を目視転記。1枠は表記が読めず保留。転記誤りや重複の可能性あり。",
+  "catalog_blob": "fd13ece4009fcf170733daf819bb2e7424328a60",
+  "counts": {
+    "rows": 111,
+    "matched": 0,
+    "unmatched": 111,
+    "unreadable": 1
+  },
+  "rows": [
+    {
+      "name": "Openhandle",
+      "matched": false
+    },
+    {
+      "name": "GitDiagram",
+      "matched": false
+    },
+    {
+      "name": "Accessibility Repair",
+      "matched": false
+    },
+    {
+      "name": "Impreza Host",
+      "matched": false
+    },
+    {
+      "name": "QueryHost",
+      "matched": false
+    },
+    {
+      "name": "TokenOS Gas Tracker",
+      "matched": false
+    },
+    {
+      "name": "Not Just You",
+      "matched": false
+    },
+    {
+      "name": "Baseten",
+      "matched": false
+    },
+    {
+      "name": "TokenOS Tokenomics Designer",
+      "matched": false
+    },
+    {
+      "name": "nowyourlink Developer Docs",
+      "matched": false
+    },
+    {
+      "name": "Agentic Atlas",
+      "matched": false
+    },
+    {
+      "name": "Simple Commenter",
+      "matched": false
+    },
+    {
+      "name": "1F916",
+      "matched": false
+    },
+    {
+      "name": "CodeAgent Mobile",
+      "matched": false
+    },
+    {
+      "name": "Youmake",
+      "matched": false
+    },
+    {
+      "name": "MOOS-IvP Skills",
+      "matched": false
+    },
+    {
+      "name": "Uptimely",
+      "matched": false
+    },
+    {
+      "name": "PromptBrake Free Tools",
+      "matched": false
+    },
+    {
+      "name": "Adaption",
+      "matched": false
+    },
+    {
+      "name": "Tailor",
+      "matched": false
+    },
+    {
+      "name": "Pluno WebMCP for Anything",
+      "matched": false
+    },
+    {
+      "name": "Rill",
+      "matched": false
+    },
+    {
+      "name": "invinoveritas",
+      "matched": false
+    },
+    {
+      "name": "Seam",
+      "matched": false
+    },
+    {
+      "name": "Zenifra",
+      "matched": false
+    },
+    {
+      "name": "Fastly Agent Toolkit",
+      "matched": false
+    },
+    {
+      "name": "Echo UI",
+      "matched": false
+    },
+    {
+      "name": "GraphOS",
+      "matched": false
+    },
+    {
+      "name": "Hopper",
+      "matched": false
+    },
+    {
+      "name": "TokenOS Contract Audit",
+      "matched": false
+    },
+    {
+      "name": "Cherry Notes",
+      "matched": false
+    },
+    {
+      "name": "CubePath",
+      "matched": false
+    },
+    {
+      "name": "ego",
+      "matched": false
+    },
+    {
+      "name": "aso.best",
+      "matched": false
+    },
+    {
+      "name": "Vibsync",
+      "matched": false
+    },
+    {
+      "name": "Runway Dev",
+      "matched": false
+    },
+    {
+      "name": "mach",
+      "matched": false
+    },
+    {
+      "name": "EW AI Coding",
+      "matched": false
+    },
+    {
+      "name": "CliDeck Network Knowledge",
+      "matched": false
+    },
+    {
+      "name": "Mojulo",
+      "matched": false
+    },
+    {
+      "name": "Meeem",
+      "matched": false
+    },
+    {
+      "name": "Drive Commander for Mac",
+      "matched": false
+    },
+    {
+      "name": "MiniDroid",
+      "matched": false
+    },
+    {
+      "name": "Tavus",
+      "matched": false
+    },
+    {
+      "name": "Protogrid",
+      "matched": false
+    },
+    {
+      "name": "camelRun",
+      "matched": false
+    },
+    {
+      "name": "Ethereum (ethskills)",
+      "matched": false
+    },
+    {
+      "name": "URLMe.link",
+      "matched": false
+    },
+    {
+      "name": "Runpod",
+      "matched": false
+    },
+    {
+      "name": "CARBON Lite",
+      "matched": false
+    },
+    {
+      "name": "Embedr",
+      "matched": false
+    },
+    {
+      "name": "Symbioza",
+      "matched": false
+    },
+    {
+      "name": "Superlog",
+      "matched": false
+    },
+    {
+      "name": "AgentWorld Explorer",
+      "matched": false
+    },
+    {
+      "name": "Ronda",
+      "matched": false
+    },
+    {
+      "name": "Pipecat Context Hub",
+      "matched": false
+    },
+    {
+      "name": "Cheapest Domains",
+      "matched": false
+    },
+    {
+      "name": "Agent Relay in ChatGPT",
+      "matched": false
+    },
+    {
+      "name": "AgentDust",
+      "matched": false
+    },
+    {
+      "name": "DataRobot Skills",
+      "matched": false
+    },
+    {
+      "name": "Encore",
+      "matched": false
+    },
+    {
+      "name": "deepface.dev",
+      "matched": false
+    },
+    {
+      "name": "BaselineLab",
+      "matched": false
+    },
+    {
+      "name": "loudkit",
+      "matched": false
+    },
+    {
+      "name": "Qdrant Advisor",
+      "matched": false
+    },
+    {
+      "name": "EasyGerber",
+      "matched": false
+    },
+    {
+      "name": "Revyl",
+      "matched": false
+    },
+    {
+      "name": "Autonom",
+      "matched": false
+    },
+    {
+      "name": "Simulator.Company",
+      "matched": false
+    },
+    {
+      "name": "Cloudish",
+      "matched": false
+    },
+    {
+      "name": "Domainee",
+      "matched": false
+    },
+    {
+      "name": "AuditIn72",
+      "matched": false
+    },
+    {
+      "name": "Ultralytics YOLO",
+      "matched": false
+    },
+    {
+      "name": "nunu.ai",
+      "matched": false
+    },
+    {
+      "name": "SJ",
+      "matched": false
+    },
+    {
+      "name": "Fluenticons",
+      "matched": false
+    },
+    {
+      "name": "Corezoid",
+      "matched": false
+    },
+    {
+      "name": "Runzumi",
+      "matched": false
+    },
+    {
+      "name": "HelpTester",
+      "matched": false
+    },
+    {
+      "name": "Preset API Skills",
+      "matched": false
+    },
+    {
+      "name": "SightLab VR Assistant",
+      "matched": false
+    },
+    {
+      "name": "TanStack",
+      "matched": false
+    },
+    {
+      "name": "incident.io",
+      "matched": false
+    },
+    {
+      "name": "LemonSlice",
+      "matched": false
+    },
+    {
+      "name": "reverse engineering anything",
+      "matched": false
+    },
+    {
+      "name": "Accoil Product Tracking",
+      "matched": false
+    },
+    {
+      "name": "Recall.ai",
+      "matched": false
+    },
+    {
+      "name": "Goalmatic",
+      "matched": false
+    },
+    {
+      "name": "Adaptive Classifier",
+      "matched": false
+    },
+    {
+      "name": "mailX",
+      "matched": false
+    },
+    {
+      "name": "Volcano",
+      "matched": false
+    },
+    {
+      "name": "Relvato",
+      "matched": false
+    },
+    {
+      "name": "AppTail",
+      "matched": false
+    },
+    {
+      "name": "Heroes of AI League (HAIL)",
+      "matched": false
+    },
+    {
+      "name": "VibeDoctor",
+      "matched": false
+    },
+    {
+      "name": "agent.reviews",
+      "matched": false
+    },
+    {
+      "name": "mcprush.com",
+      "matched": false
+    },
+    {
+      "name": "CyberLens AI",
+      "matched": false
+    },
+    {
+      "name": "ZooflAI",
+      "matched": false
+    },
+    {
+      "name": "Archkeel",
+      "matched": false
+    },
+    {
+      "name": "FiraQuantumSafe",
+      "matched": false
+    },
+    {
+      "name": "HorizonX — Premium UI Library",
+      "matched": false
+    },
+    {
+      "name": "Agent Swarm",
+      "matched": false
+    },
+    {
+      "name": "Gum",
+      "matched": false
+    },
+    {
+      "name": "Accessibility Checker WCAG",
+      "matched": false
+    },
+    {
+      "name": "Aevral",
+      "matched": false
+    },
+    {
+      "name": "Logtura",
+      "matched": false
+    },
+    {
+      "name": "Domino Data Lab",
+      "matched": false
+    },
+    {
+      "name": "Remnant",
+      "matched": false
+    },
+    {
+      "name": "AI2SQL",
+      "matched": false
+    },
+    {
+      "name": "Vibe Coding Library",
+      "matched": false
+    }
+  ]
+}

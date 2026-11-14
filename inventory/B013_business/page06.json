@@ -1,0 +1,566 @@
+{
+  "source": "Business＆オペレーション.pdf",
+  "sha256": "a565a71685964a805522619ee160bc9554b980497a2766488f9329ca83b8d574",
+  "page": 6,
+  "baseline_index_sha": "c184c7047105b64fabfa35ff74aa91d16bcab85a",
+  "rows": [
+    {
+      "row_id": "p06L01",
+      "name": "Lusca",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06L02",
+      "name": "4Degrees",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06L03",
+      "name": "Pace",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06L04",
+      "name": "Sunwise",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06L05",
+      "name": "Justworks",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06L06",
+      "name": "Counter",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06L07",
+      "name": "Meteomatics Weather",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06L08",
+      "name": "Govly",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06L09",
+      "name": "Dynamoi",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06L10",
+      "name": "Calendesk",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06L11",
+      "name": "Qualisend",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06L12",
+      "name": "Krewss BI",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06L13",
+      "name": "Ribbon",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06L14",
+      "name": "Omneky",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06L15",
+      "name": "Meticulate",
+      "status": "画像照合済み",
+      "match": true
+    },
+    {
+      "row_id": "p06L16",
+      "name": "Bynn",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06L17",
+      "name": "Tariff Code Compliance",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06L18",
+      "name": "Solibo Home",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06L19",
+      "name": "Enterpret",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06L20",
+      "name": "Midlyr",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06L21",
+      "name": "Alvamitra",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06L22",
+      "name": "Gateway Tariff Calculator",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06L23",
+      "name": "Meu Rastreio",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06L24",
+      "name": "Popl",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06L25",
+      "name": "GLG",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06L26",
+      "name": "New York LLC Publication",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06L27",
+      "name": "Chat Estelar",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06L28",
+      "name": "enercity",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06L29",
+      "name": "SynPulse",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06L30",
+      "name": "ecoExperten Energieausweis",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06L31",
+      "name": "Appbot",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06L32",
+      "name": "Knottle",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06L33",
+      "name": "Qualyteam",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06L34",
+      "name": "marketingjobs.fyi",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06L35",
+      "name": "Connhex",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06L36",
+      "name": "Simmie",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06L37",
+      "name": "WASK",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06L38",
+      "name": "Velaris Basic",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06L39",
+      "name": "Lumini",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06L40",
+      "name": "HomePins",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06L41",
+      "name": "Noah",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06L42",
+      "name": "LegisGraph",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06L43",
+      "name": "Bionic Business Energy",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06L44",
+      "name": "Pattern Intelligence",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06L45",
+      "name": "Zeck",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06L46",
+      "name": "Ausschreibungsagenten.de",
+      "status": "画像再確認済み",
+      "match": false,
+      "review_note": "原本の拡大画像で表示名を確認",
+      "catalog_id": "atlas-pdf-business-p06l46"
+    },
+    {
+      "row_id": "p06R01",
+      "name": "Lightbringer",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06R02",
+      "name": "PaidSync",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06R03",
+      "name": "XAPP Analyst",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06R04",
+      "name": "Hyros",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06R05",
+      "name": "Whatalo",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06R06",
+      "name": "ZINT",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06R07",
+      "name": "Alta",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06R08",
+      "name": "LLM Pulse",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06R09",
+      "name": "DATAHILL",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06R10",
+      "name": "BrightSite",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06R11",
+      "name": "ClearPolicy",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06R12",
+      "name": "SyncMe",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06R13",
+      "name": "Nombrio",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06R14",
+      "name": "Spiffy",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06R15",
+      "name": "Reacher",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06R16",
+      "name": "Cirra AI",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06R17",
+      "name": "Dockflow",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06R18",
+      "name": "inSitu Sales",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06R19",
+      "name": "trumpet.app",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06R20",
+      "name": "Mindola",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06R21",
+      "name": "SignalSumo",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06R22",
+      "name": "AIsa GTM",
+      "status": "画面再確認済み",
+      "match": false,
+      "review_note": "ChatGPT一覧の表示文字列とPDF上の説明文が一致",
+      "catalog_id": "atlas-pdf-business-p06r22"
+    },
+    {
+      "row_id": "p06R23",
+      "name": "IQRush",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06R24",
+      "name": "Clearskies",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06R25",
+      "name": "AgentBuild",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06R26",
+      "name": "NexoRush",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06R27",
+      "name": "Kinevo",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06R28",
+      "name": "Teamspective",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06R29",
+      "name": "WhatSync for WhatsApp",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06R30",
+      "name": "iLands.io",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06R31",
+      "name": "Didit",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06R32",
+      "name": "Flexport",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06R33",
+      "name": "Famulor",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06R34",
+      "name": "Furgonetka",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06R35",
+      "name": "Trend Seeker",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06R36",
+      "name": "DealMachine",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06R37",
+      "name": "POCKET CFO",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06R38",
+      "name": "Motive",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06R39",
+      "name": "Beat Breeze",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06R40",
+      "name": "Sextaris",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06R41",
+      "name": "Asanify",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06R42",
+      "name": "VybeOS",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06R43",
+      "name": "NovaSupplier",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06R44",
+      "name": "Datapublica",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06R45",
+      "name": "Neria",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p06R46",
+      "name": "umbauter raum Immobilien",
+      "status": "画像再確認済み",
+      "match": false,
+      "review_note": "原本の拡大画像で表示名を確認",
+      "catalog_id": "atlas-pdf-business-p06r46"
+    }
+  ]
+}

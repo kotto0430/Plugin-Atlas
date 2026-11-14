@@ -1,0 +1,54 @@
+{
+  "source": "Chrome ChatGPT 金融",
+  "date": "2026-11-14",
+  "catalog_blob": "ed517167a5188fd9018de0c4c041e146750b43b9",
+  "method": "画面を重ねてスクロールし表示名を目視転記。大文字小文字を区別せず名前を照合。",
+  "notes": "Intapp Celeste はテンプレート表示。誤記・重複・異表記の可能性あり。一致は同一性、不一致は新規件数を意味しない。",
+  "counts": {
+    "rows": 10,
+    "matched": 0,
+    "unmatched": 10
+  },
+  "rows": [
+    {
+      "name": "Docyt",
+      "matched": false
+    },
+    {
+      "name": "YESbusiness",
+      "matched": false
+    },
+    {
+      "name": "Financial Tech Wiz",
+      "matched": false
+    },
+    {
+      "name": "Centry NHR Tax Calculator",
+      "matched": false
+    },
+    {
+      "name": "SnapAccruals",
+      "matched": false
+    },
+    {
+      "name": "PredictionMarketsPicks",
+      "matched": false
+    },
+    {
+      "name": "Fintent.ai",
+      "matched": false
+    },
+    {
+      "name": "IPOInsider",
+      "matched": false
+    },
+    {
+      "name": "Signal8",
+      "matched": false
+    },
+    {
+      "name": "Intapp Celeste",
+      "matched": false
+    }
+  ]
+}

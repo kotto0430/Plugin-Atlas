@@ -1,0 +1,31 @@
+{
+  "name": "Third Bridge",
+  "official_app_name": "Third Bridge",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Finance",
+  "provider": "Third Bridge Group",
+  "version": "4.0.0",
+  "observed_at": "2026-11-14",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6983505f8b9c8191a2e6f104325b1f20?category=finance",
+  "developer_url": "https://www.thirdbridge.com/",
+  "privacy_url": "https://www.thirdbridge.com/en-us/about-us/compliance/policies/privacy-policy",
+  "original_description": "Seamlessly incorporate critical context and trusted insights from industry experts as part of your financial and business analysis. Refocus on extracting high-quality, reliable information by querying Third Bridge’s best-in-class substantial Library of expert content and data.\nOur MCP systematically and securely instructs Large Language Models (LLMs) to query insights from our database into their systems, streamlining your workflows and improving your output.",
+  "description_scope": "詳細ページ本文の英語説明",
+  "summary_ja": "Third Bridgeの専門家コンテンツやデータを検索し、企業・金融分析の参考情報を得るための連携。",
+  "usage_tags": [
+    "企業調査",
+    "市場調査",
+    "専門家情報"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "example_prompts": [
+    "Competitive analysis based on Third Bridge expert network transcripts",
+    "Investment conclusion based Third Bridge expert network transcripts",
+    "Expert insights with citations to Third Bridge transcript sources"
+  ],
+  "review": "詳細画面を下まで確認。情報の信頼性に関する表現は提供元の主張であり、動作・契約・料金・地域は未検証。",
+  "catalog_status": "一覧本体に Third Bridge の名前あり。"
+}

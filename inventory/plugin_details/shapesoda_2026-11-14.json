@@ -1,0 +1,27 @@
+{
+  "name": "Shapesoda",
+  "provider": "Shapesoda",
+  "version": "1.0.1",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6acd72013da48191a8f6a753ee991068?category=creativity",
+  "developer_url": "https://shapesoda.com/",
+  "original_description": "Vectorize images: PNG/JPG to SVG, PDF, EPS, DXF.\n\nAttach a logo, icon, illustration, sticker or scan and ask Shapesoda to make it a vector. Shapesoda traces the image into clean shapes with exact colors and shows the result right in the chat: a before/after slider, the size and number of colors, and buttons to download SVG, PDF, EPS, DXF or PNG or copy the SVG code.\n\nIn the Shapesoda window you can change the settings and see the result update: image type (artwork, sharp pixel art, photo), input quality, transparent background (keep, white or a color), number of colors (two colors, a fixed palette you edit, or unlimited) and smoothness. \"Open in editor\" continues on shapesoda.com with the full editor.\n\nWho it is for: designers, marketers, makers and small businesses who need a logo as SVG for a website or Figma, a cut file for Cricut, Silhouette or a vinyl cutter, a DXF for laser cutting, or a PDF/EPS for a print shop.\n\nLimitations: Shapesoda converts existing raster images; it does not generate new images, edit photos or upscale. Input formats: PNG, JPEG, WebP, BMP, GIF and TIFF up to 10 MB; large images are downscaled to about 4 megapixels. Results and the uploaded file are kept for 24 hours and then deleted; images are never used to train models. Photos can be vectorized, but the result is a stylized vector, not a photo.",
+  "summary_ja": "既存画像をSVG・PDF・EPS・DXFなどに変換し、色や背景を調整する。",
+  "usage_tags": [
+    "SVG",
+    "画像変換",
+    "ロゴ",
+    "印刷"
+  ],
+  "limitations_ja": "新規画像生成や拡大は対象外。入力は最大10 MB、大きい画像は約400万画素に縮小と説明。アップロード画像と結果は24時間後に削除、学習には使わないとの提供元の説明で、未検証。",
+  "official_app_name": "Shapesoda",
+  "official_name_basis": "ChatGPTのプラグイン詳細画面に表示された名称",
+  "category": "Creativity",
+  "observed_at": "2026-11-14",
+  "description_scope": "ChatGPT詳細画面の提供元の英語説明。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "詳細画面の説明と情報欄を確認。実動作、料金、品質は未検証。",
+  "catalog_status": "一覧本体との名称照合は未確認。同名・別名の同一性は未確認。"
+}

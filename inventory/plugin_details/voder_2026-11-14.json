@@ -1,0 +1,26 @@
+{
+  "name": "VODER",
+  "official_app_name": "VODER",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Finance",
+  "provider": "Windy Road Technology",
+  "version": "2.2.0",
+  "observed_at": "2026-11-14",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a1e356769c08191b9fcfa76e35ef142?category=finance",
+  "developer_url": "https://voder.ai/",
+  "privacy_url": "https://voder.ai/privacy/",
+  "original_description": "Your books, in plain English. Connect Xero, FreshBooks, MYOB or QuickBooks Online (QBO) to VODER. Ask about cash, invoices, payments and financial reports in ChatGPT, without hunting through accounting screens.",
+  "description_scope": "詳細ページ本文の英語説明",
+  "summary_ja": "Xeroなどの会計サービスを連携し、現金・請求書・支払い・財務レポートについてChatGPTに質問できる。",
+  "usage_tags": [
+    "会計",
+    "請求書",
+    "財務レポート"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "詳細画面を下まで確認。説明に基づく記録で、実際の動作・料金・利用地域は未検証。",
+  "catalog_status": "一覧本体に VODER の名前あり。"
+}

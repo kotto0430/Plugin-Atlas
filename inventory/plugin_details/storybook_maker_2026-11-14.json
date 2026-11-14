@@ -1,0 +1,26 @@
+{
+  "name": "Storybook Maker",
+  "official_app_name": "Storybook Maker",
+  "provider": "MegaScenes",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6af37d10d5c081919b63aedd19ce5df6?category=creativity",
+  "developer_url": "https://megascenes.com/",
+  "category": "Creativity",
+  "observed_at": "2026-11-14",
+  "original_description": "Write a short story in the chat with ChatGPT, a few pages with characters of your own, then illustrate it one page at a time: say what happens on the page, who the characters are and the style, soft watercolor, bold flat colors or colored pencil. From the second page on, the first page is passed as a reference so the characters and the style stay the same. You get one illustrated page per run, landscape, portrait or square.\n\nThe text of the story stays in the chat, not on the pictures, so you can set it under each page in the layout you like.\n\nChatGPT tells you what each page needs and makes it in your MegaScenes account when you ask. The pages open in the chat and stay in your library.\n\nFor parents, grandparents and teachers making a story of their own, for bedtime, a gift or a class project.\n\nLimitations: one illustrated page per run, without the story text on it; original characters only, not characters or brands owned by others. It does not print or bind the book. Making a file needs a signed-in MegaScenes account and runs in it; nothing is made until you confirm. Not for sexual or adult content or for real people's likeness. Files are made by generative models and saved in your MegaScenes library.",
+  "original_description_language": "en",
+  "description_scope": "ChatGPT詳細画面の提供元の英語説明。",
+  "summary_ja": "短い物語の挿絵を1ページずつ生成し、絵本制作を支援する。",
+  "usage_tags": [
+    "絵本",
+    "創作",
+    "画像生成"
+  ],
+  "limitations_ja": "物語の文章は画像には入らずチャットに残る。1回1ページで、印刷・製本はしないと説明。MegaScenesへのサインインと生成前確認が必要。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "詳細画面の説明と情報欄を確認。実動作、料金、品質、権利条件は未検証。",
+  "catalog_status": "一覧本体との名称照合は未確認。同名・別名の同一性は未確認。"
+}

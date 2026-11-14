@@ -1,0 +1,25 @@
+{
+  "name": "Coloring Pages by Abracadabrax",
+  "official_app_name": "Coloring Pages by Abracadabrax",
+  "provider": "Abracadabrax",
+  "version": "1.0.1",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac1279377308191abd7020478fe16d8?category=creativity",
+  "developer_url": "https://abracadabrax.app/",
+  "category": "Creativity",
+  "observed_at": "2026-11-14",
+  "original_description": "Describe a subject or a scene and get a printable coloring page: black outlines on white, closed shapes ready to color and no shading. The line detail follows who is coloring: big simple shapes for toddlers, a moderate amount of detail for kids, intricate patterns for adults.\n\nThe plugin prepares a draft with the line detail, a plain or scene background, the page format and the image model. When you confirm, Abracadabrax renders the page and ChatGPT returns the link to the image, ready to print.\n\nFor parents, teachers and anyone who enjoys coloring.\n\nLimitations: pages from text only. It does not turn your own photo or drawing into a coloring page or color it in. Producing needs a signed-in Abracadabrax account. If you are not signed in, the plugin gives a link where the same draft opens on Abracadabrax. Outputs are AI-generated.",
+  "original_description_language": "en",
+  "summary_ja": "文章から、対象年齢に合わせた線の細かさの印刷用塗り絵を作る。",
+  "usage_tags": [
+    "塗り絵",
+    "教育",
+    "画像生成"
+  ],
+  "limitations_ja": "手持ちの写真や絵を塗り絵に変換する機能、着色は対象外と説明。 生成にはAbracadabraxへのサインインと生成前の確認が必要と説明。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "詳細画面の説明と情報欄を確認。実動作・料金・品質・権利条件は未検証。",
+  "catalog_status": "一覧本体との名称照合は未確認。同名・別名の同一性は未確認。"
+}

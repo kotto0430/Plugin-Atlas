@@ -1,0 +1,27 @@
+{
+  "name": "RunComfy",
+  "provider": "Inceptions AI INC",
+  "version": "1.0.9",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ad0f7cfc6f08191acee50916043f84b?category=creativity",
+  "developer_url": "https://www.runcomfy.com/",
+  "original_description": "Run ComfyUI workflows on a cloud GPU, generate and edit AI images and videos, and train custom LoRA models with RunComfy in ChatGPT. Start with a workflow JSON, a text prompt, an image, or your own training dataset.\nWith RunComfy, you can:\n• Run your ComfyUI workflows in the cloud. Review inputs, adjust supported settings for each run, and create content without managing a local GPU setup.\n• Generate and edit AI images from a text prompt or your own photos with a range of image models. Create product visuals, explore different styles, and bring creative concepts to life.\n• Create AI videos from text, images and reference clips with a range of video models. Use reference images, video and audio to explore different looks and turn creative ideas into motion.\n• Make finished marketing and content pieces with guided workflows: product review, unboxing and try-on videos, static ads from product research, new video ads from a reference ad, headline tests, ad resizing and narrated explainers.\n• Train custom LoRA models with your own images and captions. Prepare datasets, start training jobs, and follow their progress.\n• Track your workflow runs, image and video generations, and training jobs. Retrieve generated media and available training files when they're ready.\nConnect your RunComfy account to get started.",
+  "summary_ja": "クラウドでComfyUIのワークフローを実行し、画像・動画の生成や独自LoRAの学習を行う。",
+  "usage_tags": [
+    "画像生成",
+    "動画制作",
+    "ComfyUI",
+    "LoRA"
+  ],
+  "limitations_ja": "RunComfyアカウントが必要。アプリ欄ではホスト型生成の操作はテキストから画像、画像から動画の2種と説明。保存済みワークフローは事前に存在する必要がある。",
+  "official_app_name": "RunComfy",
+  "official_name_basis": "ChatGPTのプラグイン詳細画面に表示された名称",
+  "category": "Creativity",
+  "observed_at": "2026-11-14",
+  "description_scope": "ChatGPT詳細画面の提供元の英語説明。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "詳細画面の説明と情報欄を確認。実機能、料金、品質は未検証。",
+  "catalog_status": "一覧本体との名称照合は未確認。同名・別名の同一性は未確認。"
+}

@@ -1,0 +1,421 @@
+{
+  "source": "Chrome ChatGPT データと分析",
+  "date": "2026-11-13",
+  "method": "画面を重ねてスクロールし表示名を目視転記。転記ミスや重複の可能性あり。",
+  "catalog_blob": "fd13ece4009fcf170733daf819bb2e7424328a60",
+  "counts": {
+    "rows": 102,
+    "matched": 1,
+    "unmatched": 101
+  },
+  "rows": [
+    {
+      "name": "Nectar",
+      "matched": false
+    },
+    {
+      "name": "AVA Golf",
+      "matched": false
+    },
+    {
+      "name": "HasData",
+      "matched": false
+    },
+    {
+      "name": "GovBot Environmental Context",
+      "matched": false
+    },
+    {
+      "name": "Metrifyr",
+      "matched": false
+    },
+    {
+      "name": "Reos",
+      "matched": false
+    },
+    {
+      "name": "Streaming Radar",
+      "matched": false
+    },
+    {
+      "name": "Rynda",
+      "matched": false
+    },
+    {
+      "name": "Call Trace",
+      "matched": false
+    },
+    {
+      "name": "Bikky",
+      "matched": false
+    },
+    {
+      "name": "TOISE",
+      "matched": false
+    },
+    {
+      "name": "Sisense",
+      "matched": false
+    },
+    {
+      "name": "Datalastic",
+      "matched": false
+    },
+    {
+      "name": "GCC Car Deals",
+      "matched": false
+    },
+    {
+      "name": "Busibee",
+      "matched": false
+    },
+    {
+      "name": "Cap Dramas",
+      "matched": false
+    },
+    {
+      "name": "d8a.tech",
+      "matched": false
+    },
+    {
+      "name": "Fundable",
+      "matched": false
+    },
+    {
+      "name": "SEO & GEO by HYPD AI",
+      "matched": false
+    },
+    {
+      "name": "Noibu",
+      "matched": false
+    },
+    {
+      "name": "PolyScan",
+      "matched": false
+    },
+    {
+      "name": "Ranksy",
+      "matched": false
+    },
+    {
+      "name": "Zovo PDF to Spreadsheet",
+      "matched": false
+    },
+    {
+      "name": "Victron",
+      "matched": false
+    },
+    {
+      "name": "Zappush",
+      "matched": false
+    },
+    {
+      "name": "EatWithMe",
+      "matched": false
+    },
+    {
+      "name": "Macro Lab",
+      "matched": false
+    },
+    {
+      "name": "TipMaster Soccer Predictions",
+      "matched": false
+    },
+    {
+      "name": "Trendhaus",
+      "matched": false
+    },
+    {
+      "name": "AbstractMetrics",
+      "matched": false
+    },
+    {
+      "name": "TrustSEO",
+      "matched": false
+    },
+    {
+      "name": "DataFluxor",
+      "matched": false
+    },
+    {
+      "name": "Apptiller",
+      "matched": false
+    },
+    {
+      "name": "ASOMobile: ASO Tool for Apps",
+      "matched": false
+    },
+    {
+      "name": "Bloomy Earth Plant Trees",
+      "matched": false
+    },
+    {
+      "name": "BRF-Rapporten",
+      "matched": false
+    },
+    {
+      "name": "CockroachDB",
+      "matched": false
+    },
+    {
+      "name": "Estimatiz",
+      "matched": false
+    },
+    {
+      "name": "Maplith",
+      "matched": false
+    },
+    {
+      "name": "PampaIA.AR",
+      "matched": false
+    },
+    {
+      "name": "Spiderlook",
+      "matched": false
+    },
+    {
+      "name": "Applyra",
+      "matched": false
+    },
+    {
+      "name": "Bloki.si",
+      "matched": false
+    },
+    {
+      "name": "Húsasjá",
+      "matched": false
+    },
+    {
+      "name": "Kliqo AI",
+      "matched": false
+    },
+    {
+      "name": "Adzviser Sprout Social",
+      "matched": false
+    },
+    {
+      "name": "Arvor Eleições",
+      "matched": false
+    },
+    {
+      "name": "Boring Data Platform",
+      "matched": false
+    },
+    {
+      "name": "Detrics",
+      "matched": false
+    },
+    {
+      "name": "DrUrls",
+      "matched": false
+    },
+    {
+      "name": "GeoRetina AI",
+      "matched": false
+    },
+    {
+      "name": "GovBot Public Lands & Wildfire",
+      "matched": false
+    },
+    {
+      "name": "KO Data",
+      "matched": false
+    },
+    {
+      "name": "PDFHost",
+      "matched": false
+    },
+    {
+      "name": "Reporting Ninja",
+      "matched": false
+    },
+    {
+      "name": "SAGI Consultas",
+      "matched": false
+    },
+    {
+      "name": "Laurence",
+      "matched": false
+    },
+    {
+      "name": "EnergyInCloud",
+      "matched": false
+    },
+    {
+      "name": "Feedbaq",
+      "matched": false
+    },
+    {
+      "name": "Voris - Human & AI Analytics",
+      "matched": false
+    },
+    {
+      "name": "ScaleSKUs",
+      "matched": false
+    },
+    {
+      "name": "クラシェルジュ-電気料金比較",
+      "matched": false
+    },
+    {
+      "name": "Altertable",
+      "matched": false
+    },
+    {
+      "name": "Reva Intel",
+      "matched": false
+    },
+    {
+      "name": "Visier Query",
+      "matched": false
+    },
+    {
+      "name": "Brand UP",
+      "matched": false
+    },
+    {
+      "name": "SERPHub",
+      "matched": false
+    },
+    {
+      "name": "Cleverbridge",
+      "matched": false
+    },
+    {
+      "name": "Adzviser Search Console",
+      "matched": false
+    },
+    {
+      "name": "TrueWatch",
+      "matched": false
+    },
+    {
+      "name": "Snowflake",
+      "matched": true
+    },
+    {
+      "name": "Kabo",
+      "matched": false
+    },
+    {
+      "name": "Attest",
+      "matched": false
+    },
+    {
+      "name": "Power My Analytics",
+      "matched": false
+    },
+    {
+      "name": "Norg.AI Retrievability AEO GEO",
+      "matched": false
+    },
+    {
+      "name": "クラシェルジュ-光回線比較",
+      "matched": false
+    },
+    {
+      "name": "Dinn Pharma Stock",
+      "matched": false
+    },
+    {
+      "name": "Plugins Radar",
+      "matched": false
+    },
+    {
+      "name": "Semantika",
+      "matched": false
+    },
+    {
+      "name": "Blinkfire",
+      "matched": false
+    },
+    {
+      "name": "Adzviser Microsoft Ads",
+      "matched": false
+    },
+    {
+      "name": "Knowi",
+      "matched": false
+    },
+    {
+      "name": "BigQuery",
+      "matched": false
+    },
+    {
+      "name": "中央社新聞 CNA TAIWAN NEWS",
+      "matched": false
+    },
+    {
+      "name": "Oracle Analytics",
+      "matched": false
+    },
+    {
+      "name": "Polyarchy Company Filings",
+      "matched": false
+    },
+    {
+      "name": "WeProfit",
+      "matched": false
+    },
+    {
+      "name": "Optimal Sports Projections",
+      "matched": false
+    },
+    {
+      "name": "Isoligne",
+      "matched": false
+    },
+    {
+      "name": "Adzviser MNTN",
+      "matched": false
+    },
+    {
+      "name": "Propush.me",
+      "matched": false
+    },
+    {
+      "name": "SolarScope",
+      "matched": false
+    },
+    {
+      "name": "Henneth",
+      "matched": false
+    },
+    {
+      "name": "Round to Range",
+      "matched": false
+    },
+    {
+      "name": "Shruwd",
+      "matched": false
+    },
+    {
+      "name": "Adzviser Search Ads 360",
+      "matched": false
+    },
+    {
+      "name": "Vistear",
+      "matched": false
+    },
+    {
+      "name": "Octohog UGC Creator Finder",
+      "matched": false
+    },
+    {
+      "name": "HYPD.AI Search Ads",
+      "matched": false
+    },
+    {
+      "name": "Promvia",
+      "matched": false
+    },
+    {
+      "name": "WatchMyCompetitor",
+      "matched": false
+    },
+    {
+      "name": "ClosedLoop AI",
+      "matched": false
+    }
+  ]
+}

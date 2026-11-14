@@ -1,0 +1,27 @@
+{
+  "name": "StoryCrest",
+  "official_app_name": "StoryCrest",
+  "provider": "StoryCrest",
+  "version": "1.0.1",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6adaa47e30fc819192166eb2d7228704?category=creativity",
+  "developer_url": "https://storycrestbooks.com/",
+  "category": "Creativity",
+  "observed_at": "2026-11-14",
+  "original_description": "Turn your child into the hero of their own printed picture book.\n\nTell ChatGPT your child's first name, what they love and any occasion. Build their character right in the chat (skin colour, hair, glasses, freckles), pick an art style, and StoryCrest draws the real cover and writes the story outline so you can see exactly what you are getting. Ask for changes in plain words and get a new cover.\n\nWhen you are happy, order the finished book as an 8.5\" × 8.5\" hardcover on storycrestbooks.com. After you order, every page is illustrated with your character in the style you chose, then the book is printed and shipped to you, in most countries worldwide.\n\nStoryCrest is for parents, guardians and gift-givers. No photos or birthdays are needed: just a first name and a few drawing choices.",
+  "original_description_language": "en",
+  "description_scope": "読み込み中の詳細画面で確認できた英語説明の抜粋。続きを含む完全性は未確認。",
+  "summary_ja": "子どもを主人公にした絵本の表紙・あらすじを作り、外部サイトで印刷本を注文できる。",
+  "usage_tags": [
+    "絵本",
+    "ギフト",
+    "出版"
+  ],
+  "limitations_ja": "表紙と概要を確認でき、全ページの挿絵・製本・発送は注文後と説明。料金と対象地域は未検証。画面読み込み中に取得したため説明は確認できた範囲の抜粋。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証",
+    "説明全文未確認"
+  ],
+  "review": "2026-11-14に詳細画面を確認。実動作・料金・品質・権利条件は未検証。2026-11-15に記録を保存。",
+  "catalog_status": "一覧本体との名称照合は未確認。同名・別名の同一性は未確認。"
+}

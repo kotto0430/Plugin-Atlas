@@ -1,0 +1,27 @@
+{
+  "name": "Amazing Drawing",
+  "provider": "Spheric Admin Ltd",
+  "version": "2.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_69b3fa2f8680819187f5a6029f0b11fc?category=creativity",
+  "developer_url": "https://www.widget.olutely.com/",
+  "original_description": "The best way to draw with ChatGPT!\n\nDraw whatever you want, then talk to ChatGPT about it!\n\ne.g.\n- \"Let me draw a diagram so I can explain with @Amazing Drawing\"\n- \"I want to sketch a logo with @Amazing Drawing, then you generate a finished image from it\"\n- \"Let's play a game with @Amazing Drawing. Guess what I draw.\"\n- \"I want to use @Amazing Drawing to show you my planned layout, and you can tell me what you think.\"\n- \"@Amazing Drawing, analyze this sketch.\"",
+  "original_description_language": "en",
+  "summary_ja": "絵や図を描き、ChatGPTに説明・分析・感想などを依頼する。",
+  "usage_tags": [
+    "お絵描き",
+    "スケッチ",
+    "図解"
+  ],
+  "limitations_ja": "説明は利用例であり、描画機能や画像生成の具体的な条件は未検証。",
+  "official_app_name": "Amazing Drawing",
+  "official_name_basis": "ChatGPTのプラグイン詳細画面に表示された名称",
+  "category": "Creativity",
+  "observed_at": "2026-11-14",
+  "description_scope": "ChatGPT詳細画面の提供元の英語説明。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "詳細画面の説明と情報欄を確認。実動作、料金、品質は未検証。",
+  "catalog_status": "一覧本体との名称照合は未確認。同名・別名の同一性は未確認。"
+}

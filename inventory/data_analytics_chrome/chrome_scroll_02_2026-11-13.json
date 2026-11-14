@@ -1,0 +1,333 @@
+{
+  "source": "Chrome ChatGPT データと分析",
+  "date": "2026-11-13",
+  "method": "画面を重ねてスクロールし表示名を目視転記。転記ミスや重複の可能性あり。",
+  "catalog_blob": "fd13ece4009fcf170733daf819bb2e7424328a60",
+  "counts": {
+    "rows": 80,
+    "matched": 0,
+    "unmatched": 80
+  },
+  "rows": [
+    {
+      "name": "Human Forward Findability",
+      "matched": false
+    },
+    {
+      "name": "ClientReport",
+      "matched": false
+    },
+    {
+      "name": "DunkAPI",
+      "matched": false
+    },
+    {
+      "name": "1102tools for Federal Register",
+      "matched": false
+    },
+    {
+      "name": "Le Confidant",
+      "matched": false
+    },
+    {
+      "name": "NAVINES IQ Seller Insights",
+      "matched": false
+    },
+    {
+      "name": "Korzaro",
+      "matched": false
+    },
+    {
+      "name": "LISMOA",
+      "matched": false
+    },
+    {
+      "name": "NAVINES IQ Ads",
+      "matched": false
+    },
+    {
+      "name": "Sovrnti",
+      "matched": false
+    },
+    {
+      "name": "Manifold marketing data",
+      "matched": false
+    },
+    {
+      "name": "1102tools for Regulations.gov",
+      "matched": false
+    },
+    {
+      "name": "Netzero for Powerwall",
+      "matched": false
+    },
+    {
+      "name": "Zovo Spreadsheet Compare",
+      "matched": false
+    },
+    {
+      "name": "Adzviser Amazon Ads",
+      "matched": false
+    },
+    {
+      "name": "StringSpec",
+      "matched": false
+    },
+    {
+      "name": "Review Expert",
+      "matched": false
+    },
+    {
+      "name": "Rumbo",
+      "matched": false
+    },
+    {
+      "name": "PredictionScan",
+      "matched": false
+    },
+    {
+      "name": "Caprail",
+      "matched": false
+    },
+    {
+      "name": "Adzviser Shopify",
+      "matched": false
+    },
+    {
+      "name": "SMARTe",
+      "matched": false
+    },
+    {
+      "name": "GrantData",
+      "matched": false
+    },
+    {
+      "name": "Acquisition.gov by 1102tools",
+      "matched": false
+    },
+    {
+      "name": "Egantic",
+      "matched": false
+    },
+    {
+      "name": "Zorro AI",
+      "matched": false
+    },
+    {
+      "name": "free100leads.com",
+      "matched": false
+    },
+    {
+      "name": "Adzviser Snapchat Ads",
+      "matched": false
+    },
+    {
+      "name": "EndzoneAPI",
+      "matched": false
+    },
+    {
+      "name": "SARA by Aitomic",
+      "matched": false
+    },
+    {
+      "name": "Rotaract Insights",
+      "matched": false
+    },
+    {
+      "name": "Water Investment Navigator",
+      "matched": false
+    },
+    {
+      "name": "Toklytics",
+      "matched": false
+    },
+    {
+      "name": "Contextflo",
+      "matched": false
+    },
+    {
+      "name": "Fospha [EMEA & APAC]",
+      "matched": false
+    },
+    {
+      "name": "Geckoboard",
+      "matched": false
+    },
+    {
+      "name": "StrikerAPI",
+      "matched": false
+    },
+    {
+      "name": "MarketPulse Restaurant Prices",
+      "matched": false
+    },
+    {
+      "name": "Pretture ERP AI",
+      "matched": false
+    },
+    {
+      "name": "Proofsource",
+      "matched": false
+    },
+    {
+      "name": "AnalyticsLog",
+      "matched": false
+    },
+    {
+      "name": "Evlek",
+      "matched": false
+    },
+    {
+      "name": "GovIntel",
+      "matched": false
+    },
+    {
+      "name": "GovBot Earthquakes/Landslides",
+      "matched": false
+    },
+    {
+      "name": "Dataiku Headless",
+      "matched": false
+    },
+    {
+      "name": "Coco Watcherdog",
+      "matched": false
+    },
+    {
+      "name": "DomainKits",
+      "matched": false
+    },
+    {
+      "name": "naia GEO",
+      "matched": false
+    },
+    {
+      "name": "OpenTrack",
+      "matched": false
+    },
+    {
+      "name": "Panther",
+      "matched": false
+    },
+    {
+      "name": "Puddle",
+      "matched": false
+    },
+    {
+      "name": "SerialHunt",
+      "matched": false
+    },
+    {
+      "name": "SESAM",
+      "matched": false
+    },
+    {
+      "name": "RxIQ",
+      "matched": false
+    },
+    {
+      "name": "DBHub",
+      "matched": false
+    },
+    {
+      "name": "Nonprofit Benchmark",
+      "matched": false
+    },
+    {
+      "name": "Priceluma: Compare Prices",
+      "matched": false
+    },
+    {
+      "name": "ChannelzIQ",
+      "matched": false
+    },
+    {
+      "name": "Tokrate",
+      "matched": false
+    },
+    {
+      "name": "InternetData",
+      "matched": false
+    },
+    {
+      "name": "AdTarget",
+      "matched": false
+    },
+    {
+      "name": "AskWatch for Search Console",
+      "matched": false
+    },
+    {
+      "name": "Strateego.ai",
+      "matched": false
+    },
+    {
+      "name": "Unfetch",
+      "matched": false
+    },
+    {
+      "name": "FighterAPI",
+      "matched": false
+    },
+    {
+      "name": "La Grande Carte",
+      "matched": false
+    },
+    {
+      "name": "SEO Cockpit",
+      "matched": false
+    },
+    {
+      "name": "Watchletic",
+      "matched": false
+    },
+    {
+      "name": "GovBot Disaster History",
+      "matched": false
+    },
+    {
+      "name": "BirdieAPI",
+      "matched": false
+    },
+    {
+      "name": "MOOSYC",
+      "matched": false
+    },
+    {
+      "name": "Mavvrik",
+      "matched": false
+    },
+    {
+      "name": "PatchOps",
+      "matched": false
+    },
+    {
+      "name": "Implisense",
+      "matched": false
+    },
+    {
+      "name": "Resell Pro",
+      "matched": false
+    },
+    {
+      "name": "GovBot Tides & Terrain",
+      "matched": false
+    },
+    {
+      "name": "FastballAPI",
+      "matched": false
+    },
+    {
+      "name": "AcesAPI",
+      "matched": false
+    },
+    {
+      "name": "AdBeacon",
+      "matched": false
+    },
+    {
+      "name": "Otter",
+      "matched": false
+    }
+  ]
+}

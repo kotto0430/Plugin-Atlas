@@ -1,0 +1,438 @@
+{
+  "source": "Chrome ChatGPT 旅行",
+  "date": "2026-11-14",
+  "catalog_blob": "fd13ece4009fcf170733daf819bb2e7424328a60",
+  "method": "読み上げ取得末尾から画面を重ねてスクロールし表示名を目視転記。大文字小文字を区別せず名前を照合。",
+  "notes": "誤記・重複の可能性あり。一致は同一性、不一致は新規件数を意味しない。",
+  "counts": {
+    "rows": 106,
+    "matched": 106,
+    "unmatched": 0
+  },
+  "rows": [
+    {
+      "name": "trip1",
+      "matched": true
+    },
+    {
+      "name": "RegioJet",
+      "matched": true
+    },
+    {
+      "name": "Forktime",
+      "matched": true
+    },
+    {
+      "name": "Airside Labs Aviation Tools",
+      "matched": true
+    },
+    {
+      "name": "SplashScout",
+      "matched": true
+    },
+    {
+      "name": "Metro MCP",
+      "matched": true
+    },
+    {
+      "name": "Adam Vacations",
+      "matched": true
+    },
+    {
+      "name": "AHORN Hotels & Resorts",
+      "matched": true
+    },
+    {
+      "name": "BookMyDestination.com",
+      "matched": true
+    },
+    {
+      "name": "The Peninsula",
+      "matched": true
+    },
+    {
+      "name": "K-Beauty, Spa & Hair Booking",
+      "matched": true
+    },
+    {
+      "name": "Worldschedule",
+      "matched": true
+    },
+    {
+      "name": "Sóley",
+      "matched": true
+    },
+    {
+      "name": "WAS Travel Insurance",
+      "matched": true
+    },
+    {
+      "name": "CatamaranSite",
+      "matched": true
+    },
+    {
+      "name": "Instafan",
+      "matched": true
+    },
+    {
+      "name": "StayVisible",
+      "matched": true
+    },
+    {
+      "name": "TravCozy",
+      "matched": true
+    },
+    {
+      "name": "SeeyaTrip",
+      "matched": true
+    },
+    {
+      "name": "Provue",
+      "matched": true
+    },
+    {
+      "name": "Futrumi",
+      "matched": true
+    },
+    {
+      "name": "Scioperi",
+      "matched": true
+    },
+    {
+      "name": "Sail",
+      "matched": true
+    },
+    {
+      "name": "Transferhood",
+      "matched": true
+    },
+    {
+      "name": "Trip Planner",
+      "matched": true
+    },
+    {
+      "name": "BirdWatch",
+      "matched": true
+    },
+    {
+      "name": "bluerails",
+      "matched": true
+    },
+    {
+      "name": "BookYolo",
+      "matched": true
+    },
+    {
+      "name": "VroomVroomVroom - Car Hire",
+      "matched": true
+    },
+    {
+      "name": "Car Shipping",
+      "matched": true
+    },
+    {
+      "name": "AuroraReach",
+      "matched": true
+    },
+    {
+      "name": "Roovook",
+      "matched": true
+    },
+    {
+      "name": "Vacanța România",
+      "matched": true
+    },
+    {
+      "name": "StayFritz",
+      "matched": true
+    },
+    {
+      "name": "Houfy",
+      "matched": true
+    },
+    {
+      "name": "Trips, Made Yours.",
+      "matched": true
+    },
+    {
+      "name": "Westbahn",
+      "matched": true
+    },
+    {
+      "name": "OUIGO España",
+      "matched": true
+    },
+    {
+      "name": "Ivon",
+      "matched": true
+    },
+    {
+      "name": "Zuzli",
+      "matched": true
+    },
+    {
+      "name": "The Grand Hotel Collection",
+      "matched": true
+    },
+    {
+      "name": "AFerry",
+      "matched": true
+    },
+    {
+      "name": "Flight Queue",
+      "matched": true
+    },
+    {
+      "name": "KoalasTrip Excursions & Trips",
+      "matched": true
+    },
+    {
+      "name": "Seaclub Alcudia",
+      "matched": true
+    },
+    {
+      "name": "DRAIV",
+      "matched": true
+    },
+    {
+      "name": "Slashtel",
+      "matched": true
+    },
+    {
+      "name": "Concierge Radar",
+      "matched": true
+    },
+    {
+      "name": "Nieves Alaska Relocation",
+      "matched": true
+    },
+    {
+      "name": "Coliving",
+      "matched": true
+    },
+    {
+      "name": "Sonar Connections",
+      "matched": true
+    },
+    {
+      "name": "VIPCars.com",
+      "matched": true
+    },
+    {
+      "name": "FindCamp",
+      "matched": true
+    },
+    {
+      "name": "Solartrip",
+      "matched": true
+    },
+    {
+      "name": "Andeor",
+      "matched": true
+    },
+    {
+      "name": "Vacation Planner Pro",
+      "matched": true
+    },
+    {
+      "name": "MOT Check",
+      "matched": true
+    },
+    {
+      "name": "StayThere",
+      "matched": true
+    },
+    {
+      "name": "Movably",
+      "matched": true
+    },
+    {
+      "name": "Despegar",
+      "matched": true
+    },
+    {
+      "name": "Holiday Planner Assistant",
+      "matched": true
+    },
+    {
+      "name": "Max Eats Out",
+      "matched": true
+    },
+    {
+      "name": "Baraglo Travel Insurance",
+      "matched": true
+    },
+    {
+      "name": "WonderKit",
+      "matched": true
+    },
+    {
+      "name": "Speed Cameras Radar",
+      "matched": true
+    },
+    {
+      "name": "Kratons",
+      "matched": true
+    },
+    {
+      "name": "Smart Travel Planner",
+      "matched": true
+    },
+    {
+      "name": "Booking Wolf",
+      "matched": true
+    },
+    {
+      "name": "Gloria Palace",
+      "matched": true
+    },
+    {
+      "name": "restplass.no",
+      "matched": true
+    },
+    {
+      "name": "Trains on Map",
+      "matched": true
+    },
+    {
+      "name": "Simcorner eSIM",
+      "matched": true
+    },
+    {
+      "name": "seats.aero",
+      "matched": true
+    },
+    {
+      "name": "Visa Submission Flow",
+      "matched": true
+    },
+    {
+      "name": "AegeanBot Direct Stays",
+      "matched": true
+    },
+    {
+      "name": "Greenfee365",
+      "matched": true
+    },
+    {
+      "name": "ELA Map",
+      "matched": true
+    },
+    {
+      "name": "Easybook",
+      "matched": true
+    },
+    {
+      "name": "Fare Deals",
+      "matched": true
+    },
+    {
+      "name": "Slothy by CRMaps",
+      "matched": true
+    },
+    {
+      "name": "Stymie Golf",
+      "matched": true
+    },
+    {
+      "name": "Motiva",
+      "matched": true
+    },
+    {
+      "name": "LetsPackUp",
+      "matched": true
+    },
+    {
+      "name": "Flight Gate",
+      "matched": true
+    },
+    {
+      "name": "Cria.al",
+      "matched": true
+    },
+    {
+      "name": "DayPass",
+      "matched": true
+    },
+    {
+      "name": "Standby: Theme Park Companion",
+      "matched": true
+    },
+    {
+      "name": "Hotel Liabeny",
+      "matched": true
+    },
+    {
+      "name": "Motion4rent",
+      "matched": true
+    },
+    {
+      "name": "TrainBrain",
+      "matched": true
+    },
+    {
+      "name": "Gangwaze",
+      "matched": true
+    },
+    {
+      "name": "OpenVan.camp Travel",
+      "matched": true
+    },
+    {
+      "name": "Hotely",
+      "matched": true
+    },
+    {
+      "name": "Tourision",
+      "matched": true
+    },
+    {
+      "name": "MiqatAir",
+      "matched": true
+    },
+    {
+      "name": "Traveler.md",
+      "matched": true
+    },
+    {
+      "name": "Discriminantly",
+      "matched": true
+    },
+    {
+      "name": "Mimo",
+      "matched": true
+    },
+    {
+      "name": "WINGIE",
+      "matched": true
+    },
+    {
+      "name": "Spin My Day",
+      "matched": true
+    },
+    {
+      "name": "RouteXL",
+      "matched": true
+    },
+    {
+      "name": "Atlas Planner",
+      "matched": true
+    },
+    {
+      "name": "SelectBNBs Verify",
+      "matched": true
+    },
+    {
+      "name": "Aisle",
+      "matched": true
+    },
+    {
+      "name": "Aviasurf",
+      "matched": true
+    },
+    {
+      "name": "COooL",
+      "matched": true
+    }
+  ]
+}

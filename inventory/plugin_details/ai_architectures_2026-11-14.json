@@ -1,0 +1,27 @@
+{
+  "name": "AI Architectures",
+  "official_app_name": "AI Architectures",
+  "provider": "20Vision GmbH",
+  "version": "1.0.1",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6adf2772bd3c81918e84aeb5f070930b?category=creativity",
+  "developer_url": "https://ai-architectures.com/",
+  "category": "Creativity",
+  "observed_at": "2026-11-14",
+  "original_description": "AI Architectures brings floor plans, house plans and CAD drawings into the conversation.\n\nSearch a library of about 500 ready-made house plans (ranch, farmhouse, barndominium, ADU, cabin, tiny house, duplex, two-storey, small homes and more) by bedrooms, bathrooms, size, storeys and garage. Each house design comes with a floor plan image, room sizes and downloadable PDF, DXF, IFC and GLB (3D model) files.\n\nSee CAD floor plans drawn by the AI drafter of the Plan Chat studio, each with the brief it was drawn from and a DXF file.\n\nConnect your AI Architectures account to have the drafter draw a new architectural drawing: a layered, dimensioned CAD floor plan from a description, or sketch to CAD from a hand sketch or a photo of a plan that you attach (walls, doors, windows, furniture, dimension chains, room names and areas). Check its progress and preview, change it in plain words, and download DXF, DWG and PDF for AutoCAD and other CAD programs. New drawings and changes use the credits of your AI Architectures account, the same as on the website. You can also open any drawing in the Plan Chat studio to edit it with CAD tools or view it in 3D.\n\nFor photo-based home design tools (remodel previews on a photo of your home, photoreal renders from sketches, virtual staging), it links the right page on ai-architectures.com.",
+  "original_description_language": "en",
+  "description_scope": "ChatGPT詳細画面の提供元の英語説明。",
+  "summary_ja": "既成の間取りを検索し、アカウント連携で説明やスケッチからCAD図面を作る。",
+  "usage_tags": [
+    "建築",
+    "間取り",
+    "CAD",
+    "背景資料"
+  ],
+  "limitations_ja": "新規作図と変更はアカウントのクレジットを使用。アプリ欄は設計概念であり許認可・施工用の書類ではなく、建設前に有資格者の確認が必要と説明。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "詳細画面の説明と情報欄を確認。実動作・料金・品質は未検証。",
+  "catalog_status": "一覧本体との名称照合は未確認。同名・別名の同一性は未確認。"
+}

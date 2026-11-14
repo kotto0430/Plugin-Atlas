@@ -1,0 +1,13 @@
+﻿row_id,page,column,row,display_name,candidate_text,status,review_note,ocr_raw,continuation_of,evidence
+p03L12,3,L,12,,Findlp,要確認,FindIp / Findlp の I と l は画像だけでは字形を確定できない。,Findlp,,evidence/page-03.png
+p04R21,4,R,21,,RemindMelQ,要確認,RemindMeIQ / RemindMelQ の I と l の同定は要確認。,RemindMelQ,,evidence/page-04.png
+p04R41,4,R,41,,ScalperIntel AI,要確認,ScalperIntel AI / Scalperlntel AI の I と l の同定は要確認。,Scalperintel Al,,evidence/page-04.png
+p06R03,6,R,3,,SavedIt,要確認,SavedIt / Savedlt / Savedit の大文字小文字と I/l は要確認。,Savedit,,evidence/page-06.png
+p07L04,7,L,4,,elgreja,要確認,eIgreja / elgreja の I と l は要確認。,elgreja,,evidence/page-07.png
+p12L30,12,L,30,,X4<©M8§Q7-V3_Z9AK6,要確認,記号を含む文字列。菱形・三角・節記号等の正確なUnicode文字と綴りは確定しない。,X4<©M8§Q7-V3_Z9AK6,,evidence/page-12.png
+p12L34,12,L,34,,N7§Q2-Z9OM4_V8AX6,要確認,記号を含む文字列。菱形・三角・節記号等の正確なUnicode文字と綴りは確定しない。,N7§Q2-Z9OM4_V8AX6,,evidence/page-12.png
+p12R27,12,R,27,,Q8AZ4-X7ON2_K9+V6,要確認,記号を含む文字列。菱形・三角等の正確なUnicode文字と綴りは確定しない。,Q8AZ4-X7ON2_K9+V6,,evidence/page-12.png
+p12R40,12,R,40,,Z4©K8AV2-Q7_X98N3,要確認,記号を含む文字列。菱形・三角等の正確なUnicode文字と綴りは確定しない。,Z4©K8AV2-Q7_X98N3,,evidence/page-12.png
+p13L25,13,L,25,,R8AV3OK6-X9_Q2§Z7,要確認,記号を含む文字列。菱形・三角・節記号等の正確なUnicode文字と綴りは確定しない。,R8AV3OK6-X9_Q2§Z7,,evidence/page-13.png
+p14L38,14,L,38,,Chiedi a Lea...,要確認,画面上で Chiedi a Lea... と省略表示されている。省略された正式名は補完しない。,Chiedi a Lea...,,evidence/page-14.png
+p15L01,15,L,1,,BenlkBij,要確認,BenIkBij / BenlkBij の I と l は要確認。,BenlkBij,,evidence/page-15.png

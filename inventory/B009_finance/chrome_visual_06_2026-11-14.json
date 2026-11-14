@@ -1,0 +1,462 @@
+{
+  "source": "Chrome ChatGPT 金融",
+  "date": "2026-11-14",
+  "catalog_blob": "ed517167a5188fd9018de0c4c041e146750b43b9",
+  "method": "画面を重ねてスクロールし表示名を目視転記。大文字小文字を区別せず名前を照合。",
+  "notes": "誤記・重複・異表記の可能性あり。一致は同一性、不一致は新規件数を意味しない。",
+  "counts": {
+    "rows": 112,
+    "matched": 4,
+    "unmatched": 108
+  },
+  "rows": [
+    {
+      "name": "VILAX",
+      "matched": false
+    },
+    {
+      "name": "Zovo Cap Table Calculator",
+      "matched": false
+    },
+    {
+      "name": "cypro.one",
+      "matched": false
+    },
+    {
+      "name": "Inderes",
+      "matched": false
+    },
+    {
+      "name": "Kunkafa",
+      "matched": false
+    },
+    {
+      "name": "myocr.app",
+      "matched": false
+    },
+    {
+      "name": "Skipo",
+      "matched": false
+    },
+    {
+      "name": "WealthSim Calculators",
+      "matched": false
+    },
+    {
+      "name": "Vocasa",
+      "matched": false
+    },
+    {
+      "name": "Worthbase",
+      "matched": false
+    },
+    {
+      "name": "YedaBase",
+      "matched": false
+    },
+    {
+      "name": "Duit Loan Match",
+      "matched": false
+    },
+    {
+      "name": "ASPERN",
+      "matched": false
+    },
+    {
+      "name": "BlindPay",
+      "matched": false
+    },
+    {
+      "name": "Centry Cross-Border Tax Pack",
+      "matched": false
+    },
+    {
+      "name": "Finanças Brasil",
+      "matched": false
+    },
+    {
+      "name": "GoodbyeMatrix Citizenship",
+      "matched": false
+    },
+    {
+      "name": "NormAPI – XRechnung & ZUGFeRD",
+      "matched": false
+    },
+    {
+      "name": "AlphAI",
+      "matched": false
+    },
+    {
+      "name": "AveryGPT",
+      "matched": false
+    },
+    {
+      "name": "Centry Global Estate Planner",
+      "matched": false
+    },
+    {
+      "name": "Kvickd",
+      "matched": false
+    },
+    {
+      "name": "Moloni ON",
+      "matched": false
+    },
+    {
+      "name": "Payhawk",
+      "matched": false
+    },
+    {
+      "name": "Tilit",
+      "matched": false
+    },
+    {
+      "name": "SonarFolio",
+      "matched": false
+    },
+    {
+      "name": "Gastón",
+      "matched": false
+    },
+    {
+      "name": "Qalta",
+      "matched": false
+    },
+    {
+      "name": "Germany Property Valuation",
+      "matched": false
+    },
+    {
+      "name": "Aperiodic",
+      "matched": false
+    },
+    {
+      "name": "Jupiter Invoice",
+      "matched": false
+    },
+    {
+      "name": "Mal Bazaar",
+      "matched": false
+    },
+    {
+      "name": "KODIAK",
+      "matched": false
+    },
+    {
+      "name": "Mais Retorno",
+      "matched": false
+    },
+    {
+      "name": "Pa-ga-me",
+      "matched": false
+    },
+    {
+      "name": "Piensin",
+      "matched": false
+    },
+    {
+      "name": "Stockastic",
+      "matched": false
+    },
+    {
+      "name": "Tobie Benefits Compare",
+      "matched": false
+    },
+    {
+      "name": "Trading Agent Data",
+      "matched": false
+    },
+    {
+      "name": "American Fox Trading Platform",
+      "matched": false
+    },
+    {
+      "name": "Brainrot Finance",
+      "matched": false
+    },
+    {
+      "name": "Lucy — SEC Filings Search",
+      "matched": false
+    },
+    {
+      "name": "Trezzit",
+      "matched": false
+    },
+    {
+      "name": "Wally: Budget Tracker",
+      "matched": false
+    },
+    {
+      "name": "AMLchain",
+      "matched": false
+    },
+    {
+      "name": "Campfire",
+      "matched": false
+    },
+    {
+      "name": "DealWise AI",
+      "matched": false
+    },
+    {
+      "name": "Economico",
+      "matched": false
+    },
+    {
+      "name": "Financial Evidence",
+      "matched": false
+    },
+    {
+      "name": "Martia",
+      "matched": false
+    },
+    {
+      "name": "Moola",
+      "matched": false
+    },
+    {
+      "name": "Veridion Markets",
+      "matched": false
+    },
+    {
+      "name": "ZenBot Stock Scanner",
+      "matched": false
+    },
+    {
+      "name": "MNEMOS",
+      "matched": false
+    },
+    {
+      "name": "AlertaSubastas",
+      "matched": false
+    },
+    {
+      "name": "AFDB",
+      "matched": false
+    },
+    {
+      "name": "Business Loan Finder Australia",
+      "matched": false
+    },
+    {
+      "name": "BlockchainAnalysis",
+      "matched": false
+    },
+    {
+      "name": "Crossave",
+      "matched": false
+    },
+    {
+      "name": "DeltaFluency",
+      "matched": false
+    },
+    {
+      "name": "Source Data Research Workspace",
+      "matched": false
+    },
+    {
+      "name": "StatementSheet",
+      "matched": false
+    },
+    {
+      "name": "TickerTrac",
+      "matched": false
+    },
+    {
+      "name": "Centry Account Access Check",
+      "matched": false
+    },
+    {
+      "name": "Euroland App",
+      "matched": false
+    },
+    {
+      "name": "Bizdivers",
+      "matched": false
+    },
+    {
+      "name": "モゲチェック 住宅ローンランキング",
+      "matched": false
+    },
+    {
+      "name": "Tobie Total Rewards",
+      "matched": false
+    },
+    {
+      "name": "UK State Pension Abroad",
+      "matched": false
+    },
+    {
+      "name": "エネチェンジ Home 電気・ガス比較",
+      "matched": false
+    },
+    {
+      "name": "Further",
+      "matched": false
+    },
+    {
+      "name": "Centry Global Move Planner",
+      "matched": false
+    },
+    {
+      "name": "Saturation",
+      "matched": false
+    },
+    {
+      "name": "CDIStock",
+      "matched": false
+    },
+    {
+      "name": "MyQuant Editorial",
+      "matched": false
+    },
+    {
+      "name": "QuiverQuant",
+      "matched": false
+    },
+    {
+      "name": "RealEstateIQ",
+      "matched": true
+    },
+    {
+      "name": "Monesto",
+      "matched": false
+    },
+    {
+      "name": "Totem",
+      "matched": false
+    },
+    {
+      "name": "Regit PRIIPs",
+      "matched": false
+    },
+    {
+      "name": "Validis (US)",
+      "matched": false
+    },
+    {
+      "name": "Bilanz",
+      "matched": false
+    },
+    {
+      "name": "Hedgr",
+      "matched": false
+    },
+    {
+      "name": "Wake",
+      "matched": false
+    },
+    {
+      "name": "LedgerSync",
+      "matched": false
+    },
+    {
+      "name": "Co-Invest",
+      "matched": true
+    },
+    {
+      "name": "Qeemah (قيمة)",
+      "matched": false
+    },
+    {
+      "name": "Snapbooks",
+      "matched": false
+    },
+    {
+      "name": "BadOnion Data",
+      "matched": false
+    },
+    {
+      "name": "Mortgage IQ",
+      "matched": true
+    },
+    {
+      "name": "Present Yield",
+      "matched": false
+    },
+    {
+      "name": "Omnyra",
+      "matched": false
+    },
+    {
+      "name": "InvestorLists",
+      "matched": false
+    },
+    {
+      "name": "Montrose",
+      "matched": false
+    },
+    {
+      "name": "Zovo Depreciation Schedule",
+      "matched": false
+    },
+    {
+      "name": "TurbineFi Prediction Bot Maker",
+      "matched": false
+    },
+    {
+      "name": "NeroPay",
+      "matched": false
+    },
+    {
+      "name": "TickerTiles",
+      "matched": false
+    },
+    {
+      "name": "Lauki GST Calculator",
+      "matched": false
+    },
+    {
+      "name": "InvestmentIQ",
+      "matched": true
+    },
+    {
+      "name": "Swaps Wallet Screen",
+      "matched": false
+    },
+    {
+      "name": "freee確定申告",
+      "matched": false
+    },
+    {
+      "name": "Owned Outright",
+      "matched": false
+    },
+    {
+      "name": "Cuentix",
+      "matched": false
+    },
+    {
+      "name": "Nexafin",
+      "matched": false
+    },
+    {
+      "name": "FamilyOFX",
+      "matched": false
+    },
+    {
+      "name": "PayVora",
+      "matched": false
+    },
+    {
+      "name": "Spectra",
+      "matched": false
+    },
+    {
+      "name": "Antevo Tremor Watch",
+      "matched": false
+    },
+    {
+      "name": "Kuotia",
+      "matched": false
+    },
+    {
+      "name": "Light Horse Securities",
+      "matched": false
+    },
+    {
+      "name": "FlywheelDayOne - GoMining Calc",
+      "matched": false
+    }
+  ]
+}

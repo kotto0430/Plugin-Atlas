@@ -1,0 +1,382 @@
+{
+  "source": "Chrome ChatGPT エンターテインメント",
+  "date": "2026-11-14",
+  "catalog_blob": "fd13ece4009fcf170733daf819bb2e7424328a60",
+  "method": "画面を重ねてスクロールし表示名を目視転記。大文字小文字を区別せず名前を照合。",
+  "notes": "誤記・重複の可能性あり。一致は同一性、不一致は新規件数を意味しない。Snake Retro: Neon Arcade と Comedy Skits は先の画面にも同名表示がある。",
+  "counts": {
+    "rows": 92,
+    "matched": 72,
+    "unmatched": 20
+  },
+  "rows": [
+    {
+      "name": "Starcrossed",
+      "matched": true
+    },
+    {
+      "name": "Custom Tarot Deck & Card Maker",
+      "matched": true
+    },
+    {
+      "name": "Soundchek",
+      "matched": true
+    },
+    {
+      "name": "Asobun",
+      "matched": true
+    },
+    {
+      "name": "Clawfight",
+      "matched": true
+    },
+    {
+      "name": "CSW Darts",
+      "matched": true
+    },
+    {
+      "name": "MTG Deck Price Checker",
+      "matched": true
+    },
+    {
+      "name": "Shorti",
+      "matched": true
+    },
+    {
+      "name": "PlayNavi",
+      "matched": true
+    },
+    {
+      "name": "Live Football API",
+      "matched": true
+    },
+    {
+      "name": "PlugPup Wordle Solver",
+      "matched": true
+    },
+    {
+      "name": "Rauhnacht-Orakel",
+      "matched": true
+    },
+    {
+      "name": "Zovo Bingo Card Maker",
+      "matched": true
+    },
+    {
+      "name": "MyAnimeTracker",
+      "matched": true
+    },
+    {
+      "name": "American Mahjong Hand Helper",
+      "matched": true
+    },
+    {
+      "name": "RaceMate",
+      "matched": true
+    },
+    {
+      "name": "Pushing Tin over Grafton",
+      "matched": true
+    },
+    {
+      "name": "GriezelGids",
+      "matched": true
+    },
+    {
+      "name": "AstroTarget",
+      "matched": true
+    },
+    {
+      "name": "Voyage",
+      "matched": true
+    },
+    {
+      "name": "Musico",
+      "matched": true
+    },
+    {
+      "name": "WeDance",
+      "matched": true
+    },
+    {
+      "name": "arte.tv",
+      "matched": true
+    },
+    {
+      "name": "CheapCharts",
+      "matched": true
+    },
+    {
+      "name": "Words into Music",
+      "matched": true
+    },
+    {
+      "name": "Swiggy Dineout",
+      "matched": true
+    },
+    {
+      "name": "Primo Tee Times",
+      "matched": true
+    },
+    {
+      "name": "Sidequest",
+      "matched": true
+    },
+    {
+      "name": "Psyche · Saju & Tarot",
+      "matched": true
+    },
+    {
+      "name": "Bangerz Army",
+      "matched": true
+    },
+    {
+      "name": "EggVerse",
+      "matched": true
+    },
+    {
+      "name": "FreeAstroAPI Astrology",
+      "matched": true
+    },
+    {
+      "name": "gamecollecting.app",
+      "matched": true
+    },
+    {
+      "name": "Mana Vault",
+      "matched": true
+    },
+    {
+      "name": "saysmy.ai",
+      "matched": true
+    },
+    {
+      "name": "Sway",
+      "matched": true
+    },
+    {
+      "name": "TCultura",
+      "matched": true
+    },
+    {
+      "name": "1F3D9: City Life for AI Agents",
+      "matched": true
+    },
+    {
+      "name": "TheStatsAPI Football",
+      "matched": true
+    },
+    {
+      "name": "Binge Senpai",
+      "matched": true
+    },
+    {
+      "name": "Lumpinee Stadium",
+      "matched": true
+    },
+    {
+      "name": "Comedy Skits",
+      "matched": true
+    },
+    {
+      "name": "The Reconnect Reset",
+      "matched": true
+    },
+    {
+      "name": "The Cards Will Tell - Tarot",
+      "matched": true
+    },
+    {
+      "name": "HappenHop",
+      "matched": true
+    },
+    {
+      "name": "Vizirune",
+      "matched": true
+    },
+    {
+      "name": "별자리 운세박사",
+      "matched": false
+    },
+    {
+      "name": "Pyryx",
+      "matched": true
+    },
+    {
+      "name": "Lunarea Mapa Astral",
+      "matched": false
+    },
+    {
+      "name": "Danu",
+      "matched": true
+    },
+    {
+      "name": "Neon Arcade - Retro",
+      "matched": false
+    },
+    {
+      "name": "Tournament Bracket Maker",
+      "matched": false
+    },
+    {
+      "name": "Tarot Card Picker",
+      "matched": true
+    },
+    {
+      "name": "Baceline",
+      "matched": true
+    },
+    {
+      "name": "마이스코어봇",
+      "matched": false
+    },
+    {
+      "name": "Grid Pulse",
+      "matched": true
+    },
+    {
+      "name": "Secret Santa Raffle",
+      "matched": true
+    },
+    {
+      "name": "映画館ガイド | Eigakan Guide",
+      "matched": false
+    },
+    {
+      "name": "Guanyin Oracle · 观音灵签",
+      "matched": false
+    },
+    {
+      "name": "ScoreGeek",
+      "matched": false
+    },
+    {
+      "name": "운세냥이 Unsecat",
+      "matched": false
+    },
+    {
+      "name": "ODDBOUT",
+      "matched": true
+    },
+    {
+      "name": "はてな匿名ダイアリー",
+      "matched": false
+    },
+    {
+      "name": "Playloop",
+      "matched": true
+    },
+    {
+      "name": "TEAMWARS Esports",
+      "matched": true
+    },
+    {
+      "name": "타로 운세박사",
+      "matched": false
+    },
+    {
+      "name": "Spontanno Events",
+      "matched": false
+    },
+    {
+      "name": "Zovo League Fixtures",
+      "matched": false
+    },
+    {
+      "name": "K-Fortune 사주",
+      "matched": false
+    },
+    {
+      "name": "M6plus",
+      "matched": true
+    },
+    {
+      "name": "사주팔자 운세박사",
+      "matched": false
+    },
+    {
+      "name": "Hoje em Viana",
+      "matched": true
+    },
+    {
+      "name": "Horosa 星阙",
+      "matched": false
+    },
+    {
+      "name": "Snake Retro: Neon Arcade",
+      "matched": true
+    },
+    {
+      "name": "Comedy Skits",
+      "matched": true
+    },
+    {
+      "name": "Sonoran Software",
+      "matched": true
+    },
+    {
+      "name": "TIX",
+      "matched": true
+    },
+    {
+      "name": "ZONA",
+      "matched": true
+    },
+    {
+      "name": "六爻",
+      "matched": false
+    },
+    {
+      "name": "BiletTakvimi",
+      "matched": true
+    },
+    {
+      "name": "pods4.me",
+      "matched": true
+    },
+    {
+      "name": "Habacuk",
+      "matched": true
+    },
+    {
+      "name": "Vinellu",
+      "matched": true
+    },
+    {
+      "name": "Grid Genius",
+      "matched": true
+    },
+    {
+      "name": "AstroMaster 星粹通",
+      "matched": false
+    },
+    {
+      "name": "ReelRecs",
+      "matched": true
+    },
+    {
+      "name": "Birthday Paper",
+      "matched": false
+    },
+    {
+      "name": "Noxa",
+      "matched": true
+    },
+    {
+      "name": "햄찌사주",
+      "matched": false
+    },
+    {
+      "name": "VenuNite Events",
+      "matched": true
+    },
+    {
+      "name": "Tonada Discovery",
+      "matched": true
+    },
+    {
+      "name": "Tonada",
+      "matched": true
+    }
+  ]
+}

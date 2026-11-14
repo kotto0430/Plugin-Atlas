@@ -1,0 +1,27 @@
+{
+  "name": "Storyblocks",
+  "official_app_name": "Storyblocks",
+  "provider": "Storyblocks",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ab7347cfe948191a45faabd2fcfee46?category=creativity",
+  "developer_url": "https://www.storyblocks.com/",
+  "category": "Creativity",
+  "observed_at": "2026-11-14",
+  "original_description": "Search Storyblocks stock videos, music, sound effects, and images in ChatGPT. Preview results in an interactive media carousel, inspect asset metadata and available formats, find similar content, explore categories and related search terms, and refine searches with catalog counts. Download selected assets when explicitly requested. Requires Storyblocks authentication; downloads depend on account entitlements. Each successful download-link request licenses the asset, records a download, and consumes plan quota, including repeat requests.",
+  "original_description_language": "en",
+  "description_scope": "ChatGPT詳細画面の提供元の英語説明。",
+  "summary_ja": "ストック動画・音楽・効果音・画像を検索して確認する。",
+  "usage_tags": [
+    "素材検索",
+    "動画制作",
+    "効果音",
+    "音楽"
+  ],
+  "limitations_ja": "Storyblocksの認証が必要。ダウンロードリンクの発行に成功するたび、再取得も含めライセンス・ダウンロード記録とプラン枠の消費が発生すると説明。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "2026-11-14に詳細画面を確認。実動作・料金・品質・権利条件は未検証。2026-11-15に記録を保存。",
+  "catalog_status": "一覧本体との名称照合は未確認。同名・別名の同一性は未確認。"
+}

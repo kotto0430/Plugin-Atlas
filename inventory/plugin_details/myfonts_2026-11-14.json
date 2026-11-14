@@ -1,0 +1,26 @@
+{
+  "name": "MyFonts",
+  "official_app_name": "MyFonts",
+  "official_name_basis": "ChatGPTのプラグイン詳細画面に表示された名称",
+  "category": "Creativity",
+  "provider": "Monotype Imaging Inc.",
+  "version": "3.0.0",
+  "observed_at": "2026-11-14",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_697b4f3e714c8191a274be3ece643759?category=creativity",
+  "developer_url": "https://monotype.com/",
+  "original_description": "Discover fonts by personality, genre, use case, aesthetics, industry — or identify fonts directly from an image. Describe your project, mood, style, creative direction or upload an image in chat and get curated font recommendations that match your intent.\n\n1. Identify font from an image — Upload any image and get the matching fonts in seconds, powered by WhatTheFont.\n2. Discover fonts by description — Describe your project's mood, style, industry, or vibe and get curated font recommendations that match.\n\nOnce installed, describe what you want in plain language or invoke MyFonts directly with @MyFonts.\n\nTry prompts like:\n- @MyFonts Find me a serif that feels editorial and literary, but less traditional than Garamond or Baskerville.\n- @MyFonts Recommend fonts for a campaign that should feel rebellious, youthful, and premium.\n- @MyFonts identify the font used in the attached image.\n- @MyFonts WhatTheFont used in the image.\n- @MyFonts Suggest fonts for a boutique hotel identity inspired by old European signage, but updated for a contemporary luxury audience.",
+  "description_scope": "ChatGPTの詳細画面に表示された提供元の英語説明",
+  "summary_ja": "画像からフォント候補を探したり、雰囲気や用途を伝えて書体の提案を受けたりできる。",
+  "usage_tags": [
+    "フォント",
+    "デザイン",
+    "文字"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "limitations_ja": "フォントの特定精度や料金、各書体の利用ライセンスは未確認。",
+  "review": "詳細画面の説明と情報欄を確認。画像の照合や書体の取得は試していない。",
+  "catalog_status": "一覧本体との名称照合は未確認。"
+}

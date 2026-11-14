@@ -1,0 +1,398 @@
+{
+  "source": "エンターテイメント.pdf",
+  "sha256": "aca71709aaebf1c69ff91abd940401c8264de53b36cd298d4209656e7fe6b3f2",
+  "page": 5,
+  "baseline_index_sha": "084b9190ad915493272c9b67f9021e2bbc4a92e3",
+  "rows": [
+    {
+      "row_id": "p05L01",
+      "name": "Voyage",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p05L02",
+      "name": "WeDance",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p05L03",
+      "name": "CheapCharts",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p05L04",
+      "name": "Swiggy Dineout",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p05L05",
+      "name": "Sidequest",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p05L06",
+      "name": "Bangerz Army",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p05L07",
+      "name": "FreeAstroAPI Astrology",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p05L08",
+      "name": "Mana Vault",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p05L09",
+      "name": "Sway",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p05L10",
+      "name": "타로 운세박사",
+      "match": false,
+      "status": "要再確認"
+    },
+    {
+      "row_id": "p05L11",
+      "name": "사주팔자 운세박사",
+      "match": false,
+      "status": "要再確認"
+    },
+    {
+      "row_id": "p05L12",
+      "name": "1F3D9: City Life for AI Agents",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p05L13",
+      "name": "M6plus",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p05L14",
+      "name": "Playloop",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p05L15",
+      "name": "Grid Genius",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p05L16",
+      "name": "Comedy Skits",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p05L17",
+      "name": "ZONA",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p05L18",
+      "name": "Horosa 星盘",
+      "match": false,
+      "status": "要再確認"
+    },
+    {
+      "row_id": "p05L19",
+      "name": "AstroMaster 星盘通",
+      "match": false,
+      "status": "要再確認"
+    },
+    {
+      "row_id": "p05L20",
+      "name": "Tonada Discovery",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p05L21",
+      "name": "Hoje em Viana",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p05L22",
+      "name": "Noxa",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p05L23",
+      "name": "Vinellu",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p05L24",
+      "name": "六爻",
+      "match": false,
+      "status": "要再確認"
+    },
+    {
+      "row_id": "p05L25",
+      "name": "TheStatsAPI Football",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p05L26",
+      "name": "The Cards Will Tell - Tarot",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p05L27",
+      "name": "Pyryx",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p05L28",
+      "name": "Comedy Skits",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p05L29",
+      "name": "별자리 운세박사",
+      "match": false,
+      "status": "要再確認"
+    },
+    {
+      "row_id": "p05L30",
+      "name": "마이스코어봇",
+      "match": false,
+      "status": "要再確認"
+    },
+    {
+      "row_id": "p05L31",
+      "name": "Secret Santa Raffle",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p05L32",
+      "name": "映画館ガイド | Eigakan Guide",
+      "match": false,
+      "status": "要再確認"
+    },
+    {
+      "row_id": "p05L33",
+      "name": "운세냥이 Unsecat",
+      "match": false,
+      "status": "要再確認"
+    },
+    {
+      "row_id": "p05R01",
+      "name": "Musico",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p05R02",
+      "name": "arte.tv",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p05R03",
+      "name": "Words into Music",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p05R04",
+      "name": "Primo Tee Times",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p05R05",
+      "name": "Psyche · Saju & Tarot",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p05R06",
+      "name": "EggVerse",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p05R07",
+      "name": "gamecollecting.app",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p05R08",
+      "name": "saysmy.ai",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p05R09",
+      "name": "TCultura",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p05R10",
+      "name": "はてな匿名ダイアリー",
+      "match": false,
+      "status": "要再確認"
+    },
+    {
+      "row_id": "p05R11",
+      "name": "K-Fortune 사주",
+      "match": false,
+      "status": "要再確認"
+    },
+    {
+      "row_id": "p05R12",
+      "name": "TEAMWARS Esports",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p05R13",
+      "name": "ODDBOUT",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p05R14",
+      "name": "Binge Senpai",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p05R15",
+      "name": "TIX",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p05R16",
+      "name": "VenuNite Events",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p05R17",
+      "name": "pods4.me",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p05R18",
+      "name": "Sonoran Software",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p05R19",
+      "name": "ReelRecs",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p05R20",
+      "name": "Tonada",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p05R21",
+      "name": "Habacuk",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p05R22",
+      "name": "햄찌사주",
+      "match": false,
+      "status": "要再確認"
+    },
+    {
+      "row_id": "p05R23",
+      "name": "BiletTakvimi",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p05R24",
+      "name": "Lumpinee Stadium",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p05R25",
+      "name": "Tarot Card Picker",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p05R26",
+      "name": "HappenHop",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p05R27",
+      "name": "The Reconnect Reset",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p05R28",
+      "name": "Danu",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p05R29",
+      "name": "Vizirune",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p05R30",
+      "name": "Grid Pulse",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p05R31",
+      "name": "Guanyin Oracle · 观音灵签",
+      "match": false,
+      "status": "要再確認"
+    },
+    {
+      "row_id": "p05R32",
+      "name": "Baceline",
+      "match": false,
+      "status": "画像照合済み"
+    }
+  ]
+}

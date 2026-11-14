@@ -1,0 +1,28 @@
+{
+  "name": "NoveLand for Writers",
+  "provider": "NoveLand",
+  "version": "1.3.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a50b512751081918251e323e8de566f?category=creativity",
+  "developer_url": "https://novel-land.com/",
+  "original_description": "NoveLand is a writing tool built for working with AI, specialized in storytelling such as novels and scripts. It has everything you need to create stories while consulting with AI: a design that lets AI read your story accurately, and diagrams that let you grasp the flow of your story at a glance, supporting your everyday writing.\n\nWorks, story details, and relationship diagrams you create in ChatGPT open as they are in the NoveLand web editor, where you can keep writing them yourself. Within the same work, you can move freely between the parts you leave to AI and the parts you write yourself.\nMore about the editor: https://novel-land.com/editor-introduction\n\n■ AI that can draw on your story details when answering\nTo create a story together with AI, the AI also needs to read information beyond the body text, such as your characters' personalities and worldbuilding details.\nNoveLand links the body text to the relevant story details, so AI can choose and read only the details it needs. You can discuss your writing with an AI that understands your story more deeply.\n\n■ See your story as diagrams\nRelationship diagrams, graphs that show the direction of relationships, timelines of events, family trees, and charts of per-episode figures appear as diagrams right in the conversation. You can grasp the whole story without comparing long passages of text, and spot structural imbalances or missing relationships at a glance.\n\n■ A foundation for manga and anime scripts\nThe body text is structured as narration, dialogue tagged with speakers, and scene breaks, the same structure as a script or screenplay. For people who create manga or anime with AI, NoveLand also serves as a foundation for scripts that lets you manage characters, story details, and episodes together.\n\n■ What you can do from ChatGPT\n・Create and edit works, chapters, and episodes\n・Register and organize characters, terms, and reference documents\n・Create relationship diagrams, and display timelines, family trees, and other diagrams\n・Register foreshadowing and keep track of the episodes where it pays off\n・Search the body text, and display episode lists and body text previews",
+  "summary_ja": "小説や脚本の本文・登場人物・世界設定・伏線を管理し、相関図や年表を使って創作を支援する。",
+  "usage_tags": [
+    "小説制作",
+    "脚本",
+    "漫画制作",
+    "世界観設定",
+    "伏線管理"
+  ],
+  "limitations_ja": "詳細画面のアプリ説明によると、その場で描く図は会話中で見るもので作品には保存されない。作品データの読み書きに言及。動作・料金は未検証。",
+  "official_app_name": "NoveLand for Writers",
+  "official_name_basis": "ChatGPTのプラグイン詳細画面に表示された名称",
+  "category": "Creativity",
+  "observed_at": "2026-11-14",
+  "description_scope": "ChatGPT詳細画面の「続きを読む」を展開した提供元の英語説明。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "詳細画面の説明と情報欄を確認。接続・実機能の検証は行っていない。",
+  "catalog_status": "2026-11-14時点の一覧本体 index.html（blob 27fc7d17ee843cc9e0651a6c2913c06326f3b9db）に正式表示名の文字列なし。別名・同名製品との同一性は未確認。"
+}

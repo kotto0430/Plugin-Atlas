@@ -1,0 +1,566 @@
+{
+  "source": "教育.pdf",
+  "sha256": "55f8221b4acb622a175b4c4537221fed9bedeb0bfe364f888805f181a7d0fab7",
+  "page": 3,
+  "baseline_index_sha": "3851253e7164445de264c89940daabe8fa11657e",
+  "rows": [
+    {
+      "row_id": "p03L01",
+      "name": "Taxiger Doc",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p03L02",
+      "name": "CanQuiz",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p03L03",
+      "name": "Research Evidence Finder",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p03L04",
+      "name": "Coffeetable",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p03L05",
+      "name": "Special Education Law",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p03L06",
+      "name": "AliXAi",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p03L07",
+      "name": "nav4ai",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p03L08",
+      "name": "Interview Trix",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p03L09",
+      "name": "AbS",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p03L10",
+      "name": "MAK Immigration Source Guide",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p03L11",
+      "name": "Wortschatz",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p03L12",
+      "name": "Scientific Visuals & Tables",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p03L13",
+      "name": "Translate GPT",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p03L14",
+      "name": "Life Analytics IAS",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p03L15",
+      "name": "EduOpus",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p03L16",
+      "name": "Nyambot",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p03L17",
+      "name": "Talents Kids",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p03L18",
+      "name": "Signal Advisor",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p03L19",
+      "name": "RubricMark Practice",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p03L20",
+      "name": "Mini Course Generator",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p03L21",
+      "name": "Atlarium Habitat Database MCP",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p03L22",
+      "name": "Parliament Connect",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p03L23",
+      "name": "Blossom",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p03L24",
+      "name": "TTXVN Nghị quyết 57",
+      "status": "画像再確認済み",
+      "match": false,
+      "review_note": "原本の拡大画像で表示名を再確認",
+      "catalog_id": "atlas-pdf-education-p03l24"
+    },
+    {
+      "row_id": "p03L25",
+      "name": "Plasmole",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p03L26",
+      "name": "Dentovio Exam Prep",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p03L27",
+      "name": "AI PDF Assistant",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p03L28",
+      "name": "Vitamarinaweb",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p03L29",
+      "name": "Medical Blueprint Builder",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p03L30",
+      "name": "Analytics Brain",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p03L31",
+      "name": "Agent Kunjani",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p03L32",
+      "name": "Sauna Monthly",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p03L33",
+      "name": "Learn Language",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p03L34",
+      "name": "Code Tutor",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p03L35",
+      "name": "ChildEdu Studio 2.0",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p03L36",
+      "name": "Research Writing Guardrails",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p03L37",
+      "name": "Lux AI",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p03L38",
+      "name": "Bench Coach",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p03L39",
+      "name": "Clasora Tutor Finder",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p03L40",
+      "name": "Complete Military Benefits",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p03L41",
+      "name": "FootballGPT",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p03L42",
+      "name": "Chat Español",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p03L43",
+      "name": "Biohub ESM",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p03L44",
+      "name": "Critical Thinking Coach",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p03L45",
+      "name": "Paper Close Reading",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p03L46",
+      "name": "Web Research Assistant",
+      "status": "画像再確認済み",
+      "match": false,
+      "review_note": "原本の拡大画像で表示名を再確認",
+      "catalog_id": "atlas-pdf-education-p03l46"
+    },
+    {
+      "row_id": "p03R01",
+      "name": "AI Museum",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p03R02",
+      "name": "Qulture",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p03R03",
+      "name": "AI Study Tutor",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p03R04",
+      "name": "CiteCheck",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p03R05",
+      "name": "Lucebra",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p03R06",
+      "name": "Vocaneo",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p03R07",
+      "name": "CubbyEd Classical Curriculum",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p03R08",
+      "name": "PuzzleMaker Pro",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p03R09",
+      "name": "UX Jobs",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p03R10",
+      "name": "IELTS Writing Coach - English",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p03R11",
+      "name": "Contact Center AI Association",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p03R12",
+      "name": "Doers Lingua",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p03R13",
+      "name": "Glow Research Docs",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p03R14",
+      "name": "MedStats",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p03R15",
+      "name": "JurisAI-ICIDA",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p03R16",
+      "name": "Funlearny",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p03R17",
+      "name": "French Coach",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p03R18",
+      "name": "Clairwave",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p03R19",
+      "name": "VoteMapper",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p03R20",
+      "name": "Crazy Tongits – Learn & Review",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p03R21",
+      "name": "Any Topic Academy",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p03R22",
+      "name": "RooQuiz",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p03R23",
+      "name": "LiveCase",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p03R24",
+      "name": "Gordito",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p03R25",
+      "name": "MediPrep Study Navigator",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p03R26",
+      "name": "Katav",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p03R27",
+      "name": "Eastern Orthodox Theology",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p03R28",
+      "name": "Readplace",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p03R29",
+      "name": "Maakrop",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p03R30",
+      "name": "Agent Consent Patterns",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p03R31",
+      "name": "Povtori",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p03R32",
+      "name": "Teach",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p03R33",
+      "name": "Dr Kevin AI",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p03R34",
+      "name": "Musical",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p03R35",
+      "name": "World Flag Map",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p03R36",
+      "name": "EduRolia",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p03R37",
+      "name": "BaniDB",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p03R38",
+      "name": "SuperQDA",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p03R39",
+      "name": "GPT Chat Russian",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p03R40",
+      "name": "Life in the UK Practice Tests",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p03R41",
+      "name": "curso.ai",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p03R42",
+      "name": "Cybersecurity",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p03R43",
+      "name": "Socratic Tutor",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p03R44",
+      "name": "Elite Trainer Fight Coach",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p03R45",
+      "name": "MedAcad Writer Support",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p03R46",
+      "name": "SentLines",
+      "status": "画像再確認済み",
+      "match": false,
+      "review_note": "原本の拡大画像で表示名を再確認",
+      "catalog_id": "atlas-pdf-education-p03r46"
+    }
+  ]
+}

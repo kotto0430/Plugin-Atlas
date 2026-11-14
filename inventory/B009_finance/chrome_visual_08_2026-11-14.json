@@ -1,0 +1,78 @@
+{
+  "source": "Chrome ChatGPT 金融",
+  "date": "2026-11-14",
+  "catalog_blob": "ed517167a5188fd9018de0c4c041e146750b43b9",
+  "method": "画面を重ねてスクロールし表示名を目視転記。大文字小文字を区別せず名前を照合。",
+  "notes": "誤記・重複・異表記の可能性あり。一致は同一性、不一致は新規件数を意味しない。",
+  "counts": {
+    "rows": 16,
+    "matched": 0,
+    "unmatched": 16
+  },
+  "rows": [
+    {
+      "name": "Capital Company",
+      "matched": false
+    },
+    {
+      "name": "StableJack Research",
+      "matched": false
+    },
+    {
+      "name": "CardStack: Credit Card Tracker",
+      "matched": false
+    },
+    {
+      "name": "買價AI",
+      "matched": false
+    },
+    {
+      "name": "Receipta",
+      "matched": false
+    },
+    {
+      "name": "Palimpsest",
+      "matched": false
+    },
+    {
+      "name": "みずほ銀行 in ChatGPT",
+      "matched": false
+    },
+    {
+      "name": "VnRebates - Giá Vàng",
+      "matched": false
+    },
+    {
+      "name": "Zempo",
+      "matched": false
+    },
+    {
+      "name": "Tracklified",
+      "matched": false
+    },
+    {
+      "name": "マネックス証券",
+      "matched": false
+    },
+    {
+      "name": "Washington Property Tax Check",
+      "matched": false
+    },
+    {
+      "name": "Ecoinomy MiCA Check",
+      "matched": false
+    },
+    {
+      "name": "Boldin",
+      "matched": false
+    },
+    {
+      "name": "Zovo Invoice Ledger",
+      "matched": false
+    },
+    {
+      "name": "QuantDesk",
+      "matched": false
+    }
+  ]
+}

@@ -1,0 +1,564 @@
+{
+  "source": "教育.pdf",
+  "sha256": "55f8221b4acb622a175b4c4537221fed9bedeb0bfe364f888805f181a7d0fab7",
+  "page": 4,
+  "baseline_index_sha": "3851253e7164445de264c89940daabe8fa11657e",
+  "rows": [
+    {
+      "row_id": "p04L01",
+      "name": "TÕPS",
+      "status": "画像再確認済み",
+      "match": false,
+      "review_note": "原本の拡大画像で表示名を再確認",
+      "catalog_id": "atlas-pdf-education-p04l01"
+    },
+    {
+      "row_id": "p04L02",
+      "name": "TA Poltekkes by Quartlympus",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p04L03",
+      "name": "Coursekin",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p04L04",
+      "name": "Agentic Course Redesign",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p04L05",
+      "name": "Julien's Accounting Tutor",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p04L06",
+      "name": "Pesquisa MirandasTech",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p04L07",
+      "name": "Arrowgram",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p04L08",
+      "name": "Unclass Lesson Builder",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p04L09",
+      "name": "CLSTR News Tracker",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p04L10",
+      "name": "KaTeX Error Fixer",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p04L11",
+      "name": "SimuGen",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p04L12",
+      "name": "PEARL",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p04L13",
+      "name": "Polyglot Cards",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p04L14",
+      "name": "Egleze",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p04L15",
+      "name": "Learn It",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p04L16",
+      "name": "atlas",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p04L17",
+      "name": "Study Daily — Flashcards",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p04L18",
+      "name": "SistaniGPT",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p04L19",
+      "name": "Read Frog",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p04L20",
+      "name": "Fastieshop Cinsel Sağlık",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p04L21",
+      "name": "Baseball Stat Ace",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p04L22",
+      "name": "Open Medicine",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p04L23",
+      "name": "Ohana",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p04L24",
+      "name": "World War Watcher",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p04L25",
+      "name": "Scouting NCAP Advisor",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p04L26",
+      "name": "Investor Panel",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p04L27",
+      "name": "ICD-10 Assistant",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p04L28",
+      "name": "Esp Por Ita Fre Deu",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p04L29",
+      "name": "Atelier Pottery Mentor",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p04L30",
+      "name": "Estimation des coûts",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p04L31",
+      "name": "The Living Bread",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p04L32",
+      "name": "Parrot",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p04L33",
+      "name": "Whiteboard Video Maker",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p04L34",
+      "name": "Bible Expert",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p04L35",
+      "name": "Guide enseignant",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p04L36",
+      "name": "SimpleFeed News Free MCP",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p04L37",
+      "name": "PTD Today Cosmos",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p04L38",
+      "name": "Growby",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p04L39",
+      "name": "QueryCraft SQL Coach",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p04L40",
+      "name": "Review Chess",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p04L41",
+      "name": "Manusights",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p04L42",
+      "name": "Chessigma",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p04L43",
+      "name": "MasterPiano",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p04L44",
+      "name": "Hedraios Scripture Context",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p04L45",
+      "name": "Conception de l’évaluation",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p04L46",
+      "name": "Class Key",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p04R01",
+      "name": "English Exercises",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p04R02",
+      "name": "Rexa",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p04R03",
+      "name": "Circular Frame Simulator",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p04R04",
+      "name": "Oboeru",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p04R05",
+      "name": "Cryptography Research Skills",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p04R06",
+      "name": "Black Tech Mafia",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p04R07",
+      "name": "TRX Search Resume Refiner™",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p04R08",
+      "name": "ClassWise School & District",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p04R09",
+      "name": "Eastern Orthodox Source Study",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p04R10",
+      "name": "TRX Search Interview Coach™",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p04R11",
+      "name": "Der erste Notenpunkt",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p04R12",
+      "name": "RecallRoute",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p04R13",
+      "name": "Vocabloot Deck Kit",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p04R14",
+      "name": "MolViewer",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p04R15",
+      "name": "Havan Festival Planner",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p04R16",
+      "name": "CapelanIA – Orientador",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p04R17",
+      "name": "RPS OBE Creator Dwijendra",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p04R18",
+      "name": "Anatomy",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p04R19",
+      "name": "PMP® Application Helper",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p04R20",
+      "name": "Trợ lý Phân tích Content Viral",
+      "status": "画像再確認済み",
+      "match": false,
+      "review_note": "原本の拡大画像で表示名を再確認",
+      "catalog_id": "atlas-pdf-education-p04r20"
+    },
+    {
+      "row_id": "p04R21",
+      "name": "Revisão Docente iMSEP 2026",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p04R22",
+      "name": "Paperpal",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p04R23",
+      "name": "Soreno Mock Interviews",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p04R24",
+      "name": "Biohacking Kompakt",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p04R25",
+      "name": "BoldVoice Pronunciation",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p04R26",
+      "name": "Assistant Jump 1 SFH",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p04R27",
+      "name": "TeachMe.To",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p04R28",
+      "name": "Coach lettura silente",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p04R29",
+      "name": "Policy Scope",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p04R30",
+      "name": "Hill Monitor",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p04R31",
+      "name": "SongDecoder",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p04R32",
+      "name": "Time Machine",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p04R33",
+      "name": "CollegeFill",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p04R34",
+      "name": "SD & SEM Learning Tutor",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p04R35",
+      "name": "Nanan Legal Research",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p04R36",
+      "name": "FluoTest",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p04R37",
+      "name": "Confetto Mock Interviews",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p04R38",
+      "name": "Sudoku by Puzzle Fuel",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p04R39",
+      "name": "Analyse des apprenants",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p04R40",
+      "name": "LiveSky",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p04R41",
+      "name": "Nibomo Flashcards",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p04R42",
+      "name": "Equation.io",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p04R43",
+      "name": "Nerdy",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p04R44",
+      "name": "Inventaire des tâches",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p04R45",
+      "name": "Learn...Wow! AI Library",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p04R46",
+      "name": "Accent Oracle by BoldVoice",
+      "status": "画像照合済み",
+      "match": false
+    }
+  ]
+}

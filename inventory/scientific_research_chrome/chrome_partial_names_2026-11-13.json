@@ -1,0 +1,165 @@
+{
+  "source": "Chrome ChatGPT 科学研究",
+  "date": "2026-11-13",
+  "method": "読み込まれた一覧のアクセシビリティツリーからカテゴリ付きリンク表示名を抽出。未読込部分やリンク条件に合わない項目は含まれない。",
+  "catalog_blob": "fd13ece4009fcf170733daf819bb2e7424328a60",
+  "counts": {
+    "rows": 38,
+    "matched": 0,
+    "unmatched": 38
+  },
+  "rows": [
+    {
+      "name": "Undermind",
+      "matched": false
+    },
+    {
+      "name": "Life Sciences Literature",
+      "matched": false
+    },
+    {
+      "name": "NGS Analysis Workbench",
+      "matched": false
+    },
+    {
+      "name": "Life Sciences Databases",
+      "matched": false
+    },
+    {
+      "name": "Molecular Structure Viewer",
+      "matched": false
+    },
+    {
+      "name": "Biological Sequence & Alignment Viewer",
+      "matched": false
+    },
+    {
+      "name": "Tamarind Bio",
+      "matched": false
+    },
+    {
+      "name": "Boltz",
+      "matched": false
+    },
+    {
+      "name": "Inductive",
+      "matched": false
+    },
+    {
+      "name": "Proto",
+      "matched": false
+    },
+    {
+      "name": "Pendar",
+      "matched": false
+    },
+    {
+      "name": "Peptide Critic",
+      "matched": false
+    },
+    {
+      "name": "Slide Viewer",
+      "matched": false
+    },
+    {
+      "name": "Rowan",
+      "matched": false
+    },
+    {
+      "name": "Genomic Intelligence",
+      "matched": false
+    },
+    {
+      "name": "Adaptyv Bio",
+      "matched": false
+    },
+    {
+      "name": "PeptidePrices COA Verifier",
+      "matched": false
+    },
+    {
+      "name": "PartnerProf - Quanntum Core",
+      "matched": false
+    },
+    {
+      "name": "CoChat",
+      "matched": false
+    },
+    {
+      "name": "NVIDIA BioNeMo Agent Toolkit",
+      "matched": false
+    },
+    {
+      "name": "Seq2Music",
+      "matched": false
+    },
+    {
+      "name": "SciGrant",
+      "matched": false
+    },
+    {
+      "name": "Rosalind Workbench",
+      "matched": false
+    },
+    {
+      "name": "QualiTaTi",
+      "matched": false
+    },
+    {
+      "name": "HoldsUp",
+      "matched": false
+    },
+    {
+      "name": "Arca FDA, Trials & PubMed",
+      "matched": false
+    },
+    {
+      "name": "Prognyx oncology intelligence",
+      "matched": false
+    },
+    {
+      "name": "Cypris Q",
+      "matched": false
+    },
+    {
+      "name": "PTS Pivotal Token Search",
+      "matched": false
+    },
+    {
+      "name": "Dopamine Club",
+      "matched": false
+    },
+    {
+      "name": "SciDraft",
+      "matched": false
+    },
+    {
+      "name": "Selenium",
+      "matched": false
+    },
+    {
+      "name": "Litmaps",
+      "matched": false
+    },
+    {
+      "name": "Helical",
+      "matched": false
+    },
+    {
+      "name": "ChatAcademia",
+      "matched": false
+    },
+    {
+      "name": "Synapse",
+      "matched": false
+    },
+    {
+      "name": "Oliver's mTOR Atlas",
+      "matched": false
+    },
+    {
+      "name": "Biosimulant",
+      "matched": false
+    }
+  ]
+}

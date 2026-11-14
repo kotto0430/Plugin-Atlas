@@ -1,0 +1,26 @@
+{
+  "name": "Storytailor",
+  "official_app_name": "Storytailor",
+  "provider": "Storytailor®",
+  "version": "2.0.3",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac7680628c4819182934854e47f7796?category=creativity",
+  "developer_url": "https://www.storytailor.com/",
+  "category": "Creativity",
+  "observed_at": "2026-11-14",
+  "original_description": "Connect your Storytailor account to create, read, continue and translate stories, build characters, and manage the Storytailor IDs you can access. Adjust reading preferences and Wonder Words, manage Care Circle and organization access, review story activity, and control connected Philips Hue lights. Changes are prepared for your confirmation and use your existing account permissions and allowances. Open Storytailor for its rich reading and listening experience, account security, parental consent and private reflections. The connection does not offer purchases, process patient records or make clinical assessments.",
+  "original_description_language": "en",
+  "description_scope": "ChatGPT詳細画面の提供元の英語説明。",
+  "summary_ja": "Storytailorの物語の作成・閲覧・続き・翻訳や登場人物を管理する。",
+  "usage_tags": [
+    "物語制作",
+    "読書",
+    "翻訳"
+  ],
+  "limitations_ja": "Storytailorアカウントとの接続を使用。変更は確認用に準備され既存の権限や利用枠に従うと説明。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "詳細画面の説明と情報欄を確認。実動作、料金、品質、権利条件は未検証。",
+  "catalog_status": "一覧本体との名称照合は未確認。同名・別名の同一性は未確認。"
+}

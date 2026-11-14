@@ -1,0 +1,1117 @@
+{
+  "source": "Chrome ChatGPT 教育",
+  "date": "2026-11-14",
+  "method": "アクセシビリティ出力のインストールボタンから表示名を抽出。出力途中で切れており、別種のボタンの項目は除外される。",
+  "catalog_blob": "fd13ece4009fcf170733daf819bb2e7424328a60",
+  "counts": {
+    "rows": 276,
+    "matched": 275,
+    "unmatched": 1
+  },
+  "rows": [
+    {
+      "name": "Consensus",
+      "matched": true
+    },
+    {
+      "name": "SciSpace",
+      "matched": true
+    },
+    {
+      "name": "Zotero",
+      "matched": true
+    },
+    {
+      "name": "Acumen by Talarion",
+      "matched": true
+    },
+    {
+      "name": "Sider Scholar",
+      "matched": true
+    },
+    {
+      "name": "Scite",
+      "matched": true
+    },
+    {
+      "name": "Wolfram",
+      "matched": true
+    },
+    {
+      "name": "Legal Data Hunter",
+      "matched": true
+    },
+    {
+      "name": "Explain Video Generator",
+      "matched": true
+    },
+    {
+      "name": "Elicit",
+      "matched": true
+    },
+    {
+      "name": "Kahoot!",
+      "matched": true
+    },
+    {
+      "name": "Quizlet",
+      "matched": true
+    },
+    {
+      "name": "AhaMotion",
+      "matched": true
+    },
+    {
+      "name": "Tarteel",
+      "matched": true
+    },
+    {
+      "name": "Academic Writing Toolkit",
+      "matched": true
+    },
+    {
+      "name": "Audioscrape",
+      "matched": true
+    },
+    {
+      "name": "Wiley Scholar Gateway",
+      "matched": true
+    },
+    {
+      "name": "alphaXiv",
+      "matched": true
+    },
+    {
+      "name": "Transkriptor",
+      "matched": true
+    },
+    {
+      "name": "CourtListener",
+      "matched": true
+    },
+    {
+      "name": "Strive PDF Generator",
+      "matched": true
+    },
+    {
+      "name": "Midpage Legal Research: US Law",
+      "matched": true
+    },
+    {
+      "name": "Scholar Sidekick",
+      "matched": true
+    },
+    {
+      "name": "Coursera Learning",
+      "matched": true
+    },
+    {
+      "name": "Padlet",
+      "matched": true
+    },
+    {
+      "name": "quran.ai",
+      "matched": true
+    },
+    {
+      "name": "Wayground",
+      "matched": true
+    },
+    {
+      "name": "Udemy",
+      "matched": true
+    },
+    {
+      "name": "Life Sciences NGS Analysis",
+      "matched": true
+    },
+    {
+      "name": "IAJUS",
+      "matched": true
+    },
+    {
+      "name": "MetaMetrics® Lexile Analyzer",
+      "matched": true
+    },
+    {
+      "name": "StudyMe.ai",
+      "matched": true
+    },
+    {
+      "name": "AnyLessonPlan for Teachers",
+      "matched": true
+    },
+    {
+      "name": "Patent Connector",
+      "matched": true
+    },
+    {
+      "name": "Amass",
+      "matched": true
+    },
+    {
+      "name": "Descrybe Legal Engine",
+      "matched": true
+    },
+    {
+      "name": "edX",
+      "matched": true
+    },
+    {
+      "name": "Language Coach: English",
+      "matched": true
+    },
+    {
+      "name": "PaperDock",
+      "matched": true
+    },
+    {
+      "name": "OpenAI Certified",
+      "matched": true
+    },
+    {
+      "name": "DataCamp",
+      "matched": true
+    },
+    {
+      "name": "Precise Special Functions",
+      "matched": true
+    },
+    {
+      "name": "Music Block",
+      "matched": true
+    },
+    {
+      "name": "Brisk Teaching",
+      "matched": true
+    },
+    {
+      "name": "Linked Word",
+      "matched": true
+    },
+    {
+      "name": "Ace Knowledge Graph",
+      "matched": true
+    },
+    {
+      "name": "SkinKnowledgeBase",
+      "matched": true
+    },
+    {
+      "name": "italki language learning",
+      "matched": true
+    },
+    {
+      "name": "Kuliko AI",
+      "matched": true
+    },
+    {
+      "name": "Parenting Hub",
+      "matched": true
+    },
+    {
+      "name": "Studocu",
+      "matched": true
+    },
+    {
+      "name": "Inflearn",
+      "matched": true
+    },
+    {
+      "name": "Recall",
+      "matched": true
+    },
+    {
+      "name": "Ace Quiz Maker",
+      "matched": true
+    },
+    {
+      "name": "Spanish Law Research",
+      "matched": true
+    },
+    {
+      "name": "ApplyBoard",
+      "matched": true
+    },
+    {
+      "name": "1 Billion Brain Cells",
+      "matched": true
+    },
+    {
+      "name": "QuizFlight",
+      "matched": true
+    },
+    {
+      "name": "Chessvia Openings",
+      "matched": true
+    },
+    {
+      "name": "Fiveable for AP Students",
+      "matched": true
+    },
+    {
+      "name": "A-Z Dictionary",
+      "matched": true
+    },
+    {
+      "name": "Tailo Lens",
+      "matched": true
+    },
+    {
+      "name": "Chymia",
+      "matched": true
+    },
+    {
+      "name": "Kiuwo",
+      "matched": true
+    },
+    {
+      "name": "Mynawoo AI Language Tutor",
+      "matched": true
+    },
+    {
+      "name": "Learning Commons",
+      "matched": true
+    },
+    {
+      "name": "Lurna",
+      "matched": true
+    },
+    {
+      "name": "TriviaQuiz",
+      "matched": true
+    },
+    {
+      "name": "AI4F Japanese Study",
+      "matched": true
+    },
+    {
+      "name": "Edvoy",
+      "matched": true
+    },
+    {
+      "name": "getMindmap",
+      "matched": true
+    },
+    {
+      "name": "SFT Brain",
+      "matched": true
+    },
+    {
+      "name": "Quiz My Notes by Trivana",
+      "matched": true
+    },
+    {
+      "name": "Preply Language Tutor Finder",
+      "matched": true
+    },
+    {
+      "name": "How To Student",
+      "matched": true
+    },
+    {
+      "name": "Emona",
+      "matched": true
+    },
+    {
+      "name": "Self Plagiarism Checker",
+      "matched": true
+    },
+    {
+      "name": "Lune",
+      "matched": true
+    },
+    {
+      "name": "HadithDB",
+      "matched": true
+    },
+    {
+      "name": "Cody Reading",
+      "matched": true
+    },
+    {
+      "name": "Shchebitka Vocabulary Trainer",
+      "matched": true
+    },
+    {
+      "name": "EduInsights",
+      "matched": true
+    },
+    {
+      "name": "Sketchy Medical",
+      "matched": true
+    },
+    {
+      "name": "Omphalis",
+      "matched": true
+    },
+    {
+      "name": "ScholarshipOwl",
+      "matched": true
+    },
+    {
+      "name": "Agora",
+      "matched": true
+    },
+    {
+      "name": "Particl Market Research",
+      "matched": true
+    },
+    {
+      "name": "Studyportals",
+      "matched": true
+    },
+    {
+      "name": "A-Z Daily Word",
+      "matched": true
+    },
+    {
+      "name": "The Economist - Graphs",
+      "matched": true
+    },
+    {
+      "name": "Metronome: Music tempo+beat",
+      "matched": true
+    },
+    {
+      "name": "LeapScholar",
+      "matched": true
+    },
+    {
+      "name": "AçıkSilivri Havadis",
+      "matched": true
+    },
+    {
+      "name": "PokeBot.ai Career Coach",
+      "matched": true
+    },
+    {
+      "name": "Wayroc Career Coach",
+      "matched": true
+    },
+    {
+      "name": "Nylon",
+      "matched": true
+    },
+    {
+      "name": "Assessment Generator",
+      "matched": true
+    },
+    {
+      "name": "ETT",
+      "matched": false
+    },
+    {
+      "name": "Dhamma Data",
+      "matched": true
+    },
+    {
+      "name": "Promova",
+      "matched": true
+    },
+    {
+      "name": "Course Studio",
+      "matched": true
+    },
+    {
+      "name": "Examen Civique",
+      "matched": true
+    },
+    {
+      "name": "Glossarize",
+      "matched": true
+    },
+    {
+      "name": "Ace Flashcard Maker",
+      "matched": true
+    },
+    {
+      "name": "TapWaterMap",
+      "matched": true
+    },
+    {
+      "name": "Any Fact Widget",
+      "matched": true
+    },
+    {
+      "name": "Bee Spelling",
+      "matched": true
+    },
+    {
+      "name": "Drill",
+      "matched": true
+    },
+    {
+      "name": "Chegg Study",
+      "matched": true
+    },
+    {
+      "name": "Dow Jones Factiva",
+      "matched": true
+    },
+    {
+      "name": "Flashcards Space",
+      "matched": true
+    },
+    {
+      "name": "CAIRO Medicines",
+      "matched": true
+    },
+    {
+      "name": "BestColleges.com",
+      "matched": true
+    },
+    {
+      "name": "Article Galaxy",
+      "matched": true
+    },
+    {
+      "name": "LingoStar",
+      "matched": true
+    },
+    {
+      "name": "Academic Assistant",
+      "matched": true
+    },
+    {
+      "name": "API Lessons",
+      "matched": true
+    },
+    {
+      "name": "Stock & ETF Research Panel",
+      "matched": true
+    },
+    {
+      "name": "monPIF",
+      "matched": true
+    },
+    {
+      "name": "SPIEGEL’s Nazi Database",
+      "matched": true
+    },
+    {
+      "name": "College Vidya",
+      "matched": true
+    },
+    {
+      "name": "Lingard",
+      "matched": true
+    },
+    {
+      "name": "Boluda",
+      "matched": true
+    },
+    {
+      "name": "Pencil Spaces",
+      "matched": true
+    },
+    {
+      "name": "SAMRUM",
+      "matched": true
+    },
+    {
+      "name": "MentorCruise",
+      "matched": true
+    },
+    {
+      "name": "Careerbot",
+      "matched": true
+    },
+    {
+      "name": "Premom Ovulation Calculator",
+      "matched": true
+    },
+    {
+      "name": "MSDS Chain",
+      "matched": true
+    },
+    {
+      "name": "TTMNG Public",
+      "matched": true
+    },
+    {
+      "name": "Beast Academy - All Ten",
+      "matched": true
+    },
+    {
+      "name": "Bodhaka Virtual Labs",
+      "matched": true
+    },
+    {
+      "name": "Flash",
+      "matched": true
+    },
+    {
+      "name": "edifyedu.in",
+      "matched": true
+    },
+    {
+      "name": "Skarim!",
+      "matched": true
+    },
+    {
+      "name": "Digital Compass",
+      "matched": true
+    },
+    {
+      "name": "TestMaker",
+      "matched": true
+    },
+    {
+      "name": "MolChart",
+      "matched": true
+    },
+    {
+      "name": "CoreStepPrep",
+      "matched": true
+    },
+    {
+      "name": "NoBrainner",
+      "matched": true
+    },
+    {
+      "name": "OpenRegs: Regulatory Research",
+      "matched": true
+    },
+    {
+      "name": "Powers Index",
+      "matched": true
+    },
+    {
+      "name": "SimpleFeed News & Video MCP",
+      "matched": true
+    },
+    {
+      "name": "SRS (Spaced Repitation System)",
+      "matched": true
+    },
+    {
+      "name": "Vitark",
+      "matched": true
+    },
+    {
+      "name": "PhysioKeys",
+      "matched": true
+    },
+    {
+      "name": "Protplex",
+      "matched": true
+    },
+    {
+      "name": "Dewey Data",
+      "matched": true
+    },
+    {
+      "name": "Math Solver",
+      "matched": true
+    },
+    {
+      "name": "Suplla",
+      "matched": true
+    },
+    {
+      "name": "Học Y",
+      "matched": true
+    },
+    {
+      "name": "Research",
+      "matched": true
+    },
+    {
+      "name": "EbooksDepository",
+      "matched": true
+    },
+    {
+      "name": "LaTeX Document Maker",
+      "matched": true
+    },
+    {
+      "name": "HiTCF",
+      "matched": true
+    },
+    {
+      "name": "Vocabden",
+      "matched": true
+    },
+    {
+      "name": "TeX64",
+      "matched": true
+    },
+    {
+      "name": "PlyMove",
+      "matched": true
+    },
+    {
+      "name": "AL WAKEELO",
+      "matched": true
+    },
+    {
+      "name": "QuizStage",
+      "matched": true
+    },
+    {
+      "name": "Noteflix",
+      "matched": true
+    },
+    {
+      "name": "Admit Coach University Finder",
+      "matched": true
+    },
+    {
+      "name": "EM2 Statistics Learning Agent",
+      "matched": true
+    },
+    {
+      "name": "fastwrite",
+      "matched": true
+    },
+    {
+      "name": "WordByWord – Learn Languages",
+      "matched": true
+    },
+    {
+      "name": "IELTS Speaking Simulator",
+      "matched": true
+    },
+    {
+      "name": "Skillsail",
+      "matched": true
+    },
+    {
+      "name": "TeacherGPT",
+      "matched": true
+    },
+    {
+      "name": "GenealogyDirect",
+      "matched": true
+    },
+    {
+      "name": "Joe Speaking",
+      "matched": true
+    },
+    {
+      "name": "PE Prep Pro Engineering",
+      "matched": true
+    },
+    {
+      "name": "Replio",
+      "matched": true
+    },
+    {
+      "name": "AI Voor Leerlingen",
+      "matched": true
+    },
+    {
+      "name": "ZZAIM",
+      "matched": true
+    },
+    {
+      "name": "StudyArena",
+      "matched": true
+    },
+    {
+      "name": "Mathbox",
+      "matched": true
+    },
+    {
+      "name": "Trendkia News",
+      "matched": true
+    },
+    {
+      "name": "Eclat Institute",
+      "matched": true
+    },
+    {
+      "name": "AI Museum",
+      "matched": true
+    },
+    {
+      "name": "Legal Research by Lawstronaut",
+      "matched": true
+    },
+    {
+      "name": "CanQuiz",
+      "matched": true
+    },
+    {
+      "name": "UrbanPro Tutor Finder",
+      "matched": true
+    },
+    {
+      "name": "Taxiger Doc",
+      "matched": true
+    },
+    {
+      "name": "Qulture",
+      "matched": true
+    },
+    {
+      "name": "AI Study Tutor",
+      "matched": true
+    },
+    {
+      "name": "Research Evidence Finder",
+      "matched": true
+    },
+    {
+      "name": "CiteCheck",
+      "matched": true
+    },
+    {
+      "name": "Coffeetable",
+      "matched": true
+    },
+    {
+      "name": "Special Education Law",
+      "matched": true
+    },
+    {
+      "name": "Lucebra",
+      "matched": true
+    },
+    {
+      "name": "nav4ai",
+      "matched": true
+    },
+    {
+      "name": "Interview Trix",
+      "matched": true
+    },
+    {
+      "name": "CubbyEd Classical Curriculum",
+      "matched": true
+    },
+    {
+      "name": "AliXAi",
+      "matched": true
+    },
+    {
+      "name": "Vocaneo",
+      "matched": true
+    },
+    {
+      "name": "PuzzleMaker Pro",
+      "matched": true
+    },
+    {
+      "name": "UX Jobs",
+      "matched": true
+    },
+    {
+      "name": "AbS",
+      "matched": true
+    },
+    {
+      "name": "IELTS Writing Coach - English",
+      "matched": true
+    },
+    {
+      "name": "MAK Immigration Source Guide",
+      "matched": true
+    },
+    {
+      "name": "Wortschatz",
+      "matched": true
+    },
+    {
+      "name": "Scientific Visuals & Tables",
+      "matched": true
+    },
+    {
+      "name": "Doers Lingua",
+      "matched": true
+    },
+    {
+      "name": "Translate GPT",
+      "matched": true
+    },
+    {
+      "name": "Contact Center AI Association",
+      "matched": true
+    },
+    {
+      "name": "Glow Research Docs",
+      "matched": true
+    },
+    {
+      "name": "Life Analytics IAS",
+      "matched": true
+    },
+    {
+      "name": "French Coach",
+      "matched": true
+    },
+    {
+      "name": "JurisAI-ICIDA",
+      "matched": true
+    },
+    {
+      "name": "MedStats",
+      "matched": true
+    },
+    {
+      "name": "EduOpus",
+      "matched": true
+    },
+    {
+      "name": "Nyambot",
+      "matched": true
+    },
+    {
+      "name": "Funlearny",
+      "matched": true
+    },
+    {
+      "name": "Talents Kids",
+      "matched": true
+    },
+    {
+      "name": "Signal Advisor",
+      "matched": true
+    },
+    {
+      "name": "Mini Course Generator",
+      "matched": true
+    },
+    {
+      "name": "Clairwave",
+      "matched": true
+    },
+    {
+      "name": "RubricMark Practice",
+      "matched": true
+    },
+    {
+      "name": "VoteMapper",
+      "matched": true
+    },
+    {
+      "name": "Any Topic Academy",
+      "matched": true
+    },
+    {
+      "name": "Crazy Tongits – Learn & Review",
+      "matched": true
+    },
+    {
+      "name": "Atlarium Habitat Database MCP",
+      "matched": true
+    },
+    {
+      "name": "RooQuiz",
+      "matched": true
+    },
+    {
+      "name": "Parliament Connect",
+      "matched": true
+    },
+    {
+      "name": "Blossom",
+      "matched": true
+    },
+    {
+      "name": "LiveCase",
+      "matched": true
+    },
+    {
+      "name": "TTXVN Nghị quyết 57",
+      "matched": true
+    },
+    {
+      "name": "MediPrep Study Navigator",
+      "matched": true
+    },
+    {
+      "name": "Gordito",
+      "matched": true
+    },
+    {
+      "name": "Plasmole",
+      "matched": true
+    },
+    {
+      "name": "AI PDF Assistant",
+      "matched": true
+    },
+    {
+      "name": "Eastern Orthodox Theology",
+      "matched": true
+    },
+    {
+      "name": "Vitamarinaweb",
+      "matched": true
+    },
+    {
+      "name": "Dentovio Exam Prep",
+      "matched": true
+    },
+    {
+      "name": "Medical Blueprint Builder",
+      "matched": true
+    },
+    {
+      "name": "Katav",
+      "matched": true
+    },
+    {
+      "name": "Agent Consent Patterns",
+      "matched": true
+    },
+    {
+      "name": "Readplace",
+      "matched": true
+    },
+    {
+      "name": "Maakrop",
+      "matched": true
+    },
+    {
+      "name": "Analytics Brain",
+      "matched": true
+    },
+    {
+      "name": "Povtori",
+      "matched": true
+    },
+    {
+      "name": "Teach",
+      "matched": true
+    },
+    {
+      "name": "Learn Language",
+      "matched": true
+    },
+    {
+      "name": "Dr Kevin AI",
+      "matched": true
+    },
+    {
+      "name": "Agent Kunjani",
+      "matched": true
+    },
+    {
+      "name": "Code Tutor",
+      "matched": true
+    },
+    {
+      "name": "Sauna Monthly",
+      "matched": true
+    },
+    {
+      "name": "Musical",
+      "matched": true
+    },
+    {
+      "name": "Research Writing Guardrails",
+      "matched": true
+    },
+    {
+      "name": "ChildEdu Studio 2.0",
+      "matched": true
+    },
+    {
+      "name": "World Flag Map",
+      "matched": true
+    },
+    {
+      "name": "Complete Military Benefits",
+      "matched": true
+    },
+    {
+      "name": "Bench Coach",
+      "matched": true
+    },
+    {
+      "name": "EduRolia",
+      "matched": true
+    },
+    {
+      "name": "Lux AI",
+      "matched": true
+    },
+    {
+      "name": "Clasora Tutor Finder",
+      "matched": true
+    },
+    {
+      "name": "BaniDB",
+      "matched": true
+    },
+    {
+      "name": "GPT Chat Russian",
+      "matched": true
+    },
+    {
+      "name": "Cybersecurity",
+      "matched": true
+    },
+    {
+      "name": "FootballGPT",
+      "matched": true
+    },
+    {
+      "name": "SuperQDA",
+      "matched": true
+    },
+    {
+      "name": "Chat Español",
+      "matched": true
+    },
+    {
+      "name": "curso.ai",
+      "matched": true
+    },
+    {
+      "name": "Life in the UK Practice Tests",
+      "matched": true
+    },
+    {
+      "name": "Socratic Tutor",
+      "matched": true
+    },
+    {
+      "name": "Biohub ESM",
+      "matched": true
+    },
+    {
+      "name": "Critical Thinking Coach",
+      "matched": true
+    },
+    {
+      "name": "Elite Trainer Fight Coach",
+      "matched": true
+    },
+    {
+      "name": "MedAcad Writer Support",
+      "matched": true
+    },
+    {
+      "name": "Web Research Assistant",
+      "matched": true
+    },
+    {
+      "name": "SentLines",
+      "matched": true
+    },
+    {
+      "name": "English Exercises",
+      "matched": true
+    },
+    {
+      "name": "Coursekin",
+      "matched": true
+    },
+    {
+      "name": "TA Poltekkes by Quartlympus",
+      "matched": true
+    },
+    {
+      "name": "Circular Frame Simulator",
+      "matched": true
+    },
+    {
+      "name": "TÕPS",
+      "matched": true
+    }
+  ]
+}

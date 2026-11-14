@@ -1,0 +1,4049 @@
+{
+  "status": "未校正・未完了",
+  "rows": [
+    {
+      "row_id": "p01L01",
+      "ocr_candidate": "Canva",
+      "name_match_existing": true,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p01L02",
+      "ocr_candidate": "Figma",
+      "name_match_existing": true,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p01L03",
+      "ocr_candidate": "Product Design",
+      "name_match_existing": true,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p01L04",
+      "ocr_candidate": "Descript",
+      "name_match_existing": true,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p01L05",
+      "ocr_candidate": "OpenArt",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p01L06",
+      "ocr_candidate": "Magnific",
+      "name_match_existing": true,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p01L07",
+      "ocr_candidate": "Al Voice Generator",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p01L08",
+      "ocr_candidate": "Gamma",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p01L09",
+      "ocr_candidate": "HyperFrames by HeyGen",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p01L10",
+      "ocr_candidate": "Al Video Maker",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p01L11",
+      "ocr_candidate": "Krea",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p01L12",
+      "ocr_candidate": "Mobbin",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p01L13",
+      "ocr_candidate": "Adobe Express",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p01L14",
+      "ocr_candidate": "Autodesk Product Help",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p01L15",
+      "ocr_candidate": "Arcads",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p01L16",
+      "ocr_candidate": "Instavar Video Templates",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p01L17",
+      "ocr_candidate": "OpusClip: Video Editing",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p01L18",
+      "ocr_candidate": "VideoGen - Al Video Generator",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p01L19",
+      "ocr_candidate": "ImagineArt",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p01L20",
+      "ocr_candidate": "sync. labs",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p01L21",
+      "ocr_candidate": "MyFonts",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p01L22",
+      "ocr_candidate": "Genspark Al Slides",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p01L23",
+      "ocr_candidate": "Riverside",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p01L24",
+      "ocr_candidate": "Videomagic",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p01L25",
+      "ocr_candidate": "Frameo.Al",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p01L26",
+      "ocr_candidate": "Tesseract",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p01L27",
+      "ocr_candidate": "Synthesia",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p01L28",
+      "ocr_candidate": "B12 Website Generator",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p01L29",
+      "ocr_candidate": "Morphix",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p01L30",
+      "ocr_candidate": "Orshot",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p01L31",
+      "ocr_candidate": "Apixel",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p01L32",
+      "ocr_candidate": "Screel",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p01L33",
+      "ocr_candidate": "Instant Website",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p01L34",
+      "ocr_candidate": "LogoGenic Image Generator",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p01L35",
+      "ocr_candidate": "TalkGen",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p01L36",
+      "ocr_candidate": "Hypernatural",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p01L37",
+      "ocr_candidate": "Insta Website Builder",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p01L38",
+      "ocr_candidate": "Krikey Al Animation",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p01L39",
+      "ocr_candidate": "Pixlie",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p01L40",
+      "ocr_candidate": "Website Builder",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p01L41",
+      "ocr_candidate": "Font Pairing: Design & Brands",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p01L42",
+      "ocr_candidate": "Glinded for Birthday Videos",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p01L43",
+      "ocr_candidate": "Al Song Maker",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p01R01",
+      "ocr_candidate": "Higgsfield",
+      "name_match_existing": true,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p01R02",
+      "ocr_candidate": "Runway",
+      "name_match_existing": true,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p01R03",
+      "ocr_candidate": "HeyGen",
+      "name_match_existing": true,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p01R04",
+      "ocr_candidate": "Adobe",
+      "name_match_existing": true,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p01R05",
+      "ocr_candidate": "Creative Production",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p01R06",
+      "ocr_candidate": "invideo",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p01R07",
+      "ocr_candidate": "fal",
+      "name_match_existing": true,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p01R08",
+      "ocr_candidate": "Creative Claw",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p01R09",
+      "ocr_candidate": "Picsart",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p01R10",
+      "ocr_candidate": "Everygen",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p01R11",
+      "ocr_candidate": "Pollo Al",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p01R12",
+      "ocr_candidate": "Topview",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p01R13",
+      "ocr_candidate": "Refero",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p01R14",
+      "ocr_candidate": "Visla Video Maker",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p01R15",
+      "ocr_candidate": "VEED Video Generator",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p01R16",
+      "ocr_candidate": "MagicPath",
+      "name_match_existing": true,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p01R17",
+      "ocr_candidate": "BlitzReels",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p01R18",
+      "ocr_candidate": "VideoZero",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p01R19",
+      "ocr_candidate": "to3D",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p01R20",
+      "ocr_candidate": "BioRender",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p01R21",
+      "ocr_candidate": "Kling Al for Terminal",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p01R22",
+      "ocr_candidate": "Sparki",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p01R23",
+      "ocr_candidate": "Al Graphic Design",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p01R24",
+      "ocr_candidate": "Shutterstock",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p01R25",
+      "ocr_candidate": "Tesseract",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p01R26",
+      "ocr_candidate": "Al Music Maker",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p01R27",
+      "ocr_candidate": "NoveLand for Writers",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p01R28",
+      "ocr_candidate": "Deep Art Al",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p01R29",
+      "ocr_candidate": "PixVerse (Legacy; EOL soon)",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p01R30",
+      "ocr_candidate": "Color Designer - Palette Maker",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p01R31",
+      "ocr_candidate": "Al Video Generator",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p01R32",
+      "ocr_candidate": "FLORA",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p01R33",
+      "ocr_candidate": "MangaBoom",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p01R34",
+      "ocr_candidate": "Loomly",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p01R35",
+      "ocr_candidate": "Midify",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p01R36",
+      "ocr_candidate": "drawDash - Sketch Challenge!",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p01R37",
+      "ocr_candidate": "Meshy",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p01R38",
+      "ocr_candidate": "Kolbo.Al",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p01R39",
+      "ocr_candidate": "WalkMyPlan — Floor Plans in 3D",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p01R40",
+      "ocr_candidate": "UX Pilot",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p01R41",
+      "ocr_candidate": "Kive",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p01R42",
+      "ocr_candidate": "Image to Video",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p01R43",
+      "ocr_candidate": "Grapes Studio",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02L01",
+      "ocr_candidate": "Animation Maker",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02L02",
+      "ocr_candidate": "Havi: Slides & PPT Maker",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02L03",
+      "ocr_candidate": "Interior Company",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02L04",
+      "ocr_candidate": "123 Piano",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02L05",
+      "ocr_candidate": "Motionvid",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02L06",
+      "ocr_candidate": "HZplan",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02L07",
+      "ocr_candidate": "VisualSong",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02L08",
+      "ocr_candidate": "FashionTrendAl",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02L09",
+      "ocr_candidate": "Al Image Generator",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02L10",
+      "ocr_candidate": "Martini",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02L11",
+      "ocr_candidate": "Kopi - Shopify Email Creator",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02L12",
+      "ocr_candidate": "Pika",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02L13",
+      "ocr_candidate": "Logo Generator",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02L14",
+      "ocr_candidate": "Vectorize",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02L15",
+      "ocr_candidate": "Infographic Artist",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02L16",
+      "ocr_candidate": "Faces",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02L17",
+      "ocr_candidate": "VIXNODE",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02L18",
+      "ocr_candidate": "DepositPhotos",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02L19",
+      "ocr_candidate": "Flipbook - Publuu",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02L20",
+      "ocr_candidate": "Vocuno",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02L21",
+      "ocr_candidate": "Amazing Drawing",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02L22",
+      "ocr_candidate": "B&A: Sketch",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02L23",
+      "ocr_candidate": "Poster Maker",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02L24",
+      "ocr_candidate": "Whiteboard by Athena Al",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02L25",
+      "ocr_candidate": "Flipsnack",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02L26",
+      "ocr_candidate": "Kittl",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02L27",
+      "ocr_candidate": "Story Writer",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02L28",
+      "ocr_candidate": "Image Generator",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02L29",
+      "ocr_candidate": "Make A Viz",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02L30",
+      "ocr_candidate": "SSHOW",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02L31",
+      "ocr_candidate": "Maze",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02L32",
+      "ocr_candidate": "PrintTiler",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02L33",
+      "ocr_candidate": "Architecture Designer",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02L34",
+      "ocr_candidate": "Inkroost: Comic & Manga Maker",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02L35",
+      "ocr_candidate": "12ui Design",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02L36",
+      "ocr_candidate": "Subdivide",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02L37",
+      "ocr_candidate": "3aqel Arabic Creative",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02L38",
+      "ocr_candidate": "Sequel.io",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02L39",
+      "ocr_candidate": "Goldie",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02L40",
+      "ocr_candidate": "Logo Designer",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02L41",
+      "ocr_candidate": "Pexafy Stock Photos",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02L42",
+      "ocr_candidate": "Aspicio",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02L43",
+      "ocr_candidate": "Atlas Cloud",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02L44",
+      "ocr_candidate": "Malloy Studio",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02L45",
+      "ocr_candidate": "Tripo 3D",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02L46",
+      "ocr_candidate": "Taste",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02L47",
+      "ocr_candidate": "Heyzine Flipbooks",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02R01",
+      "ocr_candidate": "Montage",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02R02",
+      "ocr_candidate": "VoiceLabs",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02R03",
+      "ocr_candidate": "Supericons",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02R04",
+      "ocr_candidate": "Impeccable",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02R05",
+      "ocr_candidate": "Al Color Picker - Design Tool",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02R06",
+      "ocr_candidate": "kernelCAD",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02R07",
+      "ocr_candidate": "Morphed",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02R08",
+      "ocr_candidate": "Pablooo.club Benchmark library",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02R09",
+      "ocr_candidate": "Faceless Video Maker",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02R10",
+      "ocr_candidate": "Glinded for Memorial Videos",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02R11",
+      "ocr_candidate": "Designly",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02R12",
+      "ocr_candidate": "Clipwave Video & Image Maker",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02R13",
+      "ocr_candidate": "01 Superdesign",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02R14",
+      "ocr_candidate": "Pixelixe",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02R15",
+      "ocr_candidate": "Vulca",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02R16",
+      "ocr_candidate": "Mirelo",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02R17",
+      "ocr_candidate": "Gradient Maker - Linear Color",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02R18",
+      "ocr_candidate": "Simple SoapCalc",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02R19",
+      "ocr_candidate": "UI UX Designer",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02R20",
+      "ocr_candidate": "Al Photo Editor",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02R21",
+      "ocr_candidate": "Alpix",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02R22",
+      "ocr_candidate": "B&A: Draw Sketches",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02R23",
+      "ocr_candidate": "Davia Creation",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02R24",
+      "ocr_candidate": "Appllama",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02R25",
+      "ocr_candidate": "Sonilo",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02R26",
+      "ocr_candidate": "Spline",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02R27",
+      "ocr_candidate": "Wixel",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02R28",
+      "ocr_candidate": "Image Generator",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02R29",
+      "ocr_candidate": "Clueso",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02R30",
+      "ocr_candidate": "Sequencer",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02R31",
+      "ocr_candidate": "Al Fashion Designer",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02R32",
+      "ocr_candidate": "PosterMyWall",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02R33",
+      "ocr_candidate": "Dazzly",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02R34",
+      "ocr_candidate": "GifGen - GIFs",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02R35",
+      "ocr_candidate": "skima",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02R36",
+      "ocr_candidate": "DevMotion",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02R37",
+      "ocr_candidate": "PoolVisionlA",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02R38",
+      "ocr_candidate": "Sitelas",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02R39",
+      "ocr_candidate": "Butter",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02R40",
+      "ocr_candidate": "Novel Writer",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02R41",
+      "ocr_candidate": "Flixly",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02R42",
+      "ocr_candidate": "Planner5D: Plan, Build, Create",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02R43",
+      "ocr_candidate": "Graphic Design Studio",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02R44",
+      "ocr_candidate": "Tolstoy",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02R45",
+      "ocr_candidate": "Video Lab",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02R46",
+      "ocr_candidate": "Cardboard",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p02R47",
+      "ocr_candidate": "AINSOF",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03L01",
+      "ocr_candidate": "Drivethrough",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03L02",
+      "ocr_candidate": "The Altiora Codex Oracle",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03L03",
+      "ocr_candidate": "AdKraft",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03L04",
+      "ocr_candidate": "Flatma",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03L05",
+      "ocr_candidate": "Air",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03L06",
+      "ocr_candidate": "PostNitro",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03L07",
+      "ocr_candidate": "ShotClick: Screenplay & Script",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03L08",
+      "ocr_candidate": "Treza",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03L09",
+      "ocr_candidate": "Laotan Al Copywriting",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03L10",
+      "ocr_candidate": "Artlist",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03L11",
+      "ocr_candidate": "Pitch",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03L12",
+      "ocr_candidate": "Carat",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03L13",
+      "ocr_candidate": "Web Design",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03L14",
+      "ocr_candidate": "Quickads",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03L15",
+      "ocr_candidate": "MotionDesign",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03L16",
+      "ocr_candidate": "PictureBooks",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03L17",
+      "ocr_candidate": "Art Designer",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03L18",
+      "ocr_candidate": "Room Renovation Visualizer",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03L19",
+      "ocr_candidate": "GifGen - Sticker Maker",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03L20",
+      "ocr_candidate": "AppLaunchFlow",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03L21",
+      "ocr_candidate": "Astria",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03L22",
+      "ocr_candidate": "Voicepanel",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03L23",
+      "ocr_candidate": "Yaps Background Remover",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03L24",
+      "ocr_candidate": "Nonica",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03L25",
+      "ocr_candidate": "Al Video and Image by AIRP",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03L26",
+      "ocr_candidate": "Voiceover Lab",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03L27",
+      "ocr_candidate": "Dramatica",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03L28",
+      "ocr_candidate": "Musamimuk",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03L29",
+      "ocr_candidate": "DesignSystem",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03L30",
+      "ocr_candidate": "Al Film Pipeline Master",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03L31",
+      "ocr_candidate": "Templated",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03L32",
+      "ocr_candidate": "Pedra",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03L33",
+      "ocr_candidate": "Blog Generator",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03L34",
+      "ocr_candidate": "Awesome DESIGN.md",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03L35",
+      "ocr_candidate": "UXCritique",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03L36",
+      "ocr_candidate": "Yaps Video Clipping",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03L37",
+      "ocr_candidate": "UlAudit",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03L38",
+      "ocr_candidate": "VOSU",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03L39",
+      "ocr_candidate": "ShapeUl",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03L40",
+      "ocr_candidate": "MeiGen Gallery",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03L41",
+      "ocr_candidate": "PlayDrop",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03L42",
+      "ocr_candidate": "Al Headshot Generator",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03L43",
+      "ocr_candidate": "Studio Ghibli Anime Creator",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03L44",
+      "ocr_candidate": "Writing Assistant",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03L45",
+      "ocr_candidate": "Worldkeep",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03L46",
+      "ocr_candidate": "Orisu",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03R01",
+      "ocr_candidate": "Uxia",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03R02",
+      "ocr_candidate": "GIF Maker",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03R03",
+      "ocr_candidate": "CutPro",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03R04",
+      "ocr_candidate": "DropTrack",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03R05",
+      "ocr_candidate": "Embroidery File Converter",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03R06",
+      "ocr_candidate": "Thumbnail Maker",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03R07",
+      "ocr_candidate": "Widemile",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03R08",
+      "ocr_candidate": "Ullbek",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03R09",
+      "ocr_candidate": "NewsTune Studio",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03R10",
+      "ocr_candidate": "Magic Hour Al",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03R11",
+      "ocr_candidate": "Character Creator",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03R12",
+      "ocr_candidate": "WonderWorks",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03R13",
+      "ocr_candidate": "Taste",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03R14",
+      "ocr_candidate": "Yaps Video Captions",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03R15",
+      "ocr_candidate": "Incarn",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03R16",
+      "ocr_candidate": "AdsTurbo",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03R17",
+      "ocr_candidate": "Cartoon Yourself",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03R18",
+      "ocr_candidate": "Text to Speech",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03R19",
+      "ocr_candidate": "Logos & app icons",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03R20",
+      "ocr_candidate": "Conversational Narrative",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03R21",
+      "ocr_candidate": "Lawh.ai",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03R22",
+      "ocr_candidate": "GIF Creator",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03R23",
+      "ocr_candidate": "Kapwing",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03R24",
+      "ocr_candidate": "StitchDesign",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03R25",
+      "ocr_candidate": "Aholo Lux3D",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03R26",
+      "ocr_candidate": "Framer",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03R27",
+      "ocr_candidate": "Voice Cloning",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03R28",
+      "ocr_candidate": "Yaps Audio Cleaner",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03R29",
+      "ocr_candidate": "Uwear",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03R30",
+      "ocr_candidate": "ShirtLab",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03R31",
+      "ocr_candidate": "Diagram Builder",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03R32",
+      "ocr_candidate": "BrandKit",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03R33",
+      "ocr_candidate": "Rendemo",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03R34",
+      "ocr_candidate": "Details.so",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03R35",
+      "ocr_candidate": "Swish Sports Court Builder",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03R36",
+      "ocr_candidate": "Studio by Memes",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03R37",
+      "ocr_candidate": "ImageToCode",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03R38",
+      "ocr_candidate": "Hansora Al",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03R39",
+      "ocr_candidate": "Zim Studio",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03R40",
+      "ocr_candidate": "Redesign",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03R41",
+      "ocr_candidate": "Content Lab",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03R42",
+      "ocr_candidate": "Marq",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03R43",
+      "ocr_candidate": "Property Video",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03R44",
+      "ocr_candidate": "Klap",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03R45",
+      "ocr_candidate": "FreeTTS",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p03R46",
+      "ocr_candidate": "Meshy 3D",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04L01",
+      "ocr_candidate": "WebMockup",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04L02",
+      "ocr_candidate": "MobileMockup",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04L03",
+      "ocr_candidate": "Polish",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04L04",
+      "ocr_candidate": "Flav.I[A — Fotos de Iméveis",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04L05",
+      "ocr_candidate": "Icon Design",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04L06",
+      "ocr_candidate": "MixMatter",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04L07",
+      "ocr_candidate": "Viral Hook Suite",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04L08",
+      "ocr_candidate": "Viral 80 Trend",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04L09",
+      "ocr_candidate": "Vivu",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04L10",
+      "ocr_candidate": "Sandcastles",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04L11",
+      "ocr_candidate": "Ad Army",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04L12",
+      "ocr_candidate": "draw.io",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04L13",
+      "ocr_candidate": "YouTube Thumbnail Creator",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04L14",
+      "ocr_candidate": "Topo de Bolo Express",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04L15",
+      "ocr_candidate": "Brancha",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04L16",
+      "ocr_candidate": "Kids Book Maker",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04L17",
+      "ocr_candidate": "text-to-cad",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04L18",
+      "ocr_candidate": "Melius",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04L19",
+      "ocr_candidate": "Storyblocks",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04L20",
+      "ocr_candidate": "PixVerse",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04L21",
+      "ocr_candidate": "Topview 3D Builder",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04L22",
+      "ocr_candidate": "Namsiang Thai Voice",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04L23",
+      "ocr_candidate": "PartForge",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04L24",
+      "ocr_candidate": "Hermoso: Al Marketing Agent",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04L25",
+      "ocr_candidate": "Super Map World",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04L26",
+      "ocr_candidate": "Pray Production Studio",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04L27",
+      "ocr_candidate": "Crealix",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04L28",
+      "ocr_candidate": "Doublespeed",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04L29",
+      "ocr_candidate": "SignalGrade",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04L30",
+      "ocr_candidate": "QyntTro Al",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04L31",
+      "ocr_candidate": "Shorty Edit",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04L32",
+      "ocr_candidate": "Polymend",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04L33",
+      "ocr_candidate": "Cyber Al",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04L34",
+      "ocr_candidate": "SMC Schrijversstem",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04L35",
+      "ocr_candidate": "Generate Greetings",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04L36",
+      "ocr_candidate": "TapNow",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04L37",
+      "ocr_candidate": "ViewMax",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04L38",
+      "ocr_candidate": "McSill Ultra 5.0",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04L39",
+      "ocr_candidate": "Scribe Animator Director",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04L40",
+      "ocr_candidate": "UGCBuilder",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04L41",
+      "ocr_candidate": "VoxelDraft",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04L42",
+      "ocr_candidate": "Lovart",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04L43",
+      "ocr_candidate": "Songs To Your Eyes",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04L44",
+      "ocr_candidate": "3D CAD Converter",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04L45",
+      "ocr_candidate": "WebCAD",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04L46",
+      "ocr_candidate": "RunComfy",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04R01",
+      "ocr_candidate": "Fuji X100VI Look Emulator",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04R02",
+      "ocr_candidate": "Email Love",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04R03",
+      "ocr_candidate": "Fashion & Style Finder",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04R04",
+      "ocr_candidate": "Meme Marketing Agent",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04R05",
+      "ocr_candidate": "Vivideo",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04R06",
+      "ocr_candidate": "Hen Screenshots",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04R07",
+      "ocr_candidate": "Viral Hook Suite 1.0",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04R08",
+      "ocr_candidate": "Hardenul",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04R09",
+      "ocr_candidate": "Parallax Card",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04R10",
+      "ocr_candidate": "SlidesAl",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04R11",
+      "ocr_candidate": "CaseWrite",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04R12",
+      "ocr_candidate": "TTS Studio: Al Text to Speech",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04R13",
+      "ocr_candidate": "WonderWhy",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04R14",
+      "ocr_candidate": "Nox Design",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04R15",
+      "ocr_candidate": "Viral Hook Suite — Shared Code",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04R16",
+      "ocr_candidate": "text-to-cad",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04R17",
+      "ocr_candidate": "Cadabra Al",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04R18",
+      "ocr_candidate": "English Query Refiner",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04R19",
+      "ocr_candidate": "About Me - Al Life Box",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04R20",
+      "ocr_candidate": "Julius: PowerPoint & Slides",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04R21",
+      "ocr_candidate": "Doitong",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04R22",
+      "ocr_candidate": "MapPoster",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04R23",
+      "ocr_candidate": "Insurance Agent Content Studio",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04R24",
+      "ocr_candidate": "Tattoos Wizard",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04R25",
+      "ocr_candidate": "LYRC",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04R26",
+      "ocr_candidate": "esigna",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04R27",
+      "ocr_candidate": "HamzaBHM",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04R28",
+      "ocr_candidate": "ModRetro Chromatic Plugin",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04R29",
+      "ocr_candidate": "NameSTL",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04R30",
+      "ocr_candidate": "Ruwana",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04R31",
+      "ocr_candidate": "RiffAds",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04R32",
+      "ocr_candidate": "FXI Studio",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04R33",
+      "ocr_candidate": "SkeuDesign",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04R34",
+      "ocr_candidate": "Canvora",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04R35",
+      "ocr_candidate": "APODICTIC Development Editor",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04R36",
+      "ocr_candidate": "Shorts Generator",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04R37",
+      "ocr_candidate": "UnifyAl",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04R38",
+      "ocr_candidate": "Algorithmic Ink",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04R39",
+      "ocr_candidate": "Al Video Enhancer Studio",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04R40",
+      "ocr_candidate": "SuperCool",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04R41",
+      "ocr_candidate": "theprintspace",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04R42",
+      "ocr_candidate": "Bildy",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04R43",
+      "ocr_candidate": "SC Adelsdorf Matchreporter",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04R44",
+      "ocr_candidate": "BusbySim",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04R45",
+      "ocr_candidate": "Boy or Girl Names",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p04R46",
+      "ocr_candidate": "Segmind",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05L01",
+      "ocr_candidate": "Imago",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05L02",
+      "ocr_candidate": "Sleek",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05L03",
+      "ocr_candidate": "ShareCube",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05L04",
+      "ocr_candidate": "Agent-Native Design",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05L05",
+      "ocr_candidate": "Video Generator",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05L06",
+      "ocr_candidate": "NOLGIA",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05L07",
+      "ocr_candidate": "Outfit Preview: Virtual Try-On",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05L08",
+      "ocr_candidate": "OceanToken",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05L09",
+      "ocr_candidate": "Kombai",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05L10",
+      "ocr_candidate": "KDP Coloring Book Studio",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05L11",
+      "ocr_candidate": "MeltFlex",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05L12",
+      "ocr_candidate": "AVSBL Website Builder",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05L13",
+      "ocr_candidate": "appdesigns",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05L14",
+      "ocr_candidate": "TrackGleam",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05L15",
+      "ocr_candidate": "Fablyn",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05L16",
+      "ocr_candidate": "Lazybird",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05L17",
+      "ocr_candidate": "KozyGrid",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05L18",
+      "ocr_candidate": "Mondovo",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05L19",
+      "ocr_candidate": "Dich Anh Viét",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05L20",
+      "ocr_candidate": "getimg",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05L21",
+      "ocr_candidate": "PromptKosh",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05L22",
+      "ocr_candidate": "AppScreenshotStudio",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05L23",
+      "ocr_candidate": "GoFaceless",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05L24",
+      "ocr_candidate": "Poolday",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05L25",
+      "ocr_candidate": "YouArt",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05L26",
+      "ocr_candidate": "Theme Emporium",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05L27",
+      "ocr_candidate": "Podigee",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05L28",
+      "ocr_candidate": "Eden",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05L29",
+      "ocr_candidate": "Aaina Product Photos",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05L30",
+      "ocr_candidate": "Daydream",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05L31",
+      "ocr_candidate": "Your Color Palette",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05L32",
+      "ocr_candidate": "Alpenmarketing QR-Code",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05L33",
+      "ocr_candidate": "OpenClip",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05L34",
+      "ocr_candidate": "Nova Creative",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05L35",
+      "ocr_candidate": "convert3d",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05L36",
+      "ocr_candidate": "style-my-space.com",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05L37",
+      "ocr_candidate": "App Listing Screenshots",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05L38",
+      "ocr_candidate": "mnml Al",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05L39",
+      "ocr_candidate": "ULLIMO",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05L40",
+      "ocr_candidate": "Inkdrop",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05L41",
+      "ocr_candidate": "Animx",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05L42",
+      "ocr_candidate": "aicut",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05L43",
+      "ocr_candidate": "Restream",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05L44",
+      "ocr_candidate": "Moodle: Mood Board plan+design",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05L45",
+      "ocr_candidate": "Contenta Converter",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05L46",
+      "ocr_candidate": "YouCam",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05R01",
+      "ocr_candidate": "QuickStage",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05R02",
+      "ocr_candidate": "varg.ai",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05R03",
+      "ocr_candidate": "Rainbrand",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05R04",
+      "ocr_candidate": "Samautomation Video",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05R05",
+      "ocr_candidate": "Inspire by KGL",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05R06",
+      "ocr_candidate": "WFI — WhatFontls",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05R07",
+      "ocr_candidate": "Pretty",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05R08",
+      "ocr_candidate": "Tatty — Tattoo ideas & design",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05R09",
+      "ocr_candidate": "Gradients Studio",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05R10",
+      "ocr_candidate": "YouWorkForThem",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05R11",
+      "ocr_candidate": "Fenestra",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05R12",
+      "ocr_candidate": "Photoroom",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05R13",
+      "ocr_candidate": "Cav",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05R14",
+      "ocr_candidate": "Humanizer Al",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05R15",
+      "ocr_candidate": "3D Website Creator",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05R16",
+      "ocr_candidate": "Gigapixel Al",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05R17",
+      "ocr_candidate": "BlockGPT",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05R18",
+      "ocr_candidate": "Moon & Star Map",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05R19",
+      "ocr_candidate": "Revid",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05R20",
+      "ocr_candidate": "Dora Al Video",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05R21",
+      "ocr_candidate": "Designelier",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05R22",
+      "ocr_candidate": "SoeMind",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05R23",
+      "ocr_candidate": "Runchat",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05R24",
+      "ocr_candidate": "Print Ready",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05R25",
+      "ocr_candidate": "PrintNexus Toolbox",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05R26",
+      "ocr_candidate": "LivePair",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05R27",
+      "ocr_candidate": "Flownato",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05R28",
+      "ocr_candidate": "Handymade",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05R29",
+      "ocr_candidate": "PrintMap",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05R30",
+      "ocr_candidate": "RoomLab.app",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05R31",
+      "ocr_candidate": "Rawnd",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05R32",
+      "ocr_candidate": "Art Overlay",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05R33",
+      "ocr_candidate": "Designer",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05R34",
+      "ocr_candidate": "ScoreStarling",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05R35",
+      "ocr_candidate": "Raylight",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05R36",
+      "ocr_candidate": "PersonalizedComics",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05R37",
+      "ocr_candidate": "Al Video Maker Gem",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05R38",
+      "ocr_candidate": "Rephrasy",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05R39",
+      "ocr_candidate": "Bloomroom",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05R40",
+      "ocr_candidate": "Misar.Blog",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05R41",
+      "ocr_candidate": "Logos do Brasil",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05R42",
+      "ocr_candidate": "unsketch",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05R43",
+      "ocr_candidate": "Flat",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05R44",
+      "ocr_candidate": "Adly",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05R45",
+      "ocr_candidate": "Print Shop by BYB",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p05R46",
+      "ocr_candidate": "Rebrand",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06L01",
+      "ocr_candidate": "Phoenix One Prompt Studio",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06L02",
+      "ocr_candidate": "Linepace Teleprompter",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06L03",
+      "ocr_candidate": "refern Notan Generator",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06L04",
+      "ocr_candidate": "Ember Websites",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06L05",
+      "ocr_candidate": "AutoSprite",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06L06",
+      "ocr_candidate": "Formatry",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06L07",
+      "ocr_candidate": "Packaging Design Assistant",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06L08",
+      "ocr_candidate": "Pixara",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06L09",
+      "ocr_candidate": "Video Grab",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06L10",
+      "ocr_candidate": "HeyTurbine",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06L11",
+      "ocr_candidate": "SpriteCook",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06L12",
+      "ocr_candidate": "Eddie",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06L13",
+      "ocr_candidate": "MAP Audio",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06L14",
+      "ocr_candidate": "Al Jingle Maker",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06L15",
+      "ocr_candidate": "Moda - Slides & Designs",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06L16",
+      "ocr_candidate": "Al Headshots — MyBestAngle",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06L17",
+      "ocr_candidate": "Idea Generator",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06L18",
+      "ocr_candidate": "Syllaby",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06L19",
+      "ocr_candidate": "TeamTime Make It Real",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06L20",
+      "ocr_candidate": "Art Goat",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06L21",
+      "ocr_candidate": "Pinty",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06L22",
+      "ocr_candidate": "Draw40",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06L23",
+      "ocr_candidate": "Diorama",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06L24",
+      "ocr_candidate": "Scenelith",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06L25",
+      "ocr_candidate": "Viral Recreate Ai",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06L26",
+      "ocr_candidate": "HospitalityLens",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06L27",
+      "ocr_candidate": "Blendstra",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06L28",
+      "ocr_candidate": "Storytailor",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06L29",
+      "ocr_candidate": "GHEM",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06L30",
+      "ocr_candidate": "Video Crop",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06L31",
+      "ocr_candidate": "SnapDub",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06L32",
+      "ocr_candidate": "Vidova",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06L33",
+      "ocr_candidate": "Music Generator",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06L34",
+      "ocr_candidate": "gilmOS",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06L35",
+      "ocr_candidate": "PartyPass",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06L36",
+      "ocr_candidate": "Tabularia",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06L37",
+      "ocr_candidate": "Ava Studio",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06L38",
+      "ocr_candidate": "ListingScene",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06L39",
+      "ocr_candidate": "SplitMetrics Lyra",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06L40",
+      "ocr_candidate": "PINOC",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06L41",
+      "ocr_candidate": "Media Studio",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06L42",
+      "ocr_candidate": "Scraaatch",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06L43",
+      "ocr_candidate": "Alpenmarketing Bildkompressor",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06L44",
+      "ocr_candidate": "Akool",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06L45",
+      "ocr_candidate": "Luma Al",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06L46",
+      "ocr_candidate": "Song Maker",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06L47",
+      "ocr_candidate": "CILA",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06R01",
+      "ocr_candidate": "Cattalog",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06R02",
+      "ocr_candidate": "One4Wall",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06R03",
+      "ocr_candidate": "Gulab",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06R04",
+      "ocr_candidate": "UlazAl Media",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06R05",
+      "ocr_candidate": "Globestudio",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06R06",
+      "ocr_candidate": "Songtekst schrijven",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06R07",
+      "ocr_candidate": "Typography Studio",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06R08",
+      "ocr_candidate": "Batch Banana",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06R09",
+      "ocr_candidate": "Glif",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06R10",
+      "ocr_candidate": "Predis.ai",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06R11",
+      "ocr_candidate": "Fuzzbucket",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06R12",
+      "ocr_candidate": "Commish",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06R13",
+      "ocr_candidate": "Rasterless",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06R14",
+      "ocr_candidate": "Krumzi",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06R15",
+      "ocr_candidate": "Nafy Al Song Generator",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06R16",
+      "ocr_candidate": "Viral Hook Engine",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06R17",
+      "ocr_candidate": "Beatwise Metronome",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06R18",
+      "ocr_candidate": "Al Video Maker FX",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06R19",
+      "ocr_candidate": "Ringoz",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06R20",
+      "ocr_candidate": "CookUp",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06R21",
+      "ocr_candidate": "Muziek maken met Al",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06R22",
+      "ocr_candidate": "Al Voiceover",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06R23",
+      "ocr_candidate": "Image to Video",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06R24",
+      "ocr_candidate": "Textile Designer Al",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06R25",
+      "ocr_candidate": "Wonder",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06R26",
+      "ocr_candidate": "DesignerBox",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06R27",
+      "ocr_candidate": "MimartLabs",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06R28",
+      "ocr_candidate": "regards.design",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06R29",
+      "ocr_candidate": "Aqueduct",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06R30",
+      "ocr_candidate": "Wevi",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06R31",
+      "ocr_candidate": "Text to Speech",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06R32",
+      "ocr_candidate": "Synergieloc CAO",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06R33",
+      "ocr_candidate": "Flashloop",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06R34",
+      "ocr_candidate": "LNX",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06R35",
+      "ocr_candidate": "Tunmire",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06R36",
+      "ocr_candidate": "Wrap",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06R37",
+      "ocr_candidate": "Kinetik",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06R38",
+      "ocr_candidate": "AutoShot",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06R39",
+      "ocr_candidate": "Faceless.video",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06R40",
+      "ocr_candidate": "Image Generator",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06R41",
+      "ocr_candidate": "Zovo Family Tree",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06R42",
+      "ocr_candidate": "Image Upscaler",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06R43",
+      "ocr_candidate": "Sprite Fusion",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06R44",
+      "ocr_candidate": "1TapEdit Al Studio",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06R45",
+      "ocr_candidate": "WizPrompt Studio",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06R46",
+      "ocr_candidate": "Explainer Video",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p06R47",
+      "ocr_candidate": "SVG Lab",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07L01",
+      "ocr_candidate": "Sound Effects",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07L02",
+      "ocr_candidate": "Clypmint: Al Video Editor",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07L03",
+      "ocr_candidate": "Privacy Blur",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07L04",
+      "ocr_candidate": "Logo Maker",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07L05",
+      "ocr_candidate": "Renoise",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07L06",
+      "ocr_candidate": "Wondershare Media.io",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07L07",
+      "ocr_candidate": "ClipFabulous",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07L08",
+      "ocr_candidate": "MAP Audio Tools",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07L09",
+      "ocr_candidate": "Unsora",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07L10",
+      "ocr_candidate": "MyBeatz",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07L11",
+      "ocr_candidate": "FeedHive",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07L12",
+      "ocr_candidate": "Luw.ai",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07L13",
+      "ocr_candidate": "Images & Video",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07L14",
+      "ocr_candidate": "Shapesoda",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07L15",
+      "ocr_candidate": "Imagen for Real Estate",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07L16",
+      "ocr_candidate": "Al Content Drop",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07L17",
+      "ocr_candidate": "Cenno",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07L18",
+      "ocr_candidate": "Pixel Art Maker",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07L19",
+      "ocr_candidate": "DupeFont",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07L20",
+      "ocr_candidate": "RTST Al",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07L21",
+      "ocr_candidate": "EdThumb",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07L22",
+      "ocr_candidate": "Designobo",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07L23",
+      "ocr_candidate": "Book Covers by Abracadabrax",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07L24",
+      "ocr_candidate": "Comic Strips",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07L25",
+      "ocr_candidate": "Hangeul Fonts",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07L26",
+      "ocr_candidate": "Partwright",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07L27",
+      "ocr_candidate": "Chaptershift",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07L28",
+      "ocr_candidate": "Album Covers",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07L29",
+      "ocr_candidate": "Pixel Engine",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07L30",
+      "ocr_candidate": "Portrait Studio",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07L31",
+      "ocr_candidate": "Comfy Cloud",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07L32",
+      "ocr_candidate": "Stickers by Abracadabrax",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07L33",
+      "ocr_candidate": "Meme Maker",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07L34",
+      "ocr_candidate": "Givon Al",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07L35",
+      "ocr_candidate": "Moodboards",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07L36",
+      "ocr_candidate": "PropertyPrompt",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07L37",
+      "ocr_candidate": "Coloring Pages",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07L38",
+      "ocr_candidate": "Posters by Abracadabrax",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07L39",
+      "ocr_candidate": "Photo Al Studio",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07L40",
+      "ocr_candidate": "Reflections Licensed Studio",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07L41",
+      "ocr_candidate": "Book Covers",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07L42",
+      "ocr_candidate": "Artelo Print Shop",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07L43",
+      "ocr_candidate": "Voice213",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07L44",
+      "ocr_candidate": "Lustra Studio",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07L45",
+      "ocr_candidate": "EzZUGC",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07L46",
+      "ocr_candidate": "Dr.SHI-GYO",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07R01",
+      "ocr_candidate": "ScriptNib",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07R02",
+      "ocr_candidate": "Mozonic",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07R03",
+      "ocr_candidate": "Pixel Art",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07R04",
+      "ocr_candidate": "MakeDeez",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07R05",
+      "ocr_candidate": "Speed Studio",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07R06",
+      "ocr_candidate": "Reverie Movies",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07R07",
+      "ocr_candidate": "NOX!",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07R08",
+      "ocr_candidate": "Forge",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07R09",
+      "ocr_candidate": "GiftsToPrint",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07R10",
+      "ocr_candidate": "AIGE Carousel Studio",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07R11",
+      "ocr_candidate": "ReelsFarm",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07R12",
+      "ocr_candidate": "pen.dev",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07R13",
+      "ocr_candidate": "Archome Al",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07R14",
+      "ocr_candidate": "SVG.new",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07R15",
+      "ocr_candidate": "Coloring Pages by Abracadabrax",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07R16",
+      "ocr_candidate": "BrickBuilder Al",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07R17",
+      "ocr_candidate": "MorphaReels",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07R18",
+      "ocr_candidate": "Tonebook Palette",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07R19",
+      "ocr_candidate": "T-Shirt Art",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07R20",
+      "ocr_candidate": "Avatar Maker",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07R21",
+      "ocr_candidate": "Tattoo Designs",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07R22",
+      "ocr_candidate": "Wandcase Creator",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07R23",
+      "ocr_candidate": "Character Maker",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07R24",
+      "ocr_candidate": "Etch Express",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07R25",
+      "ocr_candidate": "Beat Maker",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07R26",
+      "ocr_candidate": "Fontesh",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07R27",
+      "ocr_candidate": "ACAE Portfolio",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07R28",
+      "ocr_candidate": "Visual Sandbox",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07R29",
+      "ocr_candidate": "StemConsole",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07R30",
+      "ocr_candidate": "Dayfaro",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07R31",
+      "ocr_candidate": "App Icons",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07R32",
+      "ocr_candidate": "layZ Al",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07R33",
+      "ocr_candidate": "Thumbnail Maker",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07R34",
+      "ocr_candidate": "Voyager Video & 3D",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07R35",
+      "ocr_candidate": "LiveReacting",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07R36",
+      "ocr_candidate": "Blog2Video",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07R37",
+      "ocr_candidate": "Cross-stitch Studio",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07R38",
+      "ocr_candidate": "Vectali",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07R39",
+      "ocr_candidate": "Album Covers by Abracadabrax",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07R40",
+      "ocr_candidate": "Framesurfer",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07R41",
+      "ocr_candidate": "Podcast Intros",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07R42",
+      "ocr_candidate": "Sticker Maker",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07R43",
+      "ocr_candidate": "Morphic",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07R44",
+      "ocr_candidate": "Video Editor Al",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07R45",
+      "ocr_candidate": "Birthday Songs",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p07R46",
+      "ocr_candidate": "Pitch Decks",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p08L01",
+      "ocr_candidate": "Poster Maker",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p08L02",
+      "ocr_candidate": "Tattoo Designer",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p08L03",
+      "ocr_candidate": "ColoringBookify",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p08L04",
+      "ocr_candidate": "Clipify",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p08L05",
+      "ocr_candidate": "PromptFy",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p08L06",
+      "ocr_candidate": "Freegma",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p08L07",
+      "ocr_candidate": "Character App",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p08L08",
+      "ocr_candidate": "Photoshoot GPT: Al Fashion",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p08L09",
+      "ocr_candidate": "Diagram Design",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p08L10",
+      "ocr_candidate": "Al Game Maker",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p08L11",
+      "ocr_candidate": "AdStar",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p08L12",
+      "ocr_candidate": "3dCMS",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p08L13",
+      "ocr_candidate": "Corte",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p08L14",
+      "ocr_candidate": "Deck.gallery",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p08L15",
+      "ocr_candidate": "Trykr",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p08L16",
+      "ocr_candidate": "Inspiration by VASA",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p08R01",
+      "ocr_candidate": "TuneCraft: Al Music Generator",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p08R02",
+      "ocr_candidate": "PatchDesign.Al",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p08R03",
+      "ocr_candidate": "Beveled",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p08R04",
+      "ocr_candidate": "OwlCAD",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p08R05",
+      "ocr_candidate": "Social Images",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p08R06",
+      "ocr_candidate": "Brix36",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p08R07",
+      "ocr_candidate": "Explainium",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p08R08",
+      "ocr_candidate": "Engage Media Suite",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p08R09",
+      "ocr_candidate": "Donefeed",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p08R10",
+      "ocr_candidate": "Studia",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p08R11",
+      "ocr_candidate": "VOVV",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p08R12",
+      "ocr_candidate": "Bandmixr",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p08R13",
+      "ocr_candidate": "Epictime",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p08R14",
+      "ocr_candidate": "Stirloom Family Recipe Book",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p08R15",
+      "ocr_candidate": "Supareels",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    },
+    {
+      "row_id": "p08R16",
+      "ocr_candidate": "ThreadCam",
+      "name_match_existing": false,
+      "status": "要画像確認"
+    }
+  ]
+}

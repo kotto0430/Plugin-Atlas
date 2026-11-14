@@ -1,0 +1,33 @@
+{
+  "name": "Krea",
+  "official_app_name": "Krea",
+  "official_name_basis": "ChatGPTのプラグイン詳細画面に表示された名称",
+  "category": "Creativity",
+  "provider": "Krea AI, Inc.",
+  "version": "3.0.0",
+  "observed_at": "2026-11-14",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a456b312b388191823141ebd1b0f461?category=creativity",
+  "developer_url": "https://krea.ai/",
+  "privacy_url": "https://www.krea.ai/privacy-policy",
+  "original_description": "Krea helps users generate and enhance images, create video and 3D assets, run shared node apps, and manage private files, moodboards, and styles through ChatGPT.",
+  "description_scope": "ChatGPTの詳細画面に表示された提供元の英語説明",
+  "summary_ja": "画像の生成・高画質化や動画・3D素材の作成、ムードボードなどの管理を支援する。",
+  "usage_tags": [
+    "画像制作",
+    "動画制作",
+    "3D",
+    "デザイン"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "limitations_ja": "実際に使える生成モデル、料金、出力品質や利用条件は未確認。",
+  "example_prompts": [
+    "Make some product renders based on my sketch",
+    "Make a cool landing page for my product",
+    "I'm throwing a summer yacht party. Can you make a poster?"
+  ],
+  "review": "詳細画面の説明と情報欄を確認。画像や動画の生成は試していない。",
+  "catalog_status": "一覧本体との名称照合は未確認。"
+}

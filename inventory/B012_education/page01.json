@@ -1,0 +1,439 @@
+{
+  "source": "教育.pdf",
+  "sha256": "55f8221b4acb622a175b4c4537221fed9bedeb0bfe364f888805f181a7d0fab7",
+  "page": 1,
+  "baseline_index_sha": "eecd4b0d973749b9c5cf107638f8df5108df363e",
+  "method": "画像目視と表示名比較",
+  "rows": [
+    {
+      "row_id": "p01L01",
+      "name": "Consensus",
+      "match": true
+    },
+    {
+      "row_id": "p01L02",
+      "name": "Zotero",
+      "match": false
+    },
+    {
+      "row_id": "p01L03",
+      "name": "Sider Scholar",
+      "match": false
+    },
+    {
+      "row_id": "p01L04",
+      "name": "Wolfram",
+      "match": false
+    },
+    {
+      "row_id": "p01L05",
+      "name": "Legal Data Hunter",
+      "match": false
+    },
+    {
+      "row_id": "p01L06",
+      "name": "Kahoot!",
+      "match": false
+    },
+    {
+      "row_id": "p01L07",
+      "name": "AhaMotion",
+      "match": false
+    },
+    {
+      "row_id": "p01L08",
+      "name": "Academic Writing Toolkit",
+      "match": false
+    },
+    {
+      "row_id": "p01L09",
+      "name": "Wiley Scholar Gateway",
+      "match": false
+    },
+    {
+      "row_id": "p01L10",
+      "name": "Transkriptor",
+      "match": false
+    },
+    {
+      "row_id": "p01L11",
+      "name": "Strive PDF Generator",
+      "match": false
+    },
+    {
+      "row_id": "p01L12",
+      "name": "Scholar Sidekick",
+      "match": false
+    },
+    {
+      "row_id": "p01L13",
+      "name": "quran.ai",
+      "match": false
+    },
+    {
+      "row_id": "p01L14",
+      "name": "Wayground",
+      "match": false
+    },
+    {
+      "row_id": "p01L15",
+      "name": "Life Sciences NGS Analysis",
+      "match": false
+    },
+    {
+      "row_id": "p01L16",
+      "name": "MetaMetrics® Lexile Analyzer",
+      "match": false
+    },
+    {
+      "row_id": "p01L17",
+      "name": "AnyLessonPlan for Teachers",
+      "match": false
+    },
+    {
+      "row_id": "p01L18",
+      "name": "Amass",
+      "match": false
+    },
+    {
+      "row_id": "p01L19",
+      "name": "edX",
+      "match": false
+    },
+    {
+      "row_id": "p01L20",
+      "name": "PaperDock",
+      "match": false
+    },
+    {
+      "row_id": "p01L21",
+      "name": "DataCamp",
+      "match": false
+    },
+    {
+      "row_id": "p01L22",
+      "name": "Music Block",
+      "match": false
+    },
+    {
+      "row_id": "p01L23",
+      "name": "Ace Knowledge Graph",
+      "match": false
+    },
+    {
+      "row_id": "p01L24",
+      "name": "SkinKnowledgeBase",
+      "match": false
+    },
+    {
+      "row_id": "p01L25",
+      "name": "Kuliko AI",
+      "match": false
+    },
+    {
+      "row_id": "p01L26",
+      "name": "Studocu",
+      "match": false
+    },
+    {
+      "row_id": "p01L27",
+      "name": "Recall",
+      "match": false
+    },
+    {
+      "row_id": "p01L28",
+      "name": "Spanish Law Research",
+      "match": false
+    },
+    {
+      "row_id": "p01L29",
+      "name": "1 Billion Brain Cells",
+      "match": false
+    },
+    {
+      "row_id": "p01L30",
+      "name": "Chessvia Openings",
+      "match": false
+    },
+    {
+      "row_id": "p01L31",
+      "name": "Tailo Lens",
+      "match": false
+    },
+    {
+      "row_id": "p01L32",
+      "name": "Fiveable for AP Students",
+      "match": false
+    },
+    {
+      "row_id": "p01L33",
+      "name": "Learning Commons",
+      "match": false
+    },
+    {
+      "row_id": "p01L34",
+      "name": "Lurna",
+      "match": false
+    },
+    {
+      "row_id": "p01L35",
+      "name": "AI4F Japanese Study",
+      "match": false
+    },
+    {
+      "row_id": "p01L36",
+      "name": "SFT Brain",
+      "match": false
+    },
+    {
+      "row_id": "p01L37",
+      "name": "Quiz My Notes by Trivana",
+      "match": false
+    },
+    {
+      "row_id": "p01L38",
+      "name": "Preply Language Tutor Finder",
+      "match": false
+    },
+    {
+      "row_id": "p01L39",
+      "name": "Self Plagiarism Checker",
+      "match": false
+    },
+    {
+      "row_id": "p01L40",
+      "name": "Cody Reading",
+      "match": false
+    },
+    {
+      "row_id": "p01L41",
+      "name": "HadithDB",
+      "match": false
+    },
+    {
+      "row_id": "p01L42",
+      "name": "Omphalis",
+      "match": false
+    },
+    {
+      "row_id": "p01L43",
+      "name": "Agora",
+      "match": false
+    },
+    {
+      "row_id": "p01R01",
+      "name": "SciSpace",
+      "match": false
+    },
+    {
+      "row_id": "p01R02",
+      "name": "Acumen by Talarion",
+      "match": false
+    },
+    {
+      "row_id": "p01R03",
+      "name": "Scite",
+      "match": true
+    },
+    {
+      "row_id": "p01R04",
+      "name": "Explain Video Generator",
+      "match": false
+    },
+    {
+      "row_id": "p01R05",
+      "name": "Elicit",
+      "match": false
+    },
+    {
+      "row_id": "p01R06",
+      "name": "Quizlet",
+      "match": false
+    },
+    {
+      "row_id": "p01R07",
+      "name": "Tarteel",
+      "match": false
+    },
+    {
+      "row_id": "p01R08",
+      "name": "Audioscrape",
+      "match": false
+    },
+    {
+      "row_id": "p01R09",
+      "name": "alphaXiv",
+      "match": false
+    },
+    {
+      "row_id": "p01R10",
+      "name": "CourtListener",
+      "match": false
+    },
+    {
+      "row_id": "p01R11",
+      "name": "Midpage Legal Research: US Law",
+      "match": false
+    },
+    {
+      "row_id": "p01R12",
+      "name": "Coursera Learning",
+      "match": false
+    },
+    {
+      "row_id": "p01R13",
+      "name": "Padlet",
+      "match": false
+    },
+    {
+      "row_id": "p01R14",
+      "name": "Udemy",
+      "match": false
+    },
+    {
+      "row_id": "p01R15",
+      "name": "IAJUS",
+      "match": false
+    },
+    {
+      "row_id": "p01R16",
+      "name": "StudyMe.ai",
+      "match": false
+    },
+    {
+      "row_id": "p01R17",
+      "name": "Patent Connector",
+      "match": false
+    },
+    {
+      "row_id": "p01R18",
+      "name": "Descrybe Legal Engine",
+      "match": false
+    },
+    {
+      "row_id": "p01R19",
+      "name": "Language Coach: English",
+      "match": false
+    },
+    {
+      "row_id": "p01R20",
+      "name": "OpenAI Certified",
+      "match": false
+    },
+    {
+      "row_id": "p01R21",
+      "name": "Precise Special Functions",
+      "match": false
+    },
+    {
+      "row_id": "p01R22",
+      "name": "Brisk Teaching",
+      "match": false
+    },
+    {
+      "row_id": "p01R23",
+      "name": "Linked Word",
+      "match": false
+    },
+    {
+      "row_id": "p01R24",
+      "name": "italki language learning",
+      "match": false
+    },
+    {
+      "row_id": "p01R25",
+      "name": "Parenting Hub",
+      "match": false
+    },
+    {
+      "row_id": "p01R26",
+      "name": "Inflearn",
+      "match": false
+    },
+    {
+      "row_id": "p01R27",
+      "name": "Ace Quiz Maker",
+      "match": false
+    },
+    {
+      "row_id": "p01R28",
+      "name": "ApplyBoard",
+      "match": false
+    },
+    {
+      "row_id": "p01R29",
+      "name": "QuizFlight",
+      "match": false
+    },
+    {
+      "row_id": "p01R30",
+      "name": "A-Z Dictionary",
+      "match": false
+    },
+    {
+      "row_id": "p01R31",
+      "name": "Chymia",
+      "match": false
+    },
+    {
+      "row_id": "p01R32",
+      "name": "Kiuwo",
+      "match": false
+    },
+    {
+      "row_id": "p01R33",
+      "name": "Mynawoo AI Language Tutor",
+      "match": false
+    },
+    {
+      "row_id": "p01R34",
+      "name": "TriviaQuiz",
+      "match": false
+    },
+    {
+      "row_id": "p01R35",
+      "name": "Edvoy",
+      "match": false
+    },
+    {
+      "row_id": "p01R36",
+      "name": "getMindmap",
+      "match": false
+    },
+    {
+      "row_id": "p01R37",
+      "name": "How To Student",
+      "match": false
+    },
+    {
+      "row_id": "p01R38",
+      "name": "Emona",
+      "match": false
+    },
+    {
+      "row_id": "p01R39",
+      "name": "Lune",
+      "match": false
+    },
+    {
+      "row_id": "p01R40",
+      "name": "Shchebitka Vocabulary Trainer",
+      "match": false
+    },
+    {
+      "row_id": "p01R41",
+      "name": "EduInsights",
+      "match": false
+    },
+    {
+      "row_id": "p01R42",
+      "name": "ScholarshipOwl",
+      "match": false
+    },
+    {
+      "row_id": "p01R43",
+      "name": "Particl Market Research",
+      "match": false
+    }
+  ]
+}

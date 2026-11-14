@@ -1,0 +1,1189 @@
+{
+  "source": "Chrome ChatGPT 旅行",
+  "date": "2026-11-14",
+  "method": "アクセシビリティ文書内のインストールボタン名から抽出。出力途中で切れ、インストール済み等は欠落しうる。",
+  "catalog_blob": "fd13ece4009fcf170733daf819bb2e7424328a60",
+  "counts": {
+    "rows": 294,
+    "matched": 290,
+    "unmatched": 4
+  },
+  "rows": [
+    {
+      "name": "Booking.com",
+      "matched": true
+    },
+    {
+      "name": "Skyscanner",
+      "matched": true
+    },
+    {
+      "name": "Trip.com",
+      "matched": true
+    },
+    {
+      "name": "Flight Network",
+      "matched": true
+    },
+    {
+      "name": "Tripadvisor",
+      "matched": true
+    },
+    {
+      "name": "Wikiloc",
+      "matched": true
+    },
+    {
+      "name": "eDreams",
+      "matched": true
+    },
+    {
+      "name": "trivago",
+      "matched": true
+    },
+    {
+      "name": "Kiwi.com",
+      "matched": true
+    },
+    {
+      "name": "ForeFlight Mobile",
+      "matched": true
+    },
+    {
+      "name": "komoot",
+      "matched": true
+    },
+    {
+      "name": "FlightPoints",
+      "matched": true
+    },
+    {
+      "name": "Wego",
+      "matched": true
+    },
+    {
+      "name": "Ryanair",
+      "matched": true
+    },
+    {
+      "name": "MakeMyTrip",
+      "matched": true
+    },
+    {
+      "name": "World Airfares",
+      "matched": true
+    },
+    {
+      "name": "Trainline",
+      "matched": true
+    },
+    {
+      "name": "AnyWhereMap - Navigate+Locate",
+      "matched": true
+    },
+    {
+      "name": "Vio.com",
+      "matched": true
+    },
+    {
+      "name": "Rome2Rio",
+      "matched": true
+    },
+    {
+      "name": "Hilton Hotel Search",
+      "matched": true
+    },
+    {
+      "name": "Gondola",
+      "matched": true
+    },
+    {
+      "name": "Turkish Airlines",
+      "matched": true
+    },
+    {
+      "name": "Princess Cruises",
+      "matched": true
+    },
+    {
+      "name": "GetYourGuide",
+      "matched": true
+    },
+    {
+      "name": "Klook",
+      "matched": true
+    },
+    {
+      "name": "Omio",
+      "matched": true
+    },
+    {
+      "name": "Travel Vibes: Trip Itineraries",
+      "matched": true
+    },
+    {
+      "name": "Marriott Bonvoy",
+      "matched": true
+    },
+    {
+      "name": "ALL Accor",
+      "matched": true
+    },
+    {
+      "name": "EaseMyTrip",
+      "matched": true
+    },
+    {
+      "name": "Almosafer.com",
+      "matched": true
+    },
+    {
+      "name": "Cruise Critic",
+      "matched": true
+    },
+    {
+      "name": "Priceline",
+      "matched": true
+    },
+    {
+      "name": "CheapOair",
+      "matched": true
+    },
+    {
+      "name": "Swarm by Foursquare",
+      "matched": true
+    },
+    {
+      "name": "Viator",
+      "matched": true
+    },
+    {
+      "name": "IHG Hotels & Resorts",
+      "matched": true
+    },
+    {
+      "name": "TRIP PLANNER Travel Itinerary",
+      "matched": true
+    },
+    {
+      "name": "TUI",
+      "matched": true
+    },
+    {
+      "name": "TABLEALL",
+      "matched": true
+    },
+    {
+      "name": "ixigo",
+      "matched": true
+    },
+    {
+      "name": "Hyatt",
+      "matched": true
+    },
+    {
+      "name": "TheHotelsNetwork",
+      "matched": true
+    },
+    {
+      "name": "Flygresor.se",
+      "matched": true
+    },
+    {
+      "name": "Pegasus Airlines",
+      "matched": true
+    },
+    {
+      "name": "Reagent Travel",
+      "matched": true
+    },
+    {
+      "name": "Traveloka",
+      "matched": true
+    },
+    {
+      "name": "Eurostar",
+      "matched": true
+    },
+    {
+      "name": "12Go",
+      "matched": true
+    },
+    {
+      "name": "Archipelago Hotels",
+      "matched": true
+    },
+    {
+      "name": "Recreation.gov",
+      "matched": true
+    },
+    {
+      "name": "FLIGHTS Trip & Travel Routes",
+      "matched": true
+    },
+    {
+      "name": "AbhiBus",
+      "matched": true
+    },
+    {
+      "name": "DiscoverCars.com",
+      "matched": true
+    },
+    {
+      "name": "BreckenWander Travel",
+      "matched": true
+    },
+    {
+      "name": "Civitatis",
+      "matched": true
+    },
+    {
+      "name": "Lambus",
+      "matched": true
+    },
+    {
+      "name": "Iberia",
+      "matched": true
+    },
+    {
+      "name": "redBus",
+      "matched": true
+    },
+    {
+      "name": "Nowistay",
+      "matched": true
+    },
+    {
+      "name": "SIXT",
+      "matched": true
+    },
+    {
+      "name": "Turo",
+      "matched": true
+    },
+    {
+      "name": "Travel Advisory",
+      "matched": true
+    },
+    {
+      "name": "Wyndham Hotels & Resorts",
+      "matched": true
+    },
+    {
+      "name": "FareFirst",
+      "matched": true
+    },
+    {
+      "name": "Virgin Australia",
+      "matched": true
+    },
+    {
+      "name": "TravExp",
+      "matched": true
+    },
+    {
+      "name": "GuruWalk: Tours & Activities",
+      "matched": true
+    },
+    {
+      "name": "Yatra",
+      "matched": true
+    },
+    {
+      "name": "Bolt",
+      "matched": true
+    },
+    {
+      "name": "tiket.com",
+      "matched": true
+    },
+    {
+      "name": "TourRadar",
+      "matched": true
+    },
+    {
+      "name": "Wave by Vento",
+      "matched": true
+    },
+    {
+      "name": "Zio",
+      "matched": true
+    },
+    {
+      "name": "Fattal",
+      "matched": true
+    },
+    {
+      "name": "AI Trip Planner",
+      "matched": true
+    },
+    {
+      "name": "DirectBooker",
+      "matched": true
+    },
+    {
+      "name": "tabiori",
+      "matched": true
+    },
+    {
+      "name": "Kismet",
+      "matched": true
+    },
+    {
+      "name": "TRAIL Hike Planner & Camping",
+      "matched": true
+    },
+    {
+      "name": "Akasa Air",
+      "matched": true
+    },
+    {
+      "name": "AutoRentals",
+      "matched": true
+    },
+    {
+      "name": "KKday",
+      "matched": true
+    },
+    {
+      "name": "Buson",
+      "matched": true
+    },
+    {
+      "name": "Ouigo France",
+      "matched": true
+    },
+    {
+      "name": "TrainPal",
+      "matched": true
+    },
+    {
+      "name": "Adin Flights",
+      "matched": true
+    },
+    {
+      "name": "Hotels Booking",
+      "matched": true
+    },
+    {
+      "name": "Get My eSIM",
+      "matched": true
+    },
+    {
+      "name": "Busbud",
+      "matched": true
+    },
+    {
+      "name": "Sunny Cars",
+      "matched": true
+    },
+    {
+      "name": "TripO by FreeTravel",
+      "matched": true
+    },
+    {
+      "name": "Road Trip Planner",
+      "matched": true
+    },
+    {
+      "name": "Tripsy",
+      "matched": true
+    },
+    {
+      "name": "Travomint",
+      "matched": true
+    },
+    {
+      "name": "Pricewin Hotels & Flights",
+      "matched": true
+    },
+    {
+      "name": "EconomyBookings",
+      "matched": true
+    },
+    {
+      "name": "Cottages",
+      "matched": true
+    },
+    {
+      "name": "Israir",
+      "matched": true
+    },
+    {
+      "name": "Ferryhopper",
+      "matched": true
+    },
+    {
+      "name": "RouteStack.ai",
+      "matched": true
+    },
+    {
+      "name": "Sigtrip",
+      "matched": true
+    },
+    {
+      "name": "Direct Ferries",
+      "matched": true
+    },
+    {
+      "name": "HappyFares",
+      "matched": true
+    },
+    {
+      "name": "Recorrido",
+      "matched": true
+    },
+    {
+      "name": "Rail Monsters - Train Tickets",
+      "matched": true
+    },
+    {
+      "name": "ADAC Mietwagen",
+      "matched": true
+    },
+    {
+      "name": "Cleartrip",
+      "matched": true
+    },
+    {
+      "name": "AirHelp",
+      "matched": true
+    },
+    {
+      "name": "Atlys",
+      "matched": true
+    },
+    {
+      "name": "Paytm Travel",
+      "matched": true
+    },
+    {
+      "name": "Yango",
+      "matched": true
+    },
+    {
+      "name": "Mondial tourisme",
+      "matched": true
+    },
+    {
+      "name": "FareHarbor",
+      "matched": true
+    },
+    {
+      "name": "Direct Book AI",
+      "matched": true
+    },
+    {
+      "name": "Bed-and-Breakfast.it",
+      "matched": true
+    },
+    {
+      "name": "Motel One",
+      "matched": true
+    },
+    {
+      "name": "Travelenie",
+      "matched": true
+    },
+    {
+      "name": "eSIM Finder",
+      "matched": true
+    },
+    {
+      "name": "Book Direct",
+      "matched": true
+    },
+    {
+      "name": "Is It Safe To Travel?",
+      "matched": true
+    },
+    {
+      "name": "Wanderz",
+      "matched": true
+    },
+    {
+      "name": "hoppa",
+      "matched": true
+    },
+    {
+      "name": "JourneyBay",
+      "matched": true
+    },
+    {
+      "name": "eSIM Copilot",
+      "matched": true
+    },
+    {
+      "name": "Milepoint",
+      "matched": true
+    },
+    {
+      "name": "Hotelzify - Book Direct",
+      "matched": true
+    },
+    {
+      "name": "Paradise Beach Cozumel",
+      "matched": true
+    },
+    {
+      "name": "Otto Travel",
+      "matched": true
+    },
+    {
+      "name": "Oojo",
+      "matched": true
+    },
+    {
+      "name": "Meow Map",
+      "matched": true
+    },
+    {
+      "name": "Abandoned World App",
+      "matched": true
+    },
+    {
+      "name": "AkbarTravels",
+      "matched": true
+    },
+    {
+      "name": "BonjourRATP",
+      "matched": true
+    },
+    {
+      "name": "WeatherPromise",
+      "matched": true
+    },
+    {
+      "name": "OutReserve",
+      "matched": true
+    },
+    {
+      "name": "Shangri-La Circle",
+      "matched": true
+    },
+    {
+      "name": "Headout",
+      "matched": true
+    },
+    {
+      "name": "VisitorsCoverage",
+      "matched": true
+    },
+    {
+      "name": "Direct Host",
+      "matched": true
+    },
+    {
+      "name": "Novasol",
+      "matched": true
+    },
+    {
+      "name": "A-Z London Transport",
+      "matched": true
+    },
+    {
+      "name": "ChecklistIQ",
+      "matched": true
+    },
+    {
+      "name": "Executive Hotels AI",
+      "matched": true
+    },
+    {
+      "name": "WeRoad",
+      "matched": true
+    },
+    {
+      "name": "Kombo",
+      "matched": true
+    },
+    {
+      "name": "FINN",
+      "matched": true
+    },
+    {
+      "name": "BeachFinder",
+      "matched": true
+    },
+    {
+      "name": "SparkSpot",
+      "matched": true
+    },
+    {
+      "name": "Vegas",
+      "matched": true
+    },
+    {
+      "name": "Chapka",
+      "matched": true
+    },
+    {
+      "name": "BE-A",
+      "matched": true
+    },
+    {
+      "name": "Hotel Emperador Madrid",
+      "matched": true
+    },
+    {
+      "name": "Total Parks",
+      "matched": true
+    },
+    {
+      "name": "HelloSafe Travel Insurance",
+      "matched": true
+    },
+    {
+      "name": "Bytetravel",
+      "matched": true
+    },
+    {
+      "name": "Dayuse Hotels",
+      "matched": true
+    },
+    {
+      "name": "TiCATi",
+      "matched": true
+    },
+    {
+      "name": "Perigee Fishing",
+      "matched": true
+    },
+    {
+      "name": "WAUG",
+      "matched": true
+    },
+    {
+      "name": "FunNow",
+      "matched": true
+    },
+    {
+      "name": "Extra Holidays",
+      "matched": true
+    },
+    {
+      "name": "Worldschedule",
+      "matched": true
+    },
+    {
+      "name": "TravelSearch.io",
+      "matched": true
+    },
+    {
+      "name": "FlatHunt",
+      "matched": true
+    },
+    {
+      "name": "Tripuck",
+      "matched": true
+    },
+    {
+      "name": "Wanderu",
+      "matched": true
+    },
+    {
+      "name": "Barceló Hotel Group",
+      "matched": true
+    },
+    {
+      "name": "Tripbtoz",
+      "matched": true
+    },
+    {
+      "name": "TrailVerse",
+      "matched": true
+    },
+    {
+      "name": "TravelSwitch",
+      "matched": true
+    },
+    {
+      "name": "ToursByLocals",
+      "matched": true
+    },
+    {
+      "name": "Goshuin Atlas",
+      "matched": true
+    },
+    {
+      "name": "Skyalo Travel Guide",
+      "matched": true
+    },
+    {
+      "name": "Pick your match",
+      "matched": true
+    },
+    {
+      "name": "Motel 6",
+      "matched": true
+    },
+    {
+      "name": "SecretBox",
+      "matched": true
+    },
+    {
+      "name": "LDN Travel",
+      "matched": false
+    },
+    {
+      "name": "Simbye",
+      "matched": false
+    },
+    {
+      "name": "IbiPoint — prepaid data eSIMs",
+      "matched": true
+    },
+    {
+      "name": "Nomadic",
+      "matched": true
+    },
+    {
+      "name": "Mozio",
+      "matched": true
+    },
+    {
+      "name": "Preferred Hotels & Resorts",
+      "matched": true
+    },
+    {
+      "name": "Amapas Vacation Rental",
+      "matched": true
+    },
+    {
+      "name": "Retreats and Venues",
+      "matched": true
+    },
+    {
+      "name": "Eurostars Hotel Company",
+      "matched": true
+    },
+    {
+      "name": "Momego",
+      "matched": true
+    },
+    {
+      "name": "Avi-Go Aviation Intelligence",
+      "matched": true
+    },
+    {
+      "name": "Condor",
+      "matched": true
+    },
+    {
+      "name": "Stockholm Archipelago Trail",
+      "matched": true
+    },
+    {
+      "name": "EVT Hotels & Resorts",
+      "matched": true
+    },
+    {
+      "name": "Jettly",
+      "matched": true
+    },
+    {
+      "name": "Life Happens Outdoors",
+      "matched": true
+    },
+    {
+      "name": "Hotel Moderno",
+      "matched": true
+    },
+    {
+      "name": "Campiri",
+      "matched": true
+    },
+    {
+      "name": "Valpas Hotels",
+      "matched": true
+    },
+    {
+      "name": "James Villas",
+      "matched": true
+    },
+    {
+      "name": "SoloWay — Bus Tickets",
+      "matched": true
+    },
+    {
+      "name": "MoodTrip.Ai",
+      "matched": true
+    },
+    {
+      "name": "Evaneos",
+      "matched": true
+    },
+    {
+      "name": "Charge Atlas",
+      "matched": true
+    },
+    {
+      "name": "Meeters",
+      "matched": true
+    },
+    {
+      "name": "Simsurf",
+      "matched": true
+    },
+    {
+      "name": "PrivateJet.com",
+      "matched": true
+    },
+    {
+      "name": "Tineo",
+      "matched": true
+    },
+    {
+      "name": "Heymondo",
+      "matched": true
+    },
+    {
+      "name": "Powly",
+      "matched": true
+    },
+    {
+      "name": "TIRAVA - Taxi in Albania",
+      "matched": true
+    },
+    {
+      "name": "SnowSure",
+      "matched": true
+    },
+    {
+      "name": "Radisson Hotels",
+      "matched": true
+    },
+    {
+      "name": "ChillMaps: NA Drink Finder",
+      "matched": true
+    },
+    {
+      "name": "Michi - Travel App",
+      "matched": true
+    },
+    {
+      "name": "uhomes.com",
+      "matched": true
+    },
+    {
+      "name": "Kindred",
+      "matched": true
+    },
+    {
+      "name": "Kingston Hotels",
+      "matched": true
+    },
+    {
+      "name": "isango!",
+      "matched": true
+    },
+    {
+      "name": "Shqiponja eSIM",
+      "matched": true
+    },
+    {
+      "name": "Vegas Guide",
+      "matched": true
+    },
+    {
+      "name": "TripCanvas",
+      "matched": true
+    },
+    {
+      "name": "Mitsis Hotels",
+      "matched": true
+    },
+    {
+      "name": "UkraineBorder",
+      "matched": true
+    },
+    {
+      "name": "Jumpseat",
+      "matched": true
+    },
+    {
+      "name": "EF Ultimate Break",
+      "matched": true
+    },
+    {
+      "name": "Gullivr",
+      "matched": true
+    },
+    {
+      "name": "Simcardo Connectivity Planner",
+      "matched": true
+    },
+    {
+      "name": "easyJet",
+      "matched": true
+    },
+    {
+      "name": "BNESIM",
+      "matched": true
+    },
+    {
+      "name": "LINEAR Magazine",
+      "matched": true
+    },
+    {
+      "name": "Porcel hotels",
+      "matched": true
+    },
+    {
+      "name": "MapQuest",
+      "matched": true
+    },
+    {
+      "name": "Tralendr",
+      "matched": true
+    },
+    {
+      "name": "Verne",
+      "matched": true
+    },
+    {
+      "name": "VoyageHacks",
+      "matched": true
+    },
+    {
+      "name": "HemmaBo",
+      "matched": true
+    },
+    {
+      "name": "Airport Pickups London",
+      "matched": true
+    },
+    {
+      "name": "Alpy.com",
+      "matched": true
+    },
+    {
+      "name": "SlickTrip",
+      "matched": true
+    },
+    {
+      "name": "Southwest Airlines",
+      "matched": true
+    },
+    {
+      "name": "sharc Travel",
+      "matched": true
+    },
+    {
+      "name": "Yoteiko",
+      "matched": true
+    },
+    {
+      "name": "Carhopp",
+      "matched": true
+    },
+    {
+      "name": "MeranO",
+      "matched": true
+    },
+    {
+      "name": "NEBLES",
+      "matched": true
+    },
+    {
+      "name": "Ognissanti Hotels",
+      "matched": true
+    },
+    {
+      "name": "MilanMetroStatus.it",
+      "matched": true
+    },
+    {
+      "name": "FREETOUR.com",
+      "matched": true
+    },
+    {
+      "name": "HOTEL ROMA MCP",
+      "matched": true
+    },
+    {
+      "name": "McDreams Hotels",
+      "matched": true
+    },
+    {
+      "name": "Stayonomy",
+      "matched": true
+    },
+    {
+      "name": "PlanYourTrip",
+      "matched": true
+    },
+    {
+      "name": "Sobo Beaches",
+      "matched": true
+    },
+    {
+      "name": "ChooseCruise",
+      "matched": true
+    },
+    {
+      "name": "Fly Travel Albania",
+      "matched": true
+    },
+    {
+      "name": "Vize Rehberim",
+      "matched": true
+    },
+    {
+      "name": "Hoseasons",
+      "matched": true
+    },
+    {
+      "name": "Musafir.com: Visa & Travel",
+      "matched": true
+    },
+    {
+      "name": "tickadoo",
+      "matched": true
+    },
+    {
+      "name": "eSIMFOX",
+      "matched": true
+    },
+    {
+      "name": "HopeGoo",
+      "matched": true
+    },
+    {
+      "name": "Traffik Yacht Radar",
+      "matched": true
+    },
+    {
+      "name": "Aman",
+      "matched": true
+    },
+    {
+      "name": "Mercury Jets",
+      "matched": true
+    },
+    {
+      "name": "HOTELS Trip & Travel Stays",
+      "matched": true
+    },
+    {
+      "name": "OPEN - what is open right now",
+      "matched": true
+    },
+    {
+      "name": "How is my trip?",
+      "matched": true
+    },
+    {
+      "name": "The Visa Services",
+      "matched": true
+    },
+    {
+      "name": "ENUYGUN",
+      "matched": false
+    },
+    {
+      "name": "Parra-Glideator",
+      "matched": true
+    },
+    {
+      "name": "Secret World — Hidden Gems",
+      "matched": false
+    },
+    {
+      "name": "One Step Travel",
+      "matched": true
+    },
+    {
+      "name": "AgentRoam",
+      "matched": true
+    },
+    {
+      "name": "PLAZA Hotels",
+      "matched": true
+    },
+    {
+      "name": "TripPocket",
+      "matched": true
+    },
+    {
+      "name": "Piazza in Festa",
+      "matched": true
+    },
+    {
+      "name": "ride.auto",
+      "matched": true
+    },
+    {
+      "name": "pickthehotel",
+      "matched": true
+    },
+    {
+      "name": "Le Bon Road Trip Planner",
+      "matched": true
+    },
+    {
+      "name": "Holiday Autos",
+      "matched": true
+    },
+    {
+      "name": "JPS — Award Search & Watch",
+      "matched": true
+    },
+    {
+      "name": "The Houstonian",
+      "matched": true
+    },
+    {
+      "name": "Rio Las Vegas",
+      "matched": true
+    },
+    {
+      "name": "Travon",
+      "matched": true
+    },
+    {
+      "name": "Flightcat",
+      "matched": true
+    },
+    {
+      "name": "Bellhopt Concierge",
+      "matched": true
+    },
+    {
+      "name": "Yescapa",
+      "matched": true
+    },
+    {
+      "name": "Parks n Paws",
+      "matched": true
+    },
+    {
+      "name": "Teemeup",
+      "matched": true
+    },
+    {
+      "name": "billiger-mietwagen.de",
+      "matched": true
+    },
+    {
+      "name": "Flaut.Travel",
+      "matched": true
+    },
+    {
+      "name": "Fridey",
+      "matched": true
+    },
+    {
+      "name": "eSIMradar",
+      "matched": true
+    },
+    {
+      "name": "ReturnOS Hospitality Commerce",
+      "matched": true
+    },
+    {
+      "name": "eSIM-Global.VIP",
+      "matched": true
+    }
+  ]
+}

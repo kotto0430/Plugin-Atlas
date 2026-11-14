@@ -1,0 +1,394 @@
+{
+  "source": "Chrome ChatGPT 教育",
+  "date": "2026-11-14",
+  "method": "画面を重ねてスクロールし表示名を目視転記。誤記・重複の可能性あり。",
+  "notes": "判読できない名称は保留。名前の大小文字を無視した一致で、同一アプリの確認ではない。",
+  "catalog_blob": "fd13ece4009fcf170733daf819bb2e7424328a60",
+  "counts": {
+    "rows": 95,
+    "matched": 0,
+    "unmatched": 95
+  },
+  "rows": [
+    {
+      "name": "iDenteal Exam｜歯科医師国家試験対策",
+      "matched": false
+    },
+    {
+      "name": "Election.org",
+      "matched": false
+    },
+    {
+      "name": "Mock Mentor",
+      "matched": false
+    },
+    {
+      "name": "WaterExamMath",
+      "matched": false
+    },
+    {
+      "name": "実習の味方",
+      "matched": false
+    },
+    {
+      "name": "RealPTE",
+      "matched": false
+    },
+    {
+      "name": "LQT Sort Generator",
+      "matched": false
+    },
+    {
+      "name": "Real Alpha",
+      "matched": false
+    },
+    {
+      "name": "Cote R (CRC) Québec",
+      "matched": false
+    },
+    {
+      "name": "alinaflow",
+      "matched": false
+    },
+    {
+      "name": "Chalkie",
+      "matched": false
+    },
+    {
+      "name": "Mathify",
+      "matched": false
+    },
+    {
+      "name": "KAIL 과실비율",
+      "matched": false
+    },
+    {
+      "name": "MASCC (MAWC, MSAC)",
+      "matched": false
+    },
+    {
+      "name": "KI-Tutor Grundlagen der ET",
+      "matched": false
+    },
+    {
+      "name": "StateCourse AI",
+      "matched": false
+    },
+    {
+      "name": "Beyond Wine",
+      "matched": false
+    },
+    {
+      "name": "상식이",
+      "matched": false
+    },
+    {
+      "name": "Memro",
+      "matched": false
+    },
+    {
+      "name": "Heapso",
+      "matched": false
+    },
+    {
+      "name": "Awwab Qibla & Quiz",
+      "matched": false
+    },
+    {
+      "name": "ちゃんべん 基本情報技術者試験",
+      "matched": false
+    },
+    {
+      "name": "Cognitive Cat Prep",
+      "matched": false
+    },
+    {
+      "name": "PE or Not?",
+      "matched": false
+    },
+    {
+      "name": "SQUAREONE Academy",
+      "matched": false
+    },
+    {
+      "name": "ちゃんべん 情報セキュリティマネジメント試験",
+      "matched": false
+    },
+    {
+      "name": "Uncountable (US)",
+      "matched": false
+    },
+    {
+      "name": "トゥーンエル",
+      "matched": false
+    },
+    {
+      "name": "Clerq Patent Research",
+      "matched": false
+    },
+    {
+      "name": "UniAgenda",
+      "matched": false
+    },
+    {
+      "name": "Career Passport（キャリアパスポート）",
+      "matched": false
+    },
+    {
+      "name": "Legimini",
+      "matched": false
+    },
+    {
+      "name": "NexusDigest",
+      "matched": false
+    },
+    {
+      "name": "GameGene",
+      "matched": false
+    },
+    {
+      "name": "IA camba",
+      "matched": false
+    },
+    {
+      "name": "Eformogi",
+      "matched": false
+    },
+    {
+      "name": "Genoplot",
+      "matched": false
+    },
+    {
+      "name": "Vorsorge-Regeln",
+      "matched": false
+    },
+    {
+      "name": "ちゃんべん 情報処理安全確保支援士試験",
+      "matched": false
+    },
+    {
+      "name": "DS&A Coach",
+      "matched": false
+    },
+    {
+      "name": "LQT Single-Point Criteria",
+      "matched": false
+    },
+    {
+      "name": "Clarity4D",
+      "matched": false
+    },
+    {
+      "name": "NHLA Liberty Ratings",
+      "matched": false
+    },
+    {
+      "name": "MatchLah",
+      "matched": false
+    },
+    {
+      "name": "Guía del curso de correo",
+      "matched": false
+    },
+    {
+      "name": "OpenHuman Atlas",
+      "matched": false
+    },
+    {
+      "name": "BookAuthority",
+      "matched": false
+    },
+    {
+      "name": "Remember Me – Bible Memory",
+      "matched": false
+    },
+    {
+      "name": "YipYap (Language)",
+      "matched": false
+    },
+    {
+      "name": "Great Question",
+      "matched": false
+    },
+    {
+      "name": "EcoGPT",
+      "matched": false
+    },
+    {
+      "name": "Kunskapskartan",
+      "matched": false
+    },
+    {
+      "name": "Zovo Pedigree Charts",
+      "matched": false
+    },
+    {
+      "name": "エスキスクン",
+      "matched": false
+    },
+    {
+      "name": "RadOS",
+      "matched": false
+    },
+    {
+      "name": "Anga Story Studio",
+      "matched": false
+    },
+    {
+      "name": "Recluse Studio",
+      "matched": false
+    },
+    {
+      "name": "Phantom Agent",
+      "matched": false
+    },
+    {
+      "name": "Plot45",
+      "matched": false
+    },
+    {
+      "name": "Pure City Research Public",
+      "matched": false
+    },
+    {
+      "name": "Mantiks",
+      "matched": false
+    },
+    {
+      "name": "Memo Card",
+      "matched": false
+    },
+    {
+      "name": "Alkitab GPT (AI Bible)",
+      "matched": false
+    },
+    {
+      "name": "Astroplus Astrology",
+      "matched": false
+    },
+    {
+      "name": "Ocean Liner GPT",
+      "matched": false
+    },
+    {
+      "name": "Life Science Research",
+      "matched": false
+    },
+    {
+      "name": "poitoko (ポイトコ)",
+      "matched": false
+    },
+    {
+      "name": "Physical Validation",
+      "matched": false
+    },
+    {
+      "name": "Zovo Cross Sum Puzzles",
+      "matched": false
+    },
+    {
+      "name": "Gotham Legal AI",
+      "matched": false
+    },
+    {
+      "name": "Wikitólica",
+      "matched": false
+    },
+    {
+      "name": "AI営業ロープレ｜AI Sales Roleplay",
+      "matched": false
+    },
+    {
+      "name": "LexCerta",
+      "matched": false
+    },
+    {
+      "name": "満腹就活 企業研究AI",
+      "matched": false
+    },
+    {
+      "name": "Solved Tax & Legal",
+      "matched": false
+    },
+    {
+      "name": "Offbook",
+      "matched": false
+    },
+    {
+      "name": "Sommo",
+      "matched": false
+    },
+    {
+      "name": "Homechecker",
+      "matched": false
+    },
+    {
+      "name": "InfraNodus",
+      "matched": false
+    },
+    {
+      "name": "Temidy",
+      "matched": false
+    },
+    {
+      "name": "НПА РК — Zañ men tärtip",
+      "matched": false
+    },
+    {
+      "name": "Japanese Skills · 言の葉",
+      "matched": false
+    },
+    {
+      "name": "カーリル for AI",
+      "matched": false
+    },
+    {
+      "name": "OSINT Navigator",
+      "matched": false
+    },
+    {
+      "name": "Hipa.ai Clinical Trials",
+      "matched": false
+    },
+    {
+      "name": "学童さがし",
+      "matched": false
+    },
+    {
+      "name": "Paxton Legal Research",
+      "matched": false
+    },
+    {
+      "name": "BW 幸福SEL課程設計",
+      "matched": false
+    },
+    {
+      "name": "NEJM",
+      "matched": false
+    },
+    {
+      "name": "AskDeeper",
+      "matched": false
+    },
+    {
+      "name": "Visalaw AI",
+      "matched": false
+    },
+    {
+      "name": "Beeblio",
+      "matched": false
+    },
+    {
+      "name": "ちゃんべん ITパスポート試験",
+      "matched": false
+    },
+    {
+      "name": "When Will I EVER Use This?",
+      "matched": false
+    },
+    {
+      "name": "InkDraft",
+      "matched": false
+    }
+  ]
+}

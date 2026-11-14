@@ -1,0 +1,25 @@
+{
+  "name": "Alpix",
+  "provider": "Alpic",
+  "version": "3.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a0dcc1413f88191ba2dd68c73cb841e?category=creativity",
+  "developer_url": "https://alpic.ai/",
+  "original_description": "Alpix lets you and an AI collaboratively paint pixel art on a live shared canvas. Describe any shape or scene and the AI draws it. Every pixel is attributed to the AI model and the user who placed it, so contributions are visible to everyone !",
+  "summary_ja": "共有キャンバス上でAIと一緒にドット絵を描く。",
+  "usage_tags": [
+    "ドット絵",
+    "共同制作"
+  ],
+  "limitations_ja": "描いたピクセルの貢献が皆に見えると説明。動作・公開範囲の詳細は未検証。",
+  "official_app_name": "Alpix",
+  "official_name_basis": "ChatGPTのプラグイン詳細画面に表示された名称",
+  "category": "Creativity",
+  "observed_at": "2026-11-14",
+  "description_scope": "ChatGPT詳細画面の提供元の英語説明。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "詳細画面の説明と情報欄を確認。実動作、料金、品質は未検証。",
+  "catalog_status": "一覧本体との名称照合は未確認。同名・別名の同一性は未確認。"
+}
