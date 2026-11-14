@@ -119,6 +119,13 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 - [Book Covers by Abracadabrax](book_covers_by_abracadabrax_2026-11-14.json) — 書名や著者、ジャンルを指定して電子書籍・印刷本の表紙画像を作る。
 - [Coloring Pages by Abracadabrax](coloring_pages_by_abracadabrax_2026-11-14.json) — 文章から、対象年齢に合わせた線の細かさの印刷用塗り絵を作る。
 
+
+- [PersonalizedComics](personalizedcomics_2026-11-14.json) — 写真の人物を登場させ、表紙・2ページの物語・裏表紙からなる短編漫画を作る。
+- [AI Manga Studio](ai_manga_studio_2026-11-14.json) — 漫画の企画・ネーム・コマ・吹き出しや画像配置を、連携した作品に対して会話で編集する。
+- [Image Translator](image_translator_2026-11-14.json) — 保存済みの漫画ページなどの画像内の文字を翻訳して差し替えた画像を作る。
+- [Anifusion](anifusion_2026-11-14.json) — 物語やコマごとの脚本から非公開の漫画を作り、Anifusionでレイアウトや文字を編集する。
+- [TicToon](tictoon_2026-11-14.json) — 参加済みTicToonチャンネルに、画像と文章を漫画のスレッドとして投稿する。
+
 ## 一覧本体との照合
 
 [名称照合の記録](catalog_name_audit_2026-11-14.json) — 詳細35件と作業ブランチの一覧3,941件を比較。34件は名前が一致、Palimpsestは一致なし。名前の一致は同一性の確定ではない。個々のJSONにある旧「照合未確認」の記載は調査時点の記録で、最新の照合結果はこの記録を参照。
