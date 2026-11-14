@@ -449,3 +449,8 @@ Chromeの詳細画面を確認し、[Krea](inventory/plugin_details/krea_2026-11
 ### 不明な機能の詳細調査（2026-11-14、物語・絵コンテ5件）
 
 [MangaBoom](inventory/plugin_details/mangaboom_2026-11-14.json)、[Story Writer](inventory/plugin_details/story_writer_2026-11-14.json)、[Firemoon Storyboard Studio](inventory/plugin_details/firemoon_storyboard_studio_2026-11-14.json)、[Storybook Maker](inventory/plugin_details/storybook_maker_2026-11-14.json)、[Storytailor](inventory/plugin_details/storytailor_2026-11-14.json)を記録。[詳細索引](inventory/plugin_details/README.md)は累計90件。Story Writerはアフィリエイトリンクの記載あり。Firemoonは人物の一貫性を保証しないと説明。Storybook Makerは1回1ページの挿絵を作り、物語の文字は画像ではなくチャットに残ると説明。機能・品質・料金・権利条件、一覧本体との名称照合は未検証。作業ブランチのみ更新、main・本番未変更。
+
+
+### 中断前の確認3件を保存（2026-11-15）
+
+2026-11-14に画面を確認して保存前に中断していた [StoryCrest](inventory/plugin_details/storycrest_2026-11-14.json)、[Kids Book Maker](inventory/plugin_details/kids_book_maker_2026-11-14.json)、[Storyblocks](inventory/plugin_details/storyblocks_2026-11-14.json) の記録を保存。[索引](inventory/plugin_details/README.md)は累計93件。StoryCrestは読み込み中に見えた説明の抜粋で、全文は未確認。Kids Book Makerはリンクを知る人が閲覧できる一覧非掲載で作成され、Privateにする手順が別途必要と説明。Storyblocksはダウンロードリンク取得ごとにプラン枠を消費すると記載。機能・料金・品質・一覧本体との名称照合は未検証。作業ブランチのみ更新、main・本番未変更。
