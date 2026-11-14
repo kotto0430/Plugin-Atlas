@@ -16,5 +16,17 @@
     "口座のユーザー名・パスワードをAIエージェントなど他の人やシステムに渡さないよう明記。"
   ],
   "review": "詳細画面の「続きを読む」を展開し、英文・下部情報まで確認。画面記載に基づく記録で、実際の動作・料金・利用条件は未検証。",
-  "catalog_status": "一覧本体に IBI SMART の名前あり。"
+  "catalog_status": "一覧本体に IBI SMART の名前あり。",
+  "official_app_name": "IBI SMART",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "口座情報",
+    "資産管理"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "画面の英語説明の一部抜粋。詳細ページには注意事項の全文とアプリ説明があるため、全文は出典URLで確認。",
+  "original_description": "This service facilitates the technical transfer of information solely for the purpose of viewing account information and does not allow the submission of orders or the execution of transactions or other actions in the account."
 }
