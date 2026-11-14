@@ -1,0 +1,27 @@
+{
+  "name": "mnml AI",
+  "official_app_name": "mnml AI",
+  "provider": "mnml.ai",
+  "version": "1.0.2",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac7a17676848191a4d53d3be136ab71?category=creativity",
+  "developer_url": "https://mnml.ai/mcp",
+  "category": "Creativity",
+  "observed_at": "2026-11-14",
+  "original_description": "mnml is the AI studio for architectural design and visualization, inside ChatGPT. Bring a sketch, a site photo or a SketchUp, Revit or Rhino view, say what it shows, and get a photoreal render back in the chat. Exteriors, interiors, landscapes, masterplans and floor plans. Mark one part of an image to change it and keep the rest. Make up to four options of a brief and compare them. Extend the frame, upscale a render, or turn a still into a short clip. Nothing runs until you confirm it, every render uses your own mnml.ai account, and each one is saved to your mnml library and projects, ready to continue in Studio.",
+  "original_description_language": "en",
+  "description_scope": "ChatGPT詳細画面の提供元の英語説明。",
+  "summary_ja": "スケッチや建築モデルの画像から建築・内装の写実的な画像を生成・修正する。",
+  "usage_tags": [
+    "建築",
+    "背景制作",
+    "画像生成",
+    "内装"
+  ],
+  "limitations_ja": "mnml.aiアカウントを使用し、実行前の確認が必要と説明。アプリ欄ではクレジットを使う前に確認すると記載。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "詳細画面の説明と情報欄を確認。実動作・料金・品質は未検証。",
+  "catalog_status": "一覧本体との名称照合は未確認。同名・別名の同一性は未確認。"
+}
