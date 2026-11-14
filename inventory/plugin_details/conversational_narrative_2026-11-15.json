@@ -1,0 +1,25 @@
+{
+  "name": "Conversational Narrative",
+  "official_app_name": "Conversational Narrative",
+  "provider": "Mamdouh Aboammar",
+  "version": "0.1.0",
+  "source_url": "https://chatgpt.com/plugins/plugins_6a8d93a8e8388191a09e7b25ed86e3fb?category=creativity",
+  "developer_url": null,
+  "category": "Creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Turn technical, analytical, or practitioner ideas into conversational narratives that feel like a real operator thinking with the reader. The plugin routes fresh drafts, technical explanations, series continuations, and voice-preserving rewrites through focused Skills. It prioritizes friction before terminology, concrete examples before abstraction, decision consequences over information dumps, natural Arabic-English code-switching when present in the source voice, controlled humor, useful roughness, and open-loop endings. It also audits drafts for repetitive contrast formulas, generic thought-leadership language, decorative English, fake certainty, over-structured headings, and other patterns that make expert writing feel synthetic.",
+  "original_description_language": "en",
+  "summary_ja": "技術的・専門的な考えを会話調の文章にまとめ、既存の文体を保つ書き直しや文章の点検を支援する。",
+  "usage_tags": [
+    "執筆",
+    "技術文章",
+    "文章編集"
+  ],
+  "limitations_ja": "アラビア語と英語の混用に言及。日本語での結果は未検証。開発者サイトは画面で利用不可。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "一覧本体との名称照合は未確認。同名・別名の同一性は未確認。",
+  "review": "詳細画面の説明・情報欄を確認。動作、料金、品質は未検証。"
+}
