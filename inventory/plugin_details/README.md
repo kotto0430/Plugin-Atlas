@@ -180,6 +180,10 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 - [AISTLabs](aistlabs_2026-11-15.json) — 商品写真から短い商品動画や画像・音声を作る。
 - [HeyGen](heygen_2026-11-15.json) — アバター動画・画像・音声・動画翻訳を扱う。
 
+- [Autodesk Product Help](autodesk_product_help_2026-11-15.json) — Autodesk製品の公式ヘルプを検索する。
+- [AI Graphic Design（Superdesign）](ai_graphic_design_superdesign_2026-11-15.json) — ポスターやスライドを作り、参考画像をムードボードに集める。
+- [Arcads](arcads_2026-11-15.json) — 商品や企画から広告画像・動画を制作する。
+
 ## 一覧本体との照合
 
 [名称照合の記録](catalog_name_audit_2026-11-14.json) — 詳細35件と作業ブランチの一覧3,941件を比較。34件は名前が一致、Palimpsestは一致なし。名前の一致は同一性の確定ではない。個々のJSONにある旧「照合未確認」の記載は調査時点の記録で、最新の照合結果はこの記録を参照。
