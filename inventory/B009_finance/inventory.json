@@ -4973,12 +4973,12 @@
         2509
       ],
       "ocr_raw": "GREl",
-      "display_name": null,
-      "status": "要確認",
-      "review_note": "OCR候補。画像照合前",
+      "display_name": "GREI",
+      "status": "画像・Chrome照合済み",
+      "review_note": "PDFとChromeのアイコン・説明が一致。Chromeのアクセシビリティ文字列で綴りを確認。",
       "evidence": "evidence/page-03.png",
       "candidate_text": "GREI",
-      "note": "Iとlの字形は要確認",
+      "note": "作業ブランチの一覧に仮ID atlas-pdf-finance-p03r23 で追加",
       "matched_before": false
     },
     {
@@ -10103,7 +10103,7 @@
     }
   ],
   "ocr_candidate_rows": 505,
-  "unconfirmed_rows": 3,
+  "unconfirmed_rows": 2,
   "added_names": [
     "Bigdata.com",
     "Financial Datasets",
@@ -10600,7 +10600,8 @@
     "Amortiza Loan Planner",
     "Ogmentive Cashback",
     "DeepStack",
-    "Public"
+    "Public",
+    "GREI"
   ],
   "previous_name_matches": 6,
   "duplicate_names": {},
