@@ -1,0 +1,25 @@
+{
+  "name": "Ridvay: Carousels & Posters",
+  "official_app_name": "Ridvay: Carousels & Posters",
+  "provider": "Ridvay",
+  "version": "1.0.3",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac738d839f081918ae49552be24c258",
+  "developer_url": "https://ridvay.com/",
+  "category": "Creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Ridvay turns a request in ChatGPT into a finished design you can edit, download and post: Instagram carousels and posts, posters, flyers, menus, invitations and more. Each one is a real design saved in your Ridvay account, with separate text, shapes, icons and pictures you can change, not a flat image.\n\nDescribe what you need, with the details that matter: the event, the date, the place, the style. ChatGPT lays out the design in Ridvay and opens it in the Ridvay editor right in the chat. Move, resize, retype or recolor anything by hand, or ask ChatGPT for changes in plain words. When it looks right, download it or share a link.\n\nWhat you can make\n- Multi-slide carousels for Instagram, LinkedIn and Facebook, every slide in the same style and downloadable on its own\n- Social media posts and stories for Instagram, Facebook, LinkedIn and TikTok\n- Posters and flyers for events, openings, sales, classes and notices\n- Menus and specials boards for cafés, restaurants and bars\n- Invitations and announcements for birthdays, weddings, parties and launches\n- Presentation slides, infographics, banners and signs\n- Certificates and two-sided business cards\n\nWhat you can do\n- Turn a short description into a finished design, sized for where it will be used\n- Edit by hand in the Ridvay editor inside ChatGPT; your saved edits are passed back to ChatGPT, so its next changes build on them\n- Ask for changes in plain words, such as \"make the headline bigger\" or \"add a second page\"; every change is saved as a version\n- Add photos and logos you attach to the chat, or pictures ChatGPT creates for you\n- Add icons, outline maps and QR codes from Ridvay's vector catalog\n- Stay on brand with your Ridvay brand kits: colors, fonts and logos\n- Find and continue designs already saved in your Ridvay account, including ones made on ridvay.com\n- Download any page as a PNG or JPEG file, at up to 4 times the design's size\n- Share a view link, a link to an editable copy, an always-current image link or a full-screen view for TVs and tablets\n- Living designs: change a date, opening hours or a status later without touching the layout; shared links update within a minute\n\nWho it is for\n\nSmall businesses, shops, cafés and restaurants, gyms and studios, event organizers, teachers and creators who make everyday graphics and want a design they can finish, reuse and change later.\n\nTry asking\n- Make a 5-slide Instagram carousel with tips for first-time home buyers\n- Make a funny 6-slide Instagram carousel about Monday mornings at the office\n- Make a flyer for our bakery's grand opening this Saturday at 9 AM, with live music and tastings\n- Create an Instagram post announcing our yoga studio's new Sunday 8 AM class, calm and minimal style\n- Design a one-page café menu with coffee, pastries and brunch, then open it so I can edit it by hand\n- Use the photo I attached to make a \"Now open\" poster for our barber shop\n- Change the date on my night market flyer and download it as a PNG\n\nGood to know\n- You sign in with your Ridvay account the first time. Ridvay only reads and changes the designs and brand kits in the account you connect.\n- New designs are private until you ask ChatGPT to share them.\n- Ridvay does not create pictures itself. Pictures come from your conversation, and up to 5 new pictures can be added per day; adding the same picture again does not count.\n- Downloads are PNG or JPEG files, one page per file, and a daily download limit applies. Designs made here are still images; video and animation are not supported in ChatGPT.\n- Ridvay cannot delete designs from ChatGPT, and it does not post to social networks, print, ship or sell anything.",
+  "original_description_language": "en",
+  "summary_ja": "編集可能なSNS投稿、ポスター、チラシやメニューなどを作る。",
+  "usage_tags": [
+    "デザイン",
+    "SNS",
+    "チラシ"
+  ],
+  "limitations_ja": "アカウントが必要。画像そのものはRidvayが生成せず、新規画像の追加とダウンロードに日次制限。動画・アニメやSNSへの投稿は対象外と説明。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "一覧本体との名称照合は未確認。同名・別名の同一性は未確認。",
+  "review": "詳細画面の説明・情報欄を確認。動作、料金、品質は未検証。"
+}
