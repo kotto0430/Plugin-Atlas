@@ -1,0 +1,28 @@
+{
+  "name": "WalkMyPlan — Floor Plans in 3D",
+  "official_app_name": "WalkMyPlan — Floor Plans in 3D",
+  "provider": "YLabs",
+  "version": "6.0.1",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a5563300db881918aa0eff31d9a6679?category=creativity",
+  "developer_url": "https://www.walkmyplan.com/",
+  "category": "Creativity",
+  "observed_at": "2026-11-14",
+  "original_description": "Describe the home you want — \"a 10 by 10 house with a master bedroom and a private bathroom, two kids' rooms, an open kitchen and living room, a garden with trees\" — and WalkMyPlan builds it in one go: real walls, doors, windows, furniture and garden. Open the live link and walk through it in 3D.\n\nKeep designing in conversation. \"Make the living room bigger.\" \"Put a TV on the north wall.\" \"I marked pin A — put the front door exactly there.\" Furniture placement is automatic — it finds a free spot, away from doorways. Every edit lands in a revision history you can undo or roll back to any point. Edits are for visualization and planning; WalkMyPlan does not check structural safety or building codes.\n\nAsk about what you built. \"How big is the kitchen?\", \"Is there room for a double bed in the small bedroom?\" Answers are measured from the model's real geometry.\n\nSee it for real. Ask for a photorealistic image and get a link that turns your current design into a picture of the finished home, generated from the plan's exact measurements. Make a short video that moves over it, or download a printable PDF sheet at true architectural scale with dimensions — one ask each.\n\nBuild in storeys. Stack your floor plans into one building, line the floors up over each other, and connect them with stairs and lifts - the whole building opens as one 3D model you can walk floor to floor. Balcony sliding doors and glass shopfront vitrines are real objects, handles included.\n\nBuild a tower without designing it twice. Design one typical floor, make up to 19 copies, and stack as many as 20 storeys into a single walkable building - then change only the floors that differ. Ask for a plan check at any point and get measured, specific feedback on room sizes, circulation and daylight.\n\nShare and collaborate. Share a plan privately with named people as viewers or editors, or with a link. See who changed what, when.\n\nAlready have a plan? Upload one intended floor plan per file - a PDF, an image (PNG, JPG or WebP) or a DWG, up to 100MB - or draw it on the sketch pad. A PDF or image opens as tracing paper in the Sketch pad. For DWG, WalkMyPlan reads the drawing's real scale and layers and shows it exactly in a view-only CAD Source view beside the automatic proposal, where you trace over it and confirm or reject the automatic walls.\n\nGreat for home design, interior design, room planning, renovation, and planning a build. Your plans stay private to your account unless you share them and can be deleted any time (trash keeps them recoverable for 30 days). See the privacy policy for how plan data may be used to test and improve WalkMyPlan's plan-reading technology and how to opt out.\n\nTry: \"Build me a three-bedroom house with a garden\" — then \"show me a photorealistic image.\"",
+  "original_description_language": "en",
+  "description_scope": "ChatGPT詳細画面の提供元の英語説明。",
+  "summary_ja": "会話や既存図面から住宅の3D間取りを作り、歩行表示や編集を行う。",
+  "usage_tags": [
+    "建築",
+    "間取り",
+    "3D",
+    "背景資料"
+  ],
+  "limitations_ja": "構造安全性や建築基準は確認しないと説明。メイン説明はプランデータの技術改善への利用とオプトアウトを案内する一方、アプリ欄はAI学習に使わないと記載。範囲を一律とみなさず要確認。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "詳細画面の説明と情報欄を確認。実動作・料金・品質は未検証。",
+  "catalog_status": "一覧本体との名称照合は未確認。同名・別名の同一性は未確認。",
+  "app_description_excerpt": "Share and collaborate. Share a plan privately with named people as viewers or editors, or with a link. See who changed what, when. Already have a plan? Upload the real CAD file your architect sent — DWG or vector PDF, up to 100MB — and WalkMyPlan converts it into the same editable, walkable 3D model, so you start from reality instead of a blank page. Great for home design, interior design, room planning, renovation, and planning a build. Your plans stay private to your account unless you share them, are never used to train AI models, and can be deleted any time (trash keeps them recoverable for 30 days)."
+}
