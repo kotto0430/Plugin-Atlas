@@ -454,3 +454,8 @@ Chromeの詳細画面を確認し、[Krea](inventory/plugin_details/krea_2026-11
 ### 中断前の確認3件を保存（2026-11-15）
 
 2026-11-14に画面を確認して保存前に中断していた [StoryCrest](inventory/plugin_details/storycrest_2026-11-14.json)、[Kids Book Maker](inventory/plugin_details/kids_book_maker_2026-11-14.json)、[Storyblocks](inventory/plugin_details/storyblocks_2026-11-14.json) の記録を保存。[索引](inventory/plugin_details/README.md)は累計93件。StoryCrestは読み込み中に見えた説明の抜粋で、全文は未確認。Kids Book Makerはリンクを知る人が閲覧できる一覧非掲載で作成され、Privateにする手順が別途必要と説明。Storyblocksはダウンロードリンク取得ごとにプラン枠を消費すると記載。機能・料金・品質・一覧本体との名称照合は未検証。作業ブランチのみ更新、main・本番未変更。
+
+
+### 不明な機能の詳細調査（2026-11-15、創作関連7件）
+
+[Conversational Narrative](inventory/plugin_details/conversational_narrative_2026-11-15.json)、[Anime Stories](inventory/plugin_details/anime_stories_2026-11-15.json)、[Short Story Lovers](inventory/plugin_details/short_story_lovers_2026-11-15.json)、[Animation Maker](inventory/plugin_details/animation_maker_2026-11-15.json)、[Bedtime Story Maker](inventory/plugin_details/bedtime_story_maker_2026-11-15.json)、[gilmOS](inventory/plugin_details/gilmos_2026-11-15.json)、[Topview 3D Builder](inventory/plugin_details/topview_3d_builder_2026-11-15.json)の表示名・提供元・版・英文原文・日本語要約・用途・制約を保存。[詳細索引](inventory/plugin_details/README.md)は累計100件。今回保存した前回確認分3件と合わせて10件。Anime Storiesはオリジナル物語を対象に制作前の確認とクレジット使用を説明。Bedtime Story Makerは5,000文字・約6分までで音楽や効果音なし。gilmOSはアカウントの権限による会話閲覧・送信や通知、クレジット消費を説明し、完成動画のレンダリングは対象外。Topviewの3D構築・フレーム描画のローカル動作は提供元の説明であり、動画生成全体がローカルとは断定しない。機能・料金・品質・一覧本体との名称照合は未検証。StoryCrestの説明全文確認など保留事項と、カテゴリー全体の選別は引き続き未完了。100件は詳細記録の数であり、一覧本体の件数に加算しない。作業ブランチのみ更新し、main・本番未変更。
