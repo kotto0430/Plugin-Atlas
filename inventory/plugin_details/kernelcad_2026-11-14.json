@@ -1,0 +1,26 @@
+{
+  "name": "kernelCAD",
+  "official_app_name": "kernelCAD",
+  "provider": "kernelCAD",
+  "version": "0.17.4",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a2fcd20e8008191b0c688ca1bc7abb5?category=creativity",
+  "developer_url": "https://kernelcad.com/",
+  "category": "Creativity",
+  "observed_at": "2026-11-14",
+  "original_description": "Create and edit dimensioned parametric CAD parts and assemblies from natural-language instructions. Design enclosures, brackets, gears and motor mounts; change dimensions, inspect an interactive 3D model, and run supported geometry and manufacturability checks. Export CAD and manufacturing files in STEP, STL or 3MF, and drawings in DXF or PDF. Check results describe the supported checks performed; manufacturing requirements still depend on the chosen process and material.",
+  "original_description_language": "en",
+  "description_scope": "ChatGPT詳細画面の提供元の英語説明。",
+  "summary_ja": "文章で寸法を変更できるCAD部品や組立モデルを作り、3D確認や図面出力を行う。",
+  "usage_tags": [
+    "CAD",
+    "3D",
+    "部品設計"
+  ],
+  "limitations_ja": "チェック結果は実施された対応チェックの範囲。製造要件は工程や材料に依存すると説明。機能と精度は未検証。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "詳細画面の説明と情報欄を確認。実動作・料金・品質は未検証。",
+  "catalog_status": "一覧本体との名称照合は未確認。同名・別名の同一性は未確認。"
+}
