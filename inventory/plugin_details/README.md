@@ -151,6 +151,11 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 
 - [Short Films（ManyMotions）](short_films_manymotions_2026-11-15.json) — 物語の概要から短編映画を制作。同名・同提供元の2ページを比較し、関係は未確認。
 
+- [Meminto – Write Your Book](meminto_write_your_book_2026-11-15.json) — 本の構想・執筆や対応する原稿の取り込みを支援する。
+- [papergarden](papergarden_2026-11-15.json) — 物語と挿絵のある絵本を制作し、印刷本を注文する。
+- [KitCut](kitcut_2026-11-15.json) — アイデアや画像からナレーション付きアニメ動画を作る。
+- [LongStories](longstories_2026-11-15.json) — 物語や脚本から動画やシリーズを制作・編集する。
+
 ## 一覧本体との照合
 
 [名称照合の記録](catalog_name_audit_2026-11-14.json) — 詳細35件と作業ブランチの一覧3,941件を比較。34件は名前が一致、Palimpsestは一致なし。名前の一致は同一性の確定ではない。個々のJSONにある旧「照合未確認」の記載は調査時点の記録で、最新の照合結果はこの記録を参照。
