@@ -1,0 +1,31 @@
+{
+  "name": "Mobbin",
+  "official_app_name": "Mobbin",
+  "official_name_basis": "ChatGPTのプラグイン詳細画面に表示された名称",
+  "category": "Creativity",
+  "provider": "Mobbin",
+  "version": "1.5.0",
+  "observed_at": "2026-11-14",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_69fdb9081018819193707354f21b366e?category=creativity",
+  "developer_url": "https://mobbin.com/",
+  "original_description": "Give your AI agent 600,000+ real app screens, and the skills to use them. Includes the Mobbin MCP and a skill that redesigns your screen from patterns real apps ship, in your own design system, with the references behind every change.",
+  "description_scope": "ChatGPTのプラグイン詳細画面に表示された提供元の英語説明",
+  "summary_ja": "実在アプリの画面や操作フローを参考に、画面デザインの調査や改善を支援する。",
+  "usage_tags": [
+    "UIデザイン",
+    "UXデザイン",
+    "デザイン調査"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "limitations_ja": "収録画面数や検索範囲、再設計の品質、利用料金は未検証。",
+  "review": "詳細画面の説明と情報欄を確認。実際の検索や再設計は行っていない。",
+  "catalog_status": "一覧本体との名称照合は未確認。",
+  "example_prompts": [
+    "Find home screen examples from banking apps and save them to a collection",
+    "Compare how AI tools design their pricing sections",
+    "Review my paywall screen against the ones I saved in collections"
+  ]
+}
