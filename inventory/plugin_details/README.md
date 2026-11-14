@@ -134,7 +134,7 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 - [Storytailor](storytailor_2026-11-14.json) — Storytailorの物語の作成・閲覧・続き・翻訳や登場人物を管理する。
 
 
-- [StoryCrest](storycrest_2026-11-14.json) — 子どもを主人公にした絵本の表紙・あらすじを作り、外部サイトで印刷本を注文できる。 説明全文は未確認。
+- [StoryCrest](storycrest_2026-11-14.json) — 子どもを主人公にした絵本の表紙・あらすじを作り、外部サイトで印刷本を注文できる。
 - [Kids Book Maker](kids_book_maker_2026-11-14.json) — 大人が子ども向けに、挿絵・読み上げ・字幕のある絵本を作る。
 - [Storyblocks](storyblocks_2026-11-14.json) — ストック動画・音楽・効果音・画像を検索して確認する。
 
@@ -145,6 +145,9 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 - [Bedtime Story Maker](bedtime_story_maker_2026-11-15.json) — 子ども向け物語を音声で読み上げる。
 - [gilmOS](gilmos_2026-11-15.json) — 脚本、映像素材と制作予定を管理する。
 - [Topview 3D Builder](topview_3d_builder_2026-11-15.json) — 人物やカメラの配置を3Dで組み立てて映像の構図を検討する。
+
+- [Zovo Love Story Poster](zovo_love_story_poster_2026-11-15.json) — 記念日から経過日数や節目を計算し、ポスターPDFと予定表を作る。
+- [Memory Book of Voice Messages](memory_book_of_voice_messages_2026-11-15.json) — 一人の音声メッセージを文字起こしして回想録にまとめる。日本語の印刷と配送地域に制限あり。
 
 ## 一覧本体との照合
 
