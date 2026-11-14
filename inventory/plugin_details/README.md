@@ -184,6 +184,14 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 - [AI Graphic Design（Superdesign）](ai_graphic_design_superdesign_2026-11-15.json) — ポスターやスライドを作り、参考画像をムードボードに集める。
 - [Arcads](arcads_2026-11-15.json) — 商品や企画から広告画像・動画を制作する。
 
+- [Everygen](everygen_2026-11-15.json) — 短い動画や画像、音声、脚本の制作を扱う。
+- [AI Voice Generator（Level 2 Labs）](ai_voice_generator_level2_2026-11-15.json) — 文章からナレーション音声を作る。
+- [fal](fal_2026-11-15.json) — 画像・動画・音声・3Dなどを生成する。
+- [Magnific](magnific_2026-11-15.json) — 画像・動画などの制作や編集、キャンペーン制作を扱う。
+- [OpenArt](openart_2026-11-15.json) — 複数のモデルを使って画像や動画などを作る。
+- [invideo](invideo_2026-11-15.json) — 動画のタイムライン編集や書き出しを扱う。
+- [AI Video Maker（InfoseekAI）](ai_video_maker_infoseek_2026-11-15.json) — 短い動画を制作。説明では定額契約は不要で、使用量に応じた料金が発生する。
+
 ## 一覧本体との照合
 
 [名称照合の記録](catalog_name_audit_2026-11-14.json) — 詳細35件と作業ブランチの一覧3,941件を比較。34件は名前が一致、Palimpsestは一致なし。名前の一致は同一性の確定ではない。個々のJSONにある旧「照合未確認」の記載は調査時点の記録で、最新の照合結果はこの記録を参照。
