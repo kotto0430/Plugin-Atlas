@@ -466,3 +466,8 @@ Chromeの詳細画面を確認し、[Krea](inventory/plugin_details/krea_2026-11
 [Zovo Love Story Poster](inventory/plugin_details/zovo_love_story_poster_2026-11-15.json)と[Memory Book of Voice Messages](inventory/plugin_details/memory_book_of_voice_messages_2026-11-15.json)の英語説明、正式表示名、提供元、版、日本語要約、用途、制約を保存。詳細記録は累計102件。Zovoは記念日のポスターPDFとICSを扱う。Memory Bookは音声メッセージを回想録にまとめ、印刷・配送は米国とカナダに限定され、日本語などは印刷できないと説明。音声の保管・削除は提供元の説明で実挙動は未検証。2件とも実動作・料金・一覧本体との名称照合は未確認。
 
 あわせて[StoryCrest](inventory/plugin_details/storycrest_2026-11-14.json)を再表示し、前回の記録が説明全文と一致すると確認。詳細件数には新規加算しない。検索「story」の結果には表示名が同じ Short Films の別の詳細URLが2件あるため、今後調査する場合は同一と決めつけず提供元・IDを照合する。カテゴリー全体の選別は未完了。作業ブランチのみ更新、main・本番未変更。
+
+
+### 同名ページの比較（2026-11-15）
+
+[Short Films（ManyMotions）](inventory/plugin_details/short_films_manymotions_2026-11-15.json)の2ページを確認し、両方の英文を1記録に保存した。名称・提供元・概要は同じだが詳細IDは異なり、版は1.0.2と1.0.1。前者の説明のみ使用クレジットの表示に言及する。重複・移行などの関係は未確認なので決めつけない。詳細記録は累計103ファイルで、2ページを別々に加算していない。動作・料金・一覧本体との名称照合は未検証。作業ブランチのみ更新しmain・本番未変更。
