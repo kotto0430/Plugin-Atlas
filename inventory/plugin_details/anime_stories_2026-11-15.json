@@ -1,0 +1,25 @@
+{
+  "name": "Anime Stories",
+  "official_app_name": "Anime Stories",
+  "provider": "ManyMotions",
+  "version": "1.0.2",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac12912de8c81918c21ceb0a5269694?category=creativity",
+  "developer_url": "https://manymotions.com/",
+  "category": "Creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Turn a story idea into a short animated video in anime, flat cel, chibi, cartoon, storybook or 3D animation style.\n\nDescribe the story, the main characters, the art style and the mood, plus the spoken language, format and length. The plugin prepares a brief and shows the number of scenes and the credits it will use. When you confirm, ManyMotions writes the script scene by scene, keeps the characters and the art style consistent across scenes, generates the keyframes and the scene videos with AI voice, and edits the final cut. A video takes several minutes; ChatGPT reports the progress and returns the link to the MP4.\n\nFor storytellers, parents, teachers and creators of short-form videos.\n\nLimitations: original stories from text only, meant for your own characters rather than existing franchises. It does not animate uploaded drawings or photos or edit footage. Producing a video uses your signed-in ManyMotions account; preparing a brief does not need an account. If you are not signed in, the plugin gives a link where the same brief opens on ManyMotions.\n\nManyMotions is the platform formerly known as ClipWave.",
+  "original_description_language": "en",
+  "summary_ja": "オリジナルの物語案から、脚本・音声付きの短いアニメ動画を作る。",
+  "usage_tags": [
+    "動画制作",
+    "アニメ",
+    "物語"
+  ],
+  "limitations_ja": "文章によるオリジナル作品向け。アップロード画像のアニメ化や既存映像の編集は対象外。動画制作は確認後にサインイン済みアカウントとクレジットを使用。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "一覧本体との名称照合は未確認。同名・別名の同一性は未確認。",
+  "review": "詳細画面の説明・情報欄を確認。動作、料金、品質は未検証。"
+}
