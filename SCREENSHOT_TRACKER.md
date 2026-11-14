@@ -459,3 +459,10 @@ Chromeの詳細画面を確認し、[Krea](inventory/plugin_details/krea_2026-11
 ### 不明な機能の詳細調査（2026-11-15、創作関連7件）
 
 [Conversational Narrative](inventory/plugin_details/conversational_narrative_2026-11-15.json)、[Anime Stories](inventory/plugin_details/anime_stories_2026-11-15.json)、[Short Story Lovers](inventory/plugin_details/short_story_lovers_2026-11-15.json)、[Animation Maker](inventory/plugin_details/animation_maker_2026-11-15.json)、[Bedtime Story Maker](inventory/plugin_details/bedtime_story_maker_2026-11-15.json)、[gilmOS](inventory/plugin_details/gilmos_2026-11-15.json)、[Topview 3D Builder](inventory/plugin_details/topview_3d_builder_2026-11-15.json)の表示名・提供元・版・英文原文・日本語要約・用途・制約を保存。[詳細索引](inventory/plugin_details/README.md)は累計100件。今回保存した前回確認分3件と合わせて10件。Anime Storiesはオリジナル物語を対象に制作前の確認とクレジット使用を説明。Bedtime Story Makerは5,000文字・約6分までで音楽や効果音なし。gilmOSはアカウントの権限による会話閲覧・送信や通知、クレジット消費を説明し、完成動画のレンダリングは対象外。Topviewの3D構築・フレーム描画のローカル動作は提供元の説明であり、動画生成全体がローカルとは断定しない。機能・料金・品質・一覧本体との名称照合は未検証。StoryCrestの説明全文確認など保留事項と、カテゴリー全体の選別は引き続き未完了。100件は詳細記録の数であり、一覧本体の件数に加算しない。作業ブランチのみ更新し、main・本番未変更。
+
+
+### 詳細調査と再確認（2026-11-15、記念・音声2件）
+
+[Zovo Love Story Poster](inventory/plugin_details/zovo_love_story_poster_2026-11-15.json)と[Memory Book of Voice Messages](inventory/plugin_details/memory_book_of_voice_messages_2026-11-15.json)の英語説明、正式表示名、提供元、版、日本語要約、用途、制約を保存。詳細記録は累計102件。Zovoは記念日のポスターPDFとICSを扱う。Memory Bookは音声メッセージを回想録にまとめ、印刷・配送は米国とカナダに限定され、日本語などは印刷できないと説明。音声の保管・削除は提供元の説明で実挙動は未検証。2件とも実動作・料金・一覧本体との名称照合は未確認。
+
+あわせて[StoryCrest](inventory/plugin_details/storycrest_2026-11-14.json)を再表示し、前回の記録が説明全文と一致すると確認。詳細件数には新規加算しない。検索「story」の結果には表示名が同じ Short Films の別の詳細URLが2件あるため、今後調査する場合は同一と決めつけず提供元・IDを照合する。カテゴリー全体の選別は未完了。作業ブランチのみ更新、main・本番未変更。
