@@ -1,0 +1,25 @@
+{
+  "name": "Pixel Art",
+  "official_app_name": "Pixel Art",
+  "provider": "Abracadabrax",
+  "version": "1.0.2",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ace53e0a9d08191b09180e1c129290b?category=creativity",
+  "developer_url": "https://abracadabrax.app/",
+  "category": "Creativity",
+  "observed_at": "2026-11-14",
+  "original_description": "Describe a character, items or a scene and get pixel art in 8-bit or 16-bit style: a character sprite, a sprite sheet of animation frames, items and icons, a tileset or a full scene.\n\nThe plugin prepares a draft with the kind of asset, the bit style, the palette and the image model. When you confirm, Abracadabrax renders it and ChatGPT returns the link to the image.\n\nFor indie game developers and pixel art fans.\n\nLimitations: new pixel art from text only. It does not convert uploaded photos, export animated GIFs or game-engine files, or copy characters from existing games. Producing needs a signed-in Abracadabrax account. If you are not signed in, the plugin gives a link where the same draft opens on Abracadabrax. Outputs are AI-generated.",
+  "original_description_language": "en",
+  "summary_ja": "文章から8・16ビット風のドット絵やスプライトシートを作る。",
+  "usage_tags": [
+    "ドット絵",
+    "ゲーム制作",
+    "画像生成"
+  ],
+  "limitations_ja": "写真変換・アニメGIFやゲームエンジン向けファイルの書き出しは対象外と説明。 生成にはAbracadabraxへのサインインと生成前の確認が必要と説明。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "詳細画面の説明と情報欄を確認。実動作・料金・品質・権利条件は未検証。",
+  "catalog_status": "一覧本体との名称照合は未確認。同名・別名の同一性は未確認。"
+}
