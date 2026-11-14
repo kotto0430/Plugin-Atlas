@@ -1,0 +1,26 @@
+{
+  "name": "HeyGen",
+  "official_app_name": "HeyGen",
+  "provider": "HeyGen Technology Inc.",
+  "version": "4.7.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_69418aad55e08191aa5e437b649ca2e4",
+  "developer_url": "https://www.heygen.com/",
+  "category": "Creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Create AI videos, talking avatars, AI images, voiceovers, voice clones, and translated videos with HeyGen in ChatGPT. Turn an idea, script, article, document, photo, product, audio recording, or existing footage into marketing videos, ads, product demos, UGC, explainers, training, tutorials, presentations, and social videos for YouTube, YouTube Shorts, TikTok, Instagram Reels, LinkedIn, and websites.\n\nWith HeyGen, you can:\n\n• Make talking-avatar videos. Have an AI avatar, AI presenter, or spokesperson deliver your script or audio for announcements, sales outreach, onboarding, HR and compliance training, courses, presentations, and customer messages. Add B-roll, music, captions, and motion graphics, or export the avatar on a transparent background to overlay on your own content.\n\n• Clone yourself. Create an AI clone of yourself: a Digital Twin from a short video, or a photo avatar from a single image. Clone your voice instantly from one recording, or train a professional voice clone from 20+ minutes of audio, so you can make videos without filming.\n\n• Give your avatar new looks. Create new outfits, hairstyles, and backgrounds for your avatar from a description, a style template, or a themed look pack, then make videos of yourself in any look.\n\n• Make a photo talk. Turn a photo or portrait of a person into a talking, lip-synced video, or create an avatar from a photo or a text description.\n\n• Create voiceovers and audio. Generate AI voiceovers and text-to-speech (TTS) narration in many voices and languages, design a custom voice from a description, re-voice a recording in your own cloned voice with an AI voice changer (speech-to-speech), and add music and sound effects.\n\n• Create AI images. Generate any image from a text prompt or reference images. With HeyGen Image, put yourself or your avatar in any scene for AI headshots, profile pictures, photoshoots, and a consistent character: it keeps the face from your photos and takes the pose, outfit, and lighting from a reference, then you can animate the result into video.\n\n• Generate AI videos with HeyGen Video 1. Text-to-video, image-to-video, and reference-to-video for cinematic scenes, product videos, ads, animations, B-roll, and short clips in landscape, vertical, or square. Create Cinematic Avatar scenes with up to three of your avatars.\n\n• Make cartoons, birthday videos, and slideshows. Create animated shorts; birthday, wedding, and holiday videos and invites; bedtime stories for kids; and carousels and photo slideshows. Bring old photos back to life.\n\n• Make longer videos. Turn a topic, blog post, article, or document into a narrated video with scenes, B-roll, captions, music, and on-screen graphics using Video Agent, then refine it in chat. Make faceless videos, explainers, narrated picture stories, and slideshow-style videos.\n\n• Make UGC and social ads. Create AI UGC ads, product reviews, tutorials, try-on hauls, unboxings, website and app promos, e-commerce product ads, and ASMR product videos from your product photos or website.\n\n• Plan content. Write video scripts and hooks, and plan and produce a recurring video series for YouTube, TikTok, or Instagram on a schedule.\n\n• Translate and dub videos. Use AI dubbing and video translation into 175+ languages and dialects, including Spanish, French, German, Portuguese, Japanese, Korean, Chinese, Hindi, and Arabic, with voice cloning, lip-sync, and subtitles. Lip-sync any video to new audio to replace or fix lines.\n\n• Repurpose and clean up footage. Use AI clipping to turn long videos, video podcasts, webinars, and livestreams into Shorts and Reels, and remove filler words and long silences.\n\n• Personalize and scale. Turn a video into a reusable template, swap names and text, and generate many personalized videos in one batch. Apply brand kits with your logo and colors, and brand glossaries for pronunciation.\n\nConnect your HeyGen account to get started.",
+  "original_description_language": "en",
+  "summary_ja": "アバター動画、画像、音声、動画翻訳などを作成・管理する。",
+  "usage_tags": [
+    "動画制作",
+    "アバター",
+    "音声",
+    "翻訳"
+  ],
+  "limitations_ja": "HeyGenアカウントが必要。言語数・翻訳品質・料金・各機能の利用条件は提供元の説明であり未検証。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "一覧本体との名称照合は未確認。同名・別名の同一性は未確認。",
+  "review": "詳細画面の説明・情報欄を確認。動作、料金、品質は未検証。"
+}
