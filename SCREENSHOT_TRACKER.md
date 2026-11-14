@@ -340,3 +340,8 @@ PDF境界で保留した8枠は、PDF画像とChrome一覧の名前を照合し�
 金融Chromeの943記録行には正規化後の同名が7組あり、936種類の表示名だった。[重複候補の記録](inventory/B009_finance/duplicate_audit_2026-11-14.json)。とくに `Mortgage IQ` は一覧の離れた位置で異なる説明とアイコンを観察しており、同名でも同一アプリとは断定できない。公式IDは未確認であり、記録は削除・統合していない。
 
 金融PDF p03R23の保留は、原本3ページのアイコン・説明 `Global property insights` がChromeの `GREI` と一致し、Chrome読み上げの表記でも大文字Iを確認。[rows.csv](inventory/B009_finance/rows.csv) と [inventory.json](inventory/B009_finance/inventory.json)を更新し、一覧に仮ID `atlas-pdf-finance-p03r23` で1件追加した。追加後は3,941件（index blob `27fc7d17ee843cc9e0651a6c2913c06326f3b9db`）。金融PDFの残り2枠 p05R13・p06R03 はPDFとChromeでアイコン・説明は一致するが、I/lの綴りをまだ確定できないため保留。main・本番は変更していない。
+
+
+### 不明な機能の詳細調査（2026-11-14、開始）
+
+Chromeの詳細ページを開き、長い説明は展開して下まで確認。[詳細調査の索引](inventory/plugin_details/README.md)に4件を記録した。Palimpsest・TradingCursor・IBI SMART・Economic Mind。各記録には出典ページ、提供元、版、英文の説明または抜粋、日本語の要点と制約を保存。特にIBI SMARTは、取引プラットフォーム自体とプラグインの口座情報閲覧という範囲を分けて記した。表示文に基づく記録であり、動作・料金・利用地域等は未検証。Palimpsestは既存一覧との名前不一致候補であり一覧本体には未追加。全カテゴリの選別や詳細確認は未完了。作業ブランチのみを更新しmain・本番未変更。
