@@ -247,7 +247,7 @@ p03R19,3,R,19,Wealthfront,Wealthfront,画像照合済み,,Wealthfront,False,evid
 p03R20,3,R,20,HelpDol,HelpDol,画像照合済み,,HelpDol,False,evidence/page-03.png
 p03R21,3,R,21,Vestd,Vestd,画像照合済み,,Vestd,False,evidence/page-03.png
 p03R22,3,R,22,CMC Markets,CMC Markets,画像照合済み,,CMC Markets,False,evidence/page-03.png
-p03R23,3,R,23,,GREI,要確認,Iとlの字形は要確認,GREl,False,evidence/page-03.png
+p03R23,3,R,23,GREI,GREI,画像・Chrome照合済み,PDFとChromeのアイコン・説明が一致しChromeの表示文字列でIを確認,GREl,False,evidence/page-03.png
 p03R24,3,R,24,Chargebee (EU Region),Chargebee (EU Region),画像照合済み,,Chargebee (EU Region),False,evidence/page-03.png
 p03R25,3,R,25,Savvly,Savvly,画像照合済み,,Savvly,False,evidence/page-03.png
 p03R26,3,R,26,Klardaten DATEV-Connector,Klardaten DATEV-Connector,画像照合済み,,Klardaten DATEV-Connector,False,evidence/page-03.png
