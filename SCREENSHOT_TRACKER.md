@@ -362,3 +362,8 @@ Chromeの詳細ページを開き、長い説明は展開して下まで確認�
 ### 不明な機能の詳細調査（2026-11-14、追加5件・会計など）
 
 金融一覧の [Rallies](inventory/plugin_details/rallies_2026-11-14.json)、[Synci](inventory/plugin_details/synci_2026-11-14.json)、[Kubera](inventory/plugin_details/kubera_2026-11-14.json)、[Co-Invest](inventory/plugin_details/co_invest_2026-11-14.json)、[Accounting（OpenAI）](inventory/plugin_details/accounting_openai_2026-11-14.json) の詳細画面の英文、名称、提供元、日本語の要点、タグ、確認状況を記録。[詳細調査索引](inventory/plugin_details/README.md)は累計20件。Synciは読み取り専用と説明し銀行の対象地域を列挙、日本の銀行への対応は未確認。Kuberaは保有情報を更新する例があり、Co-Investの注文の扱いは説明だけでは不明。Accountingは連携可能と表示されたプラグインも保存。個人口座や会計データを連携しておらず、動作・料金・主張は未検証。今回5件の一覧本体との名称照合は未確認。同名項目の同一性も未確認。金融を含め全カテゴリの詳細調査は未完了。作業ブランチのみ更新、main・本番未変更。
+
+
+### 不明な機能の詳細調査（2026-11-14、金融・クリエイティブ追加5件）
+
+[StrategyTune: Backtesting](inventory/plugin_details/strategytune_backtesting_2026-11-14.json)、[LONA™](inventory/plugin_details/lona_2026-11-14.json)、[HyperFrames by HeyGen](inventory/plugin_details/hyperframes_by_heygen_2026-11-14.json)、[Creative Claw](inventory/plugin_details/creative_claw_2026-11-14.json)、[Creative Production（OpenAI）](inventory/plugin_details/creative_production_openai_2026-11-14.json)の詳細画面を確認し、名称、提供元、英語説明、日本語要約、用途タグ、確認状況を記録。[詳細索引](inventory/plugin_details/README.md)は累計25件。前2件は過去データによる検証で実注文・証券口座接続を行わないとの説明。Creative Clawは生成依頼の確認と完成動画のプレビューの違い、他者の音声には明示的な許可が必要という提供元の記載も保存。機能、品質、料金等は未検証。今回の5件と一覧本体の名称照合・同名製品の同一性は未確認。金融およびクリエイティブを含む各カテゴリーの詳細調査は未完了。作業ブランチのみ更新しmain・本番未変更。
