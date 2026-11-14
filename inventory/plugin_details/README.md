@@ -72,6 +72,18 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 - [Character Maker](character_maker_2026-11-14.json) — MegaScenesでオリジナルキャラクター画像を作成。Character Creatorとは表示名・提供元が異なる。
 - [Game Maker AI](game_maker_ai_2026-11-14.json) — ゲーム企画と難易度の検討。ゲームそのものの作成・実行・公開は行わないと説明。
 
+
+- [RunComfy](runcomfy_2026-11-14.json) — クラウドでComfyUIのワークフローを実行し、画像・動画の生成や独自LoRAの学習を行う。
+- [AI Video and Image by AIRP](ai_video_and_image_by_airp_2026-11-14.json) — 対話で画像・ロゴ・動画の制作内容を整理し、ManyMotionsで制作するためのリンクを作る。
+- [FLORA](flora_2026-11-14.json) — 会話から画像やムードボードなどのビジュアル素材を生成・整理・改善する。
+- [Screel](screel_2026-11-14.json) — シーンごとの絵コンテや静止画を基に動画を制作し、音声や音楽も追加する。
+- [Kive](kive_2026-11-14.json) — 保存済みの商品や素材を参照し、ブランドに沿った商品画像・動画を作成・編集する。
+- [Mirelo](mirelo_2026-11-14.json) — 文章や動画から効果音・環境音を生成、既存音声の編集やMIDI・楽譜への変換を行う。
+- [Midify](midify_2026-11-14.json) — コード進行やハーモニーを検討し、会話でMIDIの楽曲構成を作る。
+- [Subdivide](subdivide_2026-11-14.json) — テンポや拍子、細分音符、テンポの変化を指定できるメトロノームを作る。
+- [VisualSong](visualsong_2026-11-14.json) — 端末内の音声ファイルに反応する映像表現をChatGPT内に表示する。
+- [Appllama](appllama_2026-11-14.json) — 売上上位のモバイルアプリの画面、操作フロー、オンボーディングや課金画面を調べるためのデザイン資料。
+
 ## 一覧本体との照合
 
 [名称照合の記録](catalog_name_audit_2026-11-14.json) — 詳細35件と作業ブランチの一覧3,941件を比較。34件は名前が一致、Palimpsestは一致なし。名前の一致は同一性の確定ではない。個々のJSONにある旧「照合未確認」の記載は調査時点の記録で、最新の照合結果はこの記録を参照。
