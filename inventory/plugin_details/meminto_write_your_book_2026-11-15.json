@@ -1,0 +1,25 @@
+{
+  "name": "Meminto – Write Your Book",
+  "official_app_name": "Meminto – Write Your Book",
+  "provider": "Meminto",
+  "version": "1.5.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ad1e11411388191871d386bb5636994?category=creativity",
+  "developer_url": "https://meminto.com/",
+  "category": "Creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Meminto helps you go from your first idea to a printed book in your hands. Use the plugin to plan, write and organize chapters, text and photos; review the final layout and order your printed book in Meminto. Seven writing workflows help you begin, find a central thread, plan chapters, develop your own voice, revise passages, review continuity, import a manuscript and check technical print readiness.\n\nStart from a blank page, scattered notes or a passage you already wrote. Planning, drafting, coaching and feedback on supplied text can begin in the conversation without a Meminto account. Use guided questions, free writing or both; no questionnaire, prepared idea or complete chapter plan is required. Work on memoirs, family and travel stories, any other factual topic, or fiction you explicitly request.\n\nConnect Meminto when you want to read or organize an existing book, save approved text, work with photos or resume private book notes. Keep your facts, uncertainty and narrative voice. Existing-text revisions are shown as a concrete preview and saved only after approval. Optional private working notes keep the book compass and style preferences outside printed content; when unavailable, notes remain in the conversation.\n\nWhen import is enabled, turn Word/DOCX, UTF-8 TXT or Markdown, or an enabled digital PDF into proposed chapters and sections in an existing owner-owned writable Meminto book. Headings are optional. Upload the original through a private Meminto link, review the complete conversion, structure and selected supported images, then approve the exact plan before anything is appended. Images from general PDFs are initially gallery-only; inline placement depends on the supported source and reviewed plan. No OCR or exact source layout is promised. Recognized public YouTube links can receive video/QR references; other video links remain text. Linked videos and remote images are not downloaded. A chat attachment alone is not a Meminto upload.\n\nFor a connected book, distinguish technical print blockers, warnings and optional improvements; a completed import is not a print-readiness guarantee. Reading or saving stored content requires a Meminto account and an accessible book. Permissions, book status and capacity apply. When first-book setup is enabled, create a Meminto account in its browser signup, confirm your email and separately grant access. Eligible accounts without an owned book can explicitly approve one limited starter book with a chosen theme and title. Actual capacities are shown before creation; a blank book has no preset questions. Existing grants do not automatically gain book-creation rights. General book creation, template switching, whole-book deletion, orders and payments are not supported. Preview files are watermarked. Rename the book, a chapter or a section, change the author name and the dedication, or send feedback to Meminto support, each only after you approved the exact wording or message.",
+  "original_description_language": "en",
+  "summary_ja": "書籍の構想・執筆・章の整理や対応する原稿の取り込みを支援する。",
+  "usage_tags": [
+    "執筆",
+    "書籍",
+    "原稿整理"
+  ],
+  "limitations_ja": "保存済み本の読み書きにはアカウントが必要。取り込みは有効時のみでOCRや元レイアウトの再現は保証しない。注文や決済はプラグイン対象外と説明。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "一覧本体との名称照合は未確認。同名・別名の同一性は未確認。",
+  "review": "詳細画面の説明・情報欄を確認。動作、料金、品質は未検証。"
+}
