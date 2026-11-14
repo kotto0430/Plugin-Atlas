@@ -1,0 +1,14 @@
+{
+  "name": "Economic Mind",
+  "category": "Finance",
+  "provider": "Economic Mind AS",
+  "version": "1.0.0",
+  "observed_at": "2026-11-14",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a391fdcb738819193cd1154c602a926?category=finance",
+  "developer_url": "https://www.economicmind.com/",
+  "privacy_url": "https://www.economicmind.com/privacy",
+  "original_description": "Gain access to Economic Mind’s comprehensive market intelligence database, covering market sizing, forecasting, trends and competitive landscape across 10,000 markets. Every number is fully traceable to the underlying sources and assumptions, based on Economic Mind’s bottom-up methodology.",
+  "summary_ja": "市場規模、予測、動向、競合状況を含む市場情報データベースにアクセスするプラグイン。提供元は約1万市場を対象に、数値の出典と前提を追跡できると説明している。",
+  "review": "詳細画面を下まで確認。対象市場数や出典の追跡可能性は提供元の記載であり独立検証していない。動作・料金・地域は未検証。",
+  "catalog_status": "一覧本体に Economic Mind の名前あり。"
+}
