@@ -382,3 +382,8 @@ Chromeの詳細画面を確認し、[Krea](inventory/plugin_details/krea_2026-11
 ### 不明な機能の詳細調査（2026-11-14、Vulca）
 
 クリエイティブ一覧の [Vulca](inventory/plugin_details/vulca_2026-11-14.json) の詳細画面を確認し、名称・提供元・版・英文説明・日本語要約・用途タグ・確認状況を保存した。[詳細索引](inventory/plugin_details/README.md)は累計36件。ビジュアルの方向性、文化的伝統の調査、プロンプト構成、視覚・文化面の評価を支援し、画像生成・描き直し・インペインティング・公開のワークフローは対象外と説明。実動作・料金は未検証。一覧本体3,941件の比較元blob `27fc7d17ee843cc9e0651a6c2913c06326f3b9db` に Vulca の文字列はなく、別名や同名項目との同一性は未確認。候補は一覧本体未追加。全カテゴリの選別・詳細確認は未完了。作業ブランチのみ更新し、main・本番未変更。
+
+
+### 不明な機能の詳細調査（2026-11-14、創作向け3件）
+
+[Worldkeep](inventory/plugin_details/worldkeep_2026-11-14.json)、[Dramatica](inventory/plugin_details/dramatica_2026-11-14.json)、[Inkroost: Comic & Manga Maker](inventory/plugin_details/inkroost_2026-11-14.json)の詳細画面から名称・提供元・版・英文・日本語要約・用途・確認状況を保存し、[詳細索引](inventory/plugin_details/README.md)は累計39件。Worldkeepは世界設定の承認を経た記録とグラフ化、Dramaticaは認証済み作家の物語構造の確認や変更、Inkroostは漫画・ウェブトゥーンの作画とアニメ化を説明する。実動作・料金・出力の品質や権利条件は未検証。3件とも比較元の一覧本体3,941件（index blob `27fc7d17ee843cc9e0651a6c2913c06326f3b9db`）に正式表示名の文字列は見当たらないが、別名等との同一性は未確認。詳細調査の記録のみで一覧本体には追加していない。カテゴリ全体の調査は未完了。作業ブランチのみ更新し、main・本番未変更。
