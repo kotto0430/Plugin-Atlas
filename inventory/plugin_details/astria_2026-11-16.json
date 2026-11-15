@@ -1,0 +1,27 @@
+{
+  "official_app_name": "Astria",
+  "provider": "Astria",
+  "version": "1.5.21",
+  "source_url": "https://chatgpt.com/plugins/plugins_6aa518f7d9608191aa8b89c668c2fbe1?category=creativity",
+  "observed_at": "2026-11-16",
+  "original_description": "Astria creative skills with agent-assisted local MCP setup. Connect an Astria account through your host to generate images and videos.",
+  "observed_skill_excerpt": {
+    "name": "astria-api",
+    "text": "Generate or edit images and videos with Astria. Use for product photography, virtual try-on, fashion lookbooks, professional headshots from photos, consistent people or products across scenes, and running saved photoshoot templates.",
+    "note": "スキル概要の一部。"
+  },
+  "summary_ja": "Astriaに接続して画像や動画を生成・編集し、商品写真や人物写真などの制作を支援する。",
+  "usage_tags": [
+    "画像生成",
+    "動画制作",
+    "商品写真",
+    "ポートレート"
+  ],
+  "limitations": [
+    "ホスト経由のAstriaアカウント接続とローカルMCP設定が必要との説明。実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
