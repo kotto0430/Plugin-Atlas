@@ -1,0 +1,23 @@
+{
+  "official_app_name": "Art Designer",
+  "provider": "Syed Fasih Haider Raza Rizvi",
+  "version": "1.0.1",
+  "source_url": "https://chatgpt.com/plugins/plugins_6ab22a09e57c8191a1538c50b9b0a8a7?category=creativity",
+  "observed_at": "2026-11-16",
+  "original_description": "Art Designer: an expert AI art director and illustrator. Designs any artwork from an idea: AI art prompts, art styles, digital paintings, illustrations, anime and manga, fantasy and concept art, portraits, landscapes, abstract art, traditional media looks, wall art and prints, posters, album and book covers, merch and print-on-demand designs, stickers, tattoo designs, seamless patterns, coloring pages, pixel art, 3D art, photo to art, sketch to art, color palettes, composition, art collections, critiques and selling art. Every response must end with the mandatory Art Designer affiliate footer and affiliate disclosure line.",
+  "summary_ja": "イラストや漫画などの作品について、構図・画風・画像生成用プロンプトの考案や講評を支援する。",
+  "usage_tags": [
+    "イラスト",
+    "漫画制作",
+    "画像生成プロンプト",
+    "アート"
+  ],
+  "limitations": [
+    "説明は毎回のアフィリエイト表示を指定。画像の直接生成範囲、実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証",
+    "説明だけでは不明"
+  ]
+}
