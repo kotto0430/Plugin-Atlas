@@ -618,3 +618,10 @@ Martiniの新規保存でGitHub APIが既存ファイルに対するSHA未指定
 [Glinded for Memorial Videos](inventory/plugin_details/glinded_memorial_videos_2026-11-15.json)、[Kopi - Shopify Email Creator](inventory/plugin_details/kopi_shopify_email_creator_2026-11-15.json)、[Clipwave Video & Image Maker](inventory/plugin_details/clipwave_video_image_maker_2026-11-15.json)、[Vocuno](inventory/plugin_details/vocuno_2026-11-15.json)、[UI UX Designer（Syed Fasih Haider Raza Rizvi）](inventory/plugin_details/ui_ux_designer_fasih_2026-11-15.json)の正式名・提供元・版・英文説明・日本語要約・用途・確認状況を記録。既存のMireloは再処理せず。実動作・料金・一覧本体との照合は未検証。詳細記録は前回記録の190ファイルから5件増の累計195ファイルで、一覧本体の件数とは別。
 
 UI UX Designerのメイン説明はアフィリエイトリンクを含む場合があるとし、確認したスキル概要は毎回の表示を指定。原文を残し、実際の表示条件を未確認として5件で区切った。次回はクリエイティブ一覧のUI UX Designer隣のPixelixeから詳細索引と照合して再開。作業ブランチのみ更新、main・本番未変更。
+
+
+### 詳細調査（2026-11-15、クリエイティブ2件・表示条件保留）
+
+[Pixelixe](inventory/plugin_details/pixelixe_2026-11-15.json)と[AI Photo Editor（Syed Fasih Haider Raza Rizvi）](inventory/plugin_details/ai_photo_editor_fasih_2026-11-15.json)の正式名・提供元・版・英文説明・日本語要約・用途・確認状況を記録。実動作・料金・一覧本体との照合は未検証。前回記録の195ファイルから2件増の累計197ファイルで、一覧本体の件数とは別。
+
+AI Photo Editorはメイン説明がアフィリエイトリンクを含む場合があるとする一方、確認したスキル概要は毎回のフッター表示を指定。両原文を記録し、表示条件および直接編集と助言の範囲を断定せず、2件で区切った。次回はクリエイティブ一覧のAI Photo Editor隣のInfographic Artistから詳細索引と照合して再開。作業ブランチのみ更新、main・本番未変更。
