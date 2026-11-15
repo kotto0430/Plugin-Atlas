@@ -1,0 +1,23 @@
+{
+  "official_app_name": "Krikey AI Animation",
+  "provider": "Krikey AI",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6997f8d1d2b881918b3df37416e95c2b?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Animate Music Videos with Krikey AI Animation. Select a 3D character, a music genre, and a topic (for example a birthday card, a marketing video or a how-to tutorial), then animate your cartoon character using AI Text to Animation. Download a high-res video export and share these 3D visuals with AI-generated music, animations, anime and cute cartoon characters.",
+  "summary_ja": "3Dキャラクターや音楽ジャンル、題材を選び、文章からアニメーション付きの音楽動画を制作する。",
+  "usage_tags": [
+    "3Dアニメーション",
+    "音楽動画",
+    "動画制作",
+    "キャラクター"
+  ],
+  "limitations": [
+    "実際の品質・料金・書き出し条件は未検証。",
+    "一覧本体との名称照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
