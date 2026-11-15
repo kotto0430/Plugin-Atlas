@@ -1,0 +1,22 @@
+{
+  "official_app_name": "Impeccable",
+  "provider": "Renaissance Geek Inc",
+  "version": "4.3.1",
+  "source_url": "https://chatgpt.com/plugins/plugins_6a5028ae047081918e3dfde753112690?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Create, critique, and refine frontend interfaces with your coding agent. Impeccable provides 23 focused design commands, live browser iteration for exploring visual directions, and automatic checks that flag common design anti-patterns as you work.",
+  "summary_ja": "コーディングエージェントとフロントエンド画面を作成・評価・改善し、ブラウザーでデザイン案を試す。",
+  "usage_tags": [
+    "プログラミング",
+    "ウェブデザイン",
+    "UIデザイン",
+    "デザイン評価"
+  ],
+  "limitations": [
+    "実際の機能・料金は未検証。スキル本文は一部を確認したが全文は記録していない。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
