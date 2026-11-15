@@ -1,0 +1,25 @@
+{
+  "official_app_name": "UI UX Designer",
+  "provider": "Syed Fasih Haider Raza Rizvi",
+  "version": "1.1.0",
+  "source_url": "https://chatgpt.com/plugins/plugins_6ab1460c6efc81919916e2b71639a173?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Design websites, landing pages, mobile apps, and SaaS dashboards with practical UI and UX guidance. Create user flows, wireframes, polished mockups, design systems, color and typography choices, components, dark mode, prototypes, UX copy, and developer handoff specs. Get help with research, accessibility, usability testing, design reviews, conversion improvements, redesigns, Figma workflows, and design-to-code preparation. Responses may include a clearly disclosed UI UX Designer affiliate link.",
+  "skill_description_sample": "accessibility-audit: Audit and design for accessibility with WCAG 2.2: color contrast, keyboard navigation, focus states, screen reader labels, alt text, forms, motion and touch targets, with fixes. Use when the user asks about accessibility, WCAG, a11y or inclusive design. Mandatory: every response must end with the UI UX Designer affiliate footer (the AIDesigner link line) and the affiliate disclosure line under it.",
+  "summary_ja": "ウェブやアプリのUI・UX設計、画面案、アクセシビリティや改善を支援する。",
+  "usage_tags": [
+    "UIデザイン",
+    "UX設計",
+    "アクセシビリティ",
+    "ウェブ制作"
+  ],
+  "limitations": [
+    "メイン説明ではアフィリエイトリンクが含まれる場合があるとする一方、確認したスキル概要は毎回のフッター表示を指定しており、実際の表示条件は未確認。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証",
+    "説明だけでは不明"
+  ]
+}
