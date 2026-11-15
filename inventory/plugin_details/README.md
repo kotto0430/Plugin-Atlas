@@ -214,6 +214,15 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 
 - [Morphix](morphix_2026-11-15.json) — 画像・動画の生成、商品写真や広告素材の制作、画像の補正を扱う。
 
+- [Color Designer - Palette Maker](color_designer_palette_maker_2026-11-15.json) — 文章から配色を提案し、パレットの色を編集する。
+- [Orshot](orshot_2026-11-15.json) — テンプレートから画像・動画・PDFを作り、SNS投稿・予約や分析を扱う。
+- [Apixel](apixel_2026-11-15.json) — 文章から画像を生成する。画像内の文字の精度は未検証。
+- [Loomly](loomly_2026-11-15.json) — SNSの投稿予定や素材を確認し、下書き・アイデアを作る。
+- [Instant Website / Insta Website Builder（Pyxl）](instant_website_pyxl_2026-11-15.json) — 説明からサイトを作り編集・公開。同じ提供元・サイトの2ページの関係は未確認。
+- [LogoGenic Image Generator](logogenic_image_generator_2026-11-15.json) — 説明やスタイルを指定して画像を生成する。
+- [TalkGen](talkgen_vidline_2026-11-15.json) — 写真やアバターを使って話す人物の動画を作る。
+- [Hypernatural](hypernatural_2026-11-15.json) — ChatGPTの会話を基に物語や広告の動画を作る。
+
 ## 一覧本体との照合
 
 [名称照合の記録](catalog_name_audit_2026-11-14.json) — 詳細35件と作業ブランチの一覧3,941件を比較。34件は名前が一致、Palimpsestは一致なし。名前の一致は同一性の確定ではない。個々のJSONにある旧「照合未確認」の記載は調査時点の記録で、最新の照合結果はこの記録を参照。
