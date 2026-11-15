@@ -604,3 +604,10 @@ AI Image Generatorはメイン説明では画像の作成・編集を記載す�
 索引を照合し、DesignlyとHZplanは記録済みのため再処理せず、[AI Color Picker - Design Tool](inventory/plugin_details/ai_color_picker_design_tool_2026-11-15.json)と[Faceless Video Maker（Syed Fasih Haider Raza Rizvi）](inventory/plugin_details/faceless_video_maker_fasih_2026-11-15.json)の正式名・提供元・版・英文説明・要約・用途・確認状況を記録。前者は色選択・配色相談、後者は顔出し動画の企画や台本、映像用指示文を扱う。実動作・料金・一覧本体との照合は未検証。詳細記録は累計184ファイルで一覧本体の件数とは別。
 
 Faceless Video Makerは動画ファイルを直接生成できる範囲が説明だけでは不明。またメイン説明はアフィリエイトリンクを含む場合があるとする一方、確認したスキル概要は回答ごとのリンクと開示を指定。両原文を残し、実際の条件は未検証として指示に従い2件で区切った。次回はクリエイティブ一覧のFaceless Video Makerの下にあるMorphedから索引と照合して再開。VisualSongは記録済み。作業ブランチのみ更新、main・本番未変更。
+
+
+### 詳細調査（2026-11-15、クリエイティブ6件・重複修正）
+
+[Morphed](inventory/plugin_details/morphed_2026-11-15.json)、[Pika](inventory/plugin_details/pika_2026-11-15.json)、[01 Superdesign](inventory/plugin_details/01_superdesign_2026-11-15.json)、[Logo Generator（B12）](inventory/plugin_details/logo_generator_b12_2026-11-15.json)、[FashionTrendAI](inventory/plugin_details/fashiontrendai_2026-11-15.json)、[Pablooo.club Benchmark library](inventory/plugin_details/pablooo_club_benchmark_library_2026-11-15.json)の正式名・提供元・版・英文説明・日本語要約・用途・確認状況を記録。実動作・料金・一覧本体との照合は未検証。詳細記録は累計190ファイルで一覧本体の件数とは別。
+
+Martiniの新規保存でGitHub APIが既存ファイルに対するSHA未指定エラーを返したため、調査を中断。確認の結果、[Martini](inventory/plugin_details/martini_2026-11-15.json)は索引掲載済み。またVectorizeも[既存記録](inventory/plugin_details/vectorize_2026-11-14.json)と同一URL・提供元・版・説明と確認できたため、今回作成した重複ファイルを削除し既存記録を維持した。次回は索引の全体を照合し、Martini隣のGlinded for Memorial Videosやその下のKopi - Shopify Email Creator付近から再開する。作業ブランチのみ更新、main・本番未変更。
