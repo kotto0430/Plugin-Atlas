@@ -1,0 +1,22 @@
+{
+  "official_app_name": "Vectorize",
+  "provider": "Stefano Monteduro",
+  "version": "1.0.1",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6aa5c87fee8c8191be7798ec35595249?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Vectorize converts PNG, JPEG, and WebP logos into editable SVG revisions. Users can inspect and refine colors, curve smoothing, background removal, and framing in an interactive preview, then download an approved SVG or generate a complete brand kit.",
+  "summary_ja": "PNG・JPEG・WebPのロゴを編集可能なSVGに変換し、色や輪郭などを調整する。",
+  "usage_tags": [
+    "ロゴ",
+    "SVG",
+    "画像変換",
+    "デザイン"
+  ],
+  "limitations": [
+    "変換精度・対応範囲・料金は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
