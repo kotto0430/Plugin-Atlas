@@ -1,0 +1,21 @@
+{
+  "official_app_name": "Uwear",
+  "provider": "Uwear.ai Software Inc.",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a6e0c6b48b48191845e65bcfb7ffa78?category=creativity",
+  "observed_at": "2026-11-16",
+  "original_description": "Uwear helps fashion teams organize garments, reusable models, locations, and art direction; prepare and approve photoshoot briefs; and generate, edit, and review product images and videos using their existing Uwear account and credits.",
+  "summary_ja": "衣服やモデル、撮影方針を整理し、ファッション商品の画像や動画を制作・確認する。",
+  "usage_tags": [
+    "ファッション",
+    "商品写真",
+    "画像・動画制作"
+  ],
+  "limitations": [
+    "既存のUwearアカウントとクレジットを使用するとの説明。実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
