@@ -688,3 +688,10 @@ Logo Designerのメイン説明はアフィリエイトリンクを含む場合�
 [Flixly](inventory/plugin_details/flixly_2026-11-15.json)、[Planner5D: Plan, Build, Create](inventory/plugin_details/planner5d_plan_build_create_2026-11-15.json)、[Aspicio](inventory/plugin_details/aspicio_2026-11-15.json)、[Atlas Cloud](inventory/plugin_details/atlas_cloud_2026-11-15.json)、[Graphic Design Studio（Syed Fasih Haider Raza Rizvi）](inventory/plugin_details/graphic_design_studio_fasih_2026-11-15.json)の正式名・提供元・版・説明原文・日本語要約・用途・確認状況を記録。Atlas Cloudは「続きを読む」を展開して全文を保存。URLはブラウザーのアクセシビリティ情報で確認。Planner5Dはプラグインとアプリ欄の異なる表示名を併記。実動作・料金・一覧本体との照合は未検証。前回記録の236ファイルから5件増の累計241ファイルで、一覧本体の件数とは別。
 
 Graphic Design Studioのメイン説明はアフィリエイトリンクを含む場合があるとする一方、確認したスキル概要は毎回の表示を指定。両原文を保存し、表示条件と直接生成の範囲を未確認として5件で区切った。次回はクリエイティブ一覧のGraphic Design Studioの次の行にあるMalloy Studioから詳細索引と照合して再開。作業ブランチのみ更新、main・本番未変更。
+
+
+### 詳細調査（2026-11-15、クリエイティブ5件・書き出し条件保留）
+
+[Malloy Studio](inventory/plugin_details/malloy_studio_2026-11-15.json)、[Tripo 3D](inventory/plugin_details/tripo_3d_2026-11-15.json)、[Taste（Saul Martí）](inventory/plugin_details/taste_saul_marti_2026-11-15.json)、[Tolstoy](inventory/plugin_details/tolstoy_2026-11-15.json)、[Cardboard](inventory/plugin_details/cardboard_2026-11-15.json)の正式名・提供元・版・英文説明・日本語要約・用途・確認状況を記録。Cardboardは「続きを読む」を展開して全文を保存。URLはブラウザーのアクセシビリティ情報で確認。既存のVideo Labは再処理せず。実動作・料金・一覧本体との照合は未検証。前回記録の241ファイルから5件増の累計246ファイルで、一覧本体の件数とは別。
+
+Cardboardのメイン説明は4K MP4、アプリ欄は1080p MP4の書き出しを記載。両原文を残し、条件ごとの解像度を未確認として5件で区切った。次回はクリエイティブ一覧のCardboardの次の行にあるAINSOFから詳細索引と照合して再開。作業ブランチのみ更新、main・本番未変更。
