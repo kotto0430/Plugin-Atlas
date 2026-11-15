@@ -362,6 +362,8 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 - [Quickads](quickads_2026-11-16.json) — 広告の調査・制作・実施と分析を支援。
 - [Text to Speech（Syed Fasih Haider Raza Rizvi）](text_to_speech_fasih_2026-11-16.json) — 読み上げ用の原稿や音声設定を準備。広告リンクの表示条件は未確認。
 
+- [Cartoon Yourself（Syed Fasih Haider Raza Rizvi）](cartoon_yourself_fasih_2026-11-16.json) — 写真をもとに漫画風の似顔絵やアバターの制作を支援。広告リンクの表示条件は未確認。
+
 ## 一覧本体との照合
 
 [名称照合の記録](catalog_name_audit_2026-11-14.json) — 詳細35件と作業ブランチの一覧3,941件を比較。34件は名前が一致、Palimpsestは一致なし。名前の一致は同一性の確定ではない。個々のJSONにある旧「照合未確認」の記載は調査時点の記録で、最新の照合結果はこの記録を参照。
