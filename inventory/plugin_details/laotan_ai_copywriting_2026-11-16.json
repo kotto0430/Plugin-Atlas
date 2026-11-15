@@ -1,0 +1,21 @@
+{
+  "official_app_name": "Laotan AI Copywriting",
+  "provider": "HANHUI HUANG",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6aaeaf731564819195394ab792b8d2e7?category=creativity",
+  "observed_at": "2026-11-16",
+  "original_description": "Laotan AI Copywriting Agent Hub provides multiple specialized copywriting workflows and lets users select or switch between different agents based on their needs.\nThe plugin uses protected agent configurations, specialist workflow modules, and private knowledge resources to assist with copywriting, rewriting, polishing, structural optimization, and content review.\nUsers can switch the active agent within the same conversation and continue working according to that agent’s specific writing rules and workflow. When proprietary reference material is needed, the plugin retrieves knowledge associated with the active agent.\nProtected agent configurations and knowledge resources are available only to authorized users. Content generation is performed by the ChatGPT model currently used by the user. The service does not request the user’s ChatGPT password and does not call the OpenAI API on the user’s behalf.",
+  "summary_ja": "用途に応じて文案作成用のエージェントを切り替え、文章の作成・書き直し・推敲やレビューを支援する。",
+  "usage_tags": [
+    "コピーライティング",
+    "文章作成",
+    "編集"
+  ],
+  "limitations": [
+    "保護された設定と知識リソースは認可された利用者のみ利用可能との説明。実動作・対応言語・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
