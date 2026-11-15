@@ -1,0 +1,23 @@
+{
+  "official_app_name": "PrintTiler",
+  "provider": "Goo Chong Tien",
+  "version": "2.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_69e1313e18cf88191b042ce5f8fb01671?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "PrintTiler helps users find printable poster ideas, calculate tiled layouts for a target physical size, and open a preconfigured editor link to print one image across ordinary A-series or US paper. It supports AI-generated artwork and public image or share links. Local uploads are processed in the browser, and the final PDF is generated in the browser; PrintTiler does not retain local uploaded images or generated PDFs. Public remote image links may be fetched through a server proxy for browser compatibility. The user reviews and adjusts the layout in PrintTiler, where export eligibility and any payment remain under PrintTiler's control.",
+  "summary_ja": "画像を複数枚の用紙に分割印刷するためのポスターレイアウトを作る。",
+  "usage_tags": [
+    "ポスター",
+    "分割印刷",
+    "PDF",
+    "画像"
+  ],
+  "limitations": [
+    "ローカル画像とPDFの扱い、外部リンクの取得方法は提供元の説明。",
+    "書き出し条件・料金・実動作・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
