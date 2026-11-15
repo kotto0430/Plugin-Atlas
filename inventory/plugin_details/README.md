@@ -268,6 +268,17 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 - [Pixelixe](pixelixe_2026-11-15.json) — 連携したアカウントで販促画像を作成し、既存のデザインから別案を作る。
 - [AI Photo Editor（Syed Fasih Haider Raza Rizvi）](ai_photo_editor_fasih_2026-11-15.json) — 写真編集を支援。直接編集の範囲と広告リンクの表示条件は未確認。
 
+- [Infographic Artist](infographic_artist_2026-11-15.json) — デザイン原則や事例の調査・批評と企画。メイン説明はフランス語。
+- [Faces（Perhaps Inc.）](faces_perhaps_2026-11-15.json) — 対話型プレゼンの作成・編集・公開。
+- [VIXNODE](vixnode_2026-11-15.json) — サイトの作成・編集・公開と管理。
+- [Gradient Maker - Linear Color](gradient_maker_linear_color_2026-11-15.json) — グラデーションの提案・調整とCSS・色コード。
+- [DepositPhotos](depositphotos_2026-11-15.json) — 写真・動画・音楽などの検索。素材の利用条件とダウンロード方法は未検証。
+- [Simple SoapCalc](simple_soapcalc_2026-11-15.json) — 手作り石けんの材料の量を計算。精度と安全性は未検証。
+- [Flipbook - Publuu](flipbook_publuu_2026-11-15.json) — PDFをオンラインで共有できるフリップブックに変換。
+- [Davia Creation](davia_creation_2026-11-15.json) — 非公開ゲーム草案の世界観やルール、マップを編集。
+- [Poster Maker（POSTER APP LLP）](poster_maker_poster_app_2026-11-15.json) — テンプレートからポスターを探して文字を入れ、編集。
+- [Whiteboard by Athena AI](whiteboard_athena_ai_2026-11-15.json) — 図表や画面案などを共同ホワイトボードに保存・共有。
+
 ## 一覧本体との照合
 
 [名称照合の記録](catalog_name_audit_2026-11-14.json) — 詳細35件と作業ブランチの一覧3,941件を比較。34件は名前が一致、Palimpsestは一致なし。名前の一致は同一性の確定ではない。個々のJSONにある旧「照合未確認」の記載は調査時点の記録で、最新の照合結果はこの記録を参照。
