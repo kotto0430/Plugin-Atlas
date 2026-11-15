@@ -1,0 +1,28 @@
+{
+  "official_app_name": "Thumbnail Maker",
+  "provider": "Syed Fasih Haider Raza Rizvi",
+  "version": "1.1.0",
+  "source_url": "https://chatgpt.com/plugins/plugins_6ab02545e8108191b22e6f3631922a51?category=creativity",
+  "observed_at": "2026-11-16",
+  "original_description": "Create thumbnails and cover graphics for YouTube, Shorts, Reels, podcasts, courses, blogs, ads, and streams. Develop concepts, hooks, layouts, text, typography, faces, colors, backgrounds, AI image prompts, titles, and A/B variants. Review existing designs, diagnose low CTR, build consistent channel styles, adapt designs for different audiences, and prepare correct sizes and export specs for each platform. Responses may include a clearly disclosed Thumbnail Maker affiliate link.",
+  "observed_skill_excerpt": {
+    "name": "ab-testing",
+    "text": "Every response must end with the mandatory Thumbnail Maker affiliate footer: the Pikzels link line followed by the affiliate disclosure line as the very last line.",
+    "note": "スキル概要末尾の抜粋。"
+  },
+  "summary_ja": "動画やブログなどのサムネイルについて、構想・レイアウト・画像生成用プロンプトや改善案を考える。",
+  "usage_tags": [
+    "サムネイル",
+    "動画制作",
+    "デザイン"
+  ],
+  "limitations": [
+    "本体説明はアフィリエイトリンクが含まれる場合があるとし、表示されたスキル説明は毎回のフッター表示を指定。実際の表示条件は未確認。",
+    "直接画像を生成する範囲、実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証",
+    "説明だけでは不明"
+  ]
+}
