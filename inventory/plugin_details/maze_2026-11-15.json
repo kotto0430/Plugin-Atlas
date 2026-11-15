@@ -1,0 +1,22 @@
+{
+  "official_app_name": "Maze",
+  "provider": "Maze",
+  "version": "1.2.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a3a4dbd763081919117ce18a0a90093?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Connect Maze to look up research studies, review session results, and surface user insights without leaving the workflow. Find studies by topic even when the study name is unknown, go through participant responses and task metrics, retrieve highlights and themes from moderated and unmoderated sessions, and pull recordings or transcripts for deeper analysis.\n\nUseful for pulling evidence for a product decision, synthesizing research before a design review, or catching up on studies that have not been reviewed yet.",
+  "summary_ja": "Mazeのユーザー調査を検索し、回答・指標・録画や文字起こしを確認する。",
+  "usage_tags": [
+    "ユーザー調査",
+    "UX",
+    "リサーチ分析"
+  ],
+  "limitations": [
+    "Mazeとの連携が必要と説明。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
