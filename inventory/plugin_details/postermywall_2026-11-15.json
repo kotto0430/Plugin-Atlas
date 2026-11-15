@@ -1,0 +1,23 @@
+{
+  "official_app_name": "PosterMyWall",
+  "provider": "250 Mils LLC",
+  "version": "1.0.1",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a3b65deef9881919825c50e69cdf23f?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "PosterMyWall brings design templates into your chat. Describe what you need - a grand opening flyer, a baby shower invitation, a band logo, an Instagram sale post; and browse template options that appear right in the conversation.\nWhat you can do\n• Describe the design you're looking for in plain language.\n• Include details like size, colors, style, or theme, and the results will match them.\n• Browse the template options that appear in the chat.\n• Open any template on PosterMyWall to customize it.\nDesigns for everything\nFlyers, invitations, logos, posters, social media posts, menus, and more for small businesses, events, churches, schools, and organizations of every kind.\nCustomizing your template\nThis plugin finds and displays templates; editing happens on PosterMyWall. Every template preview includes an \"Open in PosterMyWall\" button that opens the template's page in a new tab, where you can edit it in PosterMyWall's drag-and-drop editor - swap text and images, resize for other platforms, and download.\nTry prompts like\n• Find me a grand opening flyer for a coffee shop.\n• Show me baby shower invitations in soft pastels.\n• I need a square Instagram post for a 50% off weekend sale.\n• Find a grunge logo for a rock band.\nRequirements: No account is needed to open a template. A free PosterMyWall account is required to save or download your design. Every template has a free download option; high-resolution downloads are paid.",
+  "summary_ja": "チラシや招待状などのテンプレートを検索し、PosterMyWallで編集する。",
+  "usage_tags": [
+    "テンプレート",
+    "ポスター",
+    "チラシ",
+    "SNS"
+  ],
+  "limitations": [
+    "編集はPosterMyWall上で行うと説明。保存・ダウンロードには無料アカウントが必要で高解像度は有料と記載。",
+    "実動作・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
