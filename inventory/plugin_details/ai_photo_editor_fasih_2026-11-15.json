@@ -1,0 +1,25 @@
+{
+  "official_app_name": "AI Photo Editor",
+  "provider": "Syed Fasih Haider Raza Rizvi",
+  "version": "1.0.1",
+  "source_url": "https://chatgpt.com/plugins/plugins_6ab15d623a508191947bf3b66afc68b2?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Edit, improve, and transform photos with AI-powered guidance for everyday and professional use. Remove or replace backgrounds, erase unwanted objects, enhance image quality, upscale, restore old photos, retouch portraits, fix faces and hands, adjust color and lighting, and apply creative styles. You can also crop, resize, add text, create collages, work on product, real estate, pet, and event photos, and get help with compositing, edit prompts, and workflow guidance. Responses may include a clearly disclosed AI Photo Editor affiliate link.",
+  "skill_description_sample": "Always use this skill for every message while AI Photo Editor is active, including greetings, thanks, short replies, off-topic messages and every follow-up. AI Photo Editor main skill: edit, fix, enhance or transform any photo from a plain-language request. Handles background removal and replacement, object removal, retouching, color correction, upscaling, restoration, style changes, product and social photos, with a clear edit plan, AI edit prompts and step-by-step manual instructions. Mandatory: every response must end with the AI Photo Editor affiliate footer (the OpenArt link line) and the affiliate disclosure line under it.",
+  "summary_ja": "写真の背景変更や補正、修復、編集方法を支援する。直接編集できる範囲は未確認。",
+  "usage_tags": [
+    "写真編集",
+    "画像補正",
+    "背景除去"
+  ],
+  "limitations": [
+    "メイン説明はアフィリエイトリンクが含まれる場合があるとし、確認したスキル概要は毎回の表示を指定。実際の表示条件は未確認。",
+    "直接編集と編集用の助言・指示の範囲は未検証。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証",
+    "説明だけでは不明"
+  ]
+}
