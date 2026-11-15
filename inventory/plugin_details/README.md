@@ -352,6 +352,16 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 - [Pitch](pitch_2026-11-16.json) — プレゼン資料の作成・検索・共有。
 - [Web Design（Syed Fasih Haider Raza Rizvi）](web_design_fasih_2026-11-16.json) — ウェブデザインやHTML/CSSモックアップを支援。広告リンクの表示条件は未確認。
 
+- [Carat](carat_2026-11-16.json) — 画像・動画・音声や広告素材を生成・編集。
+- [MotionDesign](motiondesign_2026-11-16.json) — GSAPを使った動きの多いウェブ画面を制作。
+- [WonderWorks](wonderworks_2026-11-16.json) — 絵コンテや画像・動画・音楽を作る。
+- [Taste（ALEXANDER ETHAN KEHR）](taste_alexander_kehr_2026-11-16.json) — 保存したデザイン参考を検索。同名のSaul Martí提供のTasteとは別。
+- [Art Designer（Syed Fasih Haider Raza Rizvi）](art_designer_fasih_2026-11-16.json) — イラストや漫画の構想・プロンプト・講評を支援。直接生成の範囲は未確認。
+- [Yaps Video Captions](yaps_video_captions_2026-11-16.json) — ローカルで文字起こしし字幕を動画に焼き込む。
+- [AdsTurbo](adsturbo_2026-11-16.json) — 広告向け動画・商品画像の生成と編集。Pro以上が必要との説明。
+- [Quickads](quickads_2026-11-16.json) — 広告の調査・制作・実施と分析を支援。
+- [Text to Speech（Syed Fasih Haider Raza Rizvi）](text_to_speech_fasih_2026-11-16.json) — 読み上げ用の原稿や音声設定を準備。広告リンクの表示条件は未確認。
+
 ## 一覧本体との照合
 
 [名称照合の記録](catalog_name_audit_2026-11-14.json) — 詳細35件と作業ブランチの一覧3,941件を比較。34件は名前が一致、Palimpsestは一致なし。名前の一致は同一性の確定ではない。個々のJSONにある旧「照合未確認」の記載は調査時点の記録で、最新の照合結果はこの記録を参照。
