@@ -364,6 +364,17 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 
 - [Cartoon Yourself（Syed Fasih Haider Raza Rizvi）](cartoon_yourself_fasih_2026-11-16.json) — 写真をもとに漫画風の似顔絵やアバターの制作を支援。広告リンクの表示条件は未確認。
 
+- [Incarn](incarn_2026-11-16.json) — 古い家族写真に動きを加えて短い動画にする。
+- [Room Renovation Visualizer](room_renovation_visualizer_2026-11-16.json) — 部屋の写真や間取りからリフォーム案を視覚化。
+- [GifGen - Sticker Maker](gifgen_sticker_maker_2026-11-16.json) — 同じキャラクターの表情違いのステッカーを作る。
+- [Logos & app icons](logos_and_app_icons_2026-11-16.json) — ロゴやアプリアイコンの案・納品仕様を検討。
+- [AppLaunchFlow](applaunchflow_2026-11-16.json) — アプリのストア画像や宣伝動画を作成・編集。
+- [Astria](astria_2026-11-16.json) — 画像・動画や商品写真、人物写真の制作を支援。
+- [StitchDesign](stitchdesign_2026-11-16.json) — Google Stitch用のデザイン方針をDESIGN.mdにまとめる。
+- [Kapwing](kapwing_2026-11-16.json) — 動画・音声の翻訳、字幕、吹き替え。口の動きへの同期は対象外と説明。
+- [GIF Creator（The Doers Firm）](gif_creator_doers_2026-11-16.json) — アイデアや画像からGIFアニメーションを制作。
+- [Lawh.ai](lawh_ai_2026-11-16.json) — 編集可能なレイヤー付きデザインを作成しPhotoshop形式で書き出す。
+
 ## 一覧本体との照合
 
 [名称照合の記録](catalog_name_audit_2026-11-14.json) — 詳細35件と作業ブランチの一覧3,941件を比較。34件は名前が一致、Palimpsestは一致なし。名前の一致は同一性の確定ではない。個々のJSONにある旧「照合未確認」の記載は調査時点の記録で、最新の照合結果はこの記録を参照。
