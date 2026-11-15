@@ -639,3 +639,10 @@ DepositPhotosはメイン説明のチャット内ダウンロードとアプリ�
 [Sonilo](inventory/plugin_details/sonilo_2026-11-15.json)、[Flipsnack](inventory/plugin_details/flipsnack_2026-11-15.json)、[Kittl](inventory/plugin_details/kittl_2026-11-15.json)、[Image Generator（The Doers Firm）](inventory/plugin_details/image_generator_the_doers_firm_2026-11-15.json)、[Image Generator（B12）](inventory/plugin_details/image_generator_b12_2026-11-15.json)、[Spline](inventory/plugin_details/spline_2026-11-15.json)、[Wixel](inventory/plugin_details/wixel_2026-11-15.json)、[Clueso](inventory/plugin_details/clueso_2026-11-15.json)、[Make A Viz](inventory/plugin_details/make_a_viz_2026-11-15.json)、[SSHOW](inventory/plugin_details/sshow_2026-11-15.json)の正式名・提供元・版・英文説明・日本語要約・用途・確認状況を記録。同名のImage Generator 2件は異なる提供元・ページとして記録。Cluesoは「続きを読む」を展開し全文を保存。既存のStory Writer、Sequencer、Architecture Designerは再処理せず。実動作・料金・一覧本体との照合は未検証。前回記録の207ファイルから10件増の累計217ファイルで、一覧本体の件数とは別。
 
 Flipsnackのメイン説明は公開PDFのURLからの作成、アプリ欄はPDFアップロードと記載し、直接アップロードの範囲は未検証。SSHOWのメイン説明はエディターが閉じていても保存済み版を読み取れるとし、アプリ欄は何も実行されないと記載。両原文を残し、実際の読み取り可否を未確認とした。次回はクリエイティブ一覧でSSHOWの次にあるMazeやAI Fashion Designer付近から索引と照合して再開。作業ブランチのみ更新、main・本番未変更。
+
+
+### 詳細調査（2026-11-15、クリエイティブ3件・URL転記修正）
+
+[Maze](inventory/plugin_details/maze_2026-11-15.json)、[AI Fashion Designer（F Word）](inventory/plugin_details/ai_fashion_designer_f_word_2026-11-15.json)、[PrintTiler](inventory/plugin_details/printtiler_2026-11-15.json)の正式名・提供元・版・英文説明・日本語要約・用途・確認状況を記録。実動作・料金・一覧本体との照合は未検証。前回記録の217ファイルから3件増の累計220ファイルで、一覧本体の件数とは別。
+
+PrintTilerのURLを画面から誤転記したため、アドレス欄のアクセシビリティ情報で正しいURLを確認して修正した。拡大画像による確認は画像処理モジュールの読み込みエラーで失敗したため、指示に従い3件で区切った。次回はクリエイティブ一覧のPrintTiler隣のPosterMyWallから詳細索引と照合して再開。作業ブランチのみ更新、main・本番未変更。
