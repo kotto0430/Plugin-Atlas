@@ -625,3 +625,10 @@ UI UX Designerのメイン説明はアフィリエイトリンクを含む場合
 [Pixelixe](inventory/plugin_details/pixelixe_2026-11-15.json)と[AI Photo Editor（Syed Fasih Haider Raza Rizvi）](inventory/plugin_details/ai_photo_editor_fasih_2026-11-15.json)の正式名・提供元・版・英文説明・日本語要約・用途・確認状況を記録。実動作・料金・一覧本体との照合は未検証。前回記録の195ファイルから2件増の累計197ファイルで、一覧本体の件数とは別。
 
 AI Photo Editorはメイン説明がアフィリエイトリンクを含む場合があるとする一方、確認したスキル概要は毎回のフッター表示を指定。両原文を記録し、表示条件および直接編集と助言の範囲を断定せず、2件で区切った。次回はクリエイティブ一覧のAI Photo Editor隣のInfographic Artistから詳細索引と照合して再開。作業ブランチのみ更新、main・本番未変更。
+
+
+### 詳細調査（2026-11-15、クリエイティブ10件）
+
+[Infographic Artist](inventory/plugin_details/infographic_artist_2026-11-15.json)、[Faces](inventory/plugin_details/faces_perhaps_2026-11-15.json)、[VIXNODE](inventory/plugin_details/vixnode_2026-11-15.json)、[Gradient Maker - Linear Color](inventory/plugin_details/gradient_maker_linear_color_2026-11-15.json)、[DepositPhotos](inventory/plugin_details/depositphotos_2026-11-15.json)、[Simple SoapCalc](inventory/plugin_details/simple_soapcalc_2026-11-15.json)、[Flipbook - Publuu](inventory/plugin_details/flipbook_publuu_2026-11-15.json)、[Davia Creation](inventory/plugin_details/davia_creation_2026-11-15.json)、[Poster Maker（POSTER APP LLP）](inventory/plugin_details/poster_maker_poster_app_2026-11-15.json)、[Whiteboard by Athena AI](inventory/plugin_details/whiteboard_athena_ai_2026-11-15.json)の正式名・提供元・版・説明原文・日本語要約・用途・確認状況を記録。Infographic Artistのメイン説明はフランス語で、アプリ・スキル欄の英語原文も保存。Gradient MakerとWhiteboardは「続きを読む」を展開し全文を取得。実動作・料金・一覧本体との照合は未検証。前回記録の197ファイルから10件増の累計207ファイルで、一覧本体の件数とは別。
+
+DepositPhotosはメイン説明のチャット内ダウンロードとアプリ欄の素材ページでの確認を併記し、実際の方法と条件は未検証。Simple SoapCalcの計算精度・安全性は提供元の主張であり未検証。索引にあるVulca、Amazing Drawing、Alpix、B&A: Draw Sketches、B&A: Sketch、Appllamaは再処理せず。次回はクリエイティブ一覧のWhiteboard by Athena AI隣のSoniloから詳細索引と照合して再開。作業ブランチのみ更新、main・本番未変更。
