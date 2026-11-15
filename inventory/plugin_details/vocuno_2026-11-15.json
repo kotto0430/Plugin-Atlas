@@ -1,0 +1,22 @@
+{
+  "official_app_name": "Vocuno",
+  "provider": "Vocuno LLC",
+  "version": "1.0.3",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a86b5e7683c81918848cb55aaa3ed92?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Create original songs from a prompt or your own lyrics, then work with audio inside ChatGPT. Browse your existing music with cover art, listen to available versions, and refresh results through interactive cards. Vocuno can trim, mix, master, separate stems, clean up recordings, convert voices and file formats, detect tempo, and extend a song. It connects to your existing Vocuno account so generated and processed audio stays in your library.",
+  "summary_ja": "楽曲の生成・再生やトリミング、ミックス、パート分離などの音声編集を行う。",
+  "usage_tags": [
+    "音楽制作",
+    "音声編集",
+    "楽曲生成"
+  ],
+  "limitations": [
+    "既存のVocunoアカウントに接続すると説明。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
