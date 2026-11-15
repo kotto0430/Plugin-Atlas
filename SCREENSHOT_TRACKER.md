@@ -611,3 +611,10 @@ Faceless Video Makerは動画ファイルを直接生成できる範囲が説明
 [Morphed](inventory/plugin_details/morphed_2026-11-15.json)、[Pika](inventory/plugin_details/pika_2026-11-15.json)、[01 Superdesign](inventory/plugin_details/01_superdesign_2026-11-15.json)、[Logo Generator（B12）](inventory/plugin_details/logo_generator_b12_2026-11-15.json)、[FashionTrendAI](inventory/plugin_details/fashiontrendai_2026-11-15.json)、[Pablooo.club Benchmark library](inventory/plugin_details/pablooo_club_benchmark_library_2026-11-15.json)の正式名・提供元・版・英文説明・日本語要約・用途・確認状況を記録。実動作・料金・一覧本体との照合は未検証。詳細記録は累計190ファイルで一覧本体の件数とは別。
 
 Martiniの新規保存でGitHub APIが既存ファイルに対するSHA未指定エラーを返したため、調査を中断。確認の結果、[Martini](inventory/plugin_details/martini_2026-11-15.json)は索引掲載済み。またVectorizeも[既存記録](inventory/plugin_details/vectorize_2026-11-14.json)と同一URL・提供元・版・説明と確認できたため、今回作成した重複ファイルを削除し既存記録を維持した。次回は索引の全体を照合し、Martini隣のGlinded for Memorial Videosやその下のKopi - Shopify Email Creator付近から再開する。作業ブランチのみ更新、main・本番未変更。
+
+
+### 詳細調査（2026-11-15、クリエイティブ5件・表示条件保留）
+
+[Glinded for Memorial Videos](inventory/plugin_details/glinded_memorial_videos_2026-11-15.json)、[Kopi - Shopify Email Creator](inventory/plugin_details/kopi_shopify_email_creator_2026-11-15.json)、[Clipwave Video & Image Maker](inventory/plugin_details/clipwave_video_image_maker_2026-11-15.json)、[Vocuno](inventory/plugin_details/vocuno_2026-11-15.json)、[UI UX Designer（Syed Fasih Haider Raza Rizvi）](inventory/plugin_details/ui_ux_designer_fasih_2026-11-15.json)の正式名・提供元・版・英文説明・日本語要約・用途・確認状況を記録。既存のMireloは再処理せず。実動作・料金・一覧本体との照合は未検証。詳細記録は前回記録の190ファイルから5件増の累計195ファイルで、一覧本体の件数とは別。
+
+UI UX Designerのメイン説明はアフィリエイトリンクを含む場合があるとし、確認したスキル概要は毎回の表示を指定。原文を残し、実際の表示条件を未確認として5件で区切った。次回はクリエイティブ一覧のUI UX Designer隣のPixelixeから詳細索引と照合して再開。作業ブランチのみ更新、main・本番未変更。
