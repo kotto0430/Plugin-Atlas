@@ -543,3 +543,10 @@ Deep Art AIの後、一覧へ戻る途中の画面取得で `FrameArrived timed 
 [Color Designer - Palette Maker](inventory/plugin_details/color_designer_palette_maker_2026-11-15.json)、[Orshot](inventory/plugin_details/orshot_2026-11-15.json)、[Apixel](inventory/plugin_details/apixel_2026-11-15.json)、[Loomly](inventory/plugin_details/loomly_2026-11-15.json)、[Instant Website](inventory/plugin_details/instant_website_pyxl_2026-11-15.json)、[LogoGenic Image Generator](inventory/plugin_details/logogenic_image_generator_2026-11-15.json)、[TalkGen](inventory/plugin_details/talkgen_vidline_2026-11-15.json)、[Hypernatural](inventory/plugin_details/hypernatural_2026-11-15.json)を記録。[詳細索引](inventory/plugin_details/README.md)は累計163ファイルで、一覧本体の件数には加算しない。正式表示名・提供元・版・英語説明・日本語要約・用途・確認状況を保存。Loomlyは下書き作成を説明し直接投稿の可否は不明。Apixelの画像内文字やTalkGenの口の動きの正確さは提供元の主張で、実動作・品質・料金・一覧本体との名称照合は未検証。
 
 さらにInsta Website Builderを確認。Instant Websiteと提供元Pyxl・外部サイトが同じで説明も似るが、名称・詳細URL・版（2.0.0と3.0.0）が異なる。重複や移行の関係は未確認で、2ページの英文とURLを1ファイルに併記し、別サービスとは数えていない。重複の判断を保留し、今回の調査は8記録・9ページで中断。次回は両ページの関係を確認しつつ、クリエイティブ一覧のInsta Website Builder付近から、未調査候補Kolbo.AI、AI Song Makerなどを索引と照合して続ける。カテゴリー全体の調査は未完了。作業ブランチのみ更新、main・本番未変更。
+
+
+### 詳細調査（2026-11-15、Kolbo.AI・編集範囲の確認保留）
+
+[Kolbo.AI](inventory/plugin_details/kolbo_ai_2026-11-15.json)の正式表示名、提供元、版、英文、日本語要約、用途、確認状況を保存。詳細記録は累計164ファイルで一覧本体には加算しない。メイン説明は画像・動画・音楽・音声・3D素材の作成と編集を記載する一方、スキル説明は動画編集／FFmpegを対象外とし、別スキルを案内する。両者は対象範囲が異なる可能性があるが、具体的な境界は未確認。両英文を保存し、推測せず今回の調査を1件で中断。実動作・料金・品質・一覧本体との名称照合は未検証。
+
+前回のInstant WebsiteとInsta Website Builderの関係は引き続き未確定。次回はKolbo.AIの編集範囲の扱いを確認し、クリエイティブ一覧のKolbo.AI隣のAI Song Makerから、詳細索引と重複を照合して再開する。カテゴリー全体の調査は未完了。作業ブランチのみ更新、main・本番未変更。
