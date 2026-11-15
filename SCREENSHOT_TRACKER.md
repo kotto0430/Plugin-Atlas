@@ -569,3 +569,10 @@ Kolbo.AIのページを再表示し、前回記録したメイン説明とスキ
 [Krikey AI Animation](inventory/plugin_details/krikey_ai_animation_2026-11-15.json)と[Image to Video（Syed Fasih Haider Raza Rizvi）](inventory/plugin_details/image_to_video_fasih_2026-11-15.json)の表示名、提供元、版、英文原文、日本語要約、用途、確認状況を保存。Krikeyは3Dキャラクター、ジャンル、題材を選んで音楽動画を作ると説明。Image to Videoは動画制作のプロンプト・企画を支援するが、動画ファイルの直接生成は説明だけでは明確でない。実動作・品質・料金・一覧本体との名称照合は未検証。詳細記録は累計167ファイルで一覧本体の件数とは別。
 
 Image to Videoのメイン説明はアフィリエイトリンクを含む場合があるとし、表示されたスキル欄は回答ごとにVideoGenリンクと開示を付けるよう記載。実際の表示条件を断定せず、両原文を保存。指定のルールに従い今回は2件で中断。次回はクリエイティブ一覧のImage to Videoの次にあるPixlieなどを詳細索引と照合して再開する。前回以前の保留事項も未解決。作業ブランチのみ更新、main・本番未変更。
+
+
+### 詳細調査（2026-11-15、Pixlie・画面取得後に中断）
+
+[Pixlie](inventory/plugin_details/pixlie_2026-11-15.json)の正式名・提供元・版・英文原文・日本語要約・用途・確認状況を保存。動画生成用プロンプトや3〜5ショットの絵コンテ案を作り、ChatGPT内で動画をレンダリングせず、生成時は外部サイトを開くと説明。実動作・料金・一覧本体との名称照合は未検証。詳細記録は累計168ファイルで一覧本体の件数とは別。
+
+一覧へ戻り、次の候補に向けたスクロール後の画面取得で `FrameArrived timed out: timed out waiting on channel` が発生。指示に従い今回の調査を1件で中断。次回はChromeの状態を確認し、クリエイティブ一覧のPixlieの次にあるUX Pilot、Font Pairing: Design & Brandsなどを詳細索引と照合して再開する。作業ブランチのみ更新、main・本番未変更。
