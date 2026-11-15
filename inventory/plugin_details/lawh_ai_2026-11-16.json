@@ -1,0 +1,21 @@
+{
+  "official_app_name": "Lawh.ai",
+  "provider": "WALEED YOUSEF KHAMIS QADI",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a8adaaa6d748191906ced786bad09b1?category=creativity",
+  "observed_at": "2026-11-16",
+  "original_description": "Lawh.ai turns a description into a real, layered design file in the user's own account rather than a flat image. It measures the text, computes the layout, prevents clipping, and reports layout or contrast problems so they can be fixed. Designs can be listed, previewed as images, opened in an interactive view where layers are dragged and text retyped, started from a hand-authored template library, organised into folders, and built with the user's own uploaded logos and images. Arabic and right-to-left layouts are supported natively. Finished work stays editable in the browser and exports as a layered Photoshop file with live text.",
+  "summary_ja": "文章から編集可能なレイヤー付きデザインを作り、ブラウザーで修正してPhotoshop形式で書き出す。",
+  "usage_tags": [
+    "グラフィックデザイン",
+    "Photoshop",
+    "SNS画像"
+  ],
+  "limitations": [
+    "アラビア語と右から左のレイアウトに対応するとの説明。実動作・出力品質・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
