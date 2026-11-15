@@ -653,3 +653,10 @@ PrintTilerのURLを画面から誤転記したため、アドレス欄のアク�
 [PosterMyWall](inventory/plugin_details/postermywall_2026-11-15.json)と[Dazzly](inventory/plugin_details/dazzly_2026-11-15.json)の正式名・提供元・版・英文説明・日本語要約・用途・確認状況を記録。PosterMyWallは「続きを読む」を展開して全文を保存し、編集先と無料・有料の条件も提供元の説明として記録。Dazzlyはサービス全体の説明とChatGPT連携の操作範囲を区別し、後者を未確認とした。URLはブラウザーのアクセシビリティ情報から確認。実動作・一覧本体との照合は未検証。前回記録の220ファイルから2件増の累計222ファイルで、一覧本体の件数とは別。
 
 Dazzlyから一覧へ戻るための画面取得で `FrameArrived timed out: timed out waiting on channel` が発生したため、2件で中断。画面操作の結果は未確認。次回はChromeの状態を確認し、既存のInkroostを飛ばしてクリエイティブ一覧のGifGen - GIFsから索引と照合して再開。作業ブランチのみ更新、main・本番未変更。
+
+
+### 詳細調査（2026-11-15、クリエイティブ9件・画面取得タイムアウト）
+
+[GifGen - GIFs](inventory/plugin_details/gifgen_gifs_2026-11-15.json)、[12ui Design](inventory/plugin_details/12ui_design_2026-11-15.json)、[DevMotion](inventory/plugin_details/devmotion_2026-11-15.json)、[3aqel Arabic Creative](inventory/plugin_details/3aqel_arabic_creative_2026-11-15.json)、[skima](inventory/plugin_details/skima_2026-11-15.json)、[Sitelas](inventory/plugin_details/sitelas_2026-11-15.json)、[Goldie](inventory/plugin_details/goldie_2026-11-15.json)、[PoolVisionIA](inventory/plugin_details/poolvisionia_2026-11-15.json)、[Magic Hour AI](inventory/plugin_details/magic_hour_ai_2026-11-15.json)の正式名・提供元・版・説明原文・日本語要約・用途・確認状況を記録。DevMotionは「続きを読む」を展開し全文を保存。PoolVisionIAの原文はフランス語。URLはブラウザーのアクセシビリティ情報で確認。skimaは初期段階の建築検討で追加の専門的確認が必要と記載。実動作・料金・一覧本体との照合は未検証。前回記録の222ファイルから9件増の累計231ファイルで、一覧本体の件数とは別。
+
+既存のSubdivideは再処理せず。次の項目へスクロール中、画面取得で `FrameArrived timed out: timed out waiting on channel` が発生したため、9件で中断。次回はChromeの状態を確認し、Magic Hour AIの次の行にあるSequel.ioから索引と照合して再開。作業ブランチのみ更新、main・本番未変更。
