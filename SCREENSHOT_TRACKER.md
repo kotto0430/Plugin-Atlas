@@ -536,3 +536,10 @@ Deep Art AIの後、一覧へ戻る途中の画面取得で `FrameArrived timed 
 クリエイティブ一覧で[Morphix](inventory/plugin_details/morphix_2026-11-15.json)を確認し、正式表示名・提供元・版・英文原文・日本語要約・用途・確認状況を保存。画像・動画生成や商品写真、広告制作、画像補正を扱い、Morphixアカウントと共通クレジットの説明あり。機能・品質・料金・一覧本体との名称照合は未検証。[詳細索引](inventory/plugin_details/README.md)を更新し、詳細記録は累計155ファイル。一覧本体の件数とは別に数える。
 
 次の候補を探す途中、一覧の画面取得で再び `FrameArrived timed out: timed out waiting on channel` が発生。ユーザー指定のエラー時停止ルールに従い、1件で中断した。次回はクリエイティブ一覧のMorphix付近から、Color Designer - Palette Maker、Orshot、Apixelなどの未調査候補を索引と照合して再開する。作業ブランチのみ更新し、main・本番未変更。
+
+
+### 詳細調査（2026-11-15、8記録・関連ページの関係未確認）
+
+[Color Designer - Palette Maker](inventory/plugin_details/color_designer_palette_maker_2026-11-15.json)、[Orshot](inventory/plugin_details/orshot_2026-11-15.json)、[Apixel](inventory/plugin_details/apixel_2026-11-15.json)、[Loomly](inventory/plugin_details/loomly_2026-11-15.json)、[Instant Website](inventory/plugin_details/instant_website_pyxl_2026-11-15.json)、[LogoGenic Image Generator](inventory/plugin_details/logogenic_image_generator_2026-11-15.json)、[TalkGen](inventory/plugin_details/talkgen_vidline_2026-11-15.json)、[Hypernatural](inventory/plugin_details/hypernatural_2026-11-15.json)を記録。[詳細索引](inventory/plugin_details/README.md)は累計163ファイルで、一覧本体の件数には加算しない。正式表示名・提供元・版・英語説明・日本語要約・用途・確認状況を保存。Loomlyは下書き作成を説明し直接投稿の可否は不明。Apixelの画像内文字やTalkGenの口の動きの正確さは提供元の主張で、実動作・品質・料金・一覧本体との名称照合は未検証。
+
+さらにInsta Website Builderを確認。Instant Websiteと提供元Pyxl・外部サイトが同じで説明も似るが、名称・詳細URL・版（2.0.0と3.0.0）が異なる。重複や移行の関係は未確認で、2ページの英文とURLを1ファイルに併記し、別サービスとは数えていない。重複の判断を保留し、今回の調査は8記録・9ページで中断。次回は両ページの関係を確認しつつ、クリエイティブ一覧のInsta Website Builder付近から、未調査候補Kolbo.AI、AI Song Makerなどを索引と照合して続ける。カテゴリー全体の調査は未完了。作業ブランチのみ更新、main・本番未変更。
