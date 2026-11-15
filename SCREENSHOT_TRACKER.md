@@ -695,3 +695,10 @@ Graphic Design Studioのメイン説明はアフィリエイトリンクを含�
 [Malloy Studio](inventory/plugin_details/malloy_studio_2026-11-15.json)、[Tripo 3D](inventory/plugin_details/tripo_3d_2026-11-15.json)、[Taste（Saul Martí）](inventory/plugin_details/taste_saul_marti_2026-11-15.json)、[Tolstoy](inventory/plugin_details/tolstoy_2026-11-15.json)、[Cardboard](inventory/plugin_details/cardboard_2026-11-15.json)の正式名・提供元・版・英文説明・日本語要約・用途・確認状況を記録。Cardboardは「続きを読む」を展開して全文を保存。URLはブラウザーのアクセシビリティ情報で確認。既存のVideo Labは再処理せず。実動作・料金・一覧本体との照合は未検証。前回記録の241ファイルから5件増の累計246ファイルで、一覧本体の件数とは別。
 
 Cardboardのメイン説明は4K MP4、アプリ欄は1080p MP4の書き出しを記載。両原文を残し、条件ごとの解像度を未確認として5件で区切った。次回はクリエイティブ一覧のCardboardの次の行にあるAINSOFから詳細索引と照合して再開。作業ブランチのみ更新、main・本番未変更。
+
+
+### 詳細調査（2026-11-15、クリエイティブ3件・表示条件保留）
+
+[AINSOF](inventory/plugin_details/ainsof_2026-11-15.json)、[Heyzine Flipbooks](inventory/plugin_details/heyzine_flipbooks_2026-11-15.json)、[GIF Maker（Syed Fasih Haider Raza Rizvi）](inventory/plugin_details/gif_maker_syed_2026-11-15.json)の正式名・提供元・版・英文説明・日本語要約・用途・確認状況を記録。URLはブラウザーのアクセシビリティ情報で確認。実動作・料金・一覧本体との照合は未検証。前回記録の246ファイルから3件増の累計249ファイルで、一覧本体の件数とは別。
+
+GIF Makerのメイン説明はアフィリエイトリンクを含む場合があるとする一方、表示されたスキル概要は毎回のフッター表示を指定。両方の原文を記録し、実際の表示条件を未確認として3件で区切った。次回はクリエイティブ一覧のGIF Maker隣のDrivethroughから詳細索引と照合して再開。作業ブランチのみ更新、main・本番未変更。
