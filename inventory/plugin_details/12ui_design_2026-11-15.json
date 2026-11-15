@@ -1,0 +1,21 @@
+{
+  "official_app_name": "12ui Design",
+  "provider": "12ui",
+  "version": "0.2.65",
+  "source_url": "https://chatgpt.com/plugins/plugins_6a8915941e8c8191ae58d10e41cc322f?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Search real design references, draft visual directions, expand an approved design into complete pages, and convert finished images into production-ready code.",
+  "summary_ja": "デザインの参考を探し、画面案の作成や画像からのコード化を支援する。",
+  "usage_tags": [
+    "UIデザイン",
+    "ウェブ制作",
+    "画像からコード"
+  ],
+  "limitations": [
+    "生成コードの品質や実用性・実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
