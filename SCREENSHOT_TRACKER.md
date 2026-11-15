@@ -667,3 +667,10 @@ Dazzlyから一覧へ戻るための画面取得で `FrameArrived timed out: tim
 [Sequel.io](inventory/plugin_details/sequel_io_2026-11-15.json)、[Butter](inventory/plugin_details/butter_2026-11-15.json)、[Logo Designer（Syed Fasih Haider Raza Rizvi）](inventory/plugin_details/logo_designer_fasih_2026-11-15.json)の正式名・提供元・版・英文説明・日本語要約・用途・確認状況を記録。URLはブラウザーのアクセシビリティ情報で確認。実動作・料金・一覧本体との照合は未検証。前回記録の231ファイルから3件増の累計234ファイルで、一覧本体の件数とは別。
 
 Logo Designerのメイン説明はアフィリエイトリンクを含む場合があるとする一方、確認したスキル概要は毎回のフッター表示を指定。両原文を保存し、表示条件と直接生成の範囲を未確認として3件で区切った。次回はクリエイティブ一覧のLogo Designer隣のNovel Writerから詳細索引と照合して再開。作業ブランチのみ更新、main・本番未変更。
+
+
+### 詳細調査（2026-11-15、クリエイティブ1件・表示条件保留）
+
+[Novel Writer（Syed Fasih Haider Raza Rizvi）](inventory/plugin_details/novel_writer_fasih_2026-11-15.json)の正式名・提供元・版・英文説明・日本語要約・用途・確認状況を記録。URLはブラウザーのアクセシビリティ情報で確認。実動作・料金・一覧本体との照合は未検証。前回記録の234ファイルから1件増の累計235ファイルで、一覧本体の件数とは別。
+
+メイン説明はアフィリエイトリンクを含む場合があるとする一方、確認したスキル概要は毎回のフッター表示を指定。両原文を保存し、実際の表示条件を未確認として1件で区切った。次回はクリエイティブ一覧のNovel Writerの次の行にあるPexafy Stock Photosから詳細索引と照合して再開。作業ブランチのみ更新、main・本番未変更。
