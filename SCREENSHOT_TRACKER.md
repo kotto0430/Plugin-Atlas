@@ -646,3 +646,10 @@ Flipsnackのメイン説明は公開PDFのURLからの作成、アプリ欄はPD
 [Maze](inventory/plugin_details/maze_2026-11-15.json)、[AI Fashion Designer（F Word）](inventory/plugin_details/ai_fashion_designer_f_word_2026-11-15.json)、[PrintTiler](inventory/plugin_details/printtiler_2026-11-15.json)の正式名・提供元・版・英文説明・日本語要約・用途・確認状況を記録。実動作・料金・一覧本体との照合は未検証。前回記録の217ファイルから3件増の累計220ファイルで、一覧本体の件数とは別。
 
 PrintTilerのURLを画面から誤転記したため、アドレス欄のアクセシビリティ情報で正しいURLを確認して修正した。拡大画像による確認は画像処理モジュールの読み込みエラーで失敗したため、指示に従い3件で区切った。次回はクリエイティブ一覧のPrintTiler隣のPosterMyWallから詳細索引と照合して再開。作業ブランチのみ更新、main・本番未変更。
+
+
+### 詳細調査（2026-11-15、クリエイティブ2件・画面取得タイムアウト）
+
+[PosterMyWall](inventory/plugin_details/postermywall_2026-11-15.json)と[Dazzly](inventory/plugin_details/dazzly_2026-11-15.json)の正式名・提供元・版・英文説明・日本語要約・用途・確認状況を記録。PosterMyWallは「続きを読む」を展開して全文を保存し、編集先と無料・有料の条件も提供元の説明として記録。Dazzlyはサービス全体の説明とChatGPT連携の操作範囲を区別し、後者を未確認とした。URLはブラウザーのアクセシビリティ情報から確認。実動作・一覧本体との照合は未検証。前回記録の220ファイルから2件増の累計222ファイルで、一覧本体の件数とは別。
+
+Dazzlyから一覧へ戻るための画面取得で `FrameArrived timed out: timed out waiting on channel` が発生したため、2件で中断。画面操作の結果は未確認。次回はChromeの状態を確認し、既存のInkroostを飛ばしてクリエイティブ一覧のGifGen - GIFsから索引と照合して再開。作業ブランチのみ更新、main・本番未変更。
