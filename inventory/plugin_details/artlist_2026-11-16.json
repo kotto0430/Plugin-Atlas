@@ -1,0 +1,22 @@
+{
+  "official_app_name": "Artlist",
+  "provider": "Artlist LTD",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6abfa827c73881919a043c1694d8405c?category=creativity",
+  "observed_at": "2026-11-16",
+  "original_description": "Create images, videos, music, and voiceovers with leading AI models on Artlist, right inside ChatGPT. Start with an idea, add a reference image, and turn it into ready-to-use creative, plus find licensed music in the Artlist catalog without leaving your conversation\nWith Artlist, you can:\n• Turn one image into a full campaign. Generate launch videos, ads, social content, and product visuals.\n• Create UGC and ads at scale. Generate authentic-looking product videos, reviews, walkthroughs, unboxings, tutorials, and more, with different hooks and formats ready to test.\n• Create lifestyle and retail visuals. Put your product in different settings, lifestyles, and contexts. Mock up compositions, lighting, and framing.\n• Create content for every market. Generate alternate visuals, voiceovers, and other assets adapted for different regions and audiences.\n• Bring your creative tools together. Use Artlist alongside other MCPs, so your tools and context work together in one workflow.\nConnect your Artlist account to get started.",
+  "summary_ja": "画像・動画・音楽・ナレーションを生成し、Artlistの楽曲カタログも検索する。",
+  "usage_tags": [
+    "動画制作",
+    "画像生成",
+    "音楽",
+    "広告制作"
+  ],
+  "limitations": [
+    "Artlistアカウントの接続が必要との説明。素材の利用条件・料金・実動作・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
