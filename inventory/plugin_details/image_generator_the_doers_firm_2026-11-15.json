@@ -1,0 +1,23 @@
+{
+  "official_app_name": "Image Generator",
+  "provider": "The Doers Firm",
+  "version": "0.1.0",
+  "source_url": "https://chatgpt.com/plugins/plugins_6aaf8d9264308191ab2adc694aceaf4c?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Image Generator is a multi-skill visual creation workspace for thumbnails, logos, favicons, flat illustrations, 3D images, drawings, icons, product visuals, posters, social graphics, website assets, and image edits. It chooses the right visual workflow, preserves exact text and constraints, and delivers prompts or generated assets suited to the intended use.",
+  "summary_ja": "サムネイルやロゴなどの画像制作・編集に向け、指示文や生成素材を用意する。",
+  "usage_tags": [
+    "画像制作",
+    "ロゴ",
+    "サムネイル",
+    "イラスト"
+  ],
+  "limitations": [
+    "同名アプリとの区別のため提供元とURLを記録。",
+    "直接画像を生成する範囲・実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
