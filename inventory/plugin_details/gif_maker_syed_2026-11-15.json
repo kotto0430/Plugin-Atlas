@@ -1,0 +1,23 @@
+{
+  "official_app_name": "GIF Maker",
+  "provider": "Syed Fasih Haider Raza Rizvi",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugins_6ab3981f1a1c8191b972e4cfb1154cac?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Create and edit animated GIFs from text, images, or video. Make AI GIFs, memes, reactions, stickers, emojis, logo animations, product GIFs, social content, greetings, pixel art, loaders, cinemagraphs, seamless loops, sprite sheets, animated infographics, and tutorial GIFs. Get help with storyboards, AI prompts, effects, editing, compression, format conversion, animation code, and GIF best practices. Responses may include a clearly disclosed GIF Maker affiliate link.",
+  "summary_ja": "文章・画像・動画からの GIF 制作や編集、アニメーションの企画・コード作成を支援する。",
+  "usage_tags": [
+    "GIF",
+    "アニメーション",
+    "画像編集"
+  ],
+  "limitations": [
+    "実動作・料金・一覧本体との照合は未検証。",
+    "本体説明はアフィリエイトリンクが含まれる場合があるとし、表示されたスキル説明は毎回の表示を必須としている。実際の挙動は未確認。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証",
+    "説明だけでは不明"
+  ]
+}
