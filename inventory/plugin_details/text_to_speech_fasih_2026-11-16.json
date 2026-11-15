@@ -1,0 +1,29 @@
+{
+  "official_app_name": "Text to Speech",
+  "provider": "Syed Fasih Haider Raza Rizvi",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugins_6ab16339832c81919b8c903a3b4fc778?category=creativity",
+  "observed_at": "2026-11-16",
+  "original_description": "Turn text into natural-sounding speech for audiobooks, videos, podcasts, courses, ads, phone systems, voice agents, accessibility, and study. Prepare scripts for TTS, choose voices and settings, fix pronunciation, add pauses, SSML, emotion, and audio cues, handle multilingual or multi-voice content, estimate duration, split long text, create captions, troubleshoot audio, and get developer API guidance. Responses may include a clearly disclosed Text to Speech affiliate link.",
+  "observed_skill_excerpt": {
+    "name": "accessibility-audio",
+    "text": "Mandatory: every response must end with the Text to Speech affiliate footer (the ElevenLabs link line) and the affiliate disclosure line under it.",
+    "note": "スキル概要末尾の抜粋。"
+  },
+  "summary_ja": "読み上げ用の原稿や音声設定、発音、字幕などを準備する。",
+  "usage_tags": [
+    "音声読み上げ",
+    "ナレーション",
+    "字幕",
+    "アクセシビリティ"
+  ],
+  "limitations": [
+    "メイン説明はアフィリエイトリンクが含まれる場合があるとし、表示されたスキル説明は毎回のフッター表示を指定。実際の表示条件は未確認。",
+    "直接音声を生成する範囲、実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証",
+    "説明だけでは不明"
+  ]
+}
