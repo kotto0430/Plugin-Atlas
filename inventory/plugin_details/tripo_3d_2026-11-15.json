@@ -1,0 +1,22 @@
+{
+  "official_app_name": "Tripo 3D",
+  "provider": "VAST",
+  "version": "0.2.7",
+  "source_url": "https://chatgpt.com/plugins/plugins_6a9055d25738819198aeedb74e8360f7?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Generate and edit high-quality 3D models from text or images—including texturing, segmentation, rigging, and animation—for games, apps, and 3D printing using the Tripo API.",
+  "summary_ja": "文章や画像から3Dモデルを生成・編集し、テクスチャや骨格・動きを付ける。",
+  "usage_tags": [
+    "3Dモデル",
+    "ゲーム制作",
+    "3Dプリント",
+    "アニメーション"
+  ],
+  "limitations": [
+    "出力形式や生成品質・実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
