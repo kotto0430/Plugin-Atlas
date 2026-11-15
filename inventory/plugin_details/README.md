@@ -227,6 +227,9 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 
 - [AI Song Maker（Syed Fasih Haider Raza Rizvi）](ai_song_maker_fasih_2026-11-15.json) — 歌詞や曲の構成、音楽生成用プロンプトを作る。アフィリエイト表示の記述差と音声生成の範囲は要確認。
 
+- [Krikey AI Animation](krikey_ai_animation_2026-11-15.json) — 3Dキャラクターと題材を選び、音楽付きアニメーション動画を作る。
+- [Image to Video（Syed Fasih Haider Raza Rizvi）](image_to_video_fasih_2026-11-15.json) — 画像から動画制作のプロンプトや企画を支援。直接生成とアフィリエイト表示の条件は未確認。
+
 ## 一覧本体との照合
 
 [名称照合の記録](catalog_name_audit_2026-11-14.json) — 詳細35件と作業ブランチの一覧3,941件を比較。34件は名前が一致、Palimpsestは一致なし。名前の一致は同一性の確定ではない。個々のJSONにある旧「照合未確認」の記載は調査時点の記録で、最新の照合結果はこの記録を参照。
