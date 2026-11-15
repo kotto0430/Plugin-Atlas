@@ -327,6 +327,10 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 - [Tolstoy](tolstoy_2026-11-15.json) — EC向け商品写真・動画・広告を制作。
 - [Cardboard](cardboard_2026-11-15.json) — 動画を会話で編集。書き出し解像度の条件は未確認。
 
+- [AINSOF](ainsof_2026-11-15.json) — 映像向け楽曲の検索・試聴やライセンス支援を依頼。
+- [Heyzine Flipbooks](heyzine_flipbooks_2026-11-15.json) — 文書から電子冊子を作り公開・管理。
+- [GIF Maker（Syed Fasih Haider Raza Rizvi）](gif_maker_syed_2026-11-15.json) — GIFの制作や編集を支援。広告リンクの表示条件は未確認。
+
 ## 一覧本体との照合
 
 [名称照合の記録](catalog_name_audit_2026-11-14.json) — 詳細35件と作業ブランチの一覧3,941件を比較。34件は名前が一致、Palimpsestは一致なし。名前の一致は同一性の確定ではない。個々のJSONにある旧「照合未確認」の記載は調査時点の記録で、最新の照合結果はこの記録を参照。
