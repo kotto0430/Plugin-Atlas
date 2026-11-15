@@ -1,0 +1,24 @@
+{
+  "official_app_name": "skima",
+  "provider": "skima",
+  "version": "2.0.3",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a02d82f1b788191bb6e0ca04c973d62?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "skima helps users create one- or two-storey schematic architectural plan alternatives and build or iteratively refine a complete building exterior from a reference image. It stores work in new private skima projects, uses native slabs, walls, facade systems, openings, structure, stairs, roofs, and materials where supported, and preserves unsupported details as reviewable provisional geometry. Users can compare plan alternatives, inspect fixed 2D and 3D observations, patch visible differences, and retrieve authenticated project links. Results are early-stage design studies and require further architectural, structural, and regulatory review. Building-reference images guide the visible exterior; interior layouts and hidden construction inferred from a photograph are design assumptions. Modeling follows supported construction stages, and schematic drawings are generated from the stored model. Available drawings and exports depend on the result and are confirmed in the authenticated skima viewer. A saved model or successful projection alone is not a claim of visual fidelity or completed architectural design.",
+  "app_description": "Generate up to 8 schematic floorplan concepts as CAD drawings with ChatGPT, then open the private results in skima’s authenticated 2D and 3D viewer or download PDF, DXF, and GLB files from the links returned in chat. Generated concepts are early-stage design studies, not construction documents or permitting determinations.",
+  "summary_ja": "建物の初期段階の間取り案や外観モデルを作成・比較する。",
+  "usage_tags": [
+    "建築",
+    "間取り",
+    "3Dモデル",
+    "CAD"
+  ],
+  "limitations": [
+    "初期検討用であり、建築・構造・法規の追加確認が必要と説明。",
+    "図面と書き出しの可否は結果によると説明。実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
