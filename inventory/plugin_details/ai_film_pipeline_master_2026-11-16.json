@@ -1,0 +1,22 @@
+{
+  "official_app_name": "AI Film Pipeline Master",
+  "provider": "Yokhanna Wardah",
+  "version": "1.0.3",
+  "source_url": "https://chatgpt.com/plugins/plugins_6ab0da4c8ce0819193ea386af85c0ee6?category=creativity",
+  "observed_at": "2026-11-16",
+  "original_description": "Turn an idea, brief, or script into a production-ready plan for films, shorts, reels, commercials, music videos, and documentaries. The plugin guides story development, screenplay and dialogue, shooting scripts, narration, music, storyboards, image prompts, and video prompts across an eight-phase workflow.",
+  "summary_ja": "映画や短編動画の企画から脚本、絵コンテ、画像・動画用プロンプトまで制作計画をまとめる。",
+  "usage_tags": [
+    "映像制作",
+    "脚本",
+    "絵コンテ",
+    "プロンプト"
+  ],
+  "limitations": [
+    "直接動画を生成する機能は説明から確認できない。実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
