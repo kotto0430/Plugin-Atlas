@@ -1,0 +1,22 @@
+{
+  "official_app_name": "Widemile",
+  "provider": "widemile",
+  "version": "1.2.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a8c52a06c3081919407e081a375c210?category=creativity",
+  "observed_at": "2026-11-16",
+  "original_description": "Turn a creative brief into a structured Widemile production. Plan projects, generate images, video, audio, and music, organize and refine assets, and preview completed media directly in ChatGPT. Use optional scene-based storyboards to plan ordered cuts and visual references, review them inline, export PDFs and prepare one video prompt per scene.",
+  "summary_ja": "制作の指示から企画や絵コンテを整理し、画像・動画・音声・音楽の生成と素材管理を支援する。",
+  "usage_tags": [
+    "動画制作",
+    "絵コンテ",
+    "画像生成",
+    "音楽制作"
+  ],
+  "limitations": [
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
