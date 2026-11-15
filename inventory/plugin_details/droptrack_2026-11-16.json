@@ -1,0 +1,21 @@
+{
+  "official_app_name": "DropTrack",
+  "provider": "DropTrack",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a717dd3f15c819195cf3288aec0207f?category=creativity",
+  "observed_at": "2026-11-16",
+  "original_description": "Analyze your tracks with DropTrack directly from ChatGPT and Codex. Upload audio, use an existing DropTrack track, or provide a SoundCloud or Spotify link to inspect structured track analysis and tags, then discover personalized submission opportunities for record labels, DJs, bloggers, and playlist curators. Turn those insights into practical promotion: explore playlists, organize contacts and lists, prepare campaign drafts, review campaign and audience performance, manage advertising and assets, and create press releases, artist bios, and artwork. Every advertised workflow is customer-facing and scoped to the companies, data, and permissions available to your signed-in DropTrack account.",
+  "summary_ja": "楽曲の分析やタグ確認、提出先の発見、プロモーションの下書きや成果確認を支援する。",
+  "usage_tags": [
+    "音楽分析",
+    "音楽プロモーション",
+    "マーケティング"
+  ],
+  "limitations": [
+    "利用範囲はサインインしたDropTrackアカウントのデータ・権限に依存すると説明。実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
