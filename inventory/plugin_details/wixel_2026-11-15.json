@@ -1,0 +1,22 @@
+{
+  "official_app_name": "Wixel",
+  "provider": "Wix.com",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_69e12aae311d8819191625c2e688b153?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Your AI design partner, right in ChatGPT. Generate logos, images, presentations, and videos from the chat, or upload your own image to edit. Just describe what you need, and Wixel generates professional designs that you can download and use right away, or fine-tune in the Wixel editor.",
+  "summary_ja": "ロゴ・画像・プレゼン・動画を作り、画像編集やエディターでの調整を行う。",
+  "usage_tags": [
+    "デザイン",
+    "画像生成",
+    "ロゴ",
+    "動画制作"
+  ],
+  "limitations": [
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
