@@ -709,3 +709,10 @@ GIF Makerのメイン説明はアフィリエイトリンクを含む場合が�
 [Drivethrough](inventory/plugin_details/drivethrough_2026-11-15.json)、[Uxia](inventory/plugin_details/uxia_2026-11-15.json)、[The Altiora Codex Oracle](inventory/plugin_details/altiora_codex_oracle_2026-11-15.json)、[CutPro](inventory/plugin_details/cutpro_2026-11-16.json)、[AdKraft](inventory/plugin_details/adkraft_2026-11-16.json)、[Flatma](inventory/plugin_details/flatma_2026-11-16.json)、[Air（Air Inc）](inventory/plugin_details/air_inc_2026-11-16.json)、[DropTrack](inventory/plugin_details/droptrack_2026-11-16.json)、[Thumbnail Maker（Syed Fasih Haider Raza Rizvi）](inventory/plugin_details/thumbnail_maker_fasih_2026-11-16.json)の正式名・提供元・版・英文説明・日本語要約・用途・確認状況を記録。CutProは「続きを読む」を展開して全文を保存。URLはブラウザーのアクセシビリティ情報で確認。Airの具体的な操作範囲は説明だけでは不明。実動作・料金・一覧本体との照合は未検証。前回記録の249ファイルから9件増の累計258ファイルで、一覧本体の件数とは別。
 
 Thumbnail Makerのメイン説明はアフィリエイトリンクを含む場合があるとする一方、確認したスキル概要は毎回のフッター表示を指定。原文を併記し、実際の表示条件と直接画像を生成する範囲を未確認として9件で区切った。次回はクリエイティブ一覧でThumbnail Makerの次の行にあるPostNitroから詳細索引と照合して再開。作業ブランチのみ更新、main・本番未変更。
+
+
+### 詳細調査（2026-11-16、クリエイティブ10件・表示条件保留）
+
+[PostNitro](inventory/plugin_details/postnitro_2026-11-16.json)、[Embroidery File Converter](inventory/plugin_details/embroidery_file_converter_2026-11-16.json)、[Widemile](inventory/plugin_details/widemile_2026-11-16.json)、[Treza](inventory/plugin_details/treza_2026-11-16.json)、[Artlist](inventory/plugin_details/artlist_2026-11-16.json)、[Laotan AI Copywriting](inventory/plugin_details/laotan_ai_copywriting_2026-11-16.json)、[NewsTune Studio](inventory/plugin_details/newstune_studio_2026-11-16.json)、[Ullbek](inventory/plugin_details/ullbek_2026-11-16.json)、[Pitch](inventory/plugin_details/pitch_2026-11-16.json)、[Web Design（Syed Fasih Haider Raza Rizvi）](inventory/plugin_details/web_design_fasih_2026-11-16.json)の正式名・提供元・版・英文説明・日本語要約・用途・確認状況を記録。Trezaは「続きを読む」を展開して全文を保存。URLはブラウザーのアクセシビリティ情報で確認。既存のShotClick: Screenplay & ScriptとCharacter Creatorは再処理せず。実動作・料金・一覧本体との照合は未検証。前回記録の258ファイルから10件増の累計268ファイルで、一覧本体の件数とは別。
+
+Web Designのメイン説明はアフィリエイトリンクを含む場合があるとする一方、確認したスキル概要は毎回のフッター表示を指定。両原文を保存し、実際の表示条件を未確認とした。次回はクリエイティブ一覧のWeb Designの次の行にあるCaratから詳細索引と照合して再開。作業ブランチのみ更新、main・本番未変更。
