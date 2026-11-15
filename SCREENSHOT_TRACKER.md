@@ -590,3 +590,10 @@ Image to Videoのメイン説明はアフィリエイトリンクを含む場合
 [Glinded for Birthday Videos](inventory/plugin_details/glinded_birthday_videos_2026-11-15.json)、[VoiceLabs](inventory/plugin_details/voicelabs_2026-11-15.json)、[Grapes Studio](inventory/plugin_details/grapes_studio_2026-11-15.json)の正式名、提供元、版、英文説明、日本語要約、用途、確認状況を記録。実動作・料金・一覧本体との照合は未検証。詳細記録は累計173ファイルで、一覧本体の件数とは別。
 
 クリエイティブ一覧に戻った後、次の候補へのスクロール時に操作ツールが `scroll.scrollX must be a finite number` を返したため、指定に従い3件で中断。次回はスクロール操作の引数を確認し、Grapes Studio付近の Impeccable などを詳細索引と照合して再開する。作業ブランチのみ更新、main・本番未変更。
+
+
+### 詳細調査（2026-11-15、クリエイティブ9件・説明の読み分けを保留）
+
+前回のスクロール指定を修正し、[Impeccable](inventory/plugin_details/impeccable_2026-11-15.json)、[Montage](inventory/plugin_details/montage_2026-11-15.json)、[Havi: Slides & PPT Maker](inventory/plugin_details/havi_slides_ppt_maker_2026-11-15.json)、[Motionvid](inventory/plugin_details/motionvid_2026-11-15.json)、[Interior Company](inventory/plugin_details/interior_company_2026-11-15.json)、[Supericons](inventory/plugin_details/supericons_2026-11-15.json)、[kernelCAD](inventory/plugin_details/kernelcad_2026-11-15.json)、[123 Piano](inventory/plugin_details/123_piano_2026-11-15.json)、[AI Image Generator（Syed Fasih Haider Raza Rizvi）](inventory/plugin_details/ai_image_generator_fasih_2026-11-15.json)を記録。英語説明、日本語要約、用途、確認状況と制限を保存。実動作・料金・一覧本体との照合は未検証。詳細記録は累計182ファイルで一覧本体の件数とは別。
+
+AI Image Generatorはメイン説明では画像の作成・編集を記載する一方、確認したスキル概要はプロンプトの作成を記載し、直接生成の範囲は未確定。またアフィリエイトリンクについてメイン説明は含まれる場合があるとし、確認したスキル概要は毎回のフッターを指定。両原文を記録し、実際の条件を断定せず、指示に従い9件で区切った。次回はクリエイティブ一覧でAI Image Generatorの次にあるDesignlyやAI Color Picker - Design Toolなどを詳細索引と照合して再開。作業ブランチのみ更新、main・本番未変更。
