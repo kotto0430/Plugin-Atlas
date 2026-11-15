@@ -1,0 +1,23 @@
+{
+  "official_app_name": "Sequel.io",
+  "provider": "Sequel.io",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_698ba2c7026481918f4964301badc655?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Sequel helps you turn webinar conversations into written content. Connect your Sequel account to access webinar transcripts and generate blog posts, social media content, newsletters, and other marketing assets from your events.",
+  "summary_ja": "ウェビナーの文字起こしを使ってブログやSNS、ニュースレターの文章を作る。",
+  "usage_tags": [
+    "ウェビナー",
+    "文章作成",
+    "マーケティング",
+    "SNS"
+  ],
+  "limitations": [
+    "Sequelアカウントの連携が必要と説明。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
