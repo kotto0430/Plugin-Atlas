@@ -562,3 +562,10 @@ Kolbo.AIのページを再表示し、前回記録したメイン説明とスキ
 [AI Song Maker（Syed Fasih Haider Raza Rizvi）](inventory/plugin_details/ai_song_maker_fasih_2026-11-15.json)の正式名、提供元、版、英文原文、日本語要約、用途、確認状況を保存。歌詞・曲構成・音楽生成用プロンプトなどを扱い、音声ファイルの直接生成の可否は説明だけでは不明。既存のAI Music Maker（InfoseekAI）とは表示名と提供元が異なる。実動作・料金・一覧本体との名称照合は未検証。詳細記録は累計165ファイルで一覧本体の件数とは別。
 
 説明文はアフィリエイトリンクを含む場合があると述べる一方、スキル欄は回答ごとにElevenLabsのアフィリエイト欄と開示文を付けるよう記載。対象範囲や実際の表示を未検証とし、説明とスキル欄の原文を保存。指定のルールに従い今回は1件で中断。次回はこの表示条件を保留事項として扱い、クリエイティブ一覧のAI Song Maker付近のKrikey AI Animation、Image to Videoなどを索引と照合して再開する。Kolbo.AIとPyxlの2ページの関係も未確定。作業ブランチのみ更新、main・本番未変更。
+
+
+### 詳細調査（2026-11-15、アニメーション2件・表示条件保留）
+
+[Krikey AI Animation](inventory/plugin_details/krikey_ai_animation_2026-11-15.json)と[Image to Video（Syed Fasih Haider Raza Rizvi）](inventory/plugin_details/image_to_video_fasih_2026-11-15.json)の表示名、提供元、版、英文原文、日本語要約、用途、確認状況を保存。Krikeyは3Dキャラクター、ジャンル、題材を選んで音楽動画を作ると説明。Image to Videoは動画制作のプロンプト・企画を支援するが、動画ファイルの直接生成は説明だけでは明確でない。実動作・品質・料金・一覧本体との名称照合は未検証。詳細記録は累計167ファイルで一覧本体の件数とは別。
+
+Image to Videoのメイン説明はアフィリエイトリンクを含む場合があるとし、表示されたスキル欄は回答ごとにVideoGenリンクと開示を付けるよう記載。実際の表示条件を断定せず、両原文を保存。指定のルールに従い今回は2件で中断。次回はクリエイティブ一覧のImage to Videoの次にあるPixlieなどを詳細索引と照合して再開する。前回以前の保留事項も未解決。作業ブランチのみ更新、main・本番未変更。
