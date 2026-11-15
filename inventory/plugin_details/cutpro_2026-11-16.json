@@ -1,0 +1,22 @@
+{
+  "official_app_name": "CutPro",
+  "provider": "CutPro",
+  "version": "1.2.1",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6abf1f0a86d4819181b7f2cfd9ebfbb8?category=creativity",
+  "observed_at": "2026-11-16",
+  "original_description": "Create with AI right in the chat: images, videos, voice-overs, songs, sound effects, talking avatars and 3D models, with leading AI models in one place. Describe what you want in any language, approve it, and the result shows up in the chat.\nEdit what you already have: upscale an image or a video, remove a background, erase objects or text, animate a photo, go from a first to a last frame, make the person in a photo speak with any voice, or turn a product photo into a 3D model. Results chain: a voice you just made can make an avatar talk, and an image you just made can become a video.\nMade for every kind of work: short videos and ads for TikTok, Reels and Shorts; product photos and UGC for online stores; soundtracks, jingles and sound effects; narration for courses, audiobooks and podcasts; thumbnails and characters for YouTube; 3D assets for games, AR and product pages.\nCreate AI characters: realistic people who look the same in every photo and video, and put them into any video in place of the person in it, keeping the scene, the camera, the motion and the sound.\nTurn long videos and live streams into short captioned clips: paste a YouTube, Twitch, Kick or TikTok link and CutPro finds the best moments, renders them and posts or schedules them on TikTok, Instagram, YouTube, Facebook, Threads, LinkedIn, Pinterest and Bluesky. It also transcribes any audio or video into timed captions (SRT, VTT, text or JSON).\nYou are asked before anything is generated, started or published. Everything happens in your own CutPro workspace, the same one you use on cut.pro.",
+  "summary_ja": "画像・動画・音声などの生成や編集、長い動画の字幕付き短尺化、SNS投稿・予約を支援する。",
+  "usage_tags": [
+    "動画制作",
+    "画像生成",
+    "音楽制作",
+    "SNS"
+  ],
+  "limitations": [
+    "生成・開始・公開前に確認するとの提供元の説明。実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
