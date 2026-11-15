@@ -1,0 +1,23 @@
+{
+  "official_app_name": "Poster Maker",
+  "provider": "POSTER APP LLP",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a5f6cd1de288191a59184a231a6cb7c?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Poster Maker helps you turn your ideas into professional posters without leaving the chat.\n\nSimply describe what you need—a birthday invitation, restaurant offer, festival greeting, business promotion, event flyer, or social media post—and Poster Maker searches its template library to find the best matching designs. It displays personalized previews directly in ChatGPT instead of generic samples.\n\nAdd details such as a name, date, price, discount, contact number, or business information, and Poster Maker automatically places your content into the selected design so you can see how the final poster will look.\n\nOnce you've found the design you like, open it in the Poster App Lab editor to customize colors, fonts, images, and layout, then download and share your finished poster anywhere.",
+  "summary_ja": "用途に合うポスターテンプレートを探し、文字を入れてプレビュー・編集する。",
+  "usage_tags": [
+    "ポスター",
+    "チラシ",
+    "販促",
+    "SNS"
+  ],
+  "limitations": [
+    "細かい編集はPoster App Labエディターで行うと説明。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
