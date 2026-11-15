@@ -1,0 +1,22 @@
+{
+  "official_app_name": "Pixlie",
+  "provider": "Brightforge Software Inc",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a363d9805ac8191b0970c5104c8845a?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Pixlie Prompt Coach helps you write better AI video prompts before you open the Pixlie studio.\n\n• Enhance rough ideas into Pixlie-ready prompts (text-to-video, image-to-video, video restyle)\n• Suggest negative prompts, camera moves, aspect ratio, and duration\n• Build 3–5 shot storyboard outlines\n• Curated examples and workflow tips\n\nThis app does NOT render video, sell subscriptions, or handle credits inside ChatGPT. When your prompt is ready, open https://pixlys.com/create to generate.\n\nMade by Brightforge Software Inc.",
+  "summary_ja": "動画生成用の指示文やカメラワークを考え、3〜5ショットの絵コンテ案を作る。",
+  "usage_tags": [
+    "動画制作",
+    "プロンプト",
+    "絵コンテ"
+  ],
+  "limitations": [
+    "説明ではChatGPT内で動画をレンダリングせず、生成には外部サイトを開く。",
+    "動作・料金・一覧本体との名称照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
