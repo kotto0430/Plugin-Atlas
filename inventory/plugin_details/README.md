@@ -331,6 +331,16 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 - [Heyzine Flipbooks](heyzine_flipbooks_2026-11-15.json) — 文書から電子冊子を作り公開・管理。
 - [GIF Maker（Syed Fasih Haider Raza Rizvi）](gif_maker_syed_2026-11-15.json) — GIFの制作や編集を支援。広告リンクの表示条件は未確認。
 
+- [Drivethrough](drivethrough_2026-11-15.json) — 会話でサイトを作り、共有・公開や版の復元を行う。
+- [Uxia](uxia_2026-11-15.json) — UX調査のテスト案と結果を扱う。Uxia MCPサーバーが必要。
+- [The Altiora Codex Oracle](altiora_codex_oracle_2026-11-15.json) — 個人の内省や着想向けのカードリーディング。
+- [CutPro](cutpro_2026-11-16.json) — 画像・動画・音声の制作や短尺動画への編集を支援。
+- [AdKraft](adkraft_2026-11-16.json) — 商品写真からナレーション付き動画広告を作る。クレジットを使用。
+- [Flatma](flatma_2026-11-16.json) — 家具の寸法や材料を調整できる3Dモデルを作る。
+- [Air（Air Inc）](air_inc_2026-11-16.json) — ブランドやライブラリを扱う。具体的な操作範囲は説明だけでは不明。
+- [DropTrack](droptrack_2026-11-16.json) — 楽曲を分析し、提出先の発見や販促を支援。
+- [Thumbnail Maker（Syed Fasih Haider Raza Rizvi）](thumbnail_maker_fasih_2026-11-16.json) — サムネイルの企画・改善を支援。広告リンクの表示条件は未確認。
+
 ## 一覧本体との照合
 
 [名称照合の記録](catalog_name_audit_2026-11-14.json) — 詳細35件と作業ブランチの一覧3,941件を比較。34件は名前が一致、Palimpsestは一致なし。名前の一致は同一性の確定ではない。個々のJSONにある旧「照合未確認」の記載は調査時点の記録で、最新の照合結果はこの記録を参照。
