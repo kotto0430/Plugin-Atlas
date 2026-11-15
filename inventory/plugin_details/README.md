@@ -279,6 +279,17 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 - [Poster Maker（POSTER APP LLP）](poster_maker_poster_app_2026-11-15.json) — テンプレートからポスターを探して文字を入れ、編集。
 - [Whiteboard by Athena AI](whiteboard_athena_ai_2026-11-15.json) — 図表や画面案などを共同ホワイトボードに保存・共有。
 
+- [Sonilo](sonilo_2026-11-15.json) — 音楽・効果音を作り動画の音声をミックス。
+- [Flipsnack](flipsnack_2026-11-15.json) — PDFから電子冊子を作り、公開・分析を管理。直接アップロードの範囲は未検証。
+- [Kittl](kittl_2026-11-15.json) — 商品画像やモックアップ、販促動画を作る。
+- [Image Generator（The Doers Firm）](image_generator_the_doers_firm_2026-11-15.json) — 画像制作の指示文や生成素材を用意。
+- [Image Generator（B12）](image_generator_b12_2026-11-15.json) — ウェブサイト用画像と代替テキストを用意。
+- [Spline](spline_2026-11-15.json) — 対話型3Dシーンやウェブページを作成・編集。
+- [Wixel](wixel_2026-11-15.json) — ロゴ・画像・プレゼン・動画の作成と編集。
+- [Clueso](clueso_2026-11-15.json) — 画面録画や資料から説明動画・手順書を制作。
+- [Make A Viz](make_a_viz_2026-11-15.json) — 図表やマインドマップを作成・編集。
+- [SSHOW](sshow_2026-11-15.json) — プレゼンの編集・再生。エディターを閉じた状態での読み取りは説明が異なり未確認。
+
 ## 一覧本体との照合
 
 [名称照合の記録](catalog_name_audit_2026-11-14.json) — 詳細35件と作業ブランチの一覧3,941件を比較。34件は名前が一致、Palimpsestは一致なし。名前の一致は同一性の確定ではない。個々のJSONにある旧「照合未確認」の記載は調査時点の記録で、最新の照合結果はこの記録を参照。
