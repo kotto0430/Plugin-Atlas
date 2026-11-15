@@ -1,0 +1,24 @@
+{
+  "official_app_name": "Havi: Slides & PPT Maker",
+  "provider": "Havi",
+  "version": "1.0.3",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_69b9154609d481919f0ce339c6ac315d?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Havi is an AI presentation maker. Describe what you need, or paste notes or an outline, and it builds a slide deck with the narrative, layout, and design done for you. Export the finished presentation as a PowerPoint (PPT) file or PDF.\n\nWhat you can ask for\n• \"Turn my product notes into a 5-slide presentation\"\n• \"Create a pitch deck for my startup\"\n• \"Make an onboarding presentation for new hires\"\n• \"Build a PPT from this outline\"\n\nWhat Havi can do\n• Generate a full slide deck from a prompt, notes, or an outline\n• Edit slides with plain commands, such as \"simplify the text on slide 2\" or \"add a slide about our team\"\n• Change the theme, colors, and fonts\n• Add and replace images, and create diagrams\n• Save presentations automatically\n• Export to PowerPoint (PPT) and PDF\n\nWho it is for\nFounders, sales teams, consultants, teachers, and students who need a presentation fast.\n\nHow to use\n1. Connect Havi from the directory.\n2. Type \"@\" and tag Havi, or start your message with \"Havi\", then enter your prompt.\n\nLimits\nHavi edits presentations it created in the conversation. It does not open existing PowerPoint or Google Slides files.",
+  "summary_ja": "文章や構成案からスライドを作成・編集し、PPTやPDFへ書き出す。",
+  "usage_tags": [
+    "プレゼンテーション",
+    "スライド制作",
+    "教育",
+    "ビジネス"
+  ],
+  "limitations": [
+    "既存のPowerPointやGoogle Slidesファイルは開けず、会話中に作成した資料を編集すると説明。",
+    "表示されたスキル概要では最大30枚、アップロードしたファイルは読まないと記載。",
+    "実動作・料金は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
