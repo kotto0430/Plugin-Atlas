@@ -1,0 +1,25 @@
+{
+  "official_app_name": "Kolbo.AI",
+  "provider": "Kolbo.AI",
+  "version": "2.0.1",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a7e9e61390881919b9a61916e84756c?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Kolbo.AI helps users create and edit images, video, music, speech, sound, and 3D assets, then organize the results in projects, documents, review spaces, and a synchronized media library.",
+  "summary_ja": "画像・動画・音楽・音声・3D素材を作成・編集し、プロジェクトやメディアライブラリで整理する。",
+  "usage_tags": [
+    "画像制作",
+    "動画制作",
+    "音楽",
+    "3D",
+    "素材管理"
+  ],
+  "limitations": [
+    "スキルの説明では動画編集／FFmpegやモーショングラフィックスは対象外とされる。メイン説明の動画の作成・編集との具体的な範囲は要確認。",
+    "実動作・料金・品質・一覧本体との名称照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証",
+    "説明だけでは不明"
+  ]
+}
