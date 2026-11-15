@@ -315,6 +315,12 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 
 - [Pexafy Stock Photos](pexafy_stock_photos_2026-11-15.json) — 文章や参考画像から写真素材を検索。認証・利用枠の条件は未確認。
 
+- [Flixly](flixly_2026-11-15.json) — 画像・動画の生成モデルや費用を比較し、生成状況を確認。
+- [Planner5D: Plan, Build, Create](planner5d_plan_build_create_2026-11-15.json) — 間取りや家具配置を作成し、2D・3Dで検討。
+- [Aspicio](aspicio_2026-11-15.json) — DXF図面のレイヤー・寸法・文字を確認。
+- [Atlas Cloud](atlas_cloud_2026-11-15.json) — 複数のAIモデルを使って画像・動画・音声などを生成。
+- [Graphic Design Studio（Syed Fasih Haider Raza Rizvi）](graphic_design_studio_fasih_2026-11-15.json) — 印刷物やSNSのデザインを支援。広告リンクの表示条件は未確認。
+
 ## 一覧本体との照合
 
 [名称照合の記録](catalog_name_audit_2026-11-14.json) — 詳細35件と作業ブランチの一覧3,941件を比較。34件は名前が一致、Palimpsestは一致なし。名前の一致は同一性の確定ではない。個々のJSONにある旧「照合未確認」の記載は調査時点の記録で、最新の照合結果はこの記録を参照。
