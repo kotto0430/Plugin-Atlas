@@ -252,6 +252,13 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 - [AI Color Picker - Design Tool](ai_color_picker_design_tool_2026-11-15.json) — 色を選び、配色や読みやすさを相談する。
 - [Faceless Video Maker（Syed Fasih Haider Raza Rizvi）](faceless_video_maker_fasih_2026-11-15.json) — 顔出し動画の企画・台本・映像用プロンプト。直接生成と広告リンクの表示条件は未確認。
 
+- [Morphed](morphed_2026-11-15.json) — AI画像・動画の制作とクレジット見積もり。
+- [Pika](pika_2026-11-15.json) — 写真・動画を使った映像、画像、音楽の制作。
+- [01 Superdesign](01_superdesign_2026-11-15.json) — UIやスライド、告知画像の制作・比較。
+- [Logo Generator（B12）](logo_generator_b12_2026-11-15.json) — ロゴを作り、SVG・PNGを出力。
+- [FashionTrendAI](fashiontrendai_2026-11-15.json) — ファッション動向を分析し企画やデザインを支援。
+- [Pablooo.club Benchmark library](pablooo_club_benchmark_library_2026-11-15.json) — アプリ画面の実例を検索・比較。
+
 ## 一覧本体との照合
 
 [名称照合の記録](catalog_name_audit_2026-11-14.json) — 詳細35件と作業ブランチの一覧3,941件を比較。34件は名前が一致、Palimpsestは一致なし。名前の一致は同一性の確定ではない。個々のJSONにある旧「照合未確認」の記載は調査時点の記録で、最新の照合結果はこの記録を参照。
