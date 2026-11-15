@@ -1,0 +1,27 @@
+{
+  "official_app_name": "Infographic Artist",
+  "provider": "27PM",
+  "version": "1.2.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a695eda913881919ef52582023f0ca2?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Étudie les systèmes de marque et les visuels fournis avec un atlas documenté et un catalogue de 150 principes, 69 sources et 14 domaines. Recherche les principes avec kind=principle et prépare un parcours de conception en huit étapes à partir du design_context déclaré. Les scores de critique sont des diagnostics heuristiques ; reconnaissance, compréhension et préférence restent des évaluations distinctes, initialisées à non_testé. Le catalogue est une cartographie étendue, sans prétention d’exhaustivité. Prépare trois directions originales et transmet le brief par @Créer une image ; seule une exécution réelle par la capacité native de la conversation produit une image.",
+  "original_description_language": "fr",
+  "app_description_en": "Infographic Artist helps designers study iconic brand systems, navigate a mechanism graph, compare precedents, generate original creative directions, critique uploaded proposals on five visual axes, triage perceptual similarity, and turn feedback into measurable design exercises.",
+  "skill_description_en": "Research and improve visual identities, art, infographics and UI applications with documented principles of proportion, geometry, perception, aesthetics, physics and information design. Use for sourced precedents, concrete critique, an eight-step design workflow, distinct creative directions and native concept-to-image creation with Infographic Artist.",
+  "summary_ja": "視覚デザインの原則や事例を調べ、デザインの批評と企画を支援する。",
+  "usage_tags": [
+    "デザイン調査",
+    "インフォグラフィック",
+    "ブランドデザイン",
+    "デザイン批評"
+  ],
+  "limitations": [
+    "メイン説明はフランス語。英文はアプリ欄とスキル欄の原文。",
+    "批評のスコアはヒューリスティックな診断で、認知・理解・好みの評価は未テストから開始すると説明。画像生成には会話の画像生成機能の実行が必要と説明。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
