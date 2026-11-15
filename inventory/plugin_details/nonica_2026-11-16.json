@@ -1,0 +1,22 @@
+{
+  "official_app_name": "Nonica",
+  "provider": "Nonica",
+  "version": "1.1.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6aa02132f74c8191a3df331aee3b67ce?category=creativity",
+  "observed_at": "2026-11-16",
+  "original_description": "Set up the NonicaTab Revit MCP in minutes and see what it can do for your Revit work.\nThis plugin is the guide to the NonicaTab A.I. Connector, a local MCP server that runs inside Autodesk Revit and lets your AI assistant query, edit and document the Revit model you have open, in plain language.\nWhat this plugin helps you with:\n• Install: step-by-step setup for Revit 2022 to 2027 on Windows, from adding NonicaTab to Revit to switching on the A.I. Connector.\n• Connect: instructions and ready-to-paste config to link the A.I. Connector to your AI app or any other MCP-compatible client.\n• Troubleshoot: fixes for common issues, such as tools not showing up, failed connections or company PC restrictions.\n• Find the official sources: download links, documentation and setup guides.\n• Explore the tools: browse the 50+ Revit tools by group or search by keyword (for example \"warnings\", \"sheet\" or \"parameter\") to find the right one for a task.\nTool groups in the A.I. Connector:\n• Read (38 tools): find elements by category, family or type; bulk-read parameters; inspect geometry, hosts and materials; audit warnings, worksets and family sizes; review schedules, sheets and view filters.\n• Edit (11 tools): set parameters in bulk; move, rotate, copy or delete elements; override colors; isolate elements; manage sheet revisions.\n• Create (15 tools): grids, levels, plans, sections, room elevations, sheets, schedules, tags and text notes, then export to PDF or DWG.\nDocumentation only: this plugin returns text and has no access to your Revit models, files or account. The A.I. Connector runs locally on your PC, so your Revit model stays on your machine.",
+  "summary_ja": "Revit上のモデルを扱うローカルMCP連携の導入・接続・機能を案内する。",
+  "usage_tags": [
+    "Revit",
+    "建築",
+    "MCP",
+    "設計"
+  ],
+  "limitations": [
+    "このプラグインは接続方法などの案内用で、モデルを直接操作するのはローカルの別コネクターとの説明。対象はWindowsのRevit 2022〜2027、編集・作成はPROと記載。実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
