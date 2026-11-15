@@ -702,3 +702,10 @@ Cardboardのメイン説明は4K MP4、アプリ欄は1080p MP4の書き出し�
 [AINSOF](inventory/plugin_details/ainsof_2026-11-15.json)、[Heyzine Flipbooks](inventory/plugin_details/heyzine_flipbooks_2026-11-15.json)、[GIF Maker（Syed Fasih Haider Raza Rizvi）](inventory/plugin_details/gif_maker_syed_2026-11-15.json)の正式名・提供元・版・英文説明・日本語要約・用途・確認状況を記録。URLはブラウザーのアクセシビリティ情報で確認。実動作・料金・一覧本体との照合は未検証。前回記録の246ファイルから3件増の累計249ファイルで、一覧本体の件数とは別。
 
 GIF Makerのメイン説明はアフィリエイトリンクを含む場合があるとする一方、表示されたスキル概要は毎回のフッター表示を指定。両方の原文を記録し、実際の表示条件を未確認として3件で区切った。次回はクリエイティブ一覧のGIF Maker隣のDrivethroughから詳細索引と照合して再開。作業ブランチのみ更新、main・本番未変更。
+
+
+### 詳細調査（2026-11-15〜16、クリエイティブ9件・表示条件保留）
+
+[Drivethrough](inventory/plugin_details/drivethrough_2026-11-15.json)、[Uxia](inventory/plugin_details/uxia_2026-11-15.json)、[The Altiora Codex Oracle](inventory/plugin_details/altiora_codex_oracle_2026-11-15.json)、[CutPro](inventory/plugin_details/cutpro_2026-11-16.json)、[AdKraft](inventory/plugin_details/adkraft_2026-11-16.json)、[Flatma](inventory/plugin_details/flatma_2026-11-16.json)、[Air（Air Inc）](inventory/plugin_details/air_inc_2026-11-16.json)、[DropTrack](inventory/plugin_details/droptrack_2026-11-16.json)、[Thumbnail Maker（Syed Fasih Haider Raza Rizvi）](inventory/plugin_details/thumbnail_maker_fasih_2026-11-16.json)の正式名・提供元・版・英文説明・日本語要約・用途・確認状況を記録。CutProは「続きを読む」を展開して全文を保存。URLはブラウザーのアクセシビリティ情報で確認。Airの具体的な操作範囲は説明だけでは不明。実動作・料金・一覧本体との照合は未検証。前回記録の249ファイルから9件増の累計258ファイルで、一覧本体の件数とは別。
+
+Thumbnail Makerのメイン説明はアフィリエイトリンクを含む場合があるとする一方、確認したスキル概要は毎回のフッター表示を指定。原文を併記し、実際の表示条件と直接画像を生成する範囲を未確認として9件で区切った。次回はクリエイティブ一覧でThumbnail Makerの次の行にあるPostNitroから詳細索引と照合して再開。作業ブランチのみ更新、main・本番未変更。
