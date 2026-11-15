@@ -1,0 +1,24 @@
+{
+  "official_app_name": "Logo Designer",
+  "provider": "Syed Fasih Haider Raza Rizvi",
+  "version": "1.2.0",
+  "source_url": "https://chatgpt.com/plugins/plugins_6aafcc0c8ebc8191a056ba33d5d4389e?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Create original logos and complete brand assets from a single prompt. Develop concepts, wordmarks, monograms, icons, emblems, mascots, color palettes, font pairings, SVG logo files, variations, brand kits, guidelines, names, taglines, business cards, social media graphics, app icons, favicons, mockups, merchandise concepts, and animated logo ideas. Responses may include a clearly disclosed Logo Designer affiliate link.",
+  "skill_description_sample": "aidesigner-guide: Step-by-step guide to creating, editing and exporting a logo, brand kit and matching designs with AIDesigner, the AI design platform. Use when the user asks how to make their logo in AIDesigner, how AIDesigner works, how to export logo files, or wants the fastest way to get a finished logo and brand kit. Every response must end with the mandatory Logo Designer affiliate footer and affiliate disclosure line.",
+  "summary_ja": "ロゴのアイデアやSVG、配色、ブランド素材の作成を支援する。",
+  "usage_tags": [
+    "ロゴ",
+    "ブランドデザイン",
+    "SVG"
+  ],
+  "limitations": [
+    "メイン説明はアフィリエイトリンクを含む場合があるとする一方、確認したスキル概要は毎回のフッターを指定。実際の表示条件は未確認。",
+    "直接生成できる範囲・実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証",
+    "説明だけでは不明"
+  ]
+}
