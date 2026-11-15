@@ -297,6 +297,16 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 - [PosterMyWall](postermywall_2026-11-15.json) — テンプレートを探し、PosterMyWall上で編集する。
 - [Dazzly](dazzly_2026-11-15.json) — ウェブサイト制作や商品販売を支援。ChatGPT連携からの操作範囲は未確認。
 
+- [GifGen - GIFs](gifgen_gifs_2026-11-15.json) — 文章や画像からループGIFを作る。
+- [12ui Design](12ui_design_2026-11-15.json) — UIの参考を探し、画像からコード化する。
+- [DevMotion](devmotion_2026-11-15.json) — 編集可能なアニメーション動画を制作。
+- [3aqel Arabic Creative](3aqel_arabic_creative_2026-11-15.json) — アラビア語の広告デザインや音声を作る。
+- [skima](skima_2026-11-15.json) — 建物の初期段階の間取り案や外観モデルを作る。
+- [Sitelas](sitelas_2026-11-15.json) — サイトを作成し、公開後も管理する。
+- [Goldie](goldie_2026-11-15.json) — オンデマンド印刷向けの商品企画・デザインを支援。
+- [PoolVisionIA](poolvisionia_2026-11-15.json) — 庭の写真にプールを設置したイメージを作る。説明はフランス語。
+- [Magic Hour AI](magic_hour_ai_2026-11-15.json) — 画像・動画・音声を生成・編集。
+
 ## 一覧本体との照合
 
 [名称照合の記録](catalog_name_audit_2026-11-14.json) — 詳細35件と作業ブランチの一覧3,941件を比較。34件は名前が一致、Palimpsestは一致なし。名前の一致は同一性の確定ではない。個々のJSONにある旧「照合未確認」の記載は調査時点の記録で、最新の照合結果はこの記録を参照。
