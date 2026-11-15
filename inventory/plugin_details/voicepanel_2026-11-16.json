@@ -1,0 +1,22 @@
+{
+  "official_app_name": "Voicepanel",
+  "provider": "Voicepanel Inc.",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_69ec465134088191977792a5d4f50c8f?category=creativity",
+  "observed_at": "2026-11-16",
+  "original_description": "Measure what real people think about new products, prototypes, messaging, and more. Let AI conduct 100s of feedback sessions so you can launch with confidence.",
+  "summary_ja": "製品や試作品への実際の人の意見を、AIによるフィードバック調査で集める。",
+  "usage_tags": [
+    "ユーザー調査",
+    "製品開発",
+    "インタビュー"
+  ],
+  "limitations": [
+    "具体的な対象者募集や調査手順はこの説明だけでは不明。実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証",
+    "説明だけでは不明"
+  ]
+}
