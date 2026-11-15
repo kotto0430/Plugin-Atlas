@@ -1,0 +1,21 @@
+{
+  "official_app_name": "Pitch",
+  "provider": "Pitch Software Gmbh",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6aad311433008191b8b47c37cad44937?category=creativity",
+  "observed_at": "2026-11-16",
+  "original_description": "Build on-brand decks directly from ChatGPT, pulling from the context you’ve already connected. Pitch creates whatever you describe in your template’s style, or fills in variables from your data for precise results. Search your decks and reuse their content, organize your workspace, set up share links, and track engagement.",
+  "summary_ja": "テンプレートやデータを使ってプレゼン資料を作り、既存資料の検索・共有リンク設定・閲覧状況の確認を行う。",
+  "usage_tags": [
+    "プレゼンテーション",
+    "スライド",
+    "資料共有"
+  ],
+  "limitations": [
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
