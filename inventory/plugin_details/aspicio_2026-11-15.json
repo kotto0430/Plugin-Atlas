@@ -1,0 +1,22 @@
+{
+  "official_app_name": "Aspicio",
+  "provider": "FrontSail AI",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a5f7b1be6b48191b2ee935ebe58c6e1?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Aspicio turns DXF CAD drawings into things ChatGPT can work with: structured facts (units, bounds, layers with the colors actually drawn, entity counts, and the drawing's text content), rendered PNG images, and an interactive in-chat viewer with pan, zoom, layer toggles, and fullscreen. Point it at a drawing URL or paste DXF text to read title blocks and dimension values, check layer structure, and visually inspect floor plans, die-cut layouts, and mechanical parts without leaving the conversation.",
+  "summary_ja": "DXF図面のレイヤーや寸法・文字を確認し、画像や対話型ビューアーで閲覧する。",
+  "usage_tags": [
+    "CAD",
+    "DXF",
+    "図面閲覧",
+    "建築"
+  ],
+  "limitations": [
+    "寸法や図面解析の精度・実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
