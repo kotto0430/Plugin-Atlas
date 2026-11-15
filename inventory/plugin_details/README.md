@@ -341,6 +341,17 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 - [DropTrack](droptrack_2026-11-16.json) — 楽曲を分析し、提出先の発見や販促を支援。
 - [Thumbnail Maker（Syed Fasih Haider Raza Rizvi）](thumbnail_maker_fasih_2026-11-16.json) — サムネイルの企画・改善を支援。広告リンクの表示条件は未確認。
 
+- [PostNitro](postnitro_2026-11-16.json) — SNSのカルーセルや画像を作り、投稿を予約。
+- [Embroidery File Converter](embroidery_file_converter_2026-11-16.json) — 画像の刺繍データ化や刺繍ファイル形式の変換。
+- [Widemile](widemile_2026-11-16.json) — 映像などの企画・絵コンテ・素材生成を支援。
+- [Treza](treza_2026-11-16.json) — 動画の生成・編集と確認後のSNS投稿を支援。
+- [Artlist](artlist_2026-11-16.json) — 画像・動画・音声の生成や楽曲検索。
+- [Laotan AI Copywriting](laotan_ai_copywriting_2026-11-16.json) — 複数の文案作成エージェントを切り替えて文章を編集。
+- [NewsTune Studio](newstune_studio_2026-11-16.json) — ポッドキャストを制作し公開ページやRSSを管理。
+- [Ullbek](ullbek_2026-11-16.json) — 会話でウェブサイトを作成・修正し公開。
+- [Pitch](pitch_2026-11-16.json) — プレゼン資料の作成・検索・共有。
+- [Web Design（Syed Fasih Haider Raza Rizvi）](web_design_fasih_2026-11-16.json) — ウェブデザインやHTML/CSSモックアップを支援。広告リンクの表示条件は未確認。
+
 ## 一覧本体との照合
 
 [名称照合の記録](catalog_name_audit_2026-11-14.json) — 詳細35件と作業ブランチの一覧3,941件を比較。34件は名前が一致、Palimpsestは一致なし。名前の一致は同一性の確定ではない。個々のJSONにある旧「照合未確認」の記載は調査時点の記録で、最新の照合結果はこの記録を参照。
