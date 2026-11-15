@@ -1,0 +1,22 @@
+{
+  "official_app_name": "Goldie",
+  "provider": "Be A Wolf Biz",
+  "version": "1.0.2",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a5d317091e08191b1b237ad9b0e5c2b?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Goldie is a design strategist for print-on-demand sellers. Analyze a bestseller to see why it sells, turn those ingredients into fresh original concepts, expand one design into a full product line, generate market-ready phrases for your niche, surface emerging trends, and map crossover niches for your shop. Goldie can also check whether a design file is print-ready. It is built to help you create original, commercially-minded designs faster.",
+  "summary_ja": "オンデマンド印刷向けに商品デザインの企画・市場調査・印刷用データの確認を支援する。",
+  "usage_tags": [
+    "オンデマンド印刷",
+    "商品企画",
+    "デザイン",
+    "市場調査"
+  ],
+  "limitations": [
+    "市場動向や印刷適性の判断精度・実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
