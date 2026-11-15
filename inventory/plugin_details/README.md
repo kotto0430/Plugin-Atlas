@@ -294,6 +294,9 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 - [AI Fashion Designer（F Word）](ai_fashion_designer_f_word_2026-11-15.json) — 衣服のデザインや作品集の制作を支援。
 - [PrintTiler](printtiler_2026-11-15.json) — 一枚の画像を複数枚に分割印刷するレイアウトを作る。
 
+- [PosterMyWall](postermywall_2026-11-15.json) — テンプレートを探し、PosterMyWall上で編集する。
+- [Dazzly](dazzly_2026-11-15.json) — ウェブサイト制作や商品販売を支援。ChatGPT連携からの操作範囲は未確認。
+
 ## 一覧本体との照合
 
 [名称照合の記録](catalog_name_audit_2026-11-14.json) — 詳細35件と作業ブランチの一覧3,941件を比較。34件は名前が一致、Palimpsestは一致なし。名前の一致は同一性の確定ではない。個々のJSONにある旧「照合未確認」の記載は調査時点の記録で、最新の照合結果はこの記録を参照。
