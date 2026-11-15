@@ -1,0 +1,21 @@
+{
+  "official_app_name": "Kopi - Shopify Email Creator",
+  "provider": "Kopi AI",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_694a08558d688191b976152fe32311a9?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Kopi creates on-brand marketing emails for e-commerce brands.\n\nKopi generates responsive HTML suitable for Klaviyo, Mailchimp, and other email platforms that accept HTML, optimized for Shopify brands.\n\nProvide a brand URL (optional) and a campaign goal (e.g., “15% off”, “new product launch”, “gift guide”) to create an email for your brand.\n\nUse Kopi for promotions, product launches, seasonal campaigns, and announcements. Modify emails by requesting changes (tone, sections, offers, product focus), then export the version you want.",
+  "summary_ja": "EC向けの販促メールを作成・修正し、HTMLとして出力する。",
+  "usage_tags": [
+    "メールマーケティング",
+    "EC",
+    "Shopify"
+  ],
+  "limitations": [
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
