@@ -235,6 +235,10 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 - [UX Pilot](ux_pilot_2026-11-15.json) — 言葉からワイヤーフレームや複数画面のUIを作る。
 - [Font Pairing: Design & Brands](font_pairing_design_brands_2026-11-15.json) — 用途や雰囲気に応じて見出し・アクセント・本文の書体を提案する。
 
+- [Glinded for Birthday Videos](glinded_birthday_videos_2026-11-15.json) — 写真や動画と音楽を使って記念動画を作る。
+- [VoiceLabs](voicelabs_2026-11-15.json) — 音声合成や文字起こしを扱う。声の複製は対象外と説明。
+- [Grapes Studio](grapes_studio_2026-11-15.json) — ウェブサイトやメールのページ、レイアウト、文章を作成・編集する。
+
 ## 一覧本体との照合
 
 [名称照合の記録](catalog_name_audit_2026-11-14.json) — 詳細35件と作業ブランチの一覧3,941件を比較。34件は名前が一致、Palimpsestは一致なし。名前の一致は同一性の確定ではない。個々のJSONにある旧「照合未確認」の記載は調査時点の記録で、最新の照合結果はこの記録を参照。
