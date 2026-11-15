@@ -1,0 +1,21 @@
+{
+  "official_app_name": "Morphed",
+  "provider": "ZTABS",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a78e5ad35508191b3ec2b72eac80aff?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Morphed helps users plan and create AI images and videos, estimate credit costs, organize work in projects, and review generation results from their workspace.",
+  "summary_ja": "AI画像・動画の制作、必要クレジットの見積もり、プロジェクトの整理や生成結果の確認を行う。",
+  "usage_tags": [
+    "画像制作",
+    "動画制作",
+    "プロジェクト管理"
+  ],
+  "limitations": [
+    "クレジットの価格・料金条件と実動作は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
