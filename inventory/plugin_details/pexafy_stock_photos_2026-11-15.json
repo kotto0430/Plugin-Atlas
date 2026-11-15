@@ -1,0 +1,27 @@
+{
+  "official_app_name": "Pexafy Stock Photos",
+  "provider": "Pexafy",
+  "version": "1.1.1",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a837089eb1c8191b29a0d126a54f770?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Use it whenever the user asks to see, find, get or use photos, pictures or images of real people, places or things, for any purpose: blog, website, product page, slides, flyer, ad, post, wallpaper. Say what you need in your own words, in any language: a simple subject like “a white mug on a wooden table”, or a full scene with mood and light like “two colleagues laughing in a bright open-plan office”.\nIt also covers content that should carry photos, such as “write a blog post with pictures” or “make a deck with images”, and questions about where to find free photos. Use it to illustrate an article, add a header or hero image to a landing page, put photos in slides, a report or a school project, or find a picture for a social post, a thumbnail, a cover, a poster or a banner, in landscape, portrait or square.\nSearch by image: share a picture or paste an image link, for example a paid stock photo you like, and get free photos that look like it. You can also ask for more photos like one you already found, or adjust it in words, such as “like this one, but at night”. The reference image is used only to run the search and is not stored.\nResults appear in a visual grid. Tap the heart on the photos you want and drag them into your preferred order, then refer to your selection in the conversation, such as “put my selection in the document” or “write the article around the photos I picked”. Any photo can be added to the conversation as an image file, up to 1280 pixels wide, to place in a document, a slide or a post.\nEvery photo comes with its photographer, source, license and a ready-to-paste credit line. Licenses differ between sources, so the one that applies is shown with each photo.\nUseful for bloggers, marketers, students, teachers, designers, developers and small businesses.\nPexafy only finds existing photographs. It does not generate, edit or upscale images, and does not find illustrations, drawings, icons, logos, diagrams, screenshots or photos of named people.",
+  "app_description": "Pexafy searches photographs the way you would describe them to a person. Ask for \"someone working alone late at night in a quiet apartment, lit only by a warm desk lamp\" and you get photographs that match the scene — not photographs tagged with those words. Search runs across nine free-license sources at once (Unsplash, Pexels, Pixabay, Kaboompics, Burst, StockSnap, Picjumbo, Skitterphoto, NegativeSpace) instead of one provider at a time. Three tools, all read-only: search_photos — describe a scene in a sentence, optionally filtered by colour, orientation, source, licence, photographer or date. search_photos_by_image — give a reference image and get visually similar photographs, optionally adjusted in words: \"like this, but at night\". get_similar_photos — more photographs like one already found, which is how you keep a set visually consistent across an article or a deck. Every result carries the credit line to display, the image at several sizes, and its dimensions, dominant colour, orientation, source and licence. Results are numbered, so you refer to a photograph the way you would in conversation — \"more like the third one\" — rather than copying identifiers around. In clients that render MCP Apps, results appear as a thumbnail grid inside the conversation, and clicking one opens its full metadata without another call. The connector is hosted, so there is nothing to install and no API key to paste into a configuration file: you sign in to Pexafy once in a browser and the connector receives its own credential, separate from your password and revocable on its own. It is granted read access only and never asks for more. A free Pexafy account covers 5,000 searches a month, with no card required.",
+  "feature_statement": "Use it without an account on a daily allowance, or connect your Pexafy account",
+  "summary_ja": "言葉や参考画像から無料ライセンスの写真を探し、出典や利用条件を確認する。",
+  "usage_tags": [
+    "写真素材",
+    "画像検索",
+    "資料制作",
+    "SNS"
+  ],
+  "limitations": [
+    "検索対象は既存写真で、画像生成・編集・拡大やイラスト等の検索は対象外と説明。",
+    "機能欄はアカウントなしの日次利用枠にも言及する一方、アプリ欄はブラウザーでのサインインを説明。認証条件や利用枠の実際は未確認。",
+    "参考画像の保存有無や写真ごとのライセンス・実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証",
+    "説明だけでは不明"
+  ]
+}
