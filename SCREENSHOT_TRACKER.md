@@ -723,3 +723,10 @@ Web Designのメイン説明はアフィリエイトリンクを含む場合が�
 [Carat](inventory/plugin_details/carat_2026-11-16.json)、[MotionDesign](inventory/plugin_details/motiondesign_2026-11-16.json)、[WonderWorks](inventory/plugin_details/wonderworks_2026-11-16.json)、[Taste（ALEXANDER ETHAN KEHR）](inventory/plugin_details/taste_alexander_kehr_2026-11-16.json)、[Art Designer（Syed Fasih Haider Raza Rizvi）](inventory/plugin_details/art_designer_fasih_2026-11-16.json)、[Yaps Video Captions](inventory/plugin_details/yaps_video_captions_2026-11-16.json)、[AdsTurbo](inventory/plugin_details/adsturbo_2026-11-16.json)、[Quickads](inventory/plugin_details/quickads_2026-11-16.json)、[Text to Speech（Syed Fasih Haider Raza Rizvi）](inventory/plugin_details/text_to_speech_fasih_2026-11-16.json)の正式名・提供元・版・英文説明・日本語要約・用途・確認状況を記録。CaratとAdsTurboは「続きを読む」を展開して全文を保存。Tasteは既存の同名プラグインと提供元・ページが異なるため別記録。既存のPictureBooksは再処理せず。URLはブラウザーのアクセシビリティ情報で確認。実動作・料金・一覧本体との照合は未検証。前回記録の268ファイルから9件増の累計277ファイルで、一覧本体の件数とは別。
 
 Text to Speechのメイン説明はアフィリエイトリンクを含む場合があるとする一方、確認したスキル概要は毎回のフッター表示を指定。両原文を保存し、実際の表示条件と直接音声生成の範囲を未確認として9件で区切った。次回はクリエイティブ一覧のText to Speechの次の行にあるCartoon Yourselfから詳細索引と照合して再開。作業ブランチのみ更新、main・本番未変更。
+
+
+### 詳細調査（2026-11-16、クリエイティブ1件・表示条件保留）
+
+[Cartoon Yourself（Syed Fasih Haider Raza Rizvi）](inventory/plugin_details/cartoon_yourself_fasih_2026-11-16.json)の正式名・提供元・版・英文説明・日本語要約・用途・確認状況を記録。URLはブラウザーのアクセシビリティ情報で確認。実動作・料金・一覧本体との照合は未検証。前回記録の277ファイルから1件増の累計278ファイルで、一覧本体の件数とは別。
+
+メイン説明はアフィリエイトリンクを含む場合があるとする一方、確認したスキル概要は毎回のフッター表示を指定。両原文を保存し、実際の表示条件と写真を直接変換する範囲を未確認として1件で区切った。次回はクリエイティブ一覧のCartoon Yourself隣のIncarnから詳細索引と照合して再開。作業ブランチのみ更新、main・本番未変更。
