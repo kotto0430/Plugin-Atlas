@@ -375,6 +375,10 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 - [GIF Creator（The Doers Firm）](gif_creator_doers_2026-11-16.json) — アイデアや画像からGIFアニメーションを制作。
 - [Lawh.ai](lawh_ai_2026-11-16.json) — 編集可能なレイヤー付きデザインを作成しPhotoshop形式で書き出す。
 
+- [Nonica](nonica_2026-11-16.json) — Revit用のローカルMCP連携の導入・接続・機能を案内。
+- [Yaps Background Remover](yaps_background_remover_2026-11-16.json) — 画像の背景をローカルで除去してPNGに保存。
+- [Voiceover Lab（Syed Fasih Haider Raza Rizvi）](voiceover_lab_fasih_2026-11-16.json) — ナレーション原稿や話し方を準備。広告リンクの表示条件は未確認。
+
 ## 一覧本体との照合
 
 [名称照合の記録](catalog_name_audit_2026-11-14.json) — 詳細35件と作業ブランチの一覧3,941件を比較。34件は名前が一致、Palimpsestは一致なし。名前の一致は同一性の確定ではない。個々のJSONにある旧「照合未確認」の記載は調査時点の記録で、最新の照合結果はこの記録を参照。
