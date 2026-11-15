@@ -265,6 +265,9 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 - [Vocuno](vocuno_2026-11-15.json) — 楽曲生成、音声編集やパート分離。
 - [UI UX Designer（Syed Fasih Haider Raza Rizvi）](ui_ux_designer_fasih_2026-11-15.json) — UI・UX設計を支援。広告リンクの表示条件は未確認。
 
+- [Pixelixe](pixelixe_2026-11-15.json) — 連携したアカウントで販促画像を作成し、既存のデザインから別案を作る。
+- [AI Photo Editor（Syed Fasih Haider Raza Rizvi）](ai_photo_editor_fasih_2026-11-15.json) — 写真編集を支援。直接編集の範囲と広告リンクの表示条件は未確認。
+
 ## 一覧本体との照合
 
 [名称照合の記録](catalog_name_audit_2026-11-14.json) — 詳細35件と作業ブランチの一覧3,941件を比較。34件は名前が一致、Palimpsestは一致なし。名前の一致は同一性の確定ではない。個々のJSONにある旧「照合未確認」の記載は調査時点の記録で、最新の照合結果はこの記録を参照。
