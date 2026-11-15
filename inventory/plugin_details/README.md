@@ -239,6 +239,16 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 - [VoiceLabs](voicelabs_2026-11-15.json) — 音声合成や文字起こしを扱う。声の複製は対象外と説明。
 - [Grapes Studio](grapes_studio_2026-11-15.json) — ウェブサイトやメールのページ、レイアウト、文章を作成・編集する。
 
+- [Impeccable](impeccable_2026-11-15.json) — コーディングエージェントとUIの制作・評価・改善。
+- [Montage](montage_2026-11-15.json) — 動画を取り込み、指定箇所の切り抜きと編集。
+- [Havi: Slides & PPT Maker](havi_slides_ppt_maker_2026-11-15.json) — スライドの作成・編集とPPT・PDF出力。既存ファイルは開けないと説明。
+- [Motionvid](motionvid_2026-11-15.json) — 台本から音楽やナレーション付きの動画を制作。有料プランの記載あり。
+- [Interior Company](interior_company_2026-11-15.json) — 内装の情報、費用概算、デザイン相談。
+- [Supericons](supericons_2026-11-15.json) — SVGアイコンの検索とプレビュー。
+- [kernelCAD](kernelcad_2026-11-15.json) — パラメトリックCADの作成、確認と書き出し。
+- [123 Piano](123_piano_2026-11-15.json) — 鍵盤を演奏し、AIと演奏について話す。
+- [AI Image Generator（Syed Fasih Haider Raza Rizvi）](ai_image_generator_fasih_2026-11-15.json) — 画像制作・プロンプト作成。直接生成の範囲と広告リンクの表示条件は未確認。
+
 ## 一覧本体との照合
 
 [名称照合の記録](catalog_name_audit_2026-11-14.json) — 詳細35件と作業ブランチの一覧3,941件を比較。34件は名前が一致、Palimpsestは一致なし。名前の一致は同一性の確定ではない。個々のJSONにある旧「照合未確認」の記載は調査時点の記録で、最新の照合結果はこの記録を参照。
