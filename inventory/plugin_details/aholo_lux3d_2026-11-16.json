@@ -1,0 +1,27 @@
+{
+  "official_app_name": "Aholo Lux3D",
+  "provider": "Manycore Lux3D Team",
+  "version": "0.1.1",
+  "source_url": "https://chatgpt.com/plugins/plugins_6aa22df1f880819196b0a9ff6f820802?category=creativity",
+  "observed_at": "2026-11-16",
+  "original_description": "Plan resumable Lux3D tasks, preserve verified originals and task history, and deliver one offline preview with optional externally assembled scenes.",
+  "observed_skill_excerpt": {
+    "name": "Aholo Lux3D",
+    "text": "Create verified 3D assets and offline previews",
+    "note": "表示されたスキル概要。"
+  },
+  "summary_ja": "3D素材の制作タスクや履歴を管理し、オフラインで見られるプレビューを用意する。",
+  "usage_tags": [
+    "3D素材",
+    "3D制作",
+    "プレビュー"
+  ],
+  "limitations": [
+    "対応形式や検証方法の詳細は説明だけでは不明。実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証",
+    "説明だけでは不明"
+  ]
+}
