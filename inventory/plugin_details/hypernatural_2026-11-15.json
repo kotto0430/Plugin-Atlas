@@ -1,0 +1,23 @@
+{
+  "official_app_name": "Hypernatural",
+  "provider": "Hypernatural AI",
+  "version": "1.1.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a723768ae0c81918d33f061486de9c6?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Bring your ideas to life as compelling videos, without breaking your flow. Hypernatural turns the conversations you’re already having in ChatGPT into shareable stories and ads, making it simple to bring in your creative vision and brand, so every video feels uniquely yours.",
+  "summary_ja": "ChatGPTでの会話を基に、共有用の物語や広告の動画を作る。",
+  "usage_tags": [
+    "動画制作",
+    "ストーリー",
+    "広告"
+  ],
+  "limitations": [
+    "具体的な編集機能、動画の長さ、料金は説明だけでは不明。",
+    "機能・品質・一覧本体との名称照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証",
+    "説明だけでは不明"
+  ]
+}
