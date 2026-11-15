@@ -1,0 +1,24 @@
+{
+  "official_app_name": "Loomly",
+  "provider": "Bending Spoons S.p.A.",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a999a858d3c8191abf6a6de76d6803e?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Plan, organize, and manage social media content in Loomly. Use ChatGPT to review calendars, posts, post ideas, and library content, and to create draft posts and post ideas in your Loomly account.",
+  "summary_ja": "Loomlyの投稿予定や素材を確認し、SNS投稿の下書きやアイデアを作る。",
+  "usage_tags": [
+    "SNS",
+    "投稿管理",
+    "文章作成",
+    "マーケティング"
+  ],
+  "limitations": [
+    "公式説明は下書きとアイデアの作成に言及。直接投稿や予約の可否は説明だけでは不明。",
+    "実動作・料金・一覧本体との名称照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証",
+    "説明だけでは不明"
+  ]
+}
