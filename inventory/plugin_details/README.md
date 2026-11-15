@@ -381,6 +381,17 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 
 - [Voice Cloning（Syed Fasih Haider Raza Rizvi）](voice_cloning_fasih_2026-11-16.json) — 本人または許可のある声のクローンについて録音・設定などを支援。広告リンクの表示条件は未確認。
 
+- [DesignSystem](designsystem_2026-11-16.json) — UIのデザインシステムを初期化・文書化。
+- [Framer](framer_2026-11-16.json) — Framerのサイトを作成・修正しCMSや公開を管理。
+- [Voicepanel](voicepanel_2026-11-16.json) — 実際の人から製品へのフィードバックを集める。調査手順は未確認。
+- [Aholo Lux3D](aholo_lux3d_2026-11-16.json) — 3D素材制作のタスクとオフラインプレビューを管理。
+- [Yaps Audio Cleaner](yaps_audio_cleaner_2026-11-16.json) — 録音のノイズをローカルで除去。
+- [AI Film Pipeline Master](ai_film_pipeline_master_2026-11-16.json) — 映像の企画から脚本・絵コンテ・プロンプトまで計画。
+- [Templated](templated_2026-11-16.json) — テンプレートから画像・PDF・動画を生成。
+- [Uwear](uwear_2026-11-16.json) — ファッション商品の画像や動画を制作。
+- [ShirtLab](shirtlab_2026-11-16.json) — 画像や文字を黒いシャツに配置してデザイン。
+- [Blog Generator（B12）](blog_generator_b12_2026-11-16.json) — B12上のブログサイトを生成。
+
 ## 一覧本体との照合
 
 [名称照合の記録](catalog_name_audit_2026-11-14.json) — 詳細35件と作業ブランチの一覧3,941件を比較。34件は名前が一致、Palimpsestは一致なし。名前の一致は同一性の確定ではない。個々のJSONにある旧「照合未確認」の記載は調査時点の記録で、最新の照合結果はこの記録を参照。
