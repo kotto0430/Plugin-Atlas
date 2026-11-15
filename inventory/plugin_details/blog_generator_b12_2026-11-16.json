@@ -1,0 +1,21 @@
+{
+  "official_app_name": "Blog Generator",
+  "provider": "B12",
+  "version": "1.0.2",
+  "source_url": "https://chatgpt.com/plugins/plugins_6a7f1d56f2408191a1bb4e422e629478?category=creativity",
+  "observed_at": "2026-11-16",
+  "original_description": "Tell the plugin about your blog audience and the topics you want to cover, and it will generate a ready to publish blog site on B12 — hosting, design, and layout handled. Built for service businesses and professionals who want to start publishing without setting up a website first.",
+  "summary_ja": "対象読者や話題を伝え、B12上で公開準備が整ったブログサイトを作る。",
+  "usage_tags": [
+    "ブログ",
+    "ウェブサイト制作",
+    "情報発信"
+  ],
+  "limitations": [
+    "実際の公開手順・料金・機能・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
