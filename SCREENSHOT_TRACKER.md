@@ -583,3 +583,10 @@ Image to Videoのメイン説明はアフィリエイトリンクを含む場合
 前回のタイムアウト後、Chrome画面が再取得できることを確認し、[UX Pilot](inventory/plugin_details/ux_pilot_2026-11-15.json)と[Font Pairing: Design & Brands](inventory/plugin_details/font_pairing_design_brands_2026-11-15.json)を記録。UX Pilotは自然言語からワイヤーフレーム・UIを作り、単一画面はすぐ生成、複数画面は画面選択を確認して生成すると説明。Font Pairingは見出し・アクセント・本文の3書体を提案し、日本語フォント対応やライセンスは説明だけでは不明。正式名・提供元・版・英文原文・要約・用途・確認状況を保存。実動作・料金・一覧本体との名称照合は未検証。詳細記録は累計170ファイルで一覧本体とは別。
 
 次のGlinded for Birthday Videosを開こうとした際、画面操作ツールが `unknown screenshotId screenshot-0` を返した。操作結果は未確認で、指示に従い2件で中断。次回はChromeの状態を再確認し、Glinded for Birthday Videos・VoiceLabs付近を索引と照合して再開。作業ブランチのみ更新、main・本番未変更。
+
+
+### 詳細調査（2026-11-15、動画・音声・サイト制作3件、操作エラーで中断）
+
+[Glinded for Birthday Videos](inventory/plugin_details/glinded_birthday_videos_2026-11-15.json)、[VoiceLabs](inventory/plugin_details/voicelabs_2026-11-15.json)、[Grapes Studio](inventory/plugin_details/grapes_studio_2026-11-15.json)の正式名、提供元、版、英文説明、日本語要約、用途、確認状況を記録。実動作・料金・一覧本体との照合は未検証。詳細記録は累計173ファイルで、一覧本体の件数とは別。
+
+クリエイティブ一覧に戻った後、次の候補へのスクロール時に操作ツールが `scroll.scrollX must be a finite number` を返したため、指定に従い3件で中断。次回はスクロール操作の引数を確認し、Grapes Studio付近の Impeccable などを詳細索引と照合して再開する。作業ブランチのみ更新、main・本番未変更。
