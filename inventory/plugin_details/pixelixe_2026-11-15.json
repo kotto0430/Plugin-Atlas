@@ -1,0 +1,22 @@
+{
+  "official_app_name": "Pixelixe",
+  "provider": "Pixelixe",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_69de42bea5608191a000f5b296b53668?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Connect your Pixelixe account to find saved documents, inspect a design, create a new graphic from scratch, or generate a new variant from an existing document. Pixelixe is useful for social posts, promos, event graphics, and other reusable marketing visuals. New outputs are saved to your Pixelixe workspace so you can open them in Studio and keep editing.",
+  "summary_ja": "連携したPixelixeで販促画像を作成し、既存のデザインから別案を作る。",
+  "usage_tags": [
+    "画像デザイン",
+    "販促",
+    "SNS"
+  ],
+  "limitations": [
+    "Pixelixeアカウントの連携が必要と説明。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
