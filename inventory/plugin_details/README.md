@@ -321,6 +321,12 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 - [Atlas Cloud](atlas_cloud_2026-11-15.json) — 複数のAIモデルを使って画像・動画・音声などを生成。
 - [Graphic Design Studio（Syed Fasih Haider Raza Rizvi）](graphic_design_studio_fasih_2026-11-15.json) — 印刷物やSNSのデザインを支援。広告リンクの表示条件は未確認。
 
+- [Malloy Studio](malloy_studio_2026-11-15.json) — 動画用の動くタイトルや図表を作る。
+- [Tripo 3D](tripo_3d_2026-11-15.json) — 文章や画像から3Dモデルを制作・編集。
+- [Taste（Saul Martí）](taste_saul_marti_2026-11-15.json) — フロントエンド画面のデザインと実装を支援。
+- [Tolstoy](tolstoy_2026-11-15.json) — EC向け商品写真・動画・広告を制作。
+- [Cardboard](cardboard_2026-11-15.json) — 動画を会話で編集。書き出し解像度の条件は未確認。
+
 ## 一覧本体との照合
 
 [名称照合の記録](catalog_name_audit_2026-11-14.json) — 詳細35件と作業ブランチの一覧3,941件を比較。34件は名前が一致、Palimpsestは一致なし。名前の一致は同一性の確定ではない。個々のJSONにある旧「照合未確認」の記載は調査時点の記録で、最新の照合結果はこの記録を参照。
