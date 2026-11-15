@@ -730,3 +730,10 @@ Text to Speechのメイン説明はアフィリエイトリンクを含む場合
 [Cartoon Yourself（Syed Fasih Haider Raza Rizvi）](inventory/plugin_details/cartoon_yourself_fasih_2026-11-16.json)の正式名・提供元・版・英文説明・日本語要約・用途・確認状況を記録。URLはブラウザーのアクセシビリティ情報で確認。実動作・料金・一覧本体との照合は未検証。前回記録の277ファイルから1件増の累計278ファイルで、一覧本体の件数とは別。
 
 メイン説明はアフィリエイトリンクを含む場合があるとする一方、確認したスキル概要は毎回のフッター表示を指定。両原文を保存し、実際の表示条件と写真を直接変換する範囲を未確認として1件で区切った。次回はクリエイティブ一覧のCartoon Yourself隣のIncarnから詳細索引と照合して再開。作業ブランチのみ更新、main・本番未変更。
+
+
+### 詳細調査（2026-11-16、クリエイティブ10件）
+
+[Incarn](inventory/plugin_details/incarn_2026-11-16.json)、[Room Renovation Visualizer](inventory/plugin_details/room_renovation_visualizer_2026-11-16.json)、[GifGen - Sticker Maker](inventory/plugin_details/gifgen_sticker_maker_2026-11-16.json)、[Logos & app icons](inventory/plugin_details/logos_and_app_icons_2026-11-16.json)、[AppLaunchFlow](inventory/plugin_details/applaunchflow_2026-11-16.json)、[Astria](inventory/plugin_details/astria_2026-11-16.json)、[StitchDesign](inventory/plugin_details/stitchdesign_2026-11-16.json)、[Kapwing](inventory/plugin_details/kapwing_2026-11-16.json)、[GIF Creator（The Doers Firm）](inventory/plugin_details/gif_creator_doers_2026-11-16.json)、[Lawh.ai](inventory/plugin_details/lawh_ai_2026-11-16.json)の正式名・提供元・版・英文説明・日本語要約・用途・確認状況を記録。Astriaは短いメイン説明に加えてスキル概要の抜粋を保存。既存のAI Video and Image by AIRPとConversational Narrativeは再処理せず、GifGen - Sticker MakerとGIF Creatorは既存の類似名と別ページとして区別した。URLはブラウザーのアクセシビリティ情報で確認。実動作・料金・一覧本体との照合は未検証。前回記録の278ファイルから10件増の累計288ファイルで、一覧本体の件数とは別。
+
+次回はクリエイティブ一覧のLawh.ai隣のNonicaから詳細索引と照合して再開。作業ブランチのみ更新、main・本番未変更。
