@@ -307,6 +307,10 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 - [PoolVisionIA](poolvisionia_2026-11-15.json) — 庭の写真にプールを設置したイメージを作る。説明はフランス語。
 - [Magic Hour AI](magic_hour_ai_2026-11-15.json) — 画像・動画・音声を生成・編集。
 
+- [Sequel.io](sequel_io_2026-11-15.json) — ウェビナーの文字起こしからブログやSNS向け文章を作る。
+- [Butter](butter_2026-11-15.json) — 広告動画を作り、ブラウザーで編集する。
+- [Logo Designer（Syed Fasih Haider Raza Rizvi）](logo_designer_fasih_2026-11-15.json) — ロゴやブランド素材の制作を支援。広告リンクの表示条件は未確認。
+
 ## 一覧本体との照合
 
 [名称照合の記録](catalog_name_audit_2026-11-14.json) — 詳細35件と作業ブランチの一覧3,941件を比較。34件は名前が一致、Palimpsestは一致なし。名前の一致は同一性の確定ではない。個々のJSONにある旧「照合未確認」の記載は調査時点の記録で、最新の照合結果はこの記録を参照。
