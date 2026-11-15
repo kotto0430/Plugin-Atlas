@@ -1,0 +1,21 @@
+{
+  "official_app_name": "Taste",
+  "provider": "ALEXANDER ETHAN KEHR",
+  "version": "0.2.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6aa199e8775c819193fc3a315f8a4ef2?category=creativity",
+  "observed_at": "2026-11-16",
+  "original_description": "Find and browse designs you have saved in Taste. Search your references and collections, view designs in a visual gallery, and use your taste profile to guide design work. Connect your Taste account to access your library.",
+  "summary_ja": "Tasteに保存したデザインやコレクションを検索し、好みの情報をデザイン作業の参考にする。",
+  "usage_tags": [
+    "デザイン参考",
+    "UIデザイン",
+    "コレクション"
+  ],
+  "limitations": [
+    "Tasteアカウントの接続が必要と表示。同名のSaul Martí提供のTasteとは別の提供元・ページ。実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
