@@ -1,0 +1,21 @@
+{
+  "official_app_name": "ShirtLab",
+  "provider": "GARRETT WILLIAM STIMPSON",
+  "version": "1.0.1",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6aafe43bd2dc819184550ac7af8a056b?category=creativity",
+  "observed_at": "2026-11-16",
+  "original_description": "Create typography previews or place selected PNG, JPEG and WebP artwork, including images generated in ChatGPT, on a black shirt. A clickable result card opens editable layers in the completely free ShirtLab studio. Move and resize artwork, export an editable .shirtlab project, or download the current print area as a transparent PNG. Export downloads happen in the studio. The MCP imports existing files; native ChatGPT image generation and file availability depend on the host and may require a separate message. No ShirtLab account or AI credits are needed. Image snapshots are accessible to anyone holding their link and expire after 24 hours. Buying a physical printed shirt is optional through website checkout.",
+  "summary_ja": "画像や文字を黒いシャツに配置し、編集可能なデザインや印刷用PNGを作る。",
+  "usage_tags": [
+    "Tシャツ",
+    "グッズ制作",
+    "デザイン"
+  ],
+  "limitations": [
+    "画像スナップショットはリンクを知る人が閲覧でき24時間で期限切れとの説明。画像生成はホスト側の機能に依存し、出力はShirtLab studioで行う。実動作・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
