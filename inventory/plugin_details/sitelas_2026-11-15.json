@@ -1,0 +1,22 @@
+{
+  "official_app_name": "Sitelas",
+  "provider": "Code Axiom LLC",
+  "version": "4.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a7a0b3d955881919a5e50754eff56fb?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Sitelas is a website builder. Describe the site you want — a portfolio, a landing page, a site for your business or project — and Sitelas designs it, writes the words, finds the images and hosts it, all from the conversation.\n\nEvery site starts from a designer-made template and is customized for you. It lands on a private preview link first. Your real web address stays empty until you say publish.\n\nOnce the site is live, Sitelas helps you run it: change pages and photos, read the messages your contact form collects and draft replies, see which pages people visit, and connect your own domain.\n\nSites are hosted on a sitelas.com address. A visual editor in the browser is there whenever you would rather change something by hand.\n\nSitelas works only with sites hosted on Sitelas. It does not edit sites hosted elsewhere, export code to host yourself, or take payments.",
+  "summary_ja": "サイトの作成・非公開プレビュー・公開後の編集や問い合わせ確認を支援する。",
+  "usage_tags": [
+    "ウェブサイト制作",
+    "サイト管理",
+    "問い合わせ"
+  ],
+  "limitations": [
+    "Sitelas上のサイトのみ対象で、他社ホストサイトの編集・コード出力・決済は対象外と説明。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
