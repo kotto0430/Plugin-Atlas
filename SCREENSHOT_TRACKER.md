@@ -576,3 +576,10 @@ Image to Videoのメイン説明はアフィリエイトリンクを含む場合
 [Pixlie](inventory/plugin_details/pixlie_2026-11-15.json)の正式名・提供元・版・英文原文・日本語要約・用途・確認状況を保存。動画生成用プロンプトや3〜5ショットの絵コンテ案を作り、ChatGPT内で動画をレンダリングせず、生成時は外部サイトを開くと説明。実動作・料金・一覧本体との名称照合は未検証。詳細記録は累計168ファイルで一覧本体の件数とは別。
 
 一覧へ戻り、次の候補に向けたスクロール後の画面取得で `FrameArrived timed out: timed out waiting on channel` が発生。指示に従い今回の調査を1件で中断。次回はChromeの状態を確認し、クリエイティブ一覧のPixlieの次にあるUX Pilot、Font Pairing: Design & Brandsなどを詳細索引と照合して再開する。作業ブランチのみ更新、main・本番未変更。
+
+
+### 詳細調査（2026-11-15、UI・書体2件・操作エラーで中断）
+
+前回のタイムアウト後、Chrome画面が再取得できることを確認し、[UX Pilot](inventory/plugin_details/ux_pilot_2026-11-15.json)と[Font Pairing: Design & Brands](inventory/plugin_details/font_pairing_design_brands_2026-11-15.json)を記録。UX Pilotは自然言語からワイヤーフレーム・UIを作り、単一画面はすぐ生成、複数画面は画面選択を確認して生成すると説明。Font Pairingは見出し・アクセント・本文の3書体を提案し、日本語フォント対応やライセンスは説明だけでは不明。正式名・提供元・版・英文原文・要約・用途・確認状況を保存。実動作・料金・一覧本体との名称照合は未検証。詳細記録は累計170ファイルで一覧本体とは別。
+
+次のGlinded for Birthday Videosを開こうとした際、画面操作ツールが `unknown screenshotId screenshot-0` を返した。操作結果は未確認で、指示に従い2件で中断。次回はChromeの状態を再確認し、Glinded for Birthday Videos・VoiceLabs付近を索引と照合して再開。作業ブランチのみ更新、main・本番未変更。
