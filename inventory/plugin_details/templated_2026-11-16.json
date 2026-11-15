@@ -1,0 +1,22 @@
+{
+  "official_app_name": "Templated",
+  "provider": "Templated",
+  "version": "2.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_697a947e772c8191b888e4e23376bcf2?category=creativity",
+  "observed_at": "2026-11-16",
+  "original_description": "Templated is an API for automated image, PDF and video generation from templates. Design a template once in the Templated editor, import it from Canva, or have ChatGPT build one from a short brief, then render on-brand images, PDFs and videos from it with new data.\nWith Templated in ChatGPT, you can work across your whole template workflow:\n• Create templates from a brief: describe a post, banner or certificate and ChatGPT designs a template with named layers, then renders it so you can check the result\n• Preview renders inline: finished images, PDFs and videos appear in the conversation as an interactive preview card with size, format and a download link\n• Render with your data: fill any template with new text, images, colors, QR codes and barcodes, and get PNG, JPG, WebP, PDF or MP4 files\n• Social media: Instagram posts, stories and carousels, LinkedIn posts, YouTube thumbnails and quote cards\n• Marketing creatives: banner ads, ad creatives, flyers, posters, email headers, product mockups and ecommerce product images\n• Link previews: Open Graph (OG) images for blog posts, docs and landing pages\n• Documents: certificates, invoices, receipts, menus, event tickets, badges and business cards\n• Multi-page PDFs: catalogs, reports and menus as a single PDF, with print-ready output (flattened PDF, CMYK)\n• Video: MP4 video ads and reels with animated text and images (entrance, loop and exit animations)\n• Resize one design to every format: multi-size templates keep a square post, a story and a banner in one template, and any of its sizes can be rendered\n• Batch personalized renders: one certificate, invoice or product card per name or row of a list, then merge the PDFs into a single file\n• Edit and organize: update, clone and resize templates, sort them into folders, and manage uploaded images and custom fonts\nRendering is deterministic template rendering, not AI image generation: the same template and data always produce the same result, ready for marketing, ecommerce, documents and automations. Templated does not generate pictures from a text prompt, edit existing photos or publish to social networks. Images used in a render must be available at a public URL, and each render counts toward your Templated account's usage.\nGetting started: connect Templated, sign in with your Templated account or create one during sign-in, and ask for your first design. Templates can also be fine-tuned in the Templated web editor and rendered from the chat.",
+  "summary_ja": "テンプレートに文字や画像などを差し込み、画像・PDF・動画を生成する。",
+  "usage_tags": [
+    "テンプレート",
+    "PDF",
+    "画像制作",
+    "動画制作"
+  ],
+  "limitations": [
+    "Templatedアカウントでの接続が必要との説明。実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
