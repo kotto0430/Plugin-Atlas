@@ -772,3 +772,10 @@ Voiceover Labのメイン説明にはアフィリエイトリンクの記載が�
 [Studio by Memes](inventory/plugin_details/studio_by_memes_2026-11-17.json)、[Meshy 3D](inventory/plugin_details/meshy_3d_2026-11-17.json)、[Klap](inventory/plugin_details/klap_2026-11-17.json)、[VOSU](inventory/plugin_details/vosu_2026-11-17.json)、[UIAudit](inventory/plugin_details/uiaudit_2026-11-17.json)、[MeiGen Gallery](inventory/plugin_details/meigen_gallery_2026-11-17.json)の正式名・提供元・版・英文説明・日本語要約・用途・確認状況を記録。KlapとMeiGen Galleryは「続きを読む」を展開して全文を保存。Meshyの端末を使う機能、各サービスのアカウント・クレジット要件を記録。詳細索引の名称を照合し、既記録の項目を再処理しなかった。実動作・料金・一覧本体との照合は未検証。前回記録の312ファイルから6件増の累計318ファイルで、一覧本体の件数とは別。
 
 MeiGen Galleryのメイン説明は一度に最大6件、アプリ概要は最大3件の参考候補と記載しており、実際の上限は未確認。双方の原文を保存して6件で区切った。クリエイティブ一覧の並びは前回から変わっており、次回はMeiGen Galleryの次の行に表示されたPlayDropから、詳細索引との重複を再確認して再開。作業ブランチのみ更新、main・本番未変更。
+
+
+### 詳細調査（2026-11-17、クリエイティブ10件・表示条件保留）
+
+[PlayDrop](inventory/plugin_details/playdrop_2026-11-17.json)、[EmpirioLabs AI](inventory/plugin_details/empiriolabs_ai_2026-11-17.json)、[Rendemo](inventory/plugin_details/rendemo_2026-11-17.json)、[Redesign（Saul Martí）](inventory/plugin_details/redesign_saul_marti_2026-11-17.json)、[ShapeUI](inventory/plugin_details/shapeui_2026-11-17.json)、[Studio Ghibli Anime Creator（The Doers Firm）](inventory/plugin_details/studio_ghibli_anime_creator_2026-11-17.json)、[Zim Studio](inventory/plugin_details/zim_studio_2026-11-17.json)、[Hansora AI](inventory/plugin_details/hansora_ai_2026-11-17.json)、[Writing Assistant（Matthew Lane）](inventory/plugin_details/writing_assistant_matthew_lane_2026-11-17.json)、[AI Headshot Generator（Syed Fasih Haider Raza Rizvi）](inventory/plugin_details/ai_headshot_generator_fasih_2026-11-17.json)の正式名・提供元・版・英文説明・日本語要約・用途・確認状況を記録。既存の詳細索引と名称を照合。PlayDropやZim Studioのアカウント要件、Studio Ghibli Anime Creatorの表示上の提供元を記録し、名称だけで関係を推定しなかった。実動作・料金・一覧本体との照合は未検証。前回記録の318ファイルから10件増の累計328ファイルで、一覧本体の件数とは別。
+
+AI Headshot Generatorのメイン説明はアフィリエイトリンクを含む場合があるとする一方、表示されたスキル概要は毎回のフッター表示を指定。両原文を保存し、実際の表示条件を未確認として10件で区切った。次回はクリエイティブ一覧のAI Headshot Generatorの次の行にあるProperty Videoから詳細索引と照合して再開。作業ブランチのみ更新、main・本番未変更。
