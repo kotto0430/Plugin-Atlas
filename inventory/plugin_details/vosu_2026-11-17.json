@@ -1,0 +1,22 @@
+{
+  "official_app_name": "VOSU",
+  "provider": "VosuAI",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6aa13b98d974819186351aeda445d4a7?category=creativity",
+  "observed_at": "2026-11-17",
+  "original_description": "VOSU generates images, videos and 3D models with leading AI models using the user's existing VOSU account and credits. Users describe what they want and pick a model, animate a photo they upload into a short video, turn an image into a 3D model, and browse, replay or download everything they have generated. Every prompt passes a content-safety check before anything is charged, and the credit balance can be checked before any spend.",
+  "summary_ja": "画像・動画・3Dモデルを生成し、写真から動画や3Dモデルも作成する。",
+  "usage_tags": [
+    "画像生成",
+    "動画生成",
+    "3Dモデル"
+  ],
+  "limitations": [
+    "VOSUアカウントとクレジットを使用すると説明。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
