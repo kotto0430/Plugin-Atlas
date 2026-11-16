@@ -1,0 +1,22 @@
+{
+  "official_app_name": "UIAudit",
+  "provider": "Saul Martí",
+  "version": "2.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugins_6aa2fc29833481918ede94537c1ed730?category=creativity",
+  "observed_at": "2026-11-17",
+  "original_description": "Uses the real vendored Impeccable workflow. Specialized for technical UI audits covering accessibility, responsive behavior, performance, and frontend-quality defects.",
+  "summary_ja": "画面のアクセシビリティや表示対応、性能など技術的な問題の点検を支援。",
+  "usage_tags": [
+    "UI",
+    "アクセシビリティ",
+    "品質点検",
+    "プログラミング"
+  ],
+  "limitations": [
+    "実動作・点検範囲・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
