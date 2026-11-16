@@ -403,6 +403,13 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 - [Swish Sports Court Builder](swish_sports_court_builder_2026-11-16.json) — スポーツコートを2D・3Dでデザイン。
 - [ImageToCode](image_to_code_2026-11-16.json) — 参考画像に沿ったフロントエンドの実装を支援。
 
+- [Studio by Memes](studio_by_memes_2026-11-17.json) — ブランド向け画像・動画の制作やSNS投稿の計画を支援。
+- [Meshy 3D](meshy_3d_2026-11-17.json) — 文章や画像から3Dモデルを作り、ゲーム制作や印刷向けの編集を支援。
+- [Klap](klap_2026-11-17.json) — 長い公開動画から字幕付きショート動画を作成し投稿を予約。
+- [VOSU](vosu_2026-11-17.json) — 画像・動画・3Dモデルを生成。
+- [UIAudit](uiaudit_2026-11-17.json) — UIのアクセシビリティや性能など技術的な問題を点検。
+- [MeiGen Gallery](meigen_gallery_2026-11-17.json) — 参考画像の検索、画像・動画の生成や編集。候補数の説明に相違あり。
+
 ## 一覧本体との照合
 
 [名称照合の記録](catalog_name_audit_2026-11-14.json) — 詳細35件と作業ブランチの一覧3,941件を比較。34件は名前が一致、Palimpsestは一致なし。名前の一致は同一性の確定ではない。個々のJSONにある旧「照合未確認」の記載は調査時点の記録で、最新の照合結果はこの記録を参照。
