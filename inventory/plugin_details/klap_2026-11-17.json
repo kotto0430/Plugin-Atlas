@@ -1,0 +1,23 @@
+{
+  "official_app_name": "Klap",
+  "provider": "Klap",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ab52532ab348191be78c537fe025ab3?category=creativity",
+  "observed_at": "2026-11-17",
+  "original_description": "Klap turns long videos into short vertical clips for TikTok, Instagram Reels and YouTube Shorts, right from ChatGPT.\nShare a YouTube, Twitch, Kick or Vimeo link, or any public video URL, and ask for shorts. Klap finds the most engaging moments, reframes them to 9:16 around the speaker, adds animated captions and ranks every clip by virality score. Clipping runs in the background: a live card shows its progress, then turns into a gallery of shorts you can play right in the conversation.\nFrom the gallery you can:\n• Watch each short with its captions\n• Download a short as an MP4\n• Schedule a short to your connected YouTube, TikTok, Instagram, LinkedIn or Facebook accounts, at the time you choose\n• Open a short in the Klap editor to fine-tune captions, layout and length\nYou can also guide the clipping (\"the funniest moments about pricing\", \"15-second clips\", \"5 clips at most\"), set the spoken language, and ask for your recent projects.\nUsing Klap in ChatGPT requires a Klap account. Exports and scheduling follow your Klap plan. Social accounts are connected on klap.app, and ChatGPT never receives their credentials. Klap only publishes a post after you confirm the short, the accounts, the time and the caption.",
+  "summary_ja": "長い公開動画から字幕付き縦型ショート動画を作り、SNS投稿を予約する。",
+  "usage_tags": [
+    "動画編集",
+    "ショート動画",
+    "SNS",
+    "字幕"
+  ],
+  "limitations": [
+    "Klapアカウントが必要。書き出しと予約は契約プランに従い、投稿前に内容などを確認すると説明。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
