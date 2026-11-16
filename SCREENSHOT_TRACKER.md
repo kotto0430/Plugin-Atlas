@@ -758,3 +758,10 @@ Voiceover Labのメイン説明にはアフィリエイトリンクの記載が�
 [DesignSystem](inventory/plugin_details/designsystem_2026-11-16.json)、[Framer](inventory/plugin_details/framer_2026-11-16.json)、[Voicepanel](inventory/plugin_details/voicepanel_2026-11-16.json)、[Aholo Lux3D](inventory/plugin_details/aholo_lux3d_2026-11-16.json)、[Yaps Audio Cleaner](inventory/plugin_details/yaps_audio_cleaner_2026-11-16.json)、[AI Film Pipeline Master](inventory/plugin_details/ai_film_pipeline_master_2026-11-16.json)、[Templated](inventory/plugin_details/templated_2026-11-16.json)、[Uwear](inventory/plugin_details/uwear_2026-11-16.json)、[ShirtLab](inventory/plugin_details/shirtlab_2026-11-16.json)、[Blog Generator（B12）](inventory/plugin_details/blog_generator_b12_2026-11-16.json)の正式名・提供元・版・英文説明・日本語要約・用途・確認状況を記録。Templatedは「続きを読む」を展開して全文を保存。ShirtLabは画像リンクの閲覧範囲と期限を記録。既存のDramaticaは再処理せず。URLはブラウザーのアクセシビリティ情報で確認。実動作・料金・一覧本体との照合は未検証。前回記録の292ファイルから10件増の累計302ファイルで、一覧本体の件数とは別。
 
 次回はクリエイティブ一覧のBlog Generatorの次の行にあるMusamimukから詳細索引と照合して再開。作業ブランチのみ更新、main・本番未変更。
+
+
+### 詳細調査（2026-11-16、クリエイティブ10件）
+
+[Musamimuk](inventory/plugin_details/musamimuk_2026-11-16.json)、[Diagram Builder（B12）](inventory/plugin_details/diagram_builder_b12_2026-11-16.json)、[Pedra](inventory/plugin_details/pedra_2026-11-16.json)、[BrandKit](inventory/plugin_details/brandkit_2026-11-16.json)、[Yaps Video Clipping](inventory/plugin_details/yaps_video_clipping_2026-11-16.json)、[Details.so](inventory/plugin_details/details_so_2026-11-16.json)、[Awesome DESIGN.md](inventory/plugin_details/awesome_design_md_2026-11-16.json)、[UXCritique](inventory/plugin_details/uxcritique_2026-11-16.json)、[Swish Sports Court Builder](inventory/plugin_details/swish_sports_court_builder_2026-11-16.json)、[ImageToCode](inventory/plugin_details/image_to_code_2026-11-16.json)の正式名・提供元・版・英文説明・日本語要約・用途・確認状況を記録。MusamimukとPedraのクレジット使用、Yapsのローカル環境要件、Details.soのアカウント要件も記録した。詳細索引との名前重複は確認されなかった。URLはブラウザーのアクセシビリティ情報で確認。実動作・料金・一覧本体との照合は未検証。前回記録の302ファイルから10件増の累計312ファイルで、一覧本体の件数とは別。
+
+次回はクリエイティブ一覧のImageToCodeの次の行にあるStudio by Memesから詳細索引と照合して再開。作業ブランチのみ更新、main・本番未変更。
