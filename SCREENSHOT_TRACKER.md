@@ -751,3 +751,10 @@ Voiceover Labのメイン説明にはアフィリエイトリンクの記載が�
 [Voice Cloning（Syed Fasih Haider Raza Rizvi）](inventory/plugin_details/voice_cloning_fasih_2026-11-16.json)の正式名・提供元・版・英文説明・日本語要約・用途・確認状況を記録。説明では本人または使用許可のある声を対象とする。URLはブラウザーのアクセシビリティ情報で確認。実動作・料金・一覧本体との照合は未検証。前回記録の291ファイルから1件増の累計292ファイルで、一覧本体の件数とは別。
 
 メイン説明はアフィリエイトリンクを含む場合があるとする一方、表示されたスキル概要は毎回のフッター表示を指定。両原文を保存し、実際の表示条件と直接音声を生成する範囲を未確認として1件で区切った。次回はクリエイティブ一覧のVoice Cloning隣のDesignSystemから詳細索引と照合して再開。作業ブランチのみ更新、main・本番未変更。
+
+
+### 詳細調査（2026-11-16、クリエイティブ10件）
+
+[DesignSystem](inventory/plugin_details/designsystem_2026-11-16.json)、[Framer](inventory/plugin_details/framer_2026-11-16.json)、[Voicepanel](inventory/plugin_details/voicepanel_2026-11-16.json)、[Aholo Lux3D](inventory/plugin_details/aholo_lux3d_2026-11-16.json)、[Yaps Audio Cleaner](inventory/plugin_details/yaps_audio_cleaner_2026-11-16.json)、[AI Film Pipeline Master](inventory/plugin_details/ai_film_pipeline_master_2026-11-16.json)、[Templated](inventory/plugin_details/templated_2026-11-16.json)、[Uwear](inventory/plugin_details/uwear_2026-11-16.json)、[ShirtLab](inventory/plugin_details/shirtlab_2026-11-16.json)、[Blog Generator（B12）](inventory/plugin_details/blog_generator_b12_2026-11-16.json)の正式名・提供元・版・英文説明・日本語要約・用途・確認状況を記録。Templatedは「続きを読む」を展開して全文を保存。ShirtLabは画像リンクの閲覧範囲と期限を記録。既存のDramaticaは再処理せず。URLはブラウザーのアクセシビリティ情報で確認。実動作・料金・一覧本体との照合は未検証。前回記録の292ファイルから10件増の累計302ファイルで、一覧本体の件数とは別。
+
+次回はクリエイティブ一覧のBlog Generatorの次の行にあるMusamimukから詳細索引と照合して再開。作業ブランチのみ更新、main・本番未変更。
