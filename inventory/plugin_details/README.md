@@ -410,6 +410,17 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 - [UIAudit](uiaudit_2026-11-17.json) — UIのアクセシビリティや性能など技術的な問題を点検。
 - [MeiGen Gallery](meigen_gallery_2026-11-17.json) — 参考画像の検索、画像・動画の生成や編集。候補数の説明に相違あり。
 
+- [PlayDrop](playdrop_2026-11-17.json) — ブラウザーゲームの制作、非公開テスト、公開を支援。
+- [EmpirioLabs AI](empiriolabs_ai_2026-11-17.json) — 画像・動画・音声の生成やOCR、検索、開発向け処理。
+- [Rendemo](rendemo_2026-11-17.json) — 操作できる製品デモやツアーを制作。
+- [Redesign（Saul Martí）](redesign_saul_marti_2026-11-17.json) — 既存サイトやアプリの画面デザインを改善。
+- [ShapeUI](shapeui_2026-11-17.json) — 実装前にUX・UIの方針を整理。
+- [Studio Ghibli Anime Creator（The Doers Firm）](studio_ghibli_anime_creator_2026-11-17.json) — 写真やアイデアからアニメ調の場面づくりを支援。
+- [Zim Studio](zim_studio_2026-11-17.json) — 広告向けの画像・動画・音声や絵コンテの制作を支援。
+- [Hansora AI](hansora_ai_2026-11-17.json) — 画像・動画・音声を生成。詳しい対応範囲は未確認。
+- [Writing Assistant（Matthew Lane）](writing_assistant_matthew_lane_2026-11-17.json) — 書き手の文体や意図を持つ下書きの改善を支援。
+- [AI Headshot Generator（Syed Fasih Haider Raza Rizvi）](ai_headshot_generator_fasih_2026-11-17.json) — プロフィール写真の企画・撮影条件・生成結果の確認を支援。広告リンクの表示条件は未確認。
+
 ## 一覧本体との照合
 
 [名称照合の記録](catalog_name_audit_2026-11-14.json) — 詳細35件と作業ブランチの一覧3,941件を比較。34件は名前が一致、Palimpsestは一致なし。名前の一致は同一性の確定ではない。個々のJSONにある旧「照合未確認」の記載は調査時点の記録で、最新の照合結果はこの記録を参照。
