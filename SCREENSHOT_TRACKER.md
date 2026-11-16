@@ -765,3 +765,10 @@ Voiceover Labのメイン説明にはアフィリエイトリンクの記載が�
 [Musamimuk](inventory/plugin_details/musamimuk_2026-11-16.json)、[Diagram Builder（B12）](inventory/plugin_details/diagram_builder_b12_2026-11-16.json)、[Pedra](inventory/plugin_details/pedra_2026-11-16.json)、[BrandKit](inventory/plugin_details/brandkit_2026-11-16.json)、[Yaps Video Clipping](inventory/plugin_details/yaps_video_clipping_2026-11-16.json)、[Details.so](inventory/plugin_details/details_so_2026-11-16.json)、[Awesome DESIGN.md](inventory/plugin_details/awesome_design_md_2026-11-16.json)、[UXCritique](inventory/plugin_details/uxcritique_2026-11-16.json)、[Swish Sports Court Builder](inventory/plugin_details/swish_sports_court_builder_2026-11-16.json)、[ImageToCode](inventory/plugin_details/image_to_code_2026-11-16.json)の正式名・提供元・版・英文説明・日本語要約・用途・確認状況を記録。MusamimukとPedraのクレジット使用、Yapsのローカル環境要件、Details.soのアカウント要件も記録した。詳細索引との名前重複は確認されなかった。URLはブラウザーのアクセシビリティ情報で確認。実動作・料金・一覧本体との照合は未検証。前回記録の302ファイルから10件増の累計312ファイルで、一覧本体の件数とは別。
 
 次回はクリエイティブ一覧のImageToCodeの次の行にあるStudio by Memesから詳細索引と照合して再開。作業ブランチのみ更新、main・本番未変更。
+
+
+### 詳細調査（2026-11-17、クリエイティブ6件・説明相違保留）
+
+[Studio by Memes](inventory/plugin_details/studio_by_memes_2026-11-17.json)、[Meshy 3D](inventory/plugin_details/meshy_3d_2026-11-17.json)、[Klap](inventory/plugin_details/klap_2026-11-17.json)、[VOSU](inventory/plugin_details/vosu_2026-11-17.json)、[UIAudit](inventory/plugin_details/uiaudit_2026-11-17.json)、[MeiGen Gallery](inventory/plugin_details/meigen_gallery_2026-11-17.json)の正式名・提供元・版・英文説明・日本語要約・用途・確認状況を記録。KlapとMeiGen Galleryは「続きを読む」を展開して全文を保存。Meshyの端末を使う機能、各サービスのアカウント・クレジット要件を記録。詳細索引の名称を照合し、既記録の項目を再処理しなかった。実動作・料金・一覧本体との照合は未検証。前回記録の312ファイルから6件増の累計318ファイルで、一覧本体の件数とは別。
+
+MeiGen Galleryのメイン説明は一度に最大6件、アプリ概要は最大3件の参考候補と記載しており、実際の上限は未確認。双方の原文を保存して6件で区切った。クリエイティブ一覧の並びは前回から変わっており、次回はMeiGen Galleryの次の行に表示されたPlayDropから、詳細索引との重複を再確認して再開。作業ブランチのみ更新、main・本番未変更。
