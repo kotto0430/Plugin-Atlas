@@ -392,6 +392,17 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 - [ShirtLab](shirtlab_2026-11-16.json) — 画像や文字を黒いシャツに配置してデザイン。
 - [Blog Generator（B12）](blog_generator_b12_2026-11-16.json) — B12上のブログサイトを生成。
 
+- [Musamimuk](musamimuk_2026-11-16.json) — ポスターや画像の制作、背景除去などを支援。画像生成にはコインを使用。
+- [Diagram Builder（B12）](diagram_builder_b12_2026-11-16.json) — 業務の流れなどを図にしSVGで出力。
+- [Pedra](pedra_2026-11-16.json) — 不動産写真の編集や紹介動画、360度ツアーの制作を支援。
+- [BrandKit](brandkit_2026-11-16.json) — ブランドガイドやロゴのビジュアル制作を支援。
+- [Yaps Video Clipping](yaps_video_clipping_2026-11-16.json) — 話す動画の無音を検出・カットし別のMP4に出力。
+- [Details.so](details_so_2026-11-16.json) — ウェブデザインの参考や部品を探し、実装を支援。
+- [Awesome DESIGN.md](awesome_design_md_2026-11-16.json) — 参考資料を使って製品・画面のデザイン分析と改善を支援。
+- [UXCritique](uxcritique_2026-11-16.json) — UXや情報の優先順位を評価し改善点を整理。
+- [Swish Sports Court Builder](swish_sports_court_builder_2026-11-16.json) — スポーツコートを2D・3Dでデザイン。
+- [ImageToCode](image_to_code_2026-11-16.json) — 参考画像に沿ったフロントエンドの実装を支援。
+
 ## 一覧本体との照合
 
 [名称照合の記録](catalog_name_audit_2026-11-14.json) — 詳細35件と作業ブランチの一覧3,941件を比較。34件は名前が一致、Palimpsestは一致なし。名前の一致は同一性の確定ではない。個々のJSONにある旧「照合未確認」の記載は調査時点の記録で、最新の照合結果はこの記録を参照。
