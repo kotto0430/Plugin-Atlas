@@ -1,0 +1,23 @@
+{
+  "official_app_name": "Musamimuk",
+  "provider": "SHAH FAHAD",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a9d0e60d4b4819194e190a96529c9f4?category=creativity",
+  "observed_at": "2026-11-16",
+  "original_description": "Musamimuk is an AI design editor. After you sign in, ChatGPT can list your designs, create a blank canvas, generate an editable poster from a prompt, make a library image, remove a background, analyze an owned image, or create a QR code. Designs open in the Musamimuk app to finish editing. Image generation uses your Musamimuk coins.",
+  "summary_ja": "ポスターや画像の制作、背景除去、QRコード作成などを支援。",
+  "usage_tags": [
+    "デザイン",
+    "ポスター",
+    "画像編集",
+    "QRコード"
+  ],
+  "limitations": [
+    "サインインが必要。画像生成にはMusamimukのコインを使用すると説明。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
