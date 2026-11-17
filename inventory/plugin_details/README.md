@@ -427,6 +427,27 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 - [Marq](marq_2026-11-17.json) — ブランドのテンプレートやデータで資料・SNS素材を制作。
 - [Orisu](orisu_2026-11-17.json) — 商品写真から広告画像や動画を制作。動画への音声合成は未確認。
 
+- [WebMockup](webmockup_2026-11-17.json) — ウェブの各セクションのデザイン参考画像を作る。
+- [Email Love](email_love_2026-11-17.json) — Figmaでのメール制作と配信向け個別化を支援。
+- [MobileMockup](mobilemockup_2026-11-17.json) — モバイル画面と操作フローのデザイン案を画像で作る。
+- [Fuji X100VI Look Emulator](fuji_x100vi_look_emulator_2026-11-17.json) — X100VI風の画像編集を支援。
+- [Polish（Saul Martí）](polish_saul_marti_2026-11-17.json) — 公開前のUIを仕上げる。
+- [Fashion & Style Finder](fashion_style_finder_2026-11-17.json) — 靴や服の選び方と着こなしを提案。
+- [Flav.IA — Fotos de Imóveis](flav_ia_fotos_de_imoveis_2026-11-17.json) — 不動産写真の調整や広告企画。原文はポルトガル語。
+- [Vivideo](vivideo_2026-11-17.json) — 文章や画像からAI動画を制作。
+- [Icon Design（ailuntz）](icon_design_ailuntz_2026-11-17.json) — アイコン案の比較とApple Icon Composer向け素材の準備。原文は中国語。
+- [Meme Marketing Agent](meme_marketing_agent_2026-11-17.json) — 線画を使ったミームの制作を支援。
+- [MixMatter](mixmatter_2026-11-17.json) — 元画像を印刷物風のコラージュに再構成。
+- [Viral Hook Suite 1.0](viral_hook_suite_1_0_2026-11-17.json) — ドイツ語の短尺動画用文章や見出しを作成。
+- [Hen Screenshots](hen_screenshots_2026-11-17.json) — アプリストア用画像や端末モックアップを作成。
+- [Sandcastles](sandcastles_2026-11-17.json) — 短尺動画のチャンネルや人気の形式を調査。
+- [Viral 80 Trend](viral_80_trend_2026-11-17.json) — 写真やアイデアを4つの時代の画像案に展開。
+- [Viral Hook Suite](viral_hook_suite_2026-11-17.json) — ドイツ語のSNS向け文章を作成。同提供元の1.0とは別ページで関係未確認。
+- [HardenUI](hardenui_2026-11-17.json) — UIのエラーや多言語対応など例外的なケースへの対応を支援。
+- [SlidesAI](slidesai_2026-11-17.json) — メモや文書から編集可能なプレゼン資料を制作。
+- [YouTube Thumbnail Creator（The Doers Firm）](youtube_thumbnail_creator_doers_2026-11-17.json) — サムネイルの構想、画像制作、評価を支援。
+- [Vivu](vivu_2026-11-17.json) — 登録済み動画の場面検索、要約、管理。
+
 ## 一覧本体との照合
 
 [名称照合の記録](catalog_name_audit_2026-11-14.json) — 詳細35件と作業ブランチの一覧3,941件を比較。34件は名前が一致、Palimpsestは一致なし。名前の一致は同一性の確定ではない。個々のJSONにある旧「照合未確認」の記載は調査時点の記録で、最新の照合結果はこの記録を参照。
