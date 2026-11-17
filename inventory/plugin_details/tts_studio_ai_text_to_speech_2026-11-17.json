@@ -1,0 +1,23 @@
+{
+  "official_app_name": "TTS Studio: AI Text to Speech",
+  "provider": "彦国 孙",
+  "version": "1.0.4",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a9137aa685481919044f3a35c44f8bd?category=creativity",
+  "observed_at": "2026-11-17",
+  "original_description": "TTSStudio is an AI text-to-speech generator and AI voice generator that converts user-provided written text into natural-sounding MP3 speech. It gives ChatGPT users an interactive workspace for turning scripts, articles, documents, lessons, stories, notes, and other written content into clear spoken audio without recording a voice manually. Use TTSStudio to create narration, AI voiceovers, read-aloud audio, podcast segments, audiobook passages, e-learning lessons, training materials, presentation audio, social media voice tracks, advertising voiceovers, and accessible audio versions of written content.\nWhen a user asks ChatGPT to turn text into speech, TTSStudio opens the workspace with the supplied text prefilled. The user can review the source text, choose how it should sound, and start generation only when ready. The voice catalog can be browsed and filtered to find an appropriate AI voice for the language, style, audience, and use case. Users can preview voices, compare available options, and refine the delivery by adjusting emotion, speed, pitch, and volume before generating the final audio.\nEach generation uses the applicable TTSStudio allowance and saves the result to the user's private audio history. The workspace can display recent completed or failed generations, replay completed speech, manage saved history items, delete a selected result, and show the download actions available for the user's plan. This makes it easier to return to previous voiceovers, review alternative versions, and keep generated audio organized.\nTTSStudio focuses specifically on text-to-speech generation from text supplied by the user. By keeping text review, AI voice selection, speech customization, generation, playback, history, and downloads in one workflow, TTSStudio helps users convert written ideas into reusable spoken audio directly from ChatGPT.",
+  "summary_ja": "入力した文章を音声に変換し、声や速度などを調整してMP3として保存する。",
+  "usage_tags": [
+    "音声読み上げ",
+    "ナレーション",
+    "動画制作",
+    "教育"
+  ],
+  "limitations": [
+    "生成には利用枠を使い、ダウンロードの選択肢はプランに依存すると説明。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
