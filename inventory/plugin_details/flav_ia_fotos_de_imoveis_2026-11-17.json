@@ -1,0 +1,24 @@
+{
+  "official_app_name": "Flav.IA — Fotos de Imóveis",
+  "provider": "SIMAO CONSULTORIA",
+  "version": "0.3.1",
+  "source_url": "https://chatgpt.com/plugins/plugins_6a99c39284088191ad66e8cb5bda26bc?category=creativity",
+  "observed_at": "2026-11-17",
+  "original_description": "Prepara fotos reais de imóveis para anúncios com acabamento profissional, natural e consistente. Normaliza pelo método RNS-01, audita fidelidade, protege dados pessoais, extrai metadados disponíveis para uma ficha visual de vistoria, orienta captura, luz e enquadramento, escolhe a melhor sequência, destaca características visíveis, cria copy e planeja posts e carrosséis. Também pode preparar criativos conceituais claramente identificados e aplicar logo ou marca-d’água fornecidas. Não transforma uma imagem factual em virtual staging, não esconde defeitos, não inventa metadados, não cria bordas para simular espaço e não apresenta pessoas ou ambientes gerados como se fossem reais.",
+  "original_description_language": "ポルトガル語",
+  "summary_ja": "実際の不動産写真の調整、忠実性の確認、広告文や投稿の企画を支援。",
+  "usage_tags": [
+    "不動産",
+    "画像編集",
+    "広告",
+    "写真"
+  ],
+  "limitations": [
+    "実写を仮想家具配置に変えたり、欠陥や生成画像を実物と偽ったりしないと説明。",
+    "実動作・対応言語・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
