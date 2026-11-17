@@ -1,0 +1,23 @@
+{
+  "official_app_name": "SlidesAI",
+  "provider": "SlidesAI",
+  "version": "1.0.1",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6abf8a5cad4c8191b11f94979ee7d36f?category=creativity",
+  "observed_at": "2026-11-17",
+  "original_description": "SlidesAI is an AI presentation maker for creating work, business and school presentations. Turn an idea, your notes or an uploaded document into a polished presentation without leaving ChatGPT.\nWhat you can make:\n• Pitch decks for startups, products and fundraising\n• Simple, clear lessons for teachers and students\n• Reports, team updates and project plans\n• Flowcharts, process maps and other complex diagrams\n• Data slides with charts and tables\n• Branded decks created from a PPTX you've imported into SlidesAI\nEvery slide stays editable. Fine-tune text, layout and design in the SlidesAI editor, then export your presentation to PowerPoint (PPTX), Google Slides or PDF.\nSlidesAI designs the slides, saves them to your account and gives you a link to open the deck in the SlidesAI editor.",
+  "summary_ja": "メモや文書から編集可能なプレゼン資料を作り、PPTXなどに書き出す。",
+  "usage_tags": [
+    "プレゼンテーション",
+    "資料作成",
+    "教育",
+    "ビジネス"
+  ],
+  "limitations": [
+    "資料はSlidesAIアカウントに保存され、専用エディターで調整すると説明。",
+    "実動作・日本語対応・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
