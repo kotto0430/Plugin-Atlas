@@ -805,3 +805,9 @@ Orisuのメイン説明は音声追加に言及する一方、表示された音
 [TTS Studio: AI Text to Speech](inventory/plugin_details/tts_studio_ai_text_to_speech_2026-11-17.json)の正式名・提供元・版・英文説明・日本語要約・用途・確認状況を記録。利用枠とプランによるダウンロード条件を記載。実動作・料金・一覧本体との照合は未検証。前回記録の357ファイルから1件増の累計358ファイルで、一覧本体の件数とは別。
 
 Computer UseがWindows上の現在のブラウザーURLを安全確認に十分な確信をもって特定できず、このターンの画面操作を停止したため区切った。次回はクリエイティブ一覧のTTS Studioの隣のWonderWhyから詳細索引と照合して再開。作業ブランチのみ更新、main・本番未変更。
+
+### 詳細調査（2026-11-17、クリエイティブ2件・画面操作停止）
+
+[WonderWhy](inventory/plugin_details/wonderwhy_2026-11-17.json)、[Topo de Bolo Express](inventory/plugin_details/topo_de_bolo_express_2026-11-17.json)の正式名・提供元・版・説明原文・日本語要約・用途・確認状況を記録。後者はポルトガル語の原文と受講生向けのアクセス条件を保存。実動作・料金・一覧本体との照合は未検証。前回記録の358ファイルから2件増の累計360ファイルで、一覧本体の件数とは別。
+
+タブ切り替え時にComputer UseがWindows上の現在のブラウザーURLを安全確認に十分な確信をもって特定できず、画面操作を停止。次回はTopo de Bolo Expressの隣のNox Designから詳細索引と照合して再開。作業ブランチのみ更新、main・本番未変更。
