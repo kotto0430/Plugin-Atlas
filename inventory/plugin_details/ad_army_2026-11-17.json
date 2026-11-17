@@ -1,0 +1,23 @@
+{
+  "official_app_name": "Ad Army",
+  "provider": "Ad Army",
+  "version": "1.0.4",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6abe43ed57dc81919cf4e59c37c1c690?category=creativity",
+  "observed_at": "2026-11-17",
+  "original_description": "Use Ad Army to create images, videos and ads in the connected workspace. For a new image or video, inspect model settings and estimate credits first; generation saves to Assets without requiring a Playground board. Return the saved asset's app link.\nFor creators, marketers, and agencies, describe a product or scene to make a short video ad, add an instrumental music bed, explore image variations, or assemble a shorter cut from media already in your Ad Army workspace. For an existing Playground link or board name, read saved cards and conversation history, catalogue references, compare media, organise cards and inspect layouts. Use boards when requested or when a recipe needs a saved plan and results. Authenticated MCP reads do not require logging into the web app.\nConnect an Ad Army account and choose the workspace and permissions the assistant may use. Missing permissions require reconnecting the assistant. Generations, analysis, and renders use that workspace's existing credits. Approve a total workflow budget before paid work; per-operation limits also apply. Importing or uploading external assets needs an additional permission. The browser can support explicit UI requests, OAuth, uploads, or capabilities unavailable through MCP, such as full video playback. Review generated content before publishing it.",
+  "summary_ja": "広告用の画像・動画・音楽を制作し、ワークスペース内の素材や企画を整理する。",
+  "usage_tags": [
+    "広告",
+    "画像制作",
+    "動画制作",
+    "マーケティング"
+  ],
+  "limitations": [
+    "Ad Armyアカウントとワークスペースへの接続が必要。生成・分析などにクレジットを使い、有料作業前に予算の承認が必要と説明。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

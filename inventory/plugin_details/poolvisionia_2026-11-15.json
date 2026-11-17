@@ -1,0 +1,23 @@
+{
+  "official_app_name": "PoolVisionIA",
+  "provider": "Novalgo services",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a3e551c05508191a16761178e5f3ada?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "PoolVisionIA génère une simulation photoréaliste de votre future piscine dans votre jardin. Prenez une photo depuis votre téléphone ou tablette, visualisez le résultat en quelques minutes. Outil d'aide à la décision visuelle, sans valeur réglementaire pour les démarches administratives françaises.",
+  "original_description_language": "fr",
+  "summary_ja": "庭の写真を使い、プールを設置したイメージを作る。",
+  "usage_tags": [
+    "プール",
+    "住宅",
+    "画像シミュレーション"
+  ],
+  "limitations": [
+    "公式説明はフランス語。フランスの行政手続きにおける規制上の効力はないと明記。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

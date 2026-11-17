@@ -1,0 +1,366 @@
+{
+  "source": "Chrome ChatGPT 金融",
+  "date": "2026-11-14",
+  "catalog_blob": "ed517167a5188fd9018de0c4c041e146750b43b9",
+  "method": "画面を重ねてスクロールし表示名を目視転記。大文字小文字を区別せず名前を照合。",
+  "notes": "誤記・重複・異表記の可能性あり。一致は同一性、不一致は新規件数を意味しない。",
+  "counts": {
+    "rows": 88,
+    "matched": 38,
+    "unmatched": 50
+  },
+  "rows": [
+    {
+      "name": "InvoiceVista Invoice Maker",
+      "matched": true
+    },
+    {
+      "name": "OptionEdge AI",
+      "matched": true
+    },
+    {
+      "name": "Financial AI®",
+      "matched": true
+    },
+    {
+      "name": "FINTRX",
+      "matched": true
+    },
+    {
+      "name": "Jelli",
+      "matched": true
+    },
+    {
+      "name": "Slabline",
+      "matched": true
+    },
+    {
+      "name": "Pace for ChatGPT",
+      "matched": true
+    },
+    {
+      "name": "Vega Options",
+      "matched": true
+    },
+    {
+      "name": "CipherOwl",
+      "matched": true
+    },
+    {
+      "name": "StockPortfolio.pro",
+      "matched": true
+    },
+    {
+      "name": "Calculadora CLT",
+      "matched": true
+    },
+    {
+      "name": "Odometry Mileage Log",
+      "matched": true
+    },
+    {
+      "name": "Yield Clarity",
+      "matched": true
+    },
+    {
+      "name": "QuarterWise 1099 Tax Planner",
+      "matched": true
+    },
+    {
+      "name": "WealthStoryLine",
+      "matched": true
+    },
+    {
+      "name": "Expat Savings Rates",
+      "matched": true
+    },
+    {
+      "name": "LuxAlgo",
+      "matched": true
+    },
+    {
+      "name": "LeaseLine Rent Ledger",
+      "matched": true
+    },
+    {
+      "name": "Kreditano",
+      "matched": true
+    },
+    {
+      "name": "Trade Chart",
+      "matched": true
+    },
+    {
+      "name": "EarningsWatcher",
+      "matched": true
+    },
+    {
+      "name": "e-invoices.it",
+      "matched": true
+    },
+    {
+      "name": "FilingSpy",
+      "matched": true
+    },
+    {
+      "name": "Vezna",
+      "matched": true
+    },
+    {
+      "name": "Gold Price Today",
+      "matched": true
+    },
+    {
+      "name": "GrantLedger",
+      "matched": true
+    },
+    {
+      "name": "KashLog",
+      "matched": true
+    },
+    {
+      "name": "CashflowPot",
+      "matched": true
+    },
+    {
+      "name": "MyLinedChart",
+      "matched": true
+    },
+    {
+      "name": "Lauki SIP Calculator",
+      "matched": true
+    },
+    {
+      "name": "Amortiza Loan Planner",
+      "matched": true
+    },
+    {
+      "name": "Monee Mate",
+      "matched": true
+    },
+    {
+      "name": "Ogmentive Cashback",
+      "matched": true
+    },
+    {
+      "name": "Netwise Paycheck Calculator",
+      "matched": true
+    },
+    {
+      "name": "Public",
+      "matched": true
+    },
+    {
+      "name": "DeepStack",
+      "matched": true
+    },
+    {
+      "name": "InvoiceIQ by Analytos Labs",
+      "matched": true
+    },
+    {
+      "name": "Preqin",
+      "matched": false
+    },
+    {
+      "name": "Coindex",
+      "matched": true
+    },
+    {
+      "name": "Delos",
+      "matched": false
+    },
+    {
+      "name": "KontoCSV",
+      "matched": false
+    },
+    {
+      "name": "GulfPitch",
+      "matched": false
+    },
+    {
+      "name": "Shadowfolio Backtest",
+      "matched": false
+    },
+    {
+      "name": "Jurnool",
+      "matched": false
+    },
+    {
+      "name": "BrinkerAdvisor Rates",
+      "matched": false
+    },
+    {
+      "name": "Bankstatemently",
+      "matched": false
+    },
+    {
+      "name": "Budget Tracker by Smart Money",
+      "matched": false
+    },
+    {
+      "name": "Notaio Chianese Calculators",
+      "matched": false
+    },
+    {
+      "name": "InsuranceMarket.ae",
+      "matched": false
+    },
+    {
+      "name": "AeonData",
+      "matched": false
+    },
+    {
+      "name": "DEBYKO",
+      "matched": false
+    },
+    {
+      "name": "Credit Compass",
+      "matched": false
+    },
+    {
+      "name": "TaxFlow",
+      "matched": false
+    },
+    {
+      "name": "Live Earnings",
+      "matched": false
+    },
+    {
+      "name": "Chiipin",
+      "matched": false
+    },
+    {
+      "name": "MayRetire",
+      "matched": false
+    },
+    {
+      "name": "Solana Intelligence by Nova",
+      "matched": false
+    },
+    {
+      "name": "ether.fi",
+      "matched": false
+    },
+    {
+      "name": "DólarUY",
+      "matched": false
+    },
+    {
+      "name": "Hyperliquid PnL Auditor",
+      "matched": false
+    },
+    {
+      "name": "Somantic",
+      "matched": false
+    },
+    {
+      "name": "Invoa",
+      "matched": false
+    },
+    {
+      "name": "Cartage",
+      "matched": false
+    },
+    {
+      "name": "LiquidityWatch",
+      "matched": false
+    },
+    {
+      "name": "PayFresco Payment Planner",
+      "matched": false
+    },
+    {
+      "name": "Empruntis",
+      "matched": false
+    },
+    {
+      "name": "QuickInvoice",
+      "matched": false
+    },
+    {
+      "name": "CostLiving",
+      "matched": false
+    },
+    {
+      "name": "Syndicate",
+      "matched": false
+    },
+    {
+      "name": "RaamTrade",
+      "matched": false
+    },
+    {
+      "name": "Harem Altın",
+      "matched": false
+    },
+    {
+      "name": "IQ Score",
+      "matched": false
+    },
+    {
+      "name": "Precifica",
+      "matched": false
+    },
+    {
+      "name": "GammaFlip",
+      "matched": false
+    },
+    {
+      "name": "FinTrack",
+      "matched": false
+    },
+    {
+      "name": "FindEnergyRates",
+      "matched": false
+    },
+    {
+      "name": "Remitly",
+      "matched": false
+    },
+    {
+      "name": "StayinDE Study Budget",
+      "matched": false
+    },
+    {
+      "name": "Redstone",
+      "matched": false
+    },
+    {
+      "name": "Loan Factory",
+      "matched": false
+    },
+    {
+      "name": "DigitalK2",
+      "matched": false
+    },
+    {
+      "name": "Zovo Bill Splitter",
+      "matched": false
+    },
+    {
+      "name": "Bilance",
+      "matched": false
+    },
+    {
+      "name": "Property Analyser UK",
+      "matched": false
+    },
+    {
+      "name": "Solana Tracker",
+      "matched": false
+    },
+    {
+      "name": "Vike Data API",
+      "matched": false
+    },
+    {
+      "name": "Cashly",
+      "matched": false
+    },
+    {
+      "name": "Fintable",
+      "matched": false
+    }
+  ]
+}

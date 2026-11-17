@@ -1,0 +1,25 @@
+{
+  "name": "Autodesk Product Help",
+  "official_app_name": "Autodesk Product Help",
+  "provider": "Autodesk, Inc.",
+  "version": "1.0.1",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a2bbff65e5081919f78f51d2f79e3d7?category=creativity",
+  "developer_url": "https://www.autodesk.com/",
+  "category": "Creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "The Autodesk® Product Help Model Context Protocol (MCP) Server connects AI agents directly to Autodesk’s official product documentation across 110+ products including Autodesk Fusion®, AutoCAD®, Revit®, Inventor®, Maya®, Civil 3D®, and more. As a secure, read-only interface, it allows AI tools to search, navigate, and retrieve trusted Autodesk help content. This enables support for natural language queries, accelerates onboarding, and provides a reliable foundation for intelligent agents built on authoritative Autodesk product documentation.\n\nKey Features:\n- Ask support questions using natural language.\n- Learn and onboard to Autodesk products faster.\n- Create a foundation for AI agents and automation.\n- Available in 10 languages: English (United States), French (France), German (Germany), Spanish (Spain), Portuguese (Brazil), Italian (Italy), Japanese (Japan), Korean (Korea), Chinese (Simplified), and Russian (Russia)\n\nRequirements:\n\nNo special requirements.\n\nAbout Autodesk\n\nThe world's designers, engineers, builders, and creators trust Autodesk to help them design and make anything. From the buildings we live and work in, to the cars we drive and the bridges we drive over. From the products we use and rely on, to the movies and games that inspire us. Autodesk's Design and Make Platform unlocks the power of data to accelerate insights and automate processes, empowering our customers with the technology to create the world around us and deliver better outcomes for their business and the planet. For more information, visit https://www.autodesk.com.",
+  "original_description_language": "en",
+  "summary_ja": "Autodesk製品の公式ヘルプを検索し、操作や学習の質問に活用する。",
+  "usage_tags": [
+    "CAD",
+    "3D制作",
+    "製品ヘルプ"
+  ],
+  "limitations_ja": "読み取り専用の製品文書検索と説明。日本語を含む10言語に対応すると記載。実際の回答精度・対象文書範囲は未検証。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "一覧本体との名称照合は未確認。同名・別名の同一性は未確認。",
+  "review": "詳細画面の説明・情報欄を確認。動作、料金、品質は未検証。"
+}

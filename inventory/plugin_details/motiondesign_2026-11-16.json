@@ -1,0 +1,21 @@
+{
+  "official_app_name": "MotionDesign",
+  "provider": "Saul Martí",
+  "version": "2.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugins_6aa3019193bc8191ab47d958be883a6c?category=creativity",
+  "observed_at": "2026-11-16",
+  "original_description": "Create motion-rich Awwwards-style frontend experiences using the dedicated GPT Taste GSAP workflow plus production frontend quality support.",
+  "summary_ja": "GSAPを使った動きの多いウェブ画面のデザインやフロントエンド実装を支援する。",
+  "usage_tags": [
+    "ウェブデザイン",
+    "フロントエンド",
+    "アニメーション"
+  ],
+  "limitations": [
+    "実動作・品質・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

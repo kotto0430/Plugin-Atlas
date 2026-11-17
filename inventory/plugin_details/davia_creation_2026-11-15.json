@@ -1,0 +1,22 @@
+{
+  "official_app_name": "Davia Creation",
+  "provider": "Davia",
+  "version": "1.2.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a84600a39588191b200058a94614191?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Davia Creation helps creators build and revise private Davia game drafts. Select a game, inspect its world files, check it for errors, and update its premise, rules, stats, map cells, characters, places, placements, and 3D assets.",
+  "summary_ja": "Daviaの非公開ゲーム草案で、世界観・ルール・登場人物・マップなどを編集する。",
+  "usage_tags": [
+    "ゲーム制作",
+    "世界観設定",
+    "マップ制作"
+  ],
+  "limitations": [
+    "説明は非公開のDaviaゲーム草案を対象としている。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "official_app_name": "Cardboard",
+  "provider": "Cardboard",
+  "version": "1.2.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ad9113481408191be5f3c22757f2ef8?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Cardboard is an AI video editor for turning raw footage into finished videos, from social clips and highlight reels to product demos, vlogs and event recaps. With the Cardboard app, describe the video you want and turn your clips, photos, recordings, or a link into an edit you can watch, change and export right in the chat.\nCut a long video down to its best moments, turn it into a vertical Reel, Short or TikTok, or pull highlights from hours of footage. Remove pauses, filler words and bad takes, find the exact moment someone said something, and drop in stock or archival B-roll where it fits. Add word-by-word captions, animated titles, music, sound effects and a voiceover, then reframe to keep the speaker in shot, remove the background or change the look with a color grade. Not sure where to start? Pick from 50+ templates, called recipes, for podcast clips, travel montages, launch videos, product showcases and more, then refine the pacing, order and text until it feels right. Every edit plays in the chat, and you can undo any change.\nCardboard supports creators, bloggers, youtubers, podcasters, marketers, engineers, founders, designers, product managers, builders, editors, educators, small business owners, and teams who need video without learning a timeline. Projects are saved to your Cardboard account, so you can pick them up in any chat and export a 4K MP4 when you’re done.",
+  "app_description": "Edit videos in minutes, right in the chat. Start a project with videos from your device or from a link, then cut, trim and reorder clips, add titles and change the look. Every edit plays right in the chat, and you can export the finished video as a 1080p MP4. Your projects are saved to your Cardboard account, so you can pick them up again in any chat.",
+  "summary_ja": "動画素材を会話で編集し、字幕や音声などを加えて書き出す。",
+  "usage_tags": [
+    "動画編集",
+    "字幕",
+    "SNS動画"
+  ],
+  "limitations": [
+    "メイン説明は4K MP4、アプリ欄は1080p MP4の書き出しを記載。条件ごとの上限は未確認。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証",
+    "説明だけでは不明"
+  ]
+}

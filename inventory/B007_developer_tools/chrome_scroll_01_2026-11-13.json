@@ -1,0 +1,397 @@
+{
+  "source": "Chrome ChatGPT 開発者ツール",
+  "date": "2026-11-13",
+  "method": "アクセシビリティ出力が切れた直後から画面を重ねてスクロールし表示名を目視転記。転記誤りや重複の可能性あり。",
+  "catalog_blob": "fd13ece4009fcf170733daf819bb2e7424328a60",
+  "counts": {
+    "rows": 96,
+    "matched": 0,
+    "unmatched": 96
+  },
+  "rows": [
+    {
+      "name": "Local Model Route Planner",
+      "matched": false
+    },
+    {
+      "name": "OGENIC GOD TOOLKIT",
+      "matched": false
+    },
+    {
+      "name": "CodebaseDesign",
+      "matched": false
+    },
+    {
+      "name": "Unix Copilot",
+      "matched": false
+    },
+    {
+      "name": "Product & App Architect",
+      "matched": false
+    },
+    {
+      "name": "C4 Investigator",
+      "matched": false
+    },
+    {
+      "name": "GodPrompt",
+      "matched": false
+    },
+    {
+      "name": "Plan",
+      "matched": false
+    },
+    {
+      "name": "Code Ontology Companion",
+      "matched": false
+    },
+    {
+      "name": "Fallow Code Analysis",
+      "matched": false
+    },
+    {
+      "name": "Go: Production Engineering",
+      "matched": false
+    },
+    {
+      "name": "SonarQube",
+      "matched": false
+    },
+    {
+      "name": "Chronos for Codex",
+      "matched": false
+    },
+    {
+      "name": "Modal",
+      "matched": false
+    },
+    {
+      "name": "Ansight",
+      "matched": false
+    },
+    {
+      "name": "SQL Copilot",
+      "matched": false
+    },
+    {
+      "name": "BranchDeploy",
+      "matched": false
+    },
+    {
+      "name": "Tuist",
+      "matched": false
+    },
+    {
+      "name": "Skill Submission Pack Writer",
+      "matched": false
+    },
+    {
+      "name": "Gumlet",
+      "matched": false
+    },
+    {
+      "name": "codex-sdlc",
+      "matched": false
+    },
+    {
+      "name": "YCloud Developer Kit",
+      "matched": false
+    },
+    {
+      "name": "Anti-Churn",
+      "matched": false
+    },
+    {
+      "name": "ZzzOps",
+      "matched": false
+    },
+    {
+      "name": "AMD",
+      "matched": false
+    },
+    {
+      "name": "JSON Change Lens",
+      "matched": false
+    },
+    {
+      "name": "GH Review Loop",
+      "matched": false
+    },
+    {
+      "name": "FLOWSTACK UI",
+      "matched": false
+    },
+    {
+      "name": "Diagram Generator",
+      "matched": false
+    },
+    {
+      "name": "Development OS",
+      "matched": false
+    },
+    {
+      "name": "AgentMarkup",
+      "matched": false
+    },
+    {
+      "name": "stark AI Developer",
+      "matched": false
+    },
+    {
+      "name": "Knock",
+      "matched": false
+    },
+    {
+      "name": "Review Times",
+      "matched": false
+    },
+    {
+      "name": "Noodle Seed",
+      "matched": false
+    },
+    {
+      "name": "taskplane",
+      "matched": false
+    },
+    {
+      "name": "EmpirioLabs AI",
+      "matched": false
+    },
+    {
+      "name": "AstraVerify Domain Trust Check",
+      "matched": false
+    },
+    {
+      "name": "AI-HIVE Remote Bridge",
+      "matched": false
+    },
+    {
+      "name": "Testing React Native Apps",
+      "matched": false
+    },
+    {
+      "name": "InsForge",
+      "matched": false
+    },
+    {
+      "name": "CastReader",
+      "matched": false
+    },
+    {
+      "name": "Qodo",
+      "matched": false
+    },
+    {
+      "name": "Unity",
+      "matched": false
+    },
+    {
+      "name": "Wayfinder",
+      "matched": false
+    },
+    {
+      "name": "SCVD x402 Verifier",
+      "matched": false
+    },
+    {
+      "name": "Vlak",
+      "matched": false
+    },
+    {
+      "name": "Canonical Memory Verifier",
+      "matched": false
+    },
+    {
+      "name": "Apper - App & Website Builder",
+      "matched": false
+    },
+    {
+      "name": "AskMatt",
+      "matched": false
+    },
+    {
+      "name": "Fullstack Dev Kit",
+      "matched": false
+    },
+    {
+      "name": "Nightshift",
+      "matched": false
+    },
+    {
+      "name": "AgentiSend",
+      "matched": false
+    },
+    {
+      "name": "Design Game Studio",
+      "matched": false
+    },
+    {
+      "name": "Rootly",
+      "matched": false
+    },
+    {
+      "name": "WebMCP",
+      "matched": false
+    },
+    {
+      "name": "Platform Engineering Copilot",
+      "matched": false
+    },
+    {
+      "name": "Vaisala Xweather API & Maps",
+      "matched": false
+    },
+    {
+      "name": "Proxyman",
+      "matched": false
+    },
+    {
+      "name": "Voice Notify for Codex",
+      "matched": false
+    },
+    {
+      "name": "Intuitive Software Design",
+      "matched": false
+    },
+    {
+      "name": "Swift Concurrency",
+      "matched": false
+    },
+    {
+      "name": "Gophers",
+      "matched": false
+    },
+    {
+      "name": "Shiro",
+      "matched": false
+    },
+    {
+      "name": "OpsTruth",
+      "matched": false
+    },
+    {
+      "name": "Cloudflare RLS",
+      "matched": false
+    },
+    {
+      "name": "PDF Parser",
+      "matched": false
+    },
+    {
+      "name": "AgentProof",
+      "matched": false
+    },
+    {
+      "name": "WebMCP Kit",
+      "matched": false
+    },
+    {
+      "name": "Contour3D",
+      "matched": false
+    },
+    {
+      "name": "Bitcoin Mining Troubleshooter",
+      "matched": false
+    },
+    {
+      "name": "Hugging Face",
+      "matched": false
+    },
+    {
+      "name": "Vibecode",
+      "matched": false
+    },
+    {
+      "name": "Software Engineering Toolkit",
+      "matched": false
+    },
+    {
+      "name": "NaCl",
+      "matched": false
+    },
+    {
+      "name": "Engineering Project OS",
+      "matched": false
+    },
+    {
+      "name": "TokenX",
+      "matched": false
+    },
+    {
+      "name": "Tree Ring Memory",
+      "matched": false
+    },
+    {
+      "name": "Simulator Login",
+      "matched": false
+    },
+    {
+      "name": "ShareThis AI",
+      "matched": false
+    },
+    {
+      "name": "hgraph Development",
+      "matched": false
+    },
+    {
+      "name": "Completion Receipt",
+      "matched": false
+    },
+    {
+      "name": "juudd",
+      "matched": false
+    },
+    {
+      "name": "trigger-tree",
+      "matched": false
+    },
+    {
+      "name": "Flower",
+      "matched": false
+    },
+    {
+      "name": "ProdVerity",
+      "matched": false
+    },
+    {
+      "name": "Prototype",
+      "matched": false
+    },
+    {
+      "name": "Migrating to React Native",
+      "matched": false
+    },
+    {
+      "name": "Poka-Yoke",
+      "matched": false
+    },
+    {
+      "name": "Ask the Code",
+      "matched": false
+    },
+    {
+      "name": "Coval",
+      "matched": false
+    },
+    {
+      "name": "Platform Bridge",
+      "matched": false
+    },
+    {
+      "name": "CompText Context",
+      "matched": false
+    },
+    {
+      "name": "Promptfoo",
+      "matched": false
+    },
+    {
+      "name": "Ship",
+      "matched": false
+    },
+    {
+      "name": "Conductor Max Core Router",
+      "matched": false
+    }
+  ]
+}

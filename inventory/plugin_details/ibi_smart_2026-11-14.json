@@ -1,0 +1,32 @@
+{
+  "name": "IBI SMART",
+  "category": "Finance",
+  "provider": "IBI R&D Labs Ltd.",
+  "version": "1.0.2",
+  "observed_at": "2026-11-14",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_69f1dab2f27081918fd0b3c14519b66b?category=finance",
+  "developer_url": "https://www.ibi.co.il/",
+  "privacy_url": "https://www.ibi.co.il/privacy-policy/",
+  "source_description_en": "This service facilitates the technical transfer of information solely for the purpose of viewing account information and does not allow the submission of orders or the execution of transactions or other actions in the account.",
+  "app_description_en": "IBI SMART is an advanced trading platform that empowers users to manage an independent trading account with seamless, real-time access to both the Israeli and U.S. capital markets.",
+  "summary_ja": "IBI SMARTの口座情報を閲覧するために情報を連携するサービス。IBI SMART自体はイスラエルと米国の市場向け取引プラットフォームと説明されている。",
+  "limitations_ja": [
+    "詳細画面は本サービスを情報閲覧用と説明し、注文の送信や口座での取引・操作はできないとしている。",
+    "AI生成情報は一般情報で、不完全または不正確な可能性があると記載。",
+    "口座のユーザー名・パスワードをAIエージェントなど他の人やシステムに渡さないよう明記。"
+  ],
+  "review": "詳細画面の「続きを読む」を展開し、英文・下部情報まで確認。画面記載に基づく記録で、実際の動作・料金・利用条件は未検証。",
+  "catalog_status": "一覧本体に IBI SMART の名前あり。",
+  "official_app_name": "IBI SMART",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "口座情報",
+    "資産管理"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細画面の英語説明全文をアクセシビリティ出力から保存。ヘブライ語との混在により、一部の句読点の表示順が不自然な箇所は取得時のまま。",
+  "original_description": "This service facilitates the technical transfer of information solely for the purpose of viewing account information and does not allow the submission of orders or the execution of transactions or other actions in the account. The service does not constitute investment advice, investment marketing, a recommendation, an opinion, or an offer to take any .action\nInformation generated using Artificial Intelligence (AI) tools is provided for general informational purposes only and may be incomplete or inaccurate. Such information is not tailored to the user's personal needs. The information should not be relied upon for making investment decisions. Users must exercise independent judgment and, where .necessary, consult with a licensed investment advisor\nUsers must not disclose their account login credentials, including usernames and passwords, to any other person or system, including AI agents, bots, or other technological systems. Disclosure of login credentials and their use by others may expose the account to unauthorized access and the execution of transactions or other actions in the .account. Any such use and any resulting loss or damage shall be the responsibility of the user\n.  Use of the service is at the user's sole responsibility and constitutes agreement to the foregoing"
+}

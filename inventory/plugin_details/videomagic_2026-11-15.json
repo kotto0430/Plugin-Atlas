@@ -1,0 +1,23 @@
+{
+  "official_app_name": "Videomagic",
+  "provider": "Videomagic International LLC",
+  "version": "3.0.3",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_69f3198aec808191876254ae5bd50cf1?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "AI gives answers. Humans need explanations. There's a gap. We close it.\n\nVideomagic transforms AI-generated responses into clear, engaging explanations that are easier to understand, remember, share, and act on.\n\nWhether you're learning something new, researching a topic, evaluating a decision, or trying to explain a complex idea to someone else, we help turn information into understanding.\n\nFrom answers to understanding. In minutes.",
+  "app_description": "Videomagic turns topics discussed in ChatGPT, pasted briefs, public URLs, and attached files into videos. ChatGPT authors a video description from the current context; the app does not request or transmit raw conversation history. Users can review a pending draft, confirm rendering, adjust video settings, track progress, and play completed media without leaving ChatGPT.",
+  "summary_ja": "会話の話題、資料や公開URLなどを基に説明動画を作り、生成前に下書きを確認する。",
+  "usage_tags": [
+    "説明動画",
+    "動画制作",
+    "学習"
+  ],
+  "limitations": [
+    "アプリ欄は生の会話履歴を要求・送信しないと説明する一方、画面共通の注意書きは関連するチャットやメモリが共有される場合があると記載。送信内容の実挙動は未検証。",
+    "料金、品質、一覧本体との名称照合は未確認。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "official_app_name": "Flipbook - Publuu",
+  "provider": "Publuu",
+  "version": "2.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_69f09e4602088191bb5322f4bec4b6e9?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Convert your amazing PDFs into stunning flipbooks - share and track them online. All your flipbooks will work flawlessly on all devices. Just upload your PDF and receive a Publuu flipbook for free. Register to keep it longer.",
+  "summary_ja": "PDFをオンラインで共有・閲覧できるフリップブックに変換する。",
+  "usage_tags": [
+    "PDF",
+    "電子ブック",
+    "資料共有"
+  ],
+  "limitations": [
+    "無料で変換でき、長く保持するには登録すると説明。具体的な保存期間や条件は未確認。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Character Maker",
+  "provider": "MegaScenes",
+  "version": "1.0.1",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ae3187324088191ba0de56b91296276?category=creativity",
+  "developer_url": "https://megascenes.com/",
+  "original_description": "Describe a hero, a villain or a mascot and get an original character: a portrait, a full-body figure or a sheet with several views.\n\nChatGPT tells you what the run needs and creates the character in your MegaScenes account when you ask. The image opens in the chat and stays in your library.\n\nFor writers, game masters and game developers.\n\nLimitations: original characters from a description; it does not draw existing characters from films, games or comics, or real people. Making a file needs a signed-in MegaScenes account and runs in it; nothing is made until you confirm. Not for sexual or adult content or for real people's likeness. Files are made by generative models and saved in your MegaScenes library.",
+  "summary_ja": "説明文からオリジナルキャラクターの肖像・全身像・複数方向のシートを生成し、MegaScenesに保存する。",
+  "usage_tags": [
+    "キャラクター制作",
+    "ゲーム制作",
+    "漫画制作",
+    "画像生成"
+  ],
+  "limitations_ja": "MegaScenesへのサインインと生成前の確認が必要と説明。既存の映画・ゲーム・漫画キャラクター、実在人物、成人向け内容は対象外と記載。動作・料金・画像の品質は未検証。",
+  "details_ja": "詳細ページの名称はCharacter Maker、アプリ欄はCharacter Maker by MegaScenes。別のCharacter Creatorとは表示名・提供元・詳細ページが異なる。",
+  "official_app_name": "Character Maker",
+  "official_name_basis": "ChatGPTのプラグイン詳細画面に表示された名称",
+  "category": "Creativity",
+  "observed_at": "2026-11-14",
+  "description_scope": "ChatGPT詳細画面の提供元の英語説明。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "詳細画面の説明と情報欄を確認。インストール・実機能の検証は行っていない。",
+  "catalog_status": "2026-11-14時点の一覧本体 index.html（blob 27fc7d17ee843cc9e0651a6c2913c06326f3b9db）に正式表示名の文字列なし。別名・同名製品との同一性は未確認。"
+}

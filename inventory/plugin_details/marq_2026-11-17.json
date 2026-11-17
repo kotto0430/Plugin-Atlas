@@ -1,0 +1,23 @@
+{
+  "official_app_name": "Marq",
+  "provider": "Marq",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a973e80c5048191a440bb0815c5a241?category=creativity",
+  "observed_at": "2026-11-17",
+  "original_description": "Marq is the Brand Enablement Platform for brand teams supporting creators across the organization. Connect Marq to ChatGPT to find brand templates and use them to create or update on-brand content like one-pagers, datasheets, and social posts. Use ChatGPT to inspect a project’s pages, text, images, and Smart Fields, then rewrite, proofread, or translate copy and replace images. You can also personalize content with user, team, or project information, populate documents from your Marq datasets, and apply Marq Brand Kit colors, fonts, and logos to supported template elements. Export finished projects as PDF, PNG, or JPG. Changes preserve existing styling and element locks, so teams can create and update content faster without losing brand or layout control. ChatGPT only works with content the signed-in user can access in Marq.",
+  "summary_ja": "ブランドのテンプレートやデータを使って資料やSNS素材を作成・編集する。",
+  "usage_tags": [
+    "ブランド管理",
+    "資料作成",
+    "デザイン",
+    "SNS"
+  ],
+  "limitations": [
+    "Marqにサインインした利用者がアクセスできる内容を扱うと説明。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

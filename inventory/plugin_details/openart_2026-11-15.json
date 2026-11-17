@@ -1,0 +1,25 @@
+{
+  "name": "OpenArt",
+  "official_app_name": "OpenArt",
+  "provider": "OpenArt Inc",
+  "version": "1.5.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a42dbbe74c081918a592a0aad65ca26?category=creativity",
+  "developer_url": "https://openart.ai/home",
+  "category": "Creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Create images and videos on OpenArt without leaving ChatGPT, from UGC ads, presenter and talking-head videos to brand commercials, paid social ads and product listing videos. Describe what you want, add reference images if you like, and pick from the latest AI models: Seedance 2.5 / 2.0, Kling 4.0, GPT Image 2.5, Nano Banana Pro / 2, Minimax H3 / H3 max, Gemini Omni Flash, Wan 3.0, and more. OpenArt generates it and brings the result back into the chat, updating as it finishes, so you can go from an idea to a finished image or video in a single conversation. No editing tools required. Revisit your past creations anytime, keep your work organized in projects, and check your credit balance as you go. New models appear here automatically as OpenArt adds them.",
+  "original_description_language": "en",
+  "summary_ja": "参考画像や説明から画像・動画を生成し、制作物をプロジェクトで整理する。",
+  "usage_tags": [
+    "画像制作",
+    "動画制作",
+    "広告"
+  ],
+  "limitations_ja": "画面はモデル名やクレジット残高の確認に言及。実際の利用可能モデル、料金、品質は未検証。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "一覧本体との名称照合は未確認。同名・別名の同一性は未確認。",
+  "review": "詳細画面の説明・情報欄を確認。動作、料金、品質は未検証。"
+}

@@ -1,0 +1,560 @@
+{
+  "source": "エンターテイメント.pdf",
+  "sha256": "aca71709aaebf1c69ff91abd940401c8264de53b36cd298d4209656e7fe6b3f2",
+  "page": 3,
+  "baseline_index_sha": "084b9190ad915493272c9b67f9021e2bbc4a92e3",
+  "rows": [
+    {
+      "row_id": "p03L01",
+      "name": "Show & Tell",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p03L02",
+      "name": "Brain Games",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p03L03",
+      "name": "FindTunes",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p03L04",
+      "name": "thott.bot",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p03L05",
+      "name": "Animal Sounds",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p03L06",
+      "name": "TVBrain: Search Series Guides",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p03L07",
+      "name": "Kickwise",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p03L08",
+      "name": "Cosmic Rebellion",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p03L09",
+      "name": "Julius: Sports Stats & Fantasy",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p03L10",
+      "name": "Santa Claus",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p03L11",
+      "name": "Solitaire Tavern",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p03L12",
+      "name": "FootVal",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p03L13",
+      "name": "Dasha.fm",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p03L14",
+      "name": "AstroZaza",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p03L15",
+      "name": "Astro Yuvam",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p03L16",
+      "name": "Planets360 Astrology",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p03L17",
+      "name": "Orbit",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p03L18",
+      "name": "Rule Masters Arbiter",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p03L19",
+      "name": "GoTickets",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p03L20",
+      "name": "KiedyKoncert",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p03L21",
+      "name": "SongUp AI",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p03L22",
+      "name": "PartyCam",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p03L23",
+      "name": "BingeTube",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p03L24",
+      "name": "MyDramaDB",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p03L25",
+      "name": "Neume",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p03L26",
+      "name": "moviegroupies",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p03L27",
+      "name": "Rising Astrology & Tarot",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p03L28",
+      "name": "Fincanya Kahve Falı",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p03L29",
+      "name": "Keyshift Chord Transposer",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p03L30",
+      "name": "Kaucim Palm Reading",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p03L31",
+      "name": "Kallax.io",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p03L32",
+      "name": "Sonosfera",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p03L33",
+      "name": "TopAIMuza",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p03L34",
+      "name": "LexiDaily",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p03L35",
+      "name": "TEDDY MOUNTAIN",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p03L36",
+      "name": "FPLai Assistant",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p03L37",
+      "name": "withPICA Directory",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p03L38",
+      "name": "Spinn Radio",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p03L39",
+      "name": "My Market Kitchen",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p03L40",
+      "name": "Pairloop Doubles Mixer",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p03L41",
+      "name": "CineSenseAI",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p03L42",
+      "name": "FCData",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p03L43",
+      "name": "Concertje",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p03L44",
+      "name": "Needl",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p03L45",
+      "name": "Pinnacle Nexus Radio",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p03L46",
+      "name": "Eyevo",
+      "match": false,
+      "status": "要再確認"
+    },
+    {
+      "row_id": "p03R01",
+      "name": "Spielogue",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p03R02",
+      "name": "Wix Events Discovery",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p03R03",
+      "name": "Picsel",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p03R04",
+      "name": "Keikibu",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p03R05",
+      "name": "PadConsole",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p03R06",
+      "name": "Statz Football",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p03R07",
+      "name": "webook.com",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p03R08",
+      "name": "Coronet Arcade",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p03R09",
+      "name": "VedPatrika",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p03R10",
+      "name": "ChessEver",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p03R11",
+      "name": "Miney",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p03R12",
+      "name": "ZoneFoundry for Sonos",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p03R13",
+      "name": "Art Spotter",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p03R14",
+      "name": "Authority Astrology",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p03R15",
+      "name": "Birth Oracle",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p03R16",
+      "name": "Charat",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p03R17",
+      "name": "LetterLab Word Solver",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p03R18",
+      "name": "Kidoo",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p03R19",
+      "name": "Mythsensus",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p03R20",
+      "name": "Partynado",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p03R21",
+      "name": "Le Rugby",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p03R22",
+      "name": "CardShow",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p03R23",
+      "name": "Naksha Muhurat",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p03R24",
+      "name": "Cookie Stack with Ottie",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p03R25",
+      "name": "Impostor Party® Games",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p03R26",
+      "name": "Airline Executive",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p03R27",
+      "name": "Destiny Atlas",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p03R28",
+      "name": "TodoWeekend",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p03R29",
+      "name": "Gamechalk Score Keeper",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p03R30",
+      "name": "Birthprint",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p03R31",
+      "name": "GolfCore",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p03R32",
+      "name": "Hiku",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p03R33",
+      "name": "Pawn Break",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p03R34",
+      "name": "Spellbinder",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p03R35",
+      "name": "Spotted.gg",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p03R36",
+      "name": "Anisongs",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p03R37",
+      "name": "WeekendSeek",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p03R38",
+      "name": "fantaclub",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p03R39",
+      "name": "Token Tally",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p03R40",
+      "name": "Solitaire",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p03R41",
+      "name": "Kickhollow Football",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p03R42",
+      "name": "Tableu",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p03R43",
+      "name": "RelayPlay",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p03R44",
+      "name": "Nadirball Football Grid",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p03R45",
+      "name": "Arcopolis",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p03R46",
+      "name": "Enjoyvent",
+      "match": false,
+      "status": "要再確認"
+    }
+  ]
+}

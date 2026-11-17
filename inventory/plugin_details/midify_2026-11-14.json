@@ -1,0 +1,26 @@
+{
+  "name": "Midify",
+  "provider": "Ailmind",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_69660db2b5148191915ac64053ab93ae?category=creativity",
+  "developer_url": "https://ailmind.com/portfolio/midify/",
+  "original_description": "Turn your musical ideas into polished songs with Midify. Whether you have a melody in your head or just a vibe, Midify acts as your AI co-pilot to compose, edit, and enhance your music. Simply ask Midify to generate a chord progression, fix a harmony, or expand a simple loop into a full arrangement. It analyzes your track and provides intelligent suggestions, allowing you to build complex MIDI compositions directly in the chat. No music theory required.",
+  "summary_ja": "コード進行やハーモニーを検討し、会話でMIDIの楽曲構成を作る。",
+  "usage_tags": [
+    "音楽制作",
+    "作曲",
+    "MIDI"
+  ],
+  "limitations_ja": "対応形式や利用条件の詳細は説明だけでは不明。",
+  "official_app_name": "Midify",
+  "official_name_basis": "ChatGPTのプラグイン詳細画面に表示された名称",
+  "category": "Creativity",
+  "observed_at": "2026-11-14",
+  "description_scope": "ChatGPT詳細画面の提供元の英語説明。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "詳細画面の説明と情報欄を確認。実機能、料金、品質は未検証。",
+  "catalog_status": "一覧本体との名称照合は未確認。同名・別名の同一性は未確認。"
+}

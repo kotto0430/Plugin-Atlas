@@ -1,0 +1,21 @@
+{
+  "official_app_name": "AI Fashion Designer",
+  "provider": "F Word",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a83664aaba881919b22679bcc2f862a?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "AI Fashion Designer helps designers turn ideas into finished fashion work. Develop garments, create technical flats, visualize designs on models, generate editorial and runway content, and build a shareable portfolio to present your work, pitch directly to brands, and explore job opportunities.",
+  "summary_ja": "衣服のデザインや平面図、モデル着用イメージ、作品集の制作を支援する。",
+  "usage_tags": [
+    "ファッションデザイン",
+    "衣服",
+    "ポートフォリオ"
+  ],
+  "limitations": [
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

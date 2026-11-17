@@ -1,0 +1,24 @@
+{
+  "official_app_name": "Tolstoy",
+  "provider": "Tolstoy",
+  "version": "1.2.1",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a5f249573388191bc636a69226029c5?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Create AI product videos, product photos, on-model images and social ad creatives for your ecommerce brand. Start with a product image and brand details; no store connection is needed to begin. Find and reuse media from your Tolstoy library. Connect a Shopify store to use catalog products as references. In the Main workspace, tag library videos with store products to make them shoppable.",
+  "app_description": "Tolstoy brings your ecommerce content workflow into ChatGPT. If you're a Tolstoy merchant, you can create marketing creative, manage your media library, browse your product catalog, build onsite widgets, and review ad performance without leaving chat. What you can do: • \"Create a square product image of our new ceramic mug on a clean studio background\" — generate with the Studio creative agent, then refine it • \"Show me my 20 most recent library assets\" — browse, search, rename, and favorite your videos and images • \"What stores are connected, and show me a few products from my catalog\" • \"List my onsite widgets and show me one's configuration\" • \"Show me my best-performing Meta ads from the last 30 days\"",
+  "summary_ja": "EC向けの商品写真・動画・広告素材を作り、素材や商品を管理する。",
+  "usage_tags": [
+    "EC",
+    "商品画像",
+    "動画制作",
+    "広告"
+  ],
+  "limitations": [
+    "商品画像の制作開始にストア連携は不要、商品カタログの参照にはShopify連携が必要と説明。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

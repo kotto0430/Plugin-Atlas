@@ -1,0 +1,24 @@
+{
+  "official_app_name": "Property Video",
+  "provider": "AIGC Pte Ltd",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ab006e179b881918620ba236419415a?category=creativity",
+  "observed_at": "2026-11-17",
+  "original_description": "Create concise 10–12 second real-estate video scripts for development overviews and room-by-room tours. The workflow guides intake one question at a time, keeps project settings consistent, writes Singapore Standard English dialogue, and produces shot guidance, captions, hashtags, and Seedance-ready prompts.",
+  "summary_ja": "不動産紹介用の短い動画台本や撮影指示、字幕、生成用プロンプトを作る。",
+  "usage_tags": [
+    "不動産",
+    "動画制作",
+    "台本",
+    "マーケティング"
+  ],
+  "limitations": [
+    "10～12秒の台本とシンガポール標準英語の台詞に対応すると説明。動画を直接生成するかは説明だけでは不明。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証",
+    "説明だけでは不明"
+  ]
+}

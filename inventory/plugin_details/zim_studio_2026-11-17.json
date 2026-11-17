@@ -1,0 +1,23 @@
+{
+  "official_app_name": "Zim Studio",
+  "provider": "Zim Content",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6aad619989b88191be7c8725658b2a15?category=creativity",
+  "observed_at": "2026-11-17",
+  "original_description": "Turn products, references and scripts into images, videos and audio with Zim Studio. Plan campaigns, write copy and UGC scripts, create stills and carousel assets, and develop cinematic scenes. Edit existing videos with Mirage, Clone and Angles, create storyboards, and organize results in projects. Creative skills help with direction, continuity, formats and review criteria. Connect your Zim Studio account to use your library, brand knowledge and available features. Check the cost before generating; media creation uses your existing Zim Studio credits.",
+  "summary_ja": "商品や台本をもとに広告用の画像・動画・音声や絵コンテを制作。",
+  "usage_tags": [
+    "広告",
+    "動画制作",
+    "画像制作",
+    "絵コンテ"
+  ],
+  "limitations": [
+    "Zim Studioアカウントを接続し、メディア生成には既存のクレジットを使用すると説明。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

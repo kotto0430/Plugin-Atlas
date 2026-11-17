@@ -1,0 +1,23 @@
+{
+  "official_app_name": "Visla Video Maker",
+  "provider": "Visla Inc.",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_69474d7e29408191ba6fd0af7001ac9c?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Visla Video Maker helps users create narrated videos from scripts drafted in ChatGPT. Users can share a video idea or source materials such as text, documents, PDFs, or URLs, and ChatGPT generates a script from that input. Visla then uses the script to create a narrated video with stock footage and background music. Users can open the generated project on Visla from the ChatGPT conversation to continue editing, export it, or download the final video. A Visla account is required to register and sign in to use these features.",
+  "summary_ja": "文章・文書・PDF・URLなどからChatGPTで台本を作り、ストック映像とBGMを使ったナレーション動画を制作。Visla側で編集や書き出しを続けられる。",
+  "usage_tags": [
+    "動画制作",
+    "ナレーション",
+    "台本作成"
+  ],
+  "limitations": [
+    "Vislaアカウントの登録とサインインが必要と説明。",
+    "対応言語、料金、素材の利用条件、出力品質は未確認。",
+    "一覧本体との名称照合は未確認。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "official_app_name": "Details.so",
+  "provider": "Details.so",
+  "version": "1.0.1",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6aa41d5122f48191865e1b4041becce7?category=creativity",
+  "observed_at": "2026-11-16",
+  "original_description": "Turn the website details you love into working code. Find distinctive hero sections, navigation, layouts, and animations, then choose what you want to bring into your own project.\nDetails gives your AI visual references, available source code, and implementation guidance to understand how a selected detail works and adapt it to your content, style, and codebase. Pick a layout, explore an interaction, or combine details from different references to build your website.\nYou can also explore reusable components from the Details Vault. A connected Details account is required.",
+  "summary_ja": "ウェブサイトの参考デザインや部品を探し、コードへの実装を支援。",
+  "usage_tags": [
+    "ウェブデザイン",
+    "プログラミング",
+    "UI",
+    "参考資料"
+  ],
+  "limitations": [
+    "Detailsアカウントの接続が必要。アプリ概要では対象プランが必要で、利用可能なツールや上限はアカウントによると説明。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

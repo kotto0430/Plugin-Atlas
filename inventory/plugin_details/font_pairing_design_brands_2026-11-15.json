@@ -1,0 +1,24 @@
+{
+  "official_app_name": "Font Pairing: Design & Brands",
+  "provider": "Widget",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a605ef150fc819190b151f4a38329d9?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "AI Font pairing for Designers.\nFind beautiful font combinations in seconds with AI. Instead of trying dozens of fonts by hand, describe your project and get a complete font trio made for it. Each triplet includes a heading font, an accent font, and a body font that work well together. Whether you are building a website, designing a logo, creating a brand, making a presentation, or working on a social media post, this tool helps you choose fonts with less guesswork and more confidence.\nGood typography can make a design feel clean, modern, friendly, bold, elegant, or playful. Picking the right fonts is often one of the hardest parts of design. Many fonts look great on their own but do not look good together. This app helps solve that problem. Tell the AI about your project, your audience, or the feeling you want, and it suggests font triplets that match your goals.\nYou can ask for styles like minimal, luxury, vintage, futuristic, editorial, corporate, creative, fun, classic, or high-tech. You can also describe your audience, your industry, or your brand personality. The AI uses your ideas to recommend fonts that fit the mood while keeping the design easy to read.\nEvery recommendation includes three fonts with different jobs. The heading font grabs attention. The accent font adds personality. The body font keeps long text clear and comfortable to read. Together they create a balanced typography system that is easier to use across websites, apps, presentations, posters, packaging, marketing materials, and more.\nThe app is useful for graphic designers, UI and UX designers, web designers, product designers, marketers, students, content creators, agencies, freelancers, startup founders, and anyone who wants better typography without spending hours testing font combinations.\nYou can keep asking for new ideas until you find the style you like. Try different moods, industries, audiences, or visual directions. Ask for alternatives, compare different looks, or explore fresh creative ideas. The AI can help you move from rough concepts to polished typography much faster than searching through large font libraries.\nWhether you need fonts for a modern landing page, a restaurant menu, a fashion brand, a technology company, a portfolio, a mobile app, a book cover, a newsletter, or an event poster, the app helps you discover combinations that fit the project.\nThis tool works well during brainstorming, early design exploration, and final design decisions. It can help you avoid common pairing mistakes and give you inspiration when you feel stuck. It is also useful when you want to experiment with styles you might not have considered before.\nIf you already have one font picked, you can ask for matching options to complete the set. If you only know the feeling you want, the AI can start from that instead. The conversation is flexible, making it easy to refine results until they match your vision.\nInstead of spending time comparing endless font lists, start with a strong typography system designed around your project. Save time, discover new ideas, and create designs with more consistency using AI-powered font triplets built for real design work.",
+  "summary_ja": "企画や雰囲気に合わせ、見出し・アクセント・本文向けの3書体の組み合わせを提案する。",
+  "usage_tags": [
+    "フォント",
+    "デザイン",
+    "ブランディング",
+    "UI設計"
+  ],
+  "limitations": [
+    "日本語フォントの対応やライセンス条件は説明だけでは不明。",
+    "実動作・料金・一覧本体との名称照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証",
+    "説明だけでは不明"
+  ]
+}

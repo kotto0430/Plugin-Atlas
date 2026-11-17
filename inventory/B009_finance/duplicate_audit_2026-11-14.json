@@ -1,0 +1,111 @@
+{
+  "date": "2026-11-14",
+  "catalog_blob": "ed517167a5188fd9018de0c4c041e146750b43b9",
+  "catalog_records": 3940,
+  "catalog_comparison": "NFKC正規化、小文字化、前後空白除去、空白連続統一。さらに文字・数字以外の記号と空白を取り除く比較も実施。",
+  "catalog_duplicate_name_groups": 0,
+  "limitations": "名前だけの比較では異名の同一アプリ、同名の別アプリ、誤記は判別できない。",
+  "finance_observations": 943,
+  "finance_normalized_distinct_names": 936,
+  "finance_repeated_names": [
+    {
+      "name": "co-invest",
+      "observations": [
+        {
+          "source": "chrome_partial_names_2026-11-14.json",
+          "name": "Co-Invest"
+        },
+        {
+          "source": "chrome_visual_06_2026-11-14.json",
+          "name": "Co-Invest"
+        }
+      ],
+      "status": "同名表示。別アプリの可能性を含め同一性未確認。記録を維持。"
+    },
+    {
+      "name": "investmentiq",
+      "observations": [
+        {
+          "source": "chrome_partial_names_2026-11-14.json",
+          "name": "InvestmentIQ"
+        },
+        {
+          "source": "chrome_visual_06_2026-11-14.json",
+          "name": "InvestmentIQ"
+        }
+      ],
+      "status": "同名表示。別アプリの可能性を含め同一性未確認。記録を維持。"
+    },
+    {
+      "name": "wealthcheck financial planner",
+      "observations": [
+        {
+          "source": "chrome_partial_names_2026-11-14.json",
+          "name": "WealthCheck Financial Planner"
+        },
+        {
+          "source": "chrome_visual_07_2026-11-14.json",
+          "name": "WealthCheck Financial Planner"
+        }
+      ],
+      "status": "同名表示。別アプリの可能性を含め同一性未確認。記録を維持。"
+    },
+    {
+      "name": "realestateiq",
+      "observations": [
+        {
+          "source": "chrome_partial_names_2026-11-14.json",
+          "name": "RealEstateIQ"
+        },
+        {
+          "source": "chrome_visual_06_2026-11-14.json",
+          "name": "RealEstateIQ"
+        }
+      ],
+      "status": "同名表示。別アプリの可能性を含め同一性未確認。記録を維持。"
+    },
+    {
+      "name": "retirementiq",
+      "observations": [
+        {
+          "source": "chrome_partial_names_2026-11-14.json",
+          "name": "RetirementIQ"
+        },
+        {
+          "source": "chrome_visual_07_2026-11-14.json",
+          "name": "RetirementIQ"
+        }
+      ],
+      "status": "同名表示。別アプリの可能性を含め同一性未確認。記録を維持。"
+    },
+    {
+      "name": "mortgage iq",
+      "observations": [
+        {
+          "source": "chrome_partial_names_2026-11-14.json",
+          "name": "Mortgage IQ"
+        },
+        {
+          "source": "chrome_visual_06_2026-11-14.json",
+          "name": "Mortgage IQ"
+        }
+      ],
+      "status": "同名表示。別アプリの可能性を含め同一性未確認。記録を維持。"
+    },
+    {
+      "name": "autoiq",
+      "observations": [
+        {
+          "source": "chrome_partial_names_2026-11-14.json",
+          "name": "AutoIQ"
+        },
+        {
+          "source": "chrome_visual_07_2026-11-14.json",
+          "name": "AutoIQ"
+        }
+      ],
+      "status": "同名表示。別アプリの可能性を含め同一性未確認。記録を維持。"
+    }
+  ],
+  "note": "Mortgage IQ は先頭側と後方で説明・アイコンが異なる表示を観察。先頭側の読み上げ名のみでは各公式IDを確認できず、同名を自動統合しない。"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Synci",
+  "official_app_name": "Synci",
+  "official_name_basis": "ChatGPTのプラグイン詳細画面に表示された名称",
+  "category": "Finance",
+  "provider": "Synci",
+  "version": "1.0.0",
+  "observed_at": "2026-11-14",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a57f2af314c8191a8d4009d70725e9d?category=finance",
+  "original_description": "Synci connects your real bank, brokerage, and crypto-exchange accounts to AI assistants, read-only. Ask about balances, transactions, holdings, and spending across all your accounts in one place:\n\n\"What did I spend on groceries last month?\"\n\"Which subscriptions am I paying for, and what do they cost per year?\"\n\"How is my portfolio allocated across stocks, ETFs, and crypto?\"\n\"Compare my checking account balance today with the start of the month.\"\n\"Are any of my bank connections failing?\"\n\nSynci aggregates accounts across thousands of institutions:\n• Banks in Europe and the UK via GoCardless Bank Account Data\n• Banks in New Zealand via Akahu\n• Investment brokerages and crypto exchanges via SnapTrade\n\nAll connected accounts are visible through one MCP server, in their native currencies.",
+  "description_scope": "ChatGPTのプラグイン詳細に表示された提供元の英語説明",
+  "summary_ja": "銀行・証券・暗号資産口座を読み取り専用で連携し、残高や支出などについて質問できる。",
+  "usage_tags": [
+    "家計管理",
+    "資産管理",
+    "銀行口座"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "limitations_ja": "銀行は説明上、欧州・英国およびニュージーランドのサービスを使用。日本の銀行への対応はこの説明では不明。読み取り専用という説明と実際の挙動は別途検証が必要。",
+  "review": "詳細画面の説明と情報欄を確認。個人口座を接続せず、実際の動作は確認していない。",
+  "catalog_status": "一覧本体との名称照合は未確認。"
+}

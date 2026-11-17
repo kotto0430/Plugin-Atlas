@@ -1,0 +1,22 @@
+{
+  "official_app_name": "HardenUI",
+  "provider": "Saul Martí",
+  "version": "2.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugins_6aa3091ad9208191a48b9fc2276e2751?category=creativity",
+  "observed_at": "2026-11-17",
+  "original_description": "Uses the real vendored Impeccable workflow. Specialized for production hardening of error states, overflow, internationalization, unusual content, and interface edge cases.",
+  "summary_ja": "画面のエラー表示、はみ出し、多言語対応などの例外的なケースへの対応を支援。",
+  "usage_tags": [
+    "UI",
+    "プログラミング",
+    "国際化",
+    "品質改善"
+  ],
+  "limitations": [
+    "実動作・対応範囲・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

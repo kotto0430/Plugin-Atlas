@@ -1,0 +1,30 @@
+{
+  "name": "Moneytree",
+  "official_app_name": "Moneytree",
+  "official_name_basis": "ChatGPTのアプリ詳細画面に表示された名称",
+  "category": "Finance",
+  "provider": "マネーツリー株式会社",
+  "version": "1.0.0",
+  "observed_at": "2026-11-14",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_69c3322462288191a4b198f3ff39db2c?category=finance",
+  "original_description": "Ask questions about your finances using your Moneytree data.\n\nAfter connecting your account, you can use ChatGPT to explore your balances and transactions in a simple, conversational way. Understand your spending patterns, track subscriptions, and review recent activity—all based on your actual financial data.\n\nBy looking across multiple transactions at once, the app helps you spot trends and habits that are hard to see on your own, making it easier to reflect on your spending and plan ahead.",
+  "description_scope": "ChatGPTのアプリ詳細に表示された提供元の英語説明",
+  "summary_ja": "Moneytreeのアカウントを連携して、残高・取引履歴や支出傾向、サブスクリプションを会話で確認する。",
+  "usage_tags": [
+    "家計管理",
+    "支出管理",
+    "サブスクリプション管理"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "limitations_ja": "金融データを使うにはアカウントの連携が前提と説明されている。対応金融機関や料金はこの説明だけでは未確認。",
+  "review": "詳細画面の説明と情報欄を確認。個人データは接続せず、実動作は検証していない。",
+  "catalog_status": "一覧本体との名称照合は未確認。",
+  "example_prompts": [
+    "このアプリでは何ができますか？",
+    "今月どんな支出がありましたか",
+    "取引履歴を確認したい"
+  ]
+}

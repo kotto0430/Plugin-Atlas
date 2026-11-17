@@ -1,0 +1,23 @@
+{
+  "official_app_name": "Studio Ghibli Anime Creator",
+  "provider": "The Doers Firm",
+  "version": "0.1.0",
+  "source_url": "https://chatgpt.com/plugins/plugins_6ab0e643fa34819180e4d58ea92cb41c?category=creativity",
+  "observed_at": "2026-11-17",
+  "original_description": "Transform user-provided photos and ideas into original, hand-painted anime-inspired scenes with expressive characters, storybook environments, cinematic composition, and respectful editing guidance.",
+  "summary_ja": "写真やアイデアをもとに、手描き風のアニメ調の場面づくりを支援。",
+  "usage_tags": [
+    "イラスト",
+    "アニメ",
+    "画像編集",
+    "物語"
+  ],
+  "limitations": [
+    "提供元はThe Doers Firmと表示。名称だけでスタジオジブリとの関係は判断できない。",
+    "実動作・画像の直接生成範囲・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

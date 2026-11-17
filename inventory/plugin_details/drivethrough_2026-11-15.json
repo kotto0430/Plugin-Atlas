@@ -1,0 +1,21 @@
+{
+  "official_app_name": "Drivethrough",
+  "provider": "Made by Tim LLC",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a7be9a728448191adb2f3bead7b99d0?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Describe the website you want, and it's live in seconds. No code, no settings, no website builder to learn - you say what you want, ChatGPT builds it, and Drivethrough puts it online.\nEvery site starts private, visible only to you. Share it like a doc link - send it to exactly the people you choose, no accounts needed - or make it public for the world when you're ready. That makes Drivethrough good for two kinds of sites: the little ones that were never for the whole internet (trip plans, the family recipe book, a tool that splits the bills), and the public ones you've been meaning to make (the plumbing business, the band, the bake sale).\nChanging a site is just asking again. Every change is saved, so you can roll back to any earlier version instantly. Forms and RSVPs land in your email. Public sites can use your own web address, and it's free to start.",
+  "summary_ja": "会話でウェブサイトを作成・変更し、非公開共有や公開、フォームの受信、以前の版への復元を行う。",
+  "usage_tags": [
+    "ウェブサイト制作",
+    "情報共有",
+    "フォーム"
+  ],
+  "limitations": [
+    "無料で開始できるとの提供元の説明。料金・公開範囲・実動作・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

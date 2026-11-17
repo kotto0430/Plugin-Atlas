@@ -8,7 +8,7 @@ Plugin Atlas estas **senpaga, neoficiala gvidilo** por trovi, konservi kaj uzi C
 
 ## Ĉefaj funkcioj
 
-- **117 aplikaĵoj, 14 kategorioj kaj 9 lingvoj** (v3.11)
+- **134 aplikaĵoj, 16 kategorioj kaj 9 lingvoj** (v3.12)
 - Serĉu laŭ nomo aŭ celo kaj esploru laŭ kategorio
 - Konservu ŝatatajn aplikaĵojn en **Miaj aplikaĵoj**
 - Sendu proponitan peton al ChatGPT per la butono **Uzi**

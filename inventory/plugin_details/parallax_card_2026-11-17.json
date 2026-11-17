@@ -1,0 +1,23 @@
+{
+  "official_app_name": "Parallax Card",
+  "provider": "WENJIE WEI",
+  "version": "1.0.1",
+  "source_url": "https://chatgpt.com/plugins/plugins_6ab4679a39dc819196032dfe48ca3144?category=creativity",
+  "observed_at": "2026-11-17",
+  "original_description": "Design and build interactive collectible cards from your characters, products, or artwork. Parallax Card guides separate background and transparent character artwork, readable live typography, pointer-reactive 3D depth, foil highlights, and optional flip and layer views. Includes adaptable React, CSS, and motion-hook templates with keyboard controls, reduced-motion support, and integration guidance. Use your own artwork or generate new art with an available image-generation tool. Artwork binaries are not included.",
+  "summary_ja": "キャラクターや作品から、傾きや光に反応する立体的なカードを作る。",
+  "usage_tags": [
+    "カード制作",
+    "キャラクター",
+    "UI",
+    "プログラミング"
+  ],
+  "limitations": [
+    "画像素材は付属せず、手持ちの画像または利用可能な画像生成ツールを使うと説明。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

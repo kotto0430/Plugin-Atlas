@@ -1,0 +1,26 @@
+{
+  "name": "TicToon",
+  "official_app_name": "TicToon",
+  "provider": "HAIL KANG",
+  "version": "2.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ae2b94197688191acdd9f5bcaf07d2f?category=creativity",
+  "developer_url": "https://tictoon.app/",
+  "category": "Creativity",
+  "observed_at": "2026-11-14",
+  "original_description": "TicToon lets you publish comics made in ChatGPT to the TicToon channels you have joined. List your channels, upload images you created or attached in ChatGPT (JPEG, PNG, WebP or GIF, up to 10 per post), and publish them as a new comic thread with a caption. Every action runs with the permissions you granted when connecting, and you can only post in channels you already joined. You can disconnect at any time from Connected apps on tictoon.app.",
+  "original_description_language": "en",
+  "description_scope": "ChatGPT詳細画面の提供元の英語説明。",
+  "summary_ja": "参加済みTicToonチャンネルに、画像と文章を漫画のスレッドとして投稿する。",
+  "usage_tags": [
+    "漫画制作",
+    "漫画公開",
+    "投稿"
+  ],
+  "limitations_ja": "投稿先は参加済みチャンネルに限り、1投稿の画像は最大10枚と説明。実際の接続・投稿は未検証。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "詳細画面の説明と情報欄を確認。実動作・料金・品質・権利条件は未検証。",
+  "catalog_status": "一覧本体との名称照合は未確認。同名・別名の同一性は未確認。"
+}

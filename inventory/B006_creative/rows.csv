@@ -1,0 +1,675 @@
+﻿row_id,page,column,row,display_name,candidate_text,status,review_note,ocr_raw,existing_name_match,evidence
+p01L01,1,L,1,Canva,Canva,画像照合済み,,Canva,True,evidence/page-01.png
+p01L02,1,L,2,Figma,Figma,画像照合済み,,Figma,True,evidence/page-01.png
+p01L03,1,L,3,Product Design,Product Design,画像照合済み,,Product Design,True,evidence/page-01.png
+p01L04,1,L,4,Descript,Descript,画像照合済み,,Descript,True,evidence/page-01.png
+p01L05,1,L,5,OpenArt,OpenArt,画像照合済み,,OpenArt,False,evidence/page-01.png
+p01L06,1,L,6,Magnific,Magnific,画像照合済み,,Magnific,True,evidence/page-01.png
+p01L07,1,L,7,AI Voice Generator,AI Voice Generator,画像照合済み,,Al Voice Generator,False,evidence/page-01.png
+p01L08,1,L,8,Gamma,Gamma,画像照合済み,,Gamma,False,evidence/page-01.png
+p01L09,1,L,9,HyperFrames by HeyGen,HyperFrames by HeyGen,画像照合済み,,HyperFrames by HeyGen,False,evidence/page-01.png
+p01L10,1,L,10,AI Video Maker,AI Video Maker,画像照合済み,,Al Video Maker,False,evidence/page-01.png
+p01L11,1,L,11,Krea,Krea,画像照合済み,,Krea,False,evidence/page-01.png
+p01L12,1,L,12,Mobbin,Mobbin,画像照合済み,,Mobbin,False,evidence/page-01.png
+p01L13,1,L,13,Adobe Express,Adobe Express,画像照合済み,,Adobe Express,False,evidence/page-01.png
+p01L14,1,L,14,Autodesk Product Help,Autodesk Product Help,画像照合済み,,Autodesk Product Help,False,evidence/page-01.png
+p01L15,1,L,15,Arcads,Arcads,画像照合済み,,Arcads,False,evidence/page-01.png
+p01L16,1,L,16,Instavar Video Templates,Instavar Video Templates,画像照合済み,,Instavar Video Templates,False,evidence/page-01.png
+p01L17,1,L,17,OpusClip: Video Editing,OpusClip: Video Editing,画像照合済み,,OpusClip: Video Editing,False,evidence/page-01.png
+p01L18,1,L,18,VideoGen - AI Video Generator,VideoGen - AI Video Generator,画像照合済み,,VideoGen - Al Video Generator,False,evidence/page-01.png
+p01L19,1,L,19,ImagineArt,ImagineArt,画像照合済み,,ImagineArt,False,evidence/page-01.png
+p01L20,1,L,20,sync. labs,sync. labs,画像照合済み,,sync. labs,False,evidence/page-01.png
+p01L21,1,L,21,MyFonts,MyFonts,画像照合済み,,MyFonts,False,evidence/page-01.png
+p01L22,1,L,22,Genspark AI Slides,Genspark AI Slides,画像照合済み,,Genspark Al Slides,False,evidence/page-01.png
+p01L23,1,L,23,Riverside,Riverside,画像照合済み,,Riverside,False,evidence/page-01.png
+p01L24,1,L,24,Videomagic,Videomagic,画像照合済み,,Videomagic,False,evidence/page-01.png
+p01L25,1,L,25,Frameo.AI,Frameo.AI,画像照合済み,,Frameo.Al,False,evidence/page-01.png
+p01L26,1,L,26,Tesseract,Tesseract,画像照合済み,,Tesseract,False,evidence/page-01.png
+p01L27,1,L,27,Synthesia,Synthesia,画像照合済み,,Synthesia,False,evidence/page-01.png
+p01L28,1,L,28,B12 Website Generator,B12 Website Generator,画像照合済み,,B12 Website Generator,False,evidence/page-01.png
+p01L29,1,L,29,Morphix,Morphix,画像照合済み,,Morphix,False,evidence/page-01.png
+p01L30,1,L,30,Orshot,Orshot,画像照合済み,,Orshot,False,evidence/page-01.png
+p01L31,1,L,31,Apixel,Apixel,画像照合済み,,Apixel,False,evidence/page-01.png
+p01L32,1,L,32,Screel,Screel,画像照合済み,,Screel,False,evidence/page-01.png
+p01L33,1,L,33,Instant Website,Instant Website,画像照合済み,,Instant Website,False,evidence/page-01.png
+p01L34,1,L,34,LogoGenic Image Generator,LogoGenic Image Generator,画像照合済み,,LogoGenic Image Generator,False,evidence/page-01.png
+p01L35,1,L,35,TalkGen,TalkGen,画像照合済み,,TalkGen,False,evidence/page-01.png
+p01L36,1,L,36,Hypernatural,Hypernatural,画像照合済み,,Hypernatural,False,evidence/page-01.png
+p01L37,1,L,37,Insta Website Builder,Insta Website Builder,画像照合済み,,Insta Website Builder,False,evidence/page-01.png
+p01L38,1,L,38,Krikey AI Animation,Krikey AI Animation,画像照合済み,,Krikey Al Animation,False,evidence/page-01.png
+p01L39,1,L,39,Pixlie,Pixlie,画像照合済み,,Pixlie,False,evidence/page-01.png
+p01L40,1,L,40,Website Builder,Website Builder,画像照合済み,,Website Builder,False,evidence/page-01.png
+p01L41,1,L,41,Font Pairing: Design & Brands,Font Pairing: Design & Brands,画像照合済み,,Font Pairing: Design & Brands,False,evidence/page-01.png
+p01L42,1,L,42,Glinded for Birthday Videos,Glinded for Birthday Videos,画像照合済み,,Glinded for Birthday Videos,False,evidence/page-01.png
+p01L43,1,L,43,AI Song Maker,AI Song Maker,画像照合済み,,Al Song Maker,False,evidence/page-01.png
+p01R01,1,R,1,Higgsfield,Higgsfield,画像照合済み,,Higgsfield,True,evidence/page-01.png
+p01R02,1,R,2,Runway,Runway,画像照合済み,,Runway,True,evidence/page-01.png
+p01R03,1,R,3,HeyGen,HeyGen,画像照合済み,,HeyGen,True,evidence/page-01.png
+p01R04,1,R,4,Adobe,Adobe,画像照合済み,,Adobe,True,evidence/page-01.png
+p01R05,1,R,5,Creative Production,Creative Production,画像照合済み,,Creative Production,False,evidence/page-01.png
+p01R06,1,R,6,invideo,invideo,画像照合済み,,invideo,False,evidence/page-01.png
+p01R07,1,R,7,fal,fal,画像照合済み,,fal,True,evidence/page-01.png
+p01R08,1,R,8,Creative Claw,Creative Claw,画像照合済み,,Creative Claw,False,evidence/page-01.png
+p01R09,1,R,9,Picsart,Picsart,画像照合済み,,Picsart,False,evidence/page-01.png
+p01R10,1,R,10,Everygen,Everygen,画像照合済み,,Everygen,False,evidence/page-01.png
+p01R11,1,R,11,Pollo AI,Pollo AI,画像照合済み,,Pollo Al,False,evidence/page-01.png
+p01R12,1,R,12,Topview,Topview,画像照合済み,,Topview,False,evidence/page-01.png
+p01R13,1,R,13,Refero,Refero,画像照合済み,,Refero,False,evidence/page-01.png
+p01R14,1,R,14,Visla Video Maker,Visla Video Maker,画像照合済み,,Visla Video Maker,False,evidence/page-01.png
+p01R15,1,R,15,VEED Video Generator,VEED Video Generator,画像照合済み,,VEED Video Generator,False,evidence/page-01.png
+p01R16,1,R,16,MagicPath,MagicPath,画像照合済み,,MagicPath,True,evidence/page-01.png
+p01R17,1,R,17,BlitzReels,BlitzReels,画像照合済み,,BlitzReels,False,evidence/page-01.png
+p01R18,1,R,18,VideoZero,VideoZero,画像照合済み,,VideoZero,False,evidence/page-01.png
+p01R19,1,R,19,to3D,to3D,画像照合済み,,to3D,False,evidence/page-01.png
+p01R20,1,R,20,BioRender,BioRender,画像照合済み,,BioRender,False,evidence/page-01.png
+p01R21,1,R,21,Kling AI for Terminal,Kling AI for Terminal,画像照合済み,,Kling Al for Terminal,False,evidence/page-01.png
+p01R22,1,R,22,Sparki,Sparki,画像照合済み,,Sparki,False,evidence/page-01.png
+p01R23,1,R,23,AI Graphic Design,AI Graphic Design,画像照合済み,,Al Graphic Design,False,evidence/page-01.png
+p01R24,1,R,24,Shutterstock,Shutterstock,画像照合済み,,Shutterstock,False,evidence/page-01.png
+p01R25,1,R,25,Tesseract,Tesseract,画像照合済み,,Tesseract,False,evidence/page-01.png
+p01R26,1,R,26,AI Music Maker,AI Music Maker,画像照合済み,,Al Music Maker,False,evidence/page-01.png
+p01R27,1,R,27,NoveLand for Writers,NoveLand for Writers,画像照合済み,,NoveLand for Writers,False,evidence/page-01.png
+p01R28,1,R,28,Deep Art AI,Deep Art AI,画像照合済み,,Deep Art Al,False,evidence/page-01.png
+p01R29,1,R,29,PixVerse (Legacy; EOL soon),PixVerse (Legacy; EOL soon),画像照合済み,,PixVerse (Legacy; EOL soon),False,evidence/page-01.png
+p01R30,1,R,30,Color Designer - Palette Maker,Color Designer - Palette Maker,画像照合済み,,Color Designer - Palette Maker,False,evidence/page-01.png
+p01R31,1,R,31,AI Video Generator,AI Video Generator,画像照合済み,,Al Video Generator,False,evidence/page-01.png
+p01R32,1,R,32,FLORA,FLORA,画像照合済み,,FLORA,False,evidence/page-01.png
+p01R33,1,R,33,MangaBoom,MangaBoom,画像照合済み,,MangaBoom,False,evidence/page-01.png
+p01R34,1,R,34,Loomly,Loomly,画像照合済み,,Loomly,False,evidence/page-01.png
+p01R35,1,R,35,Midify,Midify,画像照合済み,,Midify,False,evidence/page-01.png
+p01R36,1,R,36,drawDash - Sketch Challenge!,drawDash - Sketch Challenge!,画像照合済み,,drawDash - Sketch Challenge!,False,evidence/page-01.png
+p01R37,1,R,37,Meshy,Meshy,画像照合済み,,Meshy,False,evidence/page-01.png
+p01R38,1,R,38,Kolbo.AI,Kolbo.AI,画像照合済み,,Kolbo.Al,False,evidence/page-01.png
+p01R39,1,R,39,WalkMyPlan — Floor Plans in 3D,WalkMyPlan — Floor Plans in 3D,画像照合済み,,WalkMyPlan — Floor Plans in 3D,False,evidence/page-01.png
+p01R40,1,R,40,UX Pilot,UX Pilot,画像照合済み,,UX Pilot,False,evidence/page-01.png
+p01R41,1,R,41,Kive,Kive,画像照合済み,,Kive,False,evidence/page-01.png
+p01R42,1,R,42,Image to Video,Image to Video,画像照合済み,,Image to Video,False,evidence/page-01.png
+p01R43,1,R,43,Grapes Studio,Grapes Studio,画像照合済み,,Grapes Studio,False,evidence/page-01.png
+p02L01,2,L,1,Animation Maker,Animation Maker,画像照合済み,,Animation Maker,False,evidence/page-02.png
+p02L02,2,L,2,Havi: Slides & PPT Maker,Havi: Slides & PPT Maker,画像照合済み,,Havi: Slides & PPT Maker,False,evidence/page-02.png
+p02L03,2,L,3,Interior Company,Interior Company,画像照合済み,,Interior Company,False,evidence/page-02.png
+p02L04,2,L,4,123 Piano,123 Piano,画像照合済み,,123 Piano,False,evidence/page-02.png
+p02L05,2,L,5,Motionvid,Motionvid,画像照合済み,,Motionvid,False,evidence/page-02.png
+p02L06,2,L,6,HZplan,HZplan,画像照合済み,,HZplan,False,evidence/page-02.png
+p02L07,2,L,7,VisualSong,VisualSong,画像照合済み,,VisualSong,False,evidence/page-02.png
+p02L08,2,L,8,FashionTrendAI,FashionTrendAI,画像照合済み,,FashionTrendAl,False,evidence/page-02.png
+p02L09,2,L,9,AI Image Generator,AI Image Generator,画像照合済み,,Al Image Generator,False,evidence/page-02.png
+p02L10,2,L,10,Martini,Martini,画像照合済み,,Martini,False,evidence/page-02.png
+p02L11,2,L,11,Kopi - Shopify Email Creator,Kopi - Shopify Email Creator,画像照合済み,,Kopi - Shopify Email Creator,False,evidence/page-02.png
+p02L12,2,L,12,Pika,Pika,画像照合済み,,Pika,False,evidence/page-02.png
+p02L13,2,L,13,Logo Generator,Logo Generator,画像照合済み,,Logo Generator,False,evidence/page-02.png
+p02L14,2,L,14,Vectorize,Vectorize,画像照合済み,,Vectorize,False,evidence/page-02.png
+p02L15,2,L,15,Infographic Artist,Infographic Artist,画像照合済み,,Infographic Artist,False,evidence/page-02.png
+p02L16,2,L,16,Faces,Faces,画像照合済み,,Faces,False,evidence/page-02.png
+p02L17,2,L,17,VIXNODE,VIXNODE,画像照合済み,,VIXNODE,False,evidence/page-02.png
+p02L18,2,L,18,DepositPhotos,DepositPhotos,画像照合済み,,DepositPhotos,False,evidence/page-02.png
+p02L19,2,L,19,Flipbook - Publuu,Flipbook - Publuu,画像照合済み,,Flipbook - Publuu,False,evidence/page-02.png
+p02L20,2,L,20,Vocuno,Vocuno,画像照合済み,,Vocuno,False,evidence/page-02.png
+p02L21,2,L,21,Amazing Drawing,Amazing Drawing,画像照合済み,,Amazing Drawing,False,evidence/page-02.png
+p02L22,2,L,22,B&A: Sketch,B&A: Sketch,画像照合済み,,B&A: Sketch,False,evidence/page-02.png
+p02L23,2,L,23,Poster Maker,Poster Maker,画像照合済み,,Poster Maker,False,evidence/page-02.png
+p02L24,2,L,24,Whiteboard by Athena AI,Whiteboard by Athena AI,画像照合済み,,Whiteboard by Athena Al,False,evidence/page-02.png
+p02L25,2,L,25,Flipsnack,Flipsnack,画像照合済み,,Flipsnack,False,evidence/page-02.png
+p02L26,2,L,26,Kittl,Kittl,画像照合済み,,Kittl,False,evidence/page-02.png
+p02L27,2,L,27,Story Writer,Story Writer,画像照合済み,,Story Writer,False,evidence/page-02.png
+p02L28,2,L,28,Image Generator,Image Generator,画像照合済み,,Image Generator,False,evidence/page-02.png
+p02L29,2,L,29,Make A Viz,Make A Viz,画像照合済み,,Make A Viz,False,evidence/page-02.png
+p02L30,2,L,30,SSHOW,SSHOW,画像照合済み,,SSHOW,False,evidence/page-02.png
+p02L31,2,L,31,Maze,Maze,画像照合済み,,Maze,False,evidence/page-02.png
+p02L32,2,L,32,PrintTiler,PrintTiler,画像照合済み,,PrintTiler,False,evidence/page-02.png
+p02L33,2,L,33,Architecture Designer,Architecture Designer,画像照合済み,,Architecture Designer,False,evidence/page-02.png
+p02L34,2,L,34,Inkroost: Comic & Manga Maker,Inkroost: Comic & Manga Maker,画像照合済み,,Inkroost: Comic & Manga Maker,False,evidence/page-02.png
+p02L35,2,L,35,12ui Design,12ui Design,画像照合済み,,12ui Design,False,evidence/page-02.png
+p02L36,2,L,36,Subdivide,Subdivide,画像照合済み,,Subdivide,False,evidence/page-02.png
+p02L37,2,L,37,3aqel Arabic Creative,3aqel Arabic Creative,画像照合済み,,3aqel Arabic Creative,False,evidence/page-02.png
+p02L38,2,L,38,Sequel.io,Sequel.io,画像照合済み,,Sequel.io,False,evidence/page-02.png
+p02L39,2,L,39,Goldie,Goldie,画像照合済み,,Goldie,False,evidence/page-02.png
+p02L40,2,L,40,Logo Designer,Logo Designer,画像照合済み,,Logo Designer,False,evidence/page-02.png
+p02L41,2,L,41,Pexafy Stock Photos,Pexafy Stock Photos,画像照合済み,,Pexafy Stock Photos,False,evidence/page-02.png
+p02L42,2,L,42,Aspicio,Aspicio,画像照合済み,,Aspicio,False,evidence/page-02.png
+p02L43,2,L,43,Atlas Cloud,Atlas Cloud,画像照合済み,,Atlas Cloud,False,evidence/page-02.png
+p02L44,2,L,44,Malloy Studio,Malloy Studio,画像照合済み,,Malloy Studio,False,evidence/page-02.png
+p02L45,2,L,45,Tripo 3D,Tripo 3D,画像照合済み,,Tripo 3D,False,evidence/page-02.png
+p02L46,2,L,46,Taste,Taste,画像照合済み,,Taste,False,evidence/page-02.png
+p02L47,2,L,47,Heyzine Flipbooks,Heyzine Flipbooks,画像照合済み,,Heyzine Flipbooks,False,evidence/page-02.png
+p02R01,2,R,1,Montage,Montage,画像照合済み,,Montage,False,evidence/page-02.png
+p02R02,2,R,2,VoiceLabs,VoiceLabs,画像照合済み,,VoiceLabs,False,evidence/page-02.png
+p02R03,2,R,3,Supericons,Supericons,画像照合済み,,Supericons,False,evidence/page-02.png
+p02R04,2,R,4,Impeccable,Impeccable,画像照合済み,,Impeccable,False,evidence/page-02.png
+p02R05,2,R,5,AI Color Picker - Design Tool,AI Color Picker - Design Tool,画像照合済み,,Al Color Picker - Design Tool,False,evidence/page-02.png
+p02R06,2,R,6,kernelCAD,kernelCAD,画像照合済み,,kernelCAD,False,evidence/page-02.png
+p02R07,2,R,7,Morphed,Morphed,画像照合済み,,Morphed,False,evidence/page-02.png
+p02R08,2,R,8,Pablooo.club Benchmark library,Pablooo.club Benchmark library,画像照合済み,,Pablooo.club Benchmark library,False,evidence/page-02.png
+p02R09,2,R,9,Faceless Video Maker,Faceless Video Maker,画像照合済み,,Faceless Video Maker,False,evidence/page-02.png
+p02R10,2,R,10,Glinded for Memorial Videos,Glinded for Memorial Videos,画像照合済み,,Glinded for Memorial Videos,False,evidence/page-02.png
+p02R11,2,R,11,Designly,Designly,画像照合済み,,Designly,False,evidence/page-02.png
+p02R12,2,R,12,Clipwave Video & Image Maker,Clipwave Video & Image Maker,画像照合済み,,Clipwave Video & Image Maker,False,evidence/page-02.png
+p02R13,2,R,13,01 Superdesign,01 Superdesign,画像照合済み,,01 Superdesign,False,evidence/page-02.png
+p02R14,2,R,14,Pixelixe,Pixelixe,画像照合済み,,Pixelixe,False,evidence/page-02.png
+p02R15,2,R,15,Vulca,Vulca,画像照合済み,,Vulca,False,evidence/page-02.png
+p02R16,2,R,16,Mirelo,Mirelo,画像照合済み,,Mirelo,False,evidence/page-02.png
+p02R17,2,R,17,Gradient Maker - Linear Color,Gradient Maker - Linear Color,画像照合済み,,Gradient Maker - Linear Color,False,evidence/page-02.png
+p02R18,2,R,18,Simple SoapCalc,Simple SoapCalc,画像照合済み,,Simple SoapCalc,False,evidence/page-02.png
+p02R19,2,R,19,UI UX Designer,UI UX Designer,画像照合済み,,UI UX Designer,False,evidence/page-02.png
+p02R20,2,R,20,AI Photo Editor,AI Photo Editor,画像照合済み,,Al Photo Editor,False,evidence/page-02.png
+p02R21,2,R,21,Alpix,Alpix,画像照合済み,,Alpix,False,evidence/page-02.png
+p02R22,2,R,22,B&A: Draw Sketches,B&A: Draw Sketches,画像照合済み,,B&A: Draw Sketches,False,evidence/page-02.png
+p02R23,2,R,23,Davia Creation,Davia Creation,画像照合済み,,Davia Creation,False,evidence/page-02.png
+p02R24,2,R,24,Appllama,Appllama,画像照合済み,,Appllama,False,evidence/page-02.png
+p02R25,2,R,25,Sonilo,Sonilo,画像照合済み,,Sonilo,False,evidence/page-02.png
+p02R26,2,R,26,Spline,Spline,画像照合済み,,Spline,False,evidence/page-02.png
+p02R27,2,R,27,Wixel,Wixel,画像照合済み,,Wixel,False,evidence/page-02.png
+p02R28,2,R,28,Image Generator,Image Generator,画像照合済み,,Image Generator,False,evidence/page-02.png
+p02R29,2,R,29,Clueso,Clueso,画像照合済み,,Clueso,False,evidence/page-02.png
+p02R30,2,R,30,Sequencer,Sequencer,画像照合済み,,Sequencer,False,evidence/page-02.png
+p02R31,2,R,31,AI Fashion Designer,AI Fashion Designer,画像照合済み,,Al Fashion Designer,False,evidence/page-02.png
+p02R32,2,R,32,PosterMyWall,PosterMyWall,画像照合済み,,PosterMyWall,False,evidence/page-02.png
+p02R33,2,R,33,Dazzly,Dazzly,画像照合済み,,Dazzly,False,evidence/page-02.png
+p02R34,2,R,34,GifGen - GIFs,GifGen - GIFs,画像照合済み,,GifGen - GIFs,False,evidence/page-02.png
+p02R35,2,R,35,skima,skima,画像照合済み,,skima,False,evidence/page-02.png
+p02R36,2,R,36,DevMotion,DevMotion,画像照合済み,,DevMotion,False,evidence/page-02.png
+p02R37,2,R,37,PoolVisionIA,PoolVisionIA,画像照合済み,,PoolVisionlA,False,evidence/page-02.png
+p02R38,2,R,38,Sitelas,Sitelas,画像照合済み,,Sitelas,False,evidence/page-02.png
+p02R39,2,R,39,Butter,Butter,画像照合済み,,Butter,False,evidence/page-02.png
+p02R40,2,R,40,Novel Writer,Novel Writer,画像照合済み,,Novel Writer,False,evidence/page-02.png
+p02R41,2,R,41,Flixly,Flixly,画像照合済み,,Flixly,False,evidence/page-02.png
+p02R42,2,R,42,"Planner5D: Plan, Build, Create","Planner5D: Plan, Build, Create",画像照合済み,,"Planner5D: Plan, Build, Create",False,evidence/page-02.png
+p02R43,2,R,43,Graphic Design Studio,Graphic Design Studio,画像照合済み,,Graphic Design Studio,False,evidence/page-02.png
+p02R44,2,R,44,Tolstoy,Tolstoy,画像照合済み,,Tolstoy,False,evidence/page-02.png
+p02R45,2,R,45,Video Lab,Video Lab,画像照合済み,,Video Lab,False,evidence/page-02.png
+p02R46,2,R,46,Cardboard,Cardboard,画像照合済み,,Cardboard,False,evidence/page-02.png
+p02R47,2,R,47,AINSOF,AINSOF,画像照合済み,,AINSOF,False,evidence/page-02.png
+p03L01,3,L,1,Drivethrough,Drivethrough,画像照合済み,,Drivethrough,False,evidence/page-03.png
+p03L02,3,L,2,The Altiora Codex Oracle,The Altiora Codex Oracle,画像照合済み,,The Altiora Codex Oracle,False,evidence/page-03.png
+p03L03,3,L,3,AdKraft,AdKraft,画像照合済み,,AdKraft,False,evidence/page-03.png
+p03L04,3,L,4,Flatma,Flatma,画像照合済み,,Flatma,False,evidence/page-03.png
+p03L05,3,L,5,Air,Air,画像照合済み,,Air,False,evidence/page-03.png
+p03L06,3,L,6,PostNitro,PostNitro,画像照合済み,,PostNitro,False,evidence/page-03.png
+p03L07,3,L,7,ShotClick: Screenplay & Script,ShotClick: Screenplay & Script,画像照合済み,,ShotClick: Screenplay & Script,False,evidence/page-03.png
+p03L08,3,L,8,Treza,Treza,画像照合済み,,Treza,False,evidence/page-03.png
+p03L09,3,L,9,Laotan AI Copywriting,Laotan AI Copywriting,画像照合済み,,Laotan Al Copywriting,False,evidence/page-03.png
+p03L10,3,L,10,Artlist,Artlist,画像照合済み,,Artlist,False,evidence/page-03.png
+p03L11,3,L,11,Pitch,Pitch,画像照合済み,,Pitch,False,evidence/page-03.png
+p03L12,3,L,12,Carat,Carat,画像照合済み,,Carat,False,evidence/page-03.png
+p03L13,3,L,13,Web Design,Web Design,画像照合済み,,Web Design,False,evidence/page-03.png
+p03L14,3,L,14,Quickads,Quickads,画像照合済み,,Quickads,False,evidence/page-03.png
+p03L15,3,L,15,MotionDesign,MotionDesign,画像照合済み,,MotionDesign,False,evidence/page-03.png
+p03L16,3,L,16,PictureBooks,PictureBooks,画像照合済み,,PictureBooks,False,evidence/page-03.png
+p03L17,3,L,17,Art Designer,Art Designer,画像照合済み,,Art Designer,False,evidence/page-03.png
+p03L18,3,L,18,Room Renovation Visualizer,Room Renovation Visualizer,画像照合済み,,Room Renovation Visualizer,False,evidence/page-03.png
+p03L19,3,L,19,GifGen - Sticker Maker,GifGen - Sticker Maker,画像照合済み,,GifGen - Sticker Maker,False,evidence/page-03.png
+p03L20,3,L,20,AppLaunchFlow,AppLaunchFlow,画像照合済み,,AppLaunchFlow,False,evidence/page-03.png
+p03L21,3,L,21,Astria,Astria,画像照合済み,,Astria,False,evidence/page-03.png
+p03L22,3,L,22,Voicepanel,Voicepanel,画像照合済み,,Voicepanel,False,evidence/page-03.png
+p03L23,3,L,23,Yaps Background Remover,Yaps Background Remover,画像照合済み,,Yaps Background Remover,False,evidence/page-03.png
+p03L24,3,L,24,Nonica,Nonica,画像照合済み,,Nonica,False,evidence/page-03.png
+p03L25,3,L,25,AI Video and Image by AIRP,AI Video and Image by AIRP,画像照合済み,,Al Video and Image by AIRP,False,evidence/page-03.png
+p03L26,3,L,26,Voiceover Lab,Voiceover Lab,画像照合済み,,Voiceover Lab,False,evidence/page-03.png
+p03L27,3,L,27,Dramatica,Dramatica,画像照合済み,,Dramatica,False,evidence/page-03.png
+p03L28,3,L,28,Musamimuk,Musamimuk,画像照合済み,,Musamimuk,False,evidence/page-03.png
+p03L29,3,L,29,DesignSystem,DesignSystem,画像照合済み,,DesignSystem,False,evidence/page-03.png
+p03L30,3,L,30,AI Film Pipeline Master,AI Film Pipeline Master,画像照合済み,,Al Film Pipeline Master,False,evidence/page-03.png
+p03L31,3,L,31,Templated,Templated,画像照合済み,,Templated,False,evidence/page-03.png
+p03L32,3,L,32,Pedra,Pedra,画像照合済み,,Pedra,False,evidence/page-03.png
+p03L33,3,L,33,Blog Generator,Blog Generator,画像照合済み,,Blog Generator,False,evidence/page-03.png
+p03L34,3,L,34,Awesome DESIGN.md,Awesome DESIGN.md,画像照合済み,,Awesome DESIGN.md,False,evidence/page-03.png
+p03L35,3,L,35,UXCritique,UXCritique,画像照合済み,,UXCritique,False,evidence/page-03.png
+p03L36,3,L,36,Yaps Video Clipping,Yaps Video Clipping,画像照合済み,,Yaps Video Clipping,False,evidence/page-03.png
+p03L37,3,L,37,UIAudit,UIAudit,画像照合済み,,UlAudit,False,evidence/page-03.png
+p03L38,3,L,38,VOSU,VOSU,画像照合済み,,VOSU,False,evidence/page-03.png
+p03L39,3,L,39,ShapeUI,ShapeUI,画像照合済み,,ShapeUl,False,evidence/page-03.png
+p03L40,3,L,40,MeiGen Gallery,MeiGen Gallery,画像照合済み,,MeiGen Gallery,False,evidence/page-03.png
+p03L41,3,L,41,PlayDrop,PlayDrop,画像照合済み,,PlayDrop,False,evidence/page-03.png
+p03L42,3,L,42,AI Headshot Generator,AI Headshot Generator,画像照合済み,,Al Headshot Generator,False,evidence/page-03.png
+p03L43,3,L,43,Studio Ghibli Anime Creator,Studio Ghibli Anime Creator,画像照合済み,,Studio Ghibli Anime Creator,False,evidence/page-03.png
+p03L44,3,L,44,Writing Assistant,Writing Assistant,画像照合済み,,Writing Assistant,False,evidence/page-03.png
+p03L45,3,L,45,Worldkeep,Worldkeep,画像照合済み,,Worldkeep,False,evidence/page-03.png
+p03L46,3,L,46,Orisu,Orisu,画像照合済み,,Orisu,False,evidence/page-03.png
+p03R01,3,R,1,Uxia,Uxia,画像照合済み,,Uxia,False,evidence/page-03.png
+p03R02,3,R,2,GIF Maker,GIF Maker,画像照合済み,,GIF Maker,False,evidence/page-03.png
+p03R03,3,R,3,CutPro,CutPro,画像照合済み,,CutPro,False,evidence/page-03.png
+p03R04,3,R,4,DropTrack,DropTrack,画像照合済み,,DropTrack,False,evidence/page-03.png
+p03R05,3,R,5,Embroidery File Converter,Embroidery File Converter,画像照合済み,,Embroidery File Converter,False,evidence/page-03.png
+p03R06,3,R,6,Thumbnail Maker,Thumbnail Maker,画像照合済み,,Thumbnail Maker,False,evidence/page-03.png
+p03R07,3,R,7,Widemile,Widemile,画像照合済み,,Widemile,False,evidence/page-03.png
+p03R08,3,R,8,Ullbek,Ullbek,画像照合済み,,Ullbek,False,evidence/page-03.png
+p03R09,3,R,9,NewsTune Studio,NewsTune Studio,画像照合済み,,NewsTune Studio,False,evidence/page-03.png
+p03R10,3,R,10,Magic Hour AI,Magic Hour AI,画像照合済み,,Magic Hour Al,False,evidence/page-03.png
+p03R11,3,R,11,Character Creator,Character Creator,画像照合済み,,Character Creator,False,evidence/page-03.png
+p03R12,3,R,12,WonderWorks,WonderWorks,画像照合済み,,WonderWorks,False,evidence/page-03.png
+p03R13,3,R,13,Taste,Taste,画像照合済み,,Taste,False,evidence/page-03.png
+p03R14,3,R,14,Yaps Video Captions,Yaps Video Captions,画像照合済み,,Yaps Video Captions,False,evidence/page-03.png
+p03R15,3,R,15,Incarn,Incarn,画像照合済み,,Incarn,False,evidence/page-03.png
+p03R16,3,R,16,AdsTurbo,AdsTurbo,画像照合済み,,AdsTurbo,False,evidence/page-03.png
+p03R17,3,R,17,Cartoon Yourself,Cartoon Yourself,画像照合済み,,Cartoon Yourself,False,evidence/page-03.png
+p03R18,3,R,18,Text to Speech,Text to Speech,画像照合済み,,Text to Speech,False,evidence/page-03.png
+p03R19,3,R,19,Logos & app icons,Logos & app icons,画像照合済み,,Logos & app icons,False,evidence/page-03.png
+p03R20,3,R,20,Conversational Narrative,Conversational Narrative,画像照合済み,,Conversational Narrative,False,evidence/page-03.png
+p03R21,3,R,21,Lawh.ai,Lawh.ai,画像照合済み,,Lawh.ai,False,evidence/page-03.png
+p03R22,3,R,22,GIF Creator,GIF Creator,画像照合済み,,GIF Creator,False,evidence/page-03.png
+p03R23,3,R,23,Kapwing,Kapwing,画像照合済み,,Kapwing,False,evidence/page-03.png
+p03R24,3,R,24,StitchDesign,StitchDesign,画像照合済み,,StitchDesign,False,evidence/page-03.png
+p03R25,3,R,25,Aholo Lux3D,Aholo Lux3D,画像照合済み,,Aholo Lux3D,False,evidence/page-03.png
+p03R26,3,R,26,Framer,Framer,画像照合済み,,Framer,False,evidence/page-03.png
+p03R27,3,R,27,Voice Cloning,Voice Cloning,画像照合済み,,Voice Cloning,False,evidence/page-03.png
+p03R28,3,R,28,Yaps Audio Cleaner,Yaps Audio Cleaner,画像照合済み,,Yaps Audio Cleaner,False,evidence/page-03.png
+p03R29,3,R,29,Uwear,Uwear,画像照合済み,,Uwear,False,evidence/page-03.png
+p03R30,3,R,30,ShirtLab,ShirtLab,画像照合済み,,ShirtLab,False,evidence/page-03.png
+p03R31,3,R,31,Diagram Builder,Diagram Builder,画像照合済み,,Diagram Builder,False,evidence/page-03.png
+p03R32,3,R,32,BrandKit,BrandKit,画像照合済み,,BrandKit,False,evidence/page-03.png
+p03R33,3,R,33,Rendemo,Rendemo,画像照合済み,,Rendemo,False,evidence/page-03.png
+p03R34,3,R,34,Details.so,Details.so,画像照合済み,,Details.so,False,evidence/page-03.png
+p03R35,3,R,35,Swish Sports Court Builder,Swish Sports Court Builder,画像照合済み,,Swish Sports Court Builder,False,evidence/page-03.png
+p03R36,3,R,36,Studio by Memes,Studio by Memes,画像照合済み,,Studio by Memes,False,evidence/page-03.png
+p03R37,3,R,37,ImageToCode,ImageToCode,画像照合済み,,ImageToCode,False,evidence/page-03.png
+p03R38,3,R,38,Hansora AI,Hansora AI,画像照合済み,,Hansora Al,False,evidence/page-03.png
+p03R39,3,R,39,Zim Studio,Zim Studio,画像照合済み,,Zim Studio,False,evidence/page-03.png
+p03R40,3,R,40,Redesign,Redesign,画像照合済み,,Redesign,False,evidence/page-03.png
+p03R41,3,R,41,Content Lab,Content Lab,画像照合済み,,Content Lab,False,evidence/page-03.png
+p03R42,3,R,42,Marq,Marq,画像照合済み,,Marq,False,evidence/page-03.png
+p03R43,3,R,43,Property Video,Property Video,画像照合済み,,Property Video,False,evidence/page-03.png
+p03R44,3,R,44,Klap,Klap,画像照合済み,,Klap,False,evidence/page-03.png
+p03R45,3,R,45,FreeTTS,FreeTTS,画像照合済み,,FreeTTS,False,evidence/page-03.png
+p03R46,3,R,46,Meshy 3D,Meshy 3D,画像照合済み,,Meshy 3D,False,evidence/page-03.png
+p04L01,4,L,1,WebMockup,WebMockup,画像照合済み,,WebMockup,False,evidence/page-04.png
+p04L02,4,L,2,MobileMockup,MobileMockup,画像照合済み,,MobileMockup,False,evidence/page-04.png
+p04L03,4,L,3,Polish,Polish,画像照合済み,,Polish,False,evidence/page-04.png
+p04L04,4,L,4,Flav.IA — Fotos de Imóveis,Flav.IA — Fotos de Imóveis,画像照合済み,,Flav.I[A — Fotos de Iméveis,False,evidence/page-04.png
+p04L05,4,L,5,Icon Design,Icon Design,画像照合済み,,Icon Design,False,evidence/page-04.png
+p04L06,4,L,6,MixMatter,MixMatter,画像照合済み,,MixMatter,False,evidence/page-04.png
+p04L07,4,L,7,Viral Hook Suite,Viral Hook Suite,画像照合済み,,Viral Hook Suite,False,evidence/page-04.png
+p04L08,4,L,8,Viral 80 Trend,Viral 80 Trend,画像照合済み,,Viral 80 Trend,False,evidence/page-04.png
+p04L09,4,L,9,Vivu,Vivu,画像照合済み,,Vivu,False,evidence/page-04.png
+p04L10,4,L,10,Sandcastles,Sandcastles,画像照合済み,,Sandcastles,False,evidence/page-04.png
+p04L11,4,L,11,Ad Army,Ad Army,画像照合済み,,Ad Army,False,evidence/page-04.png
+p04L12,4,L,12,draw.io,draw.io,画像照合済み,,draw.io,False,evidence/page-04.png
+p04L13,4,L,13,YouTube Thumbnail Creator,YouTube Thumbnail Creator,画像照合済み,,YouTube Thumbnail Creator,False,evidence/page-04.png
+p04L14,4,L,14,Topo de Bolo Express,Topo de Bolo Express,画像照合済み,,Topo de Bolo Express,False,evidence/page-04.png
+p04L15,4,L,15,Brancha,Brancha,画像照合済み,,Brancha,False,evidence/page-04.png
+p04L16,4,L,16,Kids Book Maker,Kids Book Maker,画像照合済み,,Kids Book Maker,False,evidence/page-04.png
+p04L17,4,L,17,text-to-cad,text-to-cad,画像照合済み,,text-to-cad,False,evidence/page-04.png
+p04L18,4,L,18,Melius,Melius,画像照合済み,,Melius,False,evidence/page-04.png
+p04L19,4,L,19,Storyblocks,Storyblocks,画像照合済み,,Storyblocks,False,evidence/page-04.png
+p04L20,4,L,20,PixVerse,PixVerse,画像照合済み,,PixVerse,False,evidence/page-04.png
+p04L21,4,L,21,Topview 3D Builder,Topview 3D Builder,画像照合済み,,Topview 3D Builder,False,evidence/page-04.png
+p04L22,4,L,22,Namsiang Thai Voice,Namsiang Thai Voice,画像照合済み,,Namsiang Thai Voice,False,evidence/page-04.png
+p04L23,4,L,23,PartForge,PartForge,画像照合済み,,PartForge,False,evidence/page-04.png
+p04L24,4,L,24,Hermoso: AI Marketing Agent,Hermoso: AI Marketing Agent,画像照合済み,,Hermoso: Al Marketing Agent,False,evidence/page-04.png
+p04L25,4,L,25,Super Map World,Super Map World,画像照合済み,,Super Map World,False,evidence/page-04.png
+p04L26,4,L,26,Pray Production Studio,Pray Production Studio,画像照合済み,,Pray Production Studio,False,evidence/page-04.png
+p04L27,4,L,27,Crealix,Crealix,画像照合済み,,Crealix,False,evidence/page-04.png
+p04L28,4,L,28,Doublespeed,Doublespeed,画像照合済み,,Doublespeed,False,evidence/page-04.png
+p04L29,4,L,29,SignalGrade,SignalGrade,画像照合済み,,SignalGrade,False,evidence/page-04.png
+p04L30,4,L,30,QynTro AI,QynTro AI,画像照合済み,,QyntTro Al,False,evidence/page-04.png
+p04L31,4,L,31,Shorty Edit,Shorty Edit,画像照合済み,,Shorty Edit,False,evidence/page-04.png
+p04L32,4,L,32,Polymend,Polymend,画像照合済み,,Polymend,False,evidence/page-04.png
+p04L33,4,L,33,Cyber AI,Cyber AI,画像照合済み,,Cyber Al,False,evidence/page-04.png
+p04L34,4,L,34,SMC Schrijversstem,SMC Schrijversstem,画像照合済み,,SMC Schrijversstem,False,evidence/page-04.png
+p04L35,4,L,35,Generate Greetings,Generate Greetings,画像照合済み,,Generate Greetings,False,evidence/page-04.png
+p04L36,4,L,36,TapNow,TapNow,画像照合済み,,TapNow,False,evidence/page-04.png
+p04L37,4,L,37,ViewMax,ViewMax,画像照合済み,,ViewMax,False,evidence/page-04.png
+p04L38,4,L,38,McSill Ultra 5.0,McSill Ultra 5.0,画像照合済み,,McSill Ultra 5.0,False,evidence/page-04.png
+p04L39,4,L,39,Scribe Animator Director,Scribe Animator Director,画像照合済み,,Scribe Animator Director,False,evidence/page-04.png
+p04L40,4,L,40,UGCBuilder,UGCBuilder,画像照合済み,,UGCBuilder,False,evidence/page-04.png
+p04L41,4,L,41,VoxelDraft,VoxelDraft,画像照合済み,,VoxelDraft,False,evidence/page-04.png
+p04L42,4,L,42,Lovart,Lovart,画像照合済み,,Lovart,False,evidence/page-04.png
+p04L43,4,L,43,Songs To Your Eyes,Songs To Your Eyes,画像照合済み,,Songs To Your Eyes,False,evidence/page-04.png
+p04L44,4,L,44,3D CAD Converter,3D CAD Converter,画像照合済み,,3D CAD Converter,False,evidence/page-04.png
+p04L45,4,L,45,WebCAD,WebCAD,画像照合済み,,WebCAD,False,evidence/page-04.png
+p04L46,4,L,46,RunComfy,RunComfy,画像照合済み,,RunComfy,False,evidence/page-04.png
+p04R01,4,R,1,Fuji X100VI Look Emulator,Fuji X100VI Look Emulator,画像照合済み,,Fuji X100VI Look Emulator,False,evidence/page-04.png
+p04R02,4,R,2,Email Love,Email Love,画像照合済み,,Email Love,False,evidence/page-04.png
+p04R03,4,R,3,Fashion & Style Finder,Fashion & Style Finder,画像照合済み,,Fashion & Style Finder,False,evidence/page-04.png
+p04R04,4,R,4,Meme Marketing Agent,Meme Marketing Agent,画像照合済み,,Meme Marketing Agent,False,evidence/page-04.png
+p04R05,4,R,5,Vivideo,Vivideo,画像照合済み,,Vivideo,False,evidence/page-04.png
+p04R06,4,R,6,Hen Screenshots,Hen Screenshots,画像照合済み,,Hen Screenshots,False,evidence/page-04.png
+p04R07,4,R,7,Viral Hook Suite 1.0,Viral Hook Suite 1.0,画像照合済み,,Viral Hook Suite 1.0,False,evidence/page-04.png
+p04R08,4,R,8,HardenUI,HardenUI,画像照合済み,,Hardenul,False,evidence/page-04.png
+p04R09,4,R,9,Parallax Card,Parallax Card,画像照合済み,,Parallax Card,False,evidence/page-04.png
+p04R10,4,R,10,SlidesAI,SlidesAI,画像照合済み,,SlidesAl,False,evidence/page-04.png
+p04R11,4,R,11,CaseWrite,CaseWrite,画像照合済み,,CaseWrite,False,evidence/page-04.png
+p04R12,4,R,12,TTS Studio: AI Text to Speech,TTS Studio: AI Text to Speech,画像照合済み,,TTS Studio: Al Text to Speech,False,evidence/page-04.png
+p04R13,4,R,13,WonderWhy,WonderWhy,画像照合済み,,WonderWhy,False,evidence/page-04.png
+p04R14,4,R,14,Nox Design,Nox Design,画像照合済み,,Nox Design,False,evidence/page-04.png
+p04R15,4,R,15,Viral Hook Suite — Shared Code,Viral Hook Suite — Shared Code,画像照合済み,,Viral Hook Suite — Shared Code,False,evidence/page-04.png
+p04R16,4,R,16,text-to-cad,text-to-cad,画像照合済み,,text-to-cad,False,evidence/page-04.png
+p04R17,4,R,17,Cadabra AI,Cadabra AI,画像照合済み,,Cadabra Al,False,evidence/page-04.png
+p04R18,4,R,18,English Query Refiner,English Query Refiner,画像照合済み,,English Query Refiner,False,evidence/page-04.png
+p04R19,4,R,19,About Me - AI Life Box,About Me - AI Life Box,画像照合済み,,About Me - Al Life Box,False,evidence/page-04.png
+p04R20,4,R,20,Julius: PowerPoint & Slides,Julius: PowerPoint & Slides,画像照合済み,,Julius: PowerPoint & Slides,False,evidence/page-04.png
+p04R21,4,R,21,Doitong,Doitong,画像照合済み,,Doitong,False,evidence/page-04.png
+p04R22,4,R,22,MapPoster,MapPoster,画像照合済み,,MapPoster,False,evidence/page-04.png
+p04R23,4,R,23,Insurance Agent Content Studio,Insurance Agent Content Studio,画像照合済み,,Insurance Agent Content Studio,False,evidence/page-04.png
+p04R24,4,R,24,Tattoos Wizard,Tattoos Wizard,画像照合済み,,Tattoos Wizard,False,evidence/page-04.png
+p04R25,4,R,25,LYRC,LYRC,画像照合済み,,LYRC,False,evidence/page-04.png
+p04R26,4,R,26,esigna,esigna,画像照合済み,,esigna,False,evidence/page-04.png
+p04R27,4,R,27,HamzaBHM,HamzaBHM,画像照合済み,,HamzaBHM,False,evidence/page-04.png
+p04R28,4,R,28,ModRetro Chromatic Plugin,ModRetro Chromatic Plugin,画像照合済み,,ModRetro Chromatic Plugin,False,evidence/page-04.png
+p04R29,4,R,29,NameSTL,NameSTL,画像照合済み,,NameSTL,False,evidence/page-04.png
+p04R30,4,R,30,Ruwana,Ruwana,画像照合済み,,Ruwana,False,evidence/page-04.png
+p04R31,4,R,31,RiffAds,RiffAds,画像照合済み,,RiffAds,False,evidence/page-04.png
+p04R32,4,R,32,FXI Studio,FXI Studio,画像照合済み,,FXI Studio,False,evidence/page-04.png
+p04R33,4,R,33,SkeuDesign,SkeuDesign,画像照合済み,,SkeuDesign,False,evidence/page-04.png
+p04R34,4,R,34,Canvora,Canvora,画像照合済み,,Canvora,False,evidence/page-04.png
+p04R35,4,R,35,APODICTIC Development Editor,APODICTIC Development Editor,画像照合済み,,APODICTIC Development Editor,False,evidence/page-04.png
+p04R36,4,R,36,Shorts Generator,Shorts Generator,画像照合済み,,Shorts Generator,False,evidence/page-04.png
+p04R37,4,R,37,UnifyAI,UnifyAI,画像照合済み,,UnifyAl,False,evidence/page-04.png
+p04R38,4,R,38,Algorithmic Ink,Algorithmic Ink,画像照合済み,,Algorithmic Ink,False,evidence/page-04.png
+p04R39,4,R,39,AI Video Enhancer Studio,AI Video Enhancer Studio,画像照合済み,,Al Video Enhancer Studio,False,evidence/page-04.png
+p04R40,4,R,40,SuperCool,SuperCool,画像照合済み,,SuperCool,False,evidence/page-04.png
+p04R41,4,R,41,theprintspace,theprintspace,画像照合済み,,theprintspace,False,evidence/page-04.png
+p04R42,4,R,42,Bildy,Bildy,画像照合済み,,Bildy,False,evidence/page-04.png
+p04R43,4,R,43,SC Adelsdorf Matchreporter,SC Adelsdorf Matchreporter,画像照合済み,,SC Adelsdorf Matchreporter,False,evidence/page-04.png
+p04R44,4,R,44,BusbySim,BusbySim,画像照合済み,,BusbySim,False,evidence/page-04.png
+p04R45,4,R,45,Boy or Girl Names,Boy or Girl Names,画像照合済み,,Boy or Girl Names,False,evidence/page-04.png
+p04R46,4,R,46,Segmind,Segmind,画像照合済み,,Segmind,False,evidence/page-04.png
+p05L01,5,L,1,Imago,Imago,画像照合済み,,Imago,False,evidence/page-05.png
+p05L02,5,L,2,Sleek,Sleek,画像照合済み,,Sleek,False,evidence/page-05.png
+p05L03,5,L,3,ShareCube,ShareCube,画像照合済み,,ShareCube,False,evidence/page-05.png
+p05L04,5,L,4,Agent-Native Design,Agent-Native Design,画像照合済み,,Agent-Native Design,False,evidence/page-05.png
+p05L05,5,L,5,Video Generator,Video Generator,画像照合済み,,Video Generator,False,evidence/page-05.png
+p05L06,5,L,6,NOLGIA,NOLGIA,画像照合済み,,NOLGIA,False,evidence/page-05.png
+p05L07,5,L,7,Outfit Preview: Virtual Try-On,Outfit Preview: Virtual Try-On,画像照合済み,,Outfit Preview: Virtual Try-On,False,evidence/page-05.png
+p05L08,5,L,8,OceanToken,OceanToken,画像照合済み,,OceanToken,False,evidence/page-05.png
+p05L09,5,L,9,Kombai,Kombai,画像照合済み,,Kombai,False,evidence/page-05.png
+p05L10,5,L,10,KDP Coloring Book Studio,KDP Coloring Book Studio,画像照合済み,,KDP Coloring Book Studio,False,evidence/page-05.png
+p05L11,5,L,11,MeltFlex,MeltFlex,画像照合済み,,MeltFlex,False,evidence/page-05.png
+p05L12,5,L,12,AVSBL Website Builder,AVSBL Website Builder,画像照合済み,,AVSBL Website Builder,False,evidence/page-05.png
+p05L13,5,L,13,appdesigns,appdesigns,画像照合済み,,appdesigns,False,evidence/page-05.png
+p05L14,5,L,14,TrackGleam,TrackGleam,画像照合済み,,TrackGleam,False,evidence/page-05.png
+p05L15,5,L,15,Fablyn,Fablyn,画像照合済み,,Fablyn,False,evidence/page-05.png
+p05L16,5,L,16,Lazybird,Lazybird,画像照合済み,,Lazybird,False,evidence/page-05.png
+p05L17,5,L,17,KozyGrid,KozyGrid,画像照合済み,,KozyGrid,False,evidence/page-05.png
+p05L18,5,L,18,Mondovo,Mondovo,画像照合済み,,Mondovo,False,evidence/page-05.png
+p05L19,5,L,19,Dịch Anh Việt,Dịch Anh Việt,画像照合済み,,Dich Anh Viét,False,evidence/page-05.png
+p05L20,5,L,20,getimg,getimg,画像照合済み,,getimg,False,evidence/page-05.png
+p05L21,5,L,21,PromptKosh,PromptKosh,画像照合済み,,PromptKosh,False,evidence/page-05.png
+p05L22,5,L,22,AppScreenshotStudio,AppScreenshotStudio,画像照合済み,,AppScreenshotStudio,False,evidence/page-05.png
+p05L23,5,L,23,GoFaceless,GoFaceless,画像照合済み,,GoFaceless,False,evidence/page-05.png
+p05L24,5,L,24,Poolday,Poolday,画像照合済み,,Poolday,False,evidence/page-05.png
+p05L25,5,L,25,YouArt,YouArt,画像照合済み,,YouArt,False,evidence/page-05.png
+p05L26,5,L,26,Theme Emporium,Theme Emporium,画像照合済み,,Theme Emporium,False,evidence/page-05.png
+p05L27,5,L,27,Podigee,Podigee,画像照合済み,,Podigee,False,evidence/page-05.png
+p05L28,5,L,28,Eden,Eden,画像照合済み,,Eden,False,evidence/page-05.png
+p05L29,5,L,29,Aaina Product Photos,Aaina Product Photos,画像照合済み,,Aaina Product Photos,False,evidence/page-05.png
+p05L30,5,L,30,Daydream,Daydream,画像照合済み,,Daydream,False,evidence/page-05.png
+p05L31,5,L,31,Your Color Palette,Your Color Palette,画像照合済み,,Your Color Palette,False,evidence/page-05.png
+p05L32,5,L,32,Alpenmarketing QR-Code,Alpenmarketing QR-Code,画像照合済み,,Alpenmarketing QR-Code,False,evidence/page-05.png
+p05L33,5,L,33,OpenClip,OpenClip,画像照合済み,,OpenClip,False,evidence/page-05.png
+p05L34,5,L,34,Nova Creative,Nova Creative,画像照合済み,,Nova Creative,False,evidence/page-05.png
+p05L35,5,L,35,convert3d,convert3d,画像照合済み,,convert3d,False,evidence/page-05.png
+p05L36,5,L,36,style-my-space.com,style-my-space.com,画像照合済み,,style-my-space.com,False,evidence/page-05.png
+p05L37,5,L,37,App Listing Screenshots,App Listing Screenshots,画像照合済み,,App Listing Screenshots,False,evidence/page-05.png
+p05L38,5,L,38,mnml AI,mnml AI,画像照合済み,,mnml Al,False,evidence/page-05.png
+p05L39,5,L,39,ULLIMO,ULLIMO,画像照合済み,,ULLIMO,False,evidence/page-05.png
+p05L40,5,L,40,Inkdrop,Inkdrop,画像照合済み,,Inkdrop,False,evidence/page-05.png
+p05L41,5,L,41,Animx,Animx,画像照合済み,,Animx,False,evidence/page-05.png
+p05L42,5,L,42,aicut,aicut,画像照合済み,,aicut,False,evidence/page-05.png
+p05L43,5,L,43,Restream,Restream,画像照合済み,,Restream,False,evidence/page-05.png
+p05L44,5,L,44,Moodle: Mood Board plan+design,Moodle: Mood Board plan+design,画像照合済み,,Moodle: Mood Board plan+design,False,evidence/page-05.png
+p05L45,5,L,45,Contenta Converter,Contenta Converter,画像照合済み,,Contenta Converter,False,evidence/page-05.png
+p05L46,5,L,46,YouCam,YouCam,画像照合済み,,YouCam,False,evidence/page-05.png
+p05R01,5,R,1,QuickStage,QuickStage,画像照合済み,,QuickStage,False,evidence/page-05.png
+p05R02,5,R,2,varg.ai,varg.ai,画像照合済み,,varg.ai,False,evidence/page-05.png
+p05R03,5,R,3,Rainbrand,Rainbrand,画像照合済み,,Rainbrand,False,evidence/page-05.png
+p05R04,5,R,4,Samautomation Video,Samautomation Video,画像照合済み,,Samautomation Video,False,evidence/page-05.png
+p05R05,5,R,5,Inspire by KGL,Inspire by KGL,画像照合済み,,Inspire by KGL,False,evidence/page-05.png
+p05R06,5,R,6,,WFI — WhatFontIs,要確認,Iとlの字形が似ており正確な表記は要確認,WFI — WhatFontls,False,evidence/page-05.png
+p05R07,5,R,7,Pretty,Pretty,画像照合済み,,Pretty,False,evidence/page-05.png
+p05R08,5,R,8,Tatty — Tattoo ideas & design,Tatty — Tattoo ideas & design,画像照合済み,,Tatty — Tattoo ideas & design,False,evidence/page-05.png
+p05R09,5,R,9,Gradients Studio,Gradients Studio,画像照合済み,,Gradients Studio,False,evidence/page-05.png
+p05R10,5,R,10,YouWorkForThem,YouWorkForThem,画像照合済み,,YouWorkForThem,False,evidence/page-05.png
+p05R11,5,R,11,Fenestra,Fenestra,画像照合済み,,Fenestra,False,evidence/page-05.png
+p05R12,5,R,12,Photoroom,Photoroom,画像照合済み,,Photoroom,False,evidence/page-05.png
+p05R13,5,R,13,Cav,Cav,画像照合済み,,Cav,False,evidence/page-05.png
+p05R14,5,R,14,Humanizer AI,Humanizer AI,画像照合済み,,Humanizer Al,False,evidence/page-05.png
+p05R15,5,R,15,3D Website Creator,3D Website Creator,画像照合済み,,3D Website Creator,False,evidence/page-05.png
+p05R16,5,R,16,Gigapixel AI,Gigapixel AI,画像照合済み,,Gigapixel Al,False,evidence/page-05.png
+p05R17,5,R,17,BlockGPT,BlockGPT,画像照合済み,,BlockGPT,False,evidence/page-05.png
+p05R18,5,R,18,Moon & Star Map,Moon & Star Map,画像照合済み,,Moon & Star Map,False,evidence/page-05.png
+p05R19,5,R,19,Revid,Revid,画像照合済み,,Revid,False,evidence/page-05.png
+p05R20,5,R,20,Dora AI Video,Dora AI Video,画像照合済み,,Dora Al Video,False,evidence/page-05.png
+p05R21,5,R,21,Designelier,Designelier,画像照合済み,,Designelier,False,evidence/page-05.png
+p05R22,5,R,22,SoeMind,SoeMind,画像照合済み,,SoeMind,False,evidence/page-05.png
+p05R23,5,R,23,Runchat,Runchat,画像照合済み,,Runchat,False,evidence/page-05.png
+p05R24,5,R,24,Print Ready,Print Ready,画像照合済み,,Print Ready,False,evidence/page-05.png
+p05R25,5,R,25,PrintNexus Toolbox,PrintNexus Toolbox,画像照合済み,,PrintNexus Toolbox,False,evidence/page-05.png
+p05R26,5,R,26,LivePair,LivePair,画像照合済み,,LivePair,False,evidence/page-05.png
+p05R27,5,R,27,Flownato,Flownato,画像照合済み,,Flownato,False,evidence/page-05.png
+p05R28,5,R,28,Handymade,Handymade,画像照合済み,,Handymade,False,evidence/page-05.png
+p05R29,5,R,29,PrintMap,PrintMap,画像照合済み,,PrintMap,False,evidence/page-05.png
+p05R30,5,R,30,RoomLab.app,RoomLab.app,画像照合済み,,RoomLab.app,False,evidence/page-05.png
+p05R31,5,R,31,Rawnd,Rawnd,画像照合済み,,Rawnd,False,evidence/page-05.png
+p05R32,5,R,32,Art Overlay,Art Overlay,画像照合済み,,Art Overlay,False,evidence/page-05.png
+p05R33,5,R,33,Designer,Designer,画像照合済み,,Designer,False,evidence/page-05.png
+p05R34,5,R,34,ScoreStarling,ScoreStarling,画像照合済み,,ScoreStarling,False,evidence/page-05.png
+p05R35,5,R,35,Raylight,Raylight,画像照合済み,,Raylight,False,evidence/page-05.png
+p05R36,5,R,36,PersonalizedComics,PersonalizedComics,画像照合済み,,PersonalizedComics,False,evidence/page-05.png
+p05R37,5,R,37,AI Video Maker Gem,AI Video Maker Gem,画像照合済み,,Al Video Maker Gem,False,evidence/page-05.png
+p05R38,5,R,38,Rephrasy,Rephrasy,画像照合済み,,Rephrasy,False,evidence/page-05.png
+p05R39,5,R,39,Bloomroom,Bloomroom,画像照合済み,,Bloomroom,False,evidence/page-05.png
+p05R40,5,R,40,Misar.Blog,Misar.Blog,画像照合済み,,Misar.Blog,False,evidence/page-05.png
+p05R41,5,R,41,Logos do Brasil,Logos do Brasil,画像照合済み,,Logos do Brasil,False,evidence/page-05.png
+p05R42,5,R,42,unsketch,unsketch,画像照合済み,,unsketch,False,evidence/page-05.png
+p05R43,5,R,43,Flat,Flat,画像照合済み,,Flat,False,evidence/page-05.png
+p05R44,5,R,44,Adly,Adly,画像照合済み,,Adly,False,evidence/page-05.png
+p05R45,5,R,45,Print Shop by BYB,Print Shop by BYB,画像照合済み,,Print Shop by BYB,False,evidence/page-05.png
+p05R46,5,R,46,Rebrand,Rebrand,画像照合済み,,Rebrand,False,evidence/page-05.png
+p06L01,6,L,1,Phoenix One Prompt Studio,Phoenix One Prompt Studio,画像照合済み,,Phoenix One Prompt Studio,False,evidence/page-06.png
+p06L02,6,L,2,Linepace Teleprompter,Linepace Teleprompter,画像照合済み,,Linepace Teleprompter,False,evidence/page-06.png
+p06L03,6,L,3,refern Notan Generator,refern Notan Generator,画像照合済み,,refern Notan Generator,False,evidence/page-06.png
+p06L04,6,L,4,Ember Websites,Ember Websites,画像照合済み,,Ember Websites,False,evidence/page-06.png
+p06L05,6,L,5,AutoSprite,AutoSprite,画像照合済み,,AutoSprite,False,evidence/page-06.png
+p06L06,6,L,6,Formatry,Formatry,画像照合済み,,Formatry,False,evidence/page-06.png
+p06L07,6,L,7,Packaging Design Assistant,Packaging Design Assistant,画像照合済み,,Packaging Design Assistant,False,evidence/page-06.png
+p06L08,6,L,8,Pixara,Pixara,画像照合済み,,Pixara,False,evidence/page-06.png
+p06L09,6,L,9,Video Grab,Video Grab,画像照合済み,,Video Grab,False,evidence/page-06.png
+p06L10,6,L,10,HeyTurbine,HeyTurbine,画像照合済み,,HeyTurbine,False,evidence/page-06.png
+p06L11,6,L,11,SpriteCook,SpriteCook,画像照合済み,,SpriteCook,False,evidence/page-06.png
+p06L12,6,L,12,Eddie,Eddie,画像照合済み,,Eddie,False,evidence/page-06.png
+p06L13,6,L,13,MAP Audio,MAP Audio,画像照合済み,,MAP Audio,False,evidence/page-06.png
+p06L14,6,L,14,AI Jingle Maker,AI Jingle Maker,画像照合済み,,Al Jingle Maker,False,evidence/page-06.png
+p06L15,6,L,15,Moda - Slides & Designs,Moda - Slides & Designs,画像照合済み,,Moda - Slides & Designs,False,evidence/page-06.png
+p06L16,6,L,16,AI Headshots — MyBestAngle,AI Headshots — MyBestAngle,画像照合済み,,Al Headshots — MyBestAngle,False,evidence/page-06.png
+p06L17,6,L,17,Idea Generator,Idea Generator,画像照合済み,,Idea Generator,False,evidence/page-06.png
+p06L18,6,L,18,Syllaby,Syllaby,画像照合済み,,Syllaby,False,evidence/page-06.png
+p06L19,6,L,19,TeamTime Make It Real,TeamTime Make It Real,画像照合済み,,TeamTime Make It Real,False,evidence/page-06.png
+p06L20,6,L,20,Art Goat,Art Goat,画像照合済み,,Art Goat,False,evidence/page-06.png
+p06L21,6,L,21,,Plnty,要確認,Iとlの字形が似ており正確な表記は要確認,Pinty,False,evidence/page-06.png
+p06L22,6,L,22,Draw40,Draw40,画像照合済み,,Draw40,False,evidence/page-06.png
+p06L23,6,L,23,Diorama,Diorama,画像照合済み,,Diorama,False,evidence/page-06.png
+p06L24,6,L,24,Scenelith,Scenelith,画像照合済み,,Scenelith,False,evidence/page-06.png
+p06L25,6,L,25,Viral Recreate Ai,Viral Recreate Ai,画像照合済み,,Viral Recreate Ai,False,evidence/page-06.png
+p06L26,6,L,26,HospitalityLens,HospitalityLens,画像照合済み,,HospitalityLens,False,evidence/page-06.png
+p06L27,6,L,27,Blendstra,Blendstra,画像照合済み,,Blendstra,False,evidence/page-06.png
+p06L28,6,L,28,Storytailor,Storytailor,画像照合済み,,Storytailor,False,evidence/page-06.png
+p06L29,6,L,29,GHEM,GHEM,画像照合済み,,GHEM,False,evidence/page-06.png
+p06L30,6,L,30,Video Crop,Video Crop,画像照合済み,,Video Crop,False,evidence/page-06.png
+p06L31,6,L,31,SnapDub,SnapDub,画像照合済み,,SnapDub,False,evidence/page-06.png
+p06L32,6,L,32,Vidova,Vidova,画像照合済み,,Vidova,False,evidence/page-06.png
+p06L33,6,L,33,Music Generator,Music Generator,画像照合済み,,Music Generator,False,evidence/page-06.png
+p06L34,6,L,34,gilmOS,gilmOS,画像照合済み,,gilmOS,False,evidence/page-06.png
+p06L35,6,L,35,PartyPass,PartyPass,画像照合済み,,PartyPass,False,evidence/page-06.png
+p06L36,6,L,36,Tabularia,Tabularia,画像照合済み,,Tabularia,False,evidence/page-06.png
+p06L37,6,L,37,Ava Studio,Ava Studio,画像照合済み,,Ava Studio,False,evidence/page-06.png
+p06L38,6,L,38,ListingScene,ListingScene,画像照合済み,,ListingScene,False,evidence/page-06.png
+p06L39,6,L,39,SplitMetrics Lyra,SplitMetrics Lyra,画像照合済み,,SplitMetrics Lyra,False,evidence/page-06.png
+p06L40,6,L,40,PINOC,PINOC,画像照合済み,,PINOC,False,evidence/page-06.png
+p06L41,6,L,41,Media Studio,Media Studio,画像照合済み,,Media Studio,False,evidence/page-06.png
+p06L42,6,L,42,Scraaatch,Scraaatch,画像照合済み,,Scraaatch,False,evidence/page-06.png
+p06L43,6,L,43,Alpenmarketing Bildkompressor,Alpenmarketing Bildkompressor,画像照合済み,,Alpenmarketing Bildkompressor,False,evidence/page-06.png
+p06L44,6,L,44,Akool,Akool,画像照合済み,,Akool,False,evidence/page-06.png
+p06L45,6,L,45,Luma AI,Luma AI,画像照合済み,,Luma Al,False,evidence/page-06.png
+p06L46,6,L,46,Song Maker,Song Maker,画像照合済み,,Song Maker,False,evidence/page-06.png
+p06L47,6,L,47,CILA,CILA,画像照合済み,,CILA,False,evidence/page-06.png
+p06R01,6,R,1,Cattalog,Cattalog,画像照合済み,,Cattalog,False,evidence/page-06.png
+p06R02,6,R,2,One4Wall,One4Wall,画像照合済み,,One4Wall,False,evidence/page-06.png
+p06R03,6,R,3,Gulab,Gulab,画像照合済み,,Gulab,False,evidence/page-06.png
+p06R04,6,R,4,UlazAI Media,UlazAI Media,画像照合済み,,UlazAl Media,False,evidence/page-06.png
+p06R05,6,R,5,Globestudio,Globestudio,画像照合済み,,Globestudio,False,evidence/page-06.png
+p06R06,6,R,6,Songtekst schrijven,Songtekst schrijven,画像照合済み,,Songtekst schrijven,False,evidence/page-06.png
+p06R07,6,R,7,Typography Studio,Typography Studio,画像照合済み,,Typography Studio,False,evidence/page-06.png
+p06R08,6,R,8,Batch Banana,Batch Banana,画像照合済み,,Batch Banana,False,evidence/page-06.png
+p06R09,6,R,9,Glif,Glif,画像照合済み,,Glif,False,evidence/page-06.png
+p06R10,6,R,10,Predis.ai,Predis.ai,画像照合済み,,Predis.ai,False,evidence/page-06.png
+p06R11,6,R,11,Fuzzbucket,Fuzzbucket,画像照合済み,,Fuzzbucket,False,evidence/page-06.png
+p06R12,6,R,12,Commish,Commish,画像照合済み,,Commish,False,evidence/page-06.png
+p06R13,6,R,13,Rasterless,Rasterless,画像照合済み,,Rasterless,False,evidence/page-06.png
+p06R14,6,R,14,Krumzi,Krumzi,画像照合済み,,Krumzi,False,evidence/page-06.png
+p06R15,6,R,15,Nafy AI Song Generator,Nafy AI Song Generator,画像照合済み,,Nafy Al Song Generator,False,evidence/page-06.png
+p06R16,6,R,16,Viral Hook Engine,Viral Hook Engine,画像照合済み,,Viral Hook Engine,False,evidence/page-06.png
+p06R17,6,R,17,Beatwise Metronome,Beatwise Metronome,画像照合済み,,Beatwise Metronome,False,evidence/page-06.png
+p06R18,6,R,18,AI Video Maker FX,AI Video Maker FX,画像照合済み,,Al Video Maker FX,False,evidence/page-06.png
+p06R19,6,R,19,Ringoz,Ringoz,画像照合済み,,Ringoz,False,evidence/page-06.png
+p06R20,6,R,20,CookUp,CookUp,画像照合済み,,CookUp,False,evidence/page-06.png
+p06R21,6,R,21,Muziek maken met AI,Muziek maken met AI,画像照合済み,,Muziek maken met Al,False,evidence/page-06.png
+p06R22,6,R,22,AI Voiceover,AI Voiceover,画像照合済み,,Al Voiceover,False,evidence/page-06.png
+p06R23,6,R,23,Image to Video,Image to Video,画像照合済み,,Image to Video,False,evidence/page-06.png
+p06R24,6,R,24,Textile Designer AI,Textile Designer AI,画像照合済み,,Textile Designer Al,False,evidence/page-06.png
+p06R25,6,R,25,Wonder,Wonder,画像照合済み,,Wonder,False,evidence/page-06.png
+p06R26,6,R,26,DesignerBox,DesignerBox,画像照合済み,,DesignerBox,False,evidence/page-06.png
+p06R27,6,R,27,MimartLabs,MimartLabs,画像照合済み,,MimartLabs,False,evidence/page-06.png
+p06R28,6,R,28,regards.design,regards.design,画像照合済み,,regards.design,False,evidence/page-06.png
+p06R29,6,R,29,Aqueduct,Aqueduct,画像照合済み,,Aqueduct,False,evidence/page-06.png
+p06R30,6,R,30,Wevi,Wevi,画像照合済み,,Wevi,False,evidence/page-06.png
+p06R31,6,R,31,Text to Speech,Text to Speech,画像照合済み,,Text to Speech,False,evidence/page-06.png
+p06R32,6,R,32,Synergieloc CAO,Synergieloc CAO,画像照合済み,,Synergieloc CAO,False,evidence/page-06.png
+p06R33,6,R,33,Flashloop,Flashloop,画像照合済み,,Flashloop,False,evidence/page-06.png
+p06R34,6,R,34,LNX,LNX,画像照合済み,,LNX,False,evidence/page-06.png
+p06R35,6,R,35,Tunmire,Tunmire,画像照合済み,,Tunmire,False,evidence/page-06.png
+p06R36,6,R,36,Wrap,Wrap,画像照合済み,,Wrap,False,evidence/page-06.png
+p06R37,6,R,37,Kinetik,Kinetik,画像照合済み,,Kinetik,False,evidence/page-06.png
+p06R38,6,R,38,AutoShot,AutoShot,画像照合済み,,AutoShot,False,evidence/page-06.png
+p06R39,6,R,39,Faceless.video,Faceless.video,画像照合済み,,Faceless.video,False,evidence/page-06.png
+p06R40,6,R,40,Image Generator,Image Generator,画像照合済み,,Image Generator,False,evidence/page-06.png
+p06R41,6,R,41,Zovo Family Tree,Zovo Family Tree,画像照合済み,,Zovo Family Tree,False,evidence/page-06.png
+p06R42,6,R,42,Image Upscaler,Image Upscaler,画像照合済み,,Image Upscaler,False,evidence/page-06.png
+p06R43,6,R,43,Sprite Fusion,Sprite Fusion,画像照合済み,,Sprite Fusion,False,evidence/page-06.png
+p06R44,6,R,44,1TapEdit AI Studio,1TapEdit AI Studio,画像照合済み,,1TapEdit Al Studio,False,evidence/page-06.png
+p06R45,6,R,45,WizPrompt Studio,WizPrompt Studio,画像照合済み,,WizPrompt Studio,False,evidence/page-06.png
+p06R46,6,R,46,Explainer Video,Explainer Video,画像照合済み,,Explainer Video,False,evidence/page-06.png
+p06R47,6,R,47,SVG Lab,SVG Lab,画像照合済み,,SVG Lab,False,evidence/page-06.png
+p07L01,7,L,1,Sound Effects,Sound Effects,画像照合済み,,Sound Effects,False,evidence/page-07.png
+p07L02,7,L,2,Clypmint: AI Video Editor,Clypmint: AI Video Editor,画像照合済み,,Clypmint: Al Video Editor,False,evidence/page-07.png
+p07L03,7,L,3,Privacy Blur,Privacy Blur,画像照合済み,,Privacy Blur,False,evidence/page-07.png
+p07L04,7,L,4,Logo Maker,Logo Maker,画像照合済み,,Logo Maker,False,evidence/page-07.png
+p07L05,7,L,5,Renoise,Renoise,画像照合済み,,Renoise,False,evidence/page-07.png
+p07L06,7,L,6,Wondershare Media.io,Wondershare Media.io,画像照合済み,,Wondershare Media.io,False,evidence/page-07.png
+p07L07,7,L,7,ClipFabulous,ClipFabulous,画像照合済み,,ClipFabulous,False,evidence/page-07.png
+p07L08,7,L,8,MAP Audio Tools,MAP Audio Tools,画像照合済み,,MAP Audio Tools,False,evidence/page-07.png
+p07L09,7,L,9,Unsora,Unsora,画像照合済み,,Unsora,False,evidence/page-07.png
+p07L10,7,L,10,MyBeatz,MyBeatz,画像照合済み,,MyBeatz,False,evidence/page-07.png
+p07L11,7,L,11,FeedHive,FeedHive,画像照合済み,,FeedHive,False,evidence/page-07.png
+p07L12,7,L,12,Luw.ai,Luw.ai,画像照合済み,,Luw.ai,False,evidence/page-07.png
+p07L13,7,L,13,Images & Video,Images & Video,画像照合済み,,Images & Video,False,evidence/page-07.png
+p07L14,7,L,14,Shapesoda,Shapesoda,画像照合済み,,Shapesoda,False,evidence/page-07.png
+p07L15,7,L,15,Imagen for Real Estate,Imagen for Real Estate,画像照合済み,,Imagen for Real Estate,False,evidence/page-07.png
+p07L16,7,L,16,AI Content Drop,AI Content Drop,画像照合済み,,Al Content Drop,False,evidence/page-07.png
+p07L17,7,L,17,Cenno,Cenno,画像照合済み,,Cenno,False,evidence/page-07.png
+p07L18,7,L,18,Pixel Art Maker,Pixel Art Maker,画像照合済み,,Pixel Art Maker,False,evidence/page-07.png
+p07L19,7,L,19,DupeFont,DupeFont,画像照合済み,,DupeFont,False,evidence/page-07.png
+p07L20,7,L,20,RTST AI,RTST AI,画像照合済み,,RTST Al,False,evidence/page-07.png
+p07L21,7,L,21,EdThumb,EdThumb,画像照合済み,,EdThumb,False,evidence/page-07.png
+p07L22,7,L,22,Designobo,Designobo,画像照合済み,,Designobo,False,evidence/page-07.png
+p07L23,7,L,23,Book Covers by Abracadabrax,Book Covers by Abracadabrax,画像照合済み,,Book Covers by Abracadabrax,False,evidence/page-07.png
+p07L24,7,L,24,Comic Strips,Comic Strips,画像照合済み,,Comic Strips,False,evidence/page-07.png
+p07L25,7,L,25,Hangeul Fonts,Hangeul Fonts,画像照合済み,,Hangeul Fonts,False,evidence/page-07.png
+p07L26,7,L,26,Partwright,Partwright,画像照合済み,,Partwright,False,evidence/page-07.png
+p07L27,7,L,27,Chaptershift,Chaptershift,画像照合済み,,Chaptershift,False,evidence/page-07.png
+p07L28,7,L,28,Album Covers,Album Covers,画像照合済み,,Album Covers,False,evidence/page-07.png
+p07L29,7,L,29,Pixel Engine,Pixel Engine,画像照合済み,,Pixel Engine,False,evidence/page-07.png
+p07L30,7,L,30,Portrait Studio,Portrait Studio,画像照合済み,,Portrait Studio,False,evidence/page-07.png
+p07L31,7,L,31,Comfy Cloud,Comfy Cloud,画像照合済み,,Comfy Cloud,False,evidence/page-07.png
+p07L32,7,L,32,Stickers by Abracadabrax,Stickers by Abracadabrax,画像照合済み,,Stickers by Abracadabrax,False,evidence/page-07.png
+p07L33,7,L,33,Meme Maker,Meme Maker,画像照合済み,,Meme Maker,False,evidence/page-07.png
+p07L34,7,L,34,Givon AI,Givon AI,画像照合済み,,Givon Al,False,evidence/page-07.png
+p07L35,7,L,35,Moodboards,Moodboards,画像照合済み,,Moodboards,False,evidence/page-07.png
+p07L36,7,L,36,PropertyPrompt,PropertyPrompt,画像照合済み,,PropertyPrompt,False,evidence/page-07.png
+p07L37,7,L,37,Coloring Pages,Coloring Pages,画像照合済み,,Coloring Pages,False,evidence/page-07.png
+p07L38,7,L,38,Posters by Abracadabrax,Posters by Abracadabrax,画像照合済み,,Posters by Abracadabrax,False,evidence/page-07.png
+p07L39,7,L,39,Photo AI Studio,Photo AI Studio,画像照合済み,,Photo Al Studio,False,evidence/page-07.png
+p07L40,7,L,40,Reflections Licensed Studio,Reflections Licensed Studio,画像照合済み,,Reflections Licensed Studio,False,evidence/page-07.png
+p07L41,7,L,41,Book Covers,Book Covers,画像照合済み,,Book Covers,False,evidence/page-07.png
+p07L42,7,L,42,Artelo Print Shop,Artelo Print Shop,画像照合済み,,Artelo Print Shop,False,evidence/page-07.png
+p07L43,7,L,43,Voice213,Voice213,画像照合済み,,Voice213,False,evidence/page-07.png
+p07L44,7,L,44,Lustra Studio,Lustra Studio,画像照合済み,,Lustra Studio,False,evidence/page-07.png
+p07L45,7,L,45,EzUGC,EzUGC,画像照合済み,,EzZUGC,False,evidence/page-07.png
+p07L46,7,L,46,Dr.SHI-GYO,Dr.SHI-GYO,画像照合済み,,Dr.SHI-GYO,False,evidence/page-07.png
+p07R01,7,R,1,ScriptNib,ScriptNib,画像照合済み,,ScriptNib,False,evidence/page-07.png
+p07R02,7,R,2,Mozonic,Mozonic,画像照合済み,,Mozonic,False,evidence/page-07.png
+p07R03,7,R,3,Pixel Art,Pixel Art,画像照合済み,,Pixel Art,False,evidence/page-07.png
+p07R04,7,R,4,MakeDeez,MakeDeez,画像照合済み,,MakeDeez,False,evidence/page-07.png
+p07R05,7,R,5,Speed Studio,Speed Studio,画像照合済み,,Speed Studio,False,evidence/page-07.png
+p07R06,7,R,6,Reverie Movies,Reverie Movies,画像照合済み,,Reverie Movies,False,evidence/page-07.png
+p07R07,7,R,7,NOXI,NOXI,画像照合済み,,NOX!,False,evidence/page-07.png
+p07R08,7,R,8,Forge,Forge,画像照合済み,,Forge,False,evidence/page-07.png
+p07R09,7,R,9,GiftsToPrint,GiftsToPrint,画像照合済み,,GiftsToPrint,False,evidence/page-07.png
+p07R10,7,R,10,AIGE Carousel Studio,AIGE Carousel Studio,画像照合済み,,AIGE Carousel Studio,False,evidence/page-07.png
+p07R11,7,R,11,ReelsFarm,ReelsFarm,画像照合済み,,ReelsFarm,False,evidence/page-07.png
+p07R12,7,R,12,pen.dev,pen.dev,画像照合済み,,pen.dev,False,evidence/page-07.png
+p07R13,7,R,13,Archome AI,Archome AI,画像照合済み,,Archome Al,False,evidence/page-07.png
+p07R14,7,R,14,SVG.new,SVG.new,画像照合済み,,SVG.new,False,evidence/page-07.png
+p07R15,7,R,15,Coloring Pages by Abracadabrax,Coloring Pages by Abracadabrax,画像照合済み,,Coloring Pages by Abracadabrax,False,evidence/page-07.png
+p07R16,7,R,16,BrickBuilder AI,BrickBuilder AI,画像照合済み,,BrickBuilder Al,False,evidence/page-07.png
+p07R17,7,R,17,MorphaReels,MorphaReels,画像照合済み,,MorphaReels,False,evidence/page-07.png
+p07R18,7,R,18,Tonebook Palette,Tonebook Palette,画像照合済み,,Tonebook Palette,False,evidence/page-07.png
+p07R19,7,R,19,T-Shirt Art,T-Shirt Art,画像照合済み,,T-Shirt Art,False,evidence/page-07.png
+p07R20,7,R,20,Avatar Maker,Avatar Maker,画像照合済み,,Avatar Maker,False,evidence/page-07.png
+p07R21,7,R,21,Tattoo Designs,Tattoo Designs,画像照合済み,,Tattoo Designs,False,evidence/page-07.png
+p07R22,7,R,22,Wandcase Creator,Wandcase Creator,画像照合済み,,Wandcase Creator,False,evidence/page-07.png
+p07R23,7,R,23,Character Maker,Character Maker,画像照合済み,,Character Maker,False,evidence/page-07.png
+p07R24,7,R,24,Etch Express,Etch Express,画像照合済み,,Etch Express,False,evidence/page-07.png
+p07R25,7,R,25,Beat Maker,Beat Maker,画像照合済み,,Beat Maker,False,evidence/page-07.png
+p07R26,7,R,26,Fontesh,Fontesh,画像照合済み,,Fontesh,False,evidence/page-07.png
+p07R27,7,R,27,ACAE Portfolio,ACAE Portfolio,画像照合済み,,ACAE Portfolio,False,evidence/page-07.png
+p07R28,7,R,28,Visual Sandbox,Visual Sandbox,画像照合済み,,Visual Sandbox,False,evidence/page-07.png
+p07R29,7,R,29,StemConsole,StemConsole,画像照合済み,,StemConsole,False,evidence/page-07.png
+p07R30,7,R,30,Dayfaro,Dayfaro,画像照合済み,,Dayfaro,False,evidence/page-07.png
+p07R31,7,R,31,App Icons,App Icons,画像照合済み,,App Icons,False,evidence/page-07.png
+p07R32,7,R,32,,IayZ AI,要確認,Iとlの字形が似ており正確な表記は要確認,layZ Al,False,evidence/page-07.png
+p07R33,7,R,33,Thumbnail Maker,Thumbnail Maker,画像照合済み,,Thumbnail Maker,False,evidence/page-07.png
+p07R34,7,R,34,Voyager Video & 3D,Voyager Video & 3D,画像照合済み,,Voyager Video & 3D,False,evidence/page-07.png
+p07R35,7,R,35,LiveReacting,LiveReacting,画像照合済み,,LiveReacting,False,evidence/page-07.png
+p07R36,7,R,36,Blog2Video,Blog2Video,画像照合済み,,Blog2Video,False,evidence/page-07.png
+p07R37,7,R,37,Cross-stitch Studio,Cross-stitch Studio,画像照合済み,,Cross-stitch Studio,False,evidence/page-07.png
+p07R38,7,R,38,Vectali,Vectali,画像照合済み,,Vectali,False,evidence/page-07.png
+p07R39,7,R,39,Album Covers by Abracadabrax,Album Covers by Abracadabrax,画像照合済み,,Album Covers by Abracadabrax,False,evidence/page-07.png
+p07R40,7,R,40,Framesurfer,Framesurfer,画像照合済み,,Framesurfer,False,evidence/page-07.png
+p07R41,7,R,41,Podcast Intros,Podcast Intros,画像照合済み,,Podcast Intros,False,evidence/page-07.png
+p07R42,7,R,42,Sticker Maker,Sticker Maker,画像照合済み,,Sticker Maker,False,evidence/page-07.png
+p07R43,7,R,43,Morphic,Morphic,画像照合済み,,Morphic,False,evidence/page-07.png
+p07R44,7,R,44,Video Editor AI,Video Editor AI,画像照合済み,,Video Editor Al,False,evidence/page-07.png
+p07R45,7,R,45,Birthday Songs,Birthday Songs,画像照合済み,,Birthday Songs,False,evidence/page-07.png
+p07R46,7,R,46,Pitch Decks,Pitch Decks,画像照合済み,,Pitch Decks,False,evidence/page-07.png
+p08L01,8,L,1,Poster Maker,Poster Maker,画像照合済み,,Poster Maker,False,evidence/page-08.png
+p08L02,8,L,2,Tattoo Designer,Tattoo Designer,画像照合済み,,Tattoo Designer,False,evidence/page-08.png
+p08L03,8,L,3,ColoringBookify,ColoringBookify,画像照合済み,,ColoringBookify,False,evidence/page-08.png
+p08L04,8,L,4,Clipify,Clipify,画像照合済み,,Clipify,False,evidence/page-08.png
+p08L05,8,L,5,PromptFy,PromptFy,画像照合済み,,PromptFy,False,evidence/page-08.png
+p08L06,8,L,6,Freegma,Freegma,画像照合済み,,Freegma,False,evidence/page-08.png
+p08L07,8,L,7,Character App,Character App,画像照合済み,,Character App,False,evidence/page-08.png
+p08L08,8,L,8,Photoshoot GPT: AI Fashion,Photoshoot GPT: AI Fashion,画像照合済み,,Photoshoot GPT: Al Fashion,False,evidence/page-08.png
+p08L09,8,L,9,Diagram Design,Diagram Design,画像照合済み,,Diagram Design,False,evidence/page-08.png
+p08L10,8,L,10,AI Game Maker,AI Game Maker,画像照合済み,,Al Game Maker,False,evidence/page-08.png
+p08L11,8,L,11,AdStar,AdStar,画像照合済み,,AdStar,False,evidence/page-08.png
+p08L12,8,L,12,3dCMS,3dCMS,画像照合済み,,3dCMS,False,evidence/page-08.png
+p08L13,8,L,13,Corte,Corte,画像照合済み,,Corte,False,evidence/page-08.png
+p08L14,8,L,14,Deck.gallery,Deck.gallery,画像照合済み,,Deck.gallery,False,evidence/page-08.png
+p08L15,8,L,15,Trykr,Trykr,画像照合済み,,Trykr,False,evidence/page-08.png
+p08L16,8,L,16,Inspiration by VASA,Inspiration by VASA,画像照合済み,,Inspiration by VASA,False,evidence/page-08.png
+p08R01,8,R,1,TuneCraft: AI Music Generator,TuneCraft: AI Music Generator,画像照合済み,,TuneCraft: Al Music Generator,False,evidence/page-08.png
+p08R02,8,R,2,PatchDesign.AI,PatchDesign.AI,画像照合済み,,PatchDesign.Al,False,evidence/page-08.png
+p08R03,8,R,3,Beveled,Beveled,画像照合済み,,Beveled,False,evidence/page-08.png
+p08R04,8,R,4,OwlCAD,OwlCAD,画像照合済み,,OwlCAD,False,evidence/page-08.png
+p08R05,8,R,5,Social Images,Social Images,画像照合済み,,Social Images,False,evidence/page-08.png
+p08R06,8,R,6,Brix36,Brix36,画像照合済み,,Brix36,False,evidence/page-08.png
+p08R07,8,R,7,Explainium,Explainium,画像照合済み,,Explainium,False,evidence/page-08.png
+p08R08,8,R,8,Engage Media Suite,Engage Media Suite,画像照合済み,,Engage Media Suite,False,evidence/page-08.png
+p08R09,8,R,9,Donefeed,Donefeed,画像照合済み,,Donefeed,False,evidence/page-08.png
+p08R10,8,R,10,Studia,Studia,画像照合済み,,Studia,False,evidence/page-08.png
+p08R11,8,R,11,VOVV,VOVV,画像照合済み,,VOVV,False,evidence/page-08.png
+p08R12,8,R,12,Bandmixr,Bandmixr,画像照合済み,,Bandmixr,False,evidence/page-08.png
+p08R13,8,R,13,Epictime,Epictime,画像照合済み,,Epictime,False,evidence/page-08.png
+p08R14,8,R,14,Stirloom Family Recipe Book,Stirloom Family Recipe Book,画像照合済み,,Stirloom Family Recipe Book,False,evidence/page-08.png
+p08R15,8,R,15,Supareels,Supareels,画像照合済み,,Supareels,False,evidence/page-08.png
+p08R16,8,R,16,ThreadCam,ThreadCam,画像照合済み,,ThreadCam,False,evidence/page-08.png

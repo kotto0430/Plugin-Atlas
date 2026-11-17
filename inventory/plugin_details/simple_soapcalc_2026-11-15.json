@@ -1,0 +1,22 @@
+{
+  "official_app_name": "Simple SoapCalc",
+  "provider": "Redefined Threads",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_695ab324dd4c8191b76be9a4a233d3c8?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Create freely. Calculate confidently.\n\nSoapmaking depends on getting the numbers right. When the math is off, the whole batch is off. Simple SoapCalc takes care of the calculations so you can focus on the craft, not the chemistry.\n\nDescribe the soap you want to make. Adjust oils, batch size, or superfat as you explore. Simple SoapCalc responds with precise lye, water, and oil amounts you can trust, every time.\n\nTry asking:\n• I want to make a creamy, moisturizing soap for dry winter skin\n• Create a beginner-friendly recipe with olive oil, coconut oil, and shea butter (500 g total)\n• What kind of soap produces lots of fluffy lather?\n\nYou’ll see clear results right away, along with an honest sense of how the soap will behave and feel. Creativity stays open. The calculations stay exact.\n\nNo spreadsheets. No second-guessing.\nJust safe, well-made soap — calculated in seconds.",
+  "summary_ja": "手作り石けんの油・水・アルカリ量の計算を支援する。",
+  "usage_tags": [
+    "石けん作り",
+    "材料計算",
+    "手芸"
+  ],
+  "limitations": [
+    "計算精度・安全性の宣伝文は提供元の説明であり、独立して検証していない。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

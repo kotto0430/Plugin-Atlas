@@ -1,0 +1,21 @@
+{
+  "official_app_name": "Room Renovation Visualizer",
+  "provider": "AIGC Pte Ltd",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6aaeaf611c0081919144846ba27eccae?category=creativity",
+  "observed_at": "2026-11-16",
+  "original_description": "Preview realistic room renovations from a room photo or labelled floor plan. Renovate, declutter, or empty a room, then keep materials, openings, furniture, and room corrections consistent across the unit.",
+  "summary_ja": "部屋の写真や間取り図からリフォーム案や片付け後のイメージを作る。",
+  "usage_tags": [
+    "リフォーム",
+    "インテリア",
+    "画像制作"
+  ],
+  "limitations": [
+    "実動作・画像の正確性・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

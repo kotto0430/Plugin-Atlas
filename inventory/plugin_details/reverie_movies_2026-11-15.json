@@ -1,0 +1,25 @@
+{
+  "name": "Reverie Movies",
+  "official_app_name": "Reverie Movies",
+  "provider": "Justin Crosbie",
+  "version": "0.1.8",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ad2293669b08191aa4771039f1f02b8?category=creativity",
+  "developer_url": "https://reveriemovies.com/",
+  "category": "Creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Create AI videos, cinematic short films, music videos and animated stories with Reverie Movies.\n\nTurn an idea, screenplay or song into a complete film. Develop concepts, build storyboards, create consistent characters, generate cinematic video clips and assemble them into a finished movie.\n\nGo beyond individual AI video clips with connected shots, visual continuity, character references, video extension, AI editing, lip-sync, voiceovers, sound effects and timeline-based filmmaking.\n\nReverie picks the right video model for each shot, or you can choose one yourself.\n\nRequires a Reverie Movies account.",
+  "original_description_language": "en",
+  "summary_ja": "企画・絵コンテからショットの生成や編集を経て短編映画や音楽動画を作る。",
+  "usage_tags": [
+    "動画制作",
+    "音楽",
+    "絵コンテ"
+  ],
+  "limitations_ja": "Reverie Moviesアカウントが必要。料金や生成品質は未検証。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "一覧本体との名称照合は未確認。同名・別名の同一性は未確認。",
+  "review": "詳細画面の説明・情報欄を確認。動作、料金、品質は未検証。"
+}

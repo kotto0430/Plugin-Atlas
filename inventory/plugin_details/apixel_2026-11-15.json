@@ -1,0 +1,25 @@
+{
+  "official_app_name": "Apixel",
+  "provider": "Vidline Inc.",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6945133e20cc8191be09a0b3692ed5f3?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Apixel is an AI-powered image generator that turns your text into stunning visuals in seconds. It accurately renders text within images, making it perfect for posters, logos, and social media content. No design skills needed. Just type your idea and let Apixel do the rest.",
+  "summary_ja": "文章からポスターやロゴ、SNS向け画像を生成する。画像内の文字を描けると説明している。",
+  "usage_tags": [
+    "画像生成",
+    "ポスター",
+    "ロゴ",
+    "SNS"
+  ],
+  "limitations": [
+    "画像内の文字の正確さを含め、実動作・品質・料金は未検証。",
+    "対応言語や生成条件の詳細は説明だけでは不明。",
+    "一覧本体との名称照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証",
+    "説明だけでは不明"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Memolio",
+  "official_app_name": "Memolio",
+  "provider": "The Egg Consultancy GmbH",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ad904261bc881919b14ad082750ee14",
+  "developer_url": "https://memolio.io/",
+  "category": "Creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Memolio makes a personalized memory book about your grandpa, grandma, dad or mom: a 24-page illustrated hardcover where they are the hero, painted in soft watercolor and written from the stories you share.\n\nA meaningful Christmas gift for grandparents, a Grandparents Day gift, or a birthday gift for grandpa or grandma, whether they turn 70, 80, 90 or any age. Also a Father's Day or Mother's Day gift, and an anniversary or retirement present. The personalized gift for the grandpa, grandma or parents who have everything: a family keepsake and legacy book the grandchildren can read with them, a way to keep their stories in the family. It can also be a memorial book for someone who has passed away, told lovingly in their honor.\n\nWhere a \"tell me your story\" journal asks them to write it all down, Memolio does the writing and the painting for you. You answer questions about their life, and their life story comes back as a real illustrated book, a family history told as a story.\n\nWhat's inside:\n- Their life in chapters: where they grew up, the adventures of their young years, how they met their partner, their work, the children and grandchildren, what they love doing now.\n- Watercolor illustrations of them at different ages, and of the family members you choose to include.\n- A dedication of your own, and the stories you tell us.\n\nHow it works in ChatGPT:\n- Tell us about them. Memolio asks a few short questions right here in the chat.\n- See them painted. Add a recent photo in the Memolio panel and tick the consent boxes yourself. A few minutes later you see a watercolor portrait of them and a sample page from their book.\n- Order on memolio.io. When you like what you see, Memolio gives you a link to memolio.io to order the printed book.\n- Tell their story. Come back to the chat and answer the story questions here, typed or spoken, or carry on at memolio.io.\n- Review and approve. You check every page online and ask for changes, and the book is printed once you approve it. The hardcover is then sent to your door.\n\nGood to know:\n- Books are written and painted with the help of AI, from your answers, and you check every page before printing.\n- Each book is written in one language.\n- The countries we ship to are shown on memolio.io before you order.",
+  "original_description_language": "en",
+  "summary_ja": "家族の人生や思い出から水彩風の挿絵が付いた24ページの記念本を作る。",
+  "usage_tags": [
+    "絵本",
+    "家族",
+    "ギフト"
+  ],
+  "limitations_ja": "注文は外部サイト。配送国は注文前にサイトで表示、各本は一言語。写真追加時に本人が同意欄を確認し、印刷前に全ページを承認すると説明。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "一覧本体との名称照合は未確認。同名・別名の同一性は未確認。",
+  "review": "詳細画面の説明・情報欄を確認。動作、料金、品質は未検証。"
+}

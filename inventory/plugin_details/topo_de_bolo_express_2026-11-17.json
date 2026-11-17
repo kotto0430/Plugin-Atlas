@@ -1,0 +1,23 @@
+{
+  "official_app_name": "Topo de Bolo Express",
+  "provider": "Fazendo a Nossa Festa",
+  "version": "1.8.1",
+  "source_url": "https://chatgpt.com/plugins/plugins_6ab424032a1c81918b85c65f535fc211?category=creativity",
+  "observed_at": "2026-11-17",
+  "original_description": "O Topo de Bolo Express transforma a foto de um topo de bolo em um arquivo digital pronto para imprimir e cortar, no estilo Silhouette Studio.\nComo funciona:\n• 1. Envie a foto do bolo com o topo.\n• 2. Aguarde a imagem ser gerada: todos os elementos do topo aparecem separados, com linha de corte branca ao redor, sem encostar uns nos outros, em fundo branco e no formato vertical.\n• 3. Peça as alterações que quiser, como trocar o nome, a idade ou as cores.\nO arquivo final remove o bolo, os palitos, o glacê e as sombras da foto, mantendo as cores e o estilo da arte, para facilitar a impressão e o corte.\nUso exclusivo para alunas: o acesso é liberado com a senha entregue nas aulas. Desenvolvido por fazendoanossafesta.com.br",
+  "description_language": "ポルトガル語",
+  "summary_ja": "ケーキ飾りの写真から印刷・カット用のデータを作成する。",
+  "usage_tags": [
+    "工作",
+    "ケーキ飾り",
+    "画像制作"
+  ],
+  "limitations": [
+    "受講生専用で授業で渡されるパスワードが必要と説明。",
+    "実動作・料金・対応ファイル形式・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "official_app_name": "Viral 80 Trend",
+  "provider": "The Doers Firm",
+  "version": "0.1.0",
+  "source_url": "https://chatgpt.com/plugins/plugins_6ab0dae9ebf481919b6680e5d62ad6df?category=creativity",
+  "observed_at": "2026-11-17",
+  "original_description": "Transform a user-provided photo or concept into a cohesive visual sequence spanning 1880, 1980, 2080, and 2180, with continuity, styling, and safe creative direction.",
+  "summary_ja": "写真やアイデアをもとに、1880年から2180年まで4つの時代の連続した画像案を作る。",
+  "usage_tags": [
+    "画像制作",
+    "写真",
+    "時代表現",
+    "SNS"
+  ],
+  "limitations": [
+    "未来の表現は創作上のもの。画像を直接生成する範囲は未検証。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

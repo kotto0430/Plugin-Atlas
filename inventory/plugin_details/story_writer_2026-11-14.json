@@ -1,0 +1,27 @@
+{
+  "name": "Story Writer",
+  "official_app_name": "Story Writer",
+  "provider": "Syed Fasih Haider Raza Rizvi",
+  "version": "1.1.0",
+  "source_url": "https://chatgpt.com/plugins/plugins_6ab235d1cda08191afa7ba8c81fb0429?category=creativity",
+  "developer_url": "https://github.com/Fasih38/plugin-pages/blob/main/README.md",
+  "category": "Creativity",
+  "observed_at": "2026-11-14",
+  "original_description": "Create and improve stories from the first idea to the final draft. Develop premises, plots, characters, dialogue, scenes, chapters, hooks, twists, endings, and worldbuilding across short stories, novels, fantasy, sci-fi, romance, mystery, thriller, horror, bedtime stories, fan fiction, interactive fiction, and more. Get help with continuations, rewrites, critiques, story bibles, screenplays, blurbs, and publishing preparation. Responses may include a clearly disclosed Story Writer affiliate link.",
+  "original_description_language": "en",
+  "description_scope": "ChatGPT詳細画面の提供元の英語説明。",
+  "summary_ja": "物語の発想、構成、人物、台詞、推敲や出版準備を支援する。",
+  "usage_tags": [
+    "小説",
+    "物語制作",
+    "プロット",
+    "執筆"
+  ],
+  "limitations_ja": "回答に開示付きアフィリエイトリンクを含む場合があると説明。表示された複数スキルではSudowriteへのリンクと開示を毎回付ける旨が記載されている。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "詳細画面の説明と情報欄を確認。実動作、料金、品質、権利条件は未検証。",
+  "catalog_status": "一覧本体との名称照合は未確認。同名・別名の同一性は未確認。"
+}

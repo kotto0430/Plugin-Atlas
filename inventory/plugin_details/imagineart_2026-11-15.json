@@ -1,0 +1,25 @@
+{
+  "official_app_name": "ImagineArt",
+  "provider": "ImagineArt",
+  "version": "2.0.1",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a97af93ebc88191961039f177688fa9?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "ImagineArt creates images, videos, music, logos, ads and social artwork from your brief. You can also remove backgrounds, enhance images, apply effects and edit existing assets.\n\nChoose an ImagineArt workspace, browse earlier creations, and save reusable products, presenters, fashion models, outfits and shot settings. The ad studio brings product, presenter, format and output settings into one interface.\n\nIncludes 17 guided skills for creative workflows, from product imagery and fashion to social content, sound and editing. Canva, Photoshop, After Effects, Premiere and Blender workflows require access to the corresponding application or a supported integration; those applications are not included with ImagineArt.\n\nRequires an ImagineArt account with access to the selected workspace. Generations use your plan's credits. Only supply reference photos of yourself or adults who have given you permission; reference media is processed by third-party AI providers.",
+  "summary_ja": "指示から画像・動画・音楽・広告などを制作し、背景除去や画像の編集も行う。",
+  "usage_tags": [
+    "画像制作",
+    "動画制作",
+    "音楽",
+    "広告"
+  ],
+  "limitations": [
+    "ワークスペースへのアクセス権を持つアカウントが必要で、生成にプランのクレジットを使うと説明。",
+    "他社の制作アプリは含まれず、そのアプリか対応連携が必要と説明。",
+    "参考画像は第三者AI事業者が処理すると説明。",
+    "料金・実動作・一覧本体との名称照合は未確認。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

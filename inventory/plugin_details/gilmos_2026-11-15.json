@@ -1,0 +1,25 @@
+{
+  "name": "gilmOS",
+  "official_app_name": "gilmOS",
+  "provider": "Gilm Technologies",
+  "version": "0.1.5",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6aca49b51ff88191978e4befa3814684?category=creativity",
+  "developer_url": "https://app.gilm.ai/",
+  "category": "Creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Start in gilmOS with a guided setup: understand workspaces, projects, reference assets and the Sandbox, create your first FREE workspace when requested, then choose a project. Write structured screenplays, break scenes into shots, prepare character and location references, generate images and videos, and save montage edit decisions. Read project/workspace chats and send authorized messages or replies as your connected account, visibly labelled via MCP. Plan resource delivery dates, project deadlines, tasks and meetings in the native agenda; selected participants may receive invitations and notifications. The plugin uses your account's permissions, including private conversations. Generations and Alfred writing workflows consume existing gilmOS credits. Montage tools save edit decisions; finished-video rendering is not available through this plugin.",
+  "original_description_language": "en",
+  "summary_ja": "脚本、ショット、画像・動画素材、編集判断や制作予定をgilmOSで管理する。",
+  "usage_tags": [
+    "映像制作",
+    "脚本",
+    "制作管理"
+  ],
+  "limitations_ja": "連携アカウントの権限で非公開会話を含むチャットの閲覧やメッセージ送信が可能。招待・通知が送られる場合がある。生成等にクレジットを使用し、完成動画のレンダリングは対象外。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "一覧本体との名称照合は未確認。同名・別名の同一性は未確認。",
+  "review": "詳細画面の説明・情報欄を確認。動作、料金、品質は未検証。"
+}

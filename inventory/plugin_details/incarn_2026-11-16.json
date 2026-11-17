@@ -1,0 +1,21 @@
+{
+  "official_app_name": "Incarn",
+  "provider": "RONAN CAMUS",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a8afd5306748191882d0fcfa02a03b4?category=creativity",
+  "observed_at": "2026-11-16",
+  "original_description": "Incarn turns old photos into short, lifelike videos. Attach a family photo (or paste a public image URL) and the AI adds subtle, natural motion — gentle blinks, a faint smile, soft breathing. Made for old family and ancestor portraits. Prepaid credits, HD result, with a before/after preview right in the chat.",
+  "summary_ja": "古い家族写真や肖像写真にまばたきなどの動きを加え、短い動画にする。",
+  "usage_tags": [
+    "写真アニメーション",
+    "家族写真",
+    "動画制作"
+  ],
+  "limitations": [
+    "前払いクレジットを使用するとの説明。実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

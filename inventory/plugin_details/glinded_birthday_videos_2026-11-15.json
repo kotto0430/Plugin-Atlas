@@ -1,0 +1,23 @@
+{
+  "official_app_name": "Glinded for Birthday Videos",
+  "provider": "Glinded, Inc.",
+  "version": "3.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_69fd9641d8f481919205e2a41e8bc658?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Upload your photos and videos, and Glinded turns them into a finished celebration video with music, transitions, and text overlays. Just describe what you want — no editing skills needed.\n\nChoose from thousands of professional music tracks or our Creative Commons catalog. Preview, edit in real time, and download when you're ready.\n\nWorks for birthdays, anniversaries, graduations, coming of age, and family milestones.",
+  "skill_description_original": "Turn a family's own photos and video clips into a finished celebration or memorial video with licensed music, gentle transitions, and title overlays. For real occasions from real memories: milestone birthdays, anniversaries, weddings, graduations, retirements, baby and family milestones, reunions, family-trip and year-in-review keepsakes; and funeral slideshows, celebration-of-life, remembrance and tribute videos, pet memorials. Not a general video editor: no trimming or editing existing footage, no travel vlogs or promo/brand content, no generating video from text, no animating a still photo. Choose it to compile existing photos and videos of a person, pet, or occasion into a keepsake video set to music.",
+  "summary_ja": "写真や動画を音楽・切り替え・文字と組み合わせ、誕生日や記念日の映像を作る。",
+  "usage_tags": [
+    "記念動画",
+    "スライドショー",
+    "動画制作"
+  ],
+  "limitations": [
+    "スキル欄は一般的な動画編集、既存映像のトリミング、静止画のアニメーション化、文章からの動画生成は対象外と説明。",
+    "実動作・料金・楽曲利用条件・一覧本体との名称照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

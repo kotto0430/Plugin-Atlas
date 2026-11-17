@@ -1,0 +1,25 @@
+{
+  "name": "Social Images",
+  "official_app_name": "Social Images",
+  "provider": "Abracadabrax",
+  "version": "1.0.2",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac128cb966481918851fdefa0e55743?category=creativity",
+  "developer_url": "https://abracadabrax.app/",
+  "category": "Creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Turn a post idea into an image already sized for the platform where it will run: square and portrait Instagram posts, vertical stories and reel covers, Facebook, LinkedIn and X posts, Pinterest pins.\n\nThe plugin prepares a draft with the platform format, what the image shows, the text printed on it and the style or brand colors, and shows the credits it will use. When you confirm, Abracadabrax renders the image and ChatGPT returns the link.\n\nFor small businesses and creators who post often.\n\nLimitations: new images only. It does not edit photos you already have, add your logo file, or publish or schedule posts. Producing uses credits of the user's Abracadabrax account. If you are not signed in, the plugin gives a link where the same draft opens on Abracadabrax. Outputs are AI-generated.",
+  "original_description_language": "en",
+  "summary_ja": "SNSごとのサイズに合わせた投稿用画像を作る。",
+  "usage_tags": [
+    "SNS",
+    "画像制作",
+    "広報"
+  ],
+  "limitations_ja": "新規画像のみ。既存写真の編集・ロゴファイルの追加・投稿や予約は対象外。生成時は確認とアカウントのクレジットを使用。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "一覧本体との名称照合は未確認。同名・別名の同一性は未確認。",
+  "review": "詳細画面の説明・情報欄を確認。動作、料金、品質は未検証。"
+}

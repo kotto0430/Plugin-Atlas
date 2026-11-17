@@ -1,0 +1,439 @@
+{
+  "source": "エンターテイメント.pdf",
+  "sha256": "aca71709aaebf1c69ff91abd940401c8264de53b36cd298d4209656e7fe6b3f2",
+  "page": 1,
+  "baseline_index_sha": "51b551572f98ef671bcb9f2f0e3b0e69058e81a8",
+  "method": "画像目視、表示名比較",
+  "rows": [
+    {
+      "row_id": "p01L01",
+      "name": "Flaim Fantasy",
+      "match": true
+    },
+    {
+      "row_id": "p01L02",
+      "name": "Spotify",
+      "match": false
+    },
+    {
+      "row_id": "p01L03",
+      "name": "Steer Astro",
+      "match": false
+    },
+    {
+      "row_id": "p01L04",
+      "name": "SoundBreak",
+      "match": false
+    },
+    {
+      "row_id": "p01L05",
+      "name": "Chessy",
+      "match": true
+    },
+    {
+      "row_id": "p01L06",
+      "name": "Sonos",
+      "match": true
+    },
+    {
+      "row_id": "p01L07",
+      "name": "AstroBella Astrology",
+      "match": false
+    },
+    {
+      "row_id": "p01L08",
+      "name": "Shazam",
+      "match": true
+    },
+    {
+      "row_id": "p01L09",
+      "name": "Chess by Max Health",
+      "match": false
+    },
+    {
+      "row_id": "p01L10",
+      "name": "SAJU",
+      "match": false
+    },
+    {
+      "row_id": "p01L11",
+      "name": "Eventbrite",
+      "match": false
+    },
+    {
+      "row_id": "p01L12",
+      "name": "Piano 1024",
+      "match": false
+    },
+    {
+      "row_id": "p01L13",
+      "name": "Astera Tarot & Astrology",
+      "match": false
+    },
+    {
+      "row_id": "p01L14",
+      "name": "Chess Position Analyzer",
+      "match": false
+    },
+    {
+      "row_id": "p01L15",
+      "name": "Archivist AI",
+      "match": false
+    },
+    {
+      "row_id": "p01L16",
+      "name": "Sportily",
+      "match": false
+    },
+    {
+      "row_id": "p01L17",
+      "name": "Battleships Classic Naval Game",
+      "match": false
+    },
+    {
+      "row_id": "p01L18",
+      "name": "Vivin",
+      "match": false
+    },
+    {
+      "row_id": "p01L19",
+      "name": "Rock Paper Scissors (RoShamBo)",
+      "match": false
+    },
+    {
+      "row_id": "p01L20",
+      "name": "Snake Retro: Neon Arcade",
+      "match": false
+    },
+    {
+      "row_id": "p01L21",
+      "name": "Truth or Dare - Party game+fun",
+      "match": false
+    },
+    {
+      "row_id": "p01L22",
+      "name": "Fandango",
+      "match": false
+    },
+    {
+      "row_id": "p01L23",
+      "name": "Pocket FM",
+      "match": false
+    },
+    {
+      "row_id": "p01L24",
+      "name": "Achriom",
+      "match": false
+    },
+    {
+      "row_id": "p01L25",
+      "name": "Eventfrog",
+      "match": false
+    },
+    {
+      "row_id": "p01L26",
+      "name": "District",
+      "match": false
+    },
+    {
+      "row_id": "p01L27",
+      "name": "Gomoku",
+      "match": false
+    },
+    {
+      "row_id": "p01L28",
+      "name": "Trivia & Quiz Games by Trivana",
+      "match": false
+    },
+    {
+      "row_id": "p01L29",
+      "name": "Amazing Nature Sounds",
+      "match": false
+    },
+    {
+      "row_id": "p01L30",
+      "name": "Movie Find: Film Lookup+Search",
+      "match": false
+    },
+    {
+      "row_id": "p01L31",
+      "name": "SessionKeeper",
+      "match": false
+    },
+    {
+      "row_id": "p01L32",
+      "name": "Savecraft",
+      "match": false
+    },
+    {
+      "row_id": "p01L33",
+      "name": "Soundcharts",
+      "match": false
+    },
+    {
+      "row_id": "p01L34",
+      "name": "Domono",
+      "match": false
+    },
+    {
+      "row_id": "p01L35",
+      "name": "Vidmoat",
+      "match": false
+    },
+    {
+      "row_id": "p01L36",
+      "name": "Magic Tips",
+      "match": false
+    },
+    {
+      "row_id": "p01L37",
+      "name": "The Astro Diary",
+      "match": false
+    },
+    {
+      "row_id": "p01L38",
+      "name": "FICTURN",
+      "match": false
+    },
+    {
+      "row_id": "p01L39",
+      "name": "FrightMaps",
+      "match": false
+    },
+    {
+      "row_id": "p01L40",
+      "name": "No Bike No Life",
+      "match": false
+    },
+    {
+      "row_id": "p01L41",
+      "name": "Tarotap",
+      "match": false
+    },
+    {
+      "row_id": "p01L42",
+      "name": "Hockey- Scores+Standings+Stats",
+      "match": false
+    },
+    {
+      "row_id": "p01L43",
+      "name": "Laminor",
+      "match": false
+    },
+    {
+      "row_id": "p01R01",
+      "name": "Daily Tarot",
+      "match": true
+    },
+    {
+      "row_id": "p01R02",
+      "name": "Apple Music",
+      "match": false
+    },
+    {
+      "row_id": "p01R03",
+      "name": "FantasyBot Sports",
+      "match": false
+    },
+    {
+      "row_id": "p01R04",
+      "name": "Destiny AI Astrology",
+      "match": false
+    },
+    {
+      "row_id": "p01R05",
+      "name": "Smart Chess:Train+Learn to win",
+      "match": false
+    },
+    {
+      "row_id": "p01R06",
+      "name": "Background Music",
+      "match": false
+    },
+    {
+      "row_id": "p01R07",
+      "name": "Evelyn Tarot",
+      "match": false
+    },
+    {
+      "row_id": "p01R08",
+      "name": "Football- Games+results+scores",
+      "match": false
+    },
+    {
+      "row_id": "p01R09",
+      "name": "PC Toplama Aracı",
+      "match": false
+    },
+    {
+      "row_id": "p01R10",
+      "name": "Caveman Mode",
+      "match": false
+    },
+    {
+      "row_id": "p01R11",
+      "name": "Flixor",
+      "match": false
+    },
+    {
+      "row_id": "p01R12",
+      "name": "PocketMind: Texas Hold'em",
+      "match": false
+    },
+    {
+      "row_id": "p01R13",
+      "name": "Podcast App",
+      "match": false
+    },
+    {
+      "row_id": "p01R14",
+      "name": "789 Sudoku",
+      "match": false
+    },
+    {
+      "row_id": "p01R15",
+      "name": "Movie Pick",
+      "match": false
+    },
+    {
+      "row_id": "p01R16",
+      "name": "Ask Palmistry",
+      "match": false
+    },
+    {
+      "row_id": "p01R17",
+      "name": "2048",
+      "match": false
+    },
+    {
+      "row_id": "p01R18",
+      "name": "Word Search- Daily Puzzle Game",
+      "match": false
+    },
+    {
+      "row_id": "p01R19",
+      "name": "Cheat-Database",
+      "match": false
+    },
+    {
+      "row_id": "p01R20",
+      "name": "Poker: play, practice, improve",
+      "match": false
+    },
+    {
+      "row_id": "p01R21",
+      "name": "Backstage",
+      "match": false
+    },
+    {
+      "row_id": "p01R22",
+      "name": "Astera Oracle & Numerology",
+      "match": false
+    },
+    {
+      "row_id": "p01R23",
+      "name": "Yoroll",
+      "match": false
+    },
+    {
+      "row_id": "p01R24",
+      "name": "Imagina RPG",
+      "match": false
+    },
+    {
+      "row_id": "p01R25",
+      "name": "Color Card - Party Card Game",
+      "match": false
+    },
+    {
+      "row_id": "p01R26",
+      "name": "ABC Crossword",
+      "match": false
+    },
+    {
+      "row_id": "p01R27",
+      "name": "Baseball-Teams/Schedules/Stats",
+      "match": false
+    },
+    {
+      "row_id": "p01R28",
+      "name": "Accelerator Checkers(Draughts)",
+      "match": false
+    },
+    {
+      "row_id": "p01R29",
+      "name": "Radio FM",
+      "match": false
+    },
+    {
+      "row_id": "p01R30",
+      "name": "Enzo Reader for RSS Feeds",
+      "match": false
+    },
+    {
+      "row_id": "p01R31",
+      "name": "VeyrPiano",
+      "match": false
+    },
+    {
+      "row_id": "p01R32",
+      "name": "diggercamp",
+      "match": false
+    },
+    {
+      "row_id": "p01R33",
+      "name": "Lots of Lotteries",
+      "match": false
+    },
+    {
+      "row_id": "p01R34",
+      "name": "Seatpin",
+      "match": false
+    },
+    {
+      "row_id": "p01R35",
+      "name": "Pitch 1024",
+      "match": false
+    },
+    {
+      "row_id": "p01R36",
+      "name": "Cinemô",
+      "match": false
+    },
+    {
+      "row_id": "p01R37",
+      "name": "ABEMA",
+      "match": false
+    },
+    {
+      "row_id": "p01R38",
+      "name": "PoGo Showcase Manager",
+      "match": false
+    },
+    {
+      "row_id": "p01R39",
+      "name": "Xiangqi",
+      "match": false
+    },
+    {
+      "row_id": "p01R40",
+      "name": "OTTASIA",
+      "match": false
+    },
+    {
+      "row_id": "p01R41",
+      "name": "mysaas.lol",
+      "match": false
+    },
+    {
+      "row_id": "p01R42",
+      "name": "Watchr",
+      "match": false
+    },
+    {
+      "row_id": "p01R43",
+      "name": "Fairy Forge",
+      "match": false
+    }
+  ]
+}

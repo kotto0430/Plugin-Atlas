@@ -1,0 +1,23 @@
+{
+  "official_app_name": "Taste",
+  "provider": "Saul Martí",
+  "version": "2.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugins_6aa2fccc2d448191aee5e7e54b7bdaac?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Create premium non-generic frontend interfaces with Taste, choosing appropriate visual rules and production UI engineering without switching into image-only workflows.",
+  "summary_ja": "ウェブのフロントエンド画面のデザインと実装を支援する。",
+  "usage_tags": [
+    "フロントエンド",
+    "UIデザイン",
+    "ウェブ制作",
+    "プログラミング"
+  ],
+  "limitations": [
+    "同名アプリを区別するため提供元とURLを記録。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

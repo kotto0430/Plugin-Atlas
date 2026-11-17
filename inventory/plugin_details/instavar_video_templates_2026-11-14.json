@@ -1,0 +1,32 @@
+{
+  "name": "Instavar Video Templates",
+  "official_app_name": "Instavar Video Templates",
+  "official_name_basis": "ChatGPTのプラグイン詳細画面に表示された名称",
+  "category": "Creativity",
+  "provider": "WEI JIE CHEE",
+  "version": "2.1.0",
+  "observed_at": "2026-11-14",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a6b1dfc6aa08191a2ea114f5560b7d3?category=creativity",
+  "developer_url": "https://instavar.com/remotion",
+  "original_description": "Independent Instavar video templates for use with Remotion.",
+  "description_scope": "ChatGPTの詳細画面に表示された提供元の英語説明全文",
+  "summary_ja": "Remotionで使うInstavarの動画テンプレート。",
+  "usage_tags": [
+    "動画制作",
+    "テンプレート",
+    "プログラミング"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証",
+    "説明だけでは不明"
+  ],
+  "limitations_ja": "説明本文は短く、テンプレートの種類や具体的な利用条件は不明。プロンプト例にテンプレート選択やレンダリングエラーの相談があるが、実際に対応可能な範囲は未検証。",
+  "example_prompts": [
+    "Help me choose a template for a 30-second vertical explainer.",
+    "Scaffold a 9:16 VideoSpec for a product announcement.",
+    "Diagnose this local Remotion render error and suggest the safest next step."
+  ],
+  "review": "詳細画面の説明と情報欄を確認。テンプレートの使用は試していない。",
+  "catalog_status": "一覧本体との名称照合は未確認。"
+}

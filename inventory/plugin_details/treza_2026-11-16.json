@@ -1,0 +1,21 @@
+{
+  "official_app_name": "Treza",
+  "provider": "Treza Labs",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ab579a2fc24819199d8bea61fa8195f?category=creativity",
+  "observed_at": "2026-11-16",
+  "original_description": "Treza makes and finishes videos from ChatGPT. Describe a video and Treza builds it with current video and image models, narration, music and captions, then renders it on your Treza account. You can also work with media you already have: join clips into one video over a voiceover and a music bed, or caption, upscale, crop or trim a single file.\nWhat you can do:\n• Start from a ready-made template, such as turning a long video or podcast into captioned vertical clips, or build a custom pipeline from a brief.\n• Run a pipeline and follow it to the finished video.\n• Check what a run will cost before spending, and see your credit balance.\n• Browse the videos, images and audio your account has made.\n• Add an image, video or audio file you attach or link, then edit it.\n• Publish a pipeline and pause or resume its schedule.\n• Connect your YouTube channel or TikTok account, and post a finished video after you review it. Nothing is posted until you press Post.\nRuns spend prepaid credits from your Treza account. You sign in with Google when you connect, which creates a Treza account if you don't have one. Posting needs your own YouTube channel or TikTok account, which you connect from a link Treza gives you in the chat.",
+  "summary_ja": "動画の生成や字幕追加、切り抜き、編集を行い、確認後にYouTubeやTikTokへの投稿を支援する。",
+  "usage_tags": [
+    "動画制作",
+    "字幕",
+    "SNS"
+  ],
+  "limitations": [
+    "実行はTrezaのプリペイドクレジットを消費し、接続時にはGoogleでサインインすると説明。実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

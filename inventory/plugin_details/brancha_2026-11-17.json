@@ -1,0 +1,22 @@
+{
+  "official_app_name": "Brancha",
+  "provider": "Sider AI",
+  "version": "0.2.0",
+  "source_url": "https://chatgpt.com/plugins/plugins_6a61cfc52a548191bc1c6bfe28c28ced?category=creativity",
+  "observed_at": "2026-11-17",
+  "original_description": "Use your AI agent to create multiple distinct directions, compare real artifacts on a local tree canvas, and continue iterating from any selected branch.",
+  "summary_ja": "複数の制作案をツリー状のローカル画面で比較し、選んだ案からさらに展開する。",
+  "usage_tags": [
+    "アイデア整理",
+    "デザイン",
+    "企画"
+  ],
+  "limitations": [
+    "ローカルのツリー画面を使用すると説明。必要な環境の詳細は未確認。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

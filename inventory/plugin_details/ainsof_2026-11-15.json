@@ -1,0 +1,21 @@
+{
+  "official_app_name": "AINSOF",
+  "provider": "Or Chausha AINSOF",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a78633c69008191bb4a9fac1a8e5b2e?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "AINSOF helps filmmakers and creators find original production music, discover similar tracks from a reference, analyze video for soundtrack recommendations, preview tracks, build cue sheets, and request track delivery or licensing support.",
+  "summary_ja": "映像向けの音楽を探し、類似曲の検索や試聴、キューシート作成、楽曲提供・ライセンス支援の依頼を行う。",
+  "usage_tags": [
+    "音楽検索",
+    "映像制作",
+    "ライセンス"
+  ],
+  "limitations": [
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

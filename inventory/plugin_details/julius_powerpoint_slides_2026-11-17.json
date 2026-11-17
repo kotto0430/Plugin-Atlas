@@ -1,0 +1,23 @@
+{
+  "official_app_name": "Julius: PowerPoint & Slides",
+  "provider": "Julius AI",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ad6cbda4b1c81918413a835814d9abd?category=creativity",
+  "observed_at": "2026-11-17",
+  "original_description": "Julius is an AI presentation maker for creating and editing PowerPoint slide decks. Turn a prompt, outline, notes, Word document, or supported text-based PDF into an editable PPTX presentation with a clear story and consistent slide design.\nCreate slides from your material: Use text to PowerPoint, document to presentation, and PDF to PPT workflows to turn source content into slide titles, concise talking points, tables, charts, and speaker notes. PDF conversion rebuilds the content as slides rather than reproducing every page exactly.\nMake a deck for your audience: Build pitch decks, investor presentations, sales decks, client proposals, business presentations, project updates, training slides, research talks, and educational slideshows. Choose the audience, tone, length, and key message.\nEdit and refine presentations: Revise slide copy, reorder sections, adjust layouts and typography, and update supported tables and charts. Work from a new deck or an existing PowerPoint file, with changes handled through format-aware processing.\nApply your presentation style: Use supplied brand colors, fonts, logos, and layout references to create branded slides. Prepare a matching outline, speaker script, or handout when needed.\nSave an editable PowerPoint: Get a real .pptx file with editable text and supported slide elements. Continue working with saved presentation files in your Julius library. When requested, create an HTML slideshow or a separate document handout.\nYour files stay private unless you ask to publish a completed presentation and receive a public link. PowerPoint requests produce .pptx files; support for an existing deck depends on its features. Connect your Julius account to get started.",
+  "summary_ja": "文章やWord、対応する文字ベースPDFから編集可能なPowerPointを作成・修正する。",
+  "usage_tags": [
+    "プレゼンテーション",
+    "PowerPoint",
+    "資料作成",
+    "PDF"
+  ],
+  "limitations": [
+    "Juliusアカウントの接続が必要。PDFは内容をスライドとして再構成し、各ページを完全再現しないと説明。",
+    "実動作・画像PDFへの対応・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

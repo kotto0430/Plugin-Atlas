@@ -1,0 +1,401 @@
+{
+  "source": "Chrome ChatGPT 開発者ツール",
+  "date": "2026-11-13",
+  "method": "一覧を重ねてスクロールし表示名を目視転記。転記誤りや重複の可能性あり。",
+  "catalog_blob": "fd13ece4009fcf170733daf819bb2e7424328a60",
+  "counts": {
+    "rows": 97,
+    "matched": 0,
+    "unmatched": 97
+  },
+  "rows": [
+    {
+      "name": "Alpy",
+      "matched": false
+    },
+    {
+      "name": "Olbrain Alchemist",
+      "matched": false
+    },
+    {
+      "name": "RelayDesk",
+      "matched": false
+    },
+    {
+      "name": "Rift",
+      "matched": false
+    },
+    {
+      "name": "NEXUS AI",
+      "matched": false
+    },
+    {
+      "name": "Ghost Invasion",
+      "matched": false
+    },
+    {
+      "name": "Zovo IP Lookup",
+      "matched": false
+    },
+    {
+      "name": "Deploypad",
+      "matched": false
+    },
+    {
+      "name": "Lockbox",
+      "matched": false
+    },
+    {
+      "name": "Prot0",
+      "matched": false
+    },
+    {
+      "name": "Proxy Mail QA",
+      "matched": false
+    },
+    {
+      "name": "Afterward",
+      "matched": false
+    },
+    {
+      "name": "OneInfer",
+      "matched": false
+    },
+    {
+      "name": "Statewright AI",
+      "matched": false
+    },
+    {
+      "name": "ThunderPhone",
+      "matched": false
+    },
+    {
+      "name": "Structura JSON Diff",
+      "matched": false
+    },
+    {
+      "name": "App It",
+      "matched": false
+    },
+    {
+      "name": "CodexPluginStats",
+      "matched": false
+    },
+    {
+      "name": "DomainROC Domain Advisor",
+      "matched": false
+    },
+    {
+      "name": "Vibelets",
+      "matched": false
+    },
+    {
+      "name": "MCPBackend",
+      "matched": false
+    },
+    {
+      "name": "WishKit",
+      "matched": false
+    },
+    {
+      "name": "Zovo Website Status Checker",
+      "matched": false
+    },
+    {
+      "name": "Dev Facts Check",
+      "matched": false
+    },
+    {
+      "name": "InsumerAPI",
+      "matched": false
+    },
+    {
+      "name": "InferGauge",
+      "matched": false
+    },
+    {
+      "name": "Zovo Domain Lookup",
+      "matched": false
+    },
+    {
+      "name": "Mindblown",
+      "matched": false
+    },
+    {
+      "name": "Project Desk",
+      "matched": false
+    },
+    {
+      "name": "BugBug",
+      "matched": false
+    },
+    {
+      "name": "Embarko",
+      "matched": false
+    },
+    {
+      "name": "Durabull: BullMQ & Redis Admin",
+      "matched": false
+    },
+    {
+      "name": "AgentInboxPro",
+      "matched": false
+    },
+    {
+      "name": "Car Image API",
+      "matched": false
+    },
+    {
+      "name": "ProWebLook",
+      "matched": false
+    },
+    {
+      "name": "Port Agent Skills (EU)",
+      "matched": false
+    },
+    {
+      "name": "Integration Helper by RV",
+      "matched": false
+    },
+    {
+      "name": "agenticintegrationhub",
+      "matched": false
+    },
+    {
+      "name": "BugShield Diagnostics",
+      "matched": false
+    },
+    {
+      "name": "Phantom Review",
+      "matched": false
+    },
+    {
+      "name": "Giljo Agent Message Hub",
+      "matched": false
+    },
+    {
+      "name": "Web & Mobile App Builder",
+      "matched": false
+    },
+    {
+      "name": "Infrabase",
+      "matched": false
+    },
+    {
+      "name": "ReMCP",
+      "matched": false
+    },
+    {
+      "name": "Docsy",
+      "matched": false
+    },
+    {
+      "name": "ZRouter",
+      "matched": false
+    },
+    {
+      "name": "getwowlink",
+      "matched": false
+    },
+    {
+      "name": "WisBot",
+      "matched": false
+    },
+    {
+      "name": "Verificado",
+      "matched": false
+    },
+    {
+      "name": "Device It",
+      "matched": false
+    },
+    {
+      "name": "AppCreator24 – APK Builder",
+      "matched": false
+    },
+    {
+      "name": "WeWeb",
+      "matched": false
+    },
+    {
+      "name": "CR Servers AI Connect",
+      "matched": false
+    },
+    {
+      "name": "Terminal Commands",
+      "matched": false
+    },
+    {
+      "name": "Zovo DNS Checker",
+      "matched": false
+    },
+    {
+      "name": "PageLantern",
+      "matched": false
+    },
+    {
+      "name": "Convai Agent Authoring",
+      "matched": false
+    },
+    {
+      "name": "Build MCP Apps & Agents",
+      "matched": false
+    },
+    {
+      "name": "BCD — Bridge Control Delegate",
+      "matched": false
+    },
+    {
+      "name": "AudD Music Recognition",
+      "matched": false
+    },
+    {
+      "name": "PyAI",
+      "matched": false
+    },
+    {
+      "name": "Archboard",
+      "matched": false
+    },
+    {
+      "name": "ohmyho.st",
+      "matched": false
+    },
+    {
+      "name": "Sememe by bld.ai",
+      "matched": false
+    },
+    {
+      "name": "Hoot Lens",
+      "matched": false
+    },
+    {
+      "name": "Naru",
+      "matched": false
+    },
+    {
+      "name": "LogForge",
+      "matched": false
+    },
+    {
+      "name": "Polar",
+      "matched": false
+    },
+    {
+      "name": "debuff",
+      "matched": false
+    },
+    {
+      "name": "Pimlico",
+      "matched": false
+    },
+    {
+      "name": "Ample Computer",
+      "matched": false
+    },
+    {
+      "name": "RatedWithAI",
+      "matched": false
+    },
+    {
+      "name": "SAP CPI iFlow Builder",
+      "matched": false
+    },
+    {
+      "name": "AgentGrade",
+      "matched": false
+    },
+    {
+      "name": "Yard",
+      "matched": false
+    },
+    {
+      "name": "Harakah Arabic Motion",
+      "matched": false
+    },
+    {
+      "name": "Trueway Commander",
+      "matched": false
+    },
+    {
+      "name": "MCPENROUZ",
+      "matched": false
+    },
+    {
+      "name": "Kollus",
+      "matched": false
+    },
+    {
+      "name": "String",
+      "matched": false
+    },
+    {
+      "name": "SEO Audit",
+      "matched": false
+    },
+    {
+      "name": "UDS Toolbox",
+      "matched": false
+    },
+    {
+      "name": "All SVG Icons",
+      "matched": false
+    },
+    {
+      "name": "Webtzm",
+      "matched": false
+    },
+    {
+      "name": "DevKit Code",
+      "matched": false
+    },
+    {
+      "name": "DoveRunner Lab",
+      "matched": false
+    },
+    {
+      "name": "Clerk",
+      "matched": false
+    },
+    {
+      "name": "Leapter",
+      "matched": false
+    },
+    {
+      "name": "Hwiyeong",
+      "matched": false
+    },
+    {
+      "name": "ExtensionDash: Store Rankings",
+      "matched": false
+    },
+    {
+      "name": "ABMeter",
+      "matched": false
+    },
+    {
+      "name": "Digital Garden by Alicia",
+      "matched": false
+    },
+    {
+      "name": "Extract",
+      "matched": false
+    },
+    {
+      "name": "Monarch",
+      "matched": false
+    },
+    {
+      "name": "SignatureAPI",
+      "matched": false
+    },
+    {
+      "name": "Dashboard Icons",
+      "matched": false
+    },
+    {
+      "name": "Sprout",
+      "matched": false
+    }
+  ]
+}

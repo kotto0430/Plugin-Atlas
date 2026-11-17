@@ -1,0 +1,23 @@
+{
+  "official_app_name": "Sonilo",
+  "provider": "Sonilo",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a56e50ff2788191a96c7c8cd84bb6c2?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Generate fully licensed AI music, background music, sound effects, and video soundtracks from a simple prompt or a public video link. Sonilo can match audio to your video, keep speech clear, mix music or sound effects into a new video, and automatically lower background music under voiceovers. Use it for social videos, product demos, podcasts, ads, games, presentations, and more.",
+  "summary_ja": "指示や公開動画リンクから音楽・効果音を作り、動画に合わせて音声をミックスする。",
+  "usage_tags": [
+    "音楽制作",
+    "効果音",
+    "動画制作",
+    "ポッドキャスト"
+  ],
+  "limitations": [
+    "ライセンス済みとの記載は提供元の説明。具体的な利用条件は未確認。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

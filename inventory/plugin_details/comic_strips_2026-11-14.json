@@ -1,0 +1,26 @@
+{
+  "name": "Comic Strips",
+  "official_app_name": "Comic Strips",
+  "provider": "Abracadabrax",
+  "version": "1.0.2",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ace537230608191b204fc4961d0f6e5?category=creativity",
+  "developer_url": "https://abracadabrax.app/",
+  "category": "Creativity",
+  "observed_at": "2026-11-14",
+  "original_description": "Tell ChatGPT the story panel by panel, the characters and the dialogue and get an original comic strip with speech bubbles: 3 panels in a row, 4 in a grid or 6 in three rows.\n\nThe plugin prepares a draft with the panels, the style and the image model. When you confirm, Abracadabrax renders the strip and ChatGPT returns the link to the image.\n\nFor webcomic creators, teachers and anyone with a funny story to tell.\n\nLimitations: original strips from text only. It does not use copyrighted characters or real people, and it does not edit uploaded comics. Producing needs a signed-in Abracadabrax account. If you are not signed in, the plugin gives a link where the same draft opens on Abracadabrax. Outputs are AI-generated.",
+  "original_description_language": "en",
+  "description_scope": "ChatGPT詳細画面の提供元の英語説明。",
+  "summary_ja": "文章で各コマ・人物・台詞を指定し、吹き出し付きの3・4・6コマ漫画を作る。",
+  "usage_tags": [
+    "漫画制作",
+    "漫画",
+    "画像生成"
+  ],
+  "limitations_ja": "テキストからのオリジナル作品が対象。既存作品のキャラクターや実在人物、アップロード済み漫画の編集は対象外と説明。生成にはログイン済みAbracadabraxアカウントと確認が必要。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "詳細画面の説明と情報欄を確認。実動作・料金・品質は未検証。",
+  "catalog_status": "一覧本体との名称照合は未確認。同名・別名の同一性は未確認。"
+}

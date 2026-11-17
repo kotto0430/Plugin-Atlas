@@ -1,0 +1,21 @@
+{
+  "official_app_name": "GifGen - Sticker Maker",
+  "provider": "GifGen.ai",
+  "version": "2.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugins_6aae4a8e70108191a5e8c081dd7ef53f?category=creativity",
+  "observed_at": "2026-11-16",
+  "original_description": "Describe any idea or send any photo and GifGen makes a whole sticker set out of it in one go: nine takes on the same character, each a different reaction, cut apart into separate images you can download — on transparent backgrounds when you ask for it",
+  "summary_ja": "アイデアや写真から同じキャラクターの表情違いのステッカー画像をまとめて作る。",
+  "usage_tags": [
+    "ステッカー",
+    "画像制作",
+    "キャラクター"
+  ],
+  "limitations": [
+    "実動作・画像の一貫性・料金・一覧本体との照合は未検証。既存のGifGen - GIFsとは別の表示名・詳細ページ。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

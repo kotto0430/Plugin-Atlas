@@ -1,0 +1,88 @@
+﻿pdf,page,column,row,display_name,status,existing_catalog,catalog_id,matches_B002_name,matches_B003_name,new_catalog_entry
+人気.pdf,1,L,1,Gmail,画像照合済み,True,plugin_connector_1p_95d39881713c8191931482a62d6edff9,True,False,False
+人気.pdf,1,L,2,Health,画像照合済み,True,atlas-popular-health,False,False,False
+人気.pdf,1,L,3,Remote Desktop Commander,画像照合済み,True,plugin_asdk_app_6a057d268ebc81919918d37eec718425,True,False,False
+人気.pdf,1,L,4,Supabase,画像照合済み,True,plugin_asdk_app_69d3e5ee6a708191baa733f7b8931995,True,False,False
+人気.pdf,1,L,5,Notion,画像照合済み,True,plugin_asdk_app_69c18c28f1188191bf5b8445c4ab0a2e,True,True,False
+人気.pdf,1,L,6,Shopify,画像照合済み,True,plugin_asdk_app_69e65c430b3081919aa4d962ab5d1698,True,False,False
+人気.pdf,1,L,7,Canva,画像照合済み,True,plugin_connector_68df33b1a2d081918778431a9cfca8ba,True,False,False
+人気.pdf,1,L,8,Slack,画像照合済み,True,plugin_asdk_app_69a1d78e929881919bba0dbda1f6436d,True,False,False
+人気.pdf,1,L,9,Dropbox,画像照合済み,True,plugin_asdk_app_69b31dc2110c8191b8b47dc98fe5a052,True,True,False
+人気.pdf,1,L,10,Outlook Calendar,画像照合済み,True,plugin_connector_1p_fd0f4f41caa88191a9456514bbffa06d,True,True,False
+人気.pdf,1,L,11,Firecrawl,画像照合済み,True,plugin_asdk_app_6a314a73f8ac819195b0d55e36b9c609,True,True,False
+人気.pdf,1,L,12,Lovable,画像照合済み,True,plugin_asdk_app_693a0a79ffe48191901173077edcf914,True,False,False
+人気.pdf,1,L,13,Sales,画像照合済み,True,atlas-popular-sales,True,False,False
+人気.pdf,1,L,14,SharePoint,画像照合済み,True,plugin_connector_1p_dca009ae2c848191ae14df3a47c5e7fd,True,True,False
+人気.pdf,1,L,15,Parallel,画像照合済み,True,atlas-popular-parallel,True,True,False
+人気.pdf,1,L,16,Figma,画像照合済み,True,plugin_connector_68df038e0ba48191908c8434991bbac2,True,False,False
+人気.pdf,1,L,17,Trello,画像照合済み,True,plugin_asdk_app_6a20b18a639081918c1b438f8381b27e,True,True,False
+人気.pdf,1,L,18,Airtable,画像照合済み,True,plugin_asdk_app_693ca6ce2db08191bb52d66743c65184,True,True,False
+人気.pdf,1,L,19,Product Design,画像照合済み,True,Plugin_fa77aec24fc08191bc6e57f377126d76,True,False,False
+人気.pdf,1,L,20,Google Contacts,画像照合済み,True,plugin_connector_1p_c97194162860819190a6f840a61b9889,True,True,False
+人気.pdf,1,L,21,HeyGen,画像照合済み,True,plugin_asdk_app_69418aad55e08191aa5e437b649ca2e4,True,False,False
+人気.pdf,1,L,22,Consensus,画像照合済み,True,plugin_asdk_app_6943e6f4a928819195962de16fb9ffe4,True,False,False
+人気.pdf,1,L,23,Wix,画像照合済み,True,plugin_asdk_app_6947eaa4edd081919561e4ee3a2e5dcc,True,False,False
+人気.pdf,1,L,24,Fitness AI Connector,画像照合済み,True,plugin_asdk_app_69beacb8780c81919104bb111b56346b,True,False,False
+人気.pdf,1,L,25,Booking.com,画像照合済み,True,plugin_asdk_app_69272cb413a081919685ec3c88d1744e,True,False,False
+人気.pdf,1,R,1,Google Drive,画像照合済み,True,plugin_connector_1p_ab21a553bfbc81919ea8fd1858e3ffa7,True,True,False
+人気.pdf,1,R,2,GitHub,画像照合済み,True,plugin_connector_1p_1a69035c238881919c4190932b2df699,True,False,False
+人気.pdf,1,R,3,Writing Style,画像照合済み,True,atlas-popular-writing-style,True,True,False
+人気.pdf,1,R,4,Outlook Email,画像照合済み,True,plugin_connector_1p_6bcb5879c73c819196abc70016166099,True,False,False
+人気.pdf,1,R,5,Google Calendar,画像照合済み,True,plugin_connector_1p_f8509de903288191b14a160c6c5d20b0,True,True,False
+人気.pdf,1,R,6,TinyFish,画像照合済み,True,plugin_asdk_app_695325bae7348191b58ae9349a963d22,True,False,False
+人気.pdf,1,R,7,Vercel,画像照合済み,True,plugin_connector_690a90ec05c881918afb6a55dc9bbaa1,True,False,False
+人気.pdf,1,R,8,Metricool,画像照合済み,True,plugin_asdk_app_69d73fc8aa5c8191bec1583760b130c7,True,True,False
+人気.pdf,1,R,9,Data,画像照合済み,True,Plugin_fc9843a6fb34819195d6c7802398a8a7,True,False,False
+人気.pdf,1,R,10,Exa,画像照合済み,True,plugin_asdk_app_69ea4ed2cf7c8191b742ef3622479ddd,True,False,False
+人気.pdf,1,R,11,Todoist,画像照合済み,True,plugin_asdk_app_6943b73823548191a9f9216c6790c453,True,True,False
+人気.pdf,1,R,12,vidIQ,画像照合済み,True,plugin_asdk_app_69dd11f3e50c8191b1ca48d03cf7e2ad,True,False,False
+人気.pdf,1,R,13,WPVibe,画像照合済み,True,plugin_asdk_app_6a244fb509e481918985fee76373b0f9,True,False,False
+人気.pdf,1,R,14,Windsor.ai,画像照合済み,True,plugin_asdk_app_694a52cfaa3c819192bea84eaa254968,True,False,False
+人気.pdf,1,R,15,Higgsfield,画像照合済み,True,plugin_asdk_app_6a3293e129088191abf0875820e839da,True,False,False
+人気.pdf,1,R,16,Interactive Brokers (IBKR),画像照合済み,True,plugin_asdk_app_69bc11db874881918718abaca20b68ce,True,False,False
+人気.pdf,1,R,17,Runway,画像照合済み,True,plugin_asdk_app_6a05e3b201788191be12b590b43e6ce3,True,False,False
+人気.pdf,1,R,18,Flaim Fantasy,画像照合済み,True,atlas-popular-flaim-fantasy,True,False,False
+人気.pdf,1,R,19,Daily Tarot,画像照合済み,True,atlas-popular-daily-tarot,True,False,False
+人気.pdf,1,R,20,Public Equity Investing,画像照合済み,True,atlas-popular-public-equity-investing,True,False,False
+人気.pdf,1,R,21,Descript,画像照合済み,True,plugin_asdk_app_69f0dc45f6048191876c14c1016fe778,True,False,False
+人気.pdf,1,R,22,Atlassian,画像照合済み,True,plugin_asdk_app_6a83901dde988191b3f3cefdcc19acfa,True,True,False
+人気.pdf,1,R,23,Adobe,画像照合済み,False,atlas-pdf-adobe,True,False,True
+人気.pdf,1,R,24,Base44,画像照合済み,True,plugin_asdk_app_6952514760dc8191ab148f77c5794d46,True,False,False
+新着・注目.pdf,1,L,1,iCloud Mail,画像照合済み,True,plugin_connector_6a99cb6846448190875813bf1e8e5504,True,True,False
+新着・注目.pdf,1,L,2,ElevenLabs,画像照合済み,False,atlas-pdf-elevenlabs,True,True,True
+新着・注目.pdf,1,L,3,Sonos,画像照合済み,False,atlas-pdf-sonos,True,False,True
+新着・注目.pdf,1,L,4,Adobe,画像照合済み,False,atlas-pdf-adobe,True,False,True
+新着・注目.pdf,1,L,5,Canva,画像照合済み,True,plugin_connector_68df33b1a2d081918778431a9cfca8ba,True,False,False
+新着・注目.pdf,1,L,6,Magnific,画像照合済み,False,atlas-pdf-magnific,True,False,True
+新着・注目.pdf,1,L,7,Figma,画像照合済み,True,plugin_connector_68df038e0ba48191908c8434991bbac2,True,False,False
+新着・注目.pdf,1,L,8,MagicPath,画像照合済み,True,plugin_asdk_app_6a883213fb288191aa91f89a5db31f60,True,False,False
+新着・注目.pdf,1,L,9,Descript,画像照合済み,True,plugin_asdk_app_69f0dc45f6048191876c14c1016fe778,True,False,False
+新着・注目.pdf,1,L,10,Stack Overflow for Agents,画像照合済み,False,atlas-pdf-stack-overflow-for-agents,True,False,True
+新着・注目.pdf,1,L,11,Mixpanel,画像照合済み,True,plugin_asdk_app_69b2e9aed45c8191b254b207dfcc2bb4,True,False,False
+新着・注目.pdf,1,R,1,iCloud Calendar,画像照合済み,True,plugin_connector_6a99cb684648819088fe4d6a0e373614,True,True,False
+新着・注目.pdf,1,R,2,Tripsy,画像照合済み,True,plugin_asdk_app_6a03b72913d88191b464189e99b02d38,True,False,False
+新着・注目.pdf,1,R,3,Hevy,画像照合済み,False,atlas-pdf-hevy,True,False,True
+新着・注目.pdf,1,R,4,tldraw,画像照合済み,False,atlas-pdf-tldraw,True,True,True
+新着・注目.pdf,1,R,5,Dropbox,画像照合済み,True,plugin_asdk_app_69b31dc2110c8191b8b47dc98fe5a052,True,True,False
+新着・注目.pdf,1,R,6,Higgsfield,画像照合済み,True,plugin_asdk_app_6a3293e129088191abf0875820e839da,True,False,False
+新着・注目.pdf,1,R,7,Shopify,画像照合済み,True,plugin_asdk_app_69e65c430b3081919aa4d962ab5d1698,True,False,False
+新着・注目.pdf,1,R,8,Superpowers,画像照合済み,True,plugins~Plugin_60aea7460bd4819199fd97a9553a5e12,True,False,False
+新着・注目.pdf,1,R,9,ChatGPT Ads Manager,画像照合済み,True,plugin_connector_1p_2eb0f69766cc81919c6912b2a2e0755a,True,False,False
+新着・注目.pdf,1,R,10,Coda,画像照合済み,False,atlas-pdf-coda,True,True,True
+新着・注目.pdf,1,R,11,Wrike,画像照合済み,False,atlas-pdf-wrike,True,True,True
+中小企業.pdf,1,L,1,Dropbox,画像照合済み,True,plugin_asdk_app_69b31dc2110c8191b8b47dc98fe5a052,True,True,False
+中小企業.pdf,1,L,2,Stripe,画像照合済み,True,plugin_connector_690ab09fa43c8191bca40280e4563238,True,False,False
+中小企業.pdf,1,L,3,Gusto,画像照合済み,False,atlas-pdf-gusto,True,False,True
+中小企業.pdf,1,L,4,Figma,画像照合済み,True,plugin_connector_68df038e0ba48191908c8434991bbac2,True,False,False
+中小企業.pdf,1,L,5,Shopify,画像照合済み,True,plugin_asdk_app_69e65c430b3081919aa4d962ab5d1698,True,False,False
+中小企業.pdf,1,L,6,Docusign,画像照合済み,True,plugin_asdk_app_69fcc3b7582c81918df4ffae40cb7204,True,True,False
+中小企業.pdf,1,L,7,ClickUp,画像照合済み,False,atlas-pdf-clickup,True,True,True
+中小企業.pdf,1,L,8,HoneyBook,画像照合済み,False,atlas-pdf-honeybook,True,False,True
+中小企業.pdf,1,R,1,HubSpot,画像照合済み,True,plugin_asdk_app_697acb8e53d88191bf7a79e62012ae14,True,False,False
+中小企業.pdf,1,R,2,Canva,画像照合済み,True,plugin_connector_68df33b1a2d081918778431a9cfca8ba,True,False,False
+中小企業.pdf,1,R,3,ChatGPT Ads Manager,画像照合済み,True,plugin_connector_1p_2eb0f69766cc81919c6912b2a2e0755a,True,False,False
+中小企業.pdf,1,R,4,Slack,画像照合済み,True,plugin_asdk_app_69a1d78e929881919bba0dbda1f6436d,True,False,False
+中小企業.pdf,1,R,5,Wix,画像照合済み,True,plugin_asdk_app_6947eaa4edd081919561e4ee3a2e5dcc,True,False,False
+中小企業.pdf,1,R,6,Mercury,画像照合済み,False,atlas-pdf-mercury,True,False,True
+中小企業.pdf,1,R,7,ZoomInfo,画像照合済み,True,plugin_asdk_app_698a340b9230819188ba5a5eea79022d,True,False,False
+中小企業.pdf,1,R,8,PayPal,画像照合済み,False,atlas-pdf-paypal,True,False,True

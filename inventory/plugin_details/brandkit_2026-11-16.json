@@ -1,0 +1,22 @@
+{
+  "official_app_name": "BrandKit",
+  "provider": "Saul Martí",
+  "version": "2.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugins_6aa30976ed00819196c13a174084de68?category=creativity",
+  "observed_at": "2026-11-16",
+  "original_description": "Generate premium brand-guideline boards, logo systems, identity directions, and visual-world presentations using the dedicated BrandKit skill.",
+  "summary_ja": "ブランドガイドやロゴ、ビジュアルの方向性をまとめた画像や資料を制作。",
+  "usage_tags": [
+    "ブランディング",
+    "ロゴ",
+    "デザイン",
+    "プレゼンテーション"
+  ],
+  "limitations": [
+    "実動作・出力形式・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

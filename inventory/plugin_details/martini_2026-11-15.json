@@ -1,0 +1,25 @@
+{
+  "name": "Martini",
+  "official_app_name": "Martini",
+  "provider": "C47 Inc.",
+  "version": "1.1.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a1f03a5003481919a9dc301fed29ac4",
+  "developer_url": "https://www.martini.film/",
+  "category": "Creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Martini is a collaborative AI video production tool used for commercials, episodic series and brand campaigns. With this plugin, ChatGPT works inside your Martini projects.\n\nWhat you can do\n\n• Plan: create projects and canvases, write shot drafts with prompts, references and model settings, group shots into bins, and leave production notes and comments.\n\n• Generate: make images and videos with current generative models, pick aspect ratio and duration, upscale, and keep every take. Crop, reframe and colour-adjust images deterministically, with every revision kept.\n\n• Reuse: build a library of characters, props, locations and styles and reference them in prompts so shots stay consistent across a project.\n\n• Edit and deliver: inspect videos, extract stills, edit the timeline, render cuts, and export XML to Premiere Pro and DaVinci Resolve.\n\n• Automate: run saved multi-step workflows (Actions) and check on runs.\n\n• Collaborate: everyone on the project, teammates and other agents alike, works on the same canvas, and every shot remembers the model, prompt, references and the person or agent behind it.\n\nWho it is for\n\nFilmmakers, studios, agencies and creative teams who make video with generative models and want one shared workspace instead of folders of files.\n\nGood to know\n\n• You need a Martini account and connect it when ChatGPT first uses the plugin. ChatGPT acts with your permissions on your projects.\n\n• Generation starts only after you approve the model, prompt and target shot.\n\n• Results open in Martini; ChatGPT shows previews and links.\n\n• Large uploads and frame-accurate editing are best done in the Martini app.",
+  "original_description_language": "en",
+  "summary_ja": "共有プロジェクトでショットの企画、画像・動画生成、編集や書き出しを行う。",
+  "usage_tags": [
+    "動画制作",
+    "共同作業",
+    "映像編集"
+  ],
+  "limitations_ja": "アカウント連携が必要で、生成前にモデル・指示・ショットを承認すると説明。大きいアップロードやフレーム単位の編集はMartiniアプリ推奨。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "一覧本体との名称照合は未確認。同名・別名の同一性は未確認。",
+  "review": "詳細画面の説明・情報欄を確認。動作、料金、品質は未検証。"
+}

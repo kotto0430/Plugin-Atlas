@@ -1,0 +1,21 @@
+{
+  "official_app_name": "StitchDesign",
+  "provider": "Saul Martí",
+  "version": "2.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugins_6aa2fcd281848191b0ae9f593beab2a7?category=creativity",
+  "observed_at": "2026-11-16",
+  "original_description": "Create an agent-friendly semantic DESIGN.md for Google Stitch with strong typography, color, layout, motion, and anti-generic UI guidance.",
+  "summary_ja": "Google Stitch向けに、文字・色・レイアウト・動きなどのデザイン方針を記したDESIGN.mdを作る。",
+  "usage_tags": [
+    "UIデザイン",
+    "デザインシステム",
+    "Google Stitch"
+  ],
+  "limitations": [
+    "実動作・出力品質・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

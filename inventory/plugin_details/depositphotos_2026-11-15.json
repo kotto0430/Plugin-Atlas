@@ -1,0 +1,25 @@
+{
+  "official_app_name": "DepositPhotos",
+  "provider": "Depositphotos Inc.",
+  "version": "3.0.2",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_69a1cf9421d081919ce806c97034e6b8?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Connect DepositPhotos to your workspace to search, preview, and source creative assets directly in ChatGPT. Browse a catalog of 330M+ files, match visual references, and download content without breaking your creative flow.\n• Search with natural language: Find photos, vectors, footage, and audio using conversational prompts.\n• Match visual references: Discover similar assets using an uploaded image or web link.\n• Refine your results: Tweak compositions, lighting, and mood without starting over.\n• Download in chat: Get new assets or retrieve past purchases using your active plan.",
+  "app_description": "Let’s create awesome things together! Our mission is to help you push your ideas forward, which is why we are building our creative ecosystem. We strive to develop products with AI technology, a user-first approach, and creative freedom. With our stock content library and online tools, creators can realize all kinds of projects - whether they're bold, funny, experimental, or game-changing. We welcome diverse ideas and are always looking to help you carry them out. Depositphotos brings a world-class stock library into your ChatGPT workflow. Search over 250M+ royalty-free photos, vectors, videos, and music, refine results with natural language, and browse clean previews - all without leaving the conversation. Use it to quickly find the right visuals for presentations, marketing materials, social posts, websites, and product mockups. When you spot the perfect asset, open the canonical Depositphotos page to review licensing and download options in your Depositphotos account. Built for speed, clarity, and creative momentum - so you can move from idea to usable content in minutes.",
+  "summary_ja": "写真・動画・音楽などの素材を検索し、参考画像から似た素材を探す。",
+  "usage_tags": [
+    "素材検索",
+    "ストックフォト",
+    "動画素材",
+    "音楽素材"
+  ],
+  "limitations": [
+    "メイン説明はチャット内ダウンロードと有効なプランを記載。アプリ欄は素材ページでライセンスとダウンロード方法を確認すると説明。利用条件・実際のダウンロード方法は未検証。",
+    "素材数は説明欄で330M+、アプリ欄で250M+と記載時点が異なる可能性があり、正確な現在数は未確認。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

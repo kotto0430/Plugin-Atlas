@@ -1,0 +1,26 @@
+{
+  "official_app_name": "Melius",
+  "provider": "Melius",
+  "version": "0.1.1",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6abedd3381b88191a27be5cca3c066bc?category=creativity",
+  "observed_at": "2026-11-17",
+  "original_description": "Turn product references and a creative brief into ad concepts in your connected Melius account. Create canvases, generate image variations, inspect progress, and open the results in Melius. Uses your existing account permissions, available features, and generation credits. Does not purchase subscriptions or credits.",
+  "displayed_capabilities": "Create images, videos, and AI avatars",
+  "skill_description": "Create product ad image concepts in a connected Melius account, or plan them without generation. Use for Melius product-photo ad workflows and checking their existing results. Not for checkout, subscription upgrades, or access to another team's private work.",
+  "summary_ja": "接続したMeliusで商品広告の画像案を企画・生成し、結果を確認する。",
+  "usage_tags": [
+    "広告",
+    "画像制作",
+    "マーケティング"
+  ],
+  "limitations": [
+    "Meliusアカウントの接続と利用可能な生成クレジットなどの条件がある。",
+    "機能欄は動画とAIアバターにも言及するが、本文と表示されたスキル概要は画像中心で、動画・アバターの具体的な対応範囲は説明だけでは不明。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証",
+    "説明だけでは不明"
+  ]
+}

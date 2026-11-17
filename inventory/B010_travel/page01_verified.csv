@@ -1,0 +1,87 @@
+row_id,page,column,row,display_name,catalog_name_match,evidence
+p01L01,1,L,1,Booking.com,true,evidence/page-01.png
+p01L02,1,L,2,Trip.com,false,evidence/page-01.png
+p01L03,1,L,3,Tripadvisor,false,evidence/page-01.png
+p01L04,1,L,4,eDreams,false,evidence/page-01.png
+p01L05,1,L,5,Kiwi.com,false,evidence/page-01.png
+p01L06,1,L,6,komoot,false,evidence/page-01.png
+p01L07,1,L,7,Wego,false,evidence/page-01.png
+p01L08,1,L,8,MakeMyTrip,false,evidence/page-01.png
+p01L09,1,L,9,AnyWhereMap - Navigate+Locate,false,evidence/page-01.png
+p01L10,1,L,10,Vio.com,false,evidence/page-01.png
+p01L11,1,L,11,Gondola,false,evidence/page-01.png
+p01L12,1,L,12,Turkish Airlines,false,evidence/page-01.png
+p01L13,1,L,13,Klook,false,evidence/page-01.png
+p01L14,1,L,14,Travel Vibes: Trip Itineraries,false,evidence/page-01.png
+p01L15,1,L,15,Marriott Bonvoy,false,evidence/page-01.png
+p01L16,1,L,16,Almosafer.com,false,evidence/page-01.png
+p01L17,1,L,17,Cruise Critic,false,evidence/page-01.png
+p01L18,1,L,18,CheapOair,false,evidence/page-01.png
+p01L19,1,L,19,Viator,false,evidence/page-01.png
+p01L20,1,L,20,TRIP PLANNER Travel Itinerary,false,evidence/page-01.png
+p01L21,1,L,21,TABLEALL,false,evidence/page-01.png
+p01L22,1,L,22,Hyatt,false,evidence/page-01.png
+p01L23,1,L,23,Flygresor.se,false,evidence/page-01.png
+p01L24,1,L,24,Reagent Travel,false,evidence/page-01.png
+p01L25,1,L,25,Eurostar,false,evidence/page-01.png
+p01L26,1,L,26,12Go,false,evidence/page-01.png
+p01L27,1,L,27,FLIGHTS Trip & Travel Routes,false,evidence/page-01.png
+p01L28,1,L,28,DiscoverCars.com,false,evidence/page-01.png
+p01L29,1,L,29,Civitatis,false,evidence/page-01.png
+p01L30,1,L,30,Iberia,false,evidence/page-01.png
+p01L31,1,L,31,Nowistay,false,evidence/page-01.png
+p01L32,1,L,32,SIXT,false,evidence/page-01.png
+p01L33,1,L,33,Wyndham Hotels & Resorts,false,evidence/page-01.png
+p01L34,1,L,34,Virgin Australia,false,evidence/page-01.png
+p01L35,1,L,35,GuruWalk: Tours & Activities,false,evidence/page-01.png
+p01L36,1,L,36,tiket.com,false,evidence/page-01.png
+p01L37,1,L,37,Bolt,false,evidence/page-01.png
+p01L38,1,L,38,Zio,false,evidence/page-01.png
+p01L39,1,L,39,AI Trip Planner,false,evidence/page-01.png
+p01L40,1,L,40,tabiori,false,evidence/page-01.png
+p01L41,1,L,41,TRAIL Hike Planner & Camping,false,evidence/page-01.png
+p01L42,1,L,42,AutoRentals,false,evidence/page-01.png
+p01L43,1,L,43,Buson,false,evidence/page-01.png
+p01R01,1,R,1,Skyscanner,false,evidence/page-01.png
+p01R02,1,R,2,Flight Network,false,evidence/page-01.png
+p01R03,1,R,3,Wikiloc,false,evidence/page-01.png
+p01R04,1,R,4,trivago,false,evidence/page-01.png
+p01R05,1,R,5,ForeFlight Mobile,false,evidence/page-01.png
+p01R06,1,R,6,FlightPoints,false,evidence/page-01.png
+p01R07,1,R,7,Ryanair,false,evidence/page-01.png
+p01R08,1,R,8,World Airfares,false,evidence/page-01.png
+p01R09,1,R,9,Trainline,false,evidence/page-01.png
+p01R10,1,R,10,Rome2Rio,false,evidence/page-01.png
+p01R11,1,R,11,Hilton Hotel Search,false,evidence/page-01.png
+p01R12,1,R,12,GetYourGuide,false,evidence/page-01.png
+p01R13,1,R,13,Omio,false,evidence/page-01.png
+p01R14,1,R,14,Princess Cruises,false,evidence/page-01.png
+p01R15,1,R,15,ALL Accor,false,evidence/page-01.png
+p01R16,1,R,16,EaseMyTrip,false,evidence/page-01.png
+p01R17,1,R,17,Priceline,false,evidence/page-01.png
+p01R18,1,R,18,Swarm by Foursquare,false,evidence/page-01.png
+p01R19,1,R,19,IHG Hotels & Resorts,false,evidence/page-01.png
+p01R20,1,R,20,TUI,false,evidence/page-01.png
+p01R21,1,R,21,ixigo,false,evidence/page-01.png
+p01R22,1,R,22,TheHotelsNetwork,false,evidence/page-01.png
+p01R23,1,R,23,Pegasus Airlines,false,evidence/page-01.png
+p01R24,1,R,24,Traveloka,false,evidence/page-01.png
+p01R25,1,R,25,Archipelago Hotels,false,evidence/page-01.png
+p01R26,1,R,26,Recreation.gov,false,evidence/page-01.png
+p01R27,1,R,27,AbhiBus,false,evidence/page-01.png
+p01R28,1,R,28,BreckenWander Travel,false,evidence/page-01.png
+p01R29,1,R,29,Lambus,false,evidence/page-01.png
+p01R30,1,R,30,redBus,false,evidence/page-01.png
+p01R31,1,R,31,Turo,false,evidence/page-01.png
+p01R32,1,R,32,Travel Advisory,false,evidence/page-01.png
+p01R33,1,R,33,FareFirst,false,evidence/page-01.png
+p01R34,1,R,34,TravExp,false,evidence/page-01.png
+p01R35,1,R,35,Yatra,false,evidence/page-01.png
+p01R36,1,R,36,TourRadar,false,evidence/page-01.png
+p01R37,1,R,37,Wave by Vento,false,evidence/page-01.png
+p01R38,1,R,38,Fattal,false,evidence/page-01.png
+p01R39,1,R,39,DirectBooker,false,evidence/page-01.png
+p01R40,1,R,40,Kismet,false,evidence/page-01.png
+p01R41,1,R,41,Akasa Air,false,evidence/page-01.png
+p01R42,1,R,42,KKday,false,evidence/page-01.png
+p01R43,1,R,43,Ouigo France,false,evidence/page-01.png

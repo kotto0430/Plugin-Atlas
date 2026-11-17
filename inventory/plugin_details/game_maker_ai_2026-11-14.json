@@ -1,0 +1,28 @@
+{
+  "name": "Game Maker AI",
+  "provider": "HIẾU QUANG LE",
+  "version": "1.1.3",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6adeb1a661ec8191b40ef172794c09ac?category=creativity",
+  "developer_url": "https://plugin.chat-prompt.com/game/",
+  "original_description": "AI game maker to design your game, balance its difficulty and get a build-ready brief. Create a portable one-page game design document with keyboard and touch controls, suggested assets and acceptance checks. Calculate a wave-by-wave difficulty curve with transparent formulas, assumptions and warnings about conflicting numbers. Use these artifacts with any developer or builder, without opening an affiliate link. Define controls, game rules, win and lose states, screens, style and observable acceptance tests. Check missing requirements before opening an online AI app builder through an optional prefilled link. Keep the first prototype small, test it in preview and refine one issue at a time. This plugin prepares briefs and links; it does not create, run or publish games. Builds may require further iteration. The link includes the plugin creator's affiliate code. This is an independent plugin and is not sponsored or endorsed by that builder.",
+  "summary_ja": "ゲーム企画書や操作・勝敗条件の整理、数式を示した難易度曲線の検討を支援する。",
+  "usage_tags": [
+    "ゲーム制作",
+    "ゲーム設計",
+    "企画書",
+    "難易度調整"
+  ],
+  "limitations_ja": "プラグイン自体はゲームの作成・実行・公開をしないと説明。外部ビルダーへの任意リンクには作者のアフィリエイトコードを含む。実動作や料金は未検証。",
+  "details_ja": "プラグイン表示名はGame Maker AI、アプリ欄はAI Game Maker。",
+  "official_app_name": "Game Maker AI",
+  "official_name_basis": "ChatGPTのプラグイン詳細画面に表示された名称",
+  "category": "Creativity",
+  "observed_at": "2026-11-14",
+  "description_scope": "ChatGPT詳細画面の提供元の英語説明。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "詳細画面の説明と情報欄を確認。インストール・実機能の検証は行っていない。",
+  "catalog_status": "2026-11-14時点の一覧本体 index.html（blob 27fc7d17ee843cc9e0651a6c2913c06326f3b9db）に正式表示名の文字列なし。別名・同名製品との同一性は未確認。"
+}

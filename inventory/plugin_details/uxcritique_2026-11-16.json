@@ -1,0 +1,21 @@
+{
+  "official_app_name": "UXCritique",
+  "provider": "Saul Martí",
+  "version": "2.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugins_6aa2fc0a29e48191a07d111f3909cbb7?category=creativity",
+  "observed_at": "2026-11-16",
+  "original_description": "Uses the real vendored Impeccable workflow. Specialized for heuristic UX critique, hierarchy, clarity, information architecture, and prioritized design findings.",
+  "summary_ja": "画面の使いやすさや情報の優先順位を評価し、改善点を整理する。",
+  "usage_tags": [
+    "UX",
+    "UI",
+    "デザインレビュー"
+  ],
+  "limitations": [
+    "実動作・評価基準・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

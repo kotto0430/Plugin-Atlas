@@ -1,0 +1,22 @@
+{
+  "official_app_name": "ShapeUI",
+  "provider": "Saul Martí",
+  "version": "2.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugins_6aa2fe48c7908191a3bc58c8d6b902b3?category=creativity",
+  "observed_at": "2026-11-17",
+  "original_description": "Uses the real vendored Impeccable workflow. Specialized for shaping UX and UI decisions and task structure before any interface code is written.",
+  "summary_ja": "画面を実装する前にUX・UIの方針や作業構造を整理する。",
+  "usage_tags": [
+    "UX",
+    "UI",
+    "設計",
+    "プログラミング"
+  ],
+  "limitations": [
+    "実動作・対応範囲・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

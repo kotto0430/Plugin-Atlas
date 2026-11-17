@@ -1,0 +1,25 @@
+{
+  "name": "Designly",
+  "official_app_name": "Designly",
+  "provider": "Mamdouh Abo Ammar",
+  "version": "4.4.0",
+  "source_url": "https://chatgpt.com/plugins/plugins_6a80500711748191bee28e0649499efa?category=creativity",
+  "developer_url": "https://app.prepilot-system-agency.space/",
+  "category": "Creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Designly helps you turn a brief, idea, or reference into polished visual work for ads, social posts, campaigns, and brand content\n\nIt helps shape the concept, composition, typography, imagery, and overall art direction, then reviews the result and guides precise revisions when something feels off\n\nYou can also use Designly to improve existing images without changing everything else, follow brand guidelines, handle Arabic and RTL layouts, and keep a consistent visual style across multiple assets",
+  "original_description_language": "en",
+  "summary_ja": "広告やSNS向けの構図・文字・画像表現を検討し、既存のビジュアルの改善を支援する。",
+  "usage_tags": [
+    "デザイン",
+    "広告",
+    "画像制作"
+  ],
+  "limitations_ja": "アラビア語と右から左へのレイアウトを扱うと説明。画像編集の実際の精度や日本語での結果は未検証。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "一覧本体との名称照合は未確認。同名・別名の同一性は未確認。",
+  "review": "詳細画面の説明・情報欄を確認。動作、料金、品質は未検証。"
+}

@@ -1,0 +1,368 @@
+{
+  "schema_version": 1,
+  "reviewed_on": "2026-11-13",
+  "reviewer": "Codex image review",
+  "source_sha256": "611078d8886c485a0ca4cf47398f89c981df16d3e1bbf545546787c1276c7801",
+  "scope": "全15ページ左右30列の元解像度タイトル画像と14箇所の連結境界を目視照合。公式plugin ID・機能は未検証。",
+  "columns": [
+    {
+      "page": 1,
+      "column": "L",
+      "visual_display_rows": 43,
+      "reviewed": true
+    },
+    {
+      "page": 1,
+      "column": "R",
+      "visual_display_rows": 43,
+      "reviewed": true
+    },
+    {
+      "page": 2,
+      "column": "L",
+      "visual_display_rows": 47,
+      "reviewed": true
+    },
+    {
+      "page": 2,
+      "column": "R",
+      "visual_display_rows": 47,
+      "reviewed": true
+    },
+    {
+      "page": 3,
+      "column": "L",
+      "visual_display_rows": 46,
+      "reviewed": true
+    },
+    {
+      "page": 3,
+      "column": "R",
+      "visual_display_rows": 46,
+      "reviewed": true
+    },
+    {
+      "page": 4,
+      "column": "L",
+      "visual_display_rows": 46,
+      "reviewed": true
+    },
+    {
+      "page": 4,
+      "column": "R",
+      "visual_display_rows": 46,
+      "reviewed": true
+    },
+    {
+      "page": 5,
+      "column": "L",
+      "visual_display_rows": 46,
+      "reviewed": true
+    },
+    {
+      "page": 5,
+      "column": "R",
+      "visual_display_rows": 46,
+      "reviewed": true
+    },
+    {
+      "page": 6,
+      "column": "L",
+      "visual_display_rows": 47,
+      "reviewed": true
+    },
+    {
+      "page": 6,
+      "column": "R",
+      "visual_display_rows": 47,
+      "reviewed": true
+    },
+    {
+      "page": 7,
+      "column": "L",
+      "visual_display_rows": 46,
+      "reviewed": true
+    },
+    {
+      "page": 7,
+      "column": "R",
+      "visual_display_rows": 46,
+      "reviewed": true
+    },
+    {
+      "page": 8,
+      "column": "L",
+      "visual_display_rows": 46,
+      "reviewed": true
+    },
+    {
+      "page": 8,
+      "column": "R",
+      "visual_display_rows": 46,
+      "reviewed": true
+    },
+    {
+      "page": 9,
+      "column": "L",
+      "visual_display_rows": 46,
+      "reviewed": true
+    },
+    {
+      "page": 9,
+      "column": "R",
+      "visual_display_rows": 47,
+      "reviewed": true
+    },
+    {
+      "page": 10,
+      "column": "L",
+      "visual_display_rows": 47,
+      "reviewed": true
+    },
+    {
+      "page": 10,
+      "column": "R",
+      "visual_display_rows": 47,
+      "reviewed": true
+    },
+    {
+      "page": 11,
+      "column": "L",
+      "visual_display_rows": 46,
+      "reviewed": true
+    },
+    {
+      "page": 11,
+      "column": "R",
+      "visual_display_rows": 46,
+      "reviewed": true
+    },
+    {
+      "page": 12,
+      "column": "L",
+      "visual_display_rows": 46,
+      "reviewed": true
+    },
+    {
+      "page": 12,
+      "column": "R",
+      "visual_display_rows": 46,
+      "reviewed": true
+    },
+    {
+      "page": 13,
+      "column": "L",
+      "visual_display_rows": 47,
+      "reviewed": true
+    },
+    {
+      "page": 13,
+      "column": "R",
+      "visual_display_rows": 47,
+      "reviewed": true
+    },
+    {
+      "page": 14,
+      "column": "L",
+      "visual_display_rows": 47,
+      "reviewed": true
+    },
+    {
+      "page": 14,
+      "column": "R",
+      "visual_display_rows": 47,
+      "reviewed": true
+    },
+    {
+      "page": 15,
+      "column": "L",
+      "visual_display_rows": 9,
+      "reviewed": true
+    },
+    {
+      "page": 15,
+      "column": "R",
+      "visual_display_rows": 9,
+      "reviewed": true
+    }
+  ],
+  "boundaries_reviewed": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+  ],
+  "corrections": {
+    "p01L14": "Fathom AI Notetaker",
+    "p01L26": "Forms AI",
+    "p01L34": "AI Producer by OpusClip",
+    "p01L35": "Whisper Transcribe AI",
+    "p01L41": "joblet.ai - AI Job Search",
+    "p01R14": "AccurateScribe.ai – Transcribe",
+    "p01R18": "Pocket AI",
+    "p01R21": "Read AI",
+    "p01R31": "tl:dv - AI Note Taker",
+    "p01R42": "Docs AI",
+    "p02L06": "Slides AI",
+    "p02L16": "AI Wisebase",
+    "p02L32": "Owll",
+    "p02L42": "A.I. Slides by Brightdeck",
+    "p02L45": "Wave AI Note Taker",
+    "p02R04": "Simpliciter AI",
+    "p02R25": "AI Psychiatry",
+    "p02R29": "AI Detector by AI GPT Zero",
+    "p02R31": "MindMap AI",
+    "p03L03": "AI Whisper Voice Note Taker",
+    "p03L33": "AI Attorney Pakistan",
+    "p03L34": "CorretorIA",
+    "p03L40": "No AI Slop",
+    "p03L42": "smarts.bio: AI for biology",
+    "p03R06": "AI Passport",
+    "p03R07": "Newsmind — RSS for your AI",
+    "p03R12": "Passim AI",
+    "p03R13": "Autocalls AI",
+    "p03R16": "WeTransfer",
+    "p03R18": "Smart Planner AI",
+    "p03R20": "AI Delivery Evidence Checker",
+    "p03R25": "Spinach AI",
+    "p03R32": "Twistly AI Presentation Maker",
+    "p03R45": "InvoiceCraft AI",
+    "p04L01": "Aide Calendar: AI Planner",
+    "p04L03": "Sally AI",
+    "p04L27": "Decktopus AI",
+    "p04L37": "There's An AI For That",
+    "p04R40": "AI Humanizer",
+    "p04R41": "ScalperIntel AI",
+    "p05L07": "AI Humanizer",
+    "p05L08": "Ranked AI",
+    "p05L16": "Shchebitka AI Planner",
+    "p05L23": "HWPXkit",
+    "p05L30": "F-AI Contract Template Finder",
+    "p05R10": "PeopleRun AI v.2",
+    "p05R30": "Markup AI",
+    "p05R34": "AI App Readiness Checker",
+    "p05R44": "iitjobs",
+    "p06L12": "Atlas AI Agent",
+    "p06L24": "Mosaiq Labs",
+    "p06L43": "TEAM 30 — AI Company OS",
+    "p06R03": "SavedIt",
+    "p06R08": "F-AI: Contract Review",
+    "p06R26": "Voarq",
+    "p06R38": "SEO&OH AI",
+    "p06R45": "SuperIntern",
+    "p07L05": "LinkedIn Animated Infographics",
+    "p07L08": "Bravos AI",
+    "p07L27": "AI TeamsMaestro",
+    "p07L30": "AIOProductOS",
+    "p07L37": "Tenzo AI MCP",
+    "p07R03": "Vibe AI",
+    "p07R14": "Avoid AI Writing",
+    "p07R16": "Humanização de Texto",
+    "p07R18": "CI HUB",
+    "p07R45": "AI Meta Ads by Coach Adam",
+    "p08L04": "Prompt Machine 6 ⚡",
+    "p08L23": "StewAI",
+    "p08R42": "UserTold: AI User Research",
+    "p08R45": "AI DevKit",
+    "p09L24": "Väderarkivets väderassistent",
+    "p09L35": "Redacción natural en español",
+    "p09L39": "AI Review Skills",
+    "p09R03": "Perspective AI",
+    "p09R22": "MECE → OpenCode",
+    "p09R33": "Hypothèques en ligne",
+    "p09R43": "NotifyAI",
+    "p10L09": "BizlinAI",
+    "p10R01": "Tap26",
+    "p10R11": "Clariia AI Inbox",
+    "p10R34": "VO",
+    "p10R43": "GPT vers Plugin · Le QG",
+    "p11L36": "EW AI Flowchart",
+    "p11R05": "AI Router",
+    "p11R27": "Engram AI Memory",
+    "p11R31": "AIOS — Setup Windows",
+    "p12L02": "Núcleo Estratégico Atomic",
+    "p12L20": "GetItDone",
+    "p12L33": "Diretor de Títulos Sell Pro",
+    "p12L36": "ShapelessAI",
+    "p12L46": "Mapa Starej Tożsamości",
+    "p12R04": "AI Tools Recommender",
+    "p12R07": "ShadowGPT - AI Humanizer",
+    "p12R09": "Gestão Ágil 2.0",
+    "p12R11": "Documentar Reunião",
+    "p13L09": "NSP Club AI Sponsor",
+    "p13L17": "CloneVox AI Voice Studio",
+    "p13L26": "Jurisprudências.ai",
+    "p13L47": "StreamPay",
+    "p13R07": "Dez · L’agent IA de DIUP",
+    "p13R13": "EW AI Work Coach",
+    "p13R14": "AI MindClip",
+    "p13R17": "POW’HER AI",
+    "p13R23": "Dispersão de Gases - ABPIP",
+    "p13R38": "Lindo AI Website Builder",
+    "p13R47": "Family Box by Salz & Schmalz",
+    "p14L01": "StreamPay",
+    "p14L02": "AIApply",
+    "p14L10": "Record Meeting AI Notetaker",
+    "p14R01": "Family Box by Salz & Schmalz",
+    "p14R13": "Underpriced AI",
+    "p14R41": "AI Gaur Growth Advisor"
+  },
+  "unconfirmed": {
+    "p03L12": "FindIp / Findlp の I と l は画像だけでは字形を確定できない。",
+    "p04R21": "RemindMeIQ / RemindMelQ の I と l の同定は要確認。",
+    "p04R41": "ScalperIntel AI / Scalperlntel AI の I と l の同定は要確認。",
+    "p06R03": "SavedIt / Savedlt / Savedit の大文字小文字と I/l は要確認。",
+    "p07L04": "eIgreja / elgreja の I と l は要確認。",
+    "p12L30": "記号を含む文字列。菱形・三角・節記号等の正確なUnicode文字と綴りは確定しない。",
+    "p12L34": "記号を含む文字列。菱形・三角・節記号等の正確なUnicode文字と綴りは確定しない。",
+    "p12R27": "記号を含む文字列。菱形・三角等の正確なUnicode文字と綴りは確定しない。",
+    "p12R40": "記号を含む文字列。菱形・三角等の正確なUnicode文字と綴りは確定しない。",
+    "p13L25": "記号を含む文字列。菱形・三角・節記号等の正確なUnicode文字と綴りは確定しない。",
+    "p14L38": "画面上で Chiedi a Lea... と省略表示されている。省略された正式名は補完しない。",
+    "p15L01": "BenIkBij / BenlkBij の I と l は要確認。"
+  },
+  "added_fragments": [
+    {
+      "row_id": "p09R47",
+      "page": 9,
+      "column": "R",
+      "row": 47,
+      "bbox_native": [
+        2275,
+        5045,
+        2813,
+        5048
+      ],
+      "ocr_raw": "",
+      "display_name": "Tap26",
+      "continuation_of": "p10R01",
+      "review_note": "ページ末尾の3ピクセルの断片。p10R01と境界09を連結して確認。新しい掲載枠として加算しない。"
+    }
+  ],
+  "continuations": {
+    "p14L01": "p13L47",
+    "p14R01": "p13R47",
+    "p09R47": "p10R01"
+  },
+  "notes": {
+    "p13R30": "画像は Eigma と読める。既存の Figma に置き換えない。",
+    "p08L04": "末尾の稲妻の絵記号を保持。絵文字のvariation selectorは画像では特定できない。",
+    "p10R01": "上端が切れており、境界09の連結画像で Tap26 を確認。",
+    "p13L47": "p14L01と連結して StreamPay を確認。",
+    "p13R47": "p14R01と連結して Family Box by Salz & Schmalz を確認。",
+    "p10L01": "ページ上端を境界09の連結画像で確認。",
+    "p06L01": "ページ上端を境界05の連結画像で確認。",
+    "p06R01": "ページ上端を境界05の連結画像で確認。"
+  },
+  "normalization_policy": "NFKC、空白統一、casefold、ダッシュ/アポストロフィの表示字形統一のみ。同じ名称でも同じpluginとは確定しない。AI/Alや類似名は自動同一視しない。"
+}

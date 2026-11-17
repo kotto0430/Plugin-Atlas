@@ -1,0 +1,25 @@
+{
+  "name": "Massive",
+  "official_app_name": "Massive",
+  "official_name_basis": "ChatGPTのアプリ詳細画面に表示された名称",
+  "category": "Finance",
+  "provider": "Massive.com, Inc.",
+  "version": "2.0.0",
+  "observed_at": "2026-11-14",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a4d14f6bfa48191a49bc4f42980ae38?category=finance",
+  "original_description": "Massive brings institutional-grade market data directly into ChatGPT. Query real-time and historical stocks data, options data, futures data, indices data, forex data, and crypto data through Massive.com's financial data API — no code or scraping required.\n\nStocks & equities: Real-time stock prices, historical stock data, tick-level trades and quotes, OHLC aggregates and candlestick bars, market snapshots, and stock ticker reference data for all US equities and ETFs, sourced from all US exchanges.\n\nOptions: Options contracts data including options chains, options prices, quotes, trades, open interest, and historical options data across the full US listed options market.\n\nFutures: Futures market data including futures contracts, futures prices, trades, quotes, and historical futures data across major products.\n\nIndices: Real-time and historical index data including index values and aggregates for major market indices.\n\nForex & crypto: Currency pairs, exchange rates, crypto prices, and historical FX and cryptocurrency market data.\n\nBeyond prices, pull company fundamentals and financials, corporate actions like dividends and stock splits, market news, technical indicators (SMA, EMA, MACD, RSI), and market status. Ask ChatGPT natural-language questions — \"show me NVDA's opening cross\" or \"chart AAPL's daily bars this quarter\" — and get answers backed by licensed, exchange-sourced market data.\n\nBuilt for traders, quants, analysts, and developers who need accurate stock market data, equities data, and multi-asset market data inside ChatGPT.",
+  "description_scope": "ChatGPTのアプリ詳細で展開した提供元の英語説明",
+  "summary_ja": "株式・オプション・先物・為替・暗号資産などの市場データを自然言語で調べる連携。",
+  "usage_tags": [
+    "株式市場",
+    "金融データ",
+    "投資調査",
+    "プログラミング"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "詳細画面の提供元の説明を展開し末尾まで確認。リアルタイム性・網羅性・精度を含め実動作は未検証。",
+  "catalog_status": "一覧本体との名称照合は未確認。"
+}

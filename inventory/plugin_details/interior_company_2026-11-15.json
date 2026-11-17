@@ -1,0 +1,22 @@
+{
+  "official_app_name": "Interior Company",
+  "provider": "SY Interiors Pvt. Ltd.",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a7ead58b7388191ae4d48a3d09018ce?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Access Interior Company’s design platform directly within the chat. Browse latest design for every space— modular kitchens, wardrobes, living rooms, and bedrooms. Explore individual products, stay updated with trends and how-to guides, and discover interior designers by city.\nUse the interactive full-home cost calculator to estimate your interior budget based on your layout configuration, and book a free design consultation in just three simple steps. All listings, prices, and results are fetched in real time from Interior Company’s —nothing is fabricated.",
+  "summary_ja": "内装のデザインや商品を探し、住宅の内装費を概算してデザイナーへの相談を予約する。",
+  "usage_tags": [
+    "インテリア",
+    "住宅",
+    "予算見積もり"
+  ],
+  "limitations": [
+    "日本を含む対応地域、価格情報の正確性と実動作は未検証。",
+    "末尾の原文は表示どおり記録し、不足している語は補っていない。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

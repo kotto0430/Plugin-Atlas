@@ -1,0 +1,28 @@
+{
+  "official_app_name": "Orisu",
+  "provider": "Orisu",
+  "version": "2.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a608e436adc8191affb546011f744cf?category=creativity",
+  "observed_at": "2026-11-17",
+  "original_description": "Use a photo of your product and your brand references to guide store images, ad creatives and short videos, then review and refine them in chat. Orisu works from your real product photo rather than describing a new product, and each recipe checks the product, text and styling in every result so you can ask for fixes. Make a white-background packshot, lifestyle scenes and close-ups for a product page; a matching set of feed, portrait and story ads with your headline; new scenes, light or seasonal styling around the same product; and clean cutouts, removed distractions and larger prints. Resize a finished ad for other placements, try several creative directions side by side, or animate a product photo into a short vertical clip. Add captions to a video, a voiceover from your script, a music bed or sound effects, and thumbnails for your videos. Orisu can read your brand's colors, tone and guidelines to guide the styling, and it can run the saved workflows and apps you already have in Orisu.",
+  "observed_skill_excerpts": [
+    "Use when the user wants a voiceover or narration audio file read from a script, for an ad, product video, explainer or social post, in a chosen voice, accent or pace, or wants help writing a short ad script to voice. Delivers audio only; not for putting the voice onto a video, which this connection does not do.",
+    "Use when the user wants original background music, a jingle-style music bed or sound effects for an ad, product video, podcast or social post, described by mood, genre, length or the sound itself (whoosh, pour, click, rain). Delivers audio files only; not for mixing audio into a video or voicing a script (use ad-voiceover)."
+  ],
+  "summary_ja": "商品写真から広告画像や短い動画を作り、音声や効果音の制作も支援。",
+  "usage_tags": [
+    "商品写真",
+    "広告",
+    "動画制作",
+    "音声"
+  ],
+  "limitations": [
+    "メイン説明の音声追加の記述と、音声ファイルのみを返し動画に音を載せないとするスキル概要の関係が不明。動画への音声合成は未確認。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証",
+    "説明だけでは不明"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "official_app_name": "Sandcastles",
+  "provider": "Sandcastles",
+  "version": "1.0.10",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac6c34ef58c8191afc54996f1954124?category=creativity",
+  "observed_at": "2026-11-17",
+  "original_description": "Sandcastles helps short-form video creators research what's working across YouTube, TikTok, and Instagram. Discover top channels, analyze winning formats and hooks, recap watchlists, and turn insights into your next video.",
+  "summary_ja": "短尺動画のチャンネルや人気の形式を調べ、次の動画の企画を支援する。",
+  "usage_tags": [
+    "動画企画",
+    "SNS",
+    "マーケティング",
+    "調査"
+  ],
+  "limitations": [
+    "具体的な分析データの範囲や鮮度は説明だけでは不明。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

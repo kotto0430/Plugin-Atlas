@@ -1,0 +1,22 @@
+{
+  "official_app_name": "Faces",
+  "provider": "Perhaps Inc.",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a28acadcc2c81919bc0fd34b245d094?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Faces helps users create, inspect, edit, publish, and manage interactive presentation projects through ChatGPT. The MCP tools support project and team discovery, slide authoring, plugin setup, visual verification, publishing, and live URL configuration for authenticated users.",
+  "summary_ja": "対話型プレゼンの作成・編集・公開とプロジェクト管理を扱う。",
+  "usage_tags": [
+    "プレゼンテーション",
+    "スライド制作",
+    "プロジェクト管理"
+  ],
+  "limitations": [
+    "認証済みユーザー向けの機能と説明。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

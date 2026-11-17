@@ -1,0 +1,29 @@
+{
+  "name": "Vectali",
+  "provider": "Sacha Victor Arnust Arbonel",
+  "version": "1.0.8",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ad4b40691e881919263c3c0d9a529dc?category=creativity",
+  "developer_url": "https://vectali.com/agents/",
+  "original_description": "Turn an existing logo, icon or illustration into a vector file you can resize for your website, design work or print handoff. Attach your image and choose SVG, PDF, EPS or DXF.\n\nCompare the original and vector in an interactive preview, zoom in on details, and try light, dark or checkerboard preview backgrounds. Download another format or refresh a saved link without using another conversion credit. Preview controls do not edit the artwork.\n\nWorks with PNG, JPG, WebP, GIF and BMP. Requires a connected Vectali account with available API credits.\n\nUpload the original image at up to 4 megapixels (4,000,000 pixels total), for example 2,000 × 2,000. Files must also be no larger than 10 MiB and 4,096 pixels per side. Animated GIF and WebP use the first frame. Check small lettering, gradients and fine detail after conversion. EPS uses a white background. DXF contains outlines; check scale and duplicate edges before cutting. Exact recovery of original vector paths is not guaranteed.",
+  "summary_ja": "ロゴやイラストをSVG・PDF・EPS・DXFに変換し、元画像と比較する。",
+  "usage_tags": [
+    "SVG",
+    "画像変換",
+    "ロゴ",
+    "印刷"
+  ],
+  "limitations_ja": "VectaliアカウントとAPIクレジットが必要。メイン説明は最大400万画素だが、アプリ欄は262144画素と記載し食い違うため要確認。EPSは白背景、DXFは輪郭と記載。",
+  "official_app_name": "Vectali",
+  "official_name_basis": "ChatGPTのプラグイン詳細画面に表示された名称",
+  "category": "Creativity",
+  "observed_at": "2026-11-14",
+  "description_scope": "ChatGPT詳細画面の提供元の英語説明。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証",
+    "説明だけでは不明"
+  ],
+  "review": "詳細画面の説明と情報欄を確認。実動作、料金、品質は未検証。",
+  "catalog_status": "一覧本体との名称照合は未確認。同名・別名の同一性は未確認。",
+  "app_description": "Convert uploaded PNG and JPEG logos, icons and illustrations into scalable SVG files for design work. Download the SVG, retrieve saved results, and check your remaining conversion allowance. Requires a Vectali account with API access. Connecting does not purchase a plan. Inputs are limited to 10 MiB and 262144 pixels. Fine lettering, gradients and complex artwork can need cleanup; exact reconstruction of original vector paths is not guaranteed."
+}

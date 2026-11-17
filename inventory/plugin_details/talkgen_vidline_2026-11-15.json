@@ -1,0 +1,24 @@
+{
+  "official_app_name": "TalkGen",
+  "provider": "Vidline Inc.",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_694512e480fc819189f037dea53d26a4?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Generate professional talking videos. Upload your own photo or choose an avatar, select from various languages, and get results with perfect lip-sync. Ideal for social media, marketing, and training.\n\nHow to Use in ChatGPT\n1. Connect: Connect TalkGen to ChatGPT.\n2. Trigger: Activate the app using one of these methods:\nType Commands: Simply type “@” then choose TalkGen, or type “TalkGen” in the chat box.\n3. Create: That’s it!",
+  "summary_ja": "写真またはアバターを使い、多言語で話す人物の動画を作る。",
+  "usage_tags": [
+    "動画制作",
+    "アバター",
+    "SNS",
+    "研修"
+  ],
+  "limitations": [
+    "対応言語や料金の詳細は説明だけでは不明。",
+    "口の動きの精度・実動作・一覧本体との名称照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証",
+    "説明だけでは不明"
+  ]
+}

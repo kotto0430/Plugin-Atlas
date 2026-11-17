@@ -1,0 +1,26 @@
+{
+  "name": "Everygen",
+  "official_app_name": "Everygen",
+  "provider": "Viewmax LLC",
+  "version": "2.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a7196b289e081919f53f36a387d971a?category=creativity",
+  "developer_url": "https://everygen.ai/",
+  "category": "Creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Everygen helps creators generate and edit social-ready videos, images, voiceovers, scripts, ads, and captions directly from ChatGPT. Users can create standalone media or combine scripts, narration, generated scenes, and captions into finished short-form videos.",
+  "original_description_language": "en",
+  "summary_ja": "動画、画像、音声や字幕を作り、短いSNS向け動画にまとめる。",
+  "usage_tags": [
+    "動画制作",
+    "SNS",
+    "音声"
+  ],
+  "limitations_ja": "対応言語、利用枠や料金は画面の説明だけでは不明。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証",
+    "説明だけでは不明"
+  ],
+  "catalog_status": "一覧本体との名称照合は未確認。同名・別名の同一性は未確認。",
+  "review": "詳細画面の説明・情報欄を確認。動作、料金、品質は未検証。"
+}

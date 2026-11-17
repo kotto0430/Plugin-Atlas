@@ -1,0 +1,21 @@
+{
+  "official_app_name": "Flatma",
+  "provider": "Aivitu Project",
+  "version": "2.0.1",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_694f3a712f688191a8a64cb5d8390e92?category=creativity",
+  "observed_at": "2026-11-16",
+  "original_description": "Create custom cabinets and furniture from a text prompt. Flatma generates an editable 3D model with real dimensions and panel thicknesses, so you can adjust sizes, shelves, drawers, materials, and other details. Design wardrobes, kitchen cabinets, desks, tables, shelves, and more. Open your project on flatma.com for detailed drawings and cut lists.",
+  "summary_ja": "文章から家具や収納の編集可能な3Dモデルを作り、寸法や材質などを調整する。詳細図面や裁断リストはFlatmaのサイトで確認する。",
+  "usage_tags": [
+    "家具設計",
+    "3Dモデル",
+    "DIY"
+  ],
+  "limitations": [
+    "実動作・寸法の正確性・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

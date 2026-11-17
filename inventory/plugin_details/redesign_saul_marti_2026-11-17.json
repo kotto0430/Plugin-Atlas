@@ -1,0 +1,21 @@
+{
+  "official_app_name": "Redesign",
+  "provider": "Saul Martí",
+  "version": "2.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugins_6aa2fe6782c08191ad141bc53e762ad3?category=creativity",
+  "observed_at": "2026-11-17",
+  "original_description": "Audit and substantially upgrade an existing website or app while preserving product truth and functionality, using Taste plus production frontend engineering.",
+  "summary_ja": "既存サイトやアプリの機能を維持しつつ、画面デザインの点検・改善を支援。",
+  "usage_tags": [
+    "ウェブデザイン",
+    "UI",
+    "プログラミング"
+  ],
+  "limitations": [
+    "実動作・対応技術・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

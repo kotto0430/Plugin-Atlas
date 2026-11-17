@@ -1,0 +1,33 @@
+{
+  "official_app_name": "Instant Website",
+  "provider": "Pyxl",
+  "version": "2.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_694ae02d15d4819184a0dd83b23fffb7?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "InstantSite lets you generate websites using AI and manual editing.\n\nCreate page structure, content, and layout from a short description, then edit and publish your site.",
+  "summary_ja": "短い説明からウェブサイトの構造・文章・レイアウトを作り、編集・公開する。",
+  "usage_tags": [
+    "ウェブ制作",
+    "サイト公開",
+    "デザイン"
+  ],
+  "limitations": [
+    "掲載名はInstant Website、説明文ではInstantSiteと表記。",
+    "公開条件や料金は説明だけでは不明。実動作・一覧本体との名称照合は未検証。",
+    "Insta Website Builderとの関係は未確認。異なるページをこの記録に併記し、独立したサービス数とは数えない。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証",
+    "説明だけでは不明"
+  ],
+  "related_page": {
+    "official_app_name": "Insta Website Builder",
+    "provider": "Pyxl",
+    "version": "3.0.0",
+    "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_69fe1a6d07648191b4763a0c4a813594?category=creativity",
+    "original_description": "InstaSite lets you generate websites using AI.\n\nCreate page structure, content, and layout from a short description, then edit and publish your site.",
+    "website": "https://instasite.ai/",
+    "relationship": "両ページは提供元とウェブサイトが同じで説明もよく似るが、名前・詳細ID・バージョンが異なる。重複や移行の関係は未確認。"
+  }
+}

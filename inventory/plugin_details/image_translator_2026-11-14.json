@@ -1,0 +1,26 @@
+{
+  "name": "Image Translator",
+  "official_app_name": "Image Translator",
+  "provider": "MegaScenes",
+  "version": "1.0.1",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6aecd325e68081918a1aa68b912db3cf?category=creativity",
+  "developer_url": "https://megascenes.com/",
+  "category": "Creativity",
+  "observed_at": "2026-11-14",
+  "original_description": "Pick a comic page, a menu, a sign, a poster or a slide from your MegaScenes library and choose the language. You get the same picture back with the text replaced by the translation, keeping the layout, colors and artwork.\n\nChatGPT lists your recent images, tells you what the translation needs and makes it in your MegaScenes account when you ask. The translated image opens in the chat and stays in your library next to the original.\n\nFor comics, menus, signs, product labels, slides and social graphics.\n\nLimitations: the new lettering is drawn by the model, so check it in the result; it returns an image, not a text translation. Images must already be in your MegaScenes library; attachments from the chat are not passed to the plugin. Making a file needs a signed-in MegaScenes account and runs in it; nothing is made until you confirm. Not for sexual or adult content or for real people's likeness. Files are made by generative models and saved in your MegaScenes library.",
+  "original_description_language": "en",
+  "description_scope": "ChatGPT詳細画面の提供元の英語説明。",
+  "summary_ja": "保存済みの漫画ページなどの画像内の文字を翻訳して差し替えた画像を作る。",
+  "usage_tags": [
+    "漫画制作",
+    "画像翻訳",
+    "翻訳"
+  ],
+  "limitations_ja": "出力は画像で翻訳テキストではなく、描画文字の確認が必要。画像はMegaScenesに事前保存が必要で、チャット添付は渡らないと説明。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "詳細画面の説明と情報欄を確認。実動作・料金・品質・権利条件は未検証。",
+  "catalog_status": "一覧本体との名称照合は未確認。同名・別名の同一性は未確認。"
+}

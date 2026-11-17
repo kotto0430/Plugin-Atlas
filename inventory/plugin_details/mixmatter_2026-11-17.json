@@ -1,0 +1,23 @@
+{
+  "official_app_name": "MixMatter",
+  "provider": "Fan Jiale",
+  "version": "3.0.1",
+  "source_url": "https://chatgpt.com/plugins/plugins_6aad1945673c8191a78f11b46410f1b5?category=creativity",
+  "observed_at": "2026-11-17",
+  "original_description": "MixMatter reconstructs a user-supplied image rather than merely decorating it. Version 3.0.1 restores the original v1 visual baseline: bold disassembly and recomposition, aggressive crop and scale shifts, selective photography, visible halftone or duotone, flattened graphic fields, tactile torn-paper collage, source-adaptive color, and strict source-text protection. Unrelated images must not collapse into one recurring blue/coral/botanical decorative template.",
+  "summary_ja": "元画像の特徴を残しながら、コラージュや印刷物風の大胆な構図に再構成する。",
+  "usage_tags": [
+    "画像編集",
+    "コラージュ",
+    "デザイン",
+    "印刷風"
+  ],
+  "limitations": [
+    "スキル概要には元の文字を保護し、原則として新しい文字を追加しないと説明。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

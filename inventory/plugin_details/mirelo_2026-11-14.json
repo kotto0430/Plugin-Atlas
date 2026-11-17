@@ -1,0 +1,27 @@
+{
+  "name": "Mirelo",
+  "provider": "Mirelo AI",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a79d86a50308191b1232da432e63c9e?category=creativity",
+  "developer_url": "https://mirelo.ai/",
+  "original_description": "Generate and edit sound effects, foley, and ambience from text or video. Extend existing audio and replace selected audio regions. Convert existing recordings into MIDI and notation with Audio-to-MIDI transcription. Uses your Mirelo account and credits.",
+  "summary_ja": "文章や動画から効果音・環境音を生成、既存音声の編集やMIDI・楽譜への変換を行う。",
+  "usage_tags": [
+    "効果音",
+    "音声編集",
+    "MIDI",
+    "楽譜"
+  ],
+  "limitations_ja": "Mireloアカウントとクレジットを使用すると記載。",
+  "official_app_name": "Mirelo",
+  "official_name_basis": "ChatGPTのプラグイン詳細画面に表示された名称",
+  "category": "Creativity",
+  "observed_at": "2026-11-14",
+  "description_scope": "ChatGPT詳細画面の提供元の英語説明。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "詳細画面の説明と情報欄を確認。実機能、料金、品質は未検証。",
+  "catalog_status": "一覧本体との名称照合は未確認。同名・別名の同一性は未確認。"
+}

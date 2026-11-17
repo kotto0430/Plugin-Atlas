@@ -1,0 +1,23 @@
+{
+  "official_app_name": "FreeTTS",
+  "provider": "Outline Technologies LLC",
+  "version": "1.1.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6abd9462d6b48191ab5129ad2317744b?category=creativity",
+  "observed_at": "2026-11-17",
+  "original_description": "Turn any text into natural speech and play it right in the chat: a player with the waveform, playback speed, download, and other voices to compare the same text.\nChoose from 2,253 voices in 149 languages and regional accents, or ask FreeTTS to suggest three voices for your language and purpose, from audiobooks and lessons to ads and podcasts.\nRecord a dialogue with a different voice for each speaker, build timed tracks with exact pauses, beeps and dings for presenters, actors, teachers and video voiceovers, and turn an audio link into text.\nSome features, such as HD voices, dialogue, timed tracks and transcription, work once you connect your FreeTTS account.",
+  "summary_ja": "文章を多言語の音声に変換し、会話音声や時間指定の音声も制作する。",
+  "usage_tags": [
+    "音声読み上げ",
+    "ナレーション",
+    "多言語",
+    "文字起こし"
+  ],
+  "limitations": [
+    "149言語・地域アクセントと2,253種類の声があると説明。一部機能にはFreeTTSアカウント接続が必要。",
+    "実動作・日本語の品質・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

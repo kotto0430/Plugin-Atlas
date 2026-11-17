@@ -1,0 +1,24 @@
+{
+  "official_app_name": "Planner5D: Plan, Build, Create",
+  "provider": "Planner 5D",
+  "version": "1.3.3",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6abc0713a40081919b055a6c32306e05?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Plan a renovation, see how furniture fits, explore a new home, or create visuals for your next interior design or architecture project. Create and edit floor plans, try different layouts, arrange furniture, and visualize interiors, buildings, and outdoor spaces in 2D and 3D. Explore ideas for your own home, client projects, or property presentations. Turn photos, sketches, and references into images and videos. Compare styles, materials, and design options, or create visual content beyond home design. Work with floor plans, specifications, quotes, and project documents. Organize materials and costs, compare options, and prepare clear briefs and presentations. Start with a design idea, a photo, a floor plan, a blueprint or your project files. Develop your work through conversation and continue refining it in Planner 5D.",
+  "app_name": "Planner 5D: Design & Planning",
+  "summary_ja": "間取りや家具配置を作成し、内装や建物を2D・3Dで検討する。",
+  "usage_tags": [
+    "間取り",
+    "インテリア",
+    "建築",
+    "3D"
+  ],
+  "limitations": [
+    "プラグイン名とアプリ欄の表示名が異なるため両方を記録。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

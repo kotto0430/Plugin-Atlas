@@ -1,0 +1,26 @@
+{
+  "name": "Floor Plans",
+  "official_app_name": "Floor Plans",
+  "provider": "MegaScenes",
+  "version": "1.0.1",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6aecbd5c8c5c8191aed4dbca3f61ec63?category=creativity",
+  "developer_url": "https://megascenes.com/",
+  "category": "Creativity",
+  "observed_at": "2026-11-14",
+  "original_description": "List the rooms and rough sizes, say how they connect, and pick a look: clean black and white, colored, or furnished from above. Or pick a hand sketch from your MegaScenes library to redraw it cleanly.\n\nChatGPT tells you what the drawing needs and makes it in your MegaScenes account when you ask. The floor plan opens in the chat and stays in your library.\n\nFor listings, renovation ideas, moving and presentations.\n\nLimitations: it is a visual guide, not a construction drawing, and measurements are not guaranteed. Sketches must already be in your MegaScenes library; attachments from the chat are not passed to the plugin. Making a file needs a signed-in MegaScenes account and runs in it; nothing is made until you confirm. Not for sexual or adult content or for real people's likeness. Files are made by generative models and saved in your MegaScenes library.",
+  "original_description_language": "en",
+  "description_scope": "ChatGPT詳細画面の提供元の英語説明。",
+  "summary_ja": "部屋の構成や保存済みスケッチから、俯瞰の間取りイメージを生成する。",
+  "usage_tags": [
+    "間取り",
+    "背景資料",
+    "画像生成"
+  ],
+  "limitations_ja": "施工用図面ではなく寸法保証なし。スケッチは事前にMegaScenesへ保存が必要で、チャット添付は渡されないと説明。サインインと生成前の確認が必要。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "詳細画面の説明と情報欄を確認。実動作・料金・品質は未検証。",
+  "catalog_status": "一覧本体との名称照合は未確認。同名・別名の同一性は未確認。"
+}

@@ -1,0 +1,23 @@
+{
+  "official_app_name": "Meme Marketing Agent",
+  "provider": "Mamdouh Aboammar",
+  "version": "3.1.1",
+  "source_url": "https://chatgpt.com/plugins/plugins_6ab39eb5877881919383608de91fe50e?category=creativity",
+  "observed_at": "2026-11-17",
+  "original_description": "Fully Agentic Meme Crafting Engine - Generate highly relatable, zero-cringe memes with funny doodle line-art, cultural nuance across English and Arabic dialects, and 8 quality gates.",
+  "summary_ja": "線画を使い、英語やアラビア語の文化的な文脈に合わせたミームを作る。",
+  "usage_tags": [
+    "ミーム",
+    "マーケティング",
+    "イラスト",
+    "SNS"
+  ],
+  "limitations": [
+    "8つの品質チェックに言及するが、具体的な基準は説明だけでは不明。",
+    "実動作・対応言語・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

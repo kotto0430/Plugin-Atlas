@@ -1,0 +1,405 @@
+{
+  "source": "Chrome ChatGPT 教育",
+  "date": "2026-11-14",
+  "method": "画面を重ねてスクロールし表示名を目視転記。誤記・重複の可能性あり。",
+  "catalog_blob": "fd13ece4009fcf170733daf819bb2e7424328a60",
+  "counts": {
+    "rows": 98,
+    "matched": 97,
+    "unmatched": 1
+  },
+  "rows": [
+    {
+      "name": "Agentic Course Redesign",
+      "matched": true
+    },
+    {
+      "name": "Oboeru",
+      "matched": true
+    },
+    {
+      "name": "Rexa",
+      "matched": true
+    },
+    {
+      "name": "Julien’s Accounting Tutor",
+      "matched": false
+    },
+    {
+      "name": "Cryptography Research Skills",
+      "matched": true
+    },
+    {
+      "name": "Pesquisa MirandasTech",
+      "matched": true
+    },
+    {
+      "name": "Arrowgram",
+      "matched": true
+    },
+    {
+      "name": "Black Tech Mafia",
+      "matched": true
+    },
+    {
+      "name": "TRX Search Resume Refiner™",
+      "matched": true
+    },
+    {
+      "name": "Unclass Lesson Builder",
+      "matched": true
+    },
+    {
+      "name": "Eastern Orthodox Source Study",
+      "matched": true
+    },
+    {
+      "name": "KaTeX Error Fixer",
+      "matched": true
+    },
+    {
+      "name": "SimuGen",
+      "matched": true
+    },
+    {
+      "name": "TRX Search Interview Coach™",
+      "matched": true
+    },
+    {
+      "name": "Der erste Notenpunkt",
+      "matched": true
+    },
+    {
+      "name": "PEARL",
+      "matched": true
+    },
+    {
+      "name": "ClassWise School & District",
+      "matched": true
+    },
+    {
+      "name": "RecallRoute",
+      "matched": true
+    },
+    {
+      "name": "CLSTR News Tracker",
+      "matched": true
+    },
+    {
+      "name": "Learn It",
+      "matched": true
+    },
+    {
+      "name": "Vocabloot Deck Kit",
+      "matched": true
+    },
+    {
+      "name": "MolViewer",
+      "matched": true
+    },
+    {
+      "name": "Polyglot Cards",
+      "matched": true
+    },
+    {
+      "name": "Study Daily — Flashcards",
+      "matched": true
+    },
+    {
+      "name": "atlas",
+      "matched": true
+    },
+    {
+      "name": "Egleze",
+      "matched": true
+    },
+    {
+      "name": "Havan Festival Planner",
+      "matched": true
+    },
+    {
+      "name": "CapelanIA – Orientador",
+      "matched": true
+    },
+    {
+      "name": "RPS OBE Creator Dwijendra",
+      "matched": true
+    },
+    {
+      "name": "SistaniGPT",
+      "matched": true
+    },
+    {
+      "name": "Anatomy",
+      "matched": true
+    },
+    {
+      "name": "Open Medicine",
+      "matched": true
+    },
+    {
+      "name": "PMP® Application Helper",
+      "matched": true
+    },
+    {
+      "name": "Fastieshop Cinsel Sağlık",
+      "matched": true
+    },
+    {
+      "name": "Trợ lý Phân tích Content Viral",
+      "matched": true
+    },
+    {
+      "name": "Paperpal",
+      "matched": true
+    },
+    {
+      "name": "Baseball Stat Ace",
+      "matched": true
+    },
+    {
+      "name": "Revisão Docente iMSEP 2026",
+      "matched": true
+    },
+    {
+      "name": "Read Frog",
+      "matched": true
+    },
+    {
+      "name": "Ohana",
+      "matched": true
+    },
+    {
+      "name": "World War Watcher",
+      "matched": true
+    },
+    {
+      "name": "Manusights",
+      "matched": true
+    },
+    {
+      "name": "Soreno Mock Interviews",
+      "matched": true
+    },
+    {
+      "name": "Biohacking Kompakt",
+      "matched": true
+    },
+    {
+      "name": "Scouting NCAP Advisor",
+      "matched": true
+    },
+    {
+      "name": "BoldVoice Pronunciation",
+      "matched": true
+    },
+    {
+      "name": "Investor Panel",
+      "matched": true
+    },
+    {
+      "name": "ICD-10 Assistant",
+      "matched": true
+    },
+    {
+      "name": "Assistant Jump 1 SFH",
+      "matched": true
+    },
+    {
+      "name": "TeachMe.To",
+      "matched": true
+    },
+    {
+      "name": "Esp Por Ita Fre Deu",
+      "matched": true
+    },
+    {
+      "name": "Coach lettura silente",
+      "matched": true
+    },
+    {
+      "name": "Atelier Pottery Mentor",
+      "matched": true
+    },
+    {
+      "name": "Estimation des coûts",
+      "matched": true
+    },
+    {
+      "name": "The Living Bread",
+      "matched": true
+    },
+    {
+      "name": "Policy Scope",
+      "matched": true
+    },
+    {
+      "name": "SongDecoder",
+      "matched": true
+    },
+    {
+      "name": "Bible Expert",
+      "matched": true
+    },
+    {
+      "name": "Parrot",
+      "matched": true
+    },
+    {
+      "name": "Hill Monitor",
+      "matched": true
+    },
+    {
+      "name": "Whiteboard Video Maker",
+      "matched": true
+    },
+    {
+      "name": "CollegeFill",
+      "matched": true
+    },
+    {
+      "name": "SD & SEM Learning Tutor",
+      "matched": true
+    },
+    {
+      "name": "Time Machine",
+      "matched": true
+    },
+    {
+      "name": "Guide enseignant",
+      "matched": true
+    },
+    {
+      "name": "Confetto Mock Interviews",
+      "matched": true
+    },
+    {
+      "name": "Growby",
+      "matched": true
+    },
+    {
+      "name": "Sudoku by Puzzle Fuel",
+      "matched": true
+    },
+    {
+      "name": "Nanan Legal Research",
+      "matched": true
+    },
+    {
+      "name": "QueryCraft SQL Coach",
+      "matched": true
+    },
+    {
+      "name": "SimpleFeed News Free MCP",
+      "matched": true
+    },
+    {
+      "name": "FluoTest",
+      "matched": true
+    },
+    {
+      "name": "PTD Today Cosmos",
+      "matched": true
+    },
+    {
+      "name": "Review Chess",
+      "matched": true
+    },
+    {
+      "name": "Chessigma",
+      "matched": true
+    },
+    {
+      "name": "Equation.io",
+      "matched": true
+    },
+    {
+      "name": "Nibomo Flashcards",
+      "matched": true
+    },
+    {
+      "name": "Analyse des apprenants",
+      "matched": true
+    },
+    {
+      "name": "LiveSky",
+      "matched": true
+    },
+    {
+      "name": "MasterPiano",
+      "matched": true
+    },
+    {
+      "name": "Nerdy",
+      "matched": true
+    },
+    {
+      "name": "Hedraios Scripture Context",
+      "matched": true
+    },
+    {
+      "name": "Accent Oracle by BoldVoice",
+      "matched": true
+    },
+    {
+      "name": "Learn...Wow! AI Library",
+      "matched": true
+    },
+    {
+      "name": "Conception de l’évaluation",
+      "matched": true
+    },
+    {
+      "name": "Inventaire des tâches",
+      "matched": true
+    },
+    {
+      "name": "Class Key",
+      "matched": true
+    },
+    {
+      "name": "SBH News",
+      "matched": true
+    },
+    {
+      "name": "STILL Artwork Credits",
+      "matched": true
+    },
+    {
+      "name": "Retri",
+      "matched": true
+    },
+    {
+      "name": "LexIA Asistente Legal",
+      "matched": true
+    },
+    {
+      "name": "EN Training",
+      "matched": true
+    },
+    {
+      "name": "TCOMK Study Atlas",
+      "matched": true
+    },
+    {
+      "name": "Analytics Power Hour Librarian",
+      "matched": true
+    },
+    {
+      "name": "GenizahSearch",
+      "matched": true
+    },
+    {
+      "name": "Mataró",
+      "matched": true
+    },
+    {
+      "name": "Laya UPSC",
+      "matched": true
+    },
+    {
+      "name": "AI Expert for 3DCP",
+      "matched": true
+    }
+  ]
+}

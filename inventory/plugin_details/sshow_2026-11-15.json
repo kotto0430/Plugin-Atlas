@@ -1,0 +1,25 @@
+{
+  "official_app_name": "SSHOW",
+  "provider": "SSHOW",
+  "version": "3.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a9a9af423b0819195523f55515febd0?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "SSHOW is a design tool where one canvas holds your layout, its motion, and the presentation you give from it. Connect this plugin and your assistant works inside the project you already have open in a SSHOW editor: it reads the scenes and objects, adds or changes text, shapes, images, tables and keyframes, and takes a screenshot to check its own work.\n\nEdits happen in the project on your screen, so you watch each change land. A batch of edits arrives as a single undo step, and the assistant can undo or redo it for you. With no editor open, the assistant can still read the last saved version of your projects, but it cannot change them.\n\nThe assistant can also run the presentation from your editor: start it, move through scenes and stops, and try the interactions you built. Share live with viewers is on by default in Play Settings, so anyone who has the project's play link open follows along on their own device. Turn it off to rehearse on your own.\n\nYou need a SSHOW account and a project open at s.show or in the desktop app. You sign in once when you connect, and you can end the connection at any time from your profile.",
+  "app_description": "SSHOW is a design tool where one canvas holds your layout, its motion, and the presentation you give from it. Connect this plugin and your assistant works inside the project you already have open in a SSHOW editor: it reads the scenes and objects, adds or changes text, shapes, images and keyframes, and takes a screenshot to check its own work. Everything happens in the project on your screen, so you watch each change land. A batch of edits arrives as a single undo step, and the assistant can undo or redo it for you. Nothing runs when you have no editor open. You need a free SSHOW account and a project open at s.show or in the desktop app. You sign in once when you connect, and you can end the connection at any time from your profile.",
+  "summary_ja": "開いているSSHOWのプレゼンを読み取り、スライドや動きの編集・再生を支援する。",
+  "usage_tags": [
+    "プレゼンテーション",
+    "スライド制作",
+    "アニメーション"
+  ],
+  "limitations": [
+    "メイン説明はエディターが閉じていても保存済み版を読み取れるとし、アプリ欄は何も実行されないと記載。閉じた状態での読み取り可否は未検証。",
+    "メイン説明では視聴者へのライブ共有が既定でオンと記載。実際の挙動は未検証。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証",
+    "説明だけでは不明"
+  ]
+}

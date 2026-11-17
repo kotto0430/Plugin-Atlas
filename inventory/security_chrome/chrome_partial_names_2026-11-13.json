@@ -1,0 +1,365 @@
+{
+  "source": "Chrome ChatGPT セキュリティ",
+  "date": "2026-11-13",
+  "method": "読み込まれた一覧のアクセシビリティツリーからカテゴリ付きリンク表示名を抽出。未読込部分は含まれず、末尾確認までは全件ではない。",
+  "catalog_blob": "fd13ece4009fcf170733daf819bb2e7424328a60",
+  "counts": {
+    "rows": 88,
+    "matched": 1,
+    "unmatched": 87
+  },
+  "rows": [
+    {
+      "name": "Malwarebytes",
+      "matched": true
+    },
+    {
+      "name": "PrivacyHawk",
+      "matched": false
+    },
+    {
+      "name": "AJAXX Data Scrubber",
+      "matched": false
+    },
+    {
+      "name": "Bitdefender",
+      "matched": false
+    },
+    {
+      "name": "Soluvery",
+      "matched": false
+    },
+    {
+      "name": "Ansvar Gateway",
+      "matched": false
+    },
+    {
+      "name": "ToolCheck by M8ven",
+      "matched": false
+    },
+    {
+      "name": "CertScore.ai Privacy Scanner",
+      "matched": false
+    },
+    {
+      "name": "Radar Lite",
+      "matched": false
+    },
+    {
+      "name": "Neura Relay MCP",
+      "matched": false
+    },
+    {
+      "name": "Is It Legit by M8ven",
+      "matched": false
+    },
+    {
+      "name": "Jacana Scam Check",
+      "matched": false
+    },
+    {
+      "name": "AccessOwl",
+      "matched": false
+    },
+    {
+      "name": "ProofX",
+      "matched": false
+    },
+    {
+      "name": "IsThisSpam",
+      "matched": false
+    },
+    {
+      "name": "Whoscall Lens",
+      "matched": false
+    },
+    {
+      "name": "SmartphoneKey",
+      "matched": false
+    },
+    {
+      "name": "Daybreak Defense Factory",
+      "matched": false
+    },
+    {
+      "name": "CookieYes",
+      "matched": false
+    },
+    {
+      "name": "Decionis",
+      "matched": false
+    },
+    {
+      "name": "Authorised OSINT Toolkit",
+      "matched": false
+    },
+    {
+      "name": "Bastion",
+      "matched": false
+    },
+    {
+      "name": "RelayShield Scam Checks",
+      "matched": false
+    },
+    {
+      "name": "Vibe Code Security Reviewer",
+      "matched": false
+    },
+    {
+      "name": "Cloudflare Security",
+      "matched": false
+    },
+    {
+      "name": "MCP Precheck",
+      "matched": false
+    },
+    {
+      "name": "Orca Security",
+      "matched": false
+    },
+    {
+      "name": "Awesome Maintainer Defense",
+      "matched": false
+    },
+    {
+      "name": "Safeguard",
+      "matched": false
+    },
+    {
+      "name": "Above Security",
+      "matched": false
+    },
+    {
+      "name": "Prompt Injection Security",
+      "matched": false
+    },
+    {
+      "name": "Aivana Security Investigator",
+      "matched": false
+    },
+    {
+      "name": "Endor Labs Agent Kit",
+      "matched": false
+    },
+    {
+      "name": "NightVision",
+      "matched": false
+    },
+    {
+      "name": "Minimus",
+      "matched": false
+    },
+    {
+      "name": "Tahr Security",
+      "matched": false
+    },
+    {
+      "name": "Authorized Security Review",
+      "matched": false
+    },
+    {
+      "name": "Atbash Safety",
+      "matched": false
+    },
+    {
+      "name": "Atbash Safety を開く（デスクトップのみ）",
+      "matched": false
+    },
+    {
+      "name": "Guardio",
+      "matched": false
+    },
+    {
+      "name": "LeakData.io",
+      "matched": false
+    },
+    {
+      "name": "AttackerView",
+      "matched": false
+    },
+    {
+      "name": "Skarn",
+      "matched": false
+    },
+    {
+      "name": "Keybook",
+      "matched": false
+    },
+    {
+      "name": "Scamchecker.nl",
+      "matched": false
+    },
+    {
+      "name": "Palisade",
+      "matched": false
+    },
+    {
+      "name": "Is This AI Agent Safe?",
+      "matched": false
+    },
+    {
+      "name": "Fraud Blocker",
+      "matched": false
+    },
+    {
+      "name": "RegSentry",
+      "matched": false
+    },
+    {
+      "name": "BlindOracle Agent Trust",
+      "matched": false
+    },
+    {
+      "name": "DMARCwise",
+      "matched": false
+    },
+    {
+      "name": "Diopter AI",
+      "matched": false
+    },
+    {
+      "name": "Security Advisory Scout",
+      "matched": false
+    },
+    {
+      "name": "CIMTK",
+      "matched": false
+    },
+    {
+      "name": "Have I Been Squatted",
+      "matched": false
+    },
+    {
+      "name": "ScamCheck",
+      "matched": false
+    },
+    {
+      "name": "CVE Risk Check",
+      "matched": false
+    },
+    {
+      "name": "Mailphantom",
+      "matched": false
+    },
+    {
+      "name": "Cloudaware Service Graph",
+      "matched": false
+    },
+    {
+      "name": "Aikido Security",
+      "matched": false
+    },
+    {
+      "name": "Aikido Security を開く（デスクトップのみ）",
+      "matched": false
+    },
+    {
+      "name": "Frame Security Scan",
+      "matched": false
+    },
+    {
+      "name": "UK Data Removal Tool",
+      "matched": false
+    },
+    {
+      "name": "Drata",
+      "matched": false
+    },
+    {
+      "name": "PersProtect",
+      "matched": false
+    },
+    {
+      "name": "Skill Risk Check",
+      "matched": false
+    },
+    {
+      "name": "ArrowMem",
+      "matched": false
+    },
+    {
+      "name": "PasskeyBridge",
+      "matched": false
+    },
+    {
+      "name": "Etugen",
+      "matched": false
+    },
+    {
+      "name": "Anomity",
+      "matched": false
+    },
+    {
+      "name": "AgentGuards",
+      "matched": false
+    },
+    {
+      "name": "DHVANI",
+      "matched": false
+    },
+    {
+      "name": "VIDOC Security Review",
+      "matched": false
+    },
+    {
+      "name": "Suped",
+      "matched": false
+    },
+    {
+      "name": "Streamingo Face Blur",
+      "matched": false
+    },
+    {
+      "name": "VPNDetection",
+      "matched": false
+    },
+    {
+      "name": "ScanMalware",
+      "matched": false
+    },
+    {
+      "name": "EncryptSSL",
+      "matched": false
+    },
+    {
+      "name": "Previdian",
+      "matched": false
+    },
+    {
+      "name": "Screenata",
+      "matched": false
+    },
+    {
+      "name": "Legion Security",
+      "matched": false
+    },
+    {
+      "name": "Oneleet",
+      "matched": false
+    },
+    {
+      "name": "Wolfia",
+      "matched": false
+    },
+    {
+      "name": "Breeze",
+      "matched": false
+    },
+    {
+      "name": "Custodis",
+      "matched": false
+    },
+    {
+      "name": "nebty",
+      "matched": false
+    },
+    {
+      "name": "FiraCrypto",
+      "matched": false
+    },
+    {
+      "name": "OSINT Exposure Radar",
+      "matched": false
+    }
+  ]
+}

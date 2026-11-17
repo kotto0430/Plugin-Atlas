@@ -1,0 +1,30 @@
+{
+  "name": "Unusual Whales",
+  "official_app_name": "Unusual Whales",
+  "official_name_basis": "ChatGPTのアプリ詳細画面に表示された名称",
+  "category": "Finance",
+  "provider": "Unusual Whales Inc",
+  "version": "3.0.0",
+  "observed_at": "2026-11-14",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6978ec2d58fc8191b41100b978036969?category=finance",
+  "original_description": "Unusual Whales brings its options flow tape, gamma exposure heatmap, options screener and market tide into ChatGPT as a sidebar app and inline widgets. Ask for today's unusual options activity on a ticker, where the gamma walls sit, which contracts trade volume above open interest, or how market-wide net premium is trending, and get interactive data backed by the Unusual Whales public API. Sign in with your Unusual Whales account to use it. Intended for options traders and market researchers; it provides market data and analytics, not investment advice.",
+  "description_scope": "ChatGPTのアプリ詳細に表示された提供元の英語説明",
+  "summary_ja": "オプション取引の動きやガンマエクスポージャーなどの市場データを調べる連携。",
+  "usage_tags": [
+    "オプション取引",
+    "市場データ",
+    "投資調査"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "limitations_ja": "提供元の説明ではUnusual Whalesアカウントでのサインインが必要で、投資助言ではなく市場データと分析を提供する。",
+  "review": "詳細画面の説明と情報欄を確認。機能、データの精度・リアルタイム性、利用条件は実動作未検証。",
+  "catalog_status": "一覧本体との名称照合は未確認。",
+  "example_prompts": [
+    "Open Unusual Whales and show me today's options flow",
+    "Where are the gamma walls on SPX right now?",
+    "Which NVDA contracts are trading volume above open interest today?"
+  ]
+}

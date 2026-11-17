@@ -1,0 +1,21 @@
+{
+  "official_app_name": "Ullbek",
+  "provider": "DeboLabs Pty Ltd",
+  "version": "1.0.1",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a86692129b08191a7a16dfc63cb2c92?category=creativity",
+  "observed_at": "2026-11-16",
+  "original_description": "Describe your business or idea in plain words and Ullbek builds a real, custom website around it — actual pages written for you, not template blocks with a ceiling. Watch it come together through live preview links, ask for any change in plain language, and publish it to the web when it's ready. Every site gets a free address with free hosting included; premium hosting connects your own custom domain. No templates, no drag-and-drop, no coding — you describe it, it's built, it's live.",
+  "summary_ja": "事業やアイデアを文章で伝えてウェブサイトを作成・修正し、プレビュー後に公開する。",
+  "usage_tags": [
+    "ウェブサイト制作",
+    "サイト公開",
+    "事業"
+  ],
+  "limitations": [
+    "無料アドレスとホスティング、独自ドメイン向けの有料ホスティングがあるとの説明。実動作・料金詳細・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

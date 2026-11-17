@@ -1,0 +1,25 @@
+{
+  "name": "Bedtime Story Maker",
+  "official_app_name": "Bedtime Story Maker",
+  "provider": "MegaScenes",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6af37d1d17e48191865d97d495979a78?category=creativity",
+  "developer_url": "https://megascenes.com/",
+  "category": "Creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Write a gentle story with ChatGPT, a few minutes long, with your little one's name and favorite things in it, or paste a story you wrote. Pick a calm voice. You get the story read aloud as an audio file, up to about 6 minutes, to play at bedtime.\n\nChatGPT tells you what the recording needs and creates it in your MegaScenes account when you ask. The recording plays in the chat and stays in your library.\n\nFor parents, grandparents and teachers, for bedtime, car trips and quiet time.\n\nLimitations: a reading of the text you give, up to 5,000 characters, about 6 minutes; original stories only, not characters or brands owned by others. Music and sound effects are not added. Making a file needs a signed-in MegaScenes account and runs in it; nothing is made until you confirm. Not for sexual or adult content or for real people's likeness. Files are made by generative models and saved in your MegaScenes library.",
+  "original_description_language": "en",
+  "summary_ja": "子ども向けのオリジナル物語を音声で読み上げるファイルを作る。",
+  "usage_tags": [
+    "読み聞かせ",
+    "子ども",
+    "音声"
+  ],
+  "limitations_ja": "最大5,000文字・約6分。音楽や効果音は追加されない。生成にはMegaScenesへのサインインと確認が必要。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "一覧本体との名称照合は未確認。同名・別名の同一性は未確認。",
+  "review": "詳細画面の説明・情報欄を確認。動作、料金、品質は未検証。"
+}

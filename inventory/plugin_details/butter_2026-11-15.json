@@ -1,0 +1,21 @@
+{
+  "official_app_name": "Butter",
+  "provider": "Butter",
+  "version": "1.0.3",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6aa99efe80b48191a87d2cc21193994e?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Butter is the video editor that lets you and your team collaborate with AI. The Butter MCP can pull in your assets and context and help you create ads with professional motion. You can continue to edit any Butter project in the browser with full manual control: change copy, move things around on canvas, retime on the timeline, and more. Use AI to help you move fast without having to give up control.",
+  "summary_ja": "広告動画を作り、ブラウザー上で文字・配置・タイミングを編集する。",
+  "usage_tags": [
+    "広告動画",
+    "動画編集",
+    "マーケティング"
+  ],
+  "limitations": [
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

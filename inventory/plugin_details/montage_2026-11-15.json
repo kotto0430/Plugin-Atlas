@@ -1,0 +1,22 @@
+{
+  "official_app_name": "Montage",
+  "provider": "Montage",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a61e06bd2d08191ab2faa84dfd37b96?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Give Montage a URL or a Google Drive link and it pulls the video in and watches the import until it's done. From there, ask for a moment. It cuts the clip and replies with an editor link, so you can trim it or fix the styling before you post it anywhere.",
+  "summary_ja": "URLやGoogle Driveのリンクから動画を取り込み、指定した場面を切り抜いて編集用リンクを返す。",
+  "usage_tags": [
+    "動画編集",
+    "動画切り抜き",
+    "SNS"
+  ],
+  "limitations": [
+    "実際の動作・料金・対応形式は未検証。",
+    "Google Driveの共有範囲やアクセス条件は未確認。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

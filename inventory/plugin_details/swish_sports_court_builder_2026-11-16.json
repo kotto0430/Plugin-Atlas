@@ -1,0 +1,23 @@
+{
+  "official_app_name": "Swish Sports Court Builder",
+  "provider": "EINARS OLEKSS",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6aa73c97b8288191ab40d6fa4458c815?category=creativity",
+  "observed_at": "2026-11-16",
+  "original_description": "Create custom basketball and other sports court designs with Swish Court Builder. Set dimensions, choose flooring and colors, adjust court markings and borders, and add sports lines, logos, and text. View 2D and 3D previews, download images or videos, and continue editing in Swish Court Builder. Customers can review and order physical court flooring through the Swish Court website.",
+  "summary_ja": "スポーツコートの寸法や色、ラインを指定して2D・3Dでデザインする。",
+  "usage_tags": [
+    "スポーツ",
+    "デザイン",
+    "施設設計",
+    "3D"
+  ],
+  "limitations": [
+    "Swish Courtサイトで実際の床材を確認・注文できると説明。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

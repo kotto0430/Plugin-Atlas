@@ -1,0 +1,22 @@
+{
+  "official_app_name": "WonderWorks",
+  "provider": "Incog LLC",
+  "version": "26.9.8",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a88289a42b48191af01d7e15ce97a0e?category=creativity",
+  "observed_at": "2026-11-16",
+  "original_description": "Bring your creative vision to life with WonderWorks AI. Generate stunning images, cinematic video clips, multi-shot storyboards, original music, and immersive sound effects directly from your conversation. Turn a story idea into a visually consistent sequence of key images that can become a long-form video. Use detailed prompts and reference images to control composition, style, characters, and visual continuity. Animate images into video, direct camera movement and on-screen action, and create the perfect soundtrack for your story. Ideal for filmmakers, content creators, marketers, and anyone turning ideas into compelling visual experiences.",
+  "summary_ja": "画像・動画・絵コンテ・音楽・効果音を生成し、物語を映像化する制作を支援する。",
+  "usage_tags": [
+    "映像制作",
+    "絵コンテ",
+    "音楽",
+    "画像生成"
+  ],
+  "limitations": [
+    "実動作・映像の一貫性・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

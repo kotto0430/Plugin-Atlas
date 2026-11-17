@@ -1,0 +1,28 @@
+{
+  "name": "unsketch",
+  "provider": "kanbancloud Co.,ltd.",
+  "version": "1.2.5",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac5aae662a48191b42d4422e22bc523?category=creativity",
+  "developer_url": "https://unsketch.io/",
+  "original_description": "商品写真から広告画像や短い動画を作り、会話で修正できます。ChatGPTに添付した画像やテンプレートから生成できます。動画はカット・並べ替え・音声からの字幕作成・字幕ファイルの読み込みに対応し、MP4で保存できます。生成結果は履歴から見返せます。",
+  "original_description_language": "ja",
+  "summary_ja": "商品写真から広告画像や短い動画を作成し、会話で修正・字幕編集する。",
+  "usage_tags": [
+    "広告",
+    "商品画像",
+    "動画編集",
+    "字幕"
+  ],
+  "limitations_ja": "表示された説明原文は日本語。英語の原文は今回の画面では確認できていない。機能・料金は未検証。",
+  "official_app_name": "unsketch",
+  "official_name_basis": "ChatGPTのプラグイン詳細画面に表示された名称",
+  "category": "Creativity",
+  "observed_at": "2026-11-14",
+  "description_scope": "ChatGPT詳細画面の提供元の日本語説明。英語原文は未確認。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "詳細画面の説明と情報欄を確認。実動作、料金、品質は未検証。",
+  "catalog_status": "一覧本体との名称照合は未確認。同名・別名の同一性は未確認。"
+}

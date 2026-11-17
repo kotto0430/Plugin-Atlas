@@ -1,0 +1,572 @@
+{
+  "source": "教育.pdf",
+  "sha256": "55f8221b4acb622a175b4c4537221fed9bedeb0bfe364f888805f181a7d0fab7",
+  "page": 2,
+  "baseline_index_sha": "b2889aa70a116bf1274fa88a035f2b59829fb460",
+  "rows": [
+    {
+      "row_id": "p02L01",
+      "name": "Studyportals",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p02L02",
+      "name": "Sketchy Medical",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p02L03",
+      "name": "Metronome: Music tempo+beat",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p02L04",
+      "name": "AçıkSilivri Havadis",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p02L05",
+      "name": "Nylon",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p02L06",
+      "name": "Assessment Generator",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p02L07",
+      "name": "Dhamma Data",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p02L08",
+      "name": "Course Studio",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p02L09",
+      "name": "Glossarize",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p02L10",
+      "name": "TapWaterMap",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p02L11",
+      "name": "Bee Spelling",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p02L12",
+      "name": "Chegg Study",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p02L13",
+      "name": "Flashcards Space",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p02L14",
+      "name": "BestColleges.com",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p02L15",
+      "name": "Article Galaxy",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p02L16",
+      "name": "Academic Assistant",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p02L17",
+      "name": "College Vidya",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p02L18",
+      "name": "SPIEGEL’s Nazi Database",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p02L19",
+      "name": "SAMRUM",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p02L20",
+      "name": "Careerbot",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p02L21",
+      "name": "Stock & ETF Research Panel",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p02L22",
+      "name": "MSDS Chain",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p02L23",
+      "name": "Beast Academy - All Ten",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p02L24",
+      "name": "edifyedu.in",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p02L25",
+      "name": "Skarim!",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p02L26",
+      "name": "CoreStepPrep",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p02L27",
+      "name": "OpenRegs: Regulatory Research",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p02L28",
+      "name": "TestMaker",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p02L29",
+      "name": "SimpleFeed News & Video MCP",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p02L30",
+      "name": "PhysioKeys",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p02L31",
+      "name": "Protplex",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p02L32",
+      "name": "Suplla",
+      "status": "画面再確認済み",
+      "match": false,
+      "review_note": "ChatGPT教育一覧の表示名とPDFの説明文が一致",
+      "catalog_id": "atlas-pdf-education-p02l32"
+    },
+    {
+      "row_id": "p02L33",
+      "name": "Vocabden",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p02L34",
+      "name": "EbooksDepository",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p02L35",
+      "name": "AL WAKEELO",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p02L36",
+      "name": "PlyMove",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p02L37",
+      "name": "LaTeX Document Maker",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p02L38",
+      "name": "Noteflix",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p02L39",
+      "name": "EM2 Statistics Learning Agent",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p02L40",
+      "name": "fastwrite",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p02L41",
+      "name": "TeacherGPT",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p02L42",
+      "name": "Replio",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p02L43",
+      "name": "GenealogyDirect",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p02L44",
+      "name": "Joe Speaking",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p02L45",
+      "name": "StudyArena",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p02L46",
+      "name": "Trendkia News",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p02L47",
+      "name": "Legal Research by Lawstronaut",
+      "status": "画像再確認済み",
+      "match": false,
+      "review_note": "原本の拡大画像で表示名を再確認",
+      "catalog_id": "atlas-pdf-education-p02l47"
+    },
+    {
+      "row_id": "p02R01",
+      "name": "A-Z Daily Word",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p02R02",
+      "name": "The Economist - Graphs",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p02R03",
+      "name": "LeapScholar",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p02R04",
+      "name": "PokeBot.ai Career Coach",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p02R05",
+      "name": "Wayroc Career Coach",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p02R06",
+      "name": "Promova",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p02R07",
+      "name": "Examen Civique",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p02R08",
+      "name": "Ace Flashcard Maker",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p02R09",
+      "name": "Any Fact Widget",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p02R10",
+      "name": "Drill",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p02R11",
+      "name": "Dow Jones Factiva",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p02R12",
+      "name": "CAIRO Medicines",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p02R13",
+      "name": "LingoStar",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p02R14",
+      "name": "API Lessons",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p02R15",
+      "name": "monPIF",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p02R16",
+      "name": "Lingard",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p02R17",
+      "name": "Pencil Spaces",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p02R18",
+      "name": "MentorCruise",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p02R19",
+      "name": "Boluda",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p02R20",
+      "name": "Premom Ovulation Calculator",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p02R21",
+      "name": "TTMNG Public",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p02R22",
+      "name": "Bodhaka Virtual Labs",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p02R23",
+      "name": "Flash",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p02R24",
+      "name": "Digital Compass",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p02R25",
+      "name": "NoBrainner",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p02R26",
+      "name": "MolChart",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p02R27",
+      "name": "Powers Index",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p02R28",
+      "name": "SRS (Spaced Repitation System)",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p02R29",
+      "name": "Vitark",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p02R30",
+      "name": "Dewey Data",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p02R31",
+      "name": "Math Solver",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p02R32",
+      "name": "Research",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p02R33",
+      "name": "HiTCF",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p02R34",
+      "name": "TeX64",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p02R35",
+      "name": "QuizStage",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p02R36",
+      "name": "Học Y",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p02R37",
+      "name": "Admit Coach University Finder",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p02R38",
+      "name": "Skillsail",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p02R39",
+      "name": "WordByWord – Learn Languages",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p02R40",
+      "name": "IELTS Speaking Simulator",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p02R41",
+      "name": "AI Voor Leerlingen",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p02R42",
+      "name": "ZZAIM",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p02R43",
+      "name": "PE Prep Pro Engineering",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p02R44",
+      "name": "Mathbox",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p02R45",
+      "name": "Eclat Institute",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p02R46",
+      "name": "UrbanPro Tutor Finder",
+      "status": "画像再確認済み",
+      "match": false,
+      "review_note": "原本の拡大画像で表示名を再確認",
+      "catalog_id": "atlas-pdf-education-p02r46"
+    }
+  ]
+}

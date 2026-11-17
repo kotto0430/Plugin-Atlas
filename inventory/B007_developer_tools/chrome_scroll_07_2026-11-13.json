@@ -1,0 +1,394 @@
+{
+  "source": "Chrome ChatGPT 開発者ツール",
+  "date": "2026-11-13",
+  "method": "一覧を重ねてスクロールし表示名を目視転記。判読できない1枠は保留。転記誤りや重複の可能性あり。",
+  "catalog_blob": "fd13ece4009fcf170733daf819bb2e7424328a60",
+  "counts": {
+    "rows": 95,
+    "matched": 2,
+    "unmatched": 93,
+    "unreadable": 1
+  },
+  "rows": [
+    {
+      "name": "Infinity Authoring",
+      "matched": false
+    },
+    {
+      "name": "Learnosity Build Aide",
+      "matched": false
+    },
+    {
+      "name": "Moderation API",
+      "matched": false
+    },
+    {
+      "name": "Notifly",
+      "matched": true
+    },
+    {
+      "name": "Resonant Quantum Mechanics",
+      "matched": false
+    },
+    {
+      "name": "SimplyUtils",
+      "matched": false
+    },
+    {
+      "name": "SuperDB",
+      "matched": false
+    },
+    {
+      "name": "ToolJet",
+      "matched": false
+    },
+    {
+      "name": "Website",
+      "matched": false
+    },
+    {
+      "name": "Kapso",
+      "matched": false
+    },
+    {
+      "name": "Coder",
+      "matched": false
+    },
+    {
+      "name": "Coder: Websites, Apps & Agents",
+      "matched": false
+    },
+    {
+      "name": "Mobile App Maker",
+      "matched": false
+    },
+    {
+      "name": "RapidNative",
+      "matched": false
+    },
+    {
+      "name": "WordPress Studio",
+      "matched": false
+    },
+    {
+      "name": "EasyCircuit",
+      "matched": false
+    },
+    {
+      "name": "Monitor Hub",
+      "matched": false
+    },
+    {
+      "name": "Tempo Cron Explorer",
+      "matched": false
+    },
+    {
+      "name": "Muvi",
+      "matched": false
+    },
+    {
+      "name": "Postbox Services",
+      "matched": false
+    },
+    {
+      "name": "QualiPulse Broken Link Checker",
+      "matched": false
+    },
+    {
+      "name": "RudderStack",
+      "matched": false
+    },
+    {
+      "name": "Taster",
+      "matched": false
+    },
+    {
+      "name": "Token Weather",
+      "matched": false
+    },
+    {
+      "name": "xhostd",
+      "matched": false
+    },
+    {
+      "name": "Buildcord",
+      "matched": false
+    },
+    {
+      "name": "Bright Data",
+      "matched": false
+    },
+    {
+      "name": "Tiiny Host",
+      "matched": false
+    },
+    {
+      "name": "Ganado Bridge",
+      "matched": false
+    },
+    {
+      "name": "Appo",
+      "matched": false
+    },
+    {
+      "name": "Contrast Compass",
+      "matched": false
+    },
+    {
+      "name": "Giljo HQ",
+      "matched": false
+    },
+    {
+      "name": "Groundmail",
+      "matched": false
+    },
+    {
+      "name": "Kilotest",
+      "matched": false
+    },
+    {
+      "name": "nstantcode",
+      "matched": false
+    },
+    {
+      "name": "SMTPing Email Verifier",
+      "matched": false
+    },
+    {
+      "name": "Wever Evidence",
+      "matched": false
+    },
+    {
+      "name": "Firepan Sentinel",
+      "matched": false
+    },
+    {
+      "name": "Oncallz",
+      "matched": false
+    },
+    {
+      "name": "Paprika Observe",
+      "matched": false
+    },
+    {
+      "name": "Sentry",
+      "matched": false
+    },
+    {
+      "name": "daily.dev",
+      "matched": false
+    },
+    {
+      "name": "Cross-LLM Delivery",
+      "matched": false
+    },
+    {
+      "name": "Stark",
+      "matched": false
+    },
+    {
+      "name": "Klisten ModelRoute Catalog",
+      "matched": false
+    },
+    {
+      "name": "NLSQL",
+      "matched": false
+    },
+    {
+      "name": "Fork",
+      "matched": false
+    },
+    {
+      "name": "NetSuite SuiteCloud",
+      "matched": false
+    },
+    {
+      "name": "Matt Skills Curated",
+      "matched": false
+    },
+    {
+      "name": "Runta",
+      "matched": false
+    },
+    {
+      "name": "mlx-optiq Local Models",
+      "matched": false
+    },
+    {
+      "name": "Navarch",
+      "matched": false
+    },
+    {
+      "name": "Since.dev",
+      "matched": false
+    },
+    {
+      "name": "Plugin Eval",
+      "matched": false
+    },
+    {
+      "name": "Paprika for Kubernetes",
+      "matched": false
+    },
+    {
+      "name": "Prerender Buddy",
+      "matched": false
+    },
+    {
+      "name": "elmah.io",
+      "matched": false
+    },
+    {
+      "name": "Skill Craft",
+      "matched": false
+    },
+    {
+      "name": "Universal Plugin Installer",
+      "matched": false
+    },
+    {
+      "name": "Veille",
+      "matched": false
+    },
+    {
+      "name": "Wolfire Workspace",
+      "matched": false
+    },
+    {
+      "name": "SEC API — sec-api.dev",
+      "matched": false
+    },
+    {
+      "name": "Website Design",
+      "matched": false
+    },
+    {
+      "name": "AAS Core",
+      "matched": false
+    },
+    {
+      "name": "DevSwat",
+      "matched": false
+    },
+    {
+      "name": "Yarkr",
+      "matched": false
+    },
+    {
+      "name": "Build iOS Apps",
+      "matched": false
+    },
+    {
+      "name": "manpage.ai",
+      "matched": false
+    },
+    {
+      "name": "WebSpeed",
+      "matched": false
+    },
+    {
+      "name": "Universal AI Controller",
+      "matched": false
+    },
+    {
+      "name": "Fastly",
+      "matched": false
+    },
+    {
+      "name": "AdSimple Consent Manager",
+      "matched": false
+    },
+    {
+      "name": "Pathrule",
+      "matched": false
+    },
+    {
+      "name": "Superpowers",
+      "matched": true
+    },
+    {
+      "name": "xCloud",
+      "matched": false
+    },
+    {
+      "name": "Vibe Coding Plan",
+      "matched": false
+    },
+    {
+      "name": "Plugin Creator Plus",
+      "matched": false
+    },
+    {
+      "name": "Site SEO & AI Crawler Audit",
+      "matched": false
+    },
+    {
+      "name": "PBN.LTD",
+      "matched": false
+    },
+    {
+      "name": "StoreFast",
+      "matched": false
+    },
+    {
+      "name": "bitdrift",
+      "matched": false
+    },
+    {
+      "name": "CodeRabbit",
+      "matched": false
+    },
+    {
+      "name": "Prontuno",
+      "matched": false
+    },
+    {
+      "name": "Raygun",
+      "matched": false
+    },
+    {
+      "name": "Cheongmyeong",
+      "matched": false
+    },
+    {
+      "name": "Re8ch",
+      "matched": false
+    },
+    {
+      "name": "FaceSearchAI Developer",
+      "matched": false
+    },
+    {
+      "name": "html.contact - Contact Forms",
+      "matched": false
+    },
+    {
+      "name": "Test Android Apps",
+      "matched": false
+    },
+    {
+      "name": "Aeon",
+      "matched": false
+    },
+    {
+      "name": "countrymanager",
+      "matched": false
+    },
+    {
+      "name": "Kangaroo Rewards API",
+      "matched": false
+    },
+    {
+      "name": "Hamloy",
+      "matched": false
+    },
+    {
+      "name": "402MCP",
+      "matched": false
+    },
+    {
+      "name": "Mobile Joe",
+      "matched": false
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "official_app_name": "GifGen - GIFs",
+  "provider": "GifGen",
+  "version": "1.0.7",
+  "source_url": "https://chatgpt.com/plugins/plugins_6aabbb1cab648191b3800e347f948809?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Describe any idea or send any photo and GifGen makes an animated GIF out of it: one sprite sheet of frames from image generation, sliced and encoded into a real looping GIF you can download",
+  "summary_ja": "文章や画像を基に、繰り返し再生するGIFアニメを作る。",
+  "usage_tags": [
+    "GIF",
+    "アニメーション",
+    "画像制作"
+  ],
+  "limitations": [
+    "スキル欄には既存GIFの速度・フレームなどの調整も記載。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

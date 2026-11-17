@@ -1,0 +1,21 @@
+{
+  "official_app_name": "Awesome DESIGN.md",
+  "provider": "RONALD FERRARI SOARES",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugins_6ab00dfa42f881919fd039899b17eb57?category=creativity",
+  "observed_at": "2026-11-16",
+  "original_description": "Helps analyze and improve product and interface design using a curated DESIGN.md reference library and reusable design guidance.",
+  "summary_ja": "DESIGN.mdの参考資料を使い、製品や画面のデザイン分析・改善を支援。",
+  "usage_tags": [
+    "UI",
+    "デザイン",
+    "デザインシステム"
+  ],
+  "limitations": [
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

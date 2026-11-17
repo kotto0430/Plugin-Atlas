@@ -1,0 +1,226 @@
+﻿row_id,page,column,row,display_name,candidate_text,status,note,ocr_raw,matched_before,evidence
+p01L01,1,L,1,Health,Health,画像照合済み,,Health,True,evidence/page-01.png
+p01L02,1,L,2,COROS,COROS,画像照合済み,,COROS,False,evidence/page-01.png
+p01L03,1,L,3,Tredict,Tredict,画像照合済み,,Tredict,False,evidence/page-01.png
+p01L04,1,L,4,freddy health,freddy health,画像照合済み,,freddy health,False,evidence/page-01.png
+p01L05,1,L,5,Calories Club,Calories Club,画像照合済み,,Calories Club,False,evidence/page-01.png
+p01L06,1,L,6,MyFitnessPal,MyFitnessPal,画像照合済み,,MyFitnessPal,False,evidence/page-01.png
+p01L07,1,L,7,SnapCal,SnapCal,画像照合済み,,SnapCal,False,evidence/page-01.png
+p01L08,1,L,8,FitAI Pro,FitAI Pro,画像照合済み,,FitAl Pro,False,evidence/page-01.png
+p01L09,1,L,9,Habitify,Habitify,画像照合済み,,Habitify,False,evidence/page-01.png
+p01L10,1,L,10,Insight Timer,Insight Timer,画像照合済み,,Insight Timer,False,evidence/page-01.png
+p01L11,1,L,11,Trainerrr,Trainerrr,画像照合済み,,Trainerrr,False,evidence/page-01.png
+p01L12,1,L,12,WeightWise,WeightWise,画像照合済み,,WeightWise,False,evidence/page-01.png
+p01L13,1,L,13,Calio,Calio,画像照合済み,,Calio,False,evidence/page-01.png
+p01L14,1,L,14,Flow State,Flow State,画像照合済み,,Flow State,False,evidence/page-01.png
+p01L15,1,L,15,Pacing: Run Coach & Tracker,Pacing: Run Coach & Tracker,画像照合済み,,Pacing: Run Coach & Tracker,False,evidence/page-01.png
+p01L16,1,L,16,OathMCP,OathMCP,画像照合済み,,OathMCP,False,evidence/page-01.png
+p01L17,1,L,17,Kenso,Kenso,画像照合済み,,Kenso,False,evidence/page-01.png
+p01L18,1,L,18,All My Affirmations,All My Affirmations,画像照合済み,,All My Affirmations,False,evidence/page-01.png
+p01L19,1,L,19,Trash Panda - Food Scanner,Trash Panda - Food Scanner,画像照合済み,,Trash Panda - Food Scanner,False,evidence/page-01.png
+p01L20,1,L,20,Miracle Of Mind,Miracle Of Mind,画像照合済み,,Miracle Of Mind,False,evidence/page-01.png
+p01L21,1,L,21,Selah - Bible stories,Selah - Bible stories,画像照合済み,,Selah - Bible stories,False,evidence/page-01.png
+p01L22,1,L,22,Cal Plus,Cal Plus,画像照合済み,,Cal Plus,False,evidence/page-01.png
+p01L23,1,L,23,Dr Nutrition,Dr Nutrition,画像照合済み,,Dr Nutrition,False,evidence/page-01.png
+p01L24,1,L,24,Purely Snacks,Purely Snacks,画像照合済み,,Purely Snacks,False,evidence/page-01.png
+p01L25,1,L,25,InnoSupps,InnoSupps,画像照合済み,,InnoSupps,False,evidence/page-01.png
+p01L26,1,L,26,Zumba,Zumba,画像照合済み,,Zumba,False,evidence/page-01.png
+p01L27,1,L,27,"GLHF: GymLog, Health & Fitness","GLHF: GymLog, Health & Fitness",画像照合済み,,"GLHF: GymLog, Health & Fitness",False,evidence/page-01.png
+p01L28,1,L,28,Rhizome AI,Rhizome AI,画像照合済み,,Rhizome Al,False,evidence/page-01.png
+p01L29,1,L,29,rit.run,rit.run,画像照合済み,,rit.run,False,evidence/page-01.png
+p01L30,1,L,30,Nexus: Calories & Workouts,Nexus: Calories & Workouts,画像照合済み,,Nexus: Calories & Workouts,False,evidence/page-01.png
+p01L31,1,L,31,Sweat & Tonic,Sweat & Tonic,画像照合済み,,Sweat & Tonic,False,evidence/page-01.png
+p01L32,1,L,32,Alma: Nutrition Coach,Alma: Nutrition Coach,画像照合済み,,Alma: Nutrition Coach,False,evidence/page-01.png
+p01L33,1,L,33,Turkey Dental Treatment Prices,Turkey Dental Treatment Prices,画像照合済み,,Turkey Dental Treatment Prices,False,evidence/page-01.png
+p01L34,1,L,34,NutriSave,NutriSave,画像照合済み,,NutriSave,False,evidence/page-01.png
+p01L35,1,L,35,Anxiety Reset,Anxiety Reset,画像照合済み,,Anxiety Reset,False,evidence/page-01.png
+p01L36,1,L,36,PaceKeeper AI,PaceKeeper AI,画像照合済み,,PaceKeeper Al,False,evidence/page-01.png
+p01L37,1,L,37,INCREMNT Training,INCREMNT Training,画像照合済み,,INCREMNT Training,False,evidence/page-01.png
+p01L38,1,L,38,Eixo Run,Eixo Run,画像照合済み,,Eixo Run,False,evidence/page-01.png
+p01L39,1,L,39,Volm,Volm,画像照合済み,,Volm,False,evidence/page-01.png
+p01L40,1,L,40,STREEQ,STREEQ,画像照合済み,,STREEQ,False,evidence/page-01.png
+p01L41,1,L,41,DrugBank,DrugBank,画像照合済み,,DrugBank,False,evidence/page-01.png
+p01L42,1,L,42,Joti,Joti,画像照合済み,,Joti,False,evidence/page-01.png
+p01L43,1,L,43,Jinkō,Jinkō,画像照合済み,,Jinko,False,evidence/page-01.png
+p01R01,1,R,1,Fitness AI Connector,Fitness AI Connector,画像照合済み,,Fitness Al Connector,True,evidence/page-01.png
+p01R02,1,R,2,Hevy,Hevy,画像照合済み,,Hevy,True,evidence/page-01.png
+p01R03,1,R,3,Calorie Tracker,Calorie Tracker,画像照合済み,,Calorie Tracker,False,evidence/page-01.png
+p01R04,1,R,4,Caliber,Caliber,画像照合済み,,Caliber,False,evidence/page-01.png
+p01R05,1,R,5,LiftTrack,LiftTrack,画像照合済み,,LiftTrack,False,evidence/page-01.png
+p01R06,1,R,6,Fitbod,Fitbod,画像照合済み,,Fitbod,False,evidence/page-01.png
+p01R07,1,R,7,Motra,Motra,画像照合済み,,Motra,False,evidence/page-01.png
+p01R08,1,R,8,Healthier,Healthier,画像照合済み,,Healthier,False,evidence/page-01.png
+p01R09,1,R,9,MoveMate: Gym Workout Tracker,MoveMate: Gym Workout Tracker,画像照合済み,,MoveMate: Gym Workout Tracker,False,evidence/page-01.png
+p01R10,1,R,10,Mental Health Tools,Mental Health Tools,画像照合済み,,Mental Health Tools,False,evidence/page-01.png
+p01R11,1,R,11,Pregnancy Progress,Pregnancy Progress,画像照合済み,,Pregnancy Progress,False,evidence/page-01.png
+p01R12,1,R,12,Calorie Tracker Guide,Calorie Tracker Guide,画像照合済み,,Calorie Tracker Guide,False,evidence/page-01.png
+p01R13,1,R,13,Face Yoga,Face Yoga,画像照合済み,,Face Yoga,False,evidence/page-01.png
+p01R14,1,R,14,NyquistAI,NyquistAI,画像照合済み,,NyquistAl,False,evidence/page-01.png
+p01R15,1,R,15,Breethe Meditations Made 4 You,Breethe Meditations Made 4 You,画像照合済み,,Breethe Meditations Made 4 You,False,evidence/page-01.png
+p01R16,1,R,16,Sleep Cycle,Sleep Cycle,画像照合済み,,Sleep Cycle,False,evidence/page-01.png
+p01R17,1,R,17,BurnFat — Calorie Tracker,BurnFat — Calorie Tracker,画像照合済み,,BurnFat — Calorie Tracker,False,evidence/page-01.png
+p01R18,1,R,18,Achieve Harmony,Achieve Harmony,画像照合済み,,Achieve Harmony,False,evidence/page-01.png
+p01R19,1,R,19,Pearl Pet Care,Pearl Pet Care,画像照合済み,,Pearl Pet Care,False,evidence/page-01.png
+p01R20,1,R,20,DREAMHALL,DREAMHALL,画像照合済み,,DREAMHALL,False,evidence/page-01.png
+p01R21,1,R,21,UltraFit360,UltraFit360,画像照合済み,,UltraFit360,False,evidence/page-01.png
+p01R22,1,R,22,StrengthCode,StrengthCode,画像照合済み,,StrengthCode,False,evidence/page-01.png
+p01R23,1,R,23,Joules,Joules,画像照合済み,,Joules,False,evidence/page-01.png
+p01R24,1,R,24,Bella Noor Skin Concierge,Bella Noor Skin Concierge,画像照合済み,,Bella Noor Skin Concierge,False,evidence/page-01.png
+p01R25,1,R,25,SmartSpectra,SmartSpectra,画像照合済み,,SmartSpectra,False,evidence/page-01.png
+p01R26,1,R,26,Sina Connect,Sina Connect,画像照合済み,,Sina Connect,False,evidence/page-01.png
+p01R27,1,R,27,Simple Muscle: Workout Planner,Simple Muscle: Workout Planner,画像照合済み,,Simple Muscle: Workout Planner,False,evidence/page-01.png
+p01R28,1,R,28,Endorphins Running,Endorphins Running,画像照合済み,,Endorphins Running,False,evidence/page-01.png
+p01R29,1,R,29,PlateLens,PlateLens,画像照合済み,,PlateLens,False,evidence/page-01.png
+p01R30,1,R,30,Performance Signal,Performance Signal,画像照合済み,,Performance Signal,False,evidence/page-01.png
+p01R31,1,R,31,Pregnancy Wheel,Pregnancy Wheel,画像照合済み,,Pregnancy Wheel,False,evidence/page-01.png
+p01R32,1,R,32,BurnWeek,BurnWeek,画像照合済み,,BurnWeek,False,evidence/page-01.png
+p01R33,1,R,33,84asana,84asana,画像照合済み,,84asana,False,evidence/page-01.png
+p01R34,1,R,34,Sphere Calorie Tracker,Sphere Calorie Tracker,画像照合済み,,Sphere Calorie Tracker,False,evidence/page-01.png
+p01R35,1,R,35,Do Workout,Do Workout,画像照合済み,,Do Workout,False,evidence/page-01.png
+p01R36,1,R,36,instingo - Schritte Challenge,instingo - Schritte Challenge,画像照合済み,,instingo - Schritte Challenge,False,evidence/page-01.png
+p01R37,1,R,37,Vertical,Vertical,画像照合済み,,Vertical,False,evidence/page-01.png
+p01R38,1,R,38,Praetor Health,Praetor Health,画像照合済み,,Praetor Health,False,evidence/page-01.png
+p01R39,1,R,39,Lightweight,Lightweight,画像照合済み,,Lightweight,False,evidence/page-01.png
+p01R40,1,R,40,Fitness Ledger,Fitness Ledger,画像照合済み,,Fitness Ledger,False,evidence/page-01.png
+p01R41,1,R,41,Running Workout,Running Workout,画像照合済み,,Running Workout,False,evidence/page-01.png
+p01R42,1,R,42,rit.run,rit.run,画像照合済み,,rit.run,False,evidence/page-01.png
+p01R43,1,R,43,TRAINEDBY,TRAINEDBY,画像照合済み,,TRAINEDBY,False,evidence/page-01.png
+p02L01,2,L,1,Exxentric,Exxentric,画像照合済み,,Exxentric,False,evidence/page-02.png
+p02L02,2,L,2,Healthy Food Guide,Healthy Food Guide,画像照合済み,,Healthy Food Guide,False,evidence/page-02.png
+p02L03,2,L,3,SisuLift,SisuLift,画像照合済み,,SisuLift,False,evidence/page-02.png
+p02L04,2,L,4,NAFA,NAFA,画像照合済み,,NAFA,False,evidence/page-02.png
+p02L05,2,L,5,WODone,WODone,画像照合済み,,WoODone,False,evidence/page-02.png
+p02L06,2,L,6,StrengthLog,StrengthLog,画像照合済み,,StrengthLog,False,evidence/page-02.png
+p02L07,2,L,7,Conicia for OCD,Conicia for OCD,画像照合済み,,Conicia for OCD,False,evidence/page-02.png
+p02L08,2,L,8,Food Tracker,Food Tracker,画像照合済み,,Food Tracker,False,evidence/page-02.png
+p02L09,2,L,9,Oasis Health,Oasis Health,画像照合済み,,Oasis Health,False,evidence/page-02.png
+p02L10,2,L,10,AI Calorie Counter by BodyPal,AI Calorie Counter by BodyPal,画像照合済み,,Al Calorie Counter by BodyPal,False,evidence/page-02.png
+p02L11,2,L,11,Arclight Feasibility Planner,Arclight Feasibility Planner,画像照合済み,,Arclight Feasibility Planner,False,evidence/page-02.png
+p02L12,2,L,12,ARVO,ARVO,画像照合済み,,ARVO,False,evidence/page-02.png
+p02L13,2,L,13,Clynevia Booking,Clynevia Booking,画像照合済み,,Clynevia Booking,False,evidence/page-02.png
+p02L14,2,L,14,Infinite State,Infinite State,画像照合済み,,Infinite State,False,evidence/page-02.png
+p02L15,2,L,15,ATHLO,ATHLO,画像照合済み,,ATHLO,False,evidence/page-02.png
+p02L16,2,L,16,Eating Buddy,Eating Buddy,画像照合済み,,Eating Buddy,False,evidence/page-02.png
+p02L17,2,L,17,KiloJ,KiloJ,画像照合済み,,KiloJ,False,evidence/page-02.png
+p02L18,2,L,18,Alkemy,Alkemy,画像照合済み,,Alkemy,False,evidence/page-02.png
+p02L19,2,L,19,Arclight Readiness Navigator,Arclight Readiness Navigator,画像照合済み,,Arclight Readiness Navigator,False,evidence/page-02.png
+p02L20,2,L,20,ClinMatch,ClinMatch,画像照合済み,,ClinMatch,False,evidence/page-02.png
+p02L21,2,L,21,HealthX,HealthX,画像照合済み,,HealthX,False,evidence/page-02.png
+p02L22,2,L,22,Zelta Steps to Calories,Zelta Steps to Calories,画像照合済み,,Zelta Steps to Calories,False,evidence/page-02.png
+p02L23,2,L,23,Joy2Move Home Exercise Library,Joy2Move Home Exercise Library,画像照合済み,,Joy2Move Home Exercise Library,False,evidence/page-02.png
+p02L24,2,L,24,Katori,Katori,画像照合済み,,Katori,False,evidence/page-02.png
+p02L25,2,L,25,Zelta Daily Calorie Target,Zelta Daily Calorie Target,画像照合済み,,Zelta Daily Calorie Target,False,evidence/page-02.png
+p02L26,2,L,26,Acta Fit,Acta Fit,画像照合済み,,Acta Fit,False,evidence/page-02.png
+p02L27,2,L,27,Zelta Protein Per Day,Zelta Protein Per Day,画像照合済み,,Zelta Protein Per Day,False,evidence/page-02.png
+p02L28,2,L,28,DailyFuel,DailyFuel,画像照合済み,,DailyFuel,False,evidence/page-02.png
+p02L29,2,L,29,Lupora,Lupora,画像照合済み,,Lupora,False,evidence/page-02.png
+p02L30,2,L,30,Let's Workout,Let's Workout,画像照合済み,,Let's Workout,False,evidence/page-02.png
+p02L31,2,L,31,Olympic Weightlifting Builder,Olympic Weightlifting Builder,画像照合済み,,Olympic Weightlifting Builder,False,evidence/page-02.png
+p02L32,2,L,32,Pump,Pump,画像照合済み,,Pump,False,evidence/page-02.png
+p02L33,2,L,33,UVLens,UVLens,画像照合済み,,UVLens,False,evidence/page-02.png
+p02L34,2,L,34,Prizm,Prizm,画像照合済み,,Prizm,False,evidence/page-02.png
+p02L35,2,L,35,MyFitnessCoach,MyFitnessCoach,画像照合済み,,MyFitnessCoach,False,evidence/page-02.png
+p02L36,2,L,36,intervl,intervl,画像照合済み,,intervl,False,evidence/page-02.png
+p02L37,2,L,37,SuperLift,SuperLift,画像照合済み,,SuperLift,False,evidence/page-02.png
+p02L38,2,L,38,FiTin,FiTin,画像照合済み,,FiTin,False,evidence/page-02.png
+p02L39,2,L,39,Triathlon Pace,Triathlon Pace,画像照合済み,,Triathlon Pace,False,evidence/page-02.png
+p02L40,2,L,40,JustGains,JustGains,画像照合済み,,JustGains,False,evidence/page-02.png
+p02L41,2,L,41,Performance Pathway,Performance Pathway,画像照合済み,,Performance Pathway,False,evidence/page-02.png
+p02L42,2,L,42,Vita Health Coach,Vita Health Coach,画像照合済み,,Vita Health Coach,False,evidence/page-02.png
+p02L43,2,L,43,Wall Pilates Workouts at Home,Wall Pilates Workouts at Home,画像照合済み,,Wall Pilates Workouts at Home,False,evidence/page-02.png
+p02L44,2,L,44,YoPeak,YoPeak,画像照合済み,,YoPeak,False,evidence/page-02.png
+p02L45,2,L,45,Transition,Transition,画像照合済み,,Transition,False,evidence/page-02.png
+p02L46,2,L,46,Reppy,Reppy,画像照合済み,,Reppy,False,evidence/page-02.png
+p02L47,2,L,47,Diet Mate - Nutritional Memory,Diet Mate - Nutritional Memory,画像照合済み,,Diet Mate - Nutritional Memory,False,evidence/page-02.png
+p02R01,2,R,1,Coach to Wrist,Coach to Wrist,画像照合済み,,Coach to Wrist,False,evidence/page-02.png
+p02R02,2,R,2,Athlete Space,Athlete Space,画像照合済み,,Athlete Space,False,evidence/page-02.png
+p02R03,2,R,3,Lila Meals,Lila Meals,画像照合済み,,Lila Meals,False,evidence/page-02.png
+p02R04,2,R,4,Match with Care,Match with Care,画像照合済み,,Match with Care,False,evidence/page-02.png
+p02R05,2,R,5,Kalori: Chat Nutrition Tracker,Kalori: Chat Nutrition Tracker,画像照合済み,,Kalori: Chat Nutrition Tracker,False,evidence/page-02.png
+p02R06,2,R,6,FindMyKOL,FindMyKOL,画像照合済み,,FindMyKOL,False,evidence/page-02.png
+p02R07,2,R,7,What’s My Attachment Style?,What’s My Attachment Style?,画像照合済み,,What's My Attachment Style?,False,evidence/page-02.png
+p02R08,2,R,8,Apteka.md,Apteka.md,画像照合済み,,Apteka.md,False,evidence/page-02.png
+p02R09,2,R,9,Liftory,Liftory,画像照合済み,,Liftory,False,evidence/page-02.png
+p02R10,2,R,10,Supplement Intelligence,Supplement Intelligence,画像照合済み,,Supplement Intelligence,False,evidence/page-02.png
+p02R11,2,R,11,Zone2AI,Zone2AI,画像照合済み,,Zone2Al,False,evidence/page-02.png
+p02R12,2,R,12,Telo,Telo,画像照合済み,,Telo,False,evidence/page-02.png
+p02R13,2,R,13,FormBlends Companion,FormBlends Companion,画像照合済み,,FormBlends Companion,False,evidence/page-02.png
+p02R14,2,R,14,Foodzilla,Foodzilla,画像照合済み,,Foodzilla,False,evidence/page-02.png
+p02R15,2,R,15,Ovari,Ovari,画像照合済み,,Ovari,False,evidence/page-02.png
+p02R16,2,R,16,Lion Lift,Lion Lift,画像照合済み,,Lion Lift,False,evidence/page-02.png
+p02R17,2,R,17,gFit Home Workouts,gFit Home Workouts,画像照合済み,,gFit Home Workouts,False,evidence/page-02.png
+p02R18,2,R,18,Capital Health,Capital Health,画像照合済み,,Capital Health,False,evidence/page-02.png
+p02R19,2,R,19,Calisthenics-Coach,Calisthenics-Coach,画像照合済み,,Calisthenics-Coach,False,evidence/page-02.png
+p02R20,2,R,20,How We Feel,How We Feel,画像照合済み,,How We Feel,False,evidence/page-02.png
+p02R21,2,R,21,Zelta BMI for Indians,Zelta BMI for Indians,画像照合済み,,Zelta BMI for Indians,False,evidence/page-02.png
+p02R22,2,R,22,iBody,iBody,画像照合済み,,iBody,False,evidence/page-02.png
+p02R23,2,R,23,Almanac,Almanac,画像照合済み,,Almanac,False,evidence/page-02.png
+p02R24,2,R,24,YouCaps PT,YouCaps PT,画像照合済み,,YouCaps PT,False,evidence/page-02.png
+p02R25,2,R,25,PB-Runner Running Coach,PB-Runner Running Coach,画像照合済み,,PB-Runner Running Coach,False,evidence/page-02.png
+p02R26,2,R,26,Lezonder,Lezonder,画像照合済み,,Lezonder,False,evidence/page-02.png
+p02R27,2,R,27,Welltory,Welltory,画像照合済み,,Welltory,False,evidence/page-02.png
+p02R28,2,R,28,Shape Calendar,Shape Calendar,画像照合済み,,Shape Calendar,False,evidence/page-02.png
+p02R29,2,R,29,Mutant Genomics,Mutant Genomics,画像照合済み,,Mutant Genomics,False,evidence/page-02.png
+p02R30,2,R,30,One More Day,One More Day,画像照合済み,,One More Day,False,evidence/page-02.png
+p02R31,2,R,31,SafeForm,SafeForm,画像照合済み,,SafeForm,False,evidence/page-02.png
+p02R32,2,R,32,Ehsebha,Ehsebha,画像照合済み,,Ehsebha,False,evidence/page-02.png
+p02R33,2,R,33,Ziva,Ziva,画像照合済み,,Ziva,False,evidence/page-02.png
+p02R34,2,R,34,Nolio,Nolio,画像照合済み,,Nolio,False,evidence/page-02.png
+p02R35,2,R,35,SnapRooster,SnapRooster,画像照合済み,,SnapRooster,False,evidence/page-02.png
+p02R36,2,R,36,Superlift,Superlift,画像照合済み,,Superlift,False,evidence/page-02.png
+p02R37,2,R,37,MamaSkin: Pregnancy Skincare,MamaSkin: Pregnancy Skincare,画像照合済み,,Mamas&kin: Pregnancy Skincare,False,evidence/page-02.png
+p02R38,2,R,38,IZeat,IZeat,画像照合済み,,IZeat,False,evidence/page-02.png
+p02R39,2,R,39,Not So Dumbbell,Not So Dumbbell,画像照合済み,,Not So Dumbbell,False,evidence/page-02.png
+p02R40,2,R,40,Kibora,Kibora,画像照合済み,,Kibora,False,evidence/page-02.png
+p02R41,2,R,41,IntervalCoach,IntervalCoach,画像照合済み,,IntervalCoach,False,evidence/page-02.png
+p02R42,2,R,42,Vitalstat,Vitalstat,画像照合済み,,Vitalstat,False,evidence/page-02.png
+p02R43,2,R,43,Food Diary,Food Diary,画像照合済み,,Food Diary,False,evidence/page-02.png
+p02R44,2,R,44,Soulnests,Soulnests,画像照合済み,,Soulnests,False,evidence/page-02.png
+p02R45,2,R,45,Primed,Primed,画像照合済み,,Primed,False,evidence/page-02.png
+p02R46,2,R,46,SetRep,SetRep,画像照合済み,,SetRep,False,evidence/page-02.png
+p02R47,2,R,47,Allergen Detector,Allergen Detector,画像照合済み,,Allergen Detector,False,evidence/page-02.png
+p03L01,3,L,1,Dial,Dial,画像照合済み,,Dial,False,evidence/page-03.png
+p03L02,3,L,2,RaceThere,RaceThere,画像照合済み,,RaceThere,False,evidence/page-03.png
+p03L03,3,L,3,Gymwork,Gymwork,画像照合済み,,Gymwork,False,evidence/page-03.png
+p03L04,3,L,4,IdkRx,IdkRx,画像照合済み,,IdkRx,False,evidence/page-03.png
+p03L05,3,L,5,TrueCal,TrueCal,画像照合済み,,TrueCal,False,evidence/page-03.png
+p03L06,3,L,6,Foodnoms,Foodnoms,画像照合済み,,Foodnoms,False,evidence/page-03.png
+p03L07,3,L,7,What Did I Eat,What Did I Eat,画像照合済み,,What Did | Eat,False,evidence/page-03.png
+p03L08,3,L,8,Sahni,Sahni,画像照合済み,,Sahni,False,evidence/page-03.png
+p03L09,3,L,9,,今天训练,要確認,中国語の細部の文字は要確認,SRI,False,evidence/page-03.png
+p03L10,3,L,10,Ferry,Ferry,画像照合済み,,Ferry,False,evidence/page-03.png
+p03L11,3,L,11,Boulie,Boulie,画像照合済み,,Boulie,False,evidence/page-03.png
+p03L12,3,L,12,00Food,00Food,画像照合済み,,00Food,False,evidence/page-03.png
+p03L13,3,L,13,,さぽマル,要確認,日本語表記の細部は要確認,SlEVIL,False,evidence/page-03.png
+p03L14,3,L,14,VeriMom,VeriMom,画像照合済み,,VeriMom,False,evidence/page-03.png
+p03L15,3,L,15,Fitcore Race Training,Fitcore Race Training,画像照合済み,,Fitcore Race Training,False,evidence/page-03.png
+p03L16,3,L,16,px.,px.,画像照合済み,,px.,False,evidence/page-03.png
+p03L17,3,L,17,Fitzap,Fitzap,画像照合済み,,Fitzap,False,evidence/page-03.png
+p03L18,3,L,18,Fuel,Fuel,画像照合済み,,Fuel,False,evidence/page-03.png
+p03L19,3,L,19,Function Health,Function Health,画像照合済み,,Function Health,False,evidence/page-03.png
+p03L20,3,L,20,Broche Ballet,Broche Ballet,画像照合済み,,Broche Ballet,False,evidence/page-03.png
+p03L21,3,L,21,PAWFECT | PUPPY YOGA,PAWFECT | PUPPY YOGA,画像照合済み,,PAWFECT | PUPPY YOGA,False,evidence/page-03.png
+p03L22,3,L,22,Kovo,Kovo,画像照合済み,,Kovo,False,evidence/page-03.png
+p03L23,3,L,23,Health Memory,Health Memory,画像照合済み,,Health Memory,False,evidence/page-03.png
+p03R01,3,R,1,Nutrimeniu,Nutrimeniu,画像照合済み,,Nutrimeniu,False,evidence/page-03.png
+p03R02,3,R,2,Cronometer,Cronometer,画像照合済み,,Cronometer,False,evidence/page-03.png
+p03R03,3,R,3,CalorieGoals,CalorieGoals,画像照合済み,,CalorieGoals,False,evidence/page-03.png
+p03R04,3,R,4,Food diary,Food diary,画像照合済み,,Food diary,False,evidence/page-03.png
+p03R05,3,R,5,Axis,Axis,画像照合済み,,Axis,False,evidence/page-03.png
+p03R06,3,R,6,NDIS Provider Review Directory,NDIS Provider Review Directory,画像照合済み,,NDIS Provider Review Directory,False,evidence/page-03.png
+p03R07,3,R,7,VeriMom,VeriMom,画像照合済み,,VeriMom,False,evidence/page-03.png
+p03R08,3,R,8,Know My Meals,Know My Meals,画像照合済み,,Know My Meals,False,evidence/page-03.png
+p03R09,3,R,9,GRO,GRO,画像照合済み,,GRO,False,evidence/page-03.png
+p03R10,3,R,10,Healthcare Public Data,Healthcare Public Data,画像照合済み,,Healthcare Public Data,False,evidence/page-03.png
+p03R11,3,R,11,Torevo,Torevo,画像照合済み,,Torevo,False,evidence/page-03.png
+p03R12,3,R,12,metri: Calorie & Macro Tracker,metri: Calorie & Macro Tracker,画像照合済み,,metri: Calorie & Macro Tracker,False,evidence/page-03.png
+p03R13,3,R,13,FitXO,FitXO,画像照合済み,,FitXO,False,evidence/page-03.png
+p03R14,3,R,14,P.R.O.,P.R.O.,画像照合済み,,PR.O.,False,evidence/page-03.png
+p03R15,3,R,15,ESSOS,ESSOS,画像照合済み,,ESSOS,False,evidence/page-03.png
+p03R16,3,R,16,trainedby.ai,trainedby.ai,画像照合済み,,trainedby.ai,False,evidence/page-03.png
+p03R17,3,R,17,Aptiva,Aptiva,画像照合済み,,Aptiva,False,evidence/page-03.png
+p03R18,3,R,18,amp,amp,画像照合済み,,amp,False,evidence/page-03.png
+p03R19,3,R,19,Reframe: Drink Less Alcohol,Reframe: Drink Less Alcohol,画像照合済み,,Reframe: Drink Less Alcohol,False,evidence/page-03.png
+p03R20,3,R,20,Zolt Health,Zolt Health,画像照合済み,,Zolt Health,False,evidence/page-03.png
+p03R21,3,R,21,Yigri,Yigri,画像照合済み,,Yigri,False,evidence/page-03.png
+p03R22,3,R,22,Doktor Hermes Beziehungstests,Doktor Hermes Beziehungstests,画像照合済み,,Doktor Hermes Beziehungstests,False,evidence/page-03.png

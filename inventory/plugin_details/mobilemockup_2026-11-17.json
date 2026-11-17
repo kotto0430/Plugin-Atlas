@@ -1,0 +1,23 @@
+{
+  "official_app_name": "MobileMockup",
+  "provider": "Saul Martí",
+  "version": "2.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugins_6aa30199a4dc8191bd3c238bed2d8a17?category=creativity",
+  "observed_at": "2026-11-17",
+  "original_description": "Generate premium app-native mobile screen concepts and flows as images, without implementing the mobile application.",
+  "summary_ja": "モバイルアプリの画面や操作フローのデザイン案を画像で作る。",
+  "usage_tags": [
+    "アプリデザイン",
+    "UI",
+    "モックアップ",
+    "画像生成"
+  ],
+  "limitations": [
+    "説明ではモバイルアプリの実装は行わない。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

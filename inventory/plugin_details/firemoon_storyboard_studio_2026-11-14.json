@@ -1,0 +1,26 @@
+{
+  "name": "Firemoon Storyboard Studio",
+  "official_app_name": "Firemoon Storyboard Studio",
+  "provider": "Imagineers Studio Inc",
+  "version": "1.0.1",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6abf075bfaa88191a95ac794213e6df4?category=creativity",
+  "developer_url": "https://firemoon.studio/storyboard-studio",
+  "category": "Creativity",
+  "observed_at": "2026-11-14",
+  "original_description": "Create 2–6 ordered storyboard frames from a brief and shot descriptions, optionally using an attached reference. Animate frames and join 2–4 short clips. Character continuity is not guaranteed. Results appear in an inline canvas with Open and Download; videos include playback and fullscreen. Start using the tools without Firemoon account linking. An existing Firemoon account can optionally be connected to use its current entitlements.",
+  "original_description_language": "en",
+  "description_scope": "ChatGPT詳細画面の提供元の英語説明。",
+  "summary_ja": "指示や参考画像から2〜6枚の絵コンテを作り、短い動画をつなぐ。",
+  "usage_tags": [
+    "絵コンテ",
+    "動画制作",
+    "創作"
+  ],
+  "limitations_ja": "人物の一貫性は保証されないと明記。Firemoonのアカウント連携なしで開始でき、既存アカウントを任意で連携できると説明。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "詳細画面の説明と情報欄を確認。実動作、料金、品質、権利条件は未検証。",
+  "catalog_status": "一覧本体との名称照合は未確認。同名・別名の同一性は未確認。"
+}

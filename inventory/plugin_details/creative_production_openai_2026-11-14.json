@@ -1,0 +1,35 @@
+{
+  "name": "Creative Production",
+  "official_app_name": "Creative Production",
+  "official_name_basis": "ChatGPTのプラグイン詳細画面に表示された名称",
+  "category": "Creativity",
+  "provider": "OpenAI",
+  "version": "0.1.25",
+  "observed_at": "2026-11-14",
+  "source_url": "https://chatgpt.com/plugins/Plugin_9e6ca248b5248191ac8c599038990ad9?category=creativity",
+  "original_description": "Creative Production helps marketers turn a brief, product image, offer, or existing asset into visual options the team can review. Use it to explore campaign ideas, concept images, mood boards, product placements, ad directions, listing images, social posts, and reusable styles. Start with a brief or image, compare the strongest options, then adapt the chosen direction for the channels you need.",
+  "description_scope": "ChatGPTのプラグイン詳細に表示された提供元の英語説明",
+  "summary_ja": "企画書や商品画像から、広告・SNS向けの画像案やムードボードを検討する制作支援。",
+  "usage_tags": [
+    "画像制作",
+    "広告制作",
+    "マーケティング",
+    "SNS"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "limitations_ja": "詳細画面の機能欄は Interactive, Write と表示。画像生成の品質、連携や利用条件は未検証。",
+  "example_prompts": [
+    "Start me on a creative production workflow",
+    "Generate concept images for this visual brief",
+    "Create product placements from this image"
+  ],
+  "displayed_skills": [
+    "Intake",
+    "Produce"
+  ],
+  "review": "詳細画面の説明と情報欄を確認。実際の画像生成・編集は試していない。",
+  "catalog_status": "一覧本体との名称照合は未確認。同名製品との同一性も未確認。"
+}

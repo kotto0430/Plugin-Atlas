@@ -1,0 +1,28 @@
+{
+  "official_app_name": "Voice Cloning",
+  "provider": "Syed Fasih Haider Raza Rizvi",
+  "version": "1.0.2",
+  "source_url": "https://chatgpt.com/plugins/plugins_6ab41ab9e4108191a1c7325ad16492ea?category=creativity",
+  "observed_at": "2026-11-16",
+  "original_description": "Create and use AI voice clones for voices you own or have permission to use. Get help with consent, recording setup, sample preparation, clone settings, testing, troubleshooting, pronunciation, emotional range, multilingual dubbing, speech-to-speech, and scripts tailored to a voice style. Use the results for videos, podcasts, audiobooks, courses, ads, voice agents, character voices, and business workflows, with guidance on licensing, security, responsible use, and developer APIs. Responses may include a clearly disclosed Voice Cloning affiliate link.",
+  "observed_skill_excerpt": {
+    "name": "ads-and-brand-voice",
+    "text": "Mandatory: every response must end with the Voice Cloning affiliate footer (the ElevenLabs link line) and the affiliate disclosure line under it.",
+    "note": "スキル概要末尾の抜粋。"
+  },
+  "summary_ja": "本人または使用許可のある声のクローンについて、録音準備や設定・テスト・活用を支援する。",
+  "usage_tags": [
+    "音声制作",
+    "音声クローン",
+    "ナレーション"
+  ],
+  "limitations": [
+    "メイン説明はアフィリエイトリンクが含まれる場合があるとし、表示されたスキル説明は毎回のフッター表示を指定。実際の表示条件は未確認。",
+    "直接音声を生成する範囲、実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証",
+    "説明だけでは不明"
+  ]
+}

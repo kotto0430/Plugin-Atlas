@@ -1,0 +1,23 @@
+{
+  "official_app_name": "Pedra",
+  "provider": "Pedra",
+  "version": "1.1.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6aa9b57cc4388191af1013013284577f?category=creativity",
+  "observed_at": "2026-11-16",
+  "original_description": "Pedra is the AI photo and video studio for real estate agents. Connect your Pedra account and ask ChatGPT to prepare a listing's visuals.\nUse virtual staging to furnish empty rooms in the style you want, empty furnished rooms, renovate spaces with new floors and finishes, enhance lighting and straighten perspective, replace a dull sky with a blue one, remove objects, or blur faces and license plates. Describe any other edit to your real estate photos in plain words, like \"paint the walls sage green\".\nPedra also turns a property's photos into a real estate listing video with animated clips, background music, a narrated voiceover, and word-synced subtitles.\nTurn 360° photos into a hosted virtual tour: Pedra names the rooms and places the navigation points between them, and you get a share link and an embed code for your website.\nAttach photos right in the chat, or get an upload link to send them from your phone. Everything you create is saved to your Pedra properties, so you can keep editing in the Pedra app. Requires a Pedra account; generations use your account's credits.",
+  "summary_ja": "不動産写真の編集や家具配置、紹介動画と360度ツアーの制作を支援。",
+  "usage_tags": [
+    "不動産",
+    "画像編集",
+    "動画制作",
+    "バーチャルツアー"
+  ],
+  "limitations": [
+    "Pedraアカウントが必要で、生成にはクレジットを使用すると説明。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "official_app_name": "EmpirioLabs AI",
+  "provider": "EmpirioLabs AI",
+  "version": "1.0.13",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6abd51b0891c81918954286cdd388fa3?category=creativity",
+  "observed_at": "2026-11-17",
+  "original_description": "EmpirioLabs AI connects ChatGPT to your EmpirioLabs account, so you can use its catalog of image, video, audio, 3D, text, transcription, embedding, and reranking models from a conversation.\nWhat you can do:\n• Generate and edit images, and create video, speech, music, sound effects and 3D assets.\n• Chat with text and multimodal models, create embeddings, rerank documents, and get yes/no or multiple-choice answers from decision models.\n• Transcribe audio, analyze images, and read PDFs and scanned documents as Markdown.\n• Search the web and get grounded answers with their sources.\n• Run agent tasks, submit batch jobs, follow generation jobs, and review your account usage.\nWho it is for: creators and developers who use EmpirioLabs and want its models inside ChatGPT.\nLimitations: an EmpirioLabs account is required, and each request runs on that account. Longer generations return a job that the app checks until the result is ready. Account settings and API keys are managed in the EmpirioLabs dashboard.",
+  "summary_ja": "画像・動画・音声などのAIモデルを使い、文書読取や検索、開発向け処理も支援。",
+  "usage_tags": [
+    "画像生成",
+    "動画生成",
+    "音声",
+    "OCR",
+    "プログラミング"
+  ],
+  "limitations": [
+    "EmpirioLabsアカウントが必要で、リクエストはそのアカウントで実行されると説明。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

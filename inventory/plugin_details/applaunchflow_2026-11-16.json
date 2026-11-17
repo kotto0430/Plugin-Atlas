@@ -1,0 +1,21 @@
+{
+  "official_app_name": "AppLaunchFlow",
+  "provider": "YANNICK WESTERMANN",
+  "version": "1.1.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a7ba484063481919e57818427551c55?category=creativity",
+  "observed_at": "2026-11-16",
+  "original_description": "Create app-store screenshots, social graphics, App Store headers and search creatives, promo videos, and animated device mockups from your app screenshots. Browse projects and uploaded assets, upload and organize source media, compare personalized styles, and choose among three promo-video concepts before saving a variant. Edit copy, typography, themes, device frames, illustrations, scene timing, motion and audio; adapt supported formats and localize your work. Feature-specific skills guide the agent through safe, scoped edits and rendered checks. Interactive pickers appear in supported clients, with browser links when needed. An AppLaunchFlow account is required; generation, translation and API exports depend on your plan and allowances. Store publishing and some account settings remain in the AppLaunchFlow dashboard.",
+  "summary_ja": "アプリの画面画像からストア掲載画像やSNS画像、宣伝動画、端末モックアップを制作・編集する。",
+  "usage_tags": [
+    "アプリ公開準備",
+    "スクリーンショット",
+    "動画広告"
+  ],
+  "limitations": [
+    "AppLaunchFlowアカウントが必要で、生成・翻訳・API出力はプランや利用枠に依存。ストア公開はダッシュボード側との説明。実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
