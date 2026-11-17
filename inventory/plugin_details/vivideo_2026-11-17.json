@@ -1,0 +1,22 @@
+{
+  "official_app_name": "Vivideo",
+  "provider": "Vivideo.ai",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a79d492060481919fb188c452851097?category=creativity",
+  "observed_at": "2026-11-17",
+  "original_description": "Vivideo helps users create AI videos from text or images, build presenter videos, estimate generation credits, and view videos saved in their Vivideo account through ChatGPT.",
+  "summary_ja": "文章や画像からAI動画やプレゼンター動画を作り、保存した動画を確認する。",
+  "usage_tags": [
+    "動画生成",
+    "プレゼンター動画",
+    "広告"
+  ],
+  "limitations": [
+    "生成に必要なクレジットを見積もり、Vivideoアカウント内の動画を確認できると説明。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
