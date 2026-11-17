@@ -421,6 +421,12 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 - [Writing Assistant（Matthew Lane）](writing_assistant_matthew_lane_2026-11-17.json) — 書き手の文体や意図を持つ下書きの改善を支援。
 - [AI Headshot Generator（Syed Fasih Haider Raza Rizvi）](ai_headshot_generator_fasih_2026-11-17.json) — プロフィール写真の企画・撮影条件・生成結果の確認を支援。広告リンクの表示条件は未確認。
 
+- [Property Video](property_video_2026-11-17.json) — 不動産紹介用の短い動画台本や撮影指示を作成。
+- [FreeTTS](freetts_2026-11-17.json) — 文章の読み上げや複数の声による音声制作。
+- [Content Lab](content_lab_2026-11-17.json) — 学習者が保存したブランド情報を使いSNS投稿文や動画台本を作成。
+- [Marq](marq_2026-11-17.json) — ブランドのテンプレートやデータで資料・SNS素材を制作。
+- [Orisu](orisu_2026-11-17.json) — 商品写真から広告画像や動画を制作。動画への音声合成は未確認。
+
 ## 一覧本体との照合
 
 [名称照合の記録](catalog_name_audit_2026-11-14.json) — 詳細35件と作業ブランチの一覧3,941件を比較。34件は名前が一致、Palimpsestは一致なし。名前の一致は同一性の確定ではない。個々のJSONにある旧「照合未確認」の記載は調査時点の記録で、最新の照合結果はこの記録を参照。
