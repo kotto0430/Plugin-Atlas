@@ -463,6 +463,8 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 
 - [Viral Hook Suite — Shared Code](viral_hook_suite_shared_code_2026-11-17.json) — ドイツ語のSNS文章を作成。新しい会話ごとにコードを要求すると説明。
 
+- [text-to-cad（earthtojake）](text_to_cad_6ac09476_2026-11-17.json) — 3Dモデル・図面の作成や製造向け確認。別URLの同名掲載を併記し、同一性は未確認。
+
 ## 一覧本体との照合
 
 [名称照合の記録](catalog_name_audit_2026-11-14.json) — 詳細35件と作業ブランチの一覧3,941件を比較。34件は名前が一致、Palimpsestは一致なし。名前の一致は同一性の確定ではない。個々のJSONにある旧「照合未確認」の記載は調査時点の記録で、最新の照合結果はこの記録を参照。
