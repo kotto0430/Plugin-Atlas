@@ -799,3 +799,9 @@ Orisuのメイン説明は音声追加に言及する一方、表示された音
 [Parallax Card](inventory/plugin_details/parallax_card_2026-11-17.json)、[Ad Army](inventory/plugin_details/ad_army_2026-11-17.json)、[CaseWrite](inventory/plugin_details/casewrite_2026-11-17.json)、[Julius: PowerPoint & Slides](inventory/plugin_details/julius_powerpoint_slides_2026-11-17.json)の正式名・提供元・版・英文説明・日本語要約・用途・確認状況を記録。Kids Book Makerは提供元とURLを既存記録と照合し、重複のため追加しなかった。実動作・料金・一覧本体との照合は未検証。前回記録の353ファイルから4件増の累計357ファイルで、一覧本体の件数とは別。
 
 作業途中で画面操作の実行環境がリセットされたため、ここで区切った。次回はクリエイティブ一覧のJuliusの次の行にあるTTS Studio: AI Text to Speechから詳細索引と照合して再開。作業ブランチのみ更新、main・本番未変更。
+
+### 詳細調査（2026-11-17、クリエイティブ1件・画面操作停止）
+
+[TTS Studio: AI Text to Speech](inventory/plugin_details/tts_studio_ai_text_to_speech_2026-11-17.json)の正式名・提供元・版・英文説明・日本語要約・用途・確認状況を記録。利用枠とプランによるダウンロード条件を記載。実動作・料金・一覧本体との照合は未検証。前回記録の357ファイルから1件増の累計358ファイルで、一覧本体の件数とは別。
+
+Computer UseがWindows上の現在のブラウザーURLを安全確認に十分な確信をもって特定できず、このターンの画面操作を停止したため区切った。次回はクリエイティブ一覧のTTS Studioの隣のWonderWhyから詳細索引と照合して再開。作業ブランチのみ更新、main・本番未変更。
