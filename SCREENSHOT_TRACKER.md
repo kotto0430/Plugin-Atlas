@@ -817,3 +817,9 @@ Computer UseがWindows上の現在のブラウザーURLを安全確認に十分�
 [Nox Design](inventory/plugin_details/nox_design_2026-11-17.json)、[Brancha](inventory/plugin_details/brancha_2026-11-17.json)の正式名・提供元・版・説明原文・日本語要約・用途・確認状況を記録。Nox Designはスペイン語の原文を保存。実動作・料金・一覧本体との照合は未検証。前回記録の360ファイルから2件増の累計362ファイルで、一覧本体の件数とは別。
 
 タブ切り替え時にComputer UseがWindows上の現在のブラウザーURLを安全確認に十分な確信をもって特定できず、画面操作を停止。次回はBrancha隣のViral Hook Suite — Shared Codeから詳細索引と照合して再開。類似名の既存2件との関係は未確認。作業ブランチのみ更新、main・本番未変更。
+
+### 詳細調査（2026-11-17、クリエイティブ1件・画面操作停止）
+
+[Viral Hook Suite — Shared Code](inventory/plugin_details/viral_hook_suite_shared_code_2026-11-17.json)の正式名・提供元・版・英文説明・日本語要約・用途・確認状況を記録。各新規会話でアクティベーションコードを求める条件を記載。既存のViral Hook SuiteとViral Hook Suite 1.0は同じ提供元だが掲載名・URLが異なり、関係は未確認。実動作・料金・一覧本体との照合は未検証。前回記録の362ファイルから1件増の累計363ファイルで、一覧本体の件数とは別。
+
+タブ切り替え時にComputer UseがWindows上の現在のブラウザーURLを安全確認に十分な確信をもって特定できず、画面操作を停止。次回はShared Codeの次の行に並ぶ2件のtext-to-cadについてURLや提供元を確認し、詳細索引と照合して再開。作業ブランチのみ更新、main・本番未変更。
