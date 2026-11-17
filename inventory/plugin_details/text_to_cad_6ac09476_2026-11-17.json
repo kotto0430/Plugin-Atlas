@@ -1,0 +1,24 @@
+{
+  "official_app_name": "text-to-cad",
+  "provider": "earthtojake",
+  "version": "0.11.10",
+  "source_url": "https://chatgpt.com/plugins/plugins_6ac09476ef008191a35887b22b0d048a?category=creativity",
+  "observed_at": "2026-11-17",
+  "original_description": "The text-to-cad plugin gives your agent local workflows for generating 3D models as STEP, GLB, STL or 3MF files. It also does design for manufacturing checks, generates engineering drawings, and connects to popular 3D printing, sheet metal and CNC fabrication services.",
+  "summary_ja": "3Dモデルや図面の作成、製造向けの確認を支援する。",
+  "usage_tags": [
+    "3Dモデリング",
+    "CAD",
+    "3Dプリント",
+    "設計"
+  ],
+  "limitations": [
+    "ローカル環境のワークフローと説明。",
+    "同名で別URLの掲載が一覧にあり、関係は未確認。",
+    "実動作・必要環境・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
