@@ -448,6 +448,11 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 - [YouTube Thumbnail Creator（The Doers Firm）](youtube_thumbnail_creator_doers_2026-11-17.json) — サムネイルの構想、画像制作、評価を支援。
 - [Vivu](vivu_2026-11-17.json) — 登録済み動画の場面検索、要約、管理。
 
+- [Parallax Card](parallax_card_2026-11-17.json) — 画像や作品を使った立体的なカード制作を支援。
+- [Ad Army](ad_army_2026-11-17.json) — 広告向け画像・動画の制作や素材管理。アカウントとクレジットが必要。
+- [CaseWrite](casewrite_2026-11-17.json) — Charleston DPS職員向けの報告書作成を支援。
+- [Julius: PowerPoint & Slides](julius_powerpoint_slides_2026-11-17.json) — 文章や対応文書から編集可能なPowerPointを作成。
+
 ## 一覧本体との照合
 
 [名称照合の記録](catalog_name_audit_2026-11-14.json) — 詳細35件と作業ブランチの一覧3,941件を比較。34件は名前が一致、Palimpsestは一致なし。名前の一致は同一性の確定ではない。個々のJSONにある旧「照合未確認」の記載は調査時点の記録で、最新の照合結果はこの記録を参照。
