@@ -1,0 +1,23 @@
+{
+  "official_app_name": "Content Lab",
+  "provider": "BẢO ĐỖ HOÀI PHAN",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a8ebb85ec6481919ef3ac022ff48fc4?category=creativity",
+  "observed_at": "2026-11-17",
+  "original_description": "Content Lab helps learners set up Brand Memory, logos, reference materials, and multiple audience profiles on a dedicated website, then reuse that saved context in ChatGPT to draft Facebook captions, TikTok scripts, and image briefs. Data is separated by user and classroom. Content Lab does not require learners or instructors to provide a separate OpenAI API key.",
+  "summary_ja": "学習者が保存したブランド情報や対象者の設定を使い、SNS投稿文や動画台本を作る。",
+  "usage_tags": [
+    "SNS",
+    "マーケティング",
+    "文章作成",
+    "教育"
+  ],
+  "limitations": [
+    "ブランド情報などは専用サイトで設定し、データは利用者・クラス別に分けると説明。",
+    "実動作・対象言語・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
