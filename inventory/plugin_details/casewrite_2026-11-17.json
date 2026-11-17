@@ -1,0 +1,22 @@
+{
+  "official_app_name": "CaseWrite",
+  "provider": "Mark Steven Higgins",
+  "version": "0.1.1+bundle.2a533ecfe2092aa1ea395df7a4ec845c",
+  "source_url": "https://chatgpt.com/plugins/plugins_6ab3c308d3b4819197391f43e45076cc?category=creativity",
+  "observed_at": "2026-11-17",
+  "original_description": "AI report-writing assistant for Charleston DPS officers. Draft narratives, review reports, check Missouri and local charges, build probable cause statements, prepare prosecutor materials, and audit cases for missing or suppression-sensitive details..",
+  "summary_ja": "Charleston DPS職員向けに報告書や検察向け資料の作成・確認を支援。",
+  "usage_tags": [
+    "報告書",
+    "法執行",
+    "文章作成"
+  ],
+  "limitations": [
+    "説明はミズーリ州と現地の罪名確認を対象とする。対象組織との関係や法的な正確性は未確認。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
