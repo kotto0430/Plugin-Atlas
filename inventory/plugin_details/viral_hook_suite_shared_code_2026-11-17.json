@@ -1,0 +1,24 @@
+{
+  "official_app_name": "Viral Hook Suite — Shared Code",
+  "provider": "Savva Altman",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugins_6aaff61e86bc8191985310744096d9f0?category=creativity",
+  "observed_at": "2026-11-17",
+  "original_description": "Create German Reel hooks, captions, copy-ready text blocks, sets of 24 headlines, and Instagram Stories launch plans. This Shared Code edition requests an activation code at the start of each new conversation before the workflows become available.",
+  "summary_ja": "ドイツ語のReels向け文章や見出し、Instagramストーリーの企画を作る。",
+  "usage_tags": [
+    "SNS",
+    "文章作成",
+    "ドイツ語",
+    "マーケティング"
+  ],
+  "limitations": [
+    "各新規会話の開始時にアクティベーションコードを求めると説明。",
+    "同提供元のViral Hook SuiteおよびViral Hook Suite 1.0とは掲載名とURLが異なり、関係は未確認。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
