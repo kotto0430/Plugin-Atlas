@@ -779,3 +779,10 @@ MeiGen Galleryのメイン説明は一度に最大6件、アプリ概要は最�
 [PlayDrop](inventory/plugin_details/playdrop_2026-11-17.json)、[EmpirioLabs AI](inventory/plugin_details/empiriolabs_ai_2026-11-17.json)、[Rendemo](inventory/plugin_details/rendemo_2026-11-17.json)、[Redesign（Saul Martí）](inventory/plugin_details/redesign_saul_marti_2026-11-17.json)、[ShapeUI](inventory/plugin_details/shapeui_2026-11-17.json)、[Studio Ghibli Anime Creator（The Doers Firm）](inventory/plugin_details/studio_ghibli_anime_creator_2026-11-17.json)、[Zim Studio](inventory/plugin_details/zim_studio_2026-11-17.json)、[Hansora AI](inventory/plugin_details/hansora_ai_2026-11-17.json)、[Writing Assistant（Matthew Lane）](inventory/plugin_details/writing_assistant_matthew_lane_2026-11-17.json)、[AI Headshot Generator（Syed Fasih Haider Raza Rizvi）](inventory/plugin_details/ai_headshot_generator_fasih_2026-11-17.json)の正式名・提供元・版・英文説明・日本語要約・用途・確認状況を記録。既存の詳細索引と名称を照合。PlayDropやZim Studioのアカウント要件、Studio Ghibli Anime Creatorの表示上の提供元を記録し、名称だけで関係を推定しなかった。実動作・料金・一覧本体との照合は未検証。前回記録の318ファイルから10件増の累計328ファイルで、一覧本体の件数とは別。
 
 AI Headshot Generatorのメイン説明はアフィリエイトリンクを含む場合があるとする一方、表示されたスキル概要は毎回のフッター表示を指定。両原文を保存し、実際の表示条件を未確認として10件で区切った。次回はクリエイティブ一覧のAI Headshot Generatorの次の行にあるProperty Videoから詳細索引と照合して再開。作業ブランチのみ更新、main・本番未変更。
+
+
+### 詳細調査（2026-11-17、クリエイティブ5件・機能範囲保留）
+
+[Property Video](inventory/plugin_details/property_video_2026-11-17.json)、[FreeTTS](inventory/plugin_details/freetts_2026-11-17.json)、[Content Lab](inventory/plugin_details/content_lab_2026-11-17.json)、[Marq](inventory/plugin_details/marq_2026-11-17.json)、[Orisu](inventory/plugin_details/orisu_2026-11-17.json)の正式名・提供元・版・英文説明・日本語要約・用途・確認状況を記録。Property Videoの直接動画生成範囲は説明だけでは不明と記載し、FreeTTSは一部機能のアカウント要件を記録。既に詳細記録のあるWorldkeepは再処理しなかった。実動作・料金・一覧本体との照合は未検証。前回記録の328ファイルから5件増の累計333ファイルで、一覧本体の件数とは別。
+
+Orisuのメイン説明は音声追加に言及する一方、表示された音声関連スキル概要は音声ファイルのみを返し、動画への合成を行わないと説明。両原文を保存し、動画への音声合成範囲を未確認として5件で区切った。次回はクリエイティブ一覧のOrisuの次の行にあるWebMockupから詳細索引と照合して再開。作業ブランチのみ更新、main・本番未変更。
