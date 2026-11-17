@@ -1,0 +1,22 @@
+{
+  "official_app_name": "Polish",
+  "provider": "Saul Martí",
+  "version": "2.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugins_6aa3017438648191bb8cabd87babb453?category=creativity",
+  "observed_at": "2026-11-17",
+  "original_description": "Uses the real vendored Impeccable workflow. Specialized for the bounded final quality pass that fixes visual, responsive, interaction, and accessibility rough edges before shipping.",
+  "summary_ja": "公開前にUIの見た目、操作、画面サイズ対応、アクセシビリティを仕上げる。",
+  "usage_tags": [
+    "UI",
+    "ウェブデザイン",
+    "アクセシビリティ",
+    "品質点検"
+  ],
+  "limitations": [
+    "実動作・修正範囲・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
