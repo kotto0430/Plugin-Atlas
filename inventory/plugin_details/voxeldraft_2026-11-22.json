@@ -1,0 +1,22 @@
+{
+  "official_app_name": "VoxelDraft",
+  "provider": "Y&T",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6aa5702d6cc481919355eb34c94fab69?category=creativity",
+  "observed_at": "2026-11-22",
+  "original_description": "VoxelDraft helps users create and refine 3D voxel models through short temporary model references, inspect their geometry, explore them in an interactive 3D preview inside ChatGPT, export OBJ/MTL or compact JSON files, and optionally save or reopen private projects in their VoxelDraft account.",
+  "summary_ja": "ボクセルモデルを作成・確認し、OBJ/MTLなどに出力。",
+  "usage_tags": [
+    "3D",
+    "ボクセルアート",
+    "ゲーム制作"
+  ],
+  "limitations": [
+    "非公開プロジェクトの保存・再読込は任意のアカウント機能として説明。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
