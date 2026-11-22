@@ -1,0 +1,22 @@
+{
+  "official_app_name": "UGCBuilder",
+  "provider": "Sami Builds",
+  "version": "0.1.1",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6abc586e3534819183614ad162d0694d?category=creativity",
+  "observed_at": "2026-11-22",
+  "original_description": "Create landing-page section images and UGC videos from a product photo and your creative brief. Choose a format and approve each generation in the interactive card, then download your result. Connect your UGCBuilder account to get started.",
+  "summary_ja": "商品写真と企画からランディングページ用画像やUGC動画を制作。",
+  "usage_tags": [
+    "広告",
+    "商品画像",
+    "動画制作"
+  ],
+  "limitations": [
+    "UGCBuilderアカウントの接続が必要。各生成をカード上で承認すると説明。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
