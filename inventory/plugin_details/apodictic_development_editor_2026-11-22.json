@@ -1,0 +1,23 @@
+{
+  "official_app_name": "APODICTIC Development Editor",
+  "provider": "anotherpanacea",
+  "version": "2.13.3",
+  "source_url": "https://chatgpt.com/plugins/plugins_6abdca92a1908191b989544ed495ca16?category=creativity",
+  "observed_at": "2026-11-22",
+  "original_description": "APODICTIC is a developmental editing assistant for authors and editors revising fiction and nonfiction manuscripts. Its main purpose is to turn a draft into a structural editorial assessment and a prioritized revision plan.\n\nFor fiction, it examines plot, pacing, character arcs, continuity, and the experience promised to readers. For argumentative nonfiction, it examines the central claim, supporting evidence, missing logical connections, and unanswered objections. It returns an editorial letter with prioritized findings and suggested types of revision. It diagnoses structure without rewriting the manuscript or inventing prose. Writers can also use it to organize feedback and plan revision sessions.\n\nBundled scripts support mechanical checks and annotated manuscript exports when the host can execute them. Saved-project resume requires persistent workspace files; independent pass agents require host delegation; optional SETEC measurements require a separate compatible installation. Availability depends on the host. APODICTIC has no author-operated backend.",
+  "summary_ja": "小説や論考の構造を分析し、優先順位付きの改稿計画を作成。",
+  "usage_tags": [
+    "小説",
+    "文章編集",
+    "論証",
+    "改稿"
+  ],
+  "limitations": [
+    "一部の確認や再開、独立した分析、追加測定には実行環境の機能や別途インストールが必要と説明。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
