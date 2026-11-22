@@ -1,0 +1,22 @@
+{
+  "official_app_name": "Shorts Generator",
+  "provider": "Bilal Tahir",
+  "version": "1.0.2",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6abf5a1409e481919bcfc36e0d9813d3?category=creativity",
+  "observed_at": "2026-11-22",
+  "original_description": "Create 15-second videos from a brief or up to four selected still images. Preview settings and confirm generation, track progress, adjust captions, opening text, end cards, visual look and music, and download finished MP4s. For creators preparing short video content. Requires a connected Shorts Generator account with video-generation access.",
+  "summary_ja": "企画文や最大4枚の静止画から15秒動画を制作・仕上げ。",
+  "usage_tags": [
+    "短尺動画",
+    "SNS",
+    "動画編集"
+  ],
+  "limitations": [
+    "動画生成権限のあるShorts Generatorアカウントの接続が必要と説明。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
