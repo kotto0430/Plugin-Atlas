@@ -1,0 +1,24 @@
+{
+  "official_app_name": "BlockGPT",
+  "provider": "BlockGPT",
+  "version": "0.4.14",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ace3ef8cf308191a1ac6daa77e1d691?category=creativity",
+  "observed_at": "2026-11-23",
+  "original_description": "BlockGPT helps Minecraft players create structures from text descriptions or publicly accessible HTTPS image links. Generate castles, buildings, statues and other designs, choose a size from 50 to 300, and select a preset block palette or a custom list of supported Minecraft blocks. Download completed builds as .schem, .litematic or legacy .schematic files for use with compatible Minecraft tools.\n\nConnect your BlockGPT account to view your remaining build allowance, list saved builds and check generation progress. Completed results include a link to the build on BlockGPT and a schematic download link. Image input determines the shape; text cannot modify it.\n\nA BlockGPT account is required. The plugin creates downloadable build files; it cannot join a Minecraft server or place blocks in a running world. Direct chat attachment transfer, .nbt export and conversion of existing builds are not supported.",
+  "summary_ja": "文章や公開画像からMinecraft用建築データを作る。",
+  "usage_tags": [
+    "Minecraft",
+    "ゲーム",
+    "建築"
+  ],
+  "limitations": [
+    "BlockGPTアカウントが必要。ゲームサーバーに参加したり稼働中のワールドに直接配置したりできない。",
+    "画像入力時は画像が形を決め、テキストで形を変更できない。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証",
+    "説明だけでは不明"
+  ]
+}
