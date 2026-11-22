@@ -937,3 +937,10 @@ Moon & Star Map の検索結果読み込みが操作の確認に間に合わず�
 Moon & Star Map、Daydream、Your Color Palette、Fablyn、ScoreStarling、Raylight、Designelier の公式説明・出典・日本語要約・用途と確認状況を記録。前回457件から7件増え、詳細ファイルは累計464件。実動作・料金・一覧本体との照合は未検証。接続・インストール・設定変更・公開は行っていない。
 
 Designelier の本文は一部スタイルで編集可能なパスを持つトレース済みSVGを提供すると記載。一方、アプリ欄はSVGに編集可能なベクターパスはなく、ベクターのトレースもしないと説明しており、実際の提供範囲は未確認。両方の原文を保存し、7件で停止。次回はクリエイティブ一覧の Designelier 隣の Renoise 付近から重複を確認して再開する。表示順は変わる可能性がある。
+
+
+### 詳細調査（2026-11-23、クリエイティブ10件）
+
+Renoise、Theme Emporium、OpenClip、RoomLab.app、KozyGrid、GoFaceless、SoeMind、PrintNexus Toolbox、style-my-space.com、Rephrasy の公式説明・出典・日本語要約・用途と確認状況を記録。前回464件から10件増え、詳細ファイルは累計474件。実動作・料金・一覧本体との照合は未検証。接続・インストール・設定変更・公開は行っていない。
+
+Theme Emporium の変更対象は専用ウィジェット内、PrintNexus Toolbox の現行対応は単色平面リソフェイン、Rephrasy のAIらしさのスコアは著者の証明ではないことなどを記録。次回はクリエイティブ一覧の Rephrasy の次、convert3d 付近から既存記録との重複を確認して再開する。mnml AI は既存詳細あり。表示順は変わる可能性がある。
