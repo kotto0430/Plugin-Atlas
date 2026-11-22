@@ -1,0 +1,22 @@
+{
+  "official_app_name": "Rephrasy",
+  "provider": "Rephrasy",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac6321d25c08191b9c0264f665b8c6c?category=creativity",
+  "observed_at": "2026-11-23",
+  "original_description": "Rephrasy is a writing and editing assistant for text you drafted with AI. Share a draft and Rephrasy rewrites it into natural, human-sounding prose: it varies sentence rhythm, trims stock phrasing and filler, and aims to keep your meaning, facts, and figures, with a short report of what changed.\n\nTell Rephrasy what the text is for (blog, marketing, SEO, report, technical, or general) and it picks a suitable rewriting engine, or choose the engine and tone yourself. The output language can be set or detected automatically.\n\nBefore you publish, check a draft's AI-likelihood score to see which passages read as machine-written, and get a readability score to judge how easy the text is to follow. Rephrasy Studio opens an editor panel in the conversation so you can review, adjust, and copy the result.\n\nMade for marketers, content teams, writers, and professionals who use AI for first drafts and want the final copy to sound like them.\n\nLimitations: requires a Rephrasy account (you can create one when you connect). Texts up to 12,000 characters per request. AI-likelihood scores are statistical estimates, not proof of authorship. Do not use Rephrasy to misrepresent authorship where original, unassisted work is required.",
+  "summary_ja": "AIで書いた下書きの表現を調整し、読みやすさを確認する。",
+  "usage_tags": [
+    "文章作成",
+    "編集",
+    "読みやすさ"
+  ],
+  "limitations": [
+    "アカウントが必要で1回12,000文字まで。AIらしさのスコアは統計的推定であり著者の証明ではない。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
