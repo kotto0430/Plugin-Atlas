@@ -1,0 +1,22 @@
+{
+  "official_app_name": "Generate Greetings",
+  "provider": "TOMMASO MARIA SAVORANA",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ab5a1f8e7a081918233c9dccf836c13?category=creativity",
+  "observed_at": "2026-11-22",
+  "original_description": "Create thoughtful greetings for everyday moments, birthdays, anniversaries and celebrations in 13 languages, including Hindi. Get a greeting as text or make a complete card with occasion-matched backgrounds and optional decorations. Try another version and download the image, or open its reusable design on Generate Greetings to customize it.\n\nCards are free and include a watermark. No Generate Greetings account is needed. Optional first names personalize the response and image; reusable web links omit names and expire after 30 days. The connector does not send messages, publish social posts or make purchases.",
+  "summary_ja": "祝い事などの挨拶文やカードを13言語で作成。",
+  "usage_tags": [
+    "カード",
+    "挨拶文",
+    "デザイン"
+  ],
+  "limitations": [
+    "カードは無料で透かし入り、専用アカウント不要、再利用リンクは30日で失効と説明。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
