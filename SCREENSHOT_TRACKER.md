@@ -853,3 +853,10 @@ PartForgeの本文は会話そのものを見ずに送信されたリクエス�
 [MapPoster](inventory/plugin_details/mapposter_2026-11-22.json)、[Hermoso: AI Marketing Agent](inventory/plugin_details/hermoso_ai_marketing_agent_2026-11-22.json)、[Insurance Agent Content Studio](inventory/plugin_details/insurance_agent_content_studio_2026-11-22.json)、[Tattoos Wizard](inventory/plugin_details/tattoos_wizard_2026-11-22.json)、[LYRC](inventory/plugin_details/lyrc_2026-11-22.json)の正式名・提供元・版・説明原文・日本語要約・用途・確認状況と出典を記録。アクセシビリティ情報を主に利用。Topview 3D BuilderはページIDが既存詳細と一致し、再処理しなかった。実動作・料金・一覧本体との照合は未検証。前回記録の371ファイルから5件増の累計376ファイルで、一覧本体の件数とは別。
 
 LYRCの主説明は楽曲をチャット内で追加できるとする一方、アプリ欄はLYRC側でアップロードすると記載。両原文を保存し実際の追加方法を未確認として5件で区切った。次回はクリエイティブ一覧のLYRCの次の行にあるModRetro Chromatic Pluginから詳細索引と照合して再開。作業ブランチのみ更新、main・本番未変更。
+
+
+### 詳細調査（2026-11-22、クリエイティブ2件・画面操作停止）
+
+[ModRetro Chromatic Plugin](inventory/plugin_details/modretro_chromatic_plugin_2026-11-22.json)、[Crealix](inventory/plugin_details/crealix_2026-11-22.json)の正式名・提供元・版・英文説明・日本語要約・用途・確認状況と出典を記録。アクセシビリティ情報を主に利用。ModRetroはカートリッジのキー条件、Crealixはクレジット使用の説明を保存。実動作・料金・一覧本体との照合は未検証。前回376ファイルから2件増の累計378ファイルで、一覧本体の件数とは別。
+
+一覧内で次の位置を探す途中、Computer UseがWindows上の現在のブラウザーURLを安全確認に十分な確信をもって特定できず画面操作を停止。次回はクリエイティブ一覧でCrealixの次から、一覧と詳細索引を照合して再開。作業ブランチのみ更新、main・本番未変更。
