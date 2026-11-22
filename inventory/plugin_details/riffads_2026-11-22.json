@@ -1,0 +1,23 @@
+{
+  "official_app_name": "RiffAds",
+  "provider": "RiffAds",
+  "version": "1.1.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6abff570e7f081919dfd795a76d4eec8?category=creativity",
+  "observed_at": "2026-11-22",
+  "original_description": "RiffAds makes UGC-style video ads. Pick an AI actor, give it a script, and get a finished talking actor video for your product. It also makes images, short videos, voice-overs and music for the same campaign. Attach a product photo or a clip in the chat to use it. Edit what you make too: add captions, remove a background, trim, resize, change the voice or put text on it. Every result is saved to your RiffAds workspace library with a permanent link, and a player shows it right in the chat. Open the RiffAds Studio from the sidebar or beside a chat to browse everything you made, pick a file to use, choose an actor, a voice and the settings, and follow running jobs. RiffAds asks you before it starts any work and never posts anything to a social network.",
+  "summary_ja": "AI出演者を使った動画広告と画像・音声の制作や編集。",
+  "usage_tags": [
+    "広告",
+    "動画制作",
+    "画像生成",
+    "音声"
+  ],
+  "limitations": [
+    "処理開始前に確認し、SNSには投稿しないと説明。動作は未検証。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
