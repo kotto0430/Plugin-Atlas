@@ -1,0 +1,26 @@
+{
+  "official_app_name": "LYRC",
+  "provider": "LYRC",
+  "version": "1.0.2",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6abe91a608ec81918bf84d3ae3ef864d?search=LYRC",
+  "observed_at": "2026-11-22",
+  "original_description": "LYRC makes lyric videos for independent musicians. Ask ChatGPT to make a lyric video for your song, make a music video for a new single, or make Instagram Reels for a release, and LYRC builds them from your songs.\nAdd a song right in the chat: say its name and artist, paste a Spotify, Apple Music, Deezer, YouTube or SoundCloud link, or attach the audio file. LYRC picks a 15-second part, transcribes and times the lyrics, puts cut markers on the beat and saves the song for next time. After that, ChatGPT can:\n• make a new video for that song and fill every cut with stock footage (30 moods, from club nights to nature) or your own clips\n• show you the storyboard right in the chat\n• switch between lyric animation styles, or turn them off and set the font, colors and outline yourself\n• fix a misheard word or retime a line\n• add color grades and transitions that land on the beat\n• swap, zoom or lock individual clips\n• pull clips out of a video link\n• make up to 30 videos at once for a release, then keep or ditch each one\n• export a finished MP4 and post it to Instagram now or schedule it\nExports and Instagram posts only go through after you confirm them in the chat. Finished videos play in the chat with a download link that doesn't expire.\nLimits: you need a LYRC account. Add only songs that are yours. Instagram posting needs an Instagram professional account connected in LYRC.",
+  "app_description": "LYRC makes lyric videos for independent musicians. Ask ChatGPT to make a lyric video for your song, make a music video for a new single, or make Instagram Reels for a release, and LYRC builds them from your songs. You set up a song once at lyrc.studio. LYRC transcribes and times the lyrics and puts cut markers on the beat. After that, ChatGPT can: - make a new video for that song and fill every cut with stock footage (30 moods, from club nights to nature) or your own clips - show you the storyboard right in the chat - switch between lyric animation styles, or turn them off and set the font, colors and outline yourself - fix a misheard word or retime a line - add color grades and transitions that land on the beat - swap, zoom or lock individual clips - pull clips out of a video link - make up to 30 videos at once for a release, then keep or ditch each one - export a finished MP4 and post it to Instagram now or schedule it Exports and Instagram posts only go through after you confirm them in the chat. Finished videos play in the chat with a download link that doesn't expire. Limits: you need a LYRC account with at least one song set up at lyrc.studio. Songs are uploaded in the LYRC app, not in ChatGPT. Instagram posting needs an Instagram professional account connected in LYRC.",
+  "summary_ja": "自分の楽曲から歌詞付き動画を制作し、歌詞や映像を編集する。",
+  "usage_tags": [
+    "音楽",
+    "歌詞動画",
+    "動画制作",
+    "SNS"
+  ],
+  "limitations": [
+    "本文はチャット内で楽曲を追加できるとする一方、アプリ説明は楽曲の登録・アップロードをLYRC側で行うと記載。実際の追加方法は未確認。",
+    "LYRCアカウントが必要。Instagram投稿には接続済みのプロアカウントが必要と説明。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証",
+    "説明だけでは不明"
+  ]
+}
