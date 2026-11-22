@@ -1,0 +1,25 @@
+{
+  "official_app_name": "KDP Coloring Book Studio",
+  "provider": "KDP Coloring Book Studio",
+  "version": "0.2.1",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ad8fe2267148191b3240563537d9104?category=creativity",
+  "observed_at": "2026-11-23",
+  "original_description": "Create complete, multi-page coloring books from a conversation. Describe a theme, who the book is for and how many pages you want, and KDP Coloring Book Studio plans a coordinated set of line-art coloring pages in one consistent style, with recurring characters if you want them. Before anything is generated, it shows you the planned scope and waits for your confirmation; then it draws every page, adds a cover and reports progress until the book is ready. Typical uses include birthday gifts, classroom activity books, coloring books for adults and interiors for self-publishing on Amazon KDP. When the book is finished, open it in the KDP Coloring Book Studio web app to review the pages, adjust the cover and download print-ready PDF files. Connecting requires a KDP Coloring Book Studio account. The app does not publish books to Amazon.",
+  "summary_ja": "会話から複数ページのぬり絵本を企画・制作。",
+  "usage_tags": [
+    "ぬり絵",
+    "出版",
+    "画像生成"
+  ],
+  "limitations": [
+    "アカウントと生成用クレジットが必要。",
+    "PDFの取得はウェブアプリ側で行い、プラグイン自体には出力ツールがない。Amazonへの出版は行わない。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証",
+    "説明だけでは不明"
+  ],
+  "app_description_original": "Connect your existing KDP Coloring Book Studio account to plan coordinated coloring book interiors, check your available credits, quote a book before generation, and track its progress. Generation requires your explicit confirmation and uses your existing account entitlement and credit balance. The current tools also support title suggestions and an automatic initial cover. This plugin does not sell subscriptions or credits, publish books to Amazon, or provide interior export/download tools. No embedded chat interface is included in this release."
+}
