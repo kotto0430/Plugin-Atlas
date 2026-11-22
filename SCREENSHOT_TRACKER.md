@@ -923,3 +923,10 @@ WFI — WhatFontIs、BlockGPT、getimg、SC Adelsdorf Matchreporter、OceanToken
 Cav、TrackGleam、Tatty — Tattoo ideas & design、Kombai、AI Video Maker Gem、YouWorkForThem、WizPrompt Studio の公式説明・出典・要約・用途・確認状況を記録。詳細ファイルは前回445件から7件増え累計452件。実動作・料金・一覧本体との照合は未検証。接続・インストール・設定変更は行っていない。
 
 一覧の続きへのスクロール操作でウィンドウ座標のエラーが発生したため、7件で停止。次回はクリエイティブ一覧の WizPrompt Studio 付近を再確認し、その次の候補から既存記録との重複を確認して再開する。表示順は変わる可能性がある。
+
+
+### 詳細調査（2026-11-23、クリエイティブ5件）
+
+AVSBL Website Builder、Gradients Studio、Dịch Anh Việt、MeltFlex、Mondovo の公式説明、出典、日本語要約、用途タグ、利用条件と確認状況を記録。Dịch Anh Việt の原文はベトナム語。詳細ファイルは前回452件から5件増え累計457件。実動作・料金・一覧本体との照合は未検証。接続・インストール・設定変更・公開は行っていない。
+
+Moon & Star Map の検索結果読み込みが操作の確認に間に合わず、結果なしエラーとなったため5件で停止。その後、検索結果の同名項目の表示を確認したが詳細は未処理。次回は Moon & Star Map から既存記録との重複を確認して再開する。
