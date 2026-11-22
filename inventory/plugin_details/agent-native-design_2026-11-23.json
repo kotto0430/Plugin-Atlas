@@ -1,0 +1,22 @@
+{
+  "official_app_name": "Agent-Native Design",
+  "provider": "Builder.io",
+  "version": "1.0.1",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6abfca91bf7c819189dc71eeb2a67a53?category=creativity",
+  "observed_at": "2026-11-23",
+  "original_description": "Create interactive prototypes in your Agent-Native Design workspace. Browse saved designs, templates, design systems, and snapshots; start new designs, generate visual directions, and refine saved prototypes through chat. This connection works with designs in the connected Agent-Native workspace. It does not connect to local repositories, modify a running website, export files, or deploy an application.",
+  "summary_ja": "会話で対話型プロトタイプを作りワークスペース上で改善。",
+  "usage_tags": [
+    "プロトタイピング",
+    "UI制作"
+  ],
+  "limitations": [
+    "ローカルリポジトリへの接続、稼働中サイトの変更、ファイル出力、アプリのデプロイは行わない。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証",
+    "説明だけでは不明"
+  ]
+}
