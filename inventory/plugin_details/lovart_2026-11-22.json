@@ -1,0 +1,22 @@
+{
+  "official_app_name": "Lovart",
+  "provider": "Resonate International INC (dba Lovart)",
+  "version": "1.0.5",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ad1caa9f70c8191a877e4e776047d41?category=creativity",
+  "observed_at": "2026-11-22",
+  "original_description": "Lovart generates images and videos from text prompts and reference images. Edit images using text instructions, replace image backgrounds, upscale images or videos, and view recent Lovart projects supported by this connector. Choose from the available models, with supported inputs and settings varying by model.",
+  "summary_ja": "文章や参考画像から画像・動画を生成し、画像を編集。",
+  "usage_tags": [
+    "画像生成",
+    "動画制作",
+    "デザイン"
+  ],
+  "limitations": [
+    "対応する入力や設定はモデルによって異なると説明。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
