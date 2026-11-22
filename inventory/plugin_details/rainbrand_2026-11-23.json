@@ -1,0 +1,24 @@
+{
+  "official_app_name": "Rainbrand",
+  "provider": "Rainbrand",
+  "version": "1.1.11",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac6e5030ec88191a88001f6dc0628ca?category=creativity",
+  "observed_at": "2026-11-23",
+  "original_description": "Rainbrand is the brand layer for agents. It maintains a brand's identity, guidance, and assets as shared context that agents and products can use and update as the brand evolves.\n\nConnect your Rainbrand account to onboard or edit brands and get the context relevant to your work.",
+  "summary_ja": "ブランド情報・指針・素材の共有や更新。",
+  "usage_tags": [
+    "ブランド管理",
+    "マーケティング"
+  ],
+  "limitations": [
+    "Rainbrandアカウントの接続が必要。",
+    "スキル説明は画像・動画・音声の生成に言及するが、具体的な生成範囲は不明。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証",
+    "説明だけでは不明"
+  ],
+  "skill_description_original": "Use Rainbrand to onboard and edit brands, get brand context for a task, and generate images, videos, and audio."
+}
