@@ -495,6 +495,17 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 - [Human Prose Editor](human_prose_editor_2026-11-22.json) — 書き手の文体や意味を保ちながら、文章の構造や表現を見直す。
 - [ViewMax](viewmax_2026-11-22.json) — 企画文から動画・画像・ナレーション・音楽や効果音を生成。
 
+- [NameSTL](namestl_2026-11-22.json) — 名前入りの3Dプリント用デザインを作成し、プレビュー・保存。
+- [QynTro AI](qyntro_ai_2026-11-22.json) — 画像・動画・音楽・音声や3Dモデル、スライドを制作。
+- [Ruwana](ruwana_2026-11-22.json) — 素材や企画から広告・写真・映像などの制作を支援。
+- [RiffAds](riffads_2026-11-22.json) — AI出演者を使った動画広告と画像・音声の制作や編集。
+- [Cyber AI](cyber_ai_2026-11-22.json) — 画像・動画・音楽・音声や3Dモデルをアカウントの残高で生成。
+- [Shorts Generator](shorts_generator_2026-11-22.json) — 企画文や最大4枚の静止画から15秒動画を制作・仕上げ。
+- [FXI Studio](fxi_studio_2026-11-22.json) — 静止画や動画を生成し、複数ショットをつないだ映像を制作。
+- [Canvora](canvora_2026-11-22.json) — ブランドの設定を使い、SNS投稿や広告・資料向け画像を制作。
+- [SkeuDesign](skeudesign_2026-11-22.json) — アイコン素材を検索・比較し、利用可能なPNGを出力。
+- [Generate Greetings](generate_greetings_2026-11-22.json) — 祝い事などの挨拶文やカードを13言語で作成。
+
 ## 一覧本体との照合
 
 [名称照合の記録](catalog_name_audit_2026-11-14.json) — 詳細35件と作業ブランチの一覧3,941件を比較。34件は名前が一致、Palimpsestは一致なし。名前の一致は同一性の確定ではない。個々のJSONにある旧「照合未確認」の記載は調査時点の記録で、最新の照合結果はこの記録を参照。
