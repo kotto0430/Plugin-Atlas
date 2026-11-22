@@ -1,0 +1,22 @@
+{
+  "official_app_name": "Theme Emporium",
+  "provider": "ROMAN ADRIASHKIN",
+  "version": "1.1.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a0f9fc49c288191bc8de2df636848e9?category=creativity",
+  "observed_at": "2026-11-23",
+  "original_description": "Theme Emporium offers curated premium UI themes, design token inspection and non-persistent visual previews. Inside ChatGPT, ask it to apply a catalog theme or change typography, button color, text color and background of the Theme Emporium embedded widget. Your selections are local to the widget, not stored across chats, and this plugin cannot modify the surrounding ChatGPT interface.",
+  "summary_ja": "UIテーマやデザイントークンを確認し、専用ウィジェット内で配色などを試す。",
+  "usage_tags": [
+    "UIデザイン",
+    "配色",
+    "テーマ"
+  ],
+  "limitations": [
+    "選択はウィジェット内のみでチャットをまたいで保存されず、ChatGPT本体の画面は変更できない。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
