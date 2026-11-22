@@ -916,3 +916,10 @@ Gigapixel AI の本文はアカウントなしで2倍が可能で、それより
 WFI — WhatFontIs、BlockGPT、getimg、SC Adelsdorf Matchreporter、OceanToken、Lazybird、Runchat、Revid、Pretty、appdesigns の公式説明・出典・要約・用途・確認状況を記録。SC Adelsdorf Matchreporter の原文はドイツ語。前回435件から10件増えて詳細ファイル累計445件。実動作・料金・一覧本体との照合は未検証。接続・インストール・投稿等は行っていない。
 
 次回はクリエイティブ一覧の appdesigns 隣の Cav 付近から、既存記録との重複を確認して再開。表示順は変わる可能性がある。Gigapixel AI の倍率の説明の相違は前回記録どおり未確定。
+
+
+### 詳細調査（2026-11-23、クリエイティブ7件）
+
+Cav、TrackGleam、Tatty — Tattoo ideas & design、Kombai、AI Video Maker Gem、YouWorkForThem、WizPrompt Studio の公式説明・出典・要約・用途・確認状況を記録。詳細ファイルは前回445件から7件増え累計452件。実動作・料金・一覧本体との照合は未検証。接続・インストール・設定変更は行っていない。
+
+一覧の続きへのスクロール操作でウィンドウ座標のエラーが発生したため、7件で停止。次回はクリエイティブ一覧の WizPrompt Studio 付近を再確認し、その次の候補から既存記録との重複を確認して再開する。表示順は変わる可能性がある。
