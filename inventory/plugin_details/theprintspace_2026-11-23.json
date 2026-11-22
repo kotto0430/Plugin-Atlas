@@ -1,0 +1,23 @@
+{
+  "official_app_name": "theprintspace",
+  "provider": "theprintspace",
+  "version": "1.1.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ab5b59a76108191981745685db9bbae?category=creativity",
+  "observed_at": "2026-11-23",
+  "original_description": "theprintspace is a fine-art printing studio: archival giclée prints on Hahnemühle and other fine-art papers, framing in black, white or oak, and mounting on aluminium, Dibond and acrylic — made to order in our own studios in London, New York and Berlin and shipped worldwide. Photographers and artists use it for art prints, C-type photo prints and framed prints of their own work.\n\nThis plugin orders from theprintspace by chat. Orders go through Creative Hub, theprintspace's online ordering platform, so sign in with your Creative Hub account (create one at order.creativehub.io) and the assistant can:\n• Show your image library as a visual picker, or take a new image — uploaded in the chat, attached to the message, or linked from Dropbox, Google Drive or OneDrive.\n• Design the print: size, paper, borders, and a frame or mount, with the production rules applied so only what we can make is shown.\n• Show you a rendered preview of the finished piece — paper, mount and moulding to scale on a wall — with the delivery options and VAT for your country.\n• Place the order. A saved card is charged; otherwise you pay on a secure Stripe page, which also saves your card for next time. 3-D Secure is handed to you, never bypassed.\n• Check order status, invoices and tracking.\n\nNothing is ordered without your explicit yes, and every order is confirmed by our servers before anything is charged.",
+  "summary_ja": "写真や作品の印刷・額装を設定し注文する。",
+  "usage_tags": [
+    "印刷",
+    "写真",
+    "アート"
+  ],
+  "limitations": [
+    "注文にはCreative Hubアカウントが必要。注文と支払いは行っていない。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証",
+    "説明だけでは不明"
+  ]
+}
