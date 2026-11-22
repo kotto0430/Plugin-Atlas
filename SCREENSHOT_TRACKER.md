@@ -874,3 +874,10 @@ LYRCの主説明は楽曲をチャット内で追加できるとする一方、�
 [NameSTL](inventory/plugin_details/namestl_2026-11-22.json)、[QynTro AI](inventory/plugin_details/qyntro_ai_2026-11-22.json)、[Ruwana](inventory/plugin_details/ruwana_2026-11-22.json)、[RiffAds](inventory/plugin_details/riffads_2026-11-22.json)、[Cyber AI](inventory/plugin_details/cyber_ai_2026-11-22.json)、[Shorts Generator](inventory/plugin_details/shorts_generator_2026-11-22.json)、[FXI Studio](inventory/plugin_details/fxi_studio_2026-11-22.json)、[Canvora](inventory/plugin_details/canvora_2026-11-22.json)、[SkeuDesign](inventory/plugin_details/skeudesign_2026-11-22.json)、[Generate Greetings](inventory/plugin_details/generate_greetings_2026-11-22.json)の正式名・提供元・版・説明原文・日本語要約・用途タグ・確認状況と出典を記録。アクセシビリティ情報を主に利用。NameSTLの書き出し権限、QynTro AI・Cyber AIのアカウントと課金条件、SkeuDesignの利用可能範囲、Generate Greetingsの透かし・リンク期限などを記録。実動作・料金・一覧本体との照合は未検証。前回388ファイルから10件増の累計398ファイルで、一覧本体の件数とは別。
 
 次回はクリエイティブ一覧のGenerate Greetings隣のMcSill Ultra 5.0から詳細索引と照合して再開。作業ブランチのみ更新、main・本番未変更。
+
+
+### 詳細調査（2026-11-22、クリエイティブ10件）
+
+[McSill Ultra 5.0](inventory/plugin_details/mcsill_ultra_5_0_2026-11-22.json)、[AI Video Enhancer Studio](inventory/plugin_details/ai_video_enhancer_studio_2026-11-22.json)、[Namsiang Thai Voice](inventory/plugin_details/namsiang_thai_voice_2026-11-22.json)、[APODICTIC Development Editor](inventory/plugin_details/apodictic_development_editor_2026-11-22.json)、[UnifyAI](inventory/plugin_details/unifyai_2026-11-22.json)、[SMC Schrijversstem](inventory/plugin_details/smc_schrijversstem_2026-11-22.json)、[Scribe Animator Director](inventory/plugin_details/scribe_animator_director_2026-11-22.json)、[WebCAD](inventory/plugin_details/webcad_2026-11-22.json)、[Eden](inventory/plugin_details/eden_2026-11-22.json)、[3D Website Creator](inventory/plugin_details/3d_website_creator_2026-11-22.json)の正式名・提供元・版・説明原文・日本語要約・用途タグ・確認状況と出典を記録。アクセシビリティ情報を主に利用し、SMC Schrijversstemのオランダ語原文を保存。WebCADの構築PASSと安全性確認の区別、動画補正ツールの環境要件、Edenのアカウント・クレジット条件などを記録。実動作・料金・一覧本体との照合は未検証。前回398ファイルから10件増の累計408ファイルで、一覧本体の件数とは別。
+
+次回はクリエイティブ一覧の3D Website Creator隣のBildyから詳細索引と照合して再開。作業ブランチのみ更新、main・本番未変更。
