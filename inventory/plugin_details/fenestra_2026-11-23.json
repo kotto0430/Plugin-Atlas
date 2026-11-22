@@ -1,0 +1,23 @@
+{
+  "official_app_name": "Fenestra",
+  "provider": "Designtree AI LLC",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac4af043abc81918fdc4309664e3e54?category=creativity",
+  "observed_at": "2026-11-23",
+  "original_description": "Fenestra brings architectural rendering into ChatGPT. Share a hand sketch, a screenshot from SketchUp, Rhino or Revit, a massing model, or a photo of a building, room or garden. Say what you want, and Fenestra returns a finished render in the conversation.\n\nWhat you can do:\n• Render a sketch or a 3D screenshot as a photoreal image that keeps your geometry and camera.\n• Edit a render or a photo: change the time of day, season, materials, furniture or planting while the design stays as it is.\n• Enhance an image to 2K or 4K for a client presentation without redrawing the design.\n• Animate a render into a short video with a camera move, or from your original image to the finished render.\n• Roast a design: a score, a verdict and three pointed notes, followed by a render that fixes them.\n\nEvery result appears in a Fenestra card beside the image you started from, so you can compare the two side by side or with a slider. Results are saved to your Fenestra account, so you can open them in Fenestra and keep working. The card shows which project and workspace your work goes to, and you can change either from the card or by asking.\n\nFenestra is built for architects, interior designers and landscape designers. It follows the composition of your drawing instead of inventing a new building, and it keeps every image and video you make in one place.\n\nRenders and videos use the credits in your Fenestra account. You sign in with your Fenestra account the first time you connect, and you can create one during that sign-in.",
+  "summary_ja": "建築スケッチや画像からパースを作成・編集する。",
+  "usage_tags": [
+    "建築",
+    "インテリア",
+    "画像生成"
+  ],
+  "limitations": [
+    "レンダリングと動画にはFenestraアカウントのクレジットを使用する。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証",
+    "説明だけでは不明"
+  ]
+}
