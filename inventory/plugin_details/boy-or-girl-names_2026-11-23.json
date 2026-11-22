@@ -1,0 +1,23 @@
+{
+  "official_app_name": "Boy or Girl Names",
+  "provider": "NICOLAE MATIES",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ab82582de38819194d609d9125e5920?category=creativity",
+  "observed_at": "2026-11-23",
+  "original_description": "Boy or Girl Names helps you browse baby names and try the site's name tools. Search boy, girl, unique, or gender-neutral names by letter or by the start of a name, including names used in a country. Draw random names from the popular boy and girl lists. Read the Chinese gender calendar from a conception date, the calendar-month gender chart, and the Chinese zodiac for a birth date. Chart results are folklore from the public pages, not a medical test. The plugin does not store the dates you enter and does not give name meanings.",
+  "summary_ja": "頭文字などを指定して赤ちゃんの名前を探す。",
+  "usage_tags": [
+    "名付け",
+    "名前検索"
+  ],
+  "limitations": [
+    "暦の結果は民間伝承であり医学的な検査ではない。",
+    "入力日付を保存しないという説明は未検証。名前の意味は提供しない。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証",
+    "説明だけでは不明"
+  ]
+}
