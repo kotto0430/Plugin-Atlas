@@ -1,0 +1,21 @@
+{
+  "official_app_name": "AVSBL Website Builder",
+  "provider": "AVSBL LIMITED",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6abc1db801fc8191adb36b4a82e830e4?category=creativity",
+  "observed_at": "2026-11-23",
+  "original_description": "Connect your AVSBL account to create and edit saved website drafts through ChatGPT. Describe your business and ask for pages, sections, text, colours, buttons, or image placement. ChatGPT uses AVSBL’s existing builder options, and you can continue editing in AVSBL. The plugin can read your draft and approved project images, import images you choose to attach, and save supported draft changes. It cannot publish a website; you review and publish manually in AVSBL. An AVSBL account with website access is required.",
+  "summary_ja": "AVSBLのウェブサイト下書きを会話で作成・編集する。",
+  "usage_tags": [
+    "Web制作",
+    "サイト編集"
+  ],
+  "limitations": [
+    "ウェブサイトへのアクセス権を持つAVSBLアカウントが必要。公開はAVSBLで手動実施。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
