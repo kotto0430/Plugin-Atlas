@@ -581,6 +581,17 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 - [Raylight](raylight_2026-11-23.json) — Raylightのブラウザ編集画面で製品紹介やアプリ紹介の動画を制作・編集する。
 - [Designelier](designelier_2026-11-23.json) — 統一したスタイルのアイコンや小さなイラストのセットを生成する。
 
+- [Renoise](renoise_2026-11-23.json) — 広告や短編などの動画・画像・音楽の生成と素材分析を支援する。
+- [Theme Emporium](theme-emporium_2026-11-23.json) — UIテーマやデザイントークンを確認し、専用ウィジェット内で配色などを試す。
+- [OpenClip](openclip_2026-11-23.json) — 動画から共有向けの場面を探し、字幕を付けて書き出す。
+- [RoomLab.app](roomlab-app_2026-11-23.json) — 室内・物件写真から家具配置や内装変更のイメージを作る。
+- [KozyGrid](kozygrid_2026-11-23.json) — アイデアや画像から太い糸のブランケット用の編み図を作り、編集する。
+- [GoFaceless](gofaceless_2026-11-23.json) — 写真とテンプレートを使った短い動画や顔出しなしの動画を制作する。
+- [SoeMind](soemind_2026-11-23.json) — 小規模事業向けに広告動画・商品画像・音声などを制作する。
+- [PrintNexus Toolbox](printnexus-toolbox_2026-11-23.json) — 画像から単色の平らなリソフェイン用3Dモデルを作成する。
+- [style-my-space.com](style-my-space-com_2026-11-23.json) — 写真や説明から、予算に応じた部屋の模様替えや買い物の計画を提案する。
+- [Rephrasy](rephrasy_2026-11-23.json) — AIで書いた下書きの表現を調整し、読みやすさを確認する。
+
 ## 一覧本体との照合
 
 [名称照合の記録](catalog_name_audit_2026-11-14.json) — 詳細35件と作業ブランチの一覧3,941件を比較。34件は名前が一致、Palimpsestは一致なし。名前の一致は同一性の確定ではない。個々のJSONにある旧「照合未確認」の記載は調査時点の記録で、最新の照合結果はこの記録を参照。
