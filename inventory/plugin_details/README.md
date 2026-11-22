@@ -475,6 +475,12 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 - [About Me – AI Life Box](about_me_ai_life_box_2026-11-22.json) — 自分を表す物を詰めた箱の画像を作成。原文はベトナム語。
 - [PartForge](partforge_2026-11-22.json) — 3Dプリント用部品の設計を支援。データ共有範囲は未確認。
 
+- [MapPoster](mapposter_2026-11-22.json) — 思い出の場所を使った地図ポスターを制作。
+- [Hermoso: AI Marketing Agent](hermoso_ai_marketing_agent_2026-11-22.json) — 広告制作・競合調査・SNS投稿や広告運用を支援。
+- [Insurance Agent Content Studio](insurance_agent_content_studio_2026-11-22.json) — 保険代理店向けSNS投稿やキャンペーンの制作を支援。
+- [Tattoos Wizard](tattoos_wizard_2026-11-22.json) — タトゥーの料金目安や彫師、ケア情報を検索。
+- [LYRC](lyrc_2026-11-22.json) — 楽曲から歌詞付き動画を制作。楽曲の追加方法には説明の相違あり。
+
 ## 一覧本体との照合
 
 [名称照合の記録](catalog_name_audit_2026-11-14.json) — 詳細35件と作業ブランチの一覧3,941件を比較。34件は名前が一致、Palimpsestは一致なし。名前の一致は同一性の確定ではない。個々のJSONにある旧「照合未確認」の記載は調査時点の記録で、最新の照合結果はこの記録を参照。
