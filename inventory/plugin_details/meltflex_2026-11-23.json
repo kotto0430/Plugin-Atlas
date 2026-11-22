@@ -1,0 +1,22 @@
+{
+  "official_app_name": "MeltFlex",
+  "provider": "MeltFlex",
+  "version": "1.0.5",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac214f3a2c88191bd6d031a6aed3fe3?category=creativity",
+  "observed_at": "2026-11-23",
+  "original_description": "Redesign real rooms from a single photo with MeltFlex in ChatGPT. Send a photo of a room, kitchen, bathroom, facade or garden, pick a style from the preset gallery or describe the change, and get back a photorealistic render that keeps the walls, windows and doors where they are. Refine the result through conversation.\n\nWith MeltFlex, you can:\n• Browse 15 design tools and over 200 style presets with pictures, or jump in with /kitchen, /bathroom, /exterior, /garden, /walls, /floors, /stairs, /doors, /windows, /home-office, /closet, /coffee-shop and /restaurant.\n• Restyle any room and compare two or three looks side by side.\n• Furnish an empty room for a property listing with realistic virtual staging.\n• Place an exact real product, such as a sofa, rug or tile, into your own room from its photo.\n• Turn a render into a short cinematic walkthrough video for listings, Reels or TikTok.\n• Turn a photo of a single furniture piece into a textured 3D model you can download as GLB.\nConnect your MeltFlex account to get started.",
+  "summary_ja": "室内や外観の写真からデザイン案を作り、仮想家具配置や動画化を支援する。",
+  "usage_tags": [
+    "インテリア",
+    "建築",
+    "3D"
+  ],
+  "limitations": [
+    "利用開始にはMeltFlexアカウントの接続が必要。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
