@@ -1,0 +1,21 @@
+{
+  "official_app_name": "PrintNexus Toolbox",
+  "provider": "Nexus Labs",
+  "version": "0.4.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac057b730048191bdd9101e7af9c262?category=creativity",
+  "observed_at": "2026-11-23",
+  "original_description": "PrintNexus Toolbox brings 3D printing tools into ChatGPT for makers and 3D printing enthusiasts.\n\nWith Lithophane Maker, turn an image into a flat lithophane: a thin 3D printed plate that reveals the image when light shines through it. Set the width in millimeters, inspect the model in an interactive 3D preview, and compare lit and backlit views. Download your model as an STL or 3MF file.\n\nThe current release supports flat lithophanes printed in one color. More 3D printing tools are planned for future updates.",
+  "summary_ja": "画像から単色の平らなリソフェイン用3Dモデルを作成する。",
+  "usage_tags": [
+    "3Dプリント",
+    "3Dモデル"
+  ],
+  "limitations": [
+    "現行版の対応は単色の平面リソフェイン。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
