@@ -1,0 +1,23 @@
+{
+  "official_app_name": "About Me – AI Life Box",
+  "provider": "Tin Doan",
+  "version": "0.1.2",
+  "source_url": "https://chatgpt.com/plugins/plugins_6ab3bc2ff0748191beabb995f8946315?search=About+Me+%E2%80%93+AI+Life+Box",
+  "observed_at": "2026-11-22",
+  "original_description": "Tạo ảnh chiếc hộp kim loại chứa các vật thể đại diện cho công việc, sở thích, tính cách và điều quan trọng với bạn.",
+  "description_language": "ベトナム語",
+  "summary_ja": "仕事や趣味、性格などを表す物を詰めた金属の箱の画像を作る。",
+  "usage_tags": [
+    "画像制作",
+    "自己紹介",
+    "ジオラマ"
+  ],
+  "limitations": [
+    "原文はベトナム語。",
+    "実動作・対応言語・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
