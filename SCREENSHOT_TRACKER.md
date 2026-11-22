@@ -930,3 +930,10 @@ Cav、TrackGleam、Tatty — Tattoo ideas & design、Kombai、AI Video Maker Gem
 AVSBL Website Builder、Gradients Studio、Dịch Anh Việt、MeltFlex、Mondovo の公式説明、出典、日本語要約、用途タグ、利用条件と確認状況を記録。Dịch Anh Việt の原文はベトナム語。詳細ファイルは前回452件から5件増え累計457件。実動作・料金・一覧本体との照合は未検証。接続・インストール・設定変更・公開は行っていない。
 
 Moon & Star Map の検索結果読み込みが操作の確認に間に合わず、結果なしエラーとなったため5件で停止。その後、検索結果の同名項目の表示を確認したが詳細は未処理。次回は Moon & Star Map から既存記録との重複を確認して再開する。
+
+
+### 詳細調査（2026-11-23、クリエイティブ7件・説明の相違）
+
+Moon & Star Map、Daydream、Your Color Palette、Fablyn、ScoreStarling、Raylight、Designelier の公式説明・出典・日本語要約・用途と確認状況を記録。前回457件から7件増え、詳細ファイルは累計464件。実動作・料金・一覧本体との照合は未検証。接続・インストール・設定変更・公開は行っていない。
+
+Designelier の本文は一部スタイルで編集可能なパスを持つトレース済みSVGを提供すると記載。一方、アプリ欄はSVGに編集可能なベクターパスはなく、ベクターのトレースもしないと説明しており、実際の提供範囲は未確認。両方の原文を保存し、7件で停止。次回はクリエイティブ一覧の Designelier 隣の Renoise 付近から重複を確認して再開する。表示順は変わる可能性がある。
