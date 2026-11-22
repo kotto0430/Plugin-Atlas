@@ -902,3 +902,10 @@ Syllabyの本文はサインインページで新規アカウント作成もで�
 Rainbrand、BusbySim、Sleek、Agent-Native Design、Outfit Preview: Virtual Try-On、Boy or Girl Names、Samautomation Video、Segmind、KDP Coloring Book Studio、varg.ai の公式説明を確認し、詳細JSONと索引を追加。詳細ファイルは前回417件から10件増えて計427件。実動作・料金・一覧本体との照合は未検証。接続・インストールは行っていない。
 
 次回はクリエイティブ一覧の varg.ai の次に表示された ShareCube 付近から、既存記録との重複を確認して再開する。表示順は変わる可能性がある。
+
+
+### 詳細調査（2026-11-23、クリエイティブ8件）
+
+ShareCube、QuickStage、Fenestra、AI Video Maker – Dora、Inspire by KGL、theprintspace、NOLGIA、Gigapixel AI の公式説明と詳細JSONを保存。前回427件から8件増え詳細ファイルは累計435件。実動作・料金・一覧本体との照合は未検証。接続・インストール・注文は行っていない。
+
+Gigapixel AI の本文はアカウントなしで2倍が可能で、それより大きな倍率は接続が必要と説明する一方、アプリ欄はStandardの2倍・4倍が接続不要と記載。両方を記録し実際の条件は未確定としたため、今回のバッチは8件で停止。次回はこの相違の扱いを維持しつつ、クリエイティブ一覧の Gigapixel AI 隣の WFI — WhatFontIs 付近から既存記録との重複を確認して再開する。表示順は変わる可能性がある。
