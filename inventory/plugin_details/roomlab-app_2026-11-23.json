@@ -1,0 +1,22 @@
+{
+  "official_app_name": "RoomLab.app",
+  "provider": "Sirapul Nova SL",
+  "version": "1.0.2",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac484c617f88191821284bd8dfb8a8d?category=creativity",
+  "observed_at": "2026-11-23",
+  "original_description": "RoomLab.app helps homeowners, interior designers, and real estate professionals visualize changes to rooms and properties using images they provide. Use Virtual Staging to furnish an empty room, Change Style to restyle a furnished room, Declutter Room to remove clutter, or Empty Room to remove furniture. Use Replace Furniture or Replace Material with a reference image, and Wall Colors to compare nine paint colors. Create an Interior Architectural Render or Exterior Architectural Render from a design image. Use Video Walkthrough to animate one photo, Video Transition to animate between two images, or House Tour to combine three to six room images. You can also make an existing RoomLab.app result 4K. Connect an existing RoomLab.app account and provide the images needed for your request. Available actions depend on your connected account's access. Results are visualizations, not construction plans or measurements.",
+  "summary_ja": "室内・物件写真から家具配置や内装変更のイメージを作る。",
+  "usage_tags": [
+    "インテリア",
+    "不動産",
+    "画像編集"
+  ],
+  "limitations": [
+    "既存アカウントの接続が必要。出力はイメージであり施工図や寸法ではない。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
