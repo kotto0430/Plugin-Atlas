@@ -484,6 +484,17 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 - [ModRetro Chromatic Plugin](modretro_chromatic_plugin_2026-11-22.json) — CodexでChromatic向けゲームを制作し、対応カートリッジへの書き込みを支援。
 - [Crealix](crealix_2026-11-22.json) — アイデアや台本から音声・字幕・音楽付き動画を制作。クレジットを使用。
 
+- [esigna](esigna_2026-11-22.json) — メール署名をデザインし、プレビューや編集を行う。
+- [Super Map World](super_map_world_2026-11-22.json) — 世界や国の地図画像を投影法や色、境界などで検索。
+- [Pray Production Studio](pray_production_studio_2026-11-22.json) — 映像プロジェクトの検索や予告編の企画・生成を支援。
+- [Lovart](lovart_2026-11-22.json) — 文章や参考画像から画像・動画を生成し、画像を編集。
+- [Polymend](polymend_2026-11-22.json) — 3Dモデルを点検・修復し、印刷用のSTLと3MFを出力。
+- [3D CAD Converter](3d_cad_converter_2026-11-22.json) — Windows上でCAD・3Dファイルの形式変換を支援。
+- [SignalGrade](signalgrade_2026-11-22.json) — 楽曲の音量・周波数・ステレオなどを分析し、参考音源と比較。
+- [Doublespeed](doublespeed_2026-11-22.json) — SNS向け動画やカルーセルを作り、投稿の予約や下書き共有を支援。
+- [Human Prose Editor](human_prose_editor_2026-11-22.json) — 書き手の文体や意味を保ちながら、文章の構造や表現を見直す。
+- [ViewMax](viewmax_2026-11-22.json) — 企画文から動画・画像・ナレーション・音楽や効果音を生成。
+
 ## 一覧本体との照合
 
 [名称照合の記録](catalog_name_audit_2026-11-14.json) — 詳細35件と作業ブランチの一覧3,941件を比較。34件は名前が一致、Palimpsestは一致なし。名前の一致は同一性の確定ではない。個々のJSONにある旧「照合未確認」の記載は調査時点の記録で、最新の照合結果はこの記録を参照。
