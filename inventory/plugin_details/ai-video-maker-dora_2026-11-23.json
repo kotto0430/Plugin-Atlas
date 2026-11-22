@@ -1,0 +1,22 @@
+{
+  "official_app_name": "AI Video Maker – Dora",
+  "provider": "Saga Labs",
+  "version": "1.1.4",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac7e595853c8191baefac6a3a2b9c24?category=creativity",
+  "observed_at": "2026-11-23",
+  "original_description": "Create short AI videos and images from a text description or a photo.\n\nDescribe a scene, or attach a photo, and Dora brings it to life: you in an 80s yearbook portrait, your pet running on a beach, a product that spins, a painting that starts to move.\n\nTry:\n• \"Make a video of my dog running through snow\" with a photo attached\n• \"Turn this selfie into a classical oil painting that comes to life\"\n• \"A vertical video of steam rising from a coffee cup by a rainy window\"\n• \"A square image of a cozy bookshop at night\"\n• \"Animate this photo with a slow zoom and falling snow\"\n• \"Make a vertical video of a sunrise over the ocean\"\n\nWhat you can do:\n• Bring a photo you attach to life as a short video\n• Create images from a description or a reference photo\n• Use the same reference photos across a series of clips\n• Choose vertical, horizontal or square\n\nGenerating uses your Dora account. Sign in once; what you make is also saved to your gallery at doravideo.com.\n\nDora does not create sexual content, content involving minors, or graphic violence.",
+  "summary_ja": "文章や写真から短い動画や画像を作る。",
+  "usage_tags": [
+    "動画生成",
+    "画像生成"
+  ],
+  "limitations": [
+    "生成にはDoraアカウントを使用し、作品はサービスのギャラリーにも保存される。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証",
+    "説明だけでは不明"
+  ]
+}
