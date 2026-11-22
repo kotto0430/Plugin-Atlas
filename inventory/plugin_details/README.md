@@ -559,6 +559,14 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 - [Pretty](pretty_2026-11-23.json) — 資料や指示からPowerPoint用プレゼンを作成・修正する。
 - [appdesigns](appdesigns_2026-11-23.json) — アプリ画面からストア掲載用スクリーンショットを作る。
 
+- [Cav](cav_2026-11-23.json) — Cavalryでモーショングラフィックスの制作・レンダリングを支援する。
+- [TrackGleam](trackgleam_2026-11-23.json) — 楽曲の音量や音質の確認と公開準備を支援し、外部の制作ツールへ案内する。
+- [Tatty — Tattoo ideas & design](tatty-tattoo-ideas-design_2026-11-23.json) — タトゥーの参考例を探し、オリジナルのデザイン案を作成・修正する。
+- [Kombai](kombai_2026-11-23.json) — Codexでページや製品UIのデザイン案を作り、編集可能なキャンバスで比較・修正する。
+- [AI Video Maker Gem](ai-video-maker-gem_2026-11-23.json) — 文章や参考画像・動画から動画を生成し、編集・延長する。
+- [YouWorkForThem](youworkforthem_2026-11-23.json) — フォント・グラフィック・写真を検索し、類似フォントや素材の詳細を確認する。
+- [WizPrompt Studio](wizprompt-studio_2026-11-23.json) — 楽曲のアイデアから音楽生成用のプロンプトや歌詞を作り、企画や版を管理する。
+
 ## 一覧本体との照合
 
 [名称照合の記録](catalog_name_audit_2026-11-14.json) — 詳細35件と作業ブランチの一覧3,941件を比較。34件は名前が一致、Palimpsestは一致なし。名前の一致は同一性の確定ではない。個々のJSONにある旧「照合未確認」の記載は調査時点の記録で、最新の照合結果はこの記録を参照。
