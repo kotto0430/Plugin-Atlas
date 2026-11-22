@@ -1,0 +1,22 @@
+{
+  "official_app_name": "Moon & Star Map",
+  "provider": "Zovo",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac0da6ee20081919b6ba872902a5e87?category=creativity",
+  "observed_at": "2026-11-23",
+  "original_description": "See the real Moon and the real night sky for the dates that matter: a birthday, a wedding, the night you met.\n\nMoon & Star Map computes the Moon phase for any date from 1800 to 2200 with astronomical algorithms (Jean Meeus): the phase name, the exact illumination percentage, the moon age in days, whether it was waxing or waning, the exact times of the new, quarter and full moons, and the next full and new moon. Give two birthdays and it tells you whether your moons \"complete each other\" (half a lunar cycle apart, so one moon's light fills the other's shadow), with a match score and an honest explanation. Ask for a month and you get a moon phase calendar with every day drawn.\n\nFor a star map, name a city, a date and a local time. Time zones and daylight saving time are handled for you, and the city match is stated in the reply. The map shows about 2,900 stars from the Yale Bright Star Catalog sized by brightness, the constellation lines, the horizon, the cardinal points and the Moon in its real position and phase. You see a live preview, can switch between four styles (midnight, black, paper, ink) and toggle lines and labels, then download vector poster PDFs at 12x18 in, 18x24 in, A3, US Letter and A4 (with 0.125 in print bleed), an SVG, and a share page anyone can open.\n\nMoon posters: one date's moon as a large print, two dates side by side for couples, or a lunar calendar of a whole year.\n\nGood for anniversary, wedding, birthday and new-baby keepsakes, classroom moon charts, and answering \"what was the moon on the day I was born?\".\n\nAccuracy: moon illumination matches an independent ephemeris within 0.5 percentage points and phase times within about a minute for 1900-2100; star positions match within 0.1 degree.\n\nLimitations: decorative keepsakes, not for navigation or telescope pointing. Planets, the Milky Way and eclipses are not drawn. Cities come from a list of about 11,000 places; give a nearby larger city if yours is missing. PDF text covers Latin, Greek and Cyrillic letters; Chinese, Japanese and Korean titles appear in the SVG only.\n\nData: GeoNames (CC BY 4.0), Yale Bright Star Catalog, constellation lines from d3-celestial by Olaf Frohn (BSD-3-Clause), astronomia (MIT).",
+  "summary_ja": "指定した日時の月相や星空を確認し、記念用のポスターを作る。",
+  "usage_tags": [
+    "星空",
+    "月相",
+    "ポスター"
+  ],
+  "limitations": [
+    "装飾用で航法や望遠鏡の方向決めには使えない。日本語タイトルはSVGのみ対応と説明されている。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
