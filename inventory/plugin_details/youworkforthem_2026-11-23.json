@@ -1,0 +1,21 @@
+{
+  "official_app_name": "YouWorkForThem",
+  "provider": "YouWorkForThem",
+  "version": "0.1.1",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6abf197abfa48191a414d551ba5935c2?category=creativity",
+  "observed_at": "2026-11-23",
+  "original_description": "Discover fonts, graphics, and photos from YouWorkForThem. Search by visual style or subject, explore product previews and designer details, and find visually similar fonts. Browse real catalog results through interactive cards for creative inspiration, with optional links to view more on YouWorkForThem.",
+  "summary_ja": "フォント・グラフィック・写真を検索し、類似フォントや素材の詳細を確認する。",
+  "usage_tags": [
+    "フォント",
+    "素材検索",
+    "デザイン"
+  ],
+  "limitations": [
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
