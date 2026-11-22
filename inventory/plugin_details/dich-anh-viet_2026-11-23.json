@@ -1,0 +1,22 @@
+{
+  "official_app_name": "Dịch Anh Việt",
+  "provider": "HOANG LE PHUC",
+  "version": "0.13.4",
+  "source_url": "https://chatgpt.com/plugins/plugins_6aca32adece481919f92d4d10d4c4d30?category=creativity",
+  "observed_at": "2026-11-23",
+  "original_description": "Trợ lý dịch Anh–Việt hai chiều cho nhân viên y tế và người học. Hỗ trợ bản dịch đối chiếu hai cột, giải thích từ nguyên và cấu tạo thuật ngữ, ví dụ trong ngữ cảnh lâm sàng, hiệu đính học thuật và luyện 4 kỹ năng OET; chú trọng độ chính xác và kiểm chứng nguồn.",
+  "summary_ja": "医療従事者や学習者向けに英語・ベトナム語の翻訳や用語学習、OET練習を支援する。",
+  "usage_tags": [
+    "翻訳",
+    "語学学習",
+    "医療用語"
+  ],
+  "limitations": [
+    "公式説明原文はベトナム語。翻訳精度や医学的な正確性は未検証。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
