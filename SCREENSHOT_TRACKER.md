@@ -860,3 +860,10 @@ LYRCの主説明は楽曲をチャット内で追加できるとする一方、�
 [ModRetro Chromatic Plugin](inventory/plugin_details/modretro_chromatic_plugin_2026-11-22.json)、[Crealix](inventory/plugin_details/crealix_2026-11-22.json)の正式名・提供元・版・英文説明・日本語要約・用途・確認状況と出典を記録。アクセシビリティ情報を主に利用。ModRetroはカートリッジのキー条件、Crealixはクレジット使用の説明を保存。実動作・料金・一覧本体との照合は未検証。前回376ファイルから2件増の累計378ファイルで、一覧本体の件数とは別。
 
 一覧内で次の位置を探す途中、Computer UseがWindows上の現在のブラウザーURLを安全確認に十分な確信をもって特定できず画面操作を停止。次回はクリエイティブ一覧でCrealixの次から、一覧と詳細索引を照合して再開。作業ブランチのみ更新、main・本番未変更。
+
+
+### 詳細調査（2026-11-22、クリエイティブ10件）
+
+[esigna](inventory/plugin_details/esigna_2026-11-22.json)、[Super Map World](inventory/plugin_details/super_map_world_2026-11-22.json)、[Pray Production Studio](inventory/plugin_details/pray_production_studio_2026-11-22.json)、[Lovart](inventory/plugin_details/lovart_2026-11-22.json)、[Polymend](inventory/plugin_details/polymend_2026-11-22.json)、[3D CAD Converter](inventory/plugin_details/3d_cad_converter_2026-11-22.json)、[SignalGrade](inventory/plugin_details/signalgrade_2026-11-22.json)、[Doublespeed](inventory/plugin_details/doublespeed_2026-11-22.json)、[Human Prose Editor](inventory/plugin_details/human_prose_editor_2026-11-22.json)、[ViewMax](inventory/plugin_details/viewmax_2026-11-22.json)の正式名・提供元・版・英文説明・日本語要約・用途・確認状況と出典を記録。アクセシビリティ情報を主に利用。地図素材のライセンス、PPSのクレジット、Polymendと3D CAD Converterのローカル動作・環境要件、ViewMaxのアカウント条件などを説明として保存。実動作・料金・一覧本体との照合は未検証。前回378ファイルから10件増の累計388ファイルで、一覧本体の件数とは別。
+
+次回はクリエイティブ一覧のViewMax隣のNameSTLから詳細索引と照合して再開。作業ブランチのみ更新、main・本番未変更。
