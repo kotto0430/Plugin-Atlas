@@ -1,0 +1,21 @@
+{
+  "official_app_name": "Raylight",
+  "provider": "Frames of Motion Inc.",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac933d5aeb48191ad41c01556e1cf70?category=creativity",
+  "observed_at": "2026-11-23",
+  "original_description": "Raylight lets ChatGPT make and edit motion design videos for you: product videos, launch videos, and app demos, built in Raylight's browser editor with real 3D camera moves, device frames, lighting, typography, and sound. ChatGPT works inside your open Raylight project the way a motion designer would.\n\nChatGPT reads your project (shots, layers, colors, fonts, timing), makes edits in batches, then renders real frames of the result to check its own work and fix what reads wrong. Every change appears on your canvas as it happens and is undoable like your own edits. Hand it screenshots, logos, video clips, or audio and it places them; ask for a template and it starts from one of Raylight's official motion templates and swaps in your copy and media.\n\nWhat people use it for: turning a few screenshots into a launch video, animating a headline and a push-in, scoring cuts with library sound, making an existing video match a brand, reviewing a shot and tightening its timing.\n\nHow it works: open your project at raylight.app, ask ChatGPT for a change, watch it happen. Edits and renders run through your open editor tab, so the tab stays open while ChatGPT works (it does not need to be visible). Exports and share links come from Raylight itself.\n\nRequires a Raylight account, which you can create from the sign-in screen when you connect. Every tool and example prompts: raylight.app/mcp/docs.",
+  "summary_ja": "Raylightのブラウザ編集画面で製品紹介やアプリ紹介の動画を制作・編集する。",
+  "usage_tags": [
+    "動画制作",
+    "モーショングラフィックス"
+  ],
+  "limitations": [
+    "Raylightアカウントが必要で、編集時はエディターのタブを開いておく必要がある。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
