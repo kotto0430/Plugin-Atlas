@@ -1,0 +1,23 @@
+{
+  "official_app_name": "Outfit Preview: Virtual Try-On",
+  "provider": "Firemoon Studio",
+  "version": "1.0.1",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6abf5968aeac8191a0b899ac5a326dde?category=creativity",
+  "observed_at": "2026-11-23",
+  "original_description": "Try on clothes in your own photo before you buy. Explore fashion and style ideas, preview outfits, and see how an attached dress, shirt, jacket or other garment could look on you. Upload a person photo and a separate clothing photo to create a virtual try-on, then compare the original and generated result inline with fullscreen and download controls. A connected Firemoon account is required. Results are visual concepts: garment details and identity may change, and the app cannot determine body measurements, clothing size, physical fit or how an item will actually look or feel.",
+  "summary_ja": "人物写真と衣服の写真から試着イメージを作成。",
+  "usage_tags": [
+    "ファッション",
+    "画像生成"
+  ],
+  "limitations": [
+    "Firemoonアカウントの接続が必要。",
+    "体の寸法、衣服のサイズや実際のフィット感は判定できない。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証",
+    "説明だけでは不明"
+  ]
+}
