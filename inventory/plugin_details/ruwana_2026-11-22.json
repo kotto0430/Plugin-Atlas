@@ -1,0 +1,22 @@
+{
+  "official_app_name": "Ruwana",
+  "provider": "ADRIAN-MIHAI IONITA",
+  "version": "1.0.1",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a7b424896288191886164f955836d75?category=creativity",
+  "observed_at": "2026-11-22",
+  "original_description": "Ruwana Studio brings a connected creative production workflow into ChatGPT. Start from an idea, brief, product, manuscript, image, or other source material and use Ruwana tools to create professional photography, commercial visuals, fashion campaigns, lookbooks, ads, cinematic scenes, animation, avatars, motion, and video.\n\nFor fashion and commercial production, Ruwana goes beyond generating a single image. It supports consistent models and characters across shots and uses production direction such as camera, lens, lighting, proportions, styling, and product fidelity to create controlled editorial and commercial results.\n\nFor film and documentary workflows, production can begin from manuscripts, photographs, documents, or archival material and continue into visual interpretation, character and environment development, scene creation, previsualization, and moving sequences.\n\nPhotography, image creation, animation, motion, avatars, and video can belong to the same connected workflow, with one result becoming the source for the next production step. You describe what you want to create in ChatGPT, and Ruwana executes the requested production through its connected tools.",
+  "summary_ja": "素材や企画から広告・写真・映像などの制作を支援。",
+  "usage_tags": [
+    "映像制作",
+    "広告",
+    "ファッション",
+    "画像生成"
+  ],
+  "limitations": [
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
