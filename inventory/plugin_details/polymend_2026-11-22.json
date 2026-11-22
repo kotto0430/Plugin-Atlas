@@ -1,0 +1,23 @@
+{
+  "official_app_name": "Polymend",
+  "provider": "Slip Studio LLC",
+  "version": "0.6.5",
+  "source_url": "https://chatgpt.com/plugins/plugins_6ac5add411e481918e7a88cd2d3f49e1?category=creativity",
+  "observed_at": "2026-11-22",
+  "original_description": "Reviews a 3D model, repairs the small mesh faults that make a slicer complain (stray triangles, pinholes, reversed faces, split seams), stands it on the bed at the height you ask for, and writes an STL and a 3MF. Shows the model from four sides with every change marked, compares it with the reference pictures, and says what came out well and what did not. Works on GLB and STL files or links, up to 20 at once. Runs on your own computer in the ChatGPT desktop app and Codex (Node.js 20 or later); Polymend uploads nothing.",
+  "summary_ja": "3Dモデルを点検・修復し、印刷用のSTLと3MFを出力。",
+  "usage_tags": [
+    "3Dプリント",
+    "3Dモデル",
+    "設計"
+  ],
+  "limitations": [
+    "ChatGPTデスクトップアプリまたはCodexとNode.js 20以降が必要。ローカルで動作しアップロードしないと説明。",
+    "GLB・STLは一度に最大20件と説明。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
