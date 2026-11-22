@@ -1,0 +1,22 @@
+{
+  "official_app_name": "FXI Studio",
+  "provider": "FXI Studio",
+  "version": "1.1.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6abc840c048481919d2dce2153cfe56a?category=creativity",
+  "observed_at": "2026-11-22",
+  "original_description": "Connect your FXI Studio account to direct cinematic stills and video clips from a conversation. Ask for a shot and FXI picks a suitable model for the job, shows the result inline and saves every take to your FXI library. Frame chaining turns 2 to 8 scene descriptions into clips where each clip starts on the last frame of the one before, so motion carries across shots. Compose a scene from your saved characters, check your credits and look up past generations at any time. Sign in with your FXI Studio account to get started.",
+  "summary_ja": "静止画や動画を生成し、複数ショットをつないだ映像を制作。",
+  "usage_tags": [
+    "動画制作",
+    "映画制作",
+    "画像生成"
+  ],
+  "limitations": [
+    "FXI Studioアカウントが必要。2〜8場面をフレームで連結できると説明。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
