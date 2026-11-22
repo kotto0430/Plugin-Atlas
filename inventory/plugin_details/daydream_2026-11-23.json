@@ -1,0 +1,22 @@
+{
+  "official_app_name": "Daydream",
+  "provider": "Daydream",
+  "version": "1.0.4",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ada33e71edc8191a47e362e40f5aba0?category=creativity",
+  "observed_at": "2026-11-23",
+  "original_description": "Describe a song and Daydream makes it: an original instrumental, up to two minutes, in the genre, mood, tempo and key you ask for. It plays in the chat as soon as it's done, with its five stems (drums, bass, guitar, keys and other) in their own lanes, so you can solo a part, mute one or set its level as it plays. Don't like the drums? Ask for new ones: Daydream makes that part again with the other four exactly as they are, and you can go back if you liked the first better.\n\nDownload the mix as an MP3 or a WAV, or any stem as a lossless FLAC. Ask for a seamless loop for a game level or a background, or two versions to pick from. Ask for your earlier songs, or how many you have left this month. Open the song in Daydream to keep working on it: change any part, add players, and arrange it.\n\nWhat you make is yours. Use it in commercial games and videos, royalty-free. Songs describe a sound, never an artist: name a genre, an instrument or a place, and Daydream makes something new.",
+  "summary_ja": "文章から最大2分のインスト曲を作り、パートごとに再生・調整する。",
+  "usage_tags": [
+    "音楽制作",
+    "ゲーム制作",
+    "BGM"
+  ],
+  "limitations": [
+    "楽曲の商用利用やロイヤリティについては提供元の説明であり、実際の条件は未検証。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
