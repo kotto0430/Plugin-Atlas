@@ -1,0 +1,21 @@
+{
+  "official_app_name": "Cav",
+  "provider": "Sebastiano Poggi",
+  "version": "1.1.2",
+  "source_url": "https://chatgpt.com/plugins/plugins_6ac2499e1a2881918fceac762e2c2a6e?category=creativity",
+  "observed_at": "2026-11-23",
+  "original_description": "Plan, build and render motion graphics in a running Cavalry app from the shell with the cav CLI: logo stings, kinetic type, lower thirds, charts, UI walkthroughs, transitions and animations synced to music. Needs Cavalry 2.4 or newer on macOS or Windows, the cav CLI, and the cav-bridge script open in Cavalry. Cav is a community plugin and is not affiliated with Cavalry, Scene Group, or Canva.",
+  "summary_ja": "Cavalryでモーショングラフィックスの制作・レンダリングを支援する。",
+  "usage_tags": [
+    "動画制作",
+    "モーショングラフィックス"
+  ],
+  "limitations": [
+    "Cavalry 2.4以降、cav CLI、Cavalryで開いたcav-bridgeスクリプトが必要。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
