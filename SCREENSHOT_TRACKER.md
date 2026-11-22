@@ -881,3 +881,10 @@ LYRCの主説明は楽曲をチャット内で追加できるとする一方、�
 [McSill Ultra 5.0](inventory/plugin_details/mcsill_ultra_5_0_2026-11-22.json)、[AI Video Enhancer Studio](inventory/plugin_details/ai_video_enhancer_studio_2026-11-22.json)、[Namsiang Thai Voice](inventory/plugin_details/namsiang_thai_voice_2026-11-22.json)、[APODICTIC Development Editor](inventory/plugin_details/apodictic_development_editor_2026-11-22.json)、[UnifyAI](inventory/plugin_details/unifyai_2026-11-22.json)、[SMC Schrijversstem](inventory/plugin_details/smc_schrijversstem_2026-11-22.json)、[Scribe Animator Director](inventory/plugin_details/scribe_animator_director_2026-11-22.json)、[WebCAD](inventory/plugin_details/webcad_2026-11-22.json)、[Eden](inventory/plugin_details/eden_2026-11-22.json)、[3D Website Creator](inventory/plugin_details/3d_website_creator_2026-11-22.json)の正式名・提供元・版・説明原文・日本語要約・用途タグ・確認状況と出典を記録。アクセシビリティ情報を主に利用し、SMC Schrijversstemのオランダ語原文を保存。WebCADの構築PASSと安全性確認の区別、動画補正ツールの環境要件、Edenのアカウント・クレジット条件などを記録。実動作・料金・一覧本体との照合は未検証。前回398ファイルから10件増の累計408ファイルで、一覧本体の件数とは別。
 
 次回はクリエイティブ一覧の3D Website Creator隣のBildyから詳細索引と照合して再開。作業ブランチのみ更新、main・本番未変更。
+
+
+### 詳細調査（2026-11-22、クリエイティブ3件・検索表示不一致）
+
+[Bildy](inventory/plugin_details/bildy_2026-11-22.json)、[Algorithmic Ink](inventory/plugin_details/algorithmic_ink_2026-11-22.json)、[Songs To Your Eyes](inventory/plugin_details/songs_to_your_eyes_2026-11-22.json)の正式名・提供元・版・英文説明・日本語要約・用途・確認状況・出典を記録。Algorithmic Inkのローカル処理とChatGPTへのデータ共有、楽曲ライセンスはチャット外で手配するとの説明を保存。実動作・料金・一覧本体との照合は未検証。前回408ファイルから3件増の累計411ファイルで、一覧本体の件数とは別。
+
+画面操作の実行環境がリセットされた後、UGCBuilderへの検索でアドレス欄と画面に残る検索語・結果が一致しない状態を観測したため、誤認を避けて中断。UGCBuilderは未処理。次回はUGCBuilderから詳細索引と照合して再開。作業ブランチのみ更新、main・本番未変更。
