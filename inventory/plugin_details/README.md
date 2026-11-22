@@ -521,6 +521,13 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 - [Algorithmic Ink](algorithmic_ink_2026-11-22.json) — 写真を幾何学的な線画に変換し、SVG・PNGとして出力。
 - [Songs To Your Eyes](songs_to_your_eyes_2026-11-22.json) — 映画や動画の場面・長さに合うライセンス楽曲を検索。
 
+- [UGCBuilder](ugcbuilder_2026-11-22.json) — 商品写真と企画からランディングページ用画像やUGC動画を制作。
+- [Photoroom](photoroom_2026-11-22.json) — 商品写真の背景・色などを編集し、商品画像や短い動画を制作。
+- [Video Generator（MegaScenes）](video_generator_megascenes_2026-11-22.json) — 文章から数秒の動画クリップを制作。
+- [VoxelDraft](voxeldraft_2026-11-22.json) — ボクセルモデルを作成・確認し、OBJ/MTLなどに出力。
+- [SuperCool](supercool_2026-11-22.json) — 動画・画像・サイト・資料・音楽などの制作を支援。
+- [Syllaby](syllaby_2026-11-22.json) — 企画や映像から短い縦動画を制作し、SNSへの投稿・予約を支援。
+
 ## 一覧本体との照合
 
 [名称照合の記録](catalog_name_audit_2026-11-14.json) — 詳細35件と作業ブランチの一覧3,941件を比較。34件は名前が一致、Palimpsestは一致なし。名前の一致は同一性の確定ではない。個々のJSONにある旧「照合未確認」の記載は調査時点の記録で、最新の照合結果はこの記録を参照。
