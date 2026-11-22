@@ -1,0 +1,21 @@
+{
+  "official_app_name": "Fablyn",
+  "provider": "Yarra Systems Pty Ltd",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6aba38bb496c8191bea75edba854a095?category=creativity",
+  "observed_at": "2026-11-23",
+  "original_description": "Create and revise short explainer videos and slides in your Fablyn workspace. Describe what you want to explain, then use Fablyn to save a Video, check its stills, and refine the words, layout and motion. Add optional narration and render a finished video, or approve stills as slides. Review your work and manage approvals in Fablyn Studio. A Fablyn account is required. Narration and rendering use your workspace’s minutes.",
+  "summary_ja": "短い説明動画やスライドを作成・修正し、Fablynで確認する。",
+  "usage_tags": [
+    "動画制作",
+    "プレゼン"
+  ],
+  "limitations": [
+    "Fablynアカウントが必要。ナレーションとレンダリングはワークスペースの時間枠を消費。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
