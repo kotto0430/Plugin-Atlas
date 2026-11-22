@@ -548,6 +548,17 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 - [NOLGIA](nolgia_2026-11-23.json) — プリセットや手持ち素材で画像・動画・音声を制作する。
 - [Gigapixel AI](gigapixel-ai_2026-11-23.json) — 画像や動画の拡大・高画質化と生成を支援する。
 
+- [WFI — WhatFontIs](wfi-whatfontis_2026-11-23.json) — 画像から似たフォントの候補を探す。
+- [BlockGPT](blockgpt_2026-11-23.json) — 文章や公開画像からMinecraft用建築データを作る。
+- [getimg](getimg_2026-11-23.json) — 画像・動画・音声などの生成や編集を行う。
+- [SC Adelsdorf Matchreporter](sc-adelsdorf-matchreporter_2026-11-23.json) — SC Adelsdorf のSNS向け試合レポート作成を支援する。
+- [OceanToken](oceantoken_2026-11-23.json) — 複数のAIモデルを検索し、文章・画像・動画・音声などを生成する。
+- [Lazybird](lazybird_2026-11-23.json) — 台本からナレーション音声や動画プロジェクトを作る。
+- [Runchat](runchat_2026-11-23.json) — 設計ワークフローを構築し、対応するCADツールと連携する。
+- [Revid](revid_2026-11-23.json) — 短尺動画を作成し、SNS投稿の準備や調査を支援する。
+- [Pretty](pretty_2026-11-23.json) — 資料や指示からPowerPoint用プレゼンを作成・修正する。
+- [appdesigns](appdesigns_2026-11-23.json) — アプリ画面からストア掲載用スクリーンショットを作る。
+
 ## 一覧本体との照合
 
 [名称照合の記録](catalog_name_audit_2026-11-14.json) — 詳細35件と作業ブランチの一覧3,941件を比較。34件は名前が一致、Palimpsestは一致なし。名前の一致は同一性の確定ではない。個々のJSONにある旧「照合未確認」の記載は調査時点の記録で、最新の照合結果はこの記録を参照。
