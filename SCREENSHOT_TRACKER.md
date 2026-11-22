@@ -841,3 +841,9 @@ Computer UseがWindows上の現在のブラウザーURLを安全確認に十分�
 [Humanizer AI（AE-Intelligence）](inventory/plugin_details/humanizer_ai_ae_intelligence_2026-11-17.json)の正式名・提供元・版・説明原文・日本語要約・用途・確認状況を記録。主説明はAI検出の誤判定を受けた文章の言い換えに言及し、アプリ説明は検出回避やAI生成物の偽装を目的としないと明記しているため、両原文と未確認事項を保存。実動作・料金・一覧本体との照合は未検証。前回記録の365ファイルから1件増の累計366ファイルで、一覧本体の件数とは別。
 
 次回はクリエイティブ一覧でHumanizer AIの次の行にあるDoitongから詳細索引と照合して再開。作業ブランチのみ更新、main・本番未変更。
+
+### 詳細調査（2026-11-22、クリエイティブ5件・共有範囲保留）
+
+[Doitong](inventory/plugin_details/doitong_2026-11-22.json)、[Cadabra AI](inventory/plugin_details/cadabra_ai_2026-11-22.json)、[English Query Refiner](inventory/plugin_details/english_query_refiner_2026-11-22.json)、[About Me – AI Life Box](inventory/plugin_details/about_me_ai_life_box_2026-11-22.json)、[PartForge](inventory/plugin_details/partforge_2026-11-22.json)の正式名・提供元・版・説明原文・日本語要約・用途・確認状況と出典を記録。アクセシビリティ情報を主に使い、About Meのベトナム語原文を保存。Storyblocksは提供元とページIDが既存詳細と一致したため重複追加せず。実動作・料金・一覧本体との照合は未検証。前回記録の366ファイルから5件増の累計371ファイルで、一覧本体の件数とは別。
+
+PartForgeの本文は会話そのものを見ずに送信されたリクエストだけを受け取るとする一方、接続画面の一般的な注意書きは関連する会話やメモリを共有する場合があると記載。具体的な共有範囲は未検証として記録し、5件で区切った。次回はクリエイティブ一覧の次の行にあるMapPosterから詳細索引と照合して再開。作業ブランチのみ更新、main・本番未変更。
