@@ -909,3 +909,10 @@ Rainbrand、BusbySim、Sleek、Agent-Native Design、Outfit Preview: Virtual Try
 ShareCube、QuickStage、Fenestra、AI Video Maker – Dora、Inspire by KGL、theprintspace、NOLGIA、Gigapixel AI の公式説明と詳細JSONを保存。前回427件から8件増え詳細ファイルは累計435件。実動作・料金・一覧本体との照合は未検証。接続・インストール・注文は行っていない。
 
 Gigapixel AI の本文はアカウントなしで2倍が可能で、それより大きな倍率は接続が必要と説明する一方、アプリ欄はStandardの2倍・4倍が接続不要と記載。両方を記録し実際の条件は未確定としたため、今回のバッチは8件で停止。次回はこの相違の扱いを維持しつつ、クリエイティブ一覧の Gigapixel AI 隣の WFI — WhatFontIs 付近から既存記録との重複を確認して再開する。表示順は変わる可能性がある。
+
+
+### 詳細調査（2026-11-23、クリエイティブ10件）
+
+WFI — WhatFontIs、BlockGPT、getimg、SC Adelsdorf Matchreporter、OceanToken、Lazybird、Runchat、Revid、Pretty、appdesigns の公式説明・出典・要約・用途・確認状況を記録。SC Adelsdorf Matchreporter の原文はドイツ語。前回435件から10件増えて詳細ファイル累計445件。実動作・料金・一覧本体との照合は未検証。接続・インストール・投稿等は行っていない。
+
+次回はクリエイティブ一覧の appdesigns 隣の Cav 付近から、既存記録との重複を確認して再開。表示順は変わる可能性がある。Gigapixel AI の倍率の説明の相違は前回記録どおり未確定。
