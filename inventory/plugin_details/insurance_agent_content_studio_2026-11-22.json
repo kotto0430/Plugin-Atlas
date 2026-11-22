@@ -1,0 +1,23 @@
+{
+  "official_app_name": "Insurance Agent Content Studio",
+  "provider": "Marian E Walley",
+  "version": "0.3.1",
+  "source_url": "https://chatgpt.com/plugins/plugins_6ab2e23134448191ab3d7c3278b7ddaa?search=Insurance+Agent+Content+Studio",
+  "observed_at": "2026-11-22",
+  "original_description": "Independent Agent Content Studio helps independent insurance agents create engaging, educational, compliance-conscious social media posts, images, videos, reels, carousels, and campaigns that build trust and generate leads.",
+  "summary_ja": "独立系保険代理店向けに、SNS投稿や広告キャンペーンなどの制作を支援する。",
+  "usage_tags": [
+    "保険",
+    "SNS",
+    "マーケティング",
+    "文章作成"
+  ],
+  "limitations": [
+    "掲載名はInsurance Agent Content Studio、本文中の名称はIndependent Agent Content Studio。",
+    "実動作・法令適合性・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
