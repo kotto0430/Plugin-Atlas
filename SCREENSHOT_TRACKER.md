@@ -867,3 +867,10 @@ LYRCの主説明は楽曲をチャット内で追加できるとする一方、�
 [esigna](inventory/plugin_details/esigna_2026-11-22.json)、[Super Map World](inventory/plugin_details/super_map_world_2026-11-22.json)、[Pray Production Studio](inventory/plugin_details/pray_production_studio_2026-11-22.json)、[Lovart](inventory/plugin_details/lovart_2026-11-22.json)、[Polymend](inventory/plugin_details/polymend_2026-11-22.json)、[3D CAD Converter](inventory/plugin_details/3d_cad_converter_2026-11-22.json)、[SignalGrade](inventory/plugin_details/signalgrade_2026-11-22.json)、[Doublespeed](inventory/plugin_details/doublespeed_2026-11-22.json)、[Human Prose Editor](inventory/plugin_details/human_prose_editor_2026-11-22.json)、[ViewMax](inventory/plugin_details/viewmax_2026-11-22.json)の正式名・提供元・版・英文説明・日本語要約・用途・確認状況と出典を記録。アクセシビリティ情報を主に利用。地図素材のライセンス、PPSのクレジット、Polymendと3D CAD Converterのローカル動作・環境要件、ViewMaxのアカウント条件などを説明として保存。実動作・料金・一覧本体との照合は未検証。前回378ファイルから10件増の累計388ファイルで、一覧本体の件数とは別。
 
 次回はクリエイティブ一覧のViewMax隣のNameSTLから詳細索引と照合して再開。作業ブランチのみ更新、main・本番未変更。
+
+
+### 詳細調査（2026-11-22、クリエイティブ10件）
+
+[NameSTL](inventory/plugin_details/namestl_2026-11-22.json)、[QynTro AI](inventory/plugin_details/qyntro_ai_2026-11-22.json)、[Ruwana](inventory/plugin_details/ruwana_2026-11-22.json)、[RiffAds](inventory/plugin_details/riffads_2026-11-22.json)、[Cyber AI](inventory/plugin_details/cyber_ai_2026-11-22.json)、[Shorts Generator](inventory/plugin_details/shorts_generator_2026-11-22.json)、[FXI Studio](inventory/plugin_details/fxi_studio_2026-11-22.json)、[Canvora](inventory/plugin_details/canvora_2026-11-22.json)、[SkeuDesign](inventory/plugin_details/skeudesign_2026-11-22.json)、[Generate Greetings](inventory/plugin_details/generate_greetings_2026-11-22.json)の正式名・提供元・版・説明原文・日本語要約・用途タグ・確認状況と出典を記録。アクセシビリティ情報を主に利用。NameSTLの書き出し権限、QynTro AI・Cyber AIのアカウントと課金条件、SkeuDesignの利用可能範囲、Generate Greetingsの透かし・リンク期限などを記録。実動作・料金・一覧本体との照合は未検証。前回388ファイルから10件増の累計398ファイルで、一覧本体の件数とは別。
+
+次回はクリエイティブ一覧のGenerate Greetings隣のMcSill Ultra 5.0から詳細索引と照合して再開。作業ブランチのみ更新、main・本番未変更。
