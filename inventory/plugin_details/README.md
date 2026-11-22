@@ -506,6 +506,17 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 - [SkeuDesign](skeudesign_2026-11-22.json) — アイコン素材を検索・比較し、利用可能なPNGを出力。
 - [Generate Greetings](generate_greetings_2026-11-22.json) — 祝い事などの挨拶文やカードを13言語で作成。
 
+- [McSill Ultra 5.0](mcsill_ultra_5_0_2026-11-22.json) — 物語や原稿の構成・人物・対話などを分析し、改稿を支援。
+- [AI Video Enhancer Studio](ai_video_enhancer_studio_2026-11-22.json) — Windows上で動画の高解像度化・手ぶれ補正・ノイズ除去を支援。
+- [Namsiang Thai Voice](namsiang_thai_voice_2026-11-22.json) — タイ語音声の配役や感情・間合いを指定し、ドラマやナレーションを制作。
+- [APODICTIC Development Editor](apodictic_development_editor_2026-11-22.json) — 小説や論考の構造を分析し、優先順位付きの改稿計画を作成。
+- [UnifyAI](unifyai_2026-11-22.json) — ChatGPT内で動画と画像の制作を支援。
+- [SMC Schrijversstem](smc_schrijversstem_2026-11-22.json) — SMCの文体に沿う文章の作成・評価・修正を支援。
+- [Scribe Animator Director](scribe_animator_director_2026-11-22.json) — Scribe Animator向けの編集可能なホワイトボード動画や説明場面を制作。
+- [WebCAD](webcad_2026-11-22.json) — 機械部品や簡単な機構の設計、画像表示、STEP出力を支援。
+- [Eden](eden_2026-11-22.json) — 公開SNS投稿の調査や分析、下書き保存と承認後の投稿予約を支援。
+- [3D Website Creator](3d_website_creator_2026-11-22.json) — 3Dウェブサイトの場面・動き・構成・表示確認を計画。
+
 ## 一覧本体との照合
 
 [名称照合の記録](catalog_name_audit_2026-11-14.json) — 詳細35件と作業ブランチの一覧3,941件を比較。34件は名前が一致、Palimpsestは一致なし。名前の一致は同一性の確定ではない。個々のJSONにある旧「照合未確認」の記載は調査時点の記録で、最新の照合結果はこの記録を参照。
