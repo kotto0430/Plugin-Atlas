@@ -1,0 +1,23 @@
+{
+  "official_app_name": "Doitong",
+  "provider": "SPACEFOX UNIPESSOAL LDA",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ab7ddd5d68c8191b78d6a0e3e74b20a?search=Doitong",
+  "observed_at": "2026-11-22",
+  "original_description": "Doitong is an AI video studio. Ask ChatGPT to create videos, images, music and short films, and get the results right in the conversation. Everything is saved to your Doitong library.\n• Idea or photo to video: text-to-video, image-to-video, effects and current short-video trends.\n• Images and posters in any aspect ratio.\n• Music tracks.\n• Short films with director agents: choose an agent, describe your idea, review the script, and the agent shoots it scene by scene.\n• Check progress and browse your recent work.\nSign in with your existing Doitong account. Paid actions use the credits already in your account: each one shows its price and waits for your confirmation, and each connection has its own spending limit (100,000 credits by default) that you can change in Doitong settings.",
+  "summary_ja": "動画・画像・音楽や短編映画を制作し、生成結果を管理する。",
+  "usage_tags": [
+    "動画制作",
+    "画像制作",
+    "音楽",
+    "映像制作"
+  ],
+  "limitations": [
+    "既存のDoitongアカウントが必要。有料操作はクレジットを使い、価格表示と確認があると説明。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
