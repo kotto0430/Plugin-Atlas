@@ -1,0 +1,23 @@
+{
+  "official_app_name": "MapPoster",
+  "provider": "MapPoster",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac528aa3b788191aa56369e42c67a07?search=MapPoster",
+  "observed_at": "2026-11-22",
+  "original_description": "MapPoster turns the places in your life into a map poster: a personal gift for someone you love, or wall art for your own home.\nTell ChatGPT the occasion and the place, and MapPoster designs the poster right in the chat. Make a map of the street where you met as an anniversary or Valentine's gift, or of the venue where a couple got married as a wedding gift. Give friends a housewarming gift of their first home with a heart on their new street, or give someone who is moving away a map of their hometown. You can also map the city of a honeymoon or a road trip, or a baby's birthplace in soft pastels for the nursery.\nEvery poster is a map of a real place: a city, neighborhood, street address or landmark, in one of 50+ styles. Add your own title, names, a date, coordinates or a short message in 14 fonts, a heart or marker on the exact spot and a driving route on the map. Make it a heart-shaped, round or hexagon map, or add a gallery mat. One poster can also hold up to three places, each with its own map and label: where you met, got engaged and got married, or two cities for a long-distance couple.\nYou see a preview of the poster in the conversation and can try other styles and move the map right there. Screen-size designs in 15 of the styles can be downloaded as a PNG (up to 1080 px, with a small watermark). Every design opens in the MapPoster editor at mapposter.xyz to fine-tune it, and posters in the drawn map styles can be ordered there as a printed poster (from A4), a framed print or a canvas, up to 18x24 in, plus square sizes, shipped to you or straight to the person it's for.\nWhat you can ask for:\n• Map wall art for a living room, home office, dorm or nursery\n• Styles from minimalist black and white and vintage-style to blueprint, dark, neon, pastel and rose gold\n• Sizes for prints, square frames, Instagram and phone or desktop wallpapers\nLimits: up to three places per poster; a poster with several places is rectangular, with the markers and route on its first map. Routes are driving routes. The chat preview leaves out street names; the classic city map styles show them in the editor. Prints ship to 20 countries, including the US, Canada, the UK, much of Europe, Australia and Japan.\nStreet maps are drawn from OpenStreetMap data. MapPoster needs no account and doesn't store your posters or your conversation.",
+  "summary_ja": "思い出の場所を使い、地図をデザインしたポスターを作る。",
+  "usage_tags": [
+    "地図",
+    "ポスター",
+    "ギフト",
+    "デザイン"
+  ],
+  "limitations": [
+    "1枚に最大3地点。一部スタイルのPNGは最大1080pxで透かしあり。印刷物は外部サイトで注文と説明。",
+    "実動作・料金・配送条件・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
