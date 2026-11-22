@@ -567,6 +567,12 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 - [YouWorkForThem](youworkforthem_2026-11-23.json) — フォント・グラフィック・写真を検索し、類似フォントや素材の詳細を確認する。
 - [WizPrompt Studio](wizprompt-studio_2026-11-23.json) — 楽曲のアイデアから音楽生成用のプロンプトや歌詞を作り、企画や版を管理する。
 
+- [AVSBL Website Builder](avsbl-website-builder_2026-11-23.json) — AVSBLのウェブサイト下書きを会話で作成・編集する。
+- [Gradients Studio](gradients-studio_2026-11-23.json) — サイトやスライド向けのグラデーション背景を作成・調整する。
+- [Dịch Anh Việt](dich-anh-viet_2026-11-23.json) — 医療従事者や学習者向けに英語・ベトナム語の翻訳や用語学習、OET練習を支援する。
+- [MeltFlex](meltflex_2026-11-23.json) — 室内や外観の写真からデザイン案を作り、仮想家具配置や動画化を支援する。
+- [Mondovo](mondovo_2026-11-23.json) — 事業の説明からウェブサイトを設計・編集し、公開や運用を支援する。
+
 ## 一覧本体との照合
 
 [名称照合の記録](catalog_name_audit_2026-11-14.json) — 詳細35件と作業ブランチの一覧3,941件を比較。34件は名前が一致、Palimpsestは一致なし。名前の一致は同一性の確定ではない。個々のJSONにある旧「照合未確認」の記載は調査時点の記録で、最新の照合結果はこの記録を参照。
