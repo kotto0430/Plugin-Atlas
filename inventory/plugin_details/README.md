@@ -528,6 +528,17 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 - [SuperCool](supercool_2026-11-22.json) — 動画・画像・サイト・資料・音楽などの制作を支援。
 - [Syllaby](syllaby_2026-11-22.json) — 企画や映像から短い縦動画を制作し、SNSへの投稿・予約を支援。
 
+- [Rainbrand](rainbrand_2026-11-23.json) — ブランド情報・指針・素材の共有や更新。
+- [BusbySim](busbysim_2026-11-23.json) — システムのSysML v2モデル作成・構文確認・図表示。
+- [Sleek](sleek_2026-11-23.json) — アプリの複数画面のデザイン案を作成・編集。
+- [Agent-Native Design](agent-native-design_2026-11-23.json) — 会話で対話型プロトタイプを作りワークスペース上で改善。
+- [Outfit Preview: Virtual Try-On](outfit-preview-virtual-try-on_2026-11-23.json) — 人物写真と衣服の写真から試着イメージを作成。
+- [Boy or Girl Names](boy-or-girl-names_2026-11-23.json) — 頭文字などを指定して赤ちゃんの名前を探す。
+- [Samautomation Video](samautomation-video_2026-11-23.json) — 画像・動画・ナレーション・字幕をMP4にまとめる。
+- [Segmind](segmind_2026-11-23.json) — 画像・音声・動画の生成を支援。
+- [KDP Coloring Book Studio](kdp-coloring-book-studio_2026-11-23.json) — 会話から複数ページのぬり絵本を企画・制作。
+- [varg.ai](varg-ai_2026-11-23.json) — 画像・動画・音声・音楽の生成と広告動画の制作。
+
 ## 一覧本体との照合
 
 [名称照合の記録](catalog_name_audit_2026-11-14.json) — 詳細35件と作業ブランチの一覧3,941件を比較。34件は名前が一致、Palimpsestは一致なし。名前の一致は同一性の確定ではない。個々のJSONにある旧「照合未確認」の記載は調査時点の記録で、最新の照合結果はこの記録を参照。
