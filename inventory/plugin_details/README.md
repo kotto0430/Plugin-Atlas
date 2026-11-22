@@ -469,6 +469,12 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 
 - [Humanizer AI（AE-Intelligence）](humanizer_ai_ae_intelligence_2026-11-17.json) — 文章の意味を保ちながら表現や文体を調整。
 
+- [Doitong](doitong_2026-11-22.json) — 動画・画像・音楽や短編映像を制作。
+- [Cadabra AI](cadabra_ai_2026-11-22.json) — 商品広告の画像や動画、短編映像を制作。
+- [English Query Refiner](english_query_refiner_2026-11-22.json) — 英語表現を整えて二言語で回答。具体的な対応言語は未確認。
+- [About Me – AI Life Box](about_me_ai_life_box_2026-11-22.json) — 自分を表す物を詰めた箱の画像を作成。原文はベトナム語。
+- [PartForge](partforge_2026-11-22.json) — 3Dプリント用部品の設計を支援。データ共有範囲は未確認。
+
 ## 一覧本体との照合
 
 [名称照合の記録](catalog_name_audit_2026-11-14.json) — 詳細35件と作業ブランチの一覧3,941件を比較。34件は名前が一致、Palimpsestは一致なし。名前の一致は同一性の確定ではない。個々のJSONにある旧「照合未確認」の記載は調査時点の記録で、最新の照合結果はこの記録を参照。
