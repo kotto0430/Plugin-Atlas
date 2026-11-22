@@ -1,0 +1,22 @@
+{
+  "official_app_name": "Gradients Studio",
+  "provider": "Anusandhan Pokhrel",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6abe1d5e3e048191adc509c94fe81709?category=creativity",
+  "observed_at": "2026-11-23",
+  "original_description": "Gradients Studio designs backgrounds for the things you ship: website heroes, launch posts, OG images and slides.\n\nDescribe what it's for and how it should feel (\"a dark, premium hero for a fintech landing page\", \"launch visuals in purple and orange, a bit retro\"), or name your brand colours. You get six live variations in mesh, silk and cloud styles with real film grain, pixel and dither finishes. Pick one, adjust its colours, finish, grain and softness right in the chat, then approve it.\n\nOnce approved, Gradients Studio exports it at exactly the sizes you need: hero, OG image, X and LinkedIn posts, slides, or any custom size up to 4K. In Codex, the files go straight into your project and can be wired into the section you named.\n\nAlready designing in the studio? Use Copy for ChatGPT on any design and paste it into the chat to keep working on that exact background here.\n\nDesigning and previewing need no account. Connect your Gradients Studio account to export. Gradients Studio makes abstract gradient backgrounds only: it doesn't draw logos, illustrations or icons, and it doesn't edit photos.",
+  "summary_ja": "サイトやスライド向けのグラデーション背景を作成・調整する。",
+  "usage_tags": [
+    "デザイン",
+    "背景画像",
+    "Web制作"
+  ],
+  "limitations": [
+    "プレビューはアカウント不要、書き出しにはアカウント接続が必要。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
