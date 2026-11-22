@@ -1,0 +1,22 @@
+{
+  "official_app_name": "Pray Production Studio",
+  "provider": "Pray, Inc.",
+  "version": "1.0.3",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6abd427fd64c819199071ae93001843d?category=creativity",
+  "observed_at": "2026-11-22",
+  "original_description": "Pray Production Studio helps you turn creative ideas into AI video projects. Search your PPS projects, view project details, plan trailers, and render trailer videos from ChatGPT. Video generation uses credits in your PPS workspace, and the tools available depend on your account access and enabled providers.",
+  "summary_ja": "映像プロジェクトの検索や予告編の企画・生成を支援。",
+  "usage_tags": [
+    "動画制作",
+    "広告",
+    "映像"
+  ],
+  "limitations": [
+    "動画生成にPPSワークスペースのクレジットを使用。利用できるツールはアカウントと有効な提供元による。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
