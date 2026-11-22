@@ -1,0 +1,23 @@
+{
+  "official_app_name": "OceanToken",
+  "provider": "NextForm LLC",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6abb3c5a47748191900c707dc8e9ce28?category=creativity",
+  "observed_at": "2026-11-23",
+  "original_description": "OceanToken puts 500+ AI models behind one account and one prepaid balance: GPT, Claude, Gemini, DeepSeek and Qwen for text; GPT Image, Seedream, Recraft and Gemini for images; Seedance, Veo, Sora and Wan for video; plus text-to-speech and transcription.\n\nSearch the catalog by type, capability and price, see exactly which options a model accepts, and get a cost estimate before anything runs, with a check against your available balance. Then generate: images with previews, video jobs you can follow to completion, voice-overs, subtitles, or a one-shot answer from another model when a cheaper or different model fits the task better. Results come back as download links. Every request is billed to your existing OceanToken balance at catalog prices; failed video jobs are not charged, and you can set a spending cap per request.\n\nConnect with your OceanToken email and password (a dedicated API key is created for the plugin, revocable in the OceanToken console) or with an existing API key.",
+  "summary_ja": "複数のAIモデルを検索し、文章・画像・動画・音声などを生成する。",
+  "usage_tags": [
+    "AIモデル",
+    "画像生成",
+    "動画生成"
+  ],
+  "limitations": [
+    "OceanTokenの残高を利用する。モデル数や課金条件は公式説明時点で実動作は未検証。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証",
+    "説明だけでは不明"
+  ]
+}
