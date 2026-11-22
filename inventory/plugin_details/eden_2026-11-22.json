@@ -1,0 +1,23 @@
+{
+  "official_app_name": "Eden",
+  "provider": "Eden",
+  "version": "1.0.3",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac2b08ffbf481919c20d4ec1726080c?category=creativity",
+  "observed_at": "2026-11-22",
+  "original_description": "Eden helps creators and marketers see what's working on social media, then act on it.\n\nAsk about a topic or a creator and Eden searches its index of public posts in your language from X, YouTube, Instagram, TikTok, LinkedIn, Threads, and Substack. Each post is scored against the creator's own usual results, so a post that did 10x better than normal stands out even from a small account. Results show as post cards with the creator, the numbers, and a link to the original post.\n\nWhat you can do:\n- Find the top posts on a topic, by platform and time range.\n- Break down one creator's top posts and what they have in common.\n- Study the title and carousel patterns behind top posts, then write your own.\n- Read a post's full text or a video's transcript.\n- Save posts to your Eden Library or a board, and save research or drafts as Eden docs.\n- Plan from your own content strategy and Planner in Eden.\n- Check how your own posts are doing (on Eden accounts that include analytics).\n- See your Eden store's sales and buyers (read-only).\n- Schedule or publish your own posts to accounts you connected in Eden, after you approve the exact text, platforms, and time. Available on Eden accounts that include scheduling.\n- Attach an image or video from the chat to a scheduled post.\n\nWho it's for: creators, founders, and social media teams who research content before they write.\n\nGood to know:\n- You need an Eden account. You sign in when you connect.\n- Searches use credits from your Eden account. Free accounts get 5 free research calls to try it.\n- Eden covers public posts only. It never sees private accounts, direct messages, or paywalled content.\n- Eden never posts without your clear approval.\n- The plugin can't delete boards, notes, or saved items, and it can't change your store. Do that in Eden.",
+  "summary_ja": "公開SNS投稿の調査や分析、下書き保存と承認後の投稿予約を支援。",
+  "usage_tags": [
+    "SNS",
+    "マーケティング",
+    "調査",
+    "投稿管理"
+  ],
+  "limitations": [
+    "Edenアカウントが必要。検索にクレジットを使用し、無料アカウントは試用として5回分と説明。投稿予約は対応アカウントで利用可能。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
