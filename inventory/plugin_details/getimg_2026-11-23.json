@@ -1,0 +1,23 @@
+{
+  "official_app_name": "getimg",
+  "provider": "getimg.ai",
+  "version": "0.1.6",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ad8aa0f1a3881918060e41752756a7d?category=creativity",
+  "observed_at": "2026-11-23",
+  "original_description": "Create and edit images, videos, music, speech, and sound effects with your getimg account. Use ready-made workflows for professional headshots, photo restoration, stickers, lighting changes, background cleanup, product videos, and UGC ads. Browse your team's media library and reuse previous results as inputs. The existing MCP server provides inline media previews and uploads on supported clients. Sign in to getimg and choose a team when connecting. Generation and editing use that team's credits.",
+  "summary_ja": "画像・動画・音声などの生成や編集を行う。",
+  "usage_tags": [
+    "画像生成",
+    "動画制作",
+    "音声"
+  ],
+  "limitations": [
+    "getimgアカウントとチームの選択が必要。生成・編集はチームのクレジットを使用。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証",
+    "説明だけでは不明"
+  ]
+}
