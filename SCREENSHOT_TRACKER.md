@@ -888,3 +888,10 @@ LYRCの主説明は楽曲をチャット内で追加できるとする一方、�
 [Bildy](inventory/plugin_details/bildy_2026-11-22.json)、[Algorithmic Ink](inventory/plugin_details/algorithmic_ink_2026-11-22.json)、[Songs To Your Eyes](inventory/plugin_details/songs_to_your_eyes_2026-11-22.json)の正式名・提供元・版・英文説明・日本語要約・用途・確認状況・出典を記録。Algorithmic Inkのローカル処理とChatGPTへのデータ共有、楽曲ライセンスはチャット外で手配するとの説明を保存。実動作・料金・一覧本体との照合は未検証。前回408ファイルから3件増の累計411ファイルで、一覧本体の件数とは別。
 
 画面操作の実行環境がリセットされた後、UGCBuilderへの検索でアドレス欄と画面に残る検索語・結果が一致しない状態を観測したため、誤認を避けて中断。UGCBuilderは未処理。次回はUGCBuilderから詳細索引と照合して再開。作業ブランチのみ更新、main・本番未変更。
+
+
+### 詳細調査（2026-11-22、クリエイティブ6件・説明の相違）
+
+[UGCBuilder](inventory/plugin_details/ugcbuilder_2026-11-22.json)、[Photoroom](inventory/plugin_details/photoroom_2026-11-22.json)、[Video Generator](inventory/plugin_details/video_generator_megascenes_2026-11-22.json)、[VoxelDraft](inventory/plugin_details/voxeldraft_2026-11-22.json)、[SuperCool](inventory/plugin_details/supercool_2026-11-22.json)、[Syllaby](inventory/plugin_details/syllaby_2026-11-22.json)の正式名・提供元・版・英文説明・日本語要約・用途・確認状況と出典を記録。前回の検索表示不一致は再読み込み後に画面・検索語・URLが一致し、UGCBuilderを確認した。Imagoは既存詳細とページIDが一致したため重複追加せず。実動作・料金・一覧本体との照合は未検証。前回411ファイルから6件増の累計417ファイルで、一覧本体の件数とは別。
+
+Syllabyの本文はサインインページで新規アカウント作成もできるとする一方、アプリ欄は既存アカウントが必要と記載。両方を保存し、実際の利用開始方法は未検証として区切った。次回はクリエイティブ一覧のSyllaby隣のRainbrandから詳細索引と照合して再開。作業ブランチのみ更新、main・本番未変更。
