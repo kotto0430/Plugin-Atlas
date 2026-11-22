@@ -481,6 +481,9 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 - [Tattoos Wizard](tattoos_wizard_2026-11-22.json) — タトゥーの料金目安や彫師、ケア情報を検索。
 - [LYRC](lyrc_2026-11-22.json) — 楽曲から歌詞付き動画を制作。楽曲の追加方法には説明の相違あり。
 
+- [ModRetro Chromatic Plugin](modretro_chromatic_plugin_2026-11-22.json) — CodexでChromatic向けゲームを制作し、対応カートリッジへの書き込みを支援。
+- [Crealix](crealix_2026-11-22.json) — アイデアや台本から音声・字幕・音楽付き動画を制作。クレジットを使用。
+
 ## 一覧本体との照合
 
 [名称照合の記録](catalog_name_audit_2026-11-14.json) — 詳細35件と作業ブランチの一覧3,941件を比較。34件は名前が一致、Palimpsestは一致なし。名前の一致は同一性の確定ではない。個々のJSONにある旧「照合未確認」の記載は調査時点の記録で、最新の照合結果はこの記録を参照。
