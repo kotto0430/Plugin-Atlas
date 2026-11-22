@@ -1,0 +1,23 @@
+{
+  "official_app_name": "BusbySim",
+  "provider": "Busby Ventures Limited",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ab8e8334a788191bf9381f5a75ef4ab?category=creativity",
+  "observed_at": "2026-11-23",
+  "original_description": "Turn a potential idea into a SysML v2 model you can see and develop, right in ChatGPT.\n\nDescribe a system, such as an aircraft architecture, a drone or an EV powertrain. ChatGPT drafts the SysML v2 model using BusbySim's syntax guide, then BusbySim validates the syntax. ChatGPT corrects any errors it reports until the model is valid. BusbySim then shows the model in its editor and diagram inside the chat. There you can pan, zoom and edit the SysML, and the diagram updates as you type. You can also work entirely in the diagram, using the right click to add, delete or edit elements.\n\nTo keep working on your model, open it in BusbySim as a project. You sign in or create a free account first. Within BusbySim you can link requirements, complete functional analysis, or output FHA, FMEA, fault trees and safety reports.\n\nNo login is needed in ChatGPT, and the plugin can't see your saved BusbySim projects. The syntax check covers the BusbySim specific subset of SysML v2 syntax only. It doesn't check what the model means or prove the design is safe.",
+  "summary_ja": "システムのSysML v2モデル作成・構文確認・図表示。",
+  "usage_tags": [
+    "システム設計",
+    "モデリング"
+  ],
+  "limitations": [
+    "構文確認はBusbySim固有のSysML v2サブセットのみで、意味や設計の安全性を検証しない。",
+    "ChatGPT上では保存済みBusbySimプロジェクトにアクセスできない。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証",
+    "説明だけでは不明"
+  ]
+}
