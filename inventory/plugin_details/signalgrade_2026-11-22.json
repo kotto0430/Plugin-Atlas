@@ -1,0 +1,22 @@
+{
+  "official_app_name": "SignalGrade",
+  "provider": "Firefly Software, LLC",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ab9cb3c7434819184d4646190310b25?category=creativity",
+  "observed_at": "2026-11-22",
+  "original_description": "Give ChatGPT tools to help you analyze and improve your music. Upload a track and ask for feedback, compare it to a reference, or check it before release.\n\nSignalGrade measures:\n- Loudness, true peak, and how Spotify, Apple Music, YouTube, Tidal, and Amazon Music will adjust your volume\n- Dynamics and tonal balance across 9 frequency bands\n- Stereo width, phase, and mono compatibility\n- Problems like clipping and DC offset\n\nWAV or FLAC works best, but MP3 works too. Files are deleted as soon as they're analyzed.",
+  "summary_ja": "楽曲の音量・周波数・ステレオなどを分析し、参考音源と比較。",
+  "usage_tags": [
+    "音楽",
+    "音声解析",
+    "マスタリング"
+  ],
+  "limitations": [
+    "ファイルは解析後すぐ削除すると提供元は説明。実際の保存・削除動作は未検証。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
