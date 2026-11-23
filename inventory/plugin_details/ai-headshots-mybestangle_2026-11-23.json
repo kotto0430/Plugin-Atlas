@@ -1,0 +1,25 @@
+{
+  "name": "AI Headshots — MyBestAngle",
+  "category": "Creativity",
+  "provider": "YLabs",
+  "version": "1.0.2",
+  "observed_at": "2026-11-23",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a9c83572c4481919337451bc1e3df5d?category=creativity",
+  "original_description": "AI headshots and profile pictures made from your own selfies. Upload 1-8 selfies and get natural photos of yourself in under a minute — a professional LinkedIn headshot, dating profile photos for Hinge or Tinder, an Instagram profile image, or simply a good photo of you. It keeps your real face and features: still you, just the photo you wish someone had taken.\n\nHow it works: say what the photo is for, MyBestAngle gives you a private upload link, you add 1-8 clear selfies, press \"Make my photos\" (or say \"done\" in the chat) and up to eight photos that pass our identity and realism checks appear in your private gallery. Tell the chat the setting, mood or outfit you want (\"outdoor at sunset, navy blazer\") and run it again for a new look. Grade each photo (\"looks like me\" / \"not me\") — that feedback improves your next run.\n\nHonest limits: results depend on the selfies you upload (clear face, good light, a few angles). The photos are generated images, not camera shots; use them honestly. Adults only, your own selfies only.",
+  "summary_ja": "自分の自撮りからプロフィール用の人物画像を作成する。",
+  "limitations_ja": "成人・本人の自撮りのみ。生成画像。アプリ欄にはベータ版無料・日次制限の記載があるが料金は未検証。",
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "AI Headshots — MyBestAngle",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "プロフィール写真",
+    "画像生成"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明",
+  "app_field_excerpt": "Free while in beta, with a small daily limit. No payment, no tiers."
+}
