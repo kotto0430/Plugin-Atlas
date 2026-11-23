@@ -603,6 +603,17 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 - [PrintMap](printmap_2026-11-23.json) — 場所やスタイルを指定して、地図ポスターを作成・編集する。
 - [Aaina Product Photos](aaina-product-photos_2026-11-23.json) — 商品写真から架空のモデルが着用・所持する商品画像を作成する。
 
+- [Blendstra](blendstra_2026-11-23.json) — 3Dモデルを生成・確認・修正し、権限を指定して共有する。
+- [Restream](restream_2026-11-23.json) — 複数プラットフォームへのライブ配信の予定・配信・管理を支援する。
+- [Podigee](podigee_2026-11-23.json) — ポッドキャストのエピソード、文字起こし、配信状況や分析を管理する。
+- [Alpenmarketing QR-Code](alpenmarketing-qr-code_2026-11-23.json) — URLや連絡先などからPNG形式のQRコードを作る。
+- [Art Overlay](art-overlay_2026-11-23.json) — 手描きで画像を紙や壁などに写すための下絵と手順を用意する。
+- [SpriteCook](spritecook_2026-11-23.json) — ゲーム向けスプライト、タイル、アニメーションやUI素材を作る。
+- [Batch Banana](batch-banana_2026-11-23.json) — 画像・動画の生成や画像編集、複数プロンプトの一括処理を支援する。
+- [Pixara](pixara_2026-11-23.json) — 画像・動画・音声の生成や編集、動画への素材の組み立てを行う。
+- [Handymade](handymade_2026-11-23.json) — 手作り化粧品や石けん向けの材料、商品情報や資料を探す。
+- [AutoSprite](autosprite_2026-11-23.json) — 2Dゲーム向けにキャラクターのアニメーションとスプライトシートを作る。
+
 ## 一覧本体との照合
 
 [名称照合の記録](catalog_name_audit_2026-11-14.json) — 詳細35件と作業ブランチの一覧3,941件を比較。34件は名前が一致、Palimpsestは一致なし。名前の一致は同一性の確定ではない。個々のJSONにある旧「照合未確認」の記載は調査時点の記録で、最新の照合結果はこの記録を参照。
