@@ -1026,3 +1026,10 @@ Dioramaは精密な図面や印刷用ファイルではないこと、CookUpの�
 再開時に HeyTurbine の詳細本文と内包アプリ「Turbine」欄を比較。本文・スキル欄は制作やSNS投稿に言及する一方、アプリ欄は読み取り専用で制作・編集・公開・予約ができないと説明している。両方の原文と相違を詳細JSONへ保存し、コンポーネント間の役割を含む実際の対応範囲は未確認とした。前回の記録でこの相違を見落としていたため補足した。
 
 今回は新規詳細を追加せず、累計554件のまま停止。次回はクリエイティブ一覧の HeyTurbine の次、Krumzi と Textile Designer AI 付近から既存記録との重複を確認して再開する。接続・インストール・設定変更・投稿・公開は行っていない。
+
+
+### 詳細調査（2026-11-23、クリエイティブ10件）
+
+Krumzi、Textile Designer AI、Commish、Video Editor AI、Image Upscaler（MegaScenes）、Viral Recreate Ai、AI Headshots — MyBestAngle、Wevi、Draw40、Tunmire の公式説明・出典・日本語要約・用途と確認状況を記録。前回554件から10件増え、詳細ファイルは累計564件。実動作・料金・一覧本体との照合は未検証。接続・インストール・設定変更・発注・公開は行っていない。
+
+画像拡大の Image Upscaler は提供元 MegaScenes と詳細URLで区別。Krumziの共有リンク、Draw40の削除後の復元不可、Tunmire接続時のアカウント作成など、表示された制約も記録。次回はクリエイティブ一覧の Tunmire の次、Plnty と Beatwise Metronome 付近から既存記録との重複を確認して再開する。表示順は変わる可能性がある。
