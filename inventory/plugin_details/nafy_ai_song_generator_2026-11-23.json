@@ -1,0 +1,27 @@
+{
+  "name": "Nafy AI Song Generator",
+  "category": "Creativity",
+  "provider": "OMNIRA LABS PTE. LTD.",
+  "version": "0.1.19",
+  "observed_at": "2026-11-23",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac91b0aeaa4819187a612961d8009f2?category=creativity",
+  "original_description": "Nafy AI creates original songs and instrumentals, AI song covers, song extensions, section replacements and voice changes directly inside ChatGPT. Choose songs from your connected Nafy library, including songs generated on the website, or upload audio in the plugin or attach it in the chat. Review settings and the exact credit cost, then confirm to create private results. Follow progress and listen to the finished audio here. Audio imports do not spend credits; editing requires an eligible Nafy account and sufficient existing credits. Voice change uses your ready Nafy voice models. File upload controls depend on the ChatGPT client; chat attachments provide another input path. Preview and storage availability depend on your storage entitlement. For copyright and commercial-use questions, consult https://nafy.ai/commercial-license; the plugin does not verify or grant licenses.",
+  "summary_ja": "楽曲やインストの生成、カバー、楽曲の延長や声の変更を支援する。",
+  "limitations_ja": [
+    "編集には対象のNafyアカウントと十分なクレジットが必要。ライセンスを検証・付与しないと説明。"
+  ],
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "Nafy AI Song Generator",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "音楽制作",
+    "音声",
+    "楽曲生成"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}
