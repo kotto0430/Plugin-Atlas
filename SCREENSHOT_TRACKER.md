@@ -998,3 +998,10 @@ Adlyの詳細本文はTikTokへの投稿に対応と記載する一方、アプ�
 Clypmint: AI Video Editor、Image to Video（MegaScenes）、TeamTime Make It Real、Contenta Converter の公式説明・出典・日本語要約・用途と確認状況を記録。前回520件から4件増え、詳細ファイルは累計524件。実動作・料金・一覧本体との照合は未検証。接続・インストール・設定変更・購入は行っていない。
 
 Image to Videoは同名の検索結果が複数あり、一覧の短文「Animate your images」と提供元・URLで区別。unsketchは詳細記録済みのため重複追加なし。Contenta Converter確認後にカテゴリ一覧のアクセシビリティ情報が子要素数の上限で省略され、検索欄を取得できず操作エラーとなったため4件で停止。次回は一覧の Contenta Converter 隣の Viral Hook Engine 付近から重複を確認して再開する。表示順は変わる可能性がある。
+
+
+### 詳細調査（2026-11-23、クリエイティブ10件）
+
+Viral Hook Engine、AI Jingle Maker、Print Shop by BYB、Glif、Globestudio、AI Voiceover、Text to Speech（MegaScenes）、Wonder、Cattalog、One4Wall の公式説明・出典・日本語要約・用途と確認状況を記録。前回524件から10件増え、詳細ファイルは累計534件。実動作・料金・一覧本体との照合は未検証。接続・インストール・設定変更・注文・公開は行っていない。
+
+同名の Text to Speech は一覧の短文と提供元・URLで区別。Rasterless は記録済みのため重複追加なし。検索欄の操作情報が省略される場合は画面の表示を確認して操作できた。次回はクリエイティブ一覧の One4Wall の次の行から、表示名と既存記録を確認して再開する。表示順は変わる可能性がある。
