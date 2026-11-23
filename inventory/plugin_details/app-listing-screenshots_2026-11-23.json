@@ -1,0 +1,27 @@
+{
+  "name": "App Listing Screenshots",
+  "category": "Creativity",
+  "provider": "Ben Baler",
+  "version": "0.3.14",
+  "observed_at": "2026-11-23",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6abe785abb508191841923a46a7f4276?category=creativity",
+  "original_description": "Create App Store and Google Play screenshots right in ChatGPT—without local rendering setup. Turn one or more captures into a single image or a coordinated series with headlines, backgrounds, and device frames. Choose supported store sizes or custom dimensions, preview the result, and download full-resolution PNGs in one ZIP. Try the workflow with a sample if you do not have captures ready. This creates image files; it does not publish to store accounts. Source images, projects and new series exports remain stored until you request deletion. New series download links have no automatic expiry.",
+  "summary_ja": "アプリストア掲載用の画像を、見出しや端末枠を付けて作成する。",
+  "limitations_ja": [
+    "ストアへの公開は行わない。元画像や出力は削除を依頼するまで保存され、新しいシリーズのリンクは自動失効しないと説明。"
+  ],
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "App Listing Screenshots",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "アプリ開発",
+    "スクリーンショット",
+    "デザイン"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}
