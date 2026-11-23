@@ -1,0 +1,27 @@
+{
+  "name": "Globestudio",
+  "category": "Creativity",
+  "provider": "Alejandro Vizio",
+  "version": "1.2.3",
+  "observed_at": "2026-11-23",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac545c64d148191b3a72b4a5c5dd293?category=creativity",
+  "original_description": "Globestudio makes dotted world maps and animated 3D globes. Ask for a look, a region, colors or data points, and get a link that opens the design in the Globestudio studio at globestudio.app, plus embed code for a website.\n\nWhat you can do:\n- Find a look by style, such as print, retro, glow or synthwave. There are 21 looks.\n- Build a globe or flat map of the world, a continent, a subregion or one country, with your own dot color, background, density and dot shape.\n- Paste a Globestudio link and change only what you ask for. Every other setting stays.\n- Get embed code as an iframe, a React component or a script tag.\n- Get the preview image and live embed link for any look.\n\nIn a code project, the bundled skill also puts the globe on the page with the @globestudio/react or @globestudio/element packages.\n\nWho it is for: designers, developers and marketers who need a globe or world map for a site hero, a background, a slide or a social post.\n\nLimits: Globestudio builds links and embed code. It does not draw images inside the chat, store designs or need an account. Exports such as PNG, SVG, GLB, MP4, WebM and GIF are made in the studio from the link. It is not a tiled map, routing, geocoding or GIS tool.",
+  "summary_ja": "ドット地図や3D地球儀のデザインリンクと埋め込みコードを作る。",
+  "limitations_ja": [
+    "画像や動画の書き出しはリンク先のスタジオで行う。経路検索やGISツールではない。"
+  ],
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "Globestudio",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "地図",
+    "3D",
+    "ウェブデザイン"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}
