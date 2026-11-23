@@ -1,0 +1,27 @@
+{
+  "name": "MAP Audio",
+  "category": "Creativity",
+  "provider": "MAP Audio",
+  "version": "0.4.0",
+  "observed_at": "2026-11-23",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6abc7b0ac3448191832daea94c3fbf37?category=creativity",
+  "original_description": "MAP Audio puts three of its tools in ChatGPT.\n\nAnalyse a recording. Attach a file and the player shows its waveform and spectrogram, with sample peak, true peak, RMS and integrated LUFS measured in your browser. Drag across the waveform to loop a section. ChatGPT sees the measurements, where playback is and the section you picked, and it can mark sections on the timeline. In the ChatGPT desktop app, WAV, FLAC, MP3 and M4A files from the conversation open in the player too.\n\nMake beats with PAM. PAM is MAP Audio's eight-cell sampler and sequencer, and it runs in the conversation, in your browser. Ask for a style or a tempo and ChatGPT opens PAM with a matching preset. Press Play inside PAM to start the sound. With a PAM licence, ChatGPT can then change the tempo, start and stop playback, switch variations, load another preset or randomize the beat.\n\nProcess audio with MFX. With an MFX licence, ChatGPT runs a recording through one of MFX's effect presets without opening MFX. You can compare the result with the original and download it.\n\nLimits: attachments can be up to 32 MiB, and MFX takes up to five minutes of audio. Stored copies expire after one hour. PAM in ChatGPT plays MAP Audio's presets and cannot save presets or export audio. Every tool needs a MAP Audio account. MAP Audio does not generate sound with AI.",
+  "summary_ja": "録音の波形・音量を解析し、ビートや音声エフェクトを扱う。",
+  "limitations_ja": [
+    "各ツールにアカウントが必要。PAMやMFXの一部操作にはそれぞれライセンスが必要。添付は最大32 MiB、MFXは5分まで。"
+  ],
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "MAP Audio",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "音声解析",
+    "音楽制作",
+    "音声編集"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}
