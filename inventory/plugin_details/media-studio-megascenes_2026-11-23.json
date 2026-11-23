@@ -1,0 +1,27 @@
+{
+  "name": "Media Studio",
+  "category": "Creativity",
+  "provider": "MegaScenes",
+  "version": "1.0.1",
+  "observed_at": "2026-11-23",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ae3167812108191b36d704b3fdbee60?category=creativity",
+  "original_description": "Ask ChatGPT for an image, a video clip, a voice-over or a music track and it finds a model that fits the job, among more than a hundred image, video and audio models.\n\nChatGPT tells you what the run needs before anything is made, and starts it in your MegaScenes account only when you ask. The result opens in the chat and stays in your library, where an image made here can be animated in the next step.\n\nFor creators, marketers and anyone who wants to choose the model instead of taking a default.\n\nLimitations: inputs are text and files already in your MegaScenes library; attachments from the chat are not passed to the plugin. Making a file needs a signed-in MegaScenes account and runs in it; nothing is made until you confirm. Not for sexual or adult content or for real people's likeness. Files are made by generative models and saved in your MegaScenes library.",
+  "summary_ja": "複数のモデルから選び、画像・動画・音声や音楽を生成する。",
+  "limitations_ja": [
+    "MegaScenesアカウントが必要。チャットへの添付ファイルは渡らず、ライブラリ内のファイルを使用。"
+  ],
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "Media Studio",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "画像生成",
+    "動画制作",
+    "音声"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}
