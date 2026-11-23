@@ -1,0 +1,27 @@
+{
+  "name": "Media.io",
+  "category": "Creativity",
+  "provider": "Wondershare",
+  "version": "1.0.1",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ad24de049bc81919b2f80a429817997?category=creativity",
+  "original_description": "Create images and videos with model selection across a static catalog of 127 model-operation entries. Generate from text, images or declared mixed references, transfer motion from a video, or create a music video from an image and audio. Reuse private Media.io drive files, view paginated history cards, monitor tasks and display finished media. Check existing credits and estimate costs when requested. Generation consumes existing account credits and entitlements; models and options are limited to the current tool schemas.",
+  "app_description": "Create images and videos with model selection across a static catalog of 119 model-operation entries. Generate from text, images or declared mixed references, transfer motion from a video, or create a music video from an image and audio. Reuse private Media.io drive files, view paginated history cards, monitor tasks and display finished media. Check existing credits and estimate costs when requested. Generation consumes existing account credits and entitlements; models and options are limited to the current tool schemas.",
+  "summary_ja": "テキストや画像などから画像・動画を生成し、履歴や生成状況を確認する。",
+  "limitations_ja": "生成には既存アカウントのクレジットと利用枠を使うと説明。モデル・操作の掲載数は詳細本文が127、アプリ欄が119と異なり、現行数は未確認。",
+  "review": "ChatGPTの詳細画面とアプリ欄の表示に基づく記録。説明間に掲載数の相違あり。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "Media.io",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名。内包アプリ欄の表示名は Wondershare Media.io。",
+  "usage_tags": [
+    "画像生成",
+    "動画制作",
+    "音楽動画"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証",
+    "説明だけでは不明"
+  ],
+  "description_scope": "詳細ページ本文と内包アプリ欄の英語説明をそれぞれ保存。"
+}
