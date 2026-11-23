@@ -1,0 +1,27 @@
+{
+  "name": "AI Voiceover",
+  "category": "Creativity",
+  "provider": "ManyMotions",
+  "version": "1.0.1",
+  "observed_at": "2026-11-23",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ace4975d98881919bca54db3f2bdb4d?category=creativity",
+  "original_description": "Turn your own text into a spoken voiceover, paced for listening and returned as an MP3.\n\nPaste the text (a script, an article, a lesson, a story or a product description, up to 3,000 characters) and describe how it should sound: warm narrator, calm and slow, energetic promo, documentary or bedtime story. The plugin prepares the request and shows the credits it will use. When you confirm, ManyMotions adapts the text for listening (pauses, emphasis, emotional cues) in that style and reads it with a stock AI voice. A voiceover takes a few minutes; ChatGPT reports the progress and returns the link to the MP3.\n\nFor creators, teachers, podcasters and small businesses who need narration for a video, a lesson or a presentation without recording it.\n\nLimitations: text to speech of your own text, read by one stock AI voice. It does not clone voices, imitate the voice of a real person, edit uploaded audio, or produce songs or music. Producing a voiceover uses your signed-in ManyMotions account; preparing a request does not need an account.\n\nManyMotions is the platform formerly known as ClipWave.",
+  "summary_ja": "文章からナレーション音声を作り、MP3のリンクを返す。",
+  "limitations_ja": [
+    "入力は最大3000文字。音声生成にはManyMotionsアカウントを使用。声の複製や既存音声の編集はしない。"
+  ],
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "AI Voiceover",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "音声読み上げ",
+    "ナレーション",
+    "動画制作"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}
