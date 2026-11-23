@@ -970,3 +970,10 @@ PersonalizedComics は既存詳細があるため重複追加しなかった。�
 Logos do Brasil、Moodle: Mood Board plan+design、Idea Generator、Typography Studio、Nova Creative、Predis.ai、Rawnd、YouCam、Nafy AI Song Generator、Eddie の公式説明・出典・日本語要約・用途と確認状況を記録。Logos do Brasil はポルトガル語原文。前回494件から10件増え、詳細ファイルは累計504件。実動作・料金・一覧本体との照合は未検証。接続・インストール・設定変更は行っていない。
 
 ロゴの利用権、RAW現像の範囲、音楽生成のクレジットやライセンス、動画編集のプロジェクト要件などを記録。次回はクリエイティブ一覧の Eddie の次、AI Video Maker FX と Rebrand 付近から既存記録との重複を確認して再開する。表示順は変わる可能性がある。
+
+
+### 詳細調査（2026-11-23、クリエイティブ2件・検索待ち）
+
+AI Video Maker FX、Rebrand の公式説明・出典・日本語要約・用途と確認状況を記録。前回504件から2件増え、詳細ファイルは累計506件。実動作・料金・一覧本体との照合は未検証。接続・インストール・設定変更は行っていない。
+
+Bloomroom の検索結果を取得する操作で、読み込み完了前に検索結果なしと判定するエラーが発生したため2件で停止。事後に同名の検索結果が表示されたことを確認したが詳細は未処理。次回は Bloomroom から既存記録との重複を確認して再開する。
