@@ -1,0 +1,27 @@
+{
+  "name": "Phoenix One Prompt Studio",
+  "category": "Creativity",
+  "provider": "Darren Kew",
+  "version": "1.0.6",
+  "observed_at": "2026-11-23",
+  "source_url": "https://chatgpt.com/plugins/plugins_6ad8f1848a0c81918d5f7cbe44e5d448?category=creativity",
+  "original_description": "Turn ideas into detailed AI image and cinematic video prompts tailored to your niche, brand and visual style. Explore 15 Phoenix One styles, lighting and camera direction, faceless and UGC concepts, product prompts, six creative angles, and matching image-to-video movement. Get ready-to-copy prompts or learn reusable frameworks. Includes an optional link to Phoenix Core for Phoenix One access and training. This skills-only plugin writes prompts; it does not generate media or connect to your Phoenix One account.",
+  "summary_ja": "画像・動画生成に使うプロンプトや映像演出の指示を作る。",
+  "limitations_ja": [
+    "プロンプトを作成するスキルで、画像・動画の生成やPhoenix Oneアカウントへの接続は行わない。"
+  ],
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "Phoenix One Prompt Studio",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "プロンプト",
+    "画像制作",
+    "動画制作"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}
