@@ -991,3 +991,10 @@ Bloomroomは実物配送対象外、Inkdropは米国内配送、MAP Audioの利�
 ULLIMO、Flat、Misar.Blog、Adly の公式説明・出典・日本語要約・用途と確認状況を記録。前回516件から4件増え、詳細ファイルは累計520件。実動作・料金・一覧本体との照合は未検証。接続・インストール・設定変更・投稿は行っていない。
 
 Adlyの詳細本文はTikTokへの投稿に対応と記載する一方、アプリ欄は「TikTok publishing is coming soon」と記載する。両方の原文を保存し、現状の対応範囲は不明としたため4件で停止。次回はクリエイティブ一覧の Adly の次、Clypmint: AI Video Editor と Image to Video 付近から既存記録との重複を確認して再開する。表示順は変わる可能性がある。
+
+
+### 詳細調査（2026-11-23、クリエイティブ4件・操作エラー）
+
+Clypmint: AI Video Editor、Image to Video（MegaScenes）、TeamTime Make It Real、Contenta Converter の公式説明・出典・日本語要約・用途と確認状況を記録。前回520件から4件増え、詳細ファイルは累計524件。実動作・料金・一覧本体との照合は未検証。接続・インストール・設定変更・購入は行っていない。
+
+Image to Videoは同名の検索結果が複数あり、一覧の短文「Animate your images」と提供元・URLで区別。unsketchは詳細記録済みのため重複追加なし。Contenta Converter確認後にカテゴリ一覧のアクセシビリティ情報が子要素数の上限で省略され、検索欄を取得できず操作エラーとなったため4件で停止。次回は一覧の Contenta Converter 隣の Viral Hook Engine 付近から重複を確認して再開する。表示順は変わる可能性がある。
