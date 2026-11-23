@@ -956,3 +956,10 @@ Theme Emporium の変更対象は専用ウィジェット内、PrintNexus Toolbo
 前回504タイムアウトだった convert3d は再読み込みで回復し、convert3d、PromptKosh、Print Ready、aicut、Flownato、Poolday、AppScreenshotStudio、LivePair、PrintMap、Aaina Product Photos の公式説明・出典・日本語要約・用途と確認状況を記録。前回474件から10件増え、詳細ファイルは累計484件。実動作・料金・一覧本体との照合は未検証。接続・インストール・設定変更・公開は行っていない。
 
 ブラウザー内変換という提供元の説明、aicut の残高と投稿前確認、Aaina のアカウント要件や架空の成人モデル等を記録。次回はクリエイティブ一覧の Aaina Product Photos 隣の Blendstra 付近から、既存記録との重複を確認して再開する。表示順は変わる可能性がある。
+
+
+### 詳細調査（2026-11-23、クリエイティブ10件）
+
+Blendstra、Restream、Podigee、Alpenmarketing QR-Code、Art Overlay、SpriteCook、Batch Banana、Pixara、Handymade、AutoSprite の公式説明・出典・日本語要約・用途と確認状況を記録。Alpenmarketing QR-Codeの説明はドイツ語原文。前回484件から10件増え、詳細ファイルは累計494件。実動作・料金・一覧本体との照合は未検証。接続・インストール・設定変更・投稿・注文は行っていない。
+
+PersonalizedComics は既存詳細があるため重複追加しなかった。次回はクリエイティブ一覧の AutoSprite の次、Logos do Brasil 付近から既存記録との重複を確認して再開する。表示順は変わる可能性がある。
