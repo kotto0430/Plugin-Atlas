@@ -1,0 +1,25 @@
+{
+  "name": "Muziek maken met AI",
+  "category": "Creativity",
+  "provider": "Samautomation",
+  "version": "1.0.0",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac92f4bfab48191a3ea76197bab1626?category=creativity",
+  "original_description": "Turn an idea into an original song without leaving the chat. Describe the occasion, the names and the mood, or write the lyrics together with the assistant. After you confirm, Muziek maken met AI makes the song in your own muziekmakenmetai.nl account and returns two versions that play directly in the chat, with a cover and the sung lyrics.\n\nYou can also see your saved voice profiles, sing with a voice profile you recorded on the website, list your recent songs and play them again.\n\nMade for personal songs: birthdays, retirements, weddings, a song for a pet or a joke for friends. Vocals work in Dutch, English, German and other languages.\n\nLimits: the plugin needs a muziekmakenmetai.nl account. Editing, extending or splitting songs into stems stays in the Studio on the website. Lyrics of existing songs and imitations of named artists are refused.",
+  "summary_ja": "記念日などに向けたオリジナルの歌を作り、チャットで再生する。",
+  "limitations_ja": "アカウントが必要。編集・延長・ステム分離はウェブサイトのStudioで行う。スキル欄は楽曲クレジット1件の使用に言及。",
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "Muziek maken met AI",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "音楽",
+    "作曲",
+    "記念日"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}
