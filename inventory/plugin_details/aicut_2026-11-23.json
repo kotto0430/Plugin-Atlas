@@ -1,0 +1,22 @@
+{
+  "official_app_name": "aicut",
+  "provider": "Aicut",
+  "version": "1.0.2",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac75dcb7bf88191b9cfab6479a4ad6f?category=creativity",
+  "observed_at": "2026-11-23",
+  "original_description": "aicut connects to your own aicut.pro account, so you can make short-form video without switching to another tool.\n\nDescribe a clip and aicut generates it, then make images, voiceovers, music and sound effects the same way. An aicut card appears in the conversation as soon as a job starts and fills in the finished media by itself.\n\nGo further than one clip: build a multi-scene AI Video Story episode in a series you pick from a visual grid, with a cast, start frames you can review and change, and a final render. Make an AI image story from a script you write. Upscale, extend or re-style media you already have, and see which short-form formats are trending for ideas of your own.\n\nWhen a video is ready, post it to a TikTok, YouTube or Instagram account you have connected to aicut. A confirmation card shows the video, the account and the caption, and nothing is posted until you confirm.\n\nEverything lands in your normal aicut library. aicut uses the balance already on your aicut account, and tells you what each step uses before anything runs. Sign in with your existing aicut account when you connect.",
+  "summary_ja": "短い動画や画像・音声を制作し、確認後のSNS投稿を支援する。",
+  "usage_tags": [
+    "動画制作",
+    "画像生成",
+    "SNS"
+  ],
+  "limitations": [
+    "既存のaicutアカウントと残高を使用。投稿前に確認が表示されると説明されている。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
