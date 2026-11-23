@@ -1,0 +1,27 @@
+{
+  "name": "Eddie",
+  "category": "Creativity",
+  "provider": "Press Play Labs, Inc.",
+  "version": "1.0.3",
+  "observed_at": "2026-11-23",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6acb30c289dc8191abaa6f6b2a4a4ea4?category=creativity",
+  "original_description": "Eddie is an AI assistant video editor for footage already imported into a connected Eddie project. It helps video editors, filmmakers, creators, and teams inspect sources and transcripts; assemble and refine edits; switch multicam angles; add b-roll, captions, titles, music, graphics, grading, and reframing; and export finished videos, documents, or timelines for Premiere Pro, Final Cut Pro, DaVinci Resolve, Avid, and OpenTimelineIO. Eddie requires an accessible Eddie project and does not upload local footage through ChatGPT. Generative and rendering actions may use account credits and disclose costs before paid work.",
+  "summary_ja": "Eddieのプロジェクト内の映像を確認・編集し、完成動画や編集タイムラインを出力する。",
+  "limitations_ja": [
+    "利用可能なEddieプロジェクトが必要。生成やレンダリングにクレジットを使う場合がある。"
+  ],
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "Eddie",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "動画編集",
+    "字幕",
+    "映像制作"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}
