@@ -1033,3 +1033,10 @@ Dioramaは精密な図面や印刷用ファイルではないこと、CookUpの�
 Krumzi、Textile Designer AI、Commish、Video Editor AI、Image Upscaler（MegaScenes）、Viral Recreate Ai、AI Headshots — MyBestAngle、Wevi、Draw40、Tunmire の公式説明・出典・日本語要約・用途と確認状況を記録。前回554件から10件増え、詳細ファイルは累計564件。実動作・料金・一覧本体との照合は未検証。接続・インストール・設定変更・発注・公開は行っていない。
 
 画像拡大の Image Upscaler は提供元 MegaScenes と詳細URLで区別。Krumziの共有リンク、Draw40の削除後の復元不可、Tunmire接続時のアカウント作成など、表示された制約も記録。次回はクリエイティブ一覧の Tunmire の次、Plnty と Beatwise Metronome 付近から既存記録との重複を確認して再開する。表示順は変わる可能性がある。
+
+
+### 詳細調査（2026-11-24、クリエイティブ2件・同名候補）
+
+Plnty、Beatwise Metronome の公式説明・出典・日本語要約・用途と確認状況を記録。前回564件から2件増え、詳細ファイルは累計566件。実動作・料金・一覧本体との照合は未検証。接続・インストール・設定変更は行っていない。
+
+Plntyの実行にはアプリ欄でクレジット使用の説明があり、Beatwiseは表示中のみ動作し録音・音高検出に非対応と記録。一覧では Plnty の隣に「Image Generator / Photos, art and illustrations」があり、同名が複数存在するため2件でいったん停止。次回はこの候補を提供元・URLで既存記録と照合し、続く Comfy Cloud 付近から再開する。表示順は変わる可能性がある。
