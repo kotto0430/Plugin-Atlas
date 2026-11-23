@@ -1,0 +1,25 @@
+{
+  "name": "Mozonic",
+  "category": "Creativity",
+  "provider": "Mozonic",
+  "version": "1.0.2",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6acabe1103a0819190e53f10677a0acf?category=creativity",
+  "original_description": "Mozonic is a music production tool for mixing and mastering. Analyze a mix's frequency balance, dynamics, and loudness, queue DSP autofix corrections, render existing stem sessions, master tracks to streaming loudness targets, and download the finished audio from your Mozonic Pro library.",
+  "summary_ja": "楽曲ミックスを分析・補正し、マスタリングやステムの書き出しを行う。",
+  "limitations_ja": "完成音声はMozonic Proライブラリから取得すると説明。料金・実動作は未検証。",
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "Mozonic",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "音楽制作",
+    "ミキシング",
+    "マスタリング"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}
