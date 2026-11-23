@@ -977,3 +977,10 @@ Logos do Brasil、Moodle: Mood Board plan+design、Idea Generator、Typography S
 AI Video Maker FX、Rebrand の公式説明・出典・日本語要約・用途と確認状況を記録。前回504件から2件増え、詳細ファイルは累計506件。実動作・料金・一覧本体との照合は未検証。接続・インストール・設定変更は行っていない。
 
 Bloomroom の検索結果を取得する操作で、読み込み完了前に検索結果なしと判定するエラーが発生したため2件で停止。事後に同名の検索結果が表示されたことを確認したが詳細は未処理。次回は Bloomroom から既存記録との重複を確認して再開する。
+
+
+### 詳細調査（2026-11-23、クリエイティブ10件）
+
+Bloomroom、Animx、Vidova、Video Grab、Inkdrop、MAP Audio、App Listing Screenshots、Packaging Design Assistant、Moda - Slides & Designs、Phoenix One Prompt Studio の公式説明・出典・日本語要約・用途と確認状況を記録。前回506件から10件増え、詳細ファイルは累計516件。実動作・料金・一覧本体との照合は未検証。接続・インストール・設定変更・注文・公開は行っていない。
+
+Bloomroomは実物配送対象外、Inkdropは米国内配送、MAP Audioの利用にはアカウントや一部ライセンスが必要、Phoenix One Prompt Studioはプロンプト作成のみという説明などを記録。MAP Audio Tools は検索結果に別名・別URLで表示されており、同一性は未確認。次回はクリエイティブ一覧の Phoenix One Prompt Studio の次、ULLIMO と Flat 付近から既存記録との重複を確認して再開する。表示順は変わる可能性がある。
