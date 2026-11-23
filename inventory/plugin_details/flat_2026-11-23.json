@@ -1,0 +1,27 @@
+{
+  "name": "Flat",
+  "category": "Creativity",
+  "provider": "Tutteo Limited",
+  "version": "1.0.0",
+  "observed_at": "2026-11-23",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac4c2973f3c8191bdeb8e055462509f?category=creativity",
+  "original_description": "Flat is an online music notation editor for writing and reading sheet music. This plugin lets users work with the scores in their own Flat account from ChatGPT. They can turn notation ChatGPT writes or converts (MusicXML, MIDI, ABC, MuseScore, Guitar Pro) into a new score and open it in Flat's editor, search their scores and collections by title, composer or instrumentation, read a score's details (title, composer, instruments, duration, measures), and export a score's notation as MusicXML or MIDI for analysis, arrangement or transposition. New scores are created private or link-only; publishing stays a decision the user makes in Flat.",
+  "summary_ja": "楽譜を作成・検索し、MusicXMLやMIDIで書き出す。",
+  "limitations_ja": [
+    "自分のFlatアカウントの楽譜を扱う。公開はFlat上で利用者が決める。"
+  ],
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "Flat",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "楽譜",
+    "作曲",
+    "音楽制作"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}
