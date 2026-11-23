@@ -1,0 +1,27 @@
+{
+  "name": "Nova Creative",
+  "category": "Creativity",
+  "provider": "Novastorm AI",
+  "version": "0.1.16",
+  "observed_at": "2026-11-23",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac0203fa9748191ae5c01ee8651b3b8?category=creativity",
+  "original_description": "Create images, videos, talking avatars, audio and 3D assets with the capabilities available to your connected Nova account. Reuse selected references, explore requested variations and refine the same saved workflow.\n\nReview supported models, settings and estimated usage before generation. Approve the reviewed workflow in chat when supported, or use the Nova confirmation card. Follow progress, preview and download completed files, and reopen the editable project for feedback.\n\nFor GPU workflows, discover models and templates, select a compatible card and manage an owned server through the commands available in your host. Rental, model installation and generation are separate operations requiring explicit approval. Confirm the exact server before permanent termination and verify that deletion has completed.\n\nAvailable actions depend on the current host tools, account access and permissions. The plugin preserves your saved projects, references and completed outputs across revisions.",
+  "summary_ja": "画像・動画・音声・3D素材の生成ワークフローを作り、設定や見積もりを確認する。",
+  "limitations_ja": [
+    "Novaアカウントやアクセス権に依存。GPUレンタルやモデルのインストール、生成は個別の操作。"
+  ],
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "Nova Creative",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "画像生成",
+    "動画制作",
+    "3D"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}
