@@ -1,0 +1,27 @@
+{
+  "name": "Contenta Converter",
+  "category": "Creativity",
+  "provider": "ContentaSoft AB",
+  "version": "1.0.0",
+  "observed_at": "2026-11-23",
+  "source_url": "https://chatgpt.com/plugins/plugins_6abfd1589a108191bcd8ad47842dd935?category=creativity",
+  "original_description": "Convert, resize, watermark and tag whole folders of images (camera RAW, HEIC, AVIF, PSD, PDF and 100+ formats) on your Windows PC. Contenta Converter is a Windows desktop app for batch image conversion, resizing, effects, metadata, PDF albums and slideshows for 100+ image formats; this skill teaches the agent its command-line tool (contenta), so you ask in plain words and the work runs on your own PC, on your own files, with nothing uploaded. It needs Contenta Converter installed (https://www.contenta-converter.com/download.php). In Codex the agent runs the commands for you; in ChatGPT it tells you which command to run. Support: bruno@contenta-software.com",
+  "summary_ja": "Windows上で画像の一括変換・縮小やPDFの画像化を支援する。",
+  "limitations_ja": [
+    "Windows版Contenta Converterのインストールが必要。ファイルがアップロードされないという記述は提供元の説明であり未検証。"
+  ],
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "Contenta Converter",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "画像変換",
+    "PDF",
+    "Windows"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}
