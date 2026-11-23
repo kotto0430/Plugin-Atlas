@@ -1,0 +1,27 @@
+{
+  "name": "AI Jingle Maker",
+  "category": "Creativity",
+  "provider": "AI Jingle Maker",
+  "version": "1.0.0",
+  "observed_at": "2026-11-23",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac807cd5418819197e16ea38a0c8df3?category=creativity",
+  "original_description": "Describe the jingle you need, for a radio station, a podcast, a DJ set, an event or a shop, and AI Jingle Maker builds a draft from its licensed catalogue of about 970 intros, music beds and outros: three sounds that fit, a short script in your words, and a voice chosen from 99 voices in up to 74 languages.\n\nThe draft card in the conversation lets you hear each sound, swap any of them, edit the script, change the voice and play a watermarked preview of the whole jingle. When you are happy, ask to render: the clean MP3 and WAV are produced and saved to your AI Jingle Maker account.\n\nDrafting, swapping sounds, editing the script and watermarked previews work without an account. Rendering the clean files uses your existing AI Jingle Maker account, so you connect it the first time you render.\n\nMade for radio hosts, podcasters, DJs, small businesses and anyone who needs a professional-sounding ident in minutes. Jingles are short (about 10 to 30 seconds); this is not a music or song generator.",
+  "summary_ja": "音声と既存の音素材を組み合わせ、短いジングルを制作する。",
+  "limitations_ja": [
+    "透かしなしのファイル出力にはアカウントが必要。楽曲生成器ではない。"
+  ],
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "AI Jingle Maker",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "音声",
+    "ラジオ",
+    "ポッドキャスト"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}
