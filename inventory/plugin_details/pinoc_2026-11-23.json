@@ -1,0 +1,27 @@
+{
+  "name": "PINOC",
+  "category": "Creativity",
+  "provider": "WarpEngine Canada",
+  "version": "0.1.9",
+  "observed_at": "2026-11-23",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ad6739dccf88191bba9ceb7a83504b3?category=creativity",
+  "original_description": "PINOC turns text descriptions and videos into skeletal animations, generates rigged Gaussian splat characters, builds Gaussian splat 3D environments from a text description, and gives you access to a curated motion library.\n\nPreview your characters and motions in the PINOC web app, or download them for your projects. Gaussian splat characters require a compatible renderer; see the renderer downloads and installation guides for current engine support.",
+  "summary_ja": "文章や動画から3Dキャラクター向けの動きや環境を作る。",
+  "limitations_ja": [
+    "Gaussian splatのキャラクターには対応レンダラーが必要。"
+  ],
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "PINOC",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "3D",
+    "アニメーション",
+    "キャラクター制作"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}
