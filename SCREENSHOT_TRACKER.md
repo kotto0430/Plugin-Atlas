@@ -984,3 +984,10 @@ Bloomroom の検索結果を取得する操作で、読み込み完了前に検�
 Bloomroom、Animx、Vidova、Video Grab、Inkdrop、MAP Audio、App Listing Screenshots、Packaging Design Assistant、Moda - Slides & Designs、Phoenix One Prompt Studio の公式説明・出典・日本語要約・用途と確認状況を記録。前回506件から10件増え、詳細ファイルは累計516件。実動作・料金・一覧本体との照合は未検証。接続・インストール・設定変更・注文・公開は行っていない。
 
 Bloomroomは実物配送対象外、Inkdropは米国内配送、MAP Audioの利用にはアカウントや一部ライセンスが必要、Phoenix One Prompt Studioはプロンプト作成のみという説明などを記録。MAP Audio Tools は検索結果に別名・別URLで表示されており、同一性は未確認。次回はクリエイティブ一覧の Phoenix One Prompt Studio の次、ULLIMO と Flat 付近から既存記録との重複を確認して再開する。表示順は変わる可能性がある。
+
+
+### 詳細調査（2026-11-23、クリエイティブ4件・説明の相違）
+
+ULLIMO、Flat、Misar.Blog、Adly の公式説明・出典・日本語要約・用途と確認状況を記録。前回516件から4件増え、詳細ファイルは累計520件。実動作・料金・一覧本体との照合は未検証。接続・インストール・設定変更・投稿は行っていない。
+
+Adlyの詳細本文はTikTokへの投稿に対応と記載する一方、アプリ欄は「TikTok publishing is coming soon」と記載する。両方の原文を保存し、現状の対応範囲は不明としたため4件で停止。次回はクリエイティブ一覧の Adly の次、Clypmint: AI Video Editor と Image to Video 付近から既存記録との重複を確認して再開する。表示順は変わる可能性がある。
