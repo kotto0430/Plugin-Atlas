@@ -1,0 +1,25 @@
+{
+  "name": "SplitMetrics Lyra",
+  "category": "Creativity",
+  "provider": "SplitMetrics",
+  "version": "0.6.0",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6adf1d066ee48191a687af733ab287a3?category=creativity",
+  "original_description": "Make video and image ads for your mobile app with SplitMetrics Lyra in ChatGPT: UGC videos, short drama story ads, static banners and carousels, ready to test on TikTok, Meta, Google and other ad networks. Start from a brief, an idea or a simple prompt, and get finished ads built from your brand kit and app assets.\n\nFor example, you can:\n• Make video ads in any style: branded, engaging story-driven, UGC, short drama, or app UI motion with your real screens.\n• Remake a competitor’s ad for your app.\n• Turn a winning ad into new angles, hooks and audience versions.\n• Resize and translate creatives for every placement and language.\n\nEvery ad is an editable workflow in your SplitMetrics Lyra workspace. Generation spends your workspace credits, and you confirm before every run. Connect your SplitMetrics Lyra account to get started.",
+  "summary_ja": "モバイルアプリ向けの動画・画像広告を作成し、別サイズや言語に展開する。",
+  "limitations_ja": "アカウントが必要。生成はワークスペースのクレジットを消費し、実行ごとに確認すると説明。",
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "SplitMetrics Lyra",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "広告",
+    "動画制作",
+    "アプリ"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}
