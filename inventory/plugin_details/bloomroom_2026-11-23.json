@@ -1,0 +1,27 @@
+{
+  "name": "Bloomroom",
+  "category": "Creativity",
+  "provider": "LIANG RAO",
+  "version": "1.0.3",
+  "observed_at": "2026-11-23",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac93323444c819186aa516fde6e157b?category=creativity",
+  "original_description": "Bloomroom is a creative floral design tool for making editable digital 3D arrangements. Explore flower combinations, color palettes and compositions for personal expression or a digital gift. Choose flowers, colors, quantities, containers and scenes from the actual Bloomroom catalog, validate the design, then compile an editable 3D work. Anonymous design needs no Bloomroom account. Editing requires the creation credential; a public viewing link cannot recover it. Temporary draft links expire after 24 hours; sign in on the website to save to an account. Preview SVGs are composition schematics; the studio renders the actual 3D work. Physical delivery, payments, messaging and Bloomroom paid AI generation are not provided.",
+  "summary_ja": "花や容器を選び、編集可能なデジタル3Dの花束を作る。",
+  "limitations_ja": [
+    "一時的な下書きリンクは24時間で失効。実物配送や決済は提供しない。"
+  ],
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "Bloomroom",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "花",
+    "3D",
+    "デザイン"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}
