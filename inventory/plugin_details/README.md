@@ -614,6 +614,17 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 - [Handymade](handymade_2026-11-23.json) — 手作り化粧品や石けん向けの材料、商品情報や資料を探す。
 - [AutoSprite](autosprite_2026-11-23.json) — 2Dゲーム向けにキャラクターのアニメーションとスプライトシートを作る。
 
+- [Logos do Brasil](logos_do_brasil_2026-11-23.json) — ブラジルのロゴ公開カタログでブランドや形式・出典・利用条件を調べる。
+- [Moodle: Mood Board plan+design](moodle_mood_board_plan_design_2026-11-23.json) — 対話型のムードボードを作成・編集する。
+- [Idea Generator](idea_generator_2026-11-23.json) — 概念を分解・組み合わせて制約を保ちながら新しい発想を生み出す。
+- [Typography Studio](typography_studio_2026-11-23.json) — フォントの設計・字間調整・表示見本の確認を支援する。
+- [Nova Creative](nova_creative_2026-11-23.json) — 画像・動画・音声・3D素材の生成ワークフローを作り、設定や見積もりを確認する。
+- [Predis.ai](predis_ai_2026-11-23.json) — アイデアや商品URLから広告動画・画像やSNS投稿用素材を制作する。
+- [Rawnd](rawnd_2026-11-23.json) — カメラのRAW内のJPEG表示や撮影情報の確認、写真の仕上げ候補選びを支援する。
+- [YouCam](youcam_2026-11-23.json) — 顔や肌の特徴に基づく美容提案、メイクや髪型のプレビュー、写真編集を支援する。
+- [Nafy AI Song Generator](nafy_ai_song_generator_2026-11-23.json) — 楽曲やインストの生成、カバー、楽曲の延長や声の変更を支援する。
+- [Eddie](eddie_2026-11-23.json) — Eddieのプロジェクト内の映像を確認・編集し、完成動画や編集タイムラインを出力する。
+
 ## 一覧本体との照合
 
 [名称照合の記録](catalog_name_audit_2026-11-14.json) — 詳細35件と作業ブランチの一覧3,941件を比較。34件は名前が一致、Palimpsestは一致なし。名前の一致は同一性の確定ではない。個々のJSONにある旧「照合未確認」の記載は調査時点の記録で、最新の照合結果はこの記録を参照。
