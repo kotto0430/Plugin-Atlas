@@ -1,0 +1,24 @@
+{
+  "name": "Moodle: Mood Board plan+design",
+  "category": "Creativity",
+  "provider": "Widget",
+  "version": "1.0.0",
+  "observed_at": "2026-11-23",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac63288d5b881918ce4960c6c419ce3?category=creativity",
+  "original_description": "A quick, easy way to create mood boards in ChatGPT. The app can help generate mood boards, for you to adjust and improve, then discuss them with ChatGPT!\n\ne.g.\n- \"Make an interactive mood board for my video channel, with a kittens theme. Use the app.\"\n- \"I want an interactive mood board for remodelling my kitchen into a minimalist space\"",
+  "summary_ja": "対話型のムードボードを作成・編集する。",
+  "limitations_ja": [],
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "Moodle: Mood Board plan+design",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "デザイン",
+    "ムードボード"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}
