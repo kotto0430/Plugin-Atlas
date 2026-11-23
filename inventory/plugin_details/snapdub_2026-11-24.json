@@ -1,0 +1,25 @@
+{
+  "name": "SnapDub",
+  "category": "Creativity",
+  "provider": "SnapDub",
+  "version": "1.0.0",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ad8d45584088191a813a303f4c65c59?category=creativity",
+  "original_description": "SnapDub turns a long recording - a podcast, stream, interview or webinar - into short vertical clips ready for TikTok, Reels and Shorts.\n\nPaste a YouTube, Twitch, Kick, Rumble or Zoom link into the chat and say how many clips you want. SnapDub picks the moments worth clipping from what is said and what is on screen, crops each one to vertical on whoever is speaking, and burns in captions. You get back every clip with its title, virality score, description, hashtags and a download link that is valid for an hour.\n\nWhat you can do:\n- Make clips from a link: how many, how long, captions on or off, captions translated into another language\n- Apply your saved SnapDub templates for a consistent look\n- Follow a video's progress and list your recent videos\n- Read finished clips best-first, ready to post\n- Check which SnapDub account is connected\n- Look up live clipping campaigns from brands and creators\n\nWho it is for: clippers, creators and small teams who turn long videos into short posts.\n\nLimitations: you need a SnapDub account. The source must be a public link from a supported site. Processing takes a few minutes. Posting to social accounts and AI dubbing are done in the SnapDub app, not from the chat.",
+  "summary_ja": "長い動画から字幕付きの縦型短編を作成する。",
+  "limitations_ja": "アカウントと対応サイトの公開リンクが必要。ダウンロードリンクは1時間有効。SNS投稿と吹き替えはアプリ上で行う。",
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "SnapDub",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "動画編集",
+    "切り抜き",
+    "SNS"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}
