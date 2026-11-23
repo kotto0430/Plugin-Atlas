@@ -1,0 +1,26 @@
+{
+  "name": "Songtekst schrijven",
+  "category": "Creativity",
+  "provider": "Samautomation",
+  "version": "1.0.0",
+  "observed_at": "2026-11-23",
+  "source_url": "https://chatgpt.com/plugins/plugins_6ac940ae10888191962280b00354ec08?category=creativity",
+  "original_description": "Write original song lyrics for birthdays, weddings, retirements, farewells, pets or teams, mainly in Dutch. The skill gathers the personal details, picks a song structure, writes lines of matching length with rhymes that work when sung, and checks the result with a local Python script: syllables per line, rhyme scheme per section, chorus consistency and an estimate of the sung length based on 86 finished songs. It never uses lyrics of existing songs or imitates named artists. No account, server or network access.",
+  "summary_ja": "主にオランダ語で記念日などのオリジナル歌詞を作り、音節や韻を確認する。",
+  "limitations_ja": [
+    "主な対象言語はオランダ語。ローカルPythonスクリプトによる確認と説明。"
+  ],
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "Songtekst schrijven",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "作詞",
+    "音楽制作"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}
