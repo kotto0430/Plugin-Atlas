@@ -1,0 +1,20 @@
+{
+  "official_app_name": "Restream",
+  "provider": "Restream, Inc.",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ad0d2fc1a448191b182fbd83cb6995f?category=creativity",
+  "observed_at": "2026-11-23",
+  "original_description": "Schedule, broadcast, and manage live streams across 30+ platforms like YouTube, X, LinkedIn, or Twitch — directly from ChatGPT. Make Restream a native part of your workflow — an AI-powered streaming agent that gets you live everywhere with less clicking.",
+  "summary_ja": "複数プラットフォームへのライブ配信の予定・配信・管理を支援する。",
+  "usage_tags": [
+    "ライブ配信",
+    "動画配信"
+  ],
+  "limitations": [
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
