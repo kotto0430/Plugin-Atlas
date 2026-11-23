@@ -1,0 +1,29 @@
+{
+  "name": "Adly",
+  "category": "Creativity",
+  "provider": "Adly",
+  "version": "1.0.3",
+  "observed_at": "2026-11-23",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac251e3a32c8191805d8b6ef25741d5?category=creativity",
+  "original_description": "Adly is an AI marketing platform for small businesses and agencies. Tell ChatGPT what you want to promote and Adly designs the post, carousel, video or ad on your brand (your logo, colors, fonts and tone), writes the copy in Arabic, English and other languages, and publishes or schedules it to your Facebook Page, Instagram, LinkedIn profile, X account and TikTok.\n\nWhat you can do:\n- Create posts for offers, new products, occasions and hiring, tip carousels, product-photo ads, UGC-style and scene-based videos.\n- Turn your product photo, or an example you like, into a post on your brand, or post a photo you already have exactly as it is with a caption written for it.\n- Design logos, flyers and menus.\n- Plan a week of posts, then create and schedule them in one go.\n- Write and edit ad copy, then approve it in chat.\n- Check what is ready, preview it, and ask for changes.\n- Publish now or schedule for later, list upcoming posts and cancel one.\n- See how your Facebook and Instagram ads are performing.\n- Open the Adly content board from the sidebar to see your latest content and everything that is scheduled.\n\nLimits to know: creating content counts toward your Adly usage limit. You need an Adly account to connect. Social accounts are connected once on getadly.com. Posts to X have no links, and X posting is not included in every Adly account.",
+  "summary_ja": "ブランドに合わせたSNS投稿や広告の制作・予約投稿を支援する。",
+  "limitations_ja": [
+    "本文ではTikTokへの投稿に対応すると記載する一方、アプリ欄では今後対応と記載。現状は不明。Adlyアカウントが必要。"
+  ],
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "Adly",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "SNS",
+    "広告",
+    "マーケティング"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証",
+    "説明だけでは不明"
+  ],
+  "description_scope": "詳細ページ本文の英語説明",
+  "app_description_original": "Adly is an AI marketing platform for small businesses and agencies. Tell ChatGPT what you want to promote and Adly designs the post, carousel, video or ad on your brand (your logo, colors, fonts and tone), writes the copy in Arabic or English, and publishes or schedules it to your Facebook Page, Instagram, LinkedIn profile and X account. What you can do: - Create single-post designs, tip carousels, product-photo ads, UGC-style and scene-based videos. - Write and edit ad copy, then approve it in chat. - Check what is ready, preview it, and ask for changes. - Publish now or schedule for later, list upcoming posts and cancel one. - Open the Adly content board from the sidebar to see your latest content and everything that is scheduled. Limits to know: creating content counts toward your Adly usage limit. You need an Adly account to connect. Social accounts are connected once on getadly.com. Posts to X have no links, and X posting is not included in every Adly account. TikTok publishing is coming soon."
+}
