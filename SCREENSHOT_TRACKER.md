@@ -1040,3 +1040,10 @@ Krumzi、Textile Designer AI、Commish、Video Editor AI、Image Upscaler（Mega
 Plnty、Beatwise Metronome の公式説明・出典・日本語要約・用途と確認状況を記録。前回564件から2件増え、詳細ファイルは累計566件。実動作・料金・一覧本体との照合は未検証。接続・インストール・設定変更は行っていない。
 
 Plntyの実行にはアプリ欄でクレジット使用の説明があり、Beatwiseは表示中のみ動作し録音・音高検出に非対応と記録。一覧では Plnty の隣に「Image Generator / Photos, art and illustrations」があり、同名が複数存在するため2件でいったん停止。次回はこの候補を提供元・URLで既存記録と照合し、続く Comfy Cloud 付近から再開する。表示順は変わる可能性がある。
+
+
+### 詳細調査（2026-11-24、クリエイティブ1件・操作エラー）
+
+Image Generator（MegaScenes）の公式説明・出典・日本語要約・用途と確認状況を記録。前回566件から1件増え、詳細ファイルは累計567件。実動作・料金・一覧本体との照合は未検証。接続・インストール・設定変更は行っていない。
+
+一覧の短文「Photos, art and illustrations」、提供元 MegaScenes、詳細URLを確認し、既存の同名記録（The Doers Firm、B12）と区別した。カテゴリー一覧に戻った後、多数の子要素が省略され検索欄のアクセシビリティ情報を取得できず検索処理がエラーとなったため停止。次回は Comfy Cloud と Synergieloc CAO 付近から再開する。表示順は変わる可能性がある。
