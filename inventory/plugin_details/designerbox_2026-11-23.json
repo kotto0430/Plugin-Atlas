@@ -1,0 +1,27 @@
+{
+  "name": "DesignerBox",
+  "category": "Creativity",
+  "provider": "DesignerBox",
+  "version": "1.0.4",
+  "observed_at": "2026-11-23",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac673bdc7fc8191b7f39969d79ee596?category=creativity",
+  "original_description": "DesignerBox turns product photos into studio-style images for ads, online stores and social posts, right inside ChatGPT.\n\nUpload a product photo or attach one to your message, then apply one of the curated image templates or describe the shot you want. DesignerBox shows the results in the chat, and every image is saved to your DesignerBox asset library so you can keep working on it in the web app.\n\nWhat you can do:\n- Upload product photos through an upload panel in the chat, or use images you attach to your message\n- Browse and apply curated image templates\n- Generate new images from a description\n- Edit product photos: remove the background, relight the shot or show the product from a new angle\n- Browse your designs, assets and brand profiles\n\nWho it is for: online sellers, marketers, agencies and small brands who need product visuals without a photo shoot.\n\nLimitations: you need a DesignerBox account, and you sign in when you connect. Generating and editing images uses the AI credits in your account, and each result says how many it used. DesignerBox only reaches the workspaces your connected account belongs to. AI images can get details wrong, so check product names, labels and colors before you publish.",
+  "summary_ja": "商品写真から広告やネットショップ向けの画像を作成・編集する。",
+  "limitations_ja": [
+    "アカウントが必要で、生成・編集にはクレジットを使用。商品名やラベルなどの確認を推奨。"
+  ],
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "DesignerBox",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "商品写真",
+    "広告",
+    "画像編集"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}
