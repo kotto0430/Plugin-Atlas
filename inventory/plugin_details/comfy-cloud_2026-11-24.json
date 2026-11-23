@@ -1,0 +1,26 @@
+{
+  "name": "Comfy Cloud",
+  "category": "Creativity",
+  "provider": "Comfy Org",
+  "version": "1.0.1",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ae24f703c9081919dd9866d417a1c2b?category=creativity",
+  "original_description": "Comfy Cloud lets you create images, video, audio and 3D assets on Comfy's hosted GPUs from a conversation. Generate directly with partner models such as Flux, Kling, ByteDance and ElevenLabs, or run any of Comfy's published workflow templates for text-to-image, image-to-video, upscaling, style transfer and more. You can search the model and template catalogs, estimate a run's credit cost before spending, and run the workflows saved in your Comfy Cloud workspace. Each run returns a link to the finished file, and paid generations ask for your confirmation before any credits are spent. Sign in with your Comfy account to connect.",
+  "summary_ja": "画像・動画・音声・3D素材をモデルやワークフローから生成する。",
+  "limitations_ja": "Comfyアカウントが必要。有料生成ではクレジット消費前に確認すると説明。",
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "Comfy Cloud",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "画像生成",
+    "動画制作",
+    "音声",
+    "3D"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}
