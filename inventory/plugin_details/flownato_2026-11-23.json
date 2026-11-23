@@ -1,0 +1,22 @@
+{
+  "official_app_name": "Flownato",
+  "provider": "UI JOURNEYS",
+  "version": "0.8.4",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac169e93dc48191a3a1242fef8c8d62?category=creativity",
+  "observed_at": "2026-11-23",
+  "original_description": "Look up how real mobile apps handle a task while you design. Ask for onboarding, sign-up, checkout, search or booking, and Flownato shows the screens of each flow in the order people go through them. You can also find single screens, such as login or paywall screens, and UI elements like bottom sheets or sticky buttons, shown inside the full screen they come from.\n\nUse it to compare how different apps solve the same problem, collect references for a design review, or check a pattern before you build it.\n\nFlownato covers mobile apps only. Screens are recorded from the live apps, so a particular app or flow may not be included yet. Connecting needs a Flownato account.",
+  "summary_ja": "実在するモバイルアプリの画面や操作フローを探し、UI設計の参考にする。",
+  "usage_tags": [
+    "UIデザイン",
+    "UX調査",
+    "アプリ開発"
+  ],
+  "limitations": [
+    "対象はモバイルアプリで、接続にはFlownatoアカウントが必要。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
