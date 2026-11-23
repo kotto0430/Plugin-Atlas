@@ -1054,3 +1054,10 @@ Image Generator（MegaScenes）の公式説明・出典・日本語要約・用�
 Comfy Cloud、Synergieloc CAO、Art Goat、SplitMetrics Lyra、GHEM、Kinetik、Tabularia、Muziek maken met AI、HospitalityLens、Mozonic の公式説明・出典・日本語要約・用途と確認状況を記録。前回567件から10件増え、詳細ファイルは累計577件。実動作・料金・一覧本体との照合は未検証。接続・インストール・設定変更・投稿・公開は行っていない。
 
 Synergieloc CAOは主にフランスの規則を対象とし、専門家や公式承認の代替ではないという制限を記録。GHEMはチャット添付を自動取得しないこと、HospitalityLensはChatGPT上では1枚ずつ処理することを記録。Storytailor、Pixel Art、gilmOS は詳細記録済みのため追加しなかった。次回はクリエイティブ一覧の Mozonic・HospitalityLens の次、Media.io と Scenelith 付近から既存記録との重複を確認して再開する。表示順は変わる可能性がある。
+
+
+### 詳細調査（2026-11-24、クリエイティブ1件・説明の相違）
+
+Media.io（Wondershare）の公式説明・出典・日本語要約・用途と確認状況を記録。前回577件から1件増え、詳細ファイルは累計578件。実動作・料金・一覧本体との照合は未検証。接続・インストール・設定変更・生成は行っていない。
+
+詳細本文はモデル・操作の静的カタログを127件、内包アプリ欄は119件と説明しており、両方の原文を保存して現行数は未確認とした。相違を発見したため1件で停止。次回はクリエイティブ一覧の Scenelith と Logo Maker 付近から既存記録との重複を確認して再開する。表示順は変わる可能性がある。
