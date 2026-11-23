@@ -949,3 +949,10 @@ Theme Emporium の変更対象は専用ウィジェット内、PrintNexus Toolbo
 ### 詳細調査（2026-11-23、接続エラーで中断）
 
 クリエイティブ一覧で convert3d の名前と短い説明、詳細ページへのリンクを確認したが、詳細ページが「プラグインを読み込めませんでした」と HTTP 504 Gateway time-out を返したため、原文・提供元等を確認できず新規詳細の追加は0件。詳細ファイル累計は474件のまま。次回は convert3d の詳細から再開する。接続・インストール・設定変更は行っていない。
+
+
+### 詳細調査（2026-11-23、クリエイティブ10件）
+
+前回504タイムアウトだった convert3d は再読み込みで回復し、convert3d、PromptKosh、Print Ready、aicut、Flownato、Poolday、AppScreenshotStudio、LivePair、PrintMap、Aaina Product Photos の公式説明・出典・日本語要約・用途と確認状況を記録。前回474件から10件増え、詳細ファイルは累計484件。実動作・料金・一覧本体との照合は未検証。接続・インストール・設定変更・公開は行っていない。
+
+ブラウザー内変換という提供元の説明、aicut の残高と投稿前確認、Aaina のアカウント要件や架空の成人モデル等を記録。次回はクリエイティブ一覧の Aaina Product Photos 隣の Blendstra 付近から、既存記録との重複を確認して再開する。表示順は変わる可能性がある。
