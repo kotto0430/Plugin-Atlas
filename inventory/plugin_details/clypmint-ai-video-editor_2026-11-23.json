@@ -1,0 +1,27 @@
+{
+  "name": "Clypmint: AI Video Editor",
+  "category": "Creativity",
+  "provider": "Clypmint",
+  "version": "1.6.2",
+  "observed_at": "2026-11-23",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6aca4a8f3c848191b662e96a004679b4?category=creativity",
+  "original_description": "Turn your footage or approved script into a video in ChatGPT. Cut pauses, add captions, make podcast clips, create faceless videos and reuse editing styles. Review playable results, change a selected clip, fix caption spellings and continue the same project in Clypmint Studio. A connected Clypmint account is required. Existing account rights and usage limits apply. Upload links are provided when the host cannot transfer a file.",
+  "summary_ja": "映像や台本から動画を作り、字幕やクリップの編集を支援する。",
+  "limitations_ja": [
+    "Clypmintアカウントの接続が必要。既存の権限と利用上限が適用される。"
+  ],
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "Clypmint: AI Video Editor",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "動画編集",
+    "字幕",
+    "ポッドキャスト"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}
