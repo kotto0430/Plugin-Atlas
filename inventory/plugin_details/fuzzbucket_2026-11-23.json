@@ -1,0 +1,27 @@
+{
+  "name": "Fuzzbucket",
+  "category": "Creativity",
+  "provider": "Fuzzbucket",
+  "version": "1.0.2",
+  "observed_at": "2026-11-23",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ad4b34288ec81919fcc738d14212365?category=creativity",
+  "original_description": "Fuzzbucket is a brand-aware creative workspace for marketing content. With Fuzzbucket in ChatGPT you can work inside your own Fuzzbucket account: pick a brand and its context, open or create a workspace, draft image, video, audio, text and post nodes on the canvas, brief the workspace's creative assistant, start generation with the models available on your plan, follow progress, and preview or download the results.\n\nTools that only read your data are separate from tools that change it or start generation, so ChatGPT can ask before anything changes. Generation works exactly as in the Fuzzbucket app and uses your existing Fuzzbucket plan.\n\nYou need a Fuzzbucket account. When you connect, you choose the access level (read only, create and edit, or full access) and which brands ChatGPT can use, and you can disconnect at any time in Fuzzbucket Settings > MCP.",
+  "summary_ja": "ブランドに合わせた画像・動画・音声・文章の制作をワークスペースで管理する。",
+  "limitations_ja": [
+    "アカウントが必要。生成は既存プランを使用し、接続時にアクセス範囲を選ぶ。"
+  ],
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "Fuzzbucket",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "マーケティング",
+    "ブランド",
+    "コンテンツ制作"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}
