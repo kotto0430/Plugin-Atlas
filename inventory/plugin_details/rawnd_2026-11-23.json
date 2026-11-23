@@ -1,0 +1,27 @@
+{
+  "name": "Rawnd",
+  "category": "Creativity",
+  "provider": "Matthieu Audo",
+  "version": "1.0.0",
+  "observed_at": "2026-11-23",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac4e939a13c8191997bc3bbb8beee3d?category=creativity",
+  "original_description": "Rawnd opens camera RAW photos inside the conversation. ChatGPT reads JPEG, PNG, WebP and GIF; a NEF, CR3, ARW or RAF file shows it nothing. Rawnd adds a panel where you drop the RAW file. The file is read on your device, inside the panel, and never uploaded: not to Rawnd, not to OpenAI.\n\nWhat it does\n- Shows the JPEG the camera stored inside the RAW file, in under a second, with the shooting data: camera, lens, shutter speed, aperture, ISO and focal length.\n- Lets you keep that JPEG (right-click the preview, \"Save image as…\") or show it to ChatGPT with one click, stripped of its metadata, so you can talk about the photo.\n- Offers eight hand-written looks: Dark film, Warm film, High-contrast B&W, Cool & muted, Golden hour, Matte, Crisp & vivid and Teal & orange. ChatGPT picks the one that matches what you describe, can adjust it within narrow bounds (\"a bit less warm\"), and shows a card that opens it in Rawnd's editor, in the browser.\n\nWho it is for\nPhotographers with RAW files from Nikon, Canon, Sony, Fujifilm, Panasonic, Olympus, Pentax, Samsung, Leica, Phase One and other cameras, who want to see a RAW file, get a JPEG out of it or pick a look for it, without installing anything. Sixteen formats: CR2, CR3, CRW, NEF, NRW, ARW, SRF, SR2, RAF, DNG, RW2, ORF, PEF, SRW, IIQ and RAW.\n\nLimits\n- The panel shows the camera's own rendering, at the size the camera stored: full size on most Nikon and Canon bodies, 1920 × 1280 on Fujifilm. Developing the RAW itself (exposure, white balance) happens in Rawnd's editor.\n- Camera RAW files only: it does not open JPEG, PNG or HEIC.\n- A look opens in the editor; it is not applied inside the conversation.\n- One file at a time.\n\nPrivacy\nRawnd's server receives only the tool arguments, a look's name and slider values, and counts one row per call: the tool and the assistant. No account, no sign-in, no photo.",
+  "summary_ja": "カメラのRAW内のJPEG表示や撮影情報の確認、写真の仕上げ候補選びを支援する。",
+  "limitations_ja": [
+    "RAWファイル自体の現像や見た目の適用はエディターで行い、一度に扱うのは1ファイル。プライバシーに関する記述は提供元の説明であり未検証。"
+  ],
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "Rawnd",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "写真",
+    "RAW",
+    "画像編集"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}
