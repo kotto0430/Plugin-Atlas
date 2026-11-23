@@ -628,6 +628,17 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 - [AI Video Maker FX](ai-video-maker-fx_2026-11-23.json) — 文章や画像をもとに動画を生成し、既存動画の編集・延長を支援する。
 - [Rebrand](rebrand_2026-11-23.json) — 公開デザインカタログからブランドやビジュアル素材を検索し、似た参考例を探す。
 
+- [Bloomroom](bloomroom_2026-11-23.json) — 花や容器を選び、編集可能なデジタル3Dの花束を作る。
+- [Animx](animx_2026-11-23.json) — 文章や静止画から画像・動画を生成し、進捗を確認する。
+- [Vidova](vidova_2026-11-23.json) — 素材の内容を確認し、字幕や音楽を加えて動画の編集・出力を支援する。
+- [Video Grab](video-grab_2026-11-23.json) — 再利用可能な動画とライセンス・出典表記を探し、自分の動画の公式書き出し手順を案内する。
+- [Inkdrop](inkdrop_2026-11-23.json) — 画像をTシャツなどの商品に配置し、選択肢や完成イメージを確認する。
+- [MAP Audio](map-audio_2026-11-23.json) — 録音の波形・音量を解析し、ビートや音声エフェクトを扱う。
+- [App Listing Screenshots](app-listing-screenshots_2026-11-23.json) — アプリストア掲載用の画像を、見出しや端末枠を付けて作成する。
+- [Packaging Design Assistant](packaging-design-assistant_2026-11-23.json) — 商品のパッケージ案、表示面、印刷準備やモックアップを検討する。
+- [Moda - Slides & Designs](moda-slides-designs_2026-11-23.json) — 編集可能なスライドや販促・SNS向け素材を作成し、各形式に書き出す。
+- [Phoenix One Prompt Studio](phoenix-one-prompt-studio_2026-11-23.json) — 画像・動画生成に使うプロンプトや映像演出の指示を作る。
+
 ## 一覧本体との照合
 
 [名称照合の記録](catalog_name_audit_2026-11-14.json) — 詳細35件と作業ブランチの一覧3,941件を比較。34件は名前が一致、Palimpsestは一致なし。名前の一致は同一性の確定ではない。個々のJSONにある旧「照合未確認」の記載は調査時点の記録で、最新の照合結果はこの記録を参照。
