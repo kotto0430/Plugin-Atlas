@@ -660,6 +660,17 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 - [Cattalog](cattalog_2026-11-23.json) — 表データや画像を使って商品カタログを作成・編集し、PDFに出力する。
 - [One4Wall](one4wall_2026-11-23.json) — 雰囲気や色からスマートフォン向け壁紙を探し、表示・保存する。
 
+- [refern Notan Generator](refern-notan-generator_2026-11-23.json) — 画像を2〜5段階の明暗に分け、絵や写真の構図を確認する。
+- [Songtekst schrijven](songtekst-schrijven_2026-11-23.json) — 主にオランダ語で記念日などのオリジナル歌詞を作り、音節や韻を確認する。
+- [Linepace Teleprompter](linepace-teleprompter_2026-11-23.json) — 原稿をスクロール表示し、スピーチの読み上げ時間を見積もる。
+- [Ember Websites](ember-websites_2026-11-23.json) — 事業紹介やポートフォリオなどのサイトを会話で作り、プレビュー・公開する。
+- [Faceless.video](faceless-video_2026-11-23.json) — 顔出しなしの動画を作り、SNSへの投稿を自動化すると説明する。
+- [Music Generator (MegaScenes)](music-generator-megascenes_2026-11-23.json) — ジャンルや雰囲気を指定して、インストゥルメンタル曲を作る。
+- [Gulab](gulab_2026-11-23.json) — 画像や短い動画を生成し、Gulabのプロジェクトで管理する。
+- [PINOC](pinoc_2026-11-23.json) — 文章や動画から3Dキャラクター向けの動きや環境を作る。
+- [UlazAI Media](ulazai-media_2026-11-23.json) — 対応モデルを選び、提供枠を使った非公開の1K画像生成を支援する。
+- [DesignerBox](designerbox_2026-11-23.json) — 商品写真から広告やネットショップ向けの画像を作成・編集する。
+
 ## 一覧本体との照合
 
 [名称照合の記録](catalog_name_audit_2026-11-14.json) — 詳細35件と作業ブランチの一覧3,941件を比較。34件は名前が一致、Palimpsestは一致なし。名前の一致は同一性の確定ではない。個々のJSONにある旧「照合未確認」の記載は調査時点の記録で、最新の照合結果はこの記録を参照。
