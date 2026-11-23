@@ -682,6 +682,18 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 - [Media Studio (MegaScenes)](media-studio-megascenes_2026-11-23.json) — 複数のモデルから選び、画像・動画・音声や音楽を生成する。
 - [HeyTurbine](heyturbine_2026-11-23.json) — ブランド調査・コンテンツ制作の説明と内包アプリ欄の読み取り専用の説明が異なり、対応範囲は未確認。
 
+
+- [Krumzi](krumzi_2026-11-23.json) — SNS用の編集可能な画像やカルーセルを作成・出力する。
+- [Textile Designer AI](textile-designer-ai_2026-11-23.json) — 柄を印刷用に調整し、繰り返し模様や色違いを作る。
+- [Commish](commish_2026-11-23.json) — 物品の製作方法・数量別費用を検討し、見積もり依頼をまとめる。
+- [Video Editor AI](video-editor-ai_2026-11-23.json) — ライブラリの動画を指示に沿って画風変更・リフレーム・延長する。
+- [Image Upscaler](image-upscaler-megascenes_2026-11-23.json) — ライブラリ内の画像を高解像度に拡大する。
+- [Viral Recreate Ai](viral-recreate-ai_2026-11-23.json) — 画像や動画を分析し、生成用プロンプトや動きの計画を作る。
+- [AI Headshots — MyBestAngle](ai-headshots-mybestangle_2026-11-23.json) — 自分の自撮りからプロフィール用の人物画像を作成する。
+- [Wevi](wevi_2026-11-23.json) — テンプレートと実際の製品画面を使い、ソフトウェアの紹介動画を作る。
+- [Draw40](draw40_2026-11-23.json) — 保存した図やホワイトボードを作成・検索・編集する。
+- [Tunmire](tunmire_2026-11-23.json) — 原稿から書籍本文PDF・EPUB・表紙を作り、出版規格の確認や編集レビューを行う。
+
 ## 一覧本体との照合
 
 [名称照合の記録](catalog_name_audit_2026-11-14.json) — 詳細35件と作業ブランチの一覧3,941件を比較。34件は名前が一致、Palimpsestは一致なし。名前の一致は同一性の確定ではない。個々のJSONにある旧「照合未確認」の記載は調査時点の記録で、最新の照合結果はこの記録を参照。
