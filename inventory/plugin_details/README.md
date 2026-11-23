@@ -592,6 +592,17 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 - [style-my-space.com](style-my-space-com_2026-11-23.json) — 写真や説明から、予算に応じた部屋の模様替えや買い物の計画を提案する。
 - [Rephrasy](rephrasy_2026-11-23.json) — AIで書いた下書きの表現を調整し、読みやすさを確認する。
 
+- [convert3d](convert3d_2026-11-23.json) — 3D・CADファイルを別形式に変換し、3Dプレビューする。
+- [PromptKosh](promptkosh_2026-11-23.json) — 公開スタイルのプロンプトを探し、ChatGPTの画像機能で画像を作る。
+- [Print Ready](print-ready_2026-11-23.json) — 寸法や写真をもとに、3Dプリント向けの部品を設計する。
+- [aicut](aicut_2026-11-23.json) — 短い動画や画像・音声を制作し、確認後のSNS投稿を支援する。
+- [Flownato](flownato_2026-11-23.json) — 実在するモバイルアプリの画面や操作フローを探し、UI設計の参考にする。
+- [Poolday](poolday_2026-11-23.json) — Pooldayのワークスペースで動画や画像の制作を依頼し、進捗や修正を管理する。
+- [AppScreenshotStudio](appscreenshotstudio_2026-11-23.json) — アプリストア掲載用のスクリーンショットを作り、レイアウトなどを調整する。
+- [LivePair](livepair_2026-11-23.json) — 画像・動画生成のプロンプトとその生成例を検索する。
+- [PrintMap](printmap_2026-11-23.json) — 場所やスタイルを指定して、地図ポスターを作成・編集する。
+- [Aaina Product Photos](aaina-product-photos_2026-11-23.json) — 商品写真から架空のモデルが着用・所持する商品画像を作成する。
+
 ## 一覧本体との照合
 
 [名称照合の記録](catalog_name_audit_2026-11-14.json) — 詳細35件と作業ブランチの一覧3,941件を比較。34件は名前が一致、Palimpsestは一致なし。名前の一致は同一性の確定ではない。個々のJSONにある旧「照合未確認」の記載は調査時点の記録で、最新の照合結果はこの記録を参照。
