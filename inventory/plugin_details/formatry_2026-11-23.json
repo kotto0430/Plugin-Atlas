@@ -1,0 +1,27 @@
+{
+  "name": "Formatry",
+  "category": "Creativity",
+  "provider": "Mikhail Drozdov",
+  "version": "0.4.2",
+  "observed_at": "2026-11-23",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6abd053c1744819191e343d601e3601b?category=creativity",
+  "original_description": "Create campaign ads from product photos and brand copy, edit saved designs with the agent or embedded Studio, and save PNG, JPG, WebP, animated WebP, GIF or MP4 files in your workspace. Sign in or create an account through the native connection window. Non-free exports use your existing account credits after quoted-cost approval.",
+  "summary_ja": "商品写真や文章から広告を作成・編集し、画像や動画に出力する。",
+  "limitations_ja": [
+    "アカウントを使用。有料出力には見積もり確認後にクレジットを使用する。"
+  ],
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "Formatry",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "広告",
+    "デザイン",
+    "動画制作"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}
