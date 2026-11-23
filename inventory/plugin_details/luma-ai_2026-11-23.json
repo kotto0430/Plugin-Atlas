@@ -1,0 +1,26 @@
+{
+  "name": "Luma AI",
+  "category": "Creativity",
+  "provider": "Luma AI",
+  "version": "0.3.10",
+  "observed_at": "2026-11-23",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ad6a6168a008191946a4fdb3a47032d?category=creativity",
+  "original_description": "Create images and video clips with Luma's generative models without leaving the conversation. Describe a shot and Luma generates it; ask for a change and Luma edits the result, extends a clip, restyles it, or reframes it to a new aspect ratio. Everything you make lands in a Luma workspace, so a follow-up can build on an earlier output instead of starting over.\n\nLuma runs on your Luma account. When you connect, you choose which of your teams the plugin works and bills as; generations use that team's credits. You can ask for your credit usage for the current billing period and which models are available to you at any time.",
+  "summary_ja": "画像や動画を生成し、動画の延長や画角の変更を行う。",
+  "limitations_ja": [
+    "Lumaアカウントが必要。生成は選択したチームのクレジットを使用する。"
+  ],
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "Luma AI",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "画像生成",
+    "動画制作"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}
