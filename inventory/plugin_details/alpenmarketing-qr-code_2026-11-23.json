@@ -1,0 +1,21 @@
+{
+  "official_app_name": "Alpenmarketing QR-Code",
+  "provider": "mxi.design / Alpenmarketing",
+  "version": "1.0.2",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6abf9c73ae848191aff4c0dd4eeb5f55?category=creativity",
+  "observed_at": "2026-11-23",
+  "original_description": "Erzeuge einen echten QR-Code als PNG für eine Webadresse, Text, E-Mail-Adresse, Telefonnummer, SMS oder WhatsApp. Das Bild wird direkt im Chat erzeugt und kann für Flyer, Speisekarten oder Einladungen verwendet werden. Vor dem Druck mit mehreren Geräten testen.",
+  "summary_ja": "URLや連絡先などからPNG形式のQRコードを作る。",
+  "usage_tags": [
+    "QRコード",
+    "デザイン"
+  ],
+  "limitations": [
+    "説明原文はドイツ語。印刷前に複数の機器でテストするよう記載。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
