@@ -639,6 +639,11 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 - [Moda - Slides & Designs](moda-slides-designs_2026-11-23.json) — 編集可能なスライドや販促・SNS向け素材を作成し、各形式に書き出す。
 - [Phoenix One Prompt Studio](phoenix-one-prompt-studio_2026-11-23.json) — 画像・動画生成に使うプロンプトや映像演出の指示を作る。
 
+- [ULLIMO](ullimo_2026-11-23.json) — 保存済みの音声・動画プロジェクトやトークン残高を確認し、音声生成を管理する。
+- [Flat](flat_2026-11-23.json) — 楽譜を作成・検索し、MusicXMLやMIDIで書き出す。
+- [Misar.Blog](misar-blog_2026-11-23.json) — ブログ記事の執筆・公開予定や反応の確認を支援する。
+- [Adly](adly_2026-11-23.json) — ブランドに合わせたSNS投稿や広告の制作・予約投稿を支援する。 TikTok対応状況は説明間に相違があり未確認。
+
 ## 一覧本体との照合
 
 [名称照合の記録](catalog_name_audit_2026-11-14.json) — 詳細35件と作業ブランチの一覧3,941件を比較。34件は名前が一致、Palimpsestは一致なし。名前の一致は同一性の確定ではない。個々のJSONにある旧「照合未確認」の記載は調査時点の記録で、最新の照合結果はこの記録を参照。
