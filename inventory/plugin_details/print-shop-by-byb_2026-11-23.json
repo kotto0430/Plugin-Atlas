@@ -1,0 +1,27 @@
+{
+  "name": "Print Shop by BYB",
+  "category": "Creativity",
+  "provider": "Bottle Your Brand",
+  "version": "1.1.0",
+  "observed_at": "2026-11-23",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ad25e50de2081918cbe02abad5fc560?category=creativity",
+  "original_description": "Turn any image into printed custom stickers or labels. Design something in ChatGPT, or drop in a photo or logo, and get a link to order with your print-ready artwork already attached.\n\nMake die-cut vinyl stickers cut to the shape of your art (2\" to 6\", 20-piece minimum), wine labels (3.5\" × 4\"), beer labels (4\" × 3.5\"), water bottle labels (8.25\" × 1.75\" or 8\" × 2.125\"), dropper bottle labels (3\" × 2\"), and all-purpose square and rectangle labels from 2\" to 6\" for jars, candles, boxes, packaging and more.\n\nYour art is sized to its exact print size with bleed at 300 dpi, so an image straight from ChatGPT is ready to print. See your wine, beer, water or dropper bottle label on a real bottle before you order, so there's no guessing what the final product will look like, plus a print preview showing exactly where the cut lines are and the safe zone for text. Low resolution or text too close to the edge gets flagged before you order. Think of it as your design and print assistant for custom stickers and labels.\n\nStickers are printed on 7 mil, high-gloss, UV-coated vinyl that's waterproof, dishwasher safe and rated for 5 years outdoors. Labels are printed on 7 mil matte stock that's waterproof, with an easy crack-and-peel backing for quick application.\n\nAsk anything about printing while you're at it: what size fits a water bottle or a jar, whether your file is sharp enough, or how to remove a background so a sticker cuts to shape.\n\nTry asking: \"Make stickers of my dog from this picture.\" \"Turn our logo into 3 inch square labels for candle jars.\" \"Design a beer label for my homebrew IPA and show it on a bottle.\" \"I need 4x2 rectangle labels for my product boxes.\" \"Give me a template for a dropper bottle label so I can design it in Canva.\"",
+  "summary_ja": "画像からステッカーやラベルの印刷用プレビューと注文リンクを作る。",
+  "limitations_ja": [
+    "型抜きステッカーは20枚からと説明。価格・配送条件や実際の印刷品質は未検証。"
+  ],
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "Print Shop by BYB",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "印刷",
+    "ステッカー",
+    "商品ラベル"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}
