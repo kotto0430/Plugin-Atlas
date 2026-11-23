@@ -680,7 +680,7 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 - [1TapEdit AI Studio](1tapedit-ai-studio_2026-11-23.json) — 画像・動画・ナレーションを生成する。
 - [Video Crop](video-crop_2026-11-23.json) — 短い動画の中央を横長・縦長・正方形に切り抜く。
 - [Media Studio (MegaScenes)](media-studio-megascenes_2026-11-23.json) — 複数のモデルから選び、画像・動画・音声や音楽を生成する。
-- [HeyTurbine](heyturbine_2026-11-23.json) — ブランドに沿った動画や画像を作り、SNS投稿の予定・管理を支援する。
+- [HeyTurbine](heyturbine_2026-11-23.json) — ブランド調査・コンテンツ制作の説明と内包アプリ欄の読み取り専用の説明が異なり、対応範囲は未確認。
 
 ## 一覧本体との照合
 
