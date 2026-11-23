@@ -1,0 +1,22 @@
+{
+  "official_app_name": "Blendstra",
+  "provider": "Fenceline",
+  "version": "1.8.1",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6abf2061bf5c819197c3dce3c63a88bf?category=creativity",
+  "observed_at": "2026-11-23",
+  "original_description": "Turn an idea into a 3D model you can explore, refine and reuse. Describe what you want to make, inspect the result, then ask for a change. On supported clients, rotate and explore your model in an interactive chat card and select a part for a focused revision. Keep earlier versions and pick up where you left off in a later conversation.\n\nBring a supported GLB made elsewhere into the same viewer, or create and revise an editable Blender project. When you choose to share, give others an interactive model page with the source-download and remix permissions you select. Permitted remixes retain source attribution.\n\nProjects start private. Prepared GLB viewing does not supply editable Blender source. Clients without interactive cards receive a model link. Models are for creative work and visualization; inspect results for your intended use.\n\nCurrent CPU, GPU, import, viewing and export availability follows your connected account. Account shows access and usage without activating additional features. When execution is unavailable, use only the saved-model and import paths currently permitted for your account.",
+  "summary_ja": "3Dモデルを生成・確認・修正し、権限を指定して共有する。",
+  "usage_tags": [
+    "3D制作",
+    "Blender",
+    "モデル共有"
+  ],
+  "limitations": [
+    "利用可能な機能は接続アカウントに依存。GLBの閲覧だけでは編集可能なBlenderソースは提供されない。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
