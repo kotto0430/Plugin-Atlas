@@ -698,6 +698,9 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 - [Plnty](plnty_2026-11-24.json) — 写真や画像を編集・拡大し、静止画から動画を作る。
 - [Beatwise Metronome](beatwise-metronome_2026-11-24.json) — メトロノームの設定や音符の長さの計算、テンポ練習計画を支援する。
 
+
+- [Image Generator（MegaScenes）](image-generator-megascenes_2026-11-24.json) — 文章で指定した写真風・イラスト・3D風などの画像を作成する。
+
 ## 一覧本体との照合
 
 [名称照合の記録](catalog_name_audit_2026-11-14.json) — 詳細35件と作業ブランチの一覧3,941件を比較。34件は名前が一致、Palimpsestは一致なし。名前の一致は同一性の確定ではない。個々のJSONにある旧「照合未確認」の記載は調査時点の記録で、最新の照合結果はこの記録を参照。
