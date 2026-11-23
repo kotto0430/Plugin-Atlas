@@ -671,6 +671,17 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 - [UlazAI Media](ulazai-media_2026-11-23.json) — 対応モデルを選び、提供枠を使った非公開の1K画像生成を支援する。
 - [DesignerBox](designerbox_2026-11-23.json) — 商品写真から広告やネットショップ向けの画像を作成・編集する。
 
+- [Formatry](formatry_2026-11-23.json) — 商品写真や文章から広告を作成・編集し、画像や動画に出力する。
+- [Fuzzbucket](fuzzbucket_2026-11-23.json) — ブランドに合わせた画像・動画・音声・文章の制作をワークスペースで管理する。
+- [Luma AI](luma-ai_2026-11-23.json) — 画像や動画を生成し、動画の延長や画角の変更を行う。
+- [CookUp](cookup_2026-11-23.json) — 保存した音楽セッションを再生・編集し、楽曲やビートの制作を支援する。
+- [Diorama](diorama_2026-11-23.json) — 文章から小さな3Dボクセルの風景を作り、会話で変更する。
+- [Ringoz](ringoz_2026-11-23.json) — 入力した言葉を歌う着信音やアラームを作る。
+- [1TapEdit AI Studio](1tapedit-ai-studio_2026-11-23.json) — 画像・動画・ナレーションを生成する。
+- [Video Crop](video-crop_2026-11-23.json) — 短い動画の中央を横長・縦長・正方形に切り抜く。
+- [Media Studio (MegaScenes)](media-studio-megascenes_2026-11-23.json) — 複数のモデルから選び、画像・動画・音声や音楽を生成する。
+- [HeyTurbine](heyturbine_2026-11-23.json) — ブランドに沿った動画や画像を作り、SNS投稿の予定・管理を支援する。
+
 ## 一覧本体との照合
 
 [名称照合の記録](catalog_name_audit_2026-11-14.json) — 詳細35件と作業ブランチの一覧3,941件を比較。34件は名前が一致、Palimpsestは一致なし。名前の一致は同一性の確定ではない。個々のJSONにある旧「照合未確認」の記載は調査時点の記録で、最新の照合結果はこの記録を参照。
