@@ -1012,3 +1012,10 @@ Viral Hook Engine、AI Jingle Maker、Print Shop by BYB、Glif、Globestudio、A
 refern Notan Generator、Songtekst schrijven、Linepace Teleprompter、Ember Websites、Faceless.video、Music Generator（MegaScenes）、Gulab、PINOC、UlazAI Media、DesignerBox の公式説明・出典・日本語要約・用途と確認状況を記録。前回534件から10件増え、詳細ファイルは累計544件。実動作・料金・一覧本体との照合は未検証。接続・インストール・設定変更・投稿・公開は行っていない。
 
 refernの画像処理についてサーバー上でのサイズ変更と端末上での明暗画像作成の説明を区別。Songtekst schrijvenは主にオランダ語、PINOCは対応レンダラーが必要と記録。次回はクリエイティブ一覧の DesignerBox の次、Formatry と Fuzzbucket 付近から既存記録との重複を確認して再開する。表示順は変わる可能性がある。
+
+
+### 詳細調査（2026-11-23、クリエイティブ10件）
+
+Formatry、Fuzzbucket、Luma AI、CookUp、Diorama、Ringoz、1TapEdit AI Studio、Video Crop、Media Studio（MegaScenes）、HeyTurbine の公式説明・出典・日本語要約・用途と確認状況を記録。前回544件から10件増え、詳細ファイルは累計554件。実動作・料金・一覧本体との照合は未検証。接続・インストール・設定変更・投稿・公開は行っていない。
+
+Dioramaは精密な図面や印刷用ファイルではないこと、CookUpの手動MIDI編集はウェブスタジオで行うこと、Media Studioはチャット添付ファイルを受け取らないことなどを記録。次回はクリエイティブ一覧の HeyTurbine の次、Krumzi と Textile Designer AI 付近から既存記録との重複を確認して再開する。表示順は変わる可能性がある。
