@@ -1,0 +1,27 @@
+{
+  "name": "1TapEdit AI Studio",
+  "category": "Creativity",
+  "provider": "Amine BENSALAH",
+  "version": "1.0.0",
+  "observed_at": "2026-11-23",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ad7172b7ea88191afc8cf3df7c9a9b8?category=creativity",
+  "original_description": "1TapEdit is a multimodal generative AI platform for creating cinematic videos, photorealistic 8K imagery, and authentic neural voiceovers. Generate high-definition video clips with customizable motion dynamics and aspect ratios, synthesize studio-quality images across diverse visual styles, and produce expressive voiceovers directly using your personal account balance.",
+  "summary_ja": "画像・動画・ナレーションを生成する。",
+  "limitations_ja": [
+    "個人アカウントの残高を使用すると説明。出力品質は未検証。"
+  ],
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "1TapEdit AI Studio",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "画像生成",
+    "動画制作",
+    "音声"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}
