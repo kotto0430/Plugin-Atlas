@@ -644,6 +644,11 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 - [Misar.Blog](misar-blog_2026-11-23.json) — ブログ記事の執筆・公開予定や反応の確認を支援する。
 - [Adly](adly_2026-11-23.json) — ブランドに合わせたSNS投稿や広告の制作・予約投稿を支援する。 TikTok対応状況は説明間に相違があり未確認。
 
+- [Clypmint: AI Video Editor](clypmint-ai-video-editor_2026-11-23.json) — 映像や台本から動画を作り、字幕やクリップの編集を支援する。
+- [Image to Video (MegaScenes)](image-to-video-megascenes_2026-11-23.json) — MegaScenesの画像ライブラリから画像を選び、動きを指定して短い動画を作る。
+- [TeamTime Make It Real](teamtime-make-it-real_2026-11-23.json) — 衣類のデザインを商品としてプレビューし、購入者や店舗所有者の操作を支援する。
+- [Contenta Converter](contenta-converter_2026-11-23.json) — Windows上で画像の一括変換・縮小やPDFの画像化を支援する。
+
 ## 一覧本体との照合
 
 [名称照合の記録](catalog_name_audit_2026-11-14.json) — 詳細35件と作業ブランチの一覧3,941件を比較。34件は名前が一致、Palimpsestは一致なし。名前の一致は同一性の確定ではない。個々のJSONにある旧「照合未確認」の記載は調査時点の記録で、最新の照合結果はこの記録を参照。
