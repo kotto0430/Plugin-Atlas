@@ -1,0 +1,27 @@
+{
+  "name": "Music Generator",
+  "category": "Creativity",
+  "provider": "MegaScenes",
+  "version": "1.0.1",
+  "observed_at": "2026-11-23",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ae317a64dd881918f6270a0b69092e3?category=creativity",
+  "original_description": "Describe the music you need, the genre, the mood, the tempo and the instruments, and get an instrumental track as an audio file.\n\nChatGPT tells you what the run needs and creates the track in your MegaScenes account when you ask. The track plays in the chat and stays in your library.\n\nFor video soundtracks, game loops, podcast beds and study music.\n\nLimitations: new instrumental tracks from a description; it does not copy an existing song or artist, or edit audio you attach. Making a file needs a signed-in MegaScenes account and runs in it; nothing is made until you confirm. Not for sexual or adult content or for real people's likeness. Files are made by generative models and saved in your MegaScenes library.",
+  "summary_ja": "ジャンルや雰囲気を指定して、インストゥルメンタル曲を作る。",
+  "limitations_ja": [
+    "MegaScenesアカウントが必要。既存曲やアーティストの模倣、添付音声の編集はしないと説明。"
+  ],
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "Music Generator",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "音楽制作",
+    "BGM",
+    "動画制作"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}
