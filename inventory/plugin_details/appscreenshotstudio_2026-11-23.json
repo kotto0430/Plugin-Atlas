@@ -1,0 +1,22 @@
+{
+  "official_app_name": "AppScreenshotStudio",
+  "provider": "AppScreenshotStudio",
+  "version": "0.8.7",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6abf5bd2134c8191aa7eeb70cb93644f?category=creativity",
+  "observed_at": "2026-11-23",
+  "original_description": "Create App Store and Google Play screenshots for your app. Describe what the app does and AppScreenshotStudio designs a full set of store screenshots at the exact sizes Apple and Google require. Refine the set by describing the change: shorter headlines, a new colour palette, a different layout, a tilted device, or one background stretched across several screenshots. When it looks right, export the PNGs, ready to upload to App Store Connect or Google Play Console.",
+  "summary_ja": "アプリストア掲載用のスクリーンショットを作り、レイアウトなどを調整する。",
+  "usage_tags": [
+    "アプリ開発",
+    "スクリーンショット",
+    "デザイン"
+  ],
+  "limitations": [
+    "ストアが要求するサイズへの対応は提供元の説明であり、実際の要件や出力は未確認。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
