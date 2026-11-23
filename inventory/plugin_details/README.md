@@ -649,6 +649,17 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 - [TeamTime Make It Real](teamtime-make-it-real_2026-11-23.json) — 衣類のデザインを商品としてプレビューし、購入者や店舗所有者の操作を支援する。
 - [Contenta Converter](contenta-converter_2026-11-23.json) — Windows上で画像の一括変換・縮小やPDFの画像化を支援する。
 
+- [Viral Hook Engine](viral-hook-engine_2026-11-23.json) — SNS投稿の冒頭を、収録された型を使って作成・調整する。
+- [AI Jingle Maker](ai-jingle-maker_2026-11-23.json) — 音声と既存の音素材を組み合わせ、短いジングルを制作する。
+- [Print Shop by BYB](print-shop-by-byb_2026-11-23.json) — 画像からステッカーやラベルの印刷用プレビューと注文リンクを作る。
+- [Glif](glif_2026-11-23.json) — 画像・動画・音声を同じプロジェクトで作成し、後から続きを編集する。
+- [Globestudio](globestudio_2026-11-23.json) — ドット地図や3D地球儀のデザインリンクと埋め込みコードを作る。
+- [AI Voiceover](ai-voiceover_2026-11-23.json) — 文章からナレーション音声を作り、MP3のリンクを返す。
+- [Text to Speech (MegaScenes)](text-to-speech-megascenes_2026-11-23.json) — 台本を読み上げた音声をMegaScenesで作成する。
+- [Wonder](wonder_2026-11-23.json) — 実際のHTML・CSSを使うキャンバスで画面の設計や編集を支援する。
+- [Cattalog](cattalog_2026-11-23.json) — 表データや画像を使って商品カタログを作成・編集し、PDFに出力する。
+- [One4Wall](one4wall_2026-11-23.json) — 雰囲気や色からスマートフォン向け壁紙を探し、表示・保存する。
+
 ## 一覧本体との照合
 
 [名称照合の記録](catalog_name_audit_2026-11-14.json) — 詳細35件と作業ブランチの一覧3,941件を比較。34件は名前が一致、Palimpsestは一致なし。名前の一致は同一性の確定ではない。個々のJSONにある旧「照合未確認」の記載は調査時点の記録で、最新の照合結果はこの記録を参照。
