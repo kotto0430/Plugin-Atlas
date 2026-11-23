@@ -1,0 +1,22 @@
+{
+  "official_app_name": "Pixara",
+  "provider": "Pixara",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6abe4bf97b7c8191aba82246dcea03f3?category=creativity",
+  "observed_at": "2026-11-23",
+  "original_description": "Pixara connects ChatGPT to your Pixara account so you can generate and edit images, video, voiceover and music from the conversation.\n\nDescribe what you want and ChatGPT chooses from the models available on Pixara, using Pixara's model recommendations. Finished images, video and audio open in an inline media viewer.\n\nWhat you can do:\n- Generate images from a prompt or a reference image, such as product shots and ad creative.\n- Generate video from a prompt or an image.\n- Create voiceovers and music, and lip-sync a video to an audio track.\n- Edit media: upscale, remove backgrounds, reframe to new aspect ratios, add subtitles and sound effects, and trim or merge clips.\n- Assemble clips, narration and music into a single edited video.\n- Browse and reuse your past generations and uploads, and run your saved Pixara workflows.\n\nImages usually finish in seconds; video can take a few minutes. Requires a Pixara account; sign in when you connect.",
+  "summary_ja": "画像・動画・音声の生成や編集、動画への素材の組み立てを行う。",
+  "usage_tags": [
+    "画像生成",
+    "動画制作",
+    "音声"
+  ],
+  "limitations": [
+    "Pixaraアカウントが必要。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
