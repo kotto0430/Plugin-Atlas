@@ -1,0 +1,22 @@
+{
+  "official_app_name": "Print Ready",
+  "provider": "Brian Hockenmaier",
+  "version": "0.7.45",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ad4196fb960819189edf1264310ddf7?category=creativity",
+  "observed_at": "2026-11-23",
+  "original_description": "Turn an idea into a custom 3D-printable model with just a few measurements or photos. Make replacement parts, organizers, mounts, holders, adapters, cases, or personalized gifts. Design complicated projects simply via chat!\n\nPrint Ready is optimized for mechanical parts, and can create accurate screw threads, gears, hinges, and snap-together parts. It isn't as optimized for purely artistic sculptures - but it will still try!\n\nPreview your design in 3D and download an STL or 3MF file for your printer right in ChatGPT. Find examples and instructions at https://printreadyparts.com .",
+  "summary_ja": "寸法や写真をもとに、3Dプリント向けの部品を設計する。",
+  "usage_tags": [
+    "3Dプリント",
+    "部品設計",
+    "CAD"
+  ],
+  "limitations": [
+    "機械部品向けに最適化されており、純粋な彫刻にはそれほど最適化されていないと説明。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
