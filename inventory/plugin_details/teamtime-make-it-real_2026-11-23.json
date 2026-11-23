@@ -1,0 +1,27 @@
+{
+  "name": "TeamTime Make It Real",
+  "category": "Creativity",
+  "provider": "TeamTime",
+  "version": "1.30.32",
+  "observed_at": "2026-11-23",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ad90f7bf82881918684c86038d0a2cd?category=creativity",
+  "original_description": "TeamTime Make It Real turns an apparel design in ChatGPT into a TeamTime product preview. Shoppers can capture a jersey, hoodie, or shirt design, request adjustments, and use Buy Now to open a temporary checkout listing on teamtime.shop with live sizes, price, and product details.\n\nStore owners who sign in with TeamTime can list their stores and products, replace photos after they confirm, and use Push to Store to add a catalog item to their collection. Buy Now checkout listings and Push to Store collection writes are separate tools and must not be mixed.\n\nThe plugin does not access stores or products outside the signed-in owner's account, does not expire permanent catalog products, and does not generate Nike, other major-brand, or professional-team logos. Sign-in is required only for owner store tools. Customer design preview and Buy Now do not require TeamTime login.",
+  "summary_ja": "衣類のデザインを商品としてプレビューし、購入者や店舗所有者の操作を支援する。",
+  "limitations_ja": [
+    "店舗オーナー用ツールにはログインが必要。購入用ページと店舗への商品追加は別の操作。"
+  ],
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "TeamTime Make It Real",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "衣類",
+    "グッズ制作",
+    "商品プレビュー"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}
