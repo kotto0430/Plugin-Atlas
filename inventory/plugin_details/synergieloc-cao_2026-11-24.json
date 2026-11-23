@@ -1,0 +1,25 @@
+{
+  "name": "Synergieloc CAO",
+  "category": "Creativity",
+  "provider": "ASSOU GBEDJAGNI",
+  "version": "1.0.0",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6acfce1731d88191ba6d8ae7177d03e5?category=creativity",
+  "original_description": "Synergieloc CAO turns a description of a house into a structured building scene (walls, doors, windows, rooms and roof, in millimetres) and takes it from design to the building permit and the construction schedule.\n\nWhat you can do:\n- Start from a verified example — a house, an apartment, an extension, or a complete project: the house on its 550 m² plot with driveway, parking, footpath, gate, buried networks (wastewater, rainwater, drinking water) and landscaping (trees, hedge, fences, terrace, vegetable garden) — or lay out a house from a brief: bedrooms, floor area, open or closed kitchen, bathrooms, roof.\n- Ask for changes (enlarge a room, move a wall, add or resize an opening): the assistant edits the scene and checks it again.\n- Check the scene for construction defects (walls through doorways, overlapping walls, volumes crossing walls or ceilings, stairs, openings, plantings too close to a boundary) and against French building rules, with proposed fixes.\n- Draft a French building-permit file for a detached house (Cerfa 13406): floor area, footprint, heights, site plan, section, written notice and elevations. Pieces that need real-world data (location map, landscape insertion, photos) are listed as to be supplied, never invented.\n- Plan the construction schedule trade by trade, with dates computed from the quantities.\n- Issue a drawing set at true scale (site plan, plans, elevations, section, details, networks, schedules), a dimensioned DXF drawing for AutoCAD and an IFC 4 model for BIM software (Revit, ArchiCAD, BlenderBIM).\n- Render a plan or a 3D view, compute quantities, estimate construction cost, produce door, window and room schedules, estimate energy performance, study sunlight, check planning rules, and prepare a 4K walkthrough rendered in your own browser.\n\nLimits: checks, schedules and estimates are indicative technical aids — not an official certification, a regulatory approval or a substitute for an architect, an engineer or a building inspector. Local zoning (PLU) is not checked. Building rules are mainly French. Outdoor works (driveway, networks, landscaping) are drawn and checked but not yet included in the schedule or the cost estimate. Large files come back as a download link kept in the server's memory for 30 minutes; a walkthrough scene is kept for 7 days. Requests made through this plugin are not sent to any third-party AI service.",
+  "summary_ja": "住宅の間取り・図面・工程表やフランスの建築許可書類の下書きを支援する。",
+  "limitations_ja": "主にフランスの規則を対象とし、地方の用途規制は未確認。検査や見積もりは参考であり、公式承認や専門家の代替ではないと説明。",
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "Synergieloc CAO",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "建築",
+    "設計",
+    "図面"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}
