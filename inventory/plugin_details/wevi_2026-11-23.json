@@ -1,0 +1,25 @@
+{
+  "name": "Wevi",
+  "category": "Creativity",
+  "provider": "Wevi",
+  "version": "1.0.0",
+  "observed_at": "2026-11-23",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac7c914782c8191affccbc16662976c?category=creativity",
+  "original_description": "Wevi makes short marketing videos for software products: launch videos, feature explainers, product showcases, social promos and call-to-action outros. Every scene is a published motion template, about 3 to 15 seconds long, whose text, colors, logo and image slots are filled for the product. Scenes that show real product UI are captured from the live page. Wevi renders each scene in the cloud and joins them into one MP4 with background music and an AI voiceover.\n\nHow it works in ChatGPT\n- Describe the product and the goal of the video. Wevi reads the product's own pages, plans a storyboard against its template library with templates that fit the interface on screen, and shows the plan for approval before anything is built.\n- Scenes that need real product UI are captured in a live browser: Wevi opens the page, moves to the right view, and cuts the chosen components onto their own layer over a clean background. Private apps work too: you sign in yourself in that browser session, and Wevi never asks for or types a password.\n- The logo, colors and fonts come from the product's website. Narration is written to fit each scene, music and a voice are chosen for the brand's tone, and the cut between scenes is matched automatically.\n- After rendering, Wevi looks at the rendered scenes, flags a tiny logo, cut-off text or placeholder copy, and fixes them before the video is shared.\n- Revise without rebuilding: change a scene's copy, swap a template, add, remove or reorder scenes. Only changed scenes re-render.\n\nWhat Wevi cannot do\nGenerate free-form or generative footage (no people, characters, animals or scenery), edit your own video files, change a template's animation or layout, mix aspect ratios in one video, output vertical video, or clone a specific voice.\n\nAccount\nRequires a Wevi account at wevi.ai; sign in with it the first time you use the plugin in ChatGPT.",
+  "summary_ja": "テンプレートと実際の製品画面を使い、ソフトウェアの紹介動画を作る。",
+  "limitations_ja": "Weviアカウントが必要。既存動画ファイルの編集や縦型動画の出力などはできないと説明。",
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "Wevi",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "動画制作",
+    "製品紹介",
+    "マーケティング"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}
