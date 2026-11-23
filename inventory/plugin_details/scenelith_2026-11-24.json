@@ -1,0 +1,25 @@
+{
+  "name": "Scenelith",
+  "category": "Creativity",
+  "provider": "Scenelith",
+  "version": "1.1.1",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac9b1b2aafc8191bb6ab54dbcfab157?category=creativity",
+  "original_description": "Create and edit images, generate videos from your references, and work with saved media in Scenelith. Browse your Library, reuse character references, explore supported models, and retrieve original results. Connect your Scenelith account and choose the workspace and permissions you want to share. Available actions depend on the access you approve.",
+  "summary_ja": "画像の作成・編集や、参考素材からの動画生成を行う。",
+  "limitations_ja": "アカウントの接続が必要。利用できる操作は承認したアクセス権に依存する。",
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "Scenelith",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "画像生成",
+    "動画制作",
+    "キャラクター"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}
