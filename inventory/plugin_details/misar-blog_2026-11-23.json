@@ -1,0 +1,27 @@
+{
+  "name": "Misar.Blog",
+  "category": "Creativity",
+  "provider": "Misar AI",
+  "version": "1.1.1",
+  "observed_at": "2026-11-23",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac4ed001d5c81918f6023c403630e67?category=creativity",
+  "original_description": "Misar.Blog lets you write, publish and grow a blog from ChatGPT. Draft and edit articles, publish now or schedule for later, organise posts into series, research topics, generate SEO-friendly titles and cover images, and review comments, reactions, newsletter subscribers and traffic.\n\nIt is built for writers, creators and teams who publish on Misar.Blog. A Misar.Blog account is required, and the plugin only changes articles owned by the signed-in account.",
+  "summary_ja": "ブログ記事の執筆・公開予定や反応の確認を支援する。",
+  "limitations_ja": [
+    "Misar.Blogアカウントが必要。サインインしたアカウント所有の記事のみ変更するという説明。"
+  ],
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "Misar.Blog",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "ブログ",
+    "文章作成",
+    "公開管理"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}
