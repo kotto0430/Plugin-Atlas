@@ -701,6 +701,18 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 
 - [Image Generator（MegaScenes）](image-generator-megascenes_2026-11-24.json) — 文章で指定した写真風・イラスト・3D風などの画像を作成する。
 
+
+- [Comfy Cloud](comfy-cloud_2026-11-24.json) — 画像・動画・音声・3D素材をモデルやワークフローから生成する。
+- [Synergieloc CAO](synergieloc-cao_2026-11-24.json) — 住宅の間取り・図面・工程表やフランスの建築許可書類の下書きを支援する。
+- [Art Goat](art-goat_2026-11-24.json) — 美術家向けの助成金・公募・滞在制作などを検索する。
+- [SplitMetrics Lyra](splitmetrics-lyra_2026-11-24.json) — モバイルアプリ向けの動画・画像広告を作成し、別サイズや言語に展開する。
+- [GHEM](ghem_2026-11-24.json) — 文章や参考画像から商品画像・動画を生成し、プロジェクトで管理する。
+- [Kinetik](kinetik_2026-11-24.json) — SNS向けの投稿や動画を作り、トレンド調査や投稿の管理を支援する。
+- [Tabularia](tabularia_2026-11-24.json) — 書籍・記事・脚本の構成管理や原稿の読み直し・改稿を支援する。
+- [Muziek maken met AI](muziek-maken-met-ai_2026-11-24.json) — 記念日などに向けたオリジナルの歌を作り、チャットで再生する。
+- [HospitalityLens](hospitalitylens_2026-11-24.json) — 宿泊施設や物件の掲載写真を調整し、元画像と比較する。
+- [Mozonic](mozonic_2026-11-24.json) — 楽曲ミックスを分析・補正し、マスタリングやステムの書き出しを行う。
+
 ## 一覧本体との照合
 
 [名称照合の記録](catalog_name_audit_2026-11-14.json) — 詳細35件と作業ブランチの一覧3,941件を比較。34件は名前が一致、Palimpsestは一致なし。名前の一致は同一性の確定ではない。個々のJSONにある旧「照合未確認」の記載は調査時点の記録で、最新の照合結果はこの記録を参照。
