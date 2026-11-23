@@ -1,0 +1,25 @@
+{
+  "name": "Draw40",
+  "category": "Creativity",
+  "provider": "LIN SI",
+  "version": "1.0.0",
+  "observed_at": "2026-11-23",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac9b1feed608191bb6537584c8d9557?category=creativity",
+  "original_description": "Draw40 is an independent app that helps you create, find, view, and edit saved diagrams and whiteboards in your private workspace through ChatGPT. Ask to add or update shapes, text, and connections, or open a board to pan and zoom in an inline canvas. Enter fullscreen to edit directly, then explicitly save or discard your changes. You can also rename boards, move them into existing folders, delete individual boards, and open saved boards on the website. The interface supports English and Simplified Chinese. Saves can overwrite concurrent edits, and deleted boards have no restore feature.",
+  "summary_ja": "保存した図やホワイトボードを作成・検索・編集する。",
+  "limitations_ja": "英語と簡体字中国語に対応。保存は同時編集を上書きすることがあり、削除したボードは復元できないと説明。",
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "Draw40",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "図解",
+    "ホワイトボード",
+    "企画"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}
