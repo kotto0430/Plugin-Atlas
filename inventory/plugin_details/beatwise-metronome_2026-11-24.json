@@ -1,0 +1,26 @@
+{
+  "name": "Beatwise Metronome",
+  "provider": "Zovo",
+  "version": "1.0.1",
+  "original_description": "Beatwise Metronome helps musicians plan tempo practice with an online metronome, tap tempo and a bpm counter in the chat. Set a 120 bpm metronome, choose accents and subdivisions, or build a bar-based tempo ramp. Use the beat row with sound or for silent practice.\n\nThe tempo calculator converts bpm to ms and rhythmic cycle hertz for whole through sixty-fourth notes, including dotted notes and triplets. Use it as a delay time calculator, compare reverb pre-delay suggestions, reverse a known note duration into beats per minute, or calculate bar and song length. BPM means quarter notes per minute. Italian tempo markings are approximate ranges that can overlap.\n\nPlan a metronome for practice with a start tempo, target tempo, a BPM or percent step and minutes per stage. Preview the ladder and download it as CSV.\n\nLimits: 20–400 quarter-note BPM, 1–16 beats per bar, 1000 ramp stages and 200 practice stages. Numeric inputs accept up to three decimal places. The widget runs only while it is on the screen. Audio timing depends on the device. No recording and no pitch detection.",
+  "app_description": "アクセント、細分化、タップテンポに対応したメトロノーム。BPMから音符の長さを計算し、小節ごとにテンポを変え、練習計画をCSVでダウンロードできます。BPMは1分あたりの四分音符の数です。ウィジェットは画面表示中のみ動作し、音のタイミングは端末に依存します。録音や音高検出には対応していません。",
+  "summary_ja": "メトロノームの設定や音符の長さの計算、テンポ練習計画を支援する。",
+  "limitations_ja": "20〜400 BPM。ウィジェットは表示中のみ動作し、音のタイミングは端末に依存。録音・音高検出は非対応。",
+  "usage_tags": [
+    "音楽",
+    "練習",
+    "テンポ"
+  ],
+  "category": "Creativity",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6acb6c4c1a408191b4023153009cfe00?category=creativity",
+  "official_app_name": "Beatwise Metronome",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明。app_descriptionはアプリ欄の原文。",
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。"
+}
