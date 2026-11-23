@@ -1,0 +1,27 @@
+{
+  "name": "AI Video Maker FX",
+  "category": "Creativity",
+  "provider": "InfoseekAI",
+  "version": "1.0.0",
+  "observed_at": "2026-11-23",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6acd3501b67c8191920d7973c0b9fd19?category=creativity",
+  "original_description": "Create polished videos from simple text prompts. Turn natural-language direction into videos for social content, product stories, cinematic concepts, business promotions, and more.\n\n- Describe your idea naturally; the Infoseek agent helps shape it into a strong video prompt\n- Generate text-to-video clips, animate image references, edit videos, or extend existing clips\n- Reference up to 10 image references or one MP4 video reference\n- Set your aspect ratio, quality, duration, and audio settings\n- Easily share or download completed videos\n- Supports many languages and accents; pronunciation, timing, and speaker attribution may vary\n- Use your Infoseek account to access your saved videos, music, and more",
+  "summary_ja": "文章や画像をもとに動画を生成し、既存動画の編集・延長を支援する。",
+  "limitations_ja": [
+    "画像参照は最大10点、動画参照はMP4形式1点。発音・タイミング・話者の割り当ては変わる場合がある。"
+  ],
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "AI Video Maker FX",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "動画制作",
+    "動画編集",
+    "動画生成"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}
