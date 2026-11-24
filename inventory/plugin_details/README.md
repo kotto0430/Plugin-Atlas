@@ -826,6 +826,17 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 - [Tattoo Designer](tattoo-designer-megascenes_2026-11-24.json) — 題材・画風・場所からタトゥーの図案画像を作る。
 - [Character App](character-app_2026-11-24.json) — 写真や文章からキャラクターを作り、短い動画や物語に登場させる。
 
+- [Dr.SHI-GYO](dr-shi-gyo_2026-11-24.json) — 医師向けの日本語教育コンテンツについて、動画企画・台本・図解・編集用素材の制作を支援する。
+- [Birthday Songs](birthday-songs-abracadabrax_2026-11-24.json) — 名前や思い出を入れた誕生日の歌詞と楽曲を作る。
+- [Podcast Intros](podcast-intros_2026-11-24.json) — 番組名や雰囲気からポッドキャスト用の短いジングルを作る。
+- [Deck.gallery](deck-gallery_2026-11-24.json) — プレゼン資料やスライドの構成・デザイン事例を検索する。
+- [OwlCAD](owlcad_2026-11-24.json) — 寸法を指定して3D印刷用の編集可能なCAD部品を作り、形状や印刷条件を確認する。
+- [PatchDesign.AI](patchdesign-ai_2026-11-24.json) — ワッペンのデザイン案を作り、種類・大きさ・数量に応じた価格を確認する。
+- [3D Animation](3d-animation-megascenes_2026-11-24.json) — 文章や保存済み画像から3Dアニメ風の短い動画を作る。
+- [Pitch Decks](pitch-decks-manymotions_2026-11-24.json) — スタートアップの説明から、投資家向けの6枚のスライド画像を作る。
+- [3dCMS](3dcms_2026-11-24.json) — 会話から歩き回れる3Dウェブページを作成・修正し、共有用リンクを公開する。
+- [Beveled](beveled_2026-11-24.json) — 画面画像から端末モックアップやアプリ紹介用画像・動画を作る。
+
 ## 一覧本体との照合
 
 [名称照合の記録](catalog_name_audit_2026-11-14.json) — 詳細35件と作業ブランチの一覧3,941件を比較。34件は名前が一致、Palimpsestは一致なし。名前の一致は同一性の確定ではない。個々のJSONにある旧「照合未確認」の記載は調査時点の記録で、最新の照合結果はこの記録を参照。
