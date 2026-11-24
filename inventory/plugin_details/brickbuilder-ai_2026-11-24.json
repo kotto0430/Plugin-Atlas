@@ -1,0 +1,25 @@
+{
+  "name": "BrickBuilder AI",
+  "category": "Creativity",
+  "provider": "Jake Johnson",
+  "version": "0.1.4",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6abee10605488191a105dfe0a2f045d4?category=creativity",
+  "original_description": "Create and edit LEGO-compatible brick models from text descriptions. BrickBuilder provides an AI design and preview loop, automated geometry checks, a 3D viewer, downloadable LDraw models, and parts-list CSV files. Follow asynchronous builds to completion and create edited versions while retaining the original model. Requires a connected BrickBuilder account. Geometry checks do not guarantee physical buildability. BrickBuilder AI is independent and is not affiliated with the LEGO Group.",
+  "summary_ja": "文章からLEGO互換ブロックのモデルを作成・編集する。",
+  "limitations_ja": "接続済みアカウントが必要。形状チェックは実物として組み立てられることを保証しない。LEGO Groupとは無関係。",
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "BrickBuilder AI",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "ブロック模型",
+    "3D",
+    "設計"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}
