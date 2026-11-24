@@ -1,0 +1,25 @@
+{
+  "name": "PatchDesign.AI",
+  "official_app_name": "PatchDesign.AI",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "PatchDesign.AI",
+  "version": "1.0.2",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ad01622d3108191b097c9766f2c6c38?category=creativity",
+  "original_description": "PatchDesign.AI designs custom patches for teams, troops, clubs, departments, events and brands. Describe the patch, or give it a logo or sketch URL, and in about 15 to 30 seconds it shows the design in the chat as a design card: the preview, its design reference, the patch type and size, and a button that opens the design on patchdesign.ai. Ask for changes in plain words and each change arrives as a new card; earlier versions stay as they were. Ask what a patch costs and it answers from the live production price table for embroidered, woven, chenille, printed and PVC patches, by size and quantity. When you want the patches made, it gives you a link that opens your design on patchdesign.ai with the type, size and quantity set, where you review the order and pay; nothing is ordered or charged from the chat. Previews carry a light PatchDesign.AI mark; the clean production file comes with the order. Each chat can generate up to ten designs before you connect a PatchDesign.AI account, which also saves your designs to the account.",
+  "summary_ja": "ワッペンのデザイン案を作り、種類・大きさ・数量に応じた価格を確認する。",
+  "limitations_ja": "未接続では各チャットで最大10案。プレビューに透かしがあり、注文・支払いは外部サイトで行う。",
+  "usage_tags": [
+    "ワッペン",
+    "デザイン",
+    "商品制作"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "description_scope": "詳細ページ本文の英語説明"
+}
