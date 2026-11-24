@@ -1,0 +1,24 @@
+{
+  "name": "Privacy Blur",
+  "category": "Creativity",
+  "provider": "Firemoon Studio",
+  "version": "1.0.2",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6acc7e2d34f88191b71f7774ab573268?category=creativity",
+  "original_description": "Blur a user-selected fixed rectangle throughout a short video. Review every frame inline before sharing. There is no automatic face or object tracking; moving subjects outside the rectangle remain visible. A connected Firemoon account is required.",
+  "summary_ja": "短い動画の指定した固定範囲にぼかしを入れる。",
+  "limitations_ja": "顔や物体の自動追跡はなく、範囲外へ動いた対象は見える。共有前に全フレームを確認するよう説明。Firemoonアカウントが必要。",
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "official_app_name": "Privacy Blur",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "動画編集",
+    "ぼかし"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}
