@@ -1096,3 +1096,10 @@ Shapesodaは詳細記録済みのため追加しなかった。AIGEはSNS自動�
 Alpenmarketing Bildkompressor、AI Content Drop、Pixel Engine、Voyager Video & 3D、Cenno の公式説明・出典・日本語要約・用途と確認状況を記録。前回606件から5件増え、詳細ファイルは累計611件。実動作・料金・一覧本体との照合は未検証。接続・インストール・設定変更・生成・投稿・公開は行っていない。
 
 Alpenmarketing Bildkompressorの公式本文はドイツ語のため原文の言語を明記。Pixel Engineはスプライトシート対応の説明を記録。Cennoは本文が11スキルで展示・屋内・クリスマスに対応とする一方、内包アプリ欄は8スキルで該当分野は含まないと説明しており、両方の原文を保存して実際の対応範囲を未確認とした。相違を発見したため5件で停止。次回はクリエイティブ一覧の Voyager Video & 3D・Cenno の次の行付近から、既存記録との重複を確認して再開する。表示順は変わる可能性がある。
+
+
+### 詳細調査（2026-11-24、クリエイティブ10件）
+
+DupeFont、Avatar Maker、Beat Maker、Imagen for Real Estate、CILA、RTST AI、T-Shirt Art、MorphaReels、ScriptNib、Photo AI Studio の公式説明・出典・日本語要約・用途と確認状況を記録。前回611件から10件増え、詳細ファイルは累計621件。実動作・料金・一覧本体との照合は未検証。接続・インストール・設定変更・生成・投稿・公開は行っていない。
+
+Avatar MakerとBeat MakerはMegaScenesの同名候補を区別し、内包アプリ名も記録。ScriptNibは本文だけでは具体的なツールが不明。Photo AI Studioは画像生成・編集にクレジットが必要で写真をAIモデル提供者へ送信すると説明。Coloring Pages by Abracadabrax、Character Maker、Book Covers by Abracadabrax は同名の詳細記録があるため今回追加せず、同一性は未確認。次回はクリエイティブ一覧の Photo AI Studio の隣の Tattoo Designs と、次の StemConsole・Chaptershift 付近から既存記録との重複を確認して再開する。表示順は変わる可能性がある。
