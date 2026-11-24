@@ -1,0 +1,25 @@
+{
+  "name": "Photo AI Studio",
+  "category": "Creativity",
+  "provider": "Catio Apps",
+  "version": "1.0.1",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ad4564f8a4081919542be2cd52f1e13?category=creativity",
+  "original_description": "Photo AI Studio turns photos you attach in the chat into new images of you: professional headshots, dating and social profile photos, and themed portraits from more than 150 styles. It can also edit a photo (remove or replace the background, retouch, change hair or expression, upscale, restore an old photo) and make a short video from a photo.\n\nHow it works: attach one or more clear photos of your face and ask Photo AI Studio for the style you want. Browsing the themes needs no account. Creating or editing a photo needs a Photo AI Studio account, which you connect the first time you ask; each photo spends credits from that account, and you can check your balance at any time. Results usually take one to three minutes and arrive as a link to the finished image.\n\nLimitations: the plugin works from the photos you attach, and it does not sell credits inside ChatGPT. Photos are sent to our AI model providers to create the images and are handled as described in our privacy policy.",
+  "summary_ja": "添付した写真から人物画像を作成し、背景の変更などを行う。",
+  "limitations_ja": "写真の生成・編集にはアカウントとクレジットが必要。写真はAIモデル提供者へ送信されると説明。",
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "official_app_name": "Photo AI Studio",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "写真編集",
+    "人物画像",
+    "画像生成"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}
