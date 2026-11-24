@@ -1117,3 +1117,10 @@ Photo AI Studio の詳細からクリエイティブ一覧へ戻るリンクを�
 Tattoo Designs、StemConsole、Chaptershift、EdThumb、Privacy Blur、Designobo、Hangeul Fonts、Givon AI、App Icons、layZ AI の公式説明・出典・日本語要約・用途と確認状況を記録。前回621件から10件増え、詳細ファイルは累計631件。実動作・料金・一覧本体との照合は未検証。接続・インストール・設定変更・生成・投稿・公開は行っていない。
 
 Privacy Blurは固定範囲のみで自動追跡には非対応。Hangeul Fontsは確認できないライセンスを不明と表示。App Iconsはサイズ別セット・ベクター出力や商標確認に非対応と記録。Comic Strips は同名の詳細記録があるため今回追加せず、同一性は未確認。次回はクリエイティブ一覧の App Icons・layZ AI の次、MakeDeez・Speed Studio 付近から既存記録との重複を確認して再開する。表示順は変わる可能性がある。
+
+
+### 詳細調査（2026-11-24、クリエイティブ6件・操作セッションのリセット）
+
+MakeDeez、Speed Studio、ClipFabulous、Thumbnail Maker、GiftsToPrint、Fontesh の公式説明・出典・日本語要約・用途と確認状況を記録。前回631件から6件増え、詳細ファイルは累計637件。実動作・料金・一覧本体との照合は未検証。接続・インストール・設定変更・生成・購入・投稿は行っていない。
+
+Thumbnail Makerは一覧短文・URL・提供元からMegaScenesのものを確認し、既存の同名記録と区別。GiftsToPrintは物品の郵送ではなく印刷用JPGをメールで受け取るデジタル商品と説明。次のWandcase Creatorの詳細を確認中、「続きを読む」の展開操作が実行される前に操作セッションがリセットされたため6件で停止。Wandcase Creatorは全文確認・保存が未完了。次回はWandcase Creatorの「続きを読む」から確認し、LiveReacting付近へ続く。表示順は変わる可能性がある。
