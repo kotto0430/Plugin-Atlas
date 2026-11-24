@@ -1,0 +1,24 @@
+{
+  "name": "MakeDeez",
+  "category": "Creativity",
+  "provider": "Nunuworks Inc.",
+  "version": "1.8.3",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac2bf71d1dc8191b1d5ee12e3c3231a?category=creativity",
+  "original_description": "Explore personalized photo gifts, custom clothing, prints, and accessories with MakeDeez. Compare real products, prices and sizes before uploading artwork. Preview your uploaded photos or ChatGPT-generated images on T-shirts, hoodies, canvas, blankets, stickers and more. Choose colors, sizes, print placement and quantity. Continue to secure checkout as a guest, or connect your MakeDeez account to save designs and reuse them later.",
+  "summary_ja": "写真や画像を衣類・ギフト商品に配置してプレビューし、商品を比較する。",
+  "limitations_ja": "デザインの保存・再利用にはアカウント連携。商品価格や購入の実動作は未検証。",
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "official_app_name": "MakeDeez",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "写真ギフト",
+    "グッズ制作"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}
