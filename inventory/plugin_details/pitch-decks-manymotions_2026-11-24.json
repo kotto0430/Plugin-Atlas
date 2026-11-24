@@ -1,0 +1,25 @@
+{
+  "name": "Pitch Decks",
+  "official_app_name": "Pitch Decks",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "ManyMotions",
+  "version": "1.0.1",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ace4a1b6b8481918da59cc02a696bd4?category=creativity",
+  "original_description": "Turn your startup into six pitch deck slide visuals designed as one deck.\n\nDescribe what the startup does, the problem it solves, its target market and how it makes money. The plugin prepares the request and shows the credits it will use. When you confirm, ManyMotions plans the deck and renders six slides: problem, solution, market, product, business model and the ask. A deck takes a few minutes; ChatGPT reports the progress and returns the links to the slide images.\n\nFor founders and startup teams preparing a first investor or demo-day deck.\n\nLimitations: the slides are images, not an editable presentation file, and they are built only from the description you give; check every figure on them before you use them. It does not use uploaded decks, logos or images, and it does not put other companies' logos or trademarks on the slides. Producing a deck uses your signed-in ManyMotions account; preparing a request does not need an account.\n\nManyMotions is the platform formerly known as ClipWave.",
+  "summary_ja": "スタートアップの説明から、投資家向けの6枚のスライド画像を作る。",
+  "limitations_ja": "出力は編集可能なプレゼンファイルではなく画像。入力した説明のみを使い、数値は利用前に確認が必要。生成にはManyMotionsへのログインが必要。",
+  "usage_tags": [
+    "プレゼン",
+    "起業",
+    "画像制作"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "description_scope": "詳細ページ本文の英語説明"
+}
