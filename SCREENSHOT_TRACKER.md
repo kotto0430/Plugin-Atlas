@@ -1089,3 +1089,10 @@ LNXは新規ページ作成のみで公開や既存ページの操作はLNX側�
 Scraaatch、SVG.new、Wrap、AIGE Carousel Studio、ListingScene、Unsora、AutoShot、BrickBuilder AI、Pixel Art Maker の公式説明・出典・日本語要約・用途と確認状況を記録。前回597件から9件増え、詳細ファイルは累計606件。実動作・料金・一覧本体との照合は未検証。接続・インストール・設定変更・生成・投稿・公開は行っていない。
 
 Shapesodaは詳細記録済みのため追加しなかった。AIGEはSNS自動投稿とPDF・PowerPoint出力に非対応で出力リンクは公開、BrickBuilder AIの形状チェックは実際に組み立てられることを保証しないと記録。Pixel Art Makerの内包アプリ名は Pixel Art Maker by MegaScenes。一覧に戻り次の行を確認する際、検索欄に意図しない文字列が入力され表示位置を確認できなかったため9件で停止。次回は検索欄を確認してクリエイティブ一覧の Pixel Art Maker と BrickBuilder AI の次の行付近から、既存記録との重複を確認して再開する。表示順は変わる可能性がある。
+
+
+### 詳細調査（2026-11-24、クリエイティブ5件・説明の相違）
+
+Alpenmarketing Bildkompressor、AI Content Drop、Pixel Engine、Voyager Video & 3D、Cenno の公式説明・出典・日本語要約・用途と確認状況を記録。前回606件から5件増え、詳細ファイルは累計611件。実動作・料金・一覧本体との照合は未検証。接続・インストール・設定変更・生成・投稿・公開は行っていない。
+
+Alpenmarketing Bildkompressorの公式本文はドイツ語のため原文の言語を明記。Pixel Engineはスプライトシート対応の説明を記録。Cennoは本文が11スキルで展示・屋内・クリスマスに対応とする一方、内包アプリ欄は8スキルで該当分野は含まないと説明しており、両方の原文を保存して実際の対応範囲を未確認とした。相違を発見したため5件で停止。次回はクリエイティブ一覧の Voyager Video & 3D・Cenno の次の行付近から、既存記録との重複を確認して再開する。表示順は変わる可能性がある。
