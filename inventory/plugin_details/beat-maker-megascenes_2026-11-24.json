@@ -1,0 +1,25 @@
+{
+  "name": "Beat Maker",
+  "category": "Creativity",
+  "provider": "MegaScenes",
+  "version": "1.0.1",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ae3194ef20881918b6888dc367015a4?category=creativity",
+  "original_description": "Pick a genre, a tempo and a mood and get an instrumental beat: boom bap, trap, drill, house, afrobeat or lo-fi.\n\nChatGPT tells you what the run needs and creates the beat in your MegaScenes account when you ask. The beat plays in the chat and stays in your library.\n\nFor rappers, singers, content creators and producers looking for a starting point.\n\nLimitations: new instrumental beats; it does not mix or master audio you attach, or copy an existing beat. Making a file needs a signed-in MegaScenes account and runs in it; nothing is made until you confirm. Not for sexual or adult content or for real people's likeness. Files are made by generative models and saved in your MegaScenes library.",
+  "summary_ja": "ジャンルやテンポからインストゥルメンタルのビートを作る。",
+  "limitations_ja": "既存のビートのコピーや添付音声のミックス・マスタリングには非対応。ファイル作成にはサインインが必要。",
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "official_app_name": "Beat Maker",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "音楽制作",
+    "ビート"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明",
+  "embedded_app_name": "Beat Maker by MegaScenes"
+}
