@@ -1,0 +1,25 @@
+{
+  "name": "Avatar Maker",
+  "category": "Creativity",
+  "provider": "MegaScenes",
+  "version": "1.0.1",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ae3188d913481919371868aa3e90a29?category=creativity",
+  "original_description": "Describe the look you want and get an avatar: a 3D cartoon, an anime portrait, a flat illustration or a pixel character for your profile.\n\nChatGPT tells you what the run needs and creates the avatar in your MegaScenes account when you ask. The avatar opens in the chat and stays in your library.\n\nFor social profiles, gaming handles and team pages.\n\nLimitations: avatars from a description, not from a photo; it does not make likenesses of real people. Making a file needs a signed-in MegaScenes account and runs in it; nothing is made until you confirm. Not for sexual or adult content or for real people's likeness. Files are made by generative models and saved in your MegaScenes library.",
+  "summary_ja": "文章からプロフィール用のアバター画像を作る。",
+  "limitations_ja": "写真からの作成や実在人物の似姿には非対応。ファイル作成にはサインインが必要。",
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "official_app_name": "Avatar Maker",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "アバター",
+    "画像生成"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明",
+  "embedded_app_name": "Avatar Maker by MegaScenes"
+}
