@@ -812,6 +812,9 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 
 - [Dayfaro](dayfaro_2026-11-24.json) — 文章から複数話者のポッドキャストの台本・音声を作る。オンライン調査の対応範囲は説明間で相違があり未確認。
 
+- [Masonry: AI Videos & Reels](masonry-ai-videos-reels_2026-11-24.json) — 文章や写真から動画・商品画像を作り、字幕や音声を加える。
+- [Sticker Maker（MegaScenes）](sticker-maker-megascenes_2026-11-24.json) — 題材と画風からステッカー画像を作る。
+
 ## 一覧本体との照合
 
 [名称照合の記録](catalog_name_audit_2026-11-14.json) — 詳細35件と作業ブランチの一覧3,941件を比較。34件は名前が一致、Palimpsestは一致なし。名前の一致は同一性の確定ではない。個々のJSONにある旧「照合未確認」の記載は調査時点の記録で、最新の照合結果はこの記録を参照。
