@@ -759,6 +759,17 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 - [Voyager Video & 3D](voyager-video-3d_2026-11-24.json) — 画像・動画・音声・3Dモデルを生成し、3Dモデルを加工する。
 - [Cenno](cenno_2026-11-24.json) — イベントや撮影スペースの企画・構成を支援する。 対応範囲は説明間で相違があり未確認。
 
+- [DupeFont](dupefont_2026-11-24.json) — 画像の文字に似た無料・オープンソースフォントを探す。
+- [Avatar Maker](avatar-maker-megascenes_2026-11-24.json) — 文章からプロフィール用のアバター画像を作る。
+- [Beat Maker](beat-maker-megascenes_2026-11-24.json) — ジャンルやテンポからインストゥルメンタルのビートを作る。
+- [Imagen for Real Estate](imagen-for-real-estate_2026-11-24.json) — 不動産掲載用の写真の明るさ・色・傾きなどを整える。
+- [CILA](cila_2026-11-24.json) — InstagramやTikTokの投稿動向を調べ、企画の参考を保存する。
+- [RTST AI](rtst-ai_2026-11-24.json) — 画像・動画を生成し、参考動画の動きをキャラクターに移す。
+- [T-Shirt Art](t-shirt-art_2026-11-24.json) — 文章からTシャツやパーカー向けのプリント画像を作る。
+- [MorphaReels](morphareels_2026-11-24.json) — 短い縦型動画の文字や画像、アニメーションを編集する。
+- [ScriptNib](scriptnib_2026-11-24.json) — ScriptNibのアカウントで利用できるツールをChatGPTに接続する。
+- [Photo AI Studio](photo-ai-studio_2026-11-24.json) — 添付した写真から人物画像を作成し、背景の変更などを行う。
+
 ## 一覧本体との照合
 
 [名称照合の記録](catalog_name_audit_2026-11-14.json) — 詳細35件と作業ブランチの一覧3,941件を比較。34件は名前が一致、Palimpsestは一致なし。名前の一致は同一性の確定ではない。個々のJSONにある旧「照合未確認」の記載は調査時点の記録で、最新の照合結果はこの記録を参照。
