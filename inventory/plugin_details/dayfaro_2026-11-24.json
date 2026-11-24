@@ -1,0 +1,27 @@
+{
+  "name": "Dayfaro",
+  "category": "Creativity",
+  "provider": "Dayfaro",
+  "version": "1.1.0",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac5881315ec8191b1d1880518505c0e?category=creativity",
+  "original_description": "Turn source text into podcast scripts and audio with Dayfaro. Create news briefings, explainers, interviews, and conversations with up to four speakers. Choose from English, Italian, Spanish, French, German, and Portuguese, select voices, and add custom instructions. Review and edit scripts before generating audio, follow generation progress, and listen with a transcript directly in ChatGPT. You can also reopen podcasts saved to your connected Dayfaro account. Requires a Dayfaro account with existing credits. Dayfaro uses supplied text by default. Optional Online search beta researches a topic or reads public URLs before writing, and includes source links. Research uses account credits and is off by default. Dayfaro does not schedule recurring episodes itself.",
+  "embedded_app_description": "Turn source text into podcast scripts and audio with Dayfaro. Create news briefings, explainers, interviews, and conversations with up to four speakers. Choose from English, Italian, Spanish, French, German, and Portuguese, select voices, and add custom instructions. Review and edit scripts before generating audio, follow generation progress, and listen with a transcript directly in ChatGPT. You can also reopen podcasts saved to your connected Dayfaro account. Requires a Dayfaro account with existing credits. Dayfaro generates from the text provided; it does not fetch URLs, research current news, or schedule recurring episodes itself.",
+  "summary_ja": "文章から最大4人の話者によるポッドキャストの台本と音声を作り、文字起こしとともに再生する。",
+  "limitations_ja": "Dayfaroアカウントと既存クレジットが必要。定期エピソードの予約には非対応。オンライン調査について、本文は任意のベータ機能としてトピック調査・公開URLの読み取りに対応するとする一方、内包アプリ欄はURL取得や最新ニュース調査を行わないと記載。実際の対応は未確認。",
+  "review": "ChatGPTの詳細画面の表示に基づく記録。オンライン調査の対応には説明間の相違がある。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "official_app_name": "Dayfaro",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "ポッドキャスト",
+    "音声制作",
+    "台本作成"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証",
+    "説明だけでは不明"
+  ],
+  "description_scope": "詳細ページ本文の英語説明。内包アプリ欄の英語説明も別途保存。"
+}
