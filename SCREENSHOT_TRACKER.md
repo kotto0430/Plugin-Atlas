@@ -1145,3 +1145,10 @@ Framesurferは動画が短い単一ショットで同時に1本と記録。ACAE 
 Portrait Studioから再開しようとしたが、検索欄に `PortraitPortrait Studio Studio` と意図しない重複文字列が入力された。検索結果を正しく確認できないため、新規詳細は追加せず停止。詳細ファイルは累計649件のまま。接続・インストール・設定変更は行っていない。
 
 次回は検索欄を消去して Portrait Studio・ColoringBookify 付近から既存記録との重複を確認して再開する。表示順は変わる可能性がある。
+
+
+### 詳細調査（2026-11-24、クリエイティブ7件・説明の相違）
+
+Portrait Studio、ColoringBookify、Tonebook Palette、Voice213、Posters by Abracadabrax、Morphic、Partwright の公式説明・出典・日本語要約・用途と確認状況を記録。前回649件から7件増え、詳細ファイルは累計656件。実動作・料金・一覧本体との照合は未検証。接続・インストール・設定変更・生成・見積もり・注文・投稿は行っていない。
+
+Partwrightは展開後の本文がプレビュー時の見積もり先を JLC3DP と説明する一方、内包アプリ欄は Slant 3D と説明。両方の原文を保存し、実際のデータ送信先は未確認とした。プレビュー時にモデル等が業者へ送られる可能性も記録。相違を発見したため7件で停止。次回はクリエイティブ一覧の Partwright の隣の Dayfaro と、次の Masonry: AI Videos & Reels・Sticker Maker 付近から重複を確認して再開する。表示順は変わる可能性がある。
