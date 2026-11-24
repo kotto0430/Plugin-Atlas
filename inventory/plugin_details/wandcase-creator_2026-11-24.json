@@ -1,0 +1,25 @@
+{
+  "name": "Wandcase Creator",
+  "category": "Creativity",
+  "provider": "Wandcase",
+  "version": "1.0.0",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac5cb0def0881918dea9c3ff3061de8?category=creativity",
+  "original_description": "Wandcase Creator makes social media designs and short videos in your own Creator workspace, following your brand kit: your logos, colours, fonts and voice.\n\nAsk for an Instagram post, a story, a carousel or a short vertical video and Creator builds it as a real, editable project, shows you a preview, and checks it for problems such as text that does not fit. Ask for changes in the conversation, or open the project in Creator's editor right inside ChatGPT and change it by hand; edits from both appear live. Every change is saved as a revision you can go back to.\n\nYou can also start from your workspace's templates, bring in images, footage and audio from a link or your Creator Drive, set up a brand kit from your website (adding a logo file you attach), and export finished designs (PNG, JPEG, WebP) and videos (MP4, WebM). If you have connected Instagram or Facebook accounts in Creator, it can draft a post for a time you choose; nothing is ever published until you approve it in Creator.\n\nWho it is for: small businesses, creators and marketing teams who make content for social media.\n\nWhat to know: you need a Wandcase Creator account. Each connection works in one workspace you choose when you sign in, never with more permission than you have there, and you can limit or end it in Creator under Settings, Agents. Exports use credits from your workspace. Creator cannot delete projects, change billing or post without your approval.",
+  "summary_ja": "ブランドの設定を使い、SNS画像や短編動画を作成・編集する。",
+  "limitations_ja": "アカウントが必要。出力はクレジットを使用し、投稿にはCreator側の承認が必要と説明。",
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "official_app_name": "Wandcase Creator",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "SNS",
+    "動画制作",
+    "デザイン"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}
