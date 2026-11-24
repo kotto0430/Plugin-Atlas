@@ -1,0 +1,27 @@
+{
+  "name": "Partwright",
+  "category": "Creativity",
+  "provider": "Alexander Jacobsen",
+  "version": "1.0.2",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6adf115c32048191adc73ea5505d5c70?category=creativity",
+  "original_description": "Partwright turns a description of a physical part into a real object you can hold. Use it to replace a part that broke or went missing, such as a knob, clip, cap, cover, foot or bracket, or to make a small custom object to your measurements, such as a hook, holder, mount, spacer or adapter. Describe what you need along with its key dimensions, for example the size and shape of the shaft a knob fits on. ChatGPT designs it as a precise CAD model, you check it in an interactive 3D preview and refine it over saved versions, and when it's right you order a 3D print that's shipped to your door. You can also download STL, STEP and source files from the Partwright website.\n\nPartwright is built for one printable part at a time: a single solid piece in one material and colour. Parts are currently printed in resin, in white or black. Parts made with Partwright are new, compatible parts, not original manufacturer parts. It isn't meant for general 3D modelling, such as rooms, buildings, scenes, characters or artwork, or for parts that need to be metal, rubber, flexible, multi-colour or electronic.\n\nConnect a Partwright account and choose the workspace your AI can access. Editing permission is needed to create projects, build models, obtain print estimates, or open checkout. You can revoke access from the Partwright Connections page.\n\nWith editing access, opening a preview may automatically get a print estimate from our print partner, JLC3DP, a 3D printing service in China. To do that, Partwright sends JLC3DP the printable model files, material and colour selections, and quantities. Your email and delivery address are not sent at this stage. Print estimates exclude shipping. To order a print, use the viewer’s checkout action, then enter your delivery details and pay on Partwright’s checkout page using Stripe. Your delivery details are shared with JLC3DP when you request a delivery quote. Physical print availability, supported delivery destinations, shipping and final pricing depend on the quote. Opening a preview does not place an order or charge you.\n\nFor anyone who needs a specific part made, whether it's a fix, a fitting, a mount or a small custom object. Review dimensions, fit, materials and intended use before ordering. A preview or successful CAD build does not certify strength, heat resistance, safety or printability.",
+  "summary_ja": "寸法を指定して交換部品などの3Dモデルを設計し、プレビューや印刷の見積もりを行う。",
+  "limitations_ja": "見積もり先は本文がJLC3DP、内包アプリ欄がSlant 3Dと記載し、実際の送信先は未確認。プレビューでモデルなどが業者へ送信され得る。強度・安全性・印刷可能性は保証されない。",
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "official_app_name": "Partwright",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "3D設計",
+    "交換部品",
+    "CAD"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証",
+    "説明だけでは不明"
+  ],
+  "description_scope": "詳細ページ本文の英語説明",
+  "embedded_app_description": "Turn an idea and a few dimensions into an editable 3D model with Partwright. Create projects, build CadQuery models, refine a design through saved versions, and inspect the results in an interactive 3D viewer. Preview models in ChatGPT, then open them on the Partwright website to download STL, STEP and other available exports or source files. Downloads are completed on the Partwright website. Connect a Partwright account and choose the workspace your AI can access. Editing permission is needed to create projects, build models, obtain print estimates, or open checkout. You can revoke access from the Partwright Connections page. With editing access, opening a preview may automatically obtain a print estimate from Slant 3D using printable geometry, material and colour selections, quantities, and an internal account identifier. Print estimates exclude shipping. To order a physical print, use the viewer’s checkout action, then review delivery details and pay on Partwright’s external checkout page using Stripe. The design workspace is available worldwide. Physical print availability, supported delivery destinations, shipping and final pricing depend on the quote. Opening a preview does not place an order or charge you. For makers and anyone exploring dimensioned 3D designs. Review dimensions, fit, materials and intended use before printing. A preview or successful CAD build does not certify strength, safety or printability."
+}
