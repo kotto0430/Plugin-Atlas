@@ -1,0 +1,25 @@
+{
+  "name": "pen.dev",
+  "category": "Creativity",
+  "provider": "pen.dev",
+  "version": "0.1.3",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugins_6ac512338a4481918d8d9f4416b81511?category=creativity",
+  "original_description": "pen.dev is an infinite-canvas design editor for websites, app screens, dashboards, slides and marketing graphics. This plugin opens the editor right in the conversation, so Codex designs on a live canvas while you watch: it lays out screens, builds reusable components and variables, and refines what's already there. Designs are saved as .pen files on your computer: new ones as drafts you also find in the pen.dev desktop app, or next to your code when you ask, ready to commit and to turn into code. Select anything in the editor to point Codex at it, and sign in to pen.dev to let Codex generate AI and stock images and vector artwork.",
+  "summary_ja": "会話内のキャンバスでウェブやアプリ画面などをデザインし、.penファイルに保存する。",
+  "limitations_ja": "デスクトップアプリで開く形式。AI・ストック画像やベクター生成にはpen.devへのサインインが必要と説明。",
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "pen.dev",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "UIデザイン",
+    "ウェブデザイン",
+    "デザイン"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}
