@@ -1,0 +1,26 @@
+{
+  "name": "Pixel Engine",
+  "category": "Creativity",
+  "provider": "Pixel Engine",
+  "version": "1.0.0",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ad7ca7d77c08191a87eed5ac957db6c?category=creativity",
+  "original_description": "Pixel Engine makes game-ready pixel art. Describe a character, item or tile and get a sprite. Describe a motion and get a looping animation or a sprite sheet. Convert an existing image into pixel art on a real pixel grid with a capped palette. Remove the background when an asset is ready for your engine.\n\nPixel Engine works on your own Pixel Engine account: you sign in once on pixelengine.ai and approve the connection, and generations use the credits already on that account. An existing Pixel Engine account is required. The assistant never sees your password, and you can disconnect it at any time from your Pixel Engine account page.\n\nResults come back as images you can download, with their pixel size, palette, and, for sprite sheets, the frame count and frame size your engine needs. Generation is not deterministic, so a second take with a changed prompt is a normal part of the workflow.",
+  "original_description_language": "en",
+  "summary_ja": "ドット絵のスプライトやループアニメーション、スプライトシートを作る。",
+  "limitations_ja": "既存のPixel Engineアカウントと接続が必要。生成はアカウントのクレジットを消費。",
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "Pixel Engine",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "ドット絵",
+    "ゲーム制作",
+    "アニメーション"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}
