@@ -1,0 +1,26 @@
+{
+  "name": "Posters by Abracadabrax",
+  "category": "Creativity",
+  "provider": "Abracadabrax",
+  "version": "1.0.1",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac128eda3108191af46d6b26150a803?category=creativity",
+  "original_description": "Give ChatGPT a headline and the key details, such as date, place or offer, and get a poster or flyer design with the text laid out on it, in portrait, square or landscape format.\n\nThe plugin prepares a draft with the kind of poster, the headline, the details to print, the visual theme and the image model, and shows the credits it will use. When you confirm, Abracadabrax renders the design and ChatGPT returns the link to the image.\n\nFor events, shops, clubs and venues.\n\nLimitations: designs from text only. It does not place your own photos or logo files on the design, edit an existing poster file or print it. Producing uses credits of the user's Abracadabrax account. If you are not signed in, the plugin gives a link where the same draft opens on Abracadabrax. Outputs are AI-generated.",
+  "summary_ja": "見出しや日時などの文章からポスター・チラシの画像を作る。",
+  "limitations_ja": "写真やロゴファイルの配置、既存ポスターの編集、印刷は非対応。制作にはアカウントのクレジットを使う。",
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "official_app_name": "Posters by Abracadabrax",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "ポスター",
+    "チラシ",
+    "デザイン"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明",
+  "embedded_app_name": "Abracadabrax Posters"
+}
