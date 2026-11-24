@@ -1,0 +1,25 @@
+{
+  "name": "Designobo",
+  "category": "Creativity",
+  "provider": "ByteBridge LLC",
+  "version": "1.0.0",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac7c8442bb48191bf257a810dbaa0bc?category=creativity",
+  "original_description": "Designobo is an AI design tool for building UI prototypes as real HTML screens. With this plugin, your agent can browse your team's projects, read and search screens, create new projects and screens, and edit existing ones while you watch the changes appear live in Designobo. It can render a screen in a real browser to check for layout and runtime errors, and turn existing designs into code in your own projects. The agent only accesses the team you approve when you connect, and you can disconnect it at any time from Designobo.",
+  "summary_ja": "HTMLの画面としてUIの試作を作成・編集し、表示確認やコード化を行う。",
+  "limitations_ja": "接続時に承認したチームにアクセスすると説明。実際の接続や動作は未検証。",
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "official_app_name": "Designobo",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "UIデザイン",
+    "プロトタイプ",
+    "プログラミング"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}
