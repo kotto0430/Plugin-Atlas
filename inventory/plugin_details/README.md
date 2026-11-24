@@ -729,6 +729,18 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 
 - [MAP Audio Tools](map-audio-tools_2026-11-24.json) — 録音の分析や音声処理。書き出し・利用条件は詳細本文とアプリ欄で相違があり未確認。
 
+
+- [ReelsFarm](reelsfarm_2026-11-24.json) — SNS向けの画像・短編動画・スライドショーを作成する。
+- [LNX](lnx_2026-11-24.json) — リンクやSNSをまとめたプロフィールページの下書きを作る。
+- [MyBeatz](mybeatz_2026-11-24.json) — 指定したスタイルやテンポを目標にインストゥルメンタルのビートを作る。
+- [PartyPass](partypass_2026-11-24.json) — 招待状を共有可能なイベントページとして設置する。
+- [Visual Sandbox](visual-sandbox_2026-11-24.json) — 動画・広告・画像・音声などの生成や編集を支援する。
+- [TuneCraft: AI Music Generator](tunecraft-ai-music-generator_2026-11-24.json) — 説明や雰囲気の指定から2種類の楽曲を作る。
+- [Images & Video](images-video_2026-11-24.json) — 文章から画像・短い動画を生成してジョブを確認する。
+- [Luw.ai](luw-ai_2026-11-24.json) — 部屋や建物の画像から内外装デザインや3Dモデルを作る。
+- [Archome AI](archome-ai_2026-11-24.json) — 部屋や建物の画像を模様替えし、スケッチから完成イメージを作る。
+- [pen.dev](pen-dev_2026-11-24.json) — 会話内のキャンバスでウェブやアプリ画面などをデザインし、.penファイルに保存する。
+
 ## 一覧本体との照合
 
 [名称照合の記録](catalog_name_audit_2026-11-14.json) — 詳細35件と作業ブランチの一覧3,941件を比較。34件は名前が一致、Palimpsestは一致なし。名前の一致は同一性の確定ではない。個々のJSONにある旧「照合未確認」の記載は調査時点の記録で、最新の照合結果はこの記録を参照。
