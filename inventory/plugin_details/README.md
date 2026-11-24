@@ -741,6 +741,17 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 - [Archome AI](archome-ai_2026-11-24.json) — 部屋や建物の画像を模様替えし、スケッチから完成イメージを作る。
 - [pen.dev](pen-dev_2026-11-24.json) — 会話内のキャンバスでウェブやアプリ画面などをデザインし、.penファイルに保存する。
 
+
+- [Scraaatch](scraaatch_2026-11-24.json) — 削るとメッセージが現れるデジタルカードを作る。
+- [SVG.new](svg-new_2026-11-24.json) — 画像を編集可能なSVGに変換し、色や形を調整する。
+- [Wrap](wrap_2026-11-24.json) — 写真から商品用モックアップを作り、デザインを配置して画像に出力する。
+- [AIGE Carousel Studio](aige-carousel-studio_2026-11-24.json) — 記事やアイデアからSNS用の複数枚画像を作成・編集する。
+- [ListingScene](listingscene_2026-11-24.json) — 不動産写真の家具配置や明るさなどを調整し、元画像と比較する。
+- [Unsora](unsora_2026-11-24.json) — 長い動画を字幕付き短編に編集し、SNS投稿の予約を支援する。
+- [AutoShot](autoshot_2026-11-24.json) — 車両販売用の写真に背景やナンバープレート処理を適用する。
+- [BrickBuilder AI](brickbuilder-ai_2026-11-24.json) — 文章からLEGO互換ブロックのモデルを作成・編集する。
+- [Pixel Art Maker](pixel-art-maker-megascenes_2026-11-24.json) — 説明からレトロなドット絵風画像を作る。
+
 ## 一覧本体との照合
 
 [名称照合の記録](catalog_name_audit_2026-11-14.json) — 詳細35件と作業ブランチの一覧3,941件を比較。34件は名前が一致、Palimpsestは一致なし。名前の一致は同一性の確定ではない。個々のJSONにある旧「照合未確認」の記載は調査時点の記録で、最新の照合結果はこの記録を参照。
