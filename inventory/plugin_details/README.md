@@ -815,6 +815,17 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 - [Masonry: AI Videos & Reels](masonry-ai-videos-reels_2026-11-24.json) — 文章や写真から動画・商品画像を作り、字幕や音声を加える。
 - [Sticker Maker（MegaScenes）](sticker-maker-megascenes_2026-11-24.json) — 題材と画風からステッカー画像を作る。
 
+- [Etch Express](etch-express_2026-11-24.json) — 彫刻作業のレイアウトや受賞者一覧を作成し、PDF・SVGへ書き出す。
+- [Explainium](explainium_2026-11-24.json) — アイデアや記事から文字・図を使った短い説明動画を作る。
+- [Artelo Print Shop](artelo-print-shop_2026-11-24.json) — 写真や作品の額装・印刷イメージを選び、注文状況を確認する。
+- [Studia](studia_2026-11-24.json) — 複数のデザイン案をキャンバスに並べ、指示や範囲指定で編集する。
+- [Reflections Licensed Studio](reflections-licensed-studio_2026-11-24.json) — 契約済みの肖像ライセンスを使った画像の候補作成と承認を支援する。
+- [Album Covers by Abracadabrax](album-covers-by-abracadabrax_2026-11-24.json) — 楽曲名や雰囲気から正方形のアルバム表紙画像を作る。
+- [Lustra Studio](lustra-studio_2026-11-24.json) — 宝飾品の商品画像を作成・編集し、色違いや着用風の画像を作る。
+- [Photoshoot GPT: AI Fashion](photoshoot-gpt-ai-fashion_2026-11-24.json) — 衣類の商品画像から着用写真や商品動画を作成する。
+- [Tattoo Designer](tattoo-designer-megascenes_2026-11-24.json) — 題材・画風・場所からタトゥーの図案画像を作る。
+- [Character App](character-app_2026-11-24.json) — 写真や文章からキャラクターを作り、短い動画や物語に登場させる。
+
 ## 一覧本体との照合
 
 [名称照合の記録](catalog_name_audit_2026-11-14.json) — 詳細35件と作業ブランチの一覧3,941件を比較。34件は名前が一致、Palimpsestは一致なし。名前の一致は同一性の確定ではない。個々のJSONにある旧「照合未確認」の記載は調査時点の記録で、最新の照合結果はこの記録を参照。
