@@ -1,0 +1,25 @@
+{
+  "name": "App Icons",
+  "category": "Creativity",
+  "provider": "Abracadabrax",
+  "version": "1.0.2",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ace52d2b2b08191818ee844ad9c386f?category=creativity",
+  "original_description": "Tell ChatGPT what your app does, a symbol idea, a style and your brand colors and get an app icon: one bold symbol on a rounded square, with no text.\n\nThe plugin prepares a draft with the style (flat, gradient, 3D or minimal) and the image model. When you confirm, Abracadabrax renders the icon and ChatGPT returns the link to the image.\n\nFor indie developers and small teams shipping an app.\n\nLimitations: new icons from text only. It does not redraw an existing logo or brand, export icon size sets or vector files, or check trademarks. Producing needs a signed-in Abracadabrax account. If you are not signed in, the plugin gives a link where the same draft opens on Abracadabrax. Outputs are AI-generated.",
+  "summary_ja": "文章からアプリ用のアイコン画像を作る。",
+  "limitations_ja": "既存ロゴの描き直し、サイズ別セットやベクターファイルの出力、商標確認には非対応。制作にはサインインが必要。",
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "official_app_name": "App Icons",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "アプリアイコン",
+    "デザイン"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明",
+  "embedded_app_name": "Abracadabrax App Icons"
+}
