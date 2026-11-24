@@ -1,0 +1,25 @@
+{
+  "name": "ColoringBookify",
+  "category": "Creativity",
+  "provider": "ColoringBookify",
+  "version": "1.0.1",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ad3905de4288191b28ed8b201e8d9e5?category=creativity",
+  "original_description": "Turn an idea into a printable coloring book in conversation. Plan scenes, choose a visual style, and confirm the plan before generation. Open the finished book as a PDF and view individual page images. Refine the artwork with edit previews, compare the original and proposed versions, and accept or discard each change. Browse existing books and characters from your connected ColoringBookify account. Intended for creators, parents, and educators.",
+  "summary_ja": "塗り絵本を企画・作成・編集し、印刷用PDFで開く。",
+  "limitations_ja": "接続したアカウントを使用。印刷注文やマーケットへの出版はスキル欄で対象外と説明。",
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "official_app_name": "ColoringBookify",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "塗り絵",
+    "PDF",
+    "教育"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}
