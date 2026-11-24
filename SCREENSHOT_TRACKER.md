@@ -1131,3 +1131,10 @@ Thumbnail Makerは一覧短文・URL・提供元からMegaScenesのものを確�
 Wandcase Creator、LiveReacting、Coloring Pages、Blog2Video、Moodboards、Stickers by Abracadabrax、Cross-stitch Studio、Meme Maker、Album Covers、Book Covers の公式説明・出典・日本語要約・用途と確認状況を記録。前回637件から10件増え、詳細ファイルは累計647件。実動作・料金・一覧本体との照合は未検証。接続・インストール・設定変更・生成・投稿・配信・公開は行っていない。
 
 Wandcase Creatorの「続きを読む」を展開して全文を確認。Coloring PagesとBook CoversはMegaScenes提供で、既存のAbracadabrax提供の類似名とは提供元・URLを区別。PropertyPromptとVectaliは同名の詳細記録があるため今回追加せず、同一性は未確認。Cross-stitch Studioは最大96×96目・24色で糸の長さの推定には非対応と記録。次回はクリエイティブ一覧の Album Covers・Book Covers の次、Framesurfer・ACAE Portfolio 付近から既存記録との重複を確認して再開する。表示順は変わる可能性がある。
+
+
+### 詳細調査（2026-11-24、クリエイティブ2件・操作セッションのリセット）
+
+Framesurfer、ACAE Portfolio の公式説明・出典・日本語要約・用途と確認状況を記録。前回647件から2件増え、詳細ファイルは累計649件。実動作・料金・一覧本体との照合は未検証。接続・インストール・設定変更・生成・送信・公開は行っていない。
+
+Framesurferは動画が短い単一ショットで同時に1本と記録。ACAE Portfolioは問い合わせ文を未送信の下書きとして作り、発注・決済は行わないと記録。一覧へ戻り次の Portrait Studio を検索しようとした際に操作セッションがリセットされ、操作が実行されなかったため2件で停止。次回は Portrait Studio・ColoringBookify 付近から既存記録との重複を確認して再開する。表示順は変わる可能性がある。
