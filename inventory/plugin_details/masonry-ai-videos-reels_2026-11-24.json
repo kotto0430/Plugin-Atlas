@@ -1,0 +1,26 @@
+{
+  "category": "Creativity",
+  "observed_at": "2026-11-24",
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明",
+  "name": "Masonry: AI Videos & Reels",
+  "official_app_name": "Masonry: AI Videos & Reels",
+  "provider": "Masonry",
+  "version": "1.3.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6aeda70b69a481918bc931d3654df0ac?category=creativity",
+  "original_description": "Masonry makes AI videos inside the conversation: short reels for TikTok, Instagram Reels and YouTube Shorts, travel and holiday videos that star you, UGC-style ads for your product, and captioned shorts cut from your own long videos. Images come too. Everything it makes is saved to your own Masonry workspace.\n\nWhat you can do:\n- Make a short AI video from a description, or bring a photo to life.\n- Put yourself in it: start from a photo of you and get a reel of you on a beach in Bali, in a Paris café or anywhere you describe.\n- Keep the same face across a series: save a person, pet or mascot once as a character, then reuse them in later videos and images.\n- Start from a format that already works: name a template, or use a slash command such as /animal-podcast, /ai-character-account or /narrated-story-video. Masonry says what it makes and what it needs before it starts. Ask which templates there are to see the list.\n- Make a UGC-style product ad: turn a product photo into a short vertical video with a voiceover, captions timed to the words, on-screen text and music.\n- Make a person talk: write the line, pick a voice, and get a lip-synced talking video from one photo.\n- Edit several scenes into one finished video with a voiceover, captions, sound effects and background music.\n- Turn a long video into shorts: bring your own footage or a video link you have the right to use, find the strongest moments from its transcript, and cut captioned vertical clips that keep the speaker in frame.\n- Change a clip with a written instruction, or swap the person in it while keeping the same movement.\n- Add animated title cards, kinetic text and charts rendered as video.\n- Make voiceovers, songs and background tracks, or get a timed transcript of a video or recording.\n- Make images: describe a shot, or start from a photo of your product or yourself, and get up to four back in the chat, then remix or upscale them.\n- Run a Studio product shoot: add two to ten photos of one product, pick one of four looks, and get a matching set of photos that keep your real product.\n- Browse what you made recently and pick up where you left off.\n\nWho it is for: creators, travelers, marketers and small brands who make video for social posts, ads and online stores.\n\nHow it works: you sign in to Masonry once and choose a workspace. Generations use that workspace's credits, and video uses more credits than images. Masonry works only in the workspace you connected. It cannot see other workspaces or delete anything.\n\nLimitations: you need a Masonry account. A clip takes a few minutes and a multi-scene video takes longer. What a workspace can make depends on its credits and settings, and Masonry says in the chat when something isn't available. Requests that break the content rules of the underlying models are refused.",
+  "summary_ja": "文章や写真から短い動画・商品画像を作り、字幕やナレーションを加えて編集する。",
+  "limitations_ja": "Masonryアカウントと接続先ワークスペースのクレジットが必要。動画には時間がかかり、利用可能な機能はクレジットや設定による。",
+  "usage_tags": [
+    "動画制作",
+    "画像制作",
+    "SNS",
+    "広告"
+  ]
+}
