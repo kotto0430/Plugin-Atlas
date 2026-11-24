@@ -1,0 +1,25 @@
+{
+  "name": "ClipFabulous",
+  "category": "Creativity",
+  "provider": "Michael Alexander",
+  "version": "0.1.2",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac4420ed1888191b7e316f368db18b5?category=creativity",
+  "original_description": "Create and edit AI images for ads, social posts and creative projects using your ClipFabulous account. Explore image models and aspect ratios, check your account profile, and view or download your saved creations. Image generation and edits require your approval. This connector supports JPEG image workflows.",
+  "summary_ja": "広告やSNS向けの画像を生成・編集する。",
+  "limitations_ja": "ClipFabulousアカウントを使用。画像の生成・編集には承認が必要で、JPEG画像のワークフローに対応と説明。",
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "official_app_name": "ClipFabulous",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "画像生成",
+    "画像編集",
+    "広告"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}
