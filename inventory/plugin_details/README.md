@@ -781,6 +781,13 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 - [App Icons](app-icons_2026-11-24.json) — 文章からアプリ用のアイコン画像を作る。
 - [layZ AI](layz-ai_2026-11-24.json) — 動画の作成・編集・画質調整や書き出しを支援する。
 
+- [MakeDeez](makedeez_2026-11-24.json) — 写真や画像を衣類・ギフト商品に配置してプレビューし、商品を比較する。
+- [Speed Studio](speed-studio_2026-11-24.json) — 音声のテンポも合わせて短い動画の再生速度を変更する。
+- [ClipFabulous](clipfabulous_2026-11-24.json) — 広告やSNS向けの画像を生成・編集する。
+- [Thumbnail Maker（MegaScenes）](thumbnail-maker-megascenes_2026-11-24.json) — 動画のタイトルや場面から16:9のサムネイル画像を作る。
+- [GiftsToPrint](giftstoprint_2026-11-24.json) — 記念年の出来事などを盛り込んだ新聞風ポスターを注文する。
+- [Fontesh](fontesh_2026-11-24.json) — 画像に含まれるペルシャ語フォントの候補を探し、実際のフォントで比較する。
+
 ## 一覧本体との照合
 
 [名称照合の記録](catalog_name_audit_2026-11-14.json) — 詳細35件と作業ブランチの一覧3,941件を比較。34件は名前が一致、Palimpsestは一致なし。名前の一致は同一性の確定ではない。個々のJSONにある旧「照合未確認」の記載は調査時点の記録で、最新の照合結果はこの記録を参照。
