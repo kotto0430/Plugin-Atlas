@@ -1,0 +1,25 @@
+{
+  "name": "Blog2Video",
+  "category": "Creativity",
+  "provider": "FireBird Technologies",
+  "version": "1.0.0",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ace033244288191baa0e48492237994?category=creativity",
+  "original_description": "Create narrated videos from blog posts and documents. Start a project, choose a template and voice, generate scenes, edit them, and render the final video, all from chat. Blog2Video only accesses the account you sign in with. Learn more at https://blog2video.app.",
+  "summary_ja": "ブログ記事や文書からナレーション付き動画を作成・編集する。",
+  "limitations_ja": "サインインしたアカウントのみへアクセスすると説明。利用条件・料金は未検証。",
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "official_app_name": "Blog2Video",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "動画制作",
+    "ブログ",
+    "ナレーション"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}
