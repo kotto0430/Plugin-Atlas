@@ -752,6 +752,13 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 - [BrickBuilder AI](brickbuilder-ai_2026-11-24.json) — 文章からLEGO互換ブロックのモデルを作成・編集する。
 - [Pixel Art Maker](pixel-art-maker-megascenes_2026-11-24.json) — 説明からレトロなドット絵風画像を作る。
 
+
+- [Alpenmarketing Bildkompressor](alpenmarketing-bildkompressor_2026-11-24.json) — 画像を圧縮し、品質や出力形式を選んでサイズの変化を確認する。
+- [AI Content Drop](ai-content-drop_2026-11-24.json) — 動画や画像、字幕付き広告、縦型ドラマなどの制作を支援する。
+- [Pixel Engine](pixel-engine_2026-11-24.json) — ドット絵のスプライトやループアニメーション、スプライトシートを作る。
+- [Voyager Video & 3D](voyager-video-3d_2026-11-24.json) — 画像・動画・音声・3Dモデルを生成し、3Dモデルを加工する。
+- [Cenno](cenno_2026-11-24.json) — イベントや撮影スペースの企画・構成を支援する。 対応範囲は説明間で相違があり未確認。
+
 ## 一覧本体との照合
 
 [名称照合の記録](catalog_name_audit_2026-11-14.json) — 詳細35件と作業ブランチの一覧3,941件を比較。34件は名前が一致、Palimpsestは一致なし。名前の一致は同一性の確定ではない。個々のJSONにある旧「照合未確認」の記載は調査時点の記録で、最新の照合結果はこの記録を参照。
