@@ -770,6 +770,17 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 - [ScriptNib](scriptnib_2026-11-24.json) — ScriptNibのアカウントで利用できるツールをChatGPTに接続する。
 - [Photo AI Studio](photo-ai-studio_2026-11-24.json) — 添付した写真から人物画像を作成し、背景の変更などを行う。
 
+- [Tattoo Designs](tattoo-designs_2026-11-24.json) — 文章からタトゥーのデザイン案を作る。
+- [StemConsole](stemconsole_2026-11-24.json) — 楽曲をパート別に分け、ミックスや練習用の伴奏を作る。
+- [Chaptershift](chaptershift_2026-11-24.json) — 小説の設定や登場人物、場面、原稿をChaptershiftで管理・執筆する。
+- [EdThumb](edthumb_2026-11-24.json) — YouTubeやShorts向けのサムネイルを作成・編集し、案を比較する。
+- [Privacy Blur](privacy-blur_2026-11-24.json) — 短い動画の指定した固定範囲にぼかしを入れる。
+- [Designobo](designobo_2026-11-24.json) — HTMLの画面としてUIの試作を作成・編集し、表示確認やコード化を行う。
+- [Hangeul Fonts](hangeul-fonts_2026-11-24.json) — 無料の韓国語フォントを探し、用途別のライセンス情報を確認する。
+- [Givon AI](givon-ai_2026-11-24.json) — 参考画像や文章から画像・動画・音楽・ナレーションを作る。
+- [App Icons](app-icons_2026-11-24.json) — 文章からアプリ用のアイコン画像を作る。
+- [layZ AI](layz-ai_2026-11-24.json) — 動画の作成・編集・画質調整や書き出しを支援する。
+
 ## 一覧本体との照合
 
 [名称照合の記録](catalog_name_audit_2026-11-14.json) — 詳細35件と作業ブランチの一覧3,941件を比較。34件は名前が一致、Palimpsestは一致なし。名前の一致は同一性の確定ではない。個々のJSONにある旧「照合未確認」の記載は調査時点の記録で、最新の照合結果はこの記録を参照。
