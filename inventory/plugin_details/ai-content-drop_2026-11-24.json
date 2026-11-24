@@ -1,0 +1,26 @@
+{
+  "name": "AI Content Drop",
+  "category": "Creativity",
+  "provider": "AI Content Drop",
+  "version": "1.3.7",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a9c857a537081919998169670afa101?category=creativity",
+  "original_description": "Choose a model and watch the finished video or image appear in the conversation. Write and produce a short vertical drama episode by episode, hand a whole campaign to Drop, the video agent, turn a brief into a finished captioned ad, lay the work out on a board you can open full screen, and research the ads competitors run. Nothing is made until you confirm it, and a step that fails uses nothing. Browse models anonymously; sign in to create and see your history.",
+  "original_description_language": "en",
+  "summary_ja": "動画や画像、字幕付き広告、縦型ドラマなどの制作を支援する。",
+  "limitations_ja": "モデルの閲覧は匿名可。作成と履歴の閲覧にはサインインが必要。ユーザーが確認するまで生成しないと説明。",
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "AI Content Drop",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "動画制作",
+    "広告",
+    "画像生成"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}
