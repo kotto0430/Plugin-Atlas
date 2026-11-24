@@ -1,0 +1,24 @@
+{
+  "name": "Chaptershift",
+  "category": "Creativity",
+  "provider": "Chaptershift",
+  "version": "1.0.0",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ad0f00acfb48191a0c5d69ab31ec364?category=creativity",
+  "original_description": "Chaptershift is where writers plan and write their novel: the premise, the characters and places of the story, the timeline, the scenes, and the prose of every chapter. This plugin connects ChatGPT to your Chaptershift book projects. You can ask it to read what your story already holds and build on it, create and update characters, locations and scenes, save the prose you write together into a scene, generate a character portrait, a location picture or a cover, and download your manuscript. Everything you change here appears in Chaptershift, and everything you write in Chaptershift is available here. You sign in with your Chaptershift account.",
+  "summary_ja": "小説の設定や登場人物、場面、原稿をChaptershiftで管理・執筆する。",
+  "limitations_ja": "Chaptershiftアカウントへのサインインが必要。",
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "official_app_name": "Chaptershift",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "小説執筆",
+    "物語制作"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}
