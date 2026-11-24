@@ -1110,3 +1110,10 @@ Avatar MakerとBeat MakerはMegaScenesの同名候補を区別し、内包アプ
 Photo AI Studio の詳細からクリエイティブ一覧へ戻るリンクをアクセシビリティ要素でクリックしようとしたところ、`coordinate input geometry is unavailable` が返った。スクリーンショットでは Photo AI Studio の詳細画面のままであることを確認。指示に従い新規詳細を追加せず停止し、累計621件のまま。接続・インストール・設定変更は行っていない。
 
 次回はクリエイティブ一覧に戻り、Photo AI Studio の隣の Tattoo Designs と、StemConsole・Chaptershift 付近から重複を確認して再開する。表示順は変わる可能性がある。
+
+
+### 詳細調査（2026-11-24、クリエイティブ10件）
+
+Tattoo Designs、StemConsole、Chaptershift、EdThumb、Privacy Blur、Designobo、Hangeul Fonts、Givon AI、App Icons、layZ AI の公式説明・出典・日本語要約・用途と確認状況を記録。前回621件から10件増え、詳細ファイルは累計631件。実動作・料金・一覧本体との照合は未検証。接続・インストール・設定変更・生成・投稿・公開は行っていない。
+
+Privacy Blurは固定範囲のみで自動追跡には非対応。Hangeul Fontsは確認できないライセンスを不明と表示。App Iconsはサイズ別セット・ベクター出力や商標確認に非対応と記録。Comic Strips は同名の詳細記録があるため今回追加せず、同一性は未確認。次回はクリエイティブ一覧の App Icons・layZ AI の次、MakeDeez・Speed Studio 付近から既存記録との重複を確認して再開する。表示順は変わる可能性がある。
