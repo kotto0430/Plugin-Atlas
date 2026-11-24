@@ -788,6 +788,17 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 - [GiftsToPrint](giftstoprint_2026-11-24.json) — 記念年の出来事などを盛り込んだ新聞風ポスターを注文する。
 - [Fontesh](fontesh_2026-11-24.json) — 画像に含まれるペルシャ語フォントの候補を探し、実際のフォントで比較する。
 
+- [Wandcase Creator](wandcase-creator_2026-11-24.json) — ブランドの設定を使い、SNS画像や短編動画を作成・編集する。
+- [LiveReacting](livereacting_2026-11-24.json) — 録画済み動画をループ配信・予約配信し、配信状況を確認する。
+- [Coloring Pages（MegaScenes）](coloring-pages-megascenes_2026-11-24.json) — 指定した題材と対象年齢に合わせ、印刷用の塗り絵を作る。
+- [Blog2Video](blog2video_2026-11-24.json) — ブログ記事や文書からナレーション付き動画を作成・編集する。
+- [Moodboards](moodboards-manymotions_2026-11-24.json) — 文章の企画から5種類のビジュアル方向を画像にする。
+- [Stickers by Abracadabrax](stickers-by-abracadabrax_2026-11-24.json) — 文章からステッカーや絵文字風の画像を作る。
+- [Cross-stitch Studio](cross-stitch-studio_2026-11-24.json) — 写真を編集可能なクロスステッチ図案に変換し、進捗を記録する。
+- [Meme Maker](meme-maker-megascenes_2026-11-24.json) — 文章とキャプションからオリジナルのミーム画像を作る。
+- [Album Covers](album-covers-megascenes_2026-11-24.json) — 楽曲名やジャンルから正方形のアルバム・シングル用表紙を作る。
+- [Book Covers（MegaScenes）](book-covers-megascenes_2026-11-24.json) — 書名・著者・ジャンルから縦長の書籍表紙画像を作る。
+
 ## 一覧本体との照合
 
 [名称照合の記録](catalog_name_audit_2026-11-14.json) — 詳細35件と作業ブランチの一覧3,941件を比較。34件は名前が一致、Palimpsestは一致なし。名前の一致は同一性の確定ではない。個々のJSONにある旧「照合未確認」の記載は調査時点の記録で、最新の照合結果はこの記録を参照。
