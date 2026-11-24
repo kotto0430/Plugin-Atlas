@@ -1,0 +1,25 @@
+{
+  "name": "Givon AI",
+  "category": "Creativity",
+  "provider": "Givon AI",
+  "version": "0.6.2",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6aca33a416588191b9ee30c231d41940?category=creativity",
+  "original_description": "Turn your ideas and reference images into images, videos, music and voiceovers — right in ChatGPT. Describe what you want in your own words or attach a reference, and Givon helps you create the finished content.\n\nWith Givon, you can:\n• Create product photos, advertising visuals and marketplace listing images.\n• Animate photos and generate short videos.\n• Create music and voiceovers for your videos.\n• Reuse saved Givon media in new generations.\n\nConnect your Givon account to get started.",
+  "summary_ja": "参考画像や文章から画像・動画・音楽・ナレーションを作る。",
+  "limitations_ja": "Givonアカウントの接続が必要。",
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "official_app_name": "Givon AI",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "画像生成",
+    "動画生成",
+    "音楽制作"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}
