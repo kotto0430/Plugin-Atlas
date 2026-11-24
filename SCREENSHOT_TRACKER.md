@@ -1166,3 +1166,10 @@ Dayfaro の公式説明原文・出典・日本語要約・用途と確認状況
 Masonry: AI Videos & Reels と Sticker Maker（MegaScenes）の公式説明・出典・日本語要約・用途と確認状況を記録。前回657件から2件増え、詳細ファイルは累計659件。実動作・料金・一覧本体との照合は未検証。接続・インストール・設定変更・生成は行っていない。Sticker Maker は GifGen - Sticker Maker とは別のURL・提供元の掲載として区別した。
 
 一覧へ戻って続きを探す際、操作ツールが現在のブラウザURLを十分な確度で確認できず停止したため、2件で区切った。次回はクリエイティブ一覧の Masonry: AI Videos & Reels・Sticker Maker の次の行付近から既存記録との重複を確認して再開する。表示順は変わる可能性がある。
+
+
+### 詳細調査（2026-11-24、クリエイティブ10件）
+
+Etch Express、Explainium、Artelo Print Shop、Studia、Reflections Licensed Studio、Album Covers by Abracadabrax、Lustra Studio、Photoshoot GPT: AI Fashion、Tattoo Designer、Character App の公式説明・出典・日本語要約・用途と確認状況を記録。前回659件から10件増え、詳細ファイルは累計669件。実動作・料金・一覧本体との照合は未検証。接続・インストール・設定変更・生成・注文・公開は行っていない。
+
+一覧順が前回から変わっていたため、Dayfaro 付近で見えた候補を名前とURLで確認。Album Covers by AbracadabraxはMegaScenes提供の既存Album Coversとは別の掲載として区別。Character Appは17歳以上向けで登場人物は18歳以上と記載。Artelo Print Shopは受注制作・返品不可と記載。次回は今回の並びで Tattoo Designer・Character App の次の行に見えた Dr.SHI-GYO・Birthday Songs 付近から、既存記録との重複を確認して再開する。表示順は変わる可能性がある。
