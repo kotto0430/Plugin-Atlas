@@ -1124,3 +1124,10 @@ Privacy Blurは固定範囲のみで自動追跡には非対応。Hangeul Fonts�
 MakeDeez、Speed Studio、ClipFabulous、Thumbnail Maker、GiftsToPrint、Fontesh の公式説明・出典・日本語要約・用途と確認状況を記録。前回631件から6件増え、詳細ファイルは累計637件。実動作・料金・一覧本体との照合は未検証。接続・インストール・設定変更・生成・購入・投稿は行っていない。
 
 Thumbnail Makerは一覧短文・URL・提供元からMegaScenesのものを確認し、既存の同名記録と区別。GiftsToPrintは物品の郵送ではなく印刷用JPGをメールで受け取るデジタル商品と説明。次のWandcase Creatorの詳細を確認中、「続きを読む」の展開操作が実行される前に操作セッションがリセットされたため6件で停止。Wandcase Creatorは全文確認・保存が未完了。次回はWandcase Creatorの「続きを読む」から確認し、LiveReacting付近へ続く。表示順は変わる可能性がある。
+
+
+### 詳細調査（2026-11-24、クリエイティブ10件）
+
+Wandcase Creator、LiveReacting、Coloring Pages、Blog2Video、Moodboards、Stickers by Abracadabrax、Cross-stitch Studio、Meme Maker、Album Covers、Book Covers の公式説明・出典・日本語要約・用途と確認状況を記録。前回637件から10件増え、詳細ファイルは累計647件。実動作・料金・一覧本体との照合は未検証。接続・インストール・設定変更・生成・投稿・配信・公開は行っていない。
+
+Wandcase Creatorの「続きを読む」を展開して全文を確認。Coloring PagesとBook CoversはMegaScenes提供で、既存のAbracadabrax提供の類似名とは提供元・URLを区別。PropertyPromptとVectaliは同名の詳細記録があるため今回追加せず、同一性は未確認。Cross-stitch Studioは最大96×96目・24色で糸の長さの推定には非対応と記録。次回はクリエイティブ一覧の Album Covers・Book Covers の次、Framesurfer・ACAE Portfolio 付近から既存記録との重複を確認して再開する。表示順は変わる可能性がある。
