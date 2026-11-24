@@ -1173,3 +1173,10 @@ Masonry: AI Videos & Reels と Sticker Maker（MegaScenes）の公式説明・�
 Etch Express、Explainium、Artelo Print Shop、Studia、Reflections Licensed Studio、Album Covers by Abracadabrax、Lustra Studio、Photoshoot GPT: AI Fashion、Tattoo Designer、Character App の公式説明・出典・日本語要約・用途と確認状況を記録。前回659件から10件増え、詳細ファイルは累計669件。実動作・料金・一覧本体との照合は未検証。接続・インストール・設定変更・生成・注文・公開は行っていない。
 
 一覧順が前回から変わっていたため、Dayfaro 付近で見えた候補を名前とURLで確認。Album Covers by AbracadabraxはMegaScenes提供の既存Album Coversとは別の掲載として区別。Character Appは17歳以上向けで登場人物は18歳以上と記載。Artelo Print Shopは受注制作・返品不可と記載。次回は今回の並びで Tattoo Designer・Character App の次の行に見えた Dr.SHI-GYO・Birthday Songs 付近から、既存記録との重複を確認して再開する。表示順は変わる可能性がある。
+
+
+### 詳細調査（2026-11-24、クリエイティブ10件）
+
+Dr.SHI-GYO、Birthday Songs、Podcast Intros、Deck.gallery、OwlCAD、PatchDesign.AI、3D Animation、Pitch Decks、3dCMS、Beveled の公式説明原文・出典・日本語要約・用途と確認状況を記録。前回669件から10件増え、詳細ファイルは累計679件。実動作・料金・一覧本体との照合は未検証。接続・インストール・設定変更・生成・注文・公開は行っていない。
+
+Social Images と AI Architectures は同名の既存記録があるため今回追加せず、掲載の同一性は未確認。Birthday Songs は検索結果の Birthday Song Maker と別の掲載として区別。Dr.SHI-GYO の文字起こしや生成は環境のツール・接続に依存し、医療内容には医師の確認が必要と記載。Beveled のホスト版はメディアを提供元のCloudflareサーバーで処理すると記載。次回は一覧の Beveled・3dCMS の次に見えた Clipify 付近から重複を確認して再開する。Brix36 は同名の既存記録があり同一性は未確認。表示順は変わる可能性がある。
