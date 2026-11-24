@@ -1,0 +1,26 @@
+{
+  "name": "Thumbnail Maker",
+  "category": "Creativity",
+  "provider": "MegaScenes",
+  "version": "1.0.1",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ae318be82448191b29ba39b45151e71?category=creativity",
+  "original_description": "Give the video title, the scene and a few words for the image, and get a bold 16:9 thumbnail made to read at a small size.\n\nChatGPT tells you what the run needs and creates the thumbnail in your MegaScenes account when you ask. The thumbnail opens in the chat and stays in your library.\n\nFor YouTubers, course creators and podcasters with video.\n\nLimitations: new thumbnails as image files; it does not upload them to YouTube or edit a screenshot you attach. Making a file needs a signed-in MegaScenes account and runs in it; nothing is made until you confirm. Not for sexual or adult content or for real people's likeness. Files are made by generative models and saved in your MegaScenes library.",
+  "summary_ja": "動画のタイトルや場面から16:9のサムネイル画像を作る。",
+  "limitations_ja": "YouTubeへのアップロードや添付スクリーンショットの編集には非対応。作成にはサインインが必要。",
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "official_app_name": "Thumbnail Maker",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "YouTube",
+    "サムネイル",
+    "画像生成"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明",
+  "embedded_app_name": "Thumbnail Maker by MegaScenes"
+}
