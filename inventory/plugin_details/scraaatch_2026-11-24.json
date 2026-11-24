@@ -1,0 +1,24 @@
+{
+  "name": "Scraaatch",
+  "category": "Creativity",
+  "provider": "Scraaatch",
+  "version": "1.0.1",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6acb2284d950819184a2c4577401f03a?category=creativity",
+  "original_description": "Turn a birthday message, party plan or little surprise into a scratch-to-reveal card. Describe the cover and hidden message, choose from Scraaatch's image catalog or use an image you attach, and save an editable draft. Open Scraaatch to review and refine the design, then approve publishing to get a recipient link.\n\nRecipients open the link and scratch to reveal your message in their browser; they do not need ChatGPT.\n\nText-only design previews work without an account. Connect a Scraaatch account to use images, save drafts, load your cards or publish. The plugin can access only cards and uploaded images owned by your connected account. It does not email recipients, purchase credits or change published cards. Publishing may use your existing Scraaatch allowance. Attachments must be JPEG, PNG or WebP images up to 10 MB.\n\nSend a bug report, suggestion or general feedback when you explicitly ask or approve it. Scraaatch support stores your short message and optional rating privately with your connected account; conversation history is not attached automatically.",
+  "summary_ja": "削るとメッセージが現れるデジタルカードを作る。",
+  "limitations_ja": "画像利用、下書き保存、公開などは接続済みアカウントが必要。受信者へのメール送信は行わない。添付画像はJPEG・PNG・WebPで10 MB以下。",
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "Scraaatch",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "カード",
+    "招待状"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}
