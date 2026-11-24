@@ -1,0 +1,25 @@
+{
+  "name": "Unsora",
+  "category": "Creativity",
+  "provider": "Unsora",
+  "version": "1.0.0",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ad0eed3f5b08191b99a872d3b0024a3?category=creativity",
+  "original_description": "Unsora is an AI clip maker and social media scheduler. Paste a YouTube link, get captioned shorts back, and schedule them to TikTok, Instagram and YouTube without leaving the chat.\n\nClip YouTube videos into shorts\n\n• Paste a YouTube link or a video file: a podcast, stream, webinar or interview\n\n• Get up to 20 clips, reframed to 9:16 for TikTok, Reels and YouTube Shorts, or 1:1, 4:5 and 16:9\n\n• Add animated captions in 35 styles, and translate them\n\n• Let Unsora pick the strongest moments, or ask for specific ones, like \"every product demo\"\n\nSchedule social media posts\n\n• Schedule to TikTok, Instagram, YouTube, Facebook, LinkedIn and more from one post composer\n\n• Post to up to 10 accounts at once, with a different caption for each\n\n• Set YouTube titles, TikTok privacy and Pinterest boards, then post now, schedule or save a draft\n\n• Ask what's in your queue this week, and see views, likes, comments and shares for published posts\n\nCreate the content too\n\n• Generate short AI videos for Reels, TikToks and ads\n\n• YouTube thumbnails from your photo and a style you like, talking-avatar videos, music and voiceovers\n\n• Upscale images to 8K and video to 4K\n\nClips, videos and posts appear in interactive previews in the chat, and every file is saved to your Unsora library. You review the caption, media, accounts and time in the composer before anything is scheduled.\n\nYou need an Unsora account to use this plugin. Clipping and generations spend credits from your Unsora account, and Unsora only accesses the social accounts you have connected yourself.",
+  "summary_ja": "長い動画を字幕付き短編に編集し、SNS投稿の予約を支援する。",
+  "limitations_ja": "Unsoraアカウントが必要。切り抜きや生成はクレジットを消費し、SNSアカウントは自分が接続したものだけにアクセスすると説明。",
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "Unsora",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "動画編集",
+    "SNS",
+    "投稿管理"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}
