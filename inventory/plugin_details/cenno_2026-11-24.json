@@ -1,0 +1,29 @@
+{
+  "name": "Cenno",
+  "category": "Creativity",
+  "provider": "Douglas da Silva Faustino",
+  "version": "1.2.1",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6acce86ed8988191a6f8a387dc64deb3?category=creativity",
+  "original_description": "Cenno helps event professionals and students develop creative pre-designs for exhibition stands, indoor corporate events, outdoor events and seasonal Christmas installations, plus photo opportunities, event renders and animation planning. Eleven focused skills include a neutral workflow selector and ten specialties. Stand, indoor and Christmas design provide text-based concepts, spatial planning, English prompts, a modeling handoff guide and descriptive inventories; they do not create 3D models or generate media. Christmas design considers theme, tree, activities and existing inventory supplied through photos and dimensions, including seasonal decoration for malls, outdoor spaces, homes and offices. Other skills cover drone shots, virtual tours, construction timelapses and plenary-to-dinner transformations. Starts immediately without a conversational password or language-selection step. Conversation automatically follows the user's language; visual prompts remain in English. Media generation depends on tools and limits in each user account. The remote MCP calculator estimates photo opportunity composition for 1 to 12 people; it does not generate media, persist briefings, call an AI API, purchase services or perform structural calculations. Outputs are creative pre-designs, not construction documents or safety certifications. Dedicated light-show animation is not included.",
+  "original_description_language": "en",
+  "summary_ja": "イベントや撮影スペースの企画・構成を支援する。",
+  "limitations_ja": "詳細本文と内包アプリ欄でスキル数や展示・屋内・クリスマスの対応が食い違っており、実際の対応範囲は未確認。施工図や安全認証は提供しない。",
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "Cenno",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "イベント",
+    "空間デザイン",
+    "企画"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証",
+    "説明間の相違あり"
+  ],
+  "description_scope": "詳細ページ本文の英語説明",
+  "app_description": "Cenno helps event professionals and students develop outdoor event concepts, 2D layouts and descriptive memorials; photo opportunity installations; renders from event blocking images; drone shots; virtual tours; construction timelapses; and plenary-to-dinner room transformations. Eight focused skills include a workflow selector and seven specialties. Conversation follows the selected language; image and video prompts are provided in English. Users choose between supported in-chat image generation and external prompts. Media generation depends on tools and limits available in each user account. The remote MCP tool estimates photo opportunity composition width and participant positions for groups of 1 to 12; it does not generate media, persist briefings, call an AI API, purchase services or perform structural calculations. Output is creative pre-design and requires project-specific professional review. Specialized stand/interior creative direction, Christmas design and dedicated light-show animation are not included in this release.",
+  "description_discrepancy_ja": "詳細本文は11スキルで展示・屋内・クリスマスに対応すると説明。内包アプリ欄は8スキルでそれらの専門機能を含まないと説明。実際の対応範囲は未確認。"
+}
