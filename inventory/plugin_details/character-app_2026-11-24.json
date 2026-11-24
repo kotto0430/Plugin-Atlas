@@ -1,0 +1,25 @@
+{
+  "name": "Character App",
+  "official_app_name": "Character App",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "charactr, inc.",
+  "version": "1.2.0",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac085e442388191a815490545bf925f?category=creativity",
+  "original_description": "Character App is where you make your own Characters and the clips, stories and series they star in, with AI tools in your hands. Star in a clip: put your Character into a dance or clip from our Templates, then keep the short clip.\n\nTurn a picture ChatGPT drew, a selfie, a drawing of your OC or a few words into your Character, as an anime or cartoon Character or in Clay, Y2K or Real style. Then tell their story: a talking Slideshow in pictures, short animated Clips, a short Story, or Episodes of your own series, like a vertical drama.\n\nDraw a character with ChatGPT and keep it as your Character: it can star in your next Clip or Story, and lead the Episodes of your own vertical drama.\n\nWhat you can make:\nStar in a clip: your Character in a dance or clip from our Templates. The take plays right here in the chat.\nSlideshow Stories: your Character's story in pictures, with captions and a narrator, playing right here in the chat.\nClips: make short animated Clips of your Character doing anything you describe, 5 to 15 seconds and vertical.\nStories: a short Story, about 30 seconds or about a minute, in any style, anime included. Write it with ChatGPT and read it in the Story card before you keep it, or let Character App write it.\nEpisodes: your own series from Character App's writers' room, in your World's genre, like a vertical drama, with a new cliffhanger every Episode.\nCharacter App Images: a picture of your Character, tall for your phone, square or wide.\n\nWhat people make:\nTheir Character or OC in a dance from our Templates\nA vertical drama with a new cliffhanger every Episode\nTheir OC's origin story as a talking Slideshow\nTheir own AI influencer: one Character across lots of short Clips\nA show for their brand, with a cast of its own\n\nGood to know: Character App is for making, not for chatting with characters, and a Slideshow Story is a story, not a slide deck. Story text you just want to read stays in ChatGPT. You need a Character App account, for people 17 and up. Nothing is made until you tap in a card; asking in chat never does. Use pictures and clips of yourself, of people who said yes, or of made-up characters, with everyone in them 18 or older. Every result is new, so watch it before you share it. Posting, publishing and deleting stay on Character App.",
+  "summary_ja": "写真や文章からキャラクターを作り、短い動画や物語に登場させる。",
+  "limitations_ja": "17歳以上向けアカウントが必要。画像・動画に登場する人物は全員18歳以上と説明。投稿・公開・削除はCharacter App側で行う。",
+  "usage_tags": [
+    "キャラクター制作",
+    "動画制作",
+    "物語制作"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "description_scope": "詳細ページ本文の英語説明"
+}
