@@ -1103,3 +1103,10 @@ Alpenmarketing Bildkompressorの公式本文はドイツ語のため原文の言
 DupeFont、Avatar Maker、Beat Maker、Imagen for Real Estate、CILA、RTST AI、T-Shirt Art、MorphaReels、ScriptNib、Photo AI Studio の公式説明・出典・日本語要約・用途と確認状況を記録。前回611件から10件増え、詳細ファイルは累計621件。実動作・料金・一覧本体との照合は未検証。接続・インストール・設定変更・生成・投稿・公開は行っていない。
 
 Avatar MakerとBeat MakerはMegaScenesの同名候補を区別し、内包アプリ名も記録。ScriptNibは本文だけでは具体的なツールが不明。Photo AI Studioは画像生成・編集にクレジットが必要で写真をAIモデル提供者へ送信すると説明。Coloring Pages by Abracadabrax、Character Maker、Book Covers by Abracadabrax は同名の詳細記録があるため今回追加せず、同一性は未確認。次回はクリエイティブ一覧の Photo AI Studio の隣の Tattoo Designs と、次の StemConsole・Chaptershift 付近から既存記録との重複を確認して再開する。表示順は変わる可能性がある。
+
+
+### 詳細調査（2026-11-24、一覧復帰時の操作エラー）
+
+Photo AI Studio の詳細からクリエイティブ一覧へ戻るリンクをアクセシビリティ要素でクリックしようとしたところ、`coordinate input geometry is unavailable` が返った。スクリーンショットでは Photo AI Studio の詳細画面のままであることを確認。指示に従い新規詳細を追加せず停止し、累計621件のまま。接続・インストール・設定変更は行っていない。
+
+次回はクリエイティブ一覧に戻り、Photo AI Studio の隣の Tattoo Designs と、StemConsole・Chaptershift 付近から重複を確認して再開する。表示順は変わる可能性がある。
