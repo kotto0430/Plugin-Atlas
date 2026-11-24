@@ -1,0 +1,25 @@
+{
+  "name": "3D Animation",
+  "official_app_name": "3D Animation",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "MegaScenes",
+  "version": "1.0.0",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6aeceaea13c881918bf72c575a3696ab?category=creativity",
+  "original_description": "Describe a scene, a fox exploring a snowy forest, a robot watering plants, a little dragon learning to fly, or pick a picture from your MegaScenes library to bring to life. You get a short clip in the look of a 3D animated film: stylized characters, soft light, rich colors and a smooth camera, in 16:9, 9:16 or 1:1.\n\nChatGPT tells you what the clip needs and starts it in your MegaScenes account when you ask. The clip plays in the chat when it is ready and stays in your library.\n\nFor social posts, stories for kids, greetings and short animations.\n\nLimitations: a few seconds per clip; the look is described in general terms, not by a studio or film name. Pictures must already be in your MegaScenes library; attachments from the chat are not passed to the plugin. Making a file needs a signed-in MegaScenes account and runs in it; nothing is made until you confirm. Not for sexual or adult content or for real people's likeness. Files are made by generative models and saved in your MegaScenes library.",
+  "summary_ja": "文章や保存済み画像から3Dアニメ風の短い動画を作る。",
+  "limitations_ja": "1本は数秒。画像はMegaScenesライブラリに事前保存が必要で、チャットの添付は渡されない。MegaScenesアカウントが必要。",
+  "usage_tags": [
+    "アニメーション",
+    "動画制作",
+    "画像制作"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "description_scope": "詳細ページ本文の英語説明"
+}
