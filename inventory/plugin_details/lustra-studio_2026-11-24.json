@@ -1,0 +1,25 @@
+{
+  "name": "Lustra Studio",
+  "official_app_name": "Lustra Studio",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "Jamal Akram",
+  "version": "1.0.0",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6abe929ef0888191bf2fb9314bc98569?category=creativity",
+  "original_description": "Create and edit jewelry and product images using your connected Lustra Studio account. Use color variations, pose-based listing images, multi-angle views, lifestyle scenes, virtual try-on and reusable AI models, alongside normal image generation and Batch Studio. Import reference images from your chat, reuse saved models, and bring existing project images into the conversation. Generation runs asynchronously using your account’s existing credits and plan limits. Results are AI-generated and should be reviewed before use.",
+  "summary_ja": "宝飾品の商品画像を作成・編集し、色違いや着用風の画像を作る。",
+  "limitations_ja": "Lustra Studioアカウントとの接続が必要。既存クレジットとプラン制限の範囲で生成。",
+  "usage_tags": [
+    "商品写真",
+    "宝飾品",
+    "画像制作"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "description_scope": "詳細ページ本文の英語説明"
+}
