@@ -1,0 +1,25 @@
+{
+  "name": "Podcast Intros",
+  "official_app_name": "Podcast Intros",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "Abracadabrax",
+  "version": "1.0.2",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac1282c0f908191a950d37e8488a15f?category=creativity",
+  "original_description": "Give ChatGPT the name of your podcast, channel or stream and its feel, and get a short signature theme to open or close every episode: 30 or 60 seconds, instrumental, or with a short sung tagline that says the show's name.\n\nThe plugin prepares a draft with the genre, the mood, the vocals and the length, and shows the credits it will use. When you confirm, Abracadabrax produces the jingle and ChatGPT returns the link to the audio file.\n\nFor podcasters, streamers and channel owners.\n\nLimitations: short new tracks from text only. It does not make full-length songs, remix or extend existing recordings, or clone voices. Producing uses credits of the user's Abracadabrax account. If you are not signed in, the plugin gives a link where the same draft opens on Abracadabrax. Outputs are AI-generated.",
+  "summary_ja": "番組名や雰囲気からポッドキャスト用の短いジングルを作る。",
+  "limitations_ja": "30秒または60秒の新規音源。既存音源のリミックス・延長、声の複製、長編曲の制作は非対応。生成にクレジットを使用。",
+  "usage_tags": [
+    "ポッドキャスト",
+    "音楽",
+    "音声制作"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "description_scope": "詳細ページ本文の英語説明"
+}
