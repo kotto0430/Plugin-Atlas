@@ -1,0 +1,25 @@
+{
+  "name": "Album Covers by Abracadabrax",
+  "official_app_name": "Album Covers by Abracadabrax",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "Abracadabrax",
+  "version": "1.0.1",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac1274afcb081919b8d5a869e3cf6e0?category=creativity",
+  "original_description": "Give ChatGPT the title of your album, single, EP, mixtape or playlist, the artist name, the genre and the mood, and get square cover art that still reads as a small thumbnail on streaming platforms, with the title and the artist set into the artwork or no text at all.\n\nThe plugin prepares a square draft with the visual style, the lettering and the image model, and shows the credits it will use. When you confirm, Abracadabrax renders the cover and ChatGPT returns the link to the image.\n\nFor independent artists, producers and playlist curators.\n\nLimitations: covers from text only. It does not put your own photo or band logo on the cover, edit an existing cover or make the music. Producing uses credits of the user's Abracadabrax account. If you are not signed in, the plugin gives a link where the same draft opens on Abracadabrax. Outputs are AI-generated.",
+  "summary_ja": "楽曲名や雰囲気から正方形のアルバム表紙画像を作る。",
+  "limitations_ja": "テキストからの作成のみ。自分の写真・ロゴの配置や既存表紙の編集、音楽の制作は非対応。生成にクレジットを使用。",
+  "usage_tags": [
+    "音楽",
+    "表紙",
+    "画像制作"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "description_scope": "詳細ページ本文の英語説明"
+}
