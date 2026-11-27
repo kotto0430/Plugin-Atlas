@@ -1,0 +1,26 @@
+{
+  "name": "Logo Generator",
+  "official_app_name": "Logo Generator",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "B12",
+  "version": "1.0.1",
+  "observed_at": "2026-11-27",
+  "source_url": "https://chatgpt.com/plugins/plugins_6a83056fe3608191a0ec6dc109bfa9a6?category=creativity",
+  "original_description": "Say what the logo is for, and give a business name only if you want one in the design. It draws the logo, shows you a preview, and hands over the files in a zip — SVG and PNG, as a horizontal lockup plus a square icon for avatars and favicons when there is a name, or a text-free mark when there isn't. Then it can generate a matching B12 website using the same brand colors.",
+  "original_description_language": "英語",
+  "summary_ja": "用途や名前からロゴを作り、SVG・PNGファイルとして受け取る。",
+  "limitations_ja": "同名のManyMotions版とは別の掲載。機能や出力は実動作未検証。",
+  "usage_tags": [
+    "ロゴ制作",
+    "ブランド",
+    "SVG"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "description_scope": "詳細ページ本文の英語説明"
+}
