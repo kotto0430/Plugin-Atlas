@@ -1,0 +1,26 @@
+{
+  "name": "eonik",
+  "official_app_name": "eonik",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "eonik",
+  "version": "5.0.0",
+  "observed_at": "2026-11-27",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6aca11964e3c8191816c4ec1345c3e9a?category=creativity",
+  "original_description": "eonik is the research and the making of a brand's ads. Connect your eonik account, or make one, and ask in your own words.\n\nSet eonik up from here: your brand from its website, the competitors you name, your team and your ad account. Then ask what your competitors are running, how long each ad has run and what changed this week, read scene-by-scene breakdowns, see your own Meta ad results, and have eonik remember your brand's rules and dated plans.\n\nThe making runs in the eonik app on your Mac, where your files and fonts are: every size of a creative for a media plan, with the brand's fonts, rules and layout kept, changes in your own words, checks against the brand's rules, your client's approval and delivery.\n\nYou review and confirm before anything is made, changed or sent. eonik reports recorded facts: it does not predict how an ad will perform, buys nothing, and cannot pause or launch an ad or change its budget.",
+  "original_description_language": "英語",
+  "summary_ja": "競合広告の調査とブランドに沿った広告素材のサイズ展開を支援する。",
+  "limitations_ja": "素材制作はMacのeonikアプリ上で実施すると説明。",
+  "usage_tags": [
+    "広告制作",
+    "競合調査",
+    "ブランド"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "description_scope": "詳細ページ本文の説明（折りたたまれた部分は内包アプリ欄で確認）"
+}
