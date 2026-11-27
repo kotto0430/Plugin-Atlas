@@ -1252,3 +1252,22 @@ Background Removerは既存のYaps Background Removerとは名称と掲載URLが
 Instant Website（https://chatgpt.com/plugins/plugin_asdk_app_694ae02d15d4819184a0dd83b23fffb7、Pyxl、2.0.0）の後にInsta Website Builder（https://chatgpt.com/plugins/plugin_asdk_app_69fe1a6d07648191b4763a0c4a813594、Pyxl、3.0.0）を確認。両者は別の掲載URLだが、同じ提供元・ウェブサイト https://instasite.ai/ と類似の説明を持つ。同一サービスや旧版・新版の関係は未確認のため、重複登録を避けて後者の詳細ファイル追加は保留し、7件で停止。後者の本文原文: “InstaSite lets you generate websites using AI. Create page structure, content, and layout from a short description, then edit and publish your site.”
 
 次回は上記2掲載の関係を推測せず保留のまま、クリエイティブ一覧のLogo Generator付近から既存の詳細記録と重複を確認して再開する。表示順は変わる可能性がある。
+
+
+### 詳細調査（2026-11-27〜28、クリエイティブ4件・重複候補）
+
+Logo Generator（B12）、Logo Generator（ManyMotions）、Logo Maker（MegaScenes）、Logo Designer の公式説明原文・出典・日本語要約・用途と確認状況を記録。前回736件から4件増え、詳細ファイルは累計740件。前の3件は11月27日、Logo Designerと以下のAI Logoは11月28日に確認。実動作・料金・一覧本体との照合は未検証。接続・インストール・設定変更・生成・投稿・公開は行っていない。
+
+Logo Generatorは同名だが掲載URLと提供元が異なるためB12版とManyMotions版を区別。B12はSVGとPNG、ManyMotionsはPNGでベクター出力と商標確認を含まないと説明。Logo Designerはアフィリエイトリンクを含む場合があると説明。
+
+AI Logo（MegaScenes、1.0.0、https://chatgpt.com/plugins/plugin_asdk_app_6af749b2b4b88191aa73a1940ff87583?category=creativity）は別掲載だがLogo Makerと提供元・サービスが同じで、ロゴ案を画像として作る機能も似ている。両掲載の関係は未確認のため詳細ファイル追加は保留し4件で停止。AI Logoの本文原文: 
+
+> Start with just the brand name, or add what the business does, a style, the colors to use or avoid and an idea for the symbol, such as a fox head, a leaf or a rising sun. You get logo concepts as image files, clean and centered on white, to compare side by side.
+>
+> ChatGPT turns your words into a design request, tells you what the run needs and creates the concepts in your MegaScenes account when you ask. They open in the chat and stay in your library.
+>
+> For naming sessions, startup pitches, quick brand explorations and new ventures.
+>
+> Limitations: concepts as image files; it does not edit a logo you already have, deliver vector files or run trademark checks. Making a file needs a signed-in MegaScenes account and runs in it; nothing is made until you confirm. Not for sexual or adult content or for real people's likeness. Files are made by generative models and saved in your MegaScenes library.
+
+次回はAI LogoとLogo Makerの関係を推測せず保留のまま、検索結果で見えたMonogram Maker・Product Photos by RunComfy付近から既存記録との重複を確認して再開する。表示順は変わる可能性がある。
