@@ -1232,3 +1232,12 @@ Raelume の公式説明原文・出典・日本語要約・用途と確認状況
 一覧は前回から並びが変化。VideoDB付近の BatchEdits を選択しようとしたところ Raelume が開いたため、表示された名称・出典・説明を確認して1件で停止。Raelumeはアカウントと残高を使って画像・動画・3D・音声を生成すると説明。BatchEditsは未確認。
 
 次回は表示位置を再確認し、VideoDB付近の BatchEdits、その後の ArivuStudio・Bazaart Photoshoot 付近から、既存記録と重複を確認して再開する。今回見えた Freebeat Music Video Generator・Calligraphy Maker by Studio99 も未確認。表示順は変わる可能性がある。
+
+
+### 詳細調査（2026-11-27、クリエイティブ10件）
+
+BatchEdits、ArivuStudio、Bazaart Photoshoot、JsonCut、WRITER PRO PLUS、Pikes、Playyy、Bassoon、Loova、eonik の公式説明原文・出典・日本語要約・用途と確認状況を記録。前回719件から10件増え、詳細ファイルは累計729件。実動作・料金・一覧本体との照合は未検証。接続・インストール・設定変更・生成・投稿・公開は行っていない。
+
+WRITER PRO PLUSの説明原文はスペイン語で、言語を記録。ArivuStudioとLoovaは折りたたまれた本文の続きを内包アプリ欄から確認。eonikの内包アプリ欄は日本語だが、本文の英語原文を記録。既存詳細READMEの同名項目を確認して重複を避けた。Background Removerは同名掲載の区別を未確認として保留。
+
+次回は未確認候補のFreebeat Music Video Generator・Calligraphy Maker by Studio99から、既存記録との重複を確認して再開する。Background Removerも提供元を照合して確認。表示順は変わる可能性がある。
