@@ -1,0 +1,25 @@
+{
+  "name": "AdStar",
+  "official_app_name": "AdStar",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "AdStar",
+  "version": "1.0.0",
+  "observed_at": "2026-11-27",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ad52cc6a8e8819192d4a5a8cc69a603?category=creativity",
+  "original_description": "AdStar makes video ads for your products from inside ChatGPT. Point it at a product page, or describe a product that has no page and add photos, and AdStar reads the page, extracts the name, benefits and images, and turns them into a finished video ad: a UGC-style clip, a product showcase or an explainer, in the format and language you ask for.\n\nWhat you can do:\n• Import a product from its web page, or create one by hand and add photos from the web or from your device.\n• Get a quote for an ad before anything is made, then make the ad once you agree. The ad takes a few minutes; the AdStar card in the chat shows the scenes as they are made and plays the finished video.\n• Browse the recipe gallery: fixed procedures that make product shots, lifestyle scenes, UGC clips, motion graphics and mockups from a product's photos and text. Quote a run, run it, follow it and cancel it.\n• See your brands, products and ads, and open any ad on the AdStar site to edit it.\n\nMade for people who sell products online and want ads without a studio: shop owners, marketers and agencies.\n\nGood to know:\n• You need an AdStar account. ChatGPT signs you in to it, and you can disconnect at any time from Settings in AdStar or from ChatGPT.\n• Making an ad or running a recipe spends credits from your AdStar account. AdStar always quotes the cost first and acts only after you agree. Credits and plans are managed on the AdStar website, not in ChatGPT.\n• An ad takes several minutes to make; a recipe run takes from under a minute to several minutes.\n• Importing needs a public product page. Text on imported pages is treated as content, never as instructions.\n• AdStar does not post ads to social networks or ad platforms; you download the video or edit it on the site.",
+  "summary_ja": "商品ページや写真から動画広告や商品画像を作る。",
+  "limitations_ja": "アカウントとクレジットが必要。SNSや広告プラットフォームへの投稿は行わないと説明。",
+  "usage_tags": [
+    "広告",
+    "動画",
+    "商品画像"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "description_scope": "詳細ページ本文の英語説明"
+}
