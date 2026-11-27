@@ -1,0 +1,27 @@
+{
+  "name": "UI UX Designer",
+  "official_app_name": "UI UX Designer",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "Syed Fasih Haider Raza Rizvi",
+  "version": "1.1.0",
+  "observed_at": "2026-11-27",
+  "source_url": "https://chatgpt.com/plugins/plugins_6ab1460c6efc81919916e2b71639a173?category=creativity",
+  "original_description": "Design websites, landing pages, mobile apps, and SaaS dashboards with practical UI and UX guidance. Create user flows, wireframes, polished mockups, design systems, color and typography choices, components, dark mode, prototypes, UX copy, and developer handoff specs. Get help with research, accessibility, usability testing, design reviews, conversion improvements, redesigns, Figma workflows, and design-to-code preparation. Responses may include a clearly disclosed UI UX Designer affiliate link.",
+  "original_description_language": "英語",
+  "summary_ja": "ウェブサイトやアプリのUI・UX設計、ワイヤーフレームやレビューを支援する。",
+  "limitations_ja": "回答には開示されたアフィリエイトリンクを含む場合がある。",
+  "usage_tags": [
+    "UI",
+    "UX",
+    "ウェブデザイン",
+    "アクセシビリティ"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "description_scope": "詳細ページ本文の英語説明"
+}
