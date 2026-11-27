@@ -894,6 +894,14 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 - [Loova](loova_2026-11-27.json) — 画像・動画を生成・編集し、アニメや広告向けの素材を作る。
 - [eonik](eonik_2026-11-27.json) — 競合広告の調査とブランドに沿った広告素材のサイズ展開を支援する。
 
+- [Freebeat Music Video Generator](freebeat-music-video-generator_2026-11-27.json) — 楽曲や写真からミュージックビデオ・歌詞動画・ダンス動画を制作する。
+- [Calligraphy Maker by Studio99](calligraphy-maker-by-studio99_2026-11-27.json) — ヒンディー語など4言語の文字をカリグラフィー作品にする。
+- [Background Remover](background-remover_2026-11-27.json) — MegaScenesライブラリ内の画像から背景を除き透過PNGを作る。
+- [Designly](designly_2026-11-27.json) — 広告やブランド向けのビジュアルの構想・構成・レビューを支援する。
+- [Faceless Video Maker](faceless-video-maker_2026-11-27.json) — 顔出ししない動画の企画、脚本、絵コンテ、字幕などを準備する。
+- [UI UX Designer](ui-ux-designer_2026-11-27.json) — ウェブサイトやアプリのUI・UX設計、ワイヤーフレームやレビューを支援する。
+- [Instant Website](instant-website_2026-11-27.json) — 短い説明からウェブサイトの構成・内容・レイアウトを作り編集・公開する。
+
 ## 一覧本体との照合
 
 [名称照合の記録](catalog_name_audit_2026-11-14.json) — 詳細35件と作業ブランチの一覧3,941件を比較。34件は名前が一致、Palimpsestは一致なし。名前の一致は同一性の確定ではない。個々のJSONにある旧「照合未確認」の記載は調査時点の記録で、最新の照合結果はこの記録を参照。
