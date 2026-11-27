@@ -1,0 +1,25 @@
+{
+  "name": "Pick My Costume",
+  "official_app_name": "Pick My Costume",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "Pick My Costume",
+  "version": "1.0.1",
+  "observed_at": "2026-11-27",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac7e999be24819197ee6109cb1be21f?category=creativity",
+  "original_description": "Pick My Costume ranks 169 curated Halloween costumes by how much you can already build. Tell it who's dressing up and what you already own, and it shows which costumes your materials cover best. Search by a specific item to see exactly what you'd still need for each. Every costume has a materials list, step-by-step build guide, and estimated time and effort, with safety notes for most. You can also narrow by vibe, interests, and effort level. No account or signup required.",
+  "summary_ja": "手持ちの材料から作りやすいハロウィーン衣装を探す。",
+  "limitations_ja": "公式説明は169種類と記載。安全上の注記は大半の衣装に付くと説明。",
+  "usage_tags": [
+    "衣装",
+    "工作",
+    "イベント"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "description_scope": "詳細ページ本文の英語説明"
+}
