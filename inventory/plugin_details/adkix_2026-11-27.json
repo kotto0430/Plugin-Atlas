@@ -1,0 +1,25 @@
+{
+  "name": "adkix",
+  "official_app_name": "adkix",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "Deepthix",
+  "version": "1.3.0",
+  "observed_at": "2026-11-27",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ad9c7d966508191aa0e0a470325a77c?category=creativity",
+  "original_description": "adkix turns your website, an Instagram account or a one-line idea into a finished short video ad (15 s, 30 s or 1 min, vertical 9:16) for TikTok, Instagram Reels and YouTube Shorts.\n\nFrom ChatGPT, adkix reads your brand, proposes story angles and visual styles, draws a consistent cast and locations, writes the script, records the voice-over, films every shot with AI video models, adds music and word-by-word titles, and delivers an MP4.\n\nYou stay in control at every step: ChatGPT shows you what adkix proposes (pictures, script, voice, music) and asks before moving on. Nothing is ever spent without your explicit yes.\n\nConnect your adkix account to start. adkix only accesses the videos of the connected account.",
+  "summary_ja": "サイトやアイデアを基に縦型の短い動画広告を作る。",
+  "limitations_ja": "アカウント接続が必要。クレジット消費前に確認すると説明。",
+  "usage_tags": [
+    "動画広告",
+    "SNS",
+    "動画制作"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "description_scope": "詳細ページ本文の英語説明"
+}
