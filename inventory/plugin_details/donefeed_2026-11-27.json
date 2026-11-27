@@ -1,0 +1,25 @@
+{
+  "name": "Donefeed",
+  "official_app_name": "Donefeed",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "Edvard Gezin",
+  "version": "1.0.2",
+  "observed_at": "2026-11-27",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6acdf92e07f08191a75a3ca648b4b5b7?category=creativity",
+  "original_description": "Create posts using your Donefeed themes, edit individual layers and captions, refine reusable themes, and export PNG slides with an editable post link. Access is limited to your connected Donefeed account.",
+  "summary_ja": "保存したテーマで投稿を作り、レイヤーや文章を編集してPNGに出力する。",
+  "limitations_ja": "接続したDonefeedアカウントの範囲で利用する。",
+  "usage_tags": [
+    "SNS",
+    "画像編集",
+    "投稿"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "description_scope": "詳細ページ本文の英語説明"
+}
