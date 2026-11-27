@@ -1,0 +1,27 @@
+{
+  "name": "Pikes",
+  "official_app_name": "Pikes",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "Pikes AI, Inc.",
+  "version": "1.0.4",
+  "observed_at": "2026-11-27",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ad915141a748191b9dc9f41472f1087?category=creativity",
+  "original_description": "Bring your brand context, products, assets and creative work together in Pikes. For brand teams, marketers and designers, Pikes connects the steps from a creative brief to an organized set of usable assets.\n\nUse saved brand guidelines, colors and product references to develop creative concepts. Search your asset library and organize work into boards. Create editable project layouts with separate text and image elements, then preview the design. Generate and edit images, animate product images into videos, and create audio using the connected Pikes account. Save outputs back to your workspace so you can continue working in Pikes.\n\nIf you have separately connected Meta in Pikes, read campaign and creative performance to inform your next brief. The connector does not publish ads or change campaign budgets.\n\nA Pikes account is required. Image, video and audio generation use your existing Pikes credits and may take time to complete. Workspace permissions and available account entitlements apply. The connector does not sell credits, start subscriptions or process payments.",
+  "original_description_language": "英語",
+  "summary_ja": "ブランド素材の整理や編集可能なデザイン・画像・動画・音声の制作を支援する。",
+  "limitations_ja": "Pikesアカウントが必要で生成にクレジットを使用。",
+  "usage_tags": [
+    "ブランド",
+    "広告制作",
+    "画像生成",
+    "動画生成"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "description_scope": "詳細ページ本文の説明（折りたたまれた部分は内包アプリ欄で確認）"
+}
