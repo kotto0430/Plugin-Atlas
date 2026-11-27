@@ -1,0 +1,27 @@
+{
+  "name": "Freebeat Music Video Generator",
+  "official_app_name": "Freebeat Music Video Generator",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "Freebeat",
+  "version": "0.4.7",
+  "observed_at": "2026-11-27",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6adb259394d0819194e8e3f7435ea773?category=creativity",
+  "original_description": "Turn your song into a music video, an animated lyric video or a dance video, right in the conversation. Freebeat's AI director plans the video, generates it and times it to the song.\n\nMusic videos: a multi-scene video built around your song, featuring the people or characters from photos you add.\n\nLyric videos: animated lyrics timed to the vocals.\n\nDance videos: the people in your photos become the dancers, in vertical formats for short-video feeds.\n\nBring your song: attach an audio file, paste a link to your song on a music or video site, or share a public link to an audio file. No song yet? Freebeat can write an original one from your idea, with your own lyrics if you have them, and then make its video.\n\nLet the director run, or co-create: choose automatic mode and get the finished video, or work with the director. It pauses where your taste matters and shows its plan in the chat, with links to the images and clips it made; you give notes, and whenever it is waiting for you, you can hand the rest back to automatic mode.\n\nAlso create and edit images, turn text or images into short video clips, make a photo, a pet or two people sing a track, lip-sync an existing clip to new audio, and turn a photo into a video with an effect template.\n\nSign in with your Freebeat account. Generations use your existing Freebeat credits. A music, lyric or dance video usually takes 15–60 minutes and by default uses a short section of the song picked the same way freebeat.ai picks a section for a new video. You can ask for a different section. Progress shows in the chat, and each music, lyric or dance video also has a page on freebeat.ai where you can watch or continue it.\n\nUse songs, photos and clips you own or have permission to use.",
+  "original_description_language": "英語",
+  "summary_ja": "楽曲や写真からミュージックビデオ・歌詞動画・ダンス動画を制作する。",
+  "limitations_ja": "Freebeatアカウントとクレジットが必要。本文は初期状態で曲の短い区間を使うと記載し、内包アプリ欄は冒頭15秒と記載。区間の実際の選択方法は未検証。",
+  "usage_tags": [
+    "音楽",
+    "動画生成",
+    "歌詞動画"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "description_scope": "詳細ページ本文の英語説明",
+  "embedded_app_description": "Generate music videos, dance videos, and animated lyric videos from your songs. Attach audio in ChatGPT or share a link to it, and add photos to feature people or characters. Freebeat plans, generates, and edits the video. Sign in with your Freebeat account. Generations use your existing credits and usually take 15–60 minutes. By default videos use the first 15 seconds of the song. Let the director decide or co-create through the assistant, with progress and media visible in the conversation. Also create original music, images, short video clips, singing photos, and lip-sync videos."
+}
