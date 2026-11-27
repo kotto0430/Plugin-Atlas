@@ -1196,3 +1196,12 @@ PromptFy、Supareels、Stirloom Family Recipe Book の公式説明原文・出�
 PromptFyはローカルメディアの処理にPromptFyのタブと元ファイルが必要で、音の検出は推定と説明。Supareelsは既存のAI生成映像素材を検索し、動画の生成や編集は行わないと説明。Stirloomは本文が本の上限120件・印刷時の最低6件と説明する一方、内包アプリ欄は本を6〜120件と説明。両方の原文を保存し、印刷前の最低件数を未確認として相違発見時点で3件で停止。印刷本の配送は米国・カナダ限定と説明。
 
 次回はクリエイティブ一覧で Stirloom Family Recipe Book の次の掲載を探し、既存記録との重複を確認して再開する。表示順は変わる可能性がある。
+
+
+### 詳細調査（2026-11-27、クリエイティブ10件）
+
+Inspiration by VASA、Aya Studio、ThreadCam、Corte、Emoji Maker、Contentdrips、Autodesk Flow Studio、WikiBrand、Donefeed、Epictime の公式説明原文・出典・日本語要約・用途と確認状況を記録。前回692件から10件増え、詳細ファイルは累計702件。実動作・料金・一覧本体との照合は未検証。接続・インストール・設定変更・生成・注文・投稿・公開は行っていない。
+
+一覧の並びが変わっていたためStirloomの周辺を確認。Meminto – Write Your Book、Rayon、AI Manga Studio、Memory Book of Voice Messages、KitCutは同名の詳細記録があるため今回追加せず、掲載の同一性は未確認。Emoji Makerの内包アプリ名はEmoji Maker by MegaScenes。ThreadCamは衣服の3D表示と印刷注文、Autodesk Flow StudioはLite以上のプランが必要と説明。WikiBrandは商標や利用権の情報を提供しないと説明。Contentdripsは本文でTikTok向け制作にも言及するが、投稿・予約スキル欄に明記されたのはLinkedInとInstagramで、対応範囲の実動作は未確認。
+
+次回は今回の一覧でEpictimeの次の行付近、Invitations by MegaScenes・VOVVから既存記録との重複を確認して再開する。表示順は変わる可能性がある。
