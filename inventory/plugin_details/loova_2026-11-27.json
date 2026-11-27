@@ -1,0 +1,27 @@
+{
+  "name": "Loova",
+  "official_app_name": "Loova",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "Loova",
+  "version": "2.1.4",
+  "observed_at": "2026-11-27",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ad9a3ece25081918880e31161c8a6d8?category=creativity",
+  "original_description": "Turn ideas into images and videos with Loova, directly from your AI agent. Start with a text prompt, add reference materials, or bring a still image to life.\n\nBuilt for content creators, Loova combines image and video models with creative skills for everyday visual creation, short dramas, animation, anime, and marketing content.\n\nCreate images and videos. Describe a subject, scene, style, or action to generate images and videos. Use image references to guide your work, edit image backgrounds and details, or turn still images into video clips. Choose available models and their supported settings, including aspect ratio and video duration.\n\nBring stories and characters to life. Create scene images and video clips for short dramas, animation, and anime. Use reference videos to guide character motion, adapt pacing and shot structure, or replace characters in existing footage.\n\nCreate content for your audience and brand. Make product photos, showcase videos, UGC-style ads, thumbnails, and social covers. Adapt existing creative assets to different sizes and formats.\n\nFollow your work in the conversation. Upload references, explore available models, review generation estimates, and track progress. View outputs in result cards, download files, or open the corresponding task in Loova.\n\nConnect your Loova account to get started. Generation uses your account's available credits or entitlements. Available features depend on your account; in-chat previews depend on your client. Reference-video adaptations require script review before final generation.",
+  "original_description_language": "英語",
+  "summary_ja": "画像・動画を生成・編集し、アニメや広告向けの素材を作る。",
+  "limitations_ja": "Loovaアカウントと利用可能なクレジット等が必要。",
+  "usage_tags": [
+    "画像生成",
+    "動画生成",
+    "アニメ",
+    "広告制作"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "description_scope": "詳細ページ本文の説明（折りたたまれた部分は内包アプリ欄で確認）"
+}
