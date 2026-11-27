@@ -852,6 +852,17 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 - [Supareels](supareels_2026-11-27.json) — AI生成された既存の動画素材や画面効果を検索する。
 - [Stirloom Family Recipe Book](stirloom-family-recipe-book_2026-11-27.json) — 手書きのレシピカードを文字起こしし、写真と並べた家族向けレシピ本を作る。 最低レシピ数は説明間で相違があり未確認。
 
+- [Inspiration by VASA](inspiration-by-vasa_2026-11-27.json) — スタイルや色からデザインの参考を探し、配色案やフォントの組み合わせを調べる。
+- [Aya Studio](aya-studio_2026-11-27.json) — 子ども向けの絵や短いアニメ、歌、ナレーションを制作する。
+- [ThreadCam](threadcam_2026-11-27.json) — デザインを衣服の3Dプレビューに配置し、印刷・配送の価格を確認する。
+- [Corte](corte_2026-11-27.json) — ブランド向けの画像・動画・音声やSNS投稿を作成・管理し、公開を支援する。
+- [Emoji Maker](emoji-maker_2026-11-27.json) — 顔や物、感情を説明してチャット向けの小さな絵文字画像を作る。
+- [Contentdrips](contentdrips_2026-11-27.json) — ブランドのデザインや文章に合わせてSNS用の画像・複数枚投稿・文章を作成する。
+- [Autodesk Flow Studio](autodesk-flow-studio_2026-11-27.json) — 文章や写真から画像・3Dモデルを作り、形状やテクスチャを調整する。
+- [WikiBrand](wikibrand_2026-11-27.json) — 公開サイトからブランドのロゴ・色・書体などを調べる。
+- [Donefeed](donefeed_2026-11-27.json) — 保存したテーマで投稿を作り、レイヤーや文章を編集してPNGに出力する。
+- [Epictime](epictime_2026-11-27.json) — 子どもと読む挿絵付きの短い物語を作り、ナレーションなどで楽しむ。
+
 ## 一覧本体との照合
 
 [名称照合の記録](catalog_name_audit_2026-11-14.json) — 詳細35件と作業ブランチの一覧3,941件を比較。34件は名前が一致、Palimpsestは一致なし。名前の一致は同一性の確定ではない。個々のJSONにある旧「照合未確認」の記載は調査時点の記録で、最新の照合結果はこの記録を参照。
