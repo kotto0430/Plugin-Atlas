@@ -1187,3 +1187,12 @@ Social Images と AI Architectures は同名の既存記録があるため今回
 Clipify、HaircutAI、Bandmixr、EzUGC、Website Design、Game App Builder、AdStar、Freegma、Clout、Sloosh の公式説明原文・出典・日本語要約・用途と確認状況を記録。前回679件から10件増え、詳細ファイルは累計689件。ClipifyとHaircutAIは中断前の2026-11-24に観察、その他は2026-11-27に観察。実動作・料金・一覧本体との照合は未検証。接続・インストール・設定変更・生成・投稿・公開は行っていない。
 
 Website DesignとGame App Builderは外部ビルダーへのリンクにアフィリエイトコードを含み、プラグイン自体は公開しないと説明。AdStarはクレジットを消費し、Freegmaの画面はHTML形式。Slooshは有料処理前の承認と接続済みワークスペースが必要と説明。Brix36は同名の既存記録があるため追加せず、同一性は未確認。次回は今回の一覧順でSlooshの隣に見えたPromptFy、その後のSupareels・Stirloom Family Recipe Book付近から、既存記録と重複を確認して再開する。表示順は変わる可能性がある。
+
+
+### 詳細調査（2026-11-27、クリエイティブ3件・説明の相違）
+
+PromptFy、Supareels、Stirloom Family Recipe Book の公式説明原文・出典・日本語要約・用途と確認状況を記録。前回689件から3件増え、詳細ファイルは累計692件。実動作・料金・一覧本体との照合は未検証。接続・インストール・設定変更・生成・注文・公開は行っていない。
+
+PromptFyはローカルメディアの処理にPromptFyのタブと元ファイルが必要で、音の検出は推定と説明。Supareelsは既存のAI生成映像素材を検索し、動画の生成や編集は行わないと説明。Stirloomは本文が本の上限120件・印刷時の最低6件と説明する一方、内包アプリ欄は本を6〜120件と説明。両方の原文を保存し、印刷前の最低件数を未確認として相違発見時点で3件で停止。印刷本の配送は米国・カナダ限定と説明。
+
+次回はクリエイティブ一覧で Stirloom Family Recipe Book の次の掲載を探し、既存記録との重複を確認して再開する。表示順は変わる可能性がある。
