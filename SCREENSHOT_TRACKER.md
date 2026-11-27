@@ -1223,3 +1223,12 @@ GenflowAI、Trykr、Photo Editor（MegaScenes）、adkix、Pick My Costume、Ret
 Trykrはデンマーク国内配送・DKK建て。Photo EditorはMegaScenesライブラリの画像を対象とし、チャット添付画像を直接渡さないと説明、既存のAI Photo Editorとは別の掲載として区別。Artboard Mockupsはプラン制限と任意の分析機能について説明。VideoDBは展開して全文を確認。Short Story Loversは同名の既存詳細記録があるため追加せず、同一性は未確認。ChatCutは前回一覧のBeveled付近で見えた未記録候補を補って確認。
 
 次回はクリエイティブ一覧のStewdio・VideoDBの次の行付近から既存記録との重複を確認して再開する。次の掲載名はまだ確認していない。表示順は変わる可能性がある。
+
+
+### 詳細調査（2026-11-27、クリエイティブ1件・選択位置の不一致）
+
+Raelume の公式説明原文・出典・日本語要約・用途と確認状況を記録。前回718件から1件増え、詳細ファイルは累計719件。実動作・料金・一覧本体との照合は未検証。接続・インストール・設定変更・生成・投稿・公開は行っていない。
+
+一覧は前回から並びが変化。VideoDB付近の BatchEdits を選択しようとしたところ Raelume が開いたため、表示された名称・出典・説明を確認して1件で停止。Raelumeはアカウントと残高を使って画像・動画・3D・音声を生成すると説明。BatchEditsは未確認。
+
+次回は表示位置を再確認し、VideoDB付近の BatchEdits、その後の ArivuStudio・Bazaart Photoshoot 付近から、既存記録と重複を確認して再開する。今回見えた Freebeat Music Video Generator・Calligraphy Maker by Studio99 も未確認。表示順は変わる可能性がある。
