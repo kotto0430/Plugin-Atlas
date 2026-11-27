@@ -1,0 +1,25 @@
+{
+  "name": "EzUGC",
+  "official_app_name": "EzUGC",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "Listnr, Inc.",
+  "version": "1.0.0",
+  "observed_at": "2026-11-27",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6acf997013c08191b9b84ca8616a1da3?category=creativity",
+  "original_description": "EzUGC generates AI video ads, talking-head UGC ads, and static image ads from ChatGPT. Connect your EzUGC account, pick a model, and create clips or creator-style ads. Save a brand from a website to ground later videos and image ads in that brand's look and tone. Review past jobs and add captions to finished videos.",
+  "summary_ja": "動画広告や人物が話す広告、静止画広告を作り、完成動画に字幕を付ける。",
+  "limitations_ja": "EzUGCアカウントの接続が必要。料金や生成品質は未検証。",
+  "usage_tags": [
+    "広告",
+    "動画",
+    "画像生成"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "description_scope": "詳細ページ本文の英語説明"
+}
