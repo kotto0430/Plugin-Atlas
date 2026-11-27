@@ -1,0 +1,26 @@
+{
+  "name": "JsonCut",
+  "official_app_name": "JsonCut",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "centerbit",
+  "version": "0.4.0",
+  "observed_at": "2026-11-27",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6acd3bc3577481918fe9ec9b54866f20?category=creativity",
+  "original_description": "Create editable image and video projects in your JsonCut workspace. Make targeted changes to text, layers and motion, use your uploaded media, fill reusable templates, inspect preview frames, privately preview finished images and videos, and export files. Resize a project for another format, edit multi-page images, add captions from project speech, a voiceover or a library sound effect, check and balance the sound mix, and cut, steady or clean up uploaded footage. Captions, voiceovers and dubbing use the AI credits of the connected account; the plugin never buys credits. Open an existing project in the embedded JsonCut Studio editor to adjust layers, text and motion. Use Edit Image or Edit Video beside preview and download to open Studio with the connected JsonCut OAuth account. Host support for embedded sessions is required. Connect an existing JsonCut account with access to the requested features and sufficient rendering allowance. File import depends on the file-sharing capabilities of your ChatGPT or Codex client. Preview uses authenticated access to the connected account without creating a public link. Downloads use temporary, revocable links; anyone holding a link can access that export until it expires or is revoked. Account holders and users must be at least 18 and of legal age in their jurisdiction. The app offers content and experiences suitable for general audiences.",
+  "original_description_language": "英語",
+  "summary_ja": "画像や動画の編集プロジェクトを作成し、字幕・音声などを調整する。",
+  "limitations_ja": "既存アカウントと利用可能なレンダリング枠が必要。",
+  "usage_tags": [
+    "動画編集",
+    "画像編集",
+    "字幕"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "description_scope": "詳細ページ本文の説明（折りたたまれた部分は内包アプリ欄で確認）"
+}
