@@ -1,0 +1,26 @@
+{
+  "name": "BatchEdits",
+  "official_app_name": "BatchEdits",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "SHAYAN NADEEM",
+  "version": "1.0.1",
+  "observed_at": "2026-11-27",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6adca968f9208191a5de033ea1c9f107?category=creativity",
+  "original_description": "BatchEdits is an AI-powered bulk video editor built for creators who publish at scale. Upload up to 50 videos, remove silence, generate and style captions, and prepare videos for platforms such as TikTok, Instagram Reels, YouTube Shorts, and YouTube.\n\nWith this plugin you can:\n\n• Upload videos: attach a video to the chat to upload it directly, or open the BatchEdits editor right in the chat to upload one or many videos.\n\n• Apply editing styles: process any uploaded video with one of your saved styles, such as auto captions, silence removal or cropping for short-form.\n\n• Create and edit styles: describe the edits you want, for example \"remove silences and add captions\" or \"crop to 9:16 and cut into clips\", and a reusable style is built from the available BatchEdits actions.\n\n• Crop, clip and zoom: crop every video to 9:16, 1:1 or 4:5, let AI cut long videos like podcasts into short clips of their best moments (saved in a folder), and zoom in on key moments.\n\n• Track progress: ask whether your video is ready and get its real status: uploaded, queued, processing, completed or failed.\n\n• Download results: get temporary download links for finished videos, one at a time or in batches.\n\nEvery action is limited to your own BatchEdits workspace. Processing uses your BatchEdits video credits, and nothing is ever deleted.",
+  "original_description_language": "英語",
+  "summary_ja": "複数の動画に字幕・無音除去・切り抜きなどを適用する。",
+  "limitations_ja": "処理には動画クレジットを使用。",
+  "usage_tags": [
+    "動画編集",
+    "字幕",
+    "ショート動画"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "description_scope": "詳細ページ本文の説明（折りたたまれた部分は内包アプリ欄で確認）"
+}
