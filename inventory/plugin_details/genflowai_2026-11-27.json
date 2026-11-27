@@ -1,0 +1,25 @@
+{
+  "name": "GenflowAI",
+  "official_app_name": "GenflowAI",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "GenflowAI",
+  "version": "0.1.0",
+  "observed_at": "2026-11-27",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ae198c547a48191b2912b68ca080018?category=creativity",
+  "original_description": "GenflowAI connects ChatGPT to a multimodal creative-production platform. Users can generate images, videos, audio, and text directly; upload reference media; discover reusable marketplace templates; prepare the required inputs; run published templates or their own saved workflows; and follow each asynchronous run through to its final outputs. GenflowAI is designed for ecommerce product imagery, product videos, UGC-style ads, image-to-video workflows, social content, and repeatable creative production. Generation tools use the authenticated user's existing GenflowAI account, credits, saved workflows, and account-level permissions.",
+  "summary_ja": "画像・動画・音声・文章を作り、保存済みの制作ワークフローを実行する。",
+  "limitations_ja": "生成には認証済みアカウントとクレジット等を利用。",
+  "usage_tags": [
+    "画像生成",
+    "動画",
+    "制作ワークフロー"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "description_scope": "詳細ページ本文の英語説明"
+}
