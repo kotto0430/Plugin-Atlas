@@ -1,0 +1,26 @@
+{
+  "name": "Bazaart Photoshoot",
+  "official_app_name": "Bazaart Photoshoot",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "Bazaart LTD",
+  "version": "1.2.3",
+  "observed_at": "2026-11-27",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ae204cc5a288191843b303c2585f89d?category=creativity",
+  "original_description": "Put clothing and accessories on a model, or create clean studio product photos, from one product image. Made for online boutiques, clothing brands, and resellers who need photos for shop listings and social posts. Upload a product photo, choose a style or a Bazaart model, and pick one of nine previews. Bazaart then creates your final image to download. Connect your Bazaart account to start. Available styles and AI credit use depend on your account. Check that shape, color, and details match your real product before you post. One product at a time.",
+  "original_description_language": "英語",
+  "summary_ja": "衣服やアクセサリーの画像から商品写真やモデル着用画像を作る。",
+  "limitations_ja": "Bazaartアカウントが必要。1回に1商品。",
+  "usage_tags": [
+    "商品写真",
+    "EC",
+    "画像生成"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "description_scope": "詳細ページ本文の説明（折りたたまれた部分は内包アプリ欄で確認）"
+}
