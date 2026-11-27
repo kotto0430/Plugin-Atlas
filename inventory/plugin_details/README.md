@@ -902,6 +902,11 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 - [UI UX Designer](ui-ux-designer_2026-11-27.json) — ウェブサイトやアプリのUI・UX設計、ワイヤーフレームやレビューを支援する。
 - [Instant Website](instant-website_2026-11-27.json) — 短い説明からウェブサイトの構成・内容・レイアウトを作り編集・公開する。
 
+- [Logo Generator（B12）](logo-generator-b12_2026-11-27.json) — 用途や名前からロゴを作り、SVG・PNGファイルとして受け取る。
+- [Logo Generator（ManyMotions）](logo-generator-manymotions_2026-11-27.json) — ブランド情報からロゴ案を生成し、ManyMotions上で調整する。
+- [Logo Maker](logo-maker-megascenes_2026-11-27.json) — ブランド名や業種、スタイルを指定してロゴ案の画像を作る。
+- [Logo Designer](logo-designer_2026-11-28.json) — ロゴ案、SVG、ブランドカラー、ガイドラインなどの制作を支援する。
+
 ## 一覧本体との照合
 
 [名称照合の記録](catalog_name_audit_2026-11-14.json) — 詳細35件と作業ブランチの一覧3,941件を比較。34件は名前が一致、Palimpsestは一致なし。名前の一致は同一性の確定ではない。個々のJSONにある旧「照合未確認」の記載は調査時点の記録で、最新の照合結果はこの記録を参照。
