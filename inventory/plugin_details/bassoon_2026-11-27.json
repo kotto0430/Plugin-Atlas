@@ -1,0 +1,26 @@
+{
+  "name": "Bassoon",
+  "official_app_name": "Bassoon",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "Bolha",
+  "version": "0.2.4",
+  "observed_at": "2026-11-27",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ae0ab5c4f9481919af06186c2835c52?category=creativity",
+  "original_description": "Discover your sertanejo style and create portraits inspired by Brazilian country music culture. Designed primarily for people in Brazil, Bassoon starts in Brazilian Portuguese and guides you through a photo and a short conversation. Your answers connect with five styles and Bassoon's authored art directions. Create up to three individual portraits, one at a time when you ask to continue, then refine selected portraits while preserving your likeness and the details you requested. You can request another conversation language. Uses ChatGPT's available image generation and editing tools; availability and usage limits depend on your account and current ChatGPT experience. This plugin does not connect to the event booth or upload your portraits to the event Gallery.",
+  "original_description_language": "英語",
+  "summary_ja": "ブラジルのセルタネージョ文化に着想を得た肖像画像を作る。",
+  "limitations_ja": "ChatGPTの画像生成・編集ツールの利用可否と制限に依存。",
+  "usage_tags": [
+    "画像生成",
+    "肖像",
+    "音楽文化"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "description_scope": "詳細ページ本文の説明（折りたたまれた部分は内包アプリ欄で確認）"
+}
