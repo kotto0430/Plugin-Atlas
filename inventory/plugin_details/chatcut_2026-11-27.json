@@ -1,0 +1,25 @@
+{
+  "name": "ChatCut",
+  "official_app_name": "ChatCut",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "ChatCut",
+  "version": "1.10.14",
+  "observed_at": "2026-11-27",
+  "source_url": "https://chatgpt.com/plugins/plugins_6a8c039995c08191932d494269209307?category=creativity",
+  "original_description": "Workflow skills for routing video editing and creation work to ChatCut: importing local or attached media, creating editable projects, editing timelines, adding captions/subtitles, transcribing and cleaning talking-head videos, adding B-roll or overlays, using generation tools for image/video/voice/sound/music/shader assets, exporting, and verifying editor-visible changes.",
+  "summary_ja": "ChatCutで素材の取り込み、動画編集、字幕や音声の追加、書き出しを支援する。",
+  "limitations_ja": "詳細に列挙されたワークフローはスキルの説明。接続条件や各機能の実動作は未検証。",
+  "usage_tags": [
+    "動画編集",
+    "字幕",
+    "動画制作"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "description_scope": "詳細ページ本文の英語説明"
+}
