@@ -1,0 +1,25 @@
+{
+  "name": "WikiBrand",
+  "official_app_name": "WikiBrand",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "Benjamin Martin",
+  "version": "1.0.0",
+  "observed_at": "2026-11-27",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ad37f7fdf3c81919bf1d5d890140e71?category=creativity",
+  "original_description": "WikiBrand gives ChatGPT the identity of a brand as its own website shows it: the logo (SVG markup or image URL, with the background it sits on), the signature color, page and text colors and palette as hex, the display and text typefaces, the tone of voice as traits between two poles, and the full theme as CSS custom properties.\n\nUse it to build anything on-brand: a landing page, a slide, a mockup, an email or a social post that looks and sounds like the brand you name.\n\nTools:\n- Search brands: find brands in the WikiBrand catalogue by name, domain or category.\n- Get a brand: return one brand's logo, colors, typefaces, voice and CSS theme from its domain, for example stripe.com.\n\nLimitations: WikiBrand reads public websites only. A website it has not read yet is read on the spot, which takes about a minute, and the result reflects what that website shows publicly at that moment. It does not provide trademark, legal or usage-rights information. No account or sign-in is needed, and the plugin never changes anything.",
+  "summary_ja": "公開サイトからブランドのロゴ・色・書体などを調べる。",
+  "limitations_ja": "商標や法的・利用権限の情報は提供しないと説明。公開サイトのみを対象とする。",
+  "usage_tags": [
+    "ブランド",
+    "デザイン",
+    "調査"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "description_scope": "詳細ページ本文の英語説明"
+}
