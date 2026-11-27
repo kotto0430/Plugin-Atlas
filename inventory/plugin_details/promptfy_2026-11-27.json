@@ -1,0 +1,25 @@
+{
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "observed_at": "2026-11-27",
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "description_scope": "詳細ページ本文の英語説明",
+  "name": "PromptFy",
+  "official_app_name": "PromptFy",
+  "provider": "PromptFy",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ae0edfe325481919549581ddb60a690?category=creativity",
+  "original_description": "Prepare and manage video scripts in PromptFy, format teleprompter text and estimate reading time. Open a script in your PromptFy web teleprompter, inspect synced video project information, request captions and edits, and process local audio on your device. Identify detected sounds, isolate voice, or request audio mixes with percentages you choose.\n\nLocal video and audio tasks require an open PromptFy web tab with the source media available in that browser. Media outputs stay in PromptFy or download on that device; this integration does not promise audio or video attachments in the chat. Sound detections are estimates rather than guaranteed separated tracks.\n\nYou choose OAuth permissions and can revoke access in PromptFy.",
+  "summary_ja": "動画台本やプロンプター表示を管理し、字幕・編集や音声処理を支援する。",
+  "limitations_ja": "ローカルの動画・音声処理には元メディアが利用できるPromptFyのタブが必要。チャットへのメディア添付は保証されず、音の検出は推定。",
+  "usage_tags": [
+    "動画制作",
+    "台本",
+    "音声編集"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
