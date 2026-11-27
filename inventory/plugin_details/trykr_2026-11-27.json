@@ -1,0 +1,25 @@
+{
+  "name": "Trykr",
+  "official_app_name": "Trykr",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "Trykr (Coosti ApS)",
+  "version": "1.0.0",
+  "observed_at": "2026-11-27",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ae315e3e0088191b3bbd551ddea3774?category=creativity",
+  "original_description": "Trykr is a Danish online print shop. Make a business card, flyer, postcard, poster, sticker or sign with ChatGPT, and Trykr turns the image into a print-ready file in the exact size of the product – with bleed, a cut line and an automatic file check.\n\nYou see a preview with the cut line and the safe zone right in the chat, prices incl. Danish VAT and delivery, and a link to trykr.dk, where you choose quantity and delivery and order. Trykr tells you what can't be made from an image (foil, spot UV, folds), warns when an image has too few pixels for the size, and can print in your own size when a design doesn't fit a standard format.\n\nDelivery in Denmark. Prices in DKK.",
+  "summary_ja": "名刺やチラシなどの印刷用データを作り、価格を確認する。",
+  "limitations_ja": "配送はデンマーク国内、価格はデンマーククローネ。注文は外部サイトで行う。",
+  "usage_tags": [
+    "印刷",
+    "デザイン",
+    "名刺"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "description_scope": "詳細ページ本文の英語説明"
+}
