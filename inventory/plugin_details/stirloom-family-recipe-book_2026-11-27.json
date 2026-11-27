@@ -1,0 +1,27 @@
+{
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "observed_at": "2026-11-27",
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "description_scope": "詳細ページ本文の英語説明",
+  "name": "Stirloom Family Recipe Book",
+  "official_app_name": "Stirloom Family Recipe Book",
+  "provider": "The Open Apps, Inc.",
+  "version": "1.0.1",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ad670b244888191a56f82e07ef8578f?category=creativity",
+  "original_description": "Stirloom makes a family cookbook from handwritten recipe cards: a keepsake or gift with each cook's handwriting beside the typed recipe.\n\nPhotograph the cards or share a scanned PDF, and ChatGPT types up each one in the cook's own words. Stirloom straightens every photo and lays out the book with each card's handwriting facing its typed recipe, plus a contents page, an index and pages for notes.\n\nRelatives can add their own cards through a private link, without a ChatGPT account. Their cards wait for your approval before they go into the book.\n\nFix any recipe in chat or in the editor and preview every page. In the United States and Canada you can then order printed copies: you enter the delivery address and pay on stirloom.ambientapp.ai, never in ChatGPT.\n\nLimits:\n- A book holds up to 120 recipes; a printed one needs at least 6.\n- Printed books ship only to the United States and Canada.\n- Handwritten words ChatGPT cannot read are marked [?]; check them against the photo.\n- Stirloom makes recipe books only.",
+  "embedded_app_description": "Stirloom turns a family's handwritten recipe cards into a printed hardcover cookbook, for anyone gathering the family's recipes into one book. Photograph the cards or share a scanned PDF, and ChatGPT types up each one in the cook's own words. Stirloom straightens every photo and lays out the book with each card's handwriting facing its typed recipe, plus a contents page, an index and pages for notes. Relatives can add their own cards through a private link, without a ChatGPT account. Their cards wait for your approval before they go into the book. Fix any recipe in chat or in the editor, preview every page, then order copies. Checkout happens on stirloom.ambientapp.ai: you enter the delivery address and pay there, never in ChatGPT. Limits: - A book holds 6 to 120 recipes. - Books ship to the United States and Canada. - Handwriting can be hard to read. Words ChatGPT cannot read are marked [?], so check them against the photo before you order. - Stirloom makes recipe books only.",
+  "summary_ja": "手書きのレシピカードを文字起こしし、写真と並べた家族向けレシピ本を作る。",
+  "limitations_ja": "印刷物の配送先は米国・カナダ。本文は本の上限120件・印刷には最低6件と記載する一方、内包アプリ欄は本を6〜120件と記載。印刷前の最低件数は未確認。読めない手書き文字は要確認。",
+  "usage_tags": [
+    "料理",
+    "レシピ",
+    "本づくり"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証",
+    "説明だけでは不明"
+  ]
+}
