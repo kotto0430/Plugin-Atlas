@@ -1214,3 +1214,12 @@ Invitations by MegaScenes、VOVV、Creatify Ad Agent、Moqups、Linearity、A1 G
 Invitationsは画像として招待状を作り、送信や出欠の管理は行わないと説明。VOVVとCreatify Ad Agentは制作にアカウントやクレジットが必要。Linearityは完全削除を含むファイル管理機能があると説明。A1 Galleryの本文は実在サイト1,250件以上・セクション6,800件以上とボード保存を記載する一方、内包アプリ欄はサイト1,150件以上・セクション2,800件以上、全ツール読み取り専用と記載。両方の原文を保存し、実際の件数と保存機能は未確認とした。相違を発見したため6件で停止。
 
 次回は今回の一覧順でA1 Galleryの次の行付近、GenflowAI・Trykrから既存記録との重複を確認して再開する。表示順は変わる可能性がある。
+
+
+### 詳細調査（2026-11-27、クリエイティブ10件）
+
+GenflowAI、Trykr、Photo Editor（MegaScenes）、adkix、Pick My Costume、Retiplex、Artboard Mockups、Stewdio、VideoDB、ChatCut の公式説明原文・出典・日本語要約・用途と確認状況を記録。前回708件から10件増え、詳細ファイルは累計718件。実動作・料金・一覧本体との照合は未検証。接続・インストール・設定変更・生成・注文・投稿・公開は行っていない。
+
+Trykrはデンマーク国内配送・DKK建て。Photo EditorはMegaScenesライブラリの画像を対象とし、チャット添付画像を直接渡さないと説明、既存のAI Photo Editorとは別の掲載として区別。Artboard Mockupsはプラン制限と任意の分析機能について説明。VideoDBは展開して全文を確認。Short Story Loversは同名の既存詳細記録があるため追加せず、同一性は未確認。ChatCutは前回一覧のBeveled付近で見えた未記録候補を補って確認。
+
+次回はクリエイティブ一覧のStewdio・VideoDBの次の行付近から既存記録との重複を確認して再開する。次の掲載名はまだ確認していない。表示順は変わる可能性がある。
