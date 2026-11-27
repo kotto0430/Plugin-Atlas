@@ -1,0 +1,26 @@
+{
+  "name": "Playyy",
+  "official_app_name": "Playyy",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "Adastra Labs",
+  "version": "1.0.0",
+  "observed_at": "2026-11-27",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6adad21390408191b06752d61de0b5ef?category=creativity",
+  "original_description": "Playyy turns a brief into editable work you can keep refining. Ask for a slide deck or presentation, a poster, flyer, or social graphic, or a one-page website, and Playyy builds it as real pages in its editor — not flat images. Keep iterating in conversation: rewrite copy, change colours, or rework a single slide or section.\n\nUse your own logo or photos as reference, find files by title, export designs to PNG, JPG, or PPTX, and turn workspace link sharing on or off for a file. Playyy also creates and edits documents and exports sheets to XLSX. Playyy only accesses the workspace you authorize when you sign in.",
+  "original_description_language": "英語",
+  "summary_ja": "編集できるスライド、ポスター、SNS画像、1ページサイトなどを作る。",
+  "limitations_ja": "認可したワークスペースにアクセスすると説明。",
+  "usage_tags": [
+    "プレゼン",
+    "デザイン",
+    "ウェブ制作"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "description_scope": "詳細ページ本文の説明（折りたたまれた部分は内包アプリ欄で確認）"
+}
