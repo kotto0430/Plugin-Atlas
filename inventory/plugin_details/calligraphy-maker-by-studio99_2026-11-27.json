@@ -1,0 +1,26 @@
+{
+  "name": "Calligraphy Maker by Studio99",
+  "official_app_name": "Calligraphy Maker by Studio99",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "Studio99",
+  "version": "1.0.2",
+  "observed_at": "2026-11-27",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6acf034153c881918781d90f189ab21a?category=creativity",
+  "original_description": "Turn any word, name or phrase into calligraphy artwork in Hindi, Marathi, Gujarati or English, right inside ChatGPT.\n\nAsk for a wedding title like शुभ विवाह, a festival greeting, a shop name or a logo word, and get several finished designs rendered from professional calligraphy fonts. The text comes out exactly as you typed it, with correct conjuncts and vowel signs, because it is typeset from real fonts rather than drawn by an image model.\n\nEach result comes as a PNG image and an editable SVG you can recolor, resize and place in your own designs. You can also browse styles by language, mood or occasion, and open any result as an editable project in the Studio99 design editor.\n\nSign in with your Studio99 account to start. Made by Studio99, from the team behind IndiaFont.",
+  "original_description_language": "英語",
+  "summary_ja": "ヒンディー語など4言語の文字をカリグラフィー作品にする。",
+  "limitations_ja": "Studio99アカウントへのサインインが必要。",
+  "usage_tags": [
+    "文字デザイン",
+    "カリグラフィー",
+    "SVG"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "description_scope": "詳細ページ本文の英語説明"
+}
