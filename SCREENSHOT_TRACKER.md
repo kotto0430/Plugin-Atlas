@@ -1241,3 +1241,14 @@ BatchEdits、ArivuStudio、Bazaart Photoshoot、JsonCut、WRITER PRO PLUS、Pike
 WRITER PRO PLUSの説明原文はスペイン語で、言語を記録。ArivuStudioとLoovaは折りたたまれた本文の続きを内包アプリ欄から確認。eonikの内包アプリ欄は日本語だが、本文の英語原文を記録。既存詳細READMEの同名項目を確認して重複を避けた。Background Removerは同名掲載の区別を未確認として保留。
 
 次回は未確認候補のFreebeat Music Video Generator・Calligraphy Maker by Studio99から、既存記録との重複を確認して再開する。Background Removerも提供元を照合して確認。表示順は変わる可能性がある。
+
+
+### 詳細調査（2026-11-27、クリエイティブ7件・重複候補）
+
+Freebeat Music Video Generator、Calligraphy Maker by Studio99、Background Remover（MegaScenes）、Designly、Faceless Video Maker、UI UX Designer、Instant Website の公式説明原文・出典・日本語要約・用途と確認状況を記録。前回729件から7件増え、詳細ファイルは累計736件。実動作・料金・一覧本体との照合は未検証。接続・インストール・設定変更・生成・投稿・公開は行っていない。
+
+Background Removerは既存のYaps Background Removerとは名称と掲載URLが異なり、提供元はMegaScenes。Freebeatは本文では初期状態で曲の短い区間を使うと説明し、内包アプリ欄には冒頭15秒と記載するため、両方の原文を保存し実際の区間選択は未検証。Faceless Video MakerとUI UX Designerは回答にアフィリエイトリンクを含む場合があると説明。
+
+Instant Website（https://chatgpt.com/plugins/plugin_asdk_app_694ae02d15d4819184a0dd83b23fffb7、Pyxl、2.0.0）の後にInsta Website Builder（https://chatgpt.com/plugins/plugin_asdk_app_69fe1a6d07648191b4763a0c4a813594、Pyxl、3.0.0）を確認。両者は別の掲載URLだが、同じ提供元・ウェブサイト https://instasite.ai/ と類似の説明を持つ。同一サービスや旧版・新版の関係は未確認のため、重複登録を避けて後者の詳細ファイル追加は保留し、7件で停止。後者の本文原文: “InstaSite lets you generate websites using AI. Create page structure, content, and layout from a short description, then edit and publish your site.”
+
+次回は上記2掲載の関係を推測せず保留のまま、クリエイティブ一覧のLogo Generator付近から既存の詳細記録と重複を確認して再開する。表示順は変わる可能性がある。
