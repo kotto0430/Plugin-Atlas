@@ -1,0 +1,26 @@
+{
+  "name": "Faceless Video Maker",
+  "official_app_name": "Faceless Video Maker",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "Syed Fasih Haider Raza Rizvi",
+  "version": "1.0.0",
+  "observed_at": "2026-11-27",
+  "source_url": "https://chatgpt.com/plugins/plugins_6ab153a9802881919bb9fcb1d79af4f1?category=creativity",
+  "original_description": "Plan and create faceless videos for YouTube, Shorts, TikTok, and Reels. Develop channel ideas, hooks, long-form and short-form scripts, storyboards, AI visual prompts, b-roll plans, voiceover scripts, captions, subtitles, titles, thumbnails, and SEO. Get help with content calendars, sound design, translations, monetization planning, compliance, and performance analysis across formats such as explainers, documentaries, facts, finance, tech, product, and ambient videos. Responses may include a clearly disclosed Faceless Video Maker affiliate link.",
+  "original_description_language": "英語",
+  "summary_ja": "顔出ししない動画の企画、脚本、絵コンテ、字幕などを準備する。",
+  "limitations_ja": "回答には開示されたアフィリエイトリンクを含む場合がある。動画ファイル自体の生成は未検証。",
+  "usage_tags": [
+    "動画制作",
+    "脚本",
+    "YouTube"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "description_scope": "詳細ページ本文の英語説明"
+}
