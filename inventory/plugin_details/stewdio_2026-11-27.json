@@ -1,0 +1,25 @@
+{
+  "name": "Stewdio",
+  "official_app_name": "Stewdio",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "Cekura, Inc.",
+  "version": "0.9.0",
+  "observed_at": "2026-11-27",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ad427c526588191aaf9765c8700f295?category=creativity",
+  "original_description": "Design and edit motion graphics and visual assets with Stewdio. Create product launch animations, feature explainers, animated UI demos, and brand assets. Describe what you want to make with ChatGPT and refine the result with precise control in Stewdio's visual editor to adjust colors, typography, layout, animation timing, and much more. Preview your work as you edit, and discuss it with your team in Comments. Requires a Stewdio account.",
+  "summary_ja": "製品紹介やUIデモのモーショングラフィックを作成・編集する。",
+  "limitations_ja": "Stewdioアカウントが必要。",
+  "usage_tags": [
+    "モーショングラフィック",
+    "動画制作",
+    "デザイン"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "description_scope": "詳細ページ本文の英語説明"
+}
