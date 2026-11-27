@@ -1,0 +1,25 @@
+{
+  "name": "Linearity",
+  "official_app_name": "Linearity",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "Linearity",
+  "version": "0.2.0",
+  "observed_at": "2026-11-27",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ad88bc935488191ab808fa0e02ea28e?category=creativity",
+  "original_description": "Create editable designs, images, and SVG assets with Linearity. Use your brand's guidelines and assets to create social posts, banners, and other designs in the formats you request. Ask for multiple designs and assets in one prompt, with available previews and links to the results.\n\nUpscale images, remove backgrounds, or separate images into layers. Import existing SVG artwork into a new editable Linearity file or add artboards to an existing file.\n\nResearch and import a brand from its website into a design guide with logos, colors, fonts, imagery, and voice. Read and update saved brand guides and manage brand assets.\n\nFind and organize accessible Linearity files and folders across your workspaces and teams. Open, rename, move, and permanently delete files, and create, rename, move, and delete folders. Access follows your connected account's permissions.\n\nGeneration uses your workspace's existing AI allowance and is subject to usage and file limits. Brand import is subject to your workspace's access and storage limits.",
+  "summary_ja": "ブランド素材を使った編集可能なデザインやSVGを作成し、ファイルを管理する。",
+  "limitations_ja": "生成はワークスペースのAI利用枠と使用・ファイル制限に従う。ファイルの完全削除も機能に含むと説明。",
+  "usage_tags": [
+    "デザイン",
+    "SVG",
+    "ブランド"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "description_scope": "詳細ページ本文の英語説明"
+}
