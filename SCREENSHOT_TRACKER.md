@@ -1205,3 +1205,12 @@ Inspiration by VASA、Aya Studio、ThreadCam、Corte、Emoji Maker、Contentdrip
 一覧の並びが変わっていたためStirloomの周辺を確認。Meminto – Write Your Book、Rayon、AI Manga Studio、Memory Book of Voice Messages、KitCutは同名の詳細記録があるため今回追加せず、掲載の同一性は未確認。Emoji Makerの内包アプリ名はEmoji Maker by MegaScenes。ThreadCamは衣服の3D表示と印刷注文、Autodesk Flow StudioはLite以上のプランが必要と説明。WikiBrandは商標や利用権の情報を提供しないと説明。Contentdripsは本文でTikTok向け制作にも言及するが、投稿・予約スキル欄に明記されたのはLinkedInとInstagramで、対応範囲の実動作は未確認。
 
 次回は今回の一覧でEpictimeの次の行付近、Invitations by MegaScenes・VOVVから既存記録との重複を確認して再開する。表示順は変わる可能性がある。
+
+
+### 詳細調査（2026-11-27、クリエイティブ6件・説明の相違）
+
+Invitations by MegaScenes、VOVV、Creatify Ad Agent、Moqups、Linearity、A1 Gallery の公式説明原文・出典・日本語要約・用途と確認状況を記録。前回702件から6件増え、詳細ファイルは累計708件。実動作・料金・一覧本体との照合は未検証。接続・インストール・設定変更・生成・注文・投稿・公開は行っていない。
+
+Invitationsは画像として招待状を作り、送信や出欠の管理は行わないと説明。VOVVとCreatify Ad Agentは制作にアカウントやクレジットが必要。Linearityは完全削除を含むファイル管理機能があると説明。A1 Galleryの本文は実在サイト1,250件以上・セクション6,800件以上とボード保存を記載する一方、内包アプリ欄はサイト1,150件以上・セクション2,800件以上、全ツール読み取り専用と記載。両方の原文を保存し、実際の件数と保存機能は未確認とした。相違を発見したため6件で停止。
+
+次回は今回の一覧順でA1 Galleryの次の行付近、GenflowAI・Trykrから既存記録との重複を確認して再開する。表示順は変わる可能性がある。
