@@ -1180,3 +1180,10 @@ Etch Express、Explainium、Artelo Print Shop、Studia、Reflections Licensed St
 Dr.SHI-GYO、Birthday Songs、Podcast Intros、Deck.gallery、OwlCAD、PatchDesign.AI、3D Animation、Pitch Decks、3dCMS、Beveled の公式説明原文・出典・日本語要約・用途と確認状況を記録。前回669件から10件増え、詳細ファイルは累計679件。実動作・料金・一覧本体との照合は未検証。接続・インストール・設定変更・生成・注文・公開は行っていない。
 
 Social Images と AI Architectures は同名の既存記録があるため今回追加せず、掲載の同一性は未確認。Birthday Songs は検索結果の Birthday Song Maker と別の掲載として区別。Dr.SHI-GYO の文字起こしや生成は環境のツール・接続に依存し、医療内容には医師の確認が必要と記載。Beveled のホスト版はメディアを提供元のCloudflareサーバーで処理すると記載。次回は一覧の Beveled・3dCMS の次に見えた Clipify 付近から重複を確認して再開する。Brix36 は同名の既存記録があり同一性は未確認。表示順は変わる可能性がある。
+
+
+### 詳細調査（2026-11-27、クリエイティブ10件）
+
+Clipify、HaircutAI、Bandmixr、EzUGC、Website Design、Game App Builder、AdStar、Freegma、Clout、Sloosh の公式説明原文・出典・日本語要約・用途と確認状況を記録。前回679件から10件増え、詳細ファイルは累計689件。ClipifyとHaircutAIは中断前の2026-11-24に観察、その他は2026-11-27に観察。実動作・料金・一覧本体との照合は未検証。接続・インストール・設定変更・生成・投稿・公開は行っていない。
+
+Website DesignとGame App Builderは外部ビルダーへのリンクにアフィリエイトコードを含み、プラグイン自体は公開しないと説明。AdStarはクレジットを消費し、Freegmaの画面はHTML形式。Slooshは有料処理前の承認と接続済みワークスペースが必要と説明。Brix36は同名の既存記録があるため追加せず、同一性は未確認。次回は今回の一覧順でSlooshの隣に見えたPromptFy、その後のSupareels・Stirloom Family Recipe Book付近から、既存記録と重複を確認して再開する。表示順は変わる可能性がある。
