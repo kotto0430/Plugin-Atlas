@@ -1,0 +1,26 @@
+{
+  "name": "WRITER PRO PLUS",
+  "official_app_name": "WRITER PRO PLUS",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "Global Marketing Strategies",
+  "version": "1.1.5",
+  "observed_at": "2026-11-27",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ada3fceea4c8191ad5d265a68fb563d?category=creativity",
+  "original_description": "WriterPRO Plus es un asistente editorial con inteligencia artificial especializado en la creación de libros de no ficción. Creado por Triunfa con tu Libro, aplica su metodología de acompañamiento a autores.\n\nTe guía desde la idea hasta la preparación del manuscrito para su publicación: investigación de competencia, definición del lector, estrategia, estructura, redacción, revisión y promoción. También analiza borradores existentes y adapta sus propuestas a tu voz personal.\n\nPara utilizarlo, necesitas una cuenta de WriterPRO con acceso activo y autorizar la conexión con writerpro.es. No dispone de memoria propia entre conversaciones ni garantiza resultados comerciales.",
+  "original_description_language": "スペイン語",
+  "summary_ja": "ノンフィクション本の企画から原稿作成・推敲・販促までを支援する。",
+  "limitations_ja": "原文はスペイン語。WriterPROの有効なアカウントが必要。",
+  "usage_tags": [
+    "執筆",
+    "出版",
+    "ノンフィクション"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "description_scope": "詳細ページ本文の説明（折りたたまれた部分は内包アプリ欄で確認）"
+}
