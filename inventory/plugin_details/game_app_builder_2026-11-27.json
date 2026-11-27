@@ -1,0 +1,25 @@
+{
+  "name": "Game App Builder",
+  "official_app_name": "Game App Builder",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "Voryo Ltd.",
+  "version": "1.3.2",
+  "observed_at": "2026-11-27",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ae88058c21c81918ecc0aa669f9e97c?category=creativity",
+  "original_description": "Game App Builder helps you turn a game idea into a real, playable game, even if you have never written code: a browser game that plays on any phone or computer, or a mobile game for iPhone and Android.\n\nHow it works:\n1. Answer 5 quick questions, one at a time: the kind of game, the gameplay and goal, the controls, levels and scoring, the look and sound, and whether you want a browser game or a mobile game.\n2. Your answers become a detailed game brief, with what a finished game needs added for you, such as a title screen, how to play, pause, game over with replay and sound settings.\n3. You get a personalized link that opens an online app builder with your game brief already filled in.\n\nYou can also:\n- Plan your game: the core loop, controls, levels, scoring, screens, look and sound.\n- Fix or finish a game you started: get help with game code and bugs in the chat.\n- Get into the stores: write your mobile game's App Store or Google Play listing and check it against store limits and metadata rules, with a prioritized list of fixes.\n\nGreat for: arcade, puzzle, word, quiz, platformer, runner, card and board games, classroom games and games to share with friends.\n\nHow the tools work: the listing checker analyzes only the listing text you share in the conversation. It never opens store pages, and the listings and briefs you send are not stored. Your game brief includes only what you told it, and no ads or in-app purchases are added unless you ask for them. The build link opens an online app builder with your brief and includes the plugin creator's affiliate code.\n\nLimitations: Game App Builder writes plans, briefs, code fixes and store listings in the conversation. It does not publish games, create store accounts or submit to the App Store or Google Play for you. You can chat in any language; the game brief itself is written in English. The reply with the build link ends with a one-line sponsor disclosure.",
+  "summary_ja": "ゲームの企画書やコード修正、ストア掲載文の作成を支援し、外部ビルダーへ案内する。",
+  "limitations_ja": "ゲームの公開やストアへの提出は行わない。企画書は英語で、ビルダーのリンクにはアフィリエイトコードを含むと説明。",
+  "usage_tags": [
+    "ゲーム制作",
+    "プログラミング",
+    "企画"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "description_scope": "詳細ページ本文の英語説明"
+}
