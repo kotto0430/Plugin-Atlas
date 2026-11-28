@@ -1,0 +1,25 @@
+{
+  "official_app_name": "Birthday Video Maker",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "MegaScenes",
+  "version": "1.0.0",
+  "observed_at": "2026-11-28",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6af37b50e4188191999a7472778346e0?category=creativity",
+  "original_description": "Say who the video is for, pick the scene and, if you like, add a short line to be spoken or sung: a cake with glowing candles and falling confetti, a garden party at sunset, a disco with neon lights, an underwater adventure. You get a short festive clip with music and party sounds, wide for screens or tall for phones and stories.\n\nChatGPT tells you what the video needs and creates it in your MegaScenes account when you ask. The video plays in the chat and stays in your library.\n\nGive only a first name and the words to say: no address or other personal details are needed.\n\nFor birthday messages, group chats, stories and the screen at the party.\n\nLimitations: a short clip of a few seconds, made from your description, not from your photos. The sound is made with the video and a spoken line of about 15 words follows your words as closely as the model can, so watch it before sharing. Party themes are original, not characters or brands owned by others. Making a file needs a signed-in MegaScenes account and runs in it; nothing is made until you confirm. Not for sexual or adult content or for real people's likeness. Files are made by generative models and saved in your MegaScenes library.",
+  "original_description_language": "英語",
+  "description_scope": "詳細ページの説明本文",
+  "summary_ja": "誕生日向けの音楽や音声付き短編動画を作る。",
+  "usage_tags": [
+    "誕生日",
+    "動画制作",
+    "贈り物"
+  ],
+  "limitations_ja": "数秒の動画で写真からは作成しない。音声の仕上がりは要確認。MegaScenesアカウントが必要。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。"
+}
