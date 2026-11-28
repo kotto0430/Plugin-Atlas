@@ -1,0 +1,26 @@
+{
+  "official_app_name": "awen",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "Awen AI Corporation",
+  "version": "1.2.1",
+  "observed_at": "2026-11-28",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6aec7a61e0648191b3d3795ae878440d?category=creativity",
+  "original_description": "awen is a creative studio. Ask for images, posters, logos, videos, 3D models or documents, and awen's agent makes them in your awen project, following your team's memories and skills. You can also find, read and organise your projects, files and conversations.",
+  "original_description_language": "英語",
+  "description_scope": "詳細ページの説明本文",
+  "summary_ja": "チームの情報に沿った画像・動画・3D・文書の制作と整理を支援する。",
+  "usage_tags": [
+    "画像制作",
+    "動画制作",
+    "3D",
+    "文書制作"
+  ],
+  "limitations_ja": "アカウント条件などは説明本文では明示されていない。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。"
+}
