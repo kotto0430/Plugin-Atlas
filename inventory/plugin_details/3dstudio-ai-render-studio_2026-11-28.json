@@ -1,0 +1,25 @@
+{
+  "official_app_name": "3Dstudio.co AI Render Studio",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "3DST OÜ (3Dstudio.co)",
+  "version": "1.1.2",
+  "observed_at": "2026-11-28",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ae12dd9b47481918ea44e7f115cff0c?category=creativity",
+  "original_description": "3Dstudio.co AI Render Studio turns a screenshot of a 3D model view, a sketch or an existing render into a photorealistic architectural image. It is made for architects, interior designers and 3D modellers who need a client-ready picture of a design without setting up a render scene.\n\nWhat you can do in the chat:\n• Render a screenshot of your model from SketchUp, Revit, Archicad, Rhino or similar. Attach the picture in ChatGPT, or give a public image link.\n• Choose a look (exterior, interior or landscape), Standard or HD quality, and add a short note such as \"light brick facade\".\n• Change a finished render by describing the change, for example \"add plants around the house\" or \"make the roof dark metal\".\n• Relight a render at dusk, golden hour, night, overcast, winter, summer or rain.\n• Find your earlier renders and check your credit balance.\n\nHow it works: the render aims to keep the building's shape, camera and proportions from your picture. Every result reports a Model kept score from 0 to 100 that measures how closely it did, and a render with a low score can be re-run once without using credits. The result appears in the chat with a before and after slider. Every render is also saved in My renders at app.3dstudio.co, where you can fix a single area with a brush and share renders with clients.\n\nBefore you connect: you need an AI Render Studio account, and you sign in with email or Google when you connect. Renders, changes and relights use the credits already on your account, and a render that fails is not charged. Pictures must be JPG, PNG or WebP under 10 MB. A render takes 20 to 120 seconds, and each account has an hourly limit. The picture is required: the plugin does not create images from text alone.\n\nMade by 3Dstudio.co, an architectural visualization studio with 1,200+ projects since 2013.",
+  "original_description_language": "英語",
+  "description_scope": "詳細ページの説明本文",
+  "summary_ja": "建築模型の画面やスケッチから写真風の完成イメージを作る。",
+  "usage_tags": [
+    "建築",
+    "レンダリング",
+    "画像制作"
+  ],
+  "limitations_ja": "アカウントとクレジットが必要。10 MB未満の画像が必須で、文章だけでは生成しない。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。"
+}
