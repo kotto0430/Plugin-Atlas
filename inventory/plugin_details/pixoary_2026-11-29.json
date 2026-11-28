@@ -1,0 +1,26 @@
+{
+  "official_app_name": "Pixoary",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "Naireo",
+  "version": "1.0.0",
+  "observed_at": "2026-11-29",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6aed3702e50c81918509ba764936d379?category=creativity",
+  "original_description": "Create images, videos, voiceovers and music with your Pixoary creative workspace. Discover supported models and workflows, prepare media requests, retrieve saved creations and reuse supported files from your library. Work with captions, video editing and language swap when the corresponding Studio workflow is available.\n\nConnect your Pixoary account through OAuth and choose the permissions you grant. Media generation uses your existing Pixoary balance. Voice cloning and other voice-rights operations require request-specific permission.\n\nModels, supported media inputs and duration limits vary by workflow. Files attached only to a chat are not automatically available in your Pixoary library. Generation is asynchronous: the plugin reports the saved state and recovers an unconfirmed submission instead of automatically creating a replacement. Some delivery updates require a separate Studio action. Generated media may contain inaccuracies or fail to meet expectations.",
+  "original_description_language": "英語",
+  "description_scope": "詳細ページの説明本文",
+  "summary_ja": "画像・動画・音声・音楽の生成や、保存した素材の再利用を支援する。",
+  "usage_tags": [
+    "画像制作",
+    "動画制作",
+    "音声制作",
+    "音楽制作"
+  ],
+  "limitations_ja": "Pixoaryアカウントの連携と残高を使用。対応モデルや入力はワークフローによる。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。"
+}
