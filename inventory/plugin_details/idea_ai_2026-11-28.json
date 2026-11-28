@@ -1,0 +1,26 @@
+{
+  "official_app_name": "idea.ai",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "idea.ai",
+  "version": "0.4.0",
+  "observed_at": "2026-11-28",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6aee1baa4d8c8191aad5148cb8dd31fe?category=creativity",
+  "original_description": "Create and edit images, video clips, audio, and 3D assets with idea.ai. Twelve guided workflows help you maintain character consistency, create product campaigns, develop storyboards and video shots, transfer motion, make talking presenters, localize videos, adapt social layouts, produce audio, restore assets, develop 3D models, extract highlights, and create vector artwork concepts. Reuse reference assets and refine results through follow-up requests. Available models, controls, and output formats vary by workflow.",
+  "original_description_language": "英語",
+  "description_scope": "詳細ページの説明本文",
+  "summary_ja": "画像・動画・音声・3D素材の制作や編集をワークフローで支援する。",
+  "usage_tags": [
+    "画像制作",
+    "動画制作",
+    "音声制作",
+    "3D"
+  ],
+  "limitations_ja": "モデル・操作・出力形式はワークフローにより異なる。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。"
+}
