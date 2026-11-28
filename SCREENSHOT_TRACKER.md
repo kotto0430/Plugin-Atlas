@@ -1271,3 +1271,12 @@ AI Logo（MegaScenes、1.0.0、https://chatgpt.com/plugins/plugin_asdk_app_6af74
 > Limitations: concepts as image files; it does not edit a logo you already have, deliver vector files or run trademark checks. Making a file needs a signed-in MegaScenes account and runs in it; nothing is made until you confirm. Not for sexual or adult content or for real people's likeness. Files are made by generative models and saved in your MegaScenes library.
 
 次回はAI LogoとLogo Makerの関係を推測せず保留のまま、検索結果で見えたMonogram Maker・Product Photos by RunComfy付近から既存記録との重複を確認して再開する。表示順は変わる可能性がある。
+
+
+### 詳細調査（2026-11-28、クリエイティブ6件・選択位置の不一致）
+
+Monogram Maker、Product Photos by RunComfy、Image Maker、AI Video Creator、Image to Video by RunComfy、AI Image Generator by RunComfy の公式説明原文・出典・日本語要約・用途と確認状況を記録。前回740件から6件増え、詳細ファイルは累計746件。実動作・料金・一覧本体との照合は未検証。接続・インストール・設定変更・生成・投稿・公開は行っていない。
+
+Monogram Makerは文字を画像モデルが描くため確認が必要。RunComfyの3掲載は商品画像・画像から動画・画像生成という個別の詳細ページで、既存のRunComfy記録と区別した。画像からの処理にはアクセス可能なHTTPSリンクが必要と説明。Image MakerとAI Video Creatorは折りたたみを開き全文を確認。Image Makerは日本語の画像内文字に対応するとは説明されていない。
+
+一覧でShorty Editを選択しようとしたところCluesoが開いた。画面上の名称とURLを確認し、Cluesoは同名の既存詳細記録があるため追加せず、選択位置の不一致を受け6件で停止。Shorty Editは詳細未確認。次回はShorty Editを検索して名前を確認してから開き、その後Faces付近を既存記録と照合して再開する。表示順は変わる可能性がある。
