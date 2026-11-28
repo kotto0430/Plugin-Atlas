@@ -1,0 +1,26 @@
+{
+  "official_app_name": "OneStation",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "Rocket Tecnologia",
+  "version": "0.1.6",
+  "observed_at": "2026-11-29",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6adfc8ff12cc81919bd0451571198bd1?category=creativity",
+  "original_description": "Connect your OneStation account to check your projects and recent creations, explore supported models and voices, and prepare image, video, music, speech or sound-effect creations. Every creation shows its parameters first and only runs after your explicit approval. Track each request and retrieve available results.\n\nA OneStation account is required. Model access depends on your account and provider availability. Some platform features are not available through this plugin. Completion may require a status check in the conversation.\n\nProvided by ROCKET TECNOLOGIA E INTERMEDIACAO LTDA. Support: astro@onestation.ai.",
+  "original_description_language": "英語",
+  "description_scope": "詳細ページの説明本文",
+  "summary_ja": "画像・動画・音楽・音声などの生成依頼と制作状況の確認を行う。",
+  "usage_tags": [
+    "画像制作",
+    "動画制作",
+    "音楽制作",
+    "音声制作"
+  ],
+  "limitations_ja": "OneStationアカウントが必要。対応モデルはアカウントと提供状況による。生成前に明示的な承認が必要と説明。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。"
+}
