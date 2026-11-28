@@ -1,0 +1,25 @@
+{
+  "official_app_name": "Luw.ai Studio",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "Luvi Technologies, Inc.",
+  "version": "1.0.0",
+  "observed_at": "2026-11-28",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6af3f2bcb85c8191a566b4faa6b7d235?category=creativity",
+  "original_description": "Luw.ai Studio is a 3D building design studio in the browser. With this app, ChatGPT builds and changes your Studio projects for you: it lays out rooms, walls, doors and windows, adds stairs and roofs, fits kitchens and bathrooms, furnishes rooms from the catalog and sets finishes. Each edit is saved to the project, and Studio, open in another tab, shows it within seconds. The last edit can be undone at any time.\n\nStart from a starter house or an empty site, describe what you want room by room, or refine a project you began in Studio. ChatGPT reads the scene before it changes anything and checks its work afterwards.\n\nRequires a Luw.ai account; renders and other image generations use credits from it.",
+  "original_description_language": "英語",
+  "description_scope": "詳細ページの説明本文",
+  "summary_ja": "建物や部屋の3Dレイアウトを作成・編集する。",
+  "usage_tags": [
+    "建築",
+    "3D",
+    "室内設計"
+  ],
+  "limitations_ja": "Luw.aiアカウントが必要。レンダリングなどの画像生成にはクレジットを使用。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。"
+}
