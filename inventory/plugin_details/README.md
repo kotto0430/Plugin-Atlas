@@ -969,6 +969,17 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 - [Moonomat](moonomat_2026-11-28.json) — 会話から寸法などを調整できる3Dデザインを作成する。
 - [JANCTION Render](janction-render_2026-11-28.json) — BlenderのシーンをクラウドGPUでプレビュー・レンダリングする。
 
+- [Set Design](set-design_2026-11-28.json) — 作品を端末画面に載せた3Dの製品画像・動画を作る。
+- [Playbook](playbook_2026-11-28.json) — 画像・動画・文書などの素材を検索・整理・共有する。
+- [World2 Interior](world2-interior_2026-11-28.json) — 寸法を指定した部屋の家具や仕上げを3Dで設計・編集する。
+- [Simple House Planner](simple-house-planner_2026-11-28.json) — 住宅や部屋の間取りを2D・3Dで設計し、家具配置を検討する。
+- [Mapflyover](mapflyover_2026-11-28.json) — 旅行経路や原稿から地図の移動動画、ナレーション、字幕を作る。
+- [Frommwah](frommwah_2026-11-28.json) — ギフト画像やメッセージを開く3Dボックスとして共有できる形にする。
+- [BandFactory](bandfactory_2026-11-28.json) — シリコン製リストバンドを3Dでデザインし、価格を確認する。
+- [Luw.ai Studio](luw-ai-studio_2026-11-28.json) — 建物や部屋の3Dレイアウトを作成・編集する。
+- [Enjin](enjin_2026-11-28.json) — 文章から住宅・建物の3Dモデルを作成し、形状や寸法を確認する。
+- [Scenario](scenario_2026-11-28.json) — 画像・動画・3D・音声やゲーム用素材の生成と整理を支援する。
+
 ## 一覧本体との照合
 
 [名称照合の記録](catalog_name_audit_2026-11-14.json) — 詳細35件と作業ブランチの一覧3,941件を比較。34件は名前が一致、Palimpsestは一致なし。名前の一致は同一性の確定ではない。個々のJSONにある旧「照合未確認」の記載は調査時点の記録で、最新の照合結果はこの記録を参照。
