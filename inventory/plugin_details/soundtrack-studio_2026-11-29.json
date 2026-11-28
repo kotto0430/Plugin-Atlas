@@ -1,0 +1,25 @@
+{
+  "official_app_name": "Soundtrack Studio",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "Imagineers Studio Inc",
+  "version": "1.0.3",
+  "observed_at": "2026-11-29",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac04628f35c819194e697c438b38d73?category=creativity",
+  "original_description": "Generate a five- to 47-second music cue from a scene, mood and instrumentation brief. Listen and download the audio inline. Instrumental output is requested, but musical details and duration may vary. This does not copy artists, clone voices, synchronize music to video or guarantee exclusivity or licensing rights. A connected Firemoon account is required.",
+  "original_description_language": "英語",
+  "description_scope": "詳細ページの説明本文",
+  "summary_ja": "場面や雰囲気、楽器の指定から短い音楽を作る。",
+  "usage_tags": [
+    "音楽制作",
+    "BGM",
+    "動画制作"
+  ],
+  "limitations_ja": "5〜47秒、曲の内容や長さは変わる場合がある。Firemoonアカウントが必要。動画同期や権利・独占性の保証はしない。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。"
+}
