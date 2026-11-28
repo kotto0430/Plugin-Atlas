@@ -1,0 +1,25 @@
+{
+  "official_app_name": "BandFactory",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "BandFactory",
+  "version": "1.0.0",
+  "observed_at": "2026-11-28",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ae9861bf48881918d096427d4dcf324?category=creativity",
+  "original_description": "BandFactory makes custom silicone wristbands – printed, debossed, colour-filled or embossed – from a single piece up to large runs, delivered to all EU countries.\n\nDesign your wristband together with ChatGPT: open the interactive 3D configurator in the chat, change style, text, font, colours, flag or symbol, size, quantity and extras, and see the exact price update live. ChatGPT can also list every available option, calculate prices with the VAT of your EU delivery country and create a link that opens the configurator on bandfactory.eu fully prefilled.\n\nOrdering and payment always happen on bandfactory.eu (external checkout). A custom logo can be uploaded there. The plugin needs no account and stores no personal data. Delivery is limited to EU countries; quantities above 9,998 are quoted on request. Tool output is in German.",
+  "original_description_language": "英語",
+  "description_scope": "詳細ページの説明本文",
+  "summary_ja": "シリコン製リストバンドを3Dでデザインし、価格を確認する。",
+  "usage_tags": [
+    "グッズ制作",
+    "リストバンド",
+    "3D"
+  ],
+  "limitations_ja": "配送はEU内のみ。注文・支払いは外部サイト。ツールの出力はドイツ語と説明。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。"
+}
