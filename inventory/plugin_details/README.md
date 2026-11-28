@@ -949,6 +949,17 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 - [Lullaby Maker](lullaby-maker_2026-11-28.json) — 名前や希望の題材を入れた子守歌を作る。
 - [Love Song Maker](love-song-maker_2026-11-28.json) — 相手の名前や二人の思い出を入れたラブソングを作る。
 
+- [SVG Lab](svg-lab_2026-11-28.json) — 画面・ロゴ・イラストなどのベクターデザインを作成する。
+- [SVGMaker](svgmaker_2026-11-28.json) — 画像のSVG変換、SVG編集、ベクターイラスト作成を支援する。
+- [Story Lantern](story-lantern_2026-11-28.json) — 物語の設定から挿絵付き絵本を作り、章を読み直し・書き直す。
+- [Streamline Icons](streamline-icons_2026-11-28.json) — アイコン・イラスト・絵文字の素材を検索し、SVGやPNGで取得する。
+- [ドールラインβ](doll-line-beta_2026-11-28.json) — 人物の特徴や衣装を基にドール風の二次元ファッションイラストを作る。
+- [Dathent Studio](dathent-studio_2026-11-28.json) — 本・カード・漫画などの制作物を作り、選んだ下書きを保存する。
+- [3DMockups](3dmockups_2026-11-28.json) — 衣服のデザインを3Dで確認し、オンデマンド商品や店舗を作る。
+- [3D Garden Designer](3d-garden-designer_2026-11-28.json) — 庭の寸法や設備を指定して、編集可能な配置図と3D表示を作る。
+- [3DArtist](3dartist_2026-11-28.json) — 文章や参考画像から3D風のラスター画像を作る。
+- [3Dstudio.co AI Render Studio](3dstudio-ai-render-studio_2026-11-28.json) — 建築模型の画面やスケッチから写真風の完成イメージを作る。
+
 ## 一覧本体との照合
 
 [名称照合の記録](catalog_name_audit_2026-11-14.json) — 詳細35件と作業ブランチの一覧3,941件を比較。34件は名前が一致、Palimpsestは一致なし。名前の一致は同一性の確定ではない。個々のJSONにある旧「照合未確認」の記載は調査時点の記録で、最新の照合結果はこの記録を参照。
