@@ -1,0 +1,25 @@
+{
+  "official_app_name": "Song for Your Child",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "MegaScenes",
+  "version": "1.0.0",
+  "observed_at": "2026-11-28",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6af37d377edc8191beda702c5b82b335?category=creativity",
+  "original_description": "Give the name to sing, the things they love, such as dinosaurs, painting, swimming or the family dog, and the style: happy pop, a sing-along, rock, acoustic, reggae, with a female or male lead or a duet. You get an original song with vocals as an audio file, with lyrics written from your details or the lyrics you give. The voice sings the name you give, clearly in the chorus.\n\nChatGPT tells you what the song needs and creates it in your MegaScenes account when you ask. The song plays in the chat and stays in your library.\n\nGive only the first name and the things you want sung: no address or other personal details are needed.\n\nFor parents and grandparents, for a birthday, a car trip, a new brother or sister, or just to sing together.\n\nLimitations: original songs; it does not imitate a real singer's voice or copy an existing song or artist, and the words never use characters or brands owned by others. Making a file needs a signed-in MegaScenes account and runs in it; nothing is made until you confirm. Not for sexual or adult content or for real people's likeness. Files are made by generative models and saved in your MegaScenes library.",
+  "original_description_language": "英語",
+  "description_scope": "詳細ページの説明本文",
+  "summary_ja": "子どもの名前や好きなものを入れた歌を作る。",
+  "usage_tags": [
+    "音楽制作",
+    "子ども",
+    "贈り物"
+  ],
+  "limitations_ja": "MegaScenesアカウントが必要。実在の歌手の声や既存曲は模倣しないと説明。Birthday Song Makerとのサービス上の関係は未確認。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。"
+}
