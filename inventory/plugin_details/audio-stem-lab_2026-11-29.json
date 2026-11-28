@@ -1,0 +1,25 @@
+{
+  "official_app_name": "Audio Stem Lab",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "Imagineers Studio Inc",
+  "version": "0.1.2",
+  "observed_at": "2026-11-29",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6aecd9d9fcec81918d85dbb1c31aeb89?category=creativity",
+  "original_description": "Separate one actual MP3/WAV music clip up to 120 seconds and 20 MB into selected vocal and instrument estimates. Choose WAV or MP3, then play and download each returned stem separately. Supports vocals, drums, bass, other, guitar and piano; absence of a returned file is reported. Bleed and missing detail may occur. Does not create music or grant rights. Requires a connected account. NebulaCafe and its providers process audio; public links are accessible to anyone holding them.",
+  "original_description_language": "英語",
+  "description_scope": "詳細ページの説明本文",
+  "summary_ja": "短い音源をボーカルや楽器ごとの推定音源に分離する。",
+  "usage_tags": [
+    "音源分離",
+    "音楽制作",
+    "音声編集"
+  ],
+  "limitations_ja": "入力はMP3/WAVの1ファイル、最大120秒・20MB。音漏れや欠落が起こり得る。アカウント連携が必要で公開リンクは所持者が閲覧できる。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。"
+}
