@@ -1,0 +1,25 @@
+{
+  "official_app_name": "Name Ideas Generator",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "AI Research Plus",
+  "version": "1.2.0",
+  "observed_at": "2026-11-28",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6af63afe2d388191be2154a1939597bf?category=creativity",
+  "original_description": "Name Ideas Generator helps you find a great name for your business, company, startup, brand, product, app or website, and a domain to go with it.\n\nHow it works: it asks a few quick questions, one at a time, about what you are naming, who it is for, the feeling you want and the naming style you like. Then it suggests names in three groups, from clear and descriptive to bold and inventive, explains each one, and gives each name a domain idea.\n\nWhat you can do:\n• Business and company names: names that fit your customers, your market and your personality.\n• Startup, brand, product and app names: brandable blends, invented words and names with a story behind them.\n• Domain names: domain ideas for any ending, with smart variations and other endings to choose from.\n• Name ratings: see how easy each name is to say, spell and type, with its length, syllables and possible spelling problems.\n• Name reviews: compare names you already have for clarity, memorability, spelling and fit, and get stronger alternatives.\n\nHow the name rating works: a tool on our server measures each name's length, estimated syllables and domain form, flags possible problems such as numbers, sound-alike spellings and doubled letters where words meet, and gives an ease score out of 100. It works only on the names it receives and stores nothing.\n\nWho it is for: founders, small business owners, freelancers, marketers, creators and anyone naming something new.\n\nLimitations: Name Ideas Generator does not check whether domains are available, register domains or check trademarks. Check your favorite domains at a domain registrar and the trademark databases of your countries before you decide on a name. Name Ideas Generator is an independent plugin by AI Research Plus.",
+  "original_description_language": "英語",
+  "description_scope": "詳細ページの説明本文",
+  "summary_ja": "事業や商品などの名前とドメインの候補を提案・比較する。",
+  "usage_tags": [
+    "ネーミング",
+    "ブランド",
+    "ドメイン"
+  ],
+  "limitations_ja": "ドメインの空き状況・商標は確認せず登録も行わない。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。"
+}
