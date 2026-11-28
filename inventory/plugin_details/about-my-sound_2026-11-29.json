@@ -1,0 +1,25 @@
+{
+  "official_app_name": "About My Sound",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "About My Sound",
+  "version": "1.0.1",
+  "observed_at": "2026-11-29",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac51d38a41881918613c612d0052cfa?category=creativity",
+  "original_description": "About My Sound builds websites for musicians and bands. In a conversation, you can:\n- Create a website draft. Tell the assistant your band or project name, genre, a short bio, your streaming and social links, a visual style and a brand color. You get a link to a real preview of your site right away, with no account needed. If you like it, open the second link to sign in and keep it.\n- Look up an artist who has an About My Sound website: their genre, bio, links, upcoming shows, and press kit page.\n- Get an artist's stage plot: stage size, the channel input list and the equipment on stage, which is useful for venues and sound engineers preparing a show.\n\nWho it is for: musicians and bands, and the venues, promoters and sound engineers who work with them.\n\nDrafts are not published, are not listed in search engines, and are deleted after 30 days unless you keep them. Lookups return only what is already on the artist's public website.\n\nLimitations: lookups cover only artists who have an About My Sound website. Drafts carry text, links, a style and a color, with stock photos; you add your own photos, shows and music after you keep the site. The assistant cannot change a live website; that is done in the About My Sound dashboard.",
+  "original_description_language": "英語",
+  "description_scope": "詳細ページの説明本文",
+  "summary_ja": "音楽家向けサイトの下書き作成や公開済みプロフィールの検索を行う。",
+  "usage_tags": [
+    "音楽",
+    "ウェブサイト制作",
+    "アーティスト情報"
+  ],
+  "limitations_ja": "保存しない下書きは30日後削除。検索対象は同サービスのサイトを持つアーティストのみ。公開サイトの変更はダッシュボードで行う。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。"
+}
