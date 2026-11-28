@@ -1,0 +1,26 @@
+{
+  "official_app_name": "PopNow",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "PopNow AI, LLC",
+  "version": "1.1.0",
+  "observed_at": "2026-11-29",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6adb0b143f44819189dde456f527563e?category=creativity",
+  "original_description": "Create images, videos, music, voiceovers, podcasts, interactive web pages, branded content and browser games with PopNow in ChatGPT. Make and edit pictures, short videos and 3D models; write original songs, split audio into stems, design custom voices, narrate voiceovers and sound effects; turn a portrait into a talking presenter, dub a video into another language or lip-sync it; make creator-style ads, brand films, studio pieces and interactive pages around your product; browse your library, collections, models, presets and community posts; and build a small browser game, give it pictures and sound, and put it online with a link you can share.\n\nSign in with your PopNow account through OAuth. Creations wait for your confirmation before they start. Before a photo, video or recording of a person you bring is turned into something new, PopNow asks you to confirm you may use it. Destructive actions such as permanently deleting trashed files also ask for confirmation first.\n\nVideos and multi-step pieces can take a few minutes; PopNow returns the status and the finished media or links. PopNow can't book appointments, buy or ship products, or look up live prices or news. You must have the rights and permissions for submitted content, and PopNow content rules apply.",
+  "original_description_language": "英語",
+  "description_scope": "詳細ページの説明本文",
+  "summary_ja": "画像・動画・音楽やブラウザーゲームなどの制作を支援する。",
+  "usage_tags": [
+    "画像制作",
+    "動画制作",
+    "音楽制作",
+    "ゲーム制作"
+  ],
+  "limitations_ja": "PopNowアカウント連携。生成前に確認し、持ち込む素材の権利と許可が必要と説明。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。"
+}
