@@ -1,0 +1,25 @@
+{
+  "official_app_name": "Animiotics",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "Animiotics",
+  "version": "0.3.5",
+  "observed_at": "2026-11-28",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ad1ecdd760c8191ad28e92916e674d1?category=creativity",
+  "original_description": "Create editable scientific 3D animations from a description, find your existing projects and request revisions. Browse your projects as a gallery, watch their preview films and follow progress in the conversation, then open Animiotics to use the full editor and export a video. Requires an Animiotics account. Creation and edits use your existing account allowance. Review generated scientific content before using it.",
+  "original_description_language": "英語",
+  "description_scope": "詳細ページの説明本文",
+  "summary_ja": "科学分野の編集可能な3Dアニメーションを作成・修正する。",
+  "usage_tags": [
+    "科学",
+    "3Dアニメーション",
+    "教育"
+  ],
+  "limitations_ja": "アカウントと利用枠が必要。科学的な内容は利用前に確認するよう説明。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。"
+}
