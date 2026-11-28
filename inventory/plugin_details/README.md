@@ -980,6 +980,17 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 - [Enjin](enjin_2026-11-28.json) — 文章から住宅・建物の3Dモデルを作成し、形状や寸法を確認する。
 - [Scenario](scenario_2026-11-28.json) — 画像・動画・3D・音声やゲーム用素材の生成と整理を支援する。
 
+- [Image to 3D](image_to_3d_2026-11-28.json) — 写真1枚や文章から単体の3Dモデルを作りGLB形式で出力する。
+- [Plainly Guide](plainly_guide_2026-11-28.json) — 画像・動画・音楽などのAI制作ツールを検索・比較する。
+- [CinAI](cinai_2026-11-28.json) — 画像・動画・音声や3Dシーンの制作とワークフローを支援する。
+- [idea.ai](idea_ai_2026-11-28.json) — 画像・動画・音声・3D素材の制作や編集をワークフローで支援する。
+- [awen](awen_2026-11-28.json) — チームの情報に沿った画像・動画・3D・文書の制作と整理を支援する。
+- [PocketMangaka](pocketmangaka_2026-11-28.json) — 聞き取りを基に販促漫画の筋・脚本・ページ画像・PDFを制作する。
+- [TranslateImage](translateimage_2026-11-28.json) — 漫画などの画像内文字を翻訳して描き直し、OCRや文字除去も行う。
+- [IdeaToMade: DIY Manufacturing](ideatomade_diy_manufacturing_2026-11-28.json) — 文章から製品や家具の3D設計・解析・製作資料作成を支援する。
+- [Sandy Music Lab](sandy_music_lab_2026-11-28.json) — ギターのコード移調や運指、歌いやすいキーなどを調べる。
+- [PlayableNotes](playablenotes_2026-11-28.json) — ピアノ楽譜を読み取って再生・編集・編曲し、PDFやMIDIなどに出力する。
+
 ## 一覧本体との照合
 
 [名称照合の記録](catalog_name_audit_2026-11-14.json) — 詳細35件と作業ブランチの一覧3,941件を比較。34件は名前が一致、Palimpsestは一致なし。名前の一致は同一性の確定ではない。個々のJSONにある旧「照合未確認」の記載は調査時点の記録で、最新の照合結果はこの記録を参照。
