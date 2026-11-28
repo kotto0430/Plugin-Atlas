@@ -1346,3 +1346,12 @@ Relief3D、Creations3D、Aircad、NoCapMocap、Animiotics、Blender Bridge、Moo
 Relief3Dは入力画像の輝度を高さとして用い、写真から深度を推定しないと説明。出力リンクは公開される。Creations3Dはアカウントとクレジットが必要。Aircadは変更を下書きとして示す。Animioticsは科学的な内容の確認を求める。Blender BridgeはWindows用アプリとBlenderが必要。JANCTION Renderは接続時にキーが作られ、入力と結果は標準で最終利用から24時間後に削除と説明。
 
 次の候補Set Designを検索した際、アドレスにはSet Designと表示される一方、検索欄と結果は前のJANCTION Renderのままで一致しなかった。画面を再確認しても変わらなかったため、誤認を避け8件で停止。次回はSet Designを検索し、検索欄・結果・詳細画面の名前が一致することを確認してから再開する。
+
+
+### 詳細調査（2026-11-28、クリエイティブ10件）
+
+Set Design、Playbook、World2 Interior、Simple House Planner、Mapflyover、Frommwah、BandFactory、Luw.ai Studio、Enjin、Scenario の公式説明原文・出典・日本語要約・用途と確認状況を記録。前回795件から10件増え、詳細ファイルは累計805件。実動作・料金・一覧本体との照合は未検証。接続・インストール・設定変更・生成・注文・公開は行っていない。
+
+前回の検索欄とアドレスの不一致は再読み込みで解消し、Set Designの検索欄・検索結果・詳細画面の名称とURLを照合。Set DesignはProライセンスとデスクトップブラウザが必要。Playbookの内包アプリ欄はboards、本文はfoldersと記載しており、差を記録。World2 Interiorは参考写真から検証済み寸法は得られないと説明。Simple House Plannerは図面を設計補助として説明。Frommwahは購入・決済・配送・送信を行わず、券のコード等を入れないよう注意。BandFactoryの配送はEU内のみ、出力はドイツ語と説明。
+
+次回は以前の3D検索結果で確認したImage to 3D付近から、既存記録と提供元・URLを照合して再開する。表示順は変わる可能性がある。
