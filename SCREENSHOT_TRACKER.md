@@ -1355,3 +1355,12 @@ Set Design、Playbook、World2 Interior、Simple House Planner、Mapflyover、Fr
 前回の検索欄とアドレスの不一致は再読み込みで解消し、Set Designの検索欄・検索結果・詳細画面の名称とURLを照合。Set DesignはProライセンスとデスクトップブラウザが必要。Playbookの内包アプリ欄はboards、本文はfoldersと記載しており、差を記録。World2 Interiorは参考写真から検証済み寸法は得られないと説明。Simple House Plannerは図面を設計補助として説明。Frommwahは購入・決済・配送・送信を行わず、券のコード等を入れないよう注意。BandFactoryの配送はEU内のみ、出力はドイツ語と説明。
 
 次回は以前の3D検索結果で確認したImage to 3D付近から、既存記録と提供元・URLを照合して再開する。表示順は変わる可能性がある。
+
+
+### 詳細調査（2026-11-28、クリエイティブ10件）
+
+Image to 3D、Plainly Guide、CinAI、idea.ai、awen、PocketMangaka、TranslateImage、IdeaToMade: DIY Manufacturing、Sandy Music Lab、PlayableNotes の公式説明原文・出典・日本語要約・用途・確認状況を記録。前回805件から10件増え、詳細ファイルは累計815件。実動作・料金・一覧本体との照合は未検証。接続・インストール・設定変更・生成は行っていない。
+
+Image to 3Dは単体のGLBモデルでアカウントのクレジットを使う。Plainly Guideは制作ツールの比較で自身はメディアを生成しない。PocketMangakaは聞き取りから日本語の漫画を作り、アカウントにより種類が異なる。TranslateImageは既存のImage Translator（MegaScenes）と提供元・掲載URLが異なる。PlayableNotesはピアノ楽譜を読み取って編集・再生できると説明。
+
+次回は今回のmusic検索結果で見えたMelyx AI Music Generator付近から、既存記録と提供元・URLを照合して再開する。表示順は変わる可能性がある。過去に保留した類似掲載や表示不一致は引き続き保留。
