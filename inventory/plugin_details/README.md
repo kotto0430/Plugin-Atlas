@@ -991,6 +991,17 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 - [Sandy Music Lab](sandy_music_lab_2026-11-28.json) — ギターのコード移調や運指、歌いやすいキーなどを調べる。
 - [PlayableNotes](playablenotes_2026-11-28.json) — ピアノ楽譜を読み取って再生・編集・編曲し、PDFやMIDIなどに出力する。
 
+- [Melyx AI Music Generator](melyx-ai-music-generator_2026-11-29.json) — 文章や自作歌詞から歌やインスト曲を作り、音源を管理する。
+- [Kinetune](kinetune_2026-11-29.json) — 楽曲からミュージックビデオ、歌詞動画、Spotify Canvasなどを作る。
+- [SoundBoost](soundboost_2026-11-29.json) — 文章による指示で楽曲をマスタリングし、元音源と比較・修正する。
+- [About My Sound](about-my-sound_2026-11-29.json) — 音楽家向けサイトの下書き作成や公開済みプロフィールの検索を行う。
+- [TabFollower](tabfollower_2026-11-29.json) — エレキギターの練習曲を作ってiPadのタブ譜アプリに保存する。
+- [PitchHighway](pitchhighway_2026-11-29.json) — 連携した歌唱練習の音域や音程、履歴を確認する。
+- [TonalBrain](tonalbrain_2026-11-29.json) — DAWのミックス分析を説明し、対応するトラックの音声処理設定を支援する。
+- [Audio Stem Lab](audio-stem-lab_2026-11-29.json) — 短い音源をボーカルや楽器ごとの推定音源に分離する。
+- [HookSounds](hooksounds_2026-11-29.json) — 企画内容に合う音楽・効果音・イントロを探して試聴する。
+- [Suno](suno_2026-11-29.json) — 文章や歌詞から曲を作り、曲の編集・カバー画像や動画の制作を行う。
+
 ## 一覧本体との照合
 
 [名称照合の記録](catalog_name_audit_2026-11-14.json) — 詳細35件と作業ブランチの一覧3,941件を比較。34件は名前が一致、Palimpsestは一致なし。名前の一致は同一性の確定ではない。個々のJSONにある旧「照合未確認」の記載は調査時点の記録で、最新の照合結果はこの記録を参照。
