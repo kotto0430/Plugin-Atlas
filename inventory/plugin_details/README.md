@@ -960,6 +960,15 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 - [3DArtist](3dartist_2026-11-28.json) — 文章や参考画像から3D風のラスター画像を作る。
 - [3Dstudio.co AI Render Studio](3dstudio-ai-render-studio_2026-11-28.json) — 建築模型の画面やスケッチから写真風の完成イメージを作る。
 
+- [Relief3D](relief3d_2026-11-28.json) — 用意した高さマップからレリーフ形状の3Dメッシュを作る。
+- [Creations3D](creations3d_2026-11-28.json) — 文章や画像から3Dモデルを作り、表示や形式の書き出しを行う。
+- [Aircad](aircad_2026-11-28.json) — 開いているCAD図面の確認や2D・3D設計を支援する。
+- [NoCapMocap](nocapmocap_2026-11-28.json) — 文章で指定した動きからキャラクターのアニメーションを作る。
+- [Animiotics](animiotics_2026-11-28.json) — 科学分野の編集可能な3Dアニメーションを作成・修正する。
+- [Blender Bridge](blender-bridge_2026-11-28.json) — 会話からBlenderのシーン制作・確認・修正を支援する。
+- [Moonomat](moonomat_2026-11-28.json) — 会話から寸法などを調整できる3Dデザインを作成する。
+- [JANCTION Render](janction-render_2026-11-28.json) — BlenderのシーンをクラウドGPUでプレビュー・レンダリングする。
+
 ## 一覧本体との照合
 
 [名称照合の記録](catalog_name_audit_2026-11-14.json) — 詳細35件と作業ブランチの一覧3,941件を比較。34件は名前が一致、Palimpsestは一致なし。名前の一致は同一性の確定ではない。個々のJSONにある旧「照合未確認」の記載は調査時点の記録で、最新の照合結果はこの記録を参照。
