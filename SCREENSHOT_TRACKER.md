@@ -1298,3 +1298,12 @@ Taste（Saul Martí）、Taste（ALEXANDER ETHAN KEHR）、GIF Maker、Video Mak
 Tasteは同名だが提供元・掲載URL・用途が異なるため別記録。GIF Makerはアフィリエイトリンクを含む場合がある。Video Makerの生成動画は無音で最大120秒と説明。Yearbook Makerは印刷本の配送先や年齢条件に注意。Presentations.AIはBusinessアカウントとクレジットが必要と説明。
 
 Make a Game（AI Research Plus、1.2.7、https://chatgpt.com/plugins/plugin_asdk_app_6ae7b72eb0b88191839c97e05d397db0?category=creativity）は詳細ページ本文がゲーム制作の説明である一方、内包アプリ欄にはCompany Websiteという別名と企業サイト制作の説明が表示された。関係が不明なため詳細ファイルへの追加は保留し、8件で停止。次回はこの食い違いを保持したまま、検索結果に表示されたName Ideas Generator付近から既存記録との重複を確認して再開する。表示順は変わる可能性がある。
+
+
+### 詳細調査（2026-11-28、クリエイティブ10件）
+
+Name Ideas Generator、NameReef Domain Generator、Graffiti Generator、Zovo Place Card Maker、Bandicam AI、Marathon Finisher Posters、Song for Your Child、Birthday Card Maker、Birthday Video Maker、Birthday Song Maker の公式説明原文・出典・日本語要約・用途と確認状況を記録。前回764件から10件増え、詳細ファイルは累計774件。実動作・料金・一覧本体との照合は未検証。接続・インストール・設定変更・生成・注文は行っていない。
+
+Name Ideas Generatorはドメインの空き・商標を確認しない一方、NameReef Domain Generatorはレジストリ情報と照合すると説明し、購入前の再確認を推奨。Zovo Place Card Makerは日本語を含む文字の印刷に対応すると説明。Marathon Finisher Postersは印刷・配送が米国限定、デジタルファイルは提供しない。Song for Your ChildとBirthday Song Makerは同じMegaScenes提供の別URLで対象や用途が異なる掲載だが、サービス上の関係は未確認。
+
+前回保留したMake a Gameの本文と内包アプリの不一致は未解決のまま。次回は検索結果に表示されたGraduation Song Maker付近から既存記録との重複を確認して再開する。表示順は変わる可能性がある。
