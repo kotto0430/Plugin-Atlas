@@ -1,0 +1,26 @@
+{
+  "name": "Shorty Edit",
+  "official_app_name": "Shorty Edit",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "Tools Products FZ-LLC",
+  "version": "1.0.2",
+  "observed_at": "2026-11-28",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6acfe8e743888191a717454cb0453b20?category=creativity",
+  "original_description": "Turn your business footage into product ads, customer testimonials, and branded demos for social media, websites, and sales presentations. Tell Shorty your audience, key message, and desired style, or provide a reference video. Shorty can analyze clips, assemble edits, add captions and transitions, apply your supplied brand direction, and render a downloadable video. Review the result and request revisions directly in ChatGPT. An existing Shorty account with sufficient credits is required. Use only media you own or have permission to process.",
+  "original_description_language": "英語",
+  "summary_ja": "手持ちの映像から商品広告や顧客の声、ブランド紹介動画を編集する。",
+  "limitations_ja": "既存のShortyアカウントと十分なクレジットが必要。",
+  "usage_tags": [
+    "動画編集",
+    "広告制作",
+    "字幕"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "description_scope": "詳細ページ本文の英語説明"
+}
