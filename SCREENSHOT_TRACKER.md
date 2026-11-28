@@ -1337,3 +1337,12 @@ SVG Lab、SVGMaker、Story Lantern、Streamline Icons、ドールラインβ、D
 SVG LabとSVGMakerは別の提供元・掲載。SVGMakerは無料アカウントで作成した画像と指示文がギャラリーで公開されると説明。ドールラインβの説明原文は日本語。Story Lanternは印刷やメール送信を行わず、Dathent Studioは自動保存や製造への送信を行わないと説明。3DArtistは編集可能な3Dモデルではなく画像を出力。3Dstudio.coは建築画像が必要で、文章のみの生成はできないと説明。
 
 次回は今回の3D検索結果に表示されたRelief3D付近から既存記録との重複を確認して再開する。表示順は変わる可能性がある。前回保留した類似掲載は引き続き保留。
+
+
+### 詳細調査（2026-11-28、クリエイティブ8件・検索表示不一致）
+
+Relief3D、Creations3D、Aircad、NoCapMocap、Animiotics、Blender Bridge、Moonomat、JANCTION Render の公式説明原文・出典・日本語要約・用途と確認状況を記録。前回787件から8件増え、詳細ファイルは累計795件。実動作・料金・一覧本体との照合は未検証。接続・インストール・設定変更・生成・公開は行っていない。
+
+Relief3Dは入力画像の輝度を高さとして用い、写真から深度を推定しないと説明。出力リンクは公開される。Creations3Dはアカウントとクレジットが必要。Aircadは変更を下書きとして示す。Animioticsは科学的な内容の確認を求める。Blender BridgeはWindows用アプリとBlenderが必要。JANCTION Renderは接続時にキーが作られ、入力と結果は標準で最終利用から24時間後に削除と説明。
+
+次の候補Set Designを検索した際、アドレスにはSet Designと表示される一方、検索欄と結果は前のJANCTION Renderのままで一致しなかった。画面を再確認しても変わらなかったため、誤認を避け8件で停止。次回はSet Designを検索し、検索欄・結果・詳細画面の名前が一致することを確認してから再開する。
