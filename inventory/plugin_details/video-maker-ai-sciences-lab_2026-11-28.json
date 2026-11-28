@@ -1,0 +1,25 @@
+{
+  "official_app_name": "Video Maker",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "AI Sciences Lab",
+  "version": "2.5.5",
+  "observed_at": "2026-11-28",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6af0a9f5a1808191b83c93c39fb63e91?category=creativity",
+  "original_description": "Video Maker turns your ideas into short videos right in your ChatGPT conversation. Describe what the video should say, add photos if you like, and get an MP4 or GIF back to download. What it can make: - Promo and product videos with a headline, key points and a call to action. - Announcements, invitations, event countdowns and birthday or holiday greetings. - Explainers, lessons, tips and step-by-step lists. - Quote and motivational videos from your own words, one scene at a time. - Photo slideshows from up to 10 pictures, with captions, an opening title and a closing slide. Every video fits where it will be posted: vertical 9:16 for TikTok, Reels, Shorts and Stories, 16:9 for YouTube, square and 4:5 for feeds. Choose from 11 color themes or your own colors and gradients, five font styles, and fade, wipe or cut transitions, with text that appears line by line. It also edits videos you attach: trim, convert to MP4, WebM or GIF, make files smaller, change the shape, add captions, and take a still picture for a thumbnail. Privacy: files are processed on the AI Sciences Lab server only to do what you ask. New videos are kept behind a private download link for 60 minutes and then deleted automatically. File contents and file names are not logged. Limits: videos up to 120 seconds. Made videos have no sound and are not AI-generated footage: they are slides, photos and animated text. Text supports Latin, Cyrillic, Greek, Hebrew and Arabic letters; emoji are left out. Attached videos can be up to 100 MB. For pictures of scenes, people or objects, use ChatGPT's own image generation, then turn the pictures into a video here.",
+  "original_description_language": "英語",
+  "description_scope": "詳細ページの説明本文",
+  "summary_ja": "文章や写真から無音スライド動画を作り、動画の切り抜き・形式変換を行う。",
+  "usage_tags": [
+    "動画編集",
+    "スライドショー",
+    "GIF"
+  ],
+  "limitations_ja": "生成動画は最大120秒で無音。添付動画は最大100 MB。対応文字は原文参照。生成物は非公開リンクで60分間保持後に削除と説明。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。"
+}
