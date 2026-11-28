@@ -907,6 +907,13 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 - [Logo Maker](logo-maker-megascenes_2026-11-27.json) — ブランド名や業種、スタイルを指定してロゴ案の画像を作る。
 - [Logo Designer](logo-designer_2026-11-28.json) — ロゴ案、SVG、ブランドカラー、ガイドラインなどの制作を支援する。
 
+- [Monogram Maker](monogram-maker_2026-11-28.json) — イニシャルと書体・色からモノグラムの画像を作る。
+- [Product Photos by RunComfy](product-photos-by-runcomfy_2026-11-28.json) — 既存の商品写真からスタジオ風や生活場面の商品画像を作る。
+- [Image Maker](image-maker_2026-11-28.json) — SNS投稿やバナーを作成し、添付画像の文字入れやサイズ変更を行う。
+- [AI Video Creator](ai-video-creator_2026-11-28.json) — 文章や写真から短い動画を作り、画像の生成や編集も行う。
+- [Image to Video by RunComfy](image-to-video-by-runcomfy_2026-11-28.json) — 既存の写真や商品画像に動きやカメラ移動を加えて短い動画を作る。
+- [AI Image Generator by RunComfy](ai-image-generator-by-runcomfy_2026-11-28.json) — 文章や参考画像からイラスト・コンセプトアートなどを作る。
+
 ## 一覧本体との照合
 
 [名称照合の記録](catalog_name_audit_2026-11-14.json) — 詳細35件と作業ブランチの一覧3,941件を比較。34件は名前が一致、Palimpsestは一致なし。名前の一致は同一性の確定ではない。個々のJSONにある旧「照合未確認」の記載は調査時点の記録で、最新の照合結果はこの記録を参照。
