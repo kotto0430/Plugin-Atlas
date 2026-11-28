@@ -1,0 +1,25 @@
+{
+  "official_app_name": "NoCapMocap",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "NoCapMocap",
+  "version": "0.1.0",
+  "observed_at": "2026-11-28",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ae72878081c8191b1870d5970cd15eb?category=creativity",
+  "original_description": "Tell ChatGPT the movement you want. NoCapMocap checks with you before it makes anything. Watch each version and compare them side by side. For Roblox, download the Studio text file and paste it into RBXMonkey. You can also import any version from Motion Lab History. For Humanoid, choose a standard or Mixamo FBX file.",
+  "original_description_language": "英語",
+  "description_scope": "詳細ページの説明本文",
+  "summary_ja": "文章で指定した動きからキャラクターのアニメーションを作る。",
+  "usage_tags": [
+    "3Dアニメーション",
+    "モーション",
+    "ゲーム制作"
+  ],
+  "limitations_ja": "Roblox用とHumanoid用の出力・取り込み方法は説明を参照。実動作は未検証。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。"
+}
