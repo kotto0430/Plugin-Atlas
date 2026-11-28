@@ -1,0 +1,25 @@
+{
+  "official_app_name": "Enjin",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "& SENIBINA",
+  "version": "1.0.0",
+  "observed_at": "2026-11-28",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ae36abd9aac819190f7e4db3d99ca1b?category=creativity",
+  "original_description": "Enjin turns a written brief into a 3D model of a home or building that you can look around, change and take further.\n\nFor homeowners: describe the home you have or want, such as a 4-room HDB flat you are fitting out or a single-storey house on your lot, and see it in 3D before you talk to your architect, designer or contractor.\n\nFor architects, designers and consultants: test a massing, layout or form as real geometry, check its overall size and storey heights, and export it to Revit (.rvt) or Rhino (.3dm) for your own drawings and coordination.\n\nIn ChatGPT you can open your Enjin studies, see a model from eight views or turn it around in 3D, describe a change and have Enjin build it, and export the file.\n\nEnjin works only with the studies in the Enjin account you connect, and asks before starting a build or a change.",
+  "original_description_language": "英語",
+  "description_scope": "詳細ページの説明本文",
+  "summary_ja": "文章から住宅・建物の3Dモデルを作成し、形状や寸法を確認する。",
+  "usage_tags": [
+    "建築",
+    "3Dモデル",
+    "住宅"
+  ],
+  "limitations_ja": "接続したEnjinアカウント内の設計のみを扱うと説明。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。"
+}
