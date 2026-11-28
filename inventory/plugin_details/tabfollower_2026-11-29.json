@@ -1,0 +1,25 @@
+{
+  "official_app_name": "TabFollower",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "Uniflow AI Inc.",
+  "version": "1.0.0",
+  "observed_at": "2026-11-29",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6acac390cf808191b2c5bd2bdd53a8a2?category=creativity",
+  "original_description": "TabFollower is an iPad practice app for electric guitar: it shows scrolling tab, plays a backing band, and hears every note you play through your audio interface. With this plugin, ChatGPT composes practice pieces for you and saves them straight into your TabFollower library.\n\nAsk for a style (chill, folk, moody, blues, rock, metal), a level from 1 to 5, the strings and frets you want to practise, a length up to three minutes, and a mood. ChatGPT gets a composing brief with the musical rules and the fretboard, writes the piece, and submits it; TabFollower checks it for playability, bar counts, techniques and range, and tells ChatGPT what to fix if anything is off. The finished song appears under My songs on your iPad within seconds, with hammer-ons, pull-offs, slides and bends shown on the tab.\n\nYou can also list, open and delete your songs, and review your composing history.\n\nRequires the TabFollower app on iPad (App Store) and a TabFollower account. Sign in with your existing account when ChatGPT connects.",
+  "original_description_language": "英語",
+  "description_scope": "詳細ページの説明本文",
+  "summary_ja": "エレキギターの練習曲を作ってiPadのタブ譜アプリに保存する。",
+  "usage_tags": [
+    "ギター",
+    "音楽練習",
+    "タブ譜"
+  ],
+  "limitations_ja": "iPad用TabFollowerアプリとアカウントが必要。練習曲は最大3分と説明。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。"
+}
