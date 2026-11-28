@@ -1,0 +1,26 @@
+{
+  "name": "Image to Video by RunComfy",
+  "official_app_name": "Image to Video by RunComfy",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "Inceptions AI INC",
+  "version": "1.0.4",
+  "observed_at": "2026-11-28",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6aec34d3f948819190ebf893693e7936?category=creativity",
+  "original_description": "Image to Video by RunComfy animates existing photos and product images into short clips using compatible models from the RunComfy catalog, including available Seedance, Wan and Kling image-to-video models.\n\nWhat you can do:\n• Turn an image into a short clip with described subject movement.\n• Add a slow push-in, pan or another supported camera movement to a still scene.\n• Animate a product photo while identifying the appearance details to check.\n• Retrieve a finished clip or check the status of an existing generation.\n\nConnect a RunComfy account to generate videos. Generations use your RunComfy account balance. Duration, resolution, audio and reference options depend on the selected model and its current input schema.\n\nThe starting image must be available through an accessible HTTPS link. If a chat attachment cannot be passed to the model, the plugin asks for a usable image link. Motion may change faces, product shape, labels or background details; inspect the actual clip before using it. A single image cannot establish accurate unseen sides of an object, and seamless loops or exact motion are not guaranteed.",
+  "original_description_language": "英語",
+  "summary_ja": "既存の写真や商品画像に動きやカメラ移動を加えて短い動画を作る。",
+  "limitations_ja": "RunComfyアカウントと残高、アクセス可能なHTTPS画像リンクが必要。顔や商品形状等の変化に注意。",
+  "usage_tags": [
+    "画像から動画",
+    "動画生成",
+    "商品紹介"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "description_scope": "詳細ページ本文の英語説明"
+}
