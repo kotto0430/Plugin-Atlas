@@ -1,0 +1,26 @@
+{
+  "official_app_name": "ElevenCreative",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "ElevenLabs",
+  "version": "1.0.1",
+  "observed_at": "2026-11-29",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6afda92267848191b4a63bb031573192?category=creativity",
+  "original_description": "Connect your ElevenCreative workspace to generate speech, music, sound effects, images, and video, and put them together without leaving your chat.\n\nVoice: Turn a script into a voiceover with any voice in your workspace or the voice library, design a new voice from a description, or dub a track into another language while keeping the speaker's voice.\n\nAudio: Generate music in any genre, with or without vocals, and sound effects from a short prompt. Transcribe interviews, podcasts, and calls with speaker labels and timestamps in 99 languages.\n\nImage and video: Generate an image, edit it, animate it into video, and add a voiceover or lipsync in the same conversation. Choose the model for each step and compare several variations of every result.\n\nEvery generation is saved to an editable Flow in ElevenCreative, so one brief can become a script, a voiceover, a music bed, and a video on the same canvas. Add your brand kit to keep logos, colors, fonts, and voices consistent, or attach your own files as references.\n\nSign in with your ElevenLabs account to get started.",
+  "original_description_language": "英語",
+  "description_scope": "詳細ページの説明本文",
+  "summary_ja": "音声・音楽・画像・動画の生成や文字起こしを一つの制作フローで行う。",
+  "usage_tags": [
+    "音声制作",
+    "音楽制作",
+    "動画制作",
+    "文字起こし"
+  ],
+  "limitations_ja": "ElevenLabsアカウントが必要。対応言語数などは提供元の説明。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。"
+}
