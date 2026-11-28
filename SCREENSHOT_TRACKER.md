@@ -1289,3 +1289,12 @@ Shorty Edit、Faces、Graphic Design Studio、Novel Writer、Poster Maker（POST
 Shorty Editは検索結果と詳細の名称を照合して確認。Poster Makerは同名だが提供元・掲載URLが異なる2件を区別。Graphic Design StudioとNovel Writerは回答にアフィリエイトリンクを含む場合があると説明。HoliとDiwaliの画像、およびDiwali招待状はラテン文字を使用し、送信は行わないと説明。AI Fashion Designerは一覧で確認後、名前で検索して詳細を開いた。
 
 次回はクリエイティブ一覧で今回見えたTaste・GIF Maker付近から既存記録との重複を確認して再開する。表示順は変わる可能性がある。
+
+
+### 詳細調査（2026-11-28、クリエイティブ8件・表示不一致）
+
+Taste（Saul Martí）、Taste（ALEXANDER ETHAN KEHR）、GIF Maker、Video Maker（AI Sciences Lab）、Yearbook Maker for Reunions、Easter Video Maker、Presentations.AI、Brand API の公式説明原文・出典・日本語要約・用途と確認状況を記録。前回756件から8件増え、詳細ファイルは累計764件。実動作・料金・一覧本体との照合は未検証。接続・インストール・設定変更は行っていない。
+
+Tasteは同名だが提供元・掲載URL・用途が異なるため別記録。GIF Makerはアフィリエイトリンクを含む場合がある。Video Makerの生成動画は無音で最大120秒と説明。Yearbook Makerは印刷本の配送先や年齢条件に注意。Presentations.AIはBusinessアカウントとクレジットが必要と説明。
+
+Make a Game（AI Research Plus、1.2.7、https://chatgpt.com/plugins/plugin_asdk_app_6ae7b72eb0b88191839c97e05d397db0?category=creativity）は詳細ページ本文がゲーム制作の説明である一方、内包アプリ欄にはCompany Websiteという別名と企業サイト制作の説明が表示された。関係が不明なため詳細ファイルへの追加は保留し、8件で停止。次回はこの食い違いを保持したまま、検索結果に表示されたName Ideas Generator付近から既存記録との重複を確認して再開する。表示順は変わる可能性がある。
