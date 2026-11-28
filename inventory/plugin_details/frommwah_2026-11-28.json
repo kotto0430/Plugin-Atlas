@@ -1,0 +1,25 @@
+{
+  "official_app_name": "Frommwah",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "Frommwah",
+  "version": "1.0.3",
+  "observed_at": "2026-11-28",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ae6511c3238819197567e81cf27b1e6?category=creativity",
+  "original_description": "Turn an ordinary present into an animated surprise. Frommwah wraps your gift in an animated 3D gift box. Your person taps the box, it opens, and the real gift rises out with your personal message.\n\nHow it works\n• Tell ChatGPT who the gift is for and what it is: a link to the product page, or a photo or screenshot. ChatGPT can help you find a gift first; once you have chosen, Frommwah wraps it.\n• Choose a box colour: Black & Gold, Cream, Pink, Red, Green, Blue, Purple, Teal or Silver. If you don't say, ChatGPT will ask.\n• Add a message of up to 150 characters.\n• Get a link and send it on WhatsApp, by text or by email. Nothing to install, and they don't need an account.\n\nAlready bought it? Send it as a surprise: they unwrap it, see the gift and your message, and can say thank you. There is no buy button.\n\nStill deciding? Send it as a gift idea: they unwrap it and tap Love it, Already have it, Not suitable or Not sure. WhatsApp opens with their reply ready to send back to you. If they love it, the reply includes the shop link so you can buy it.\n\nIt works for presents, experiences, hotel stays, days out, gift vouchers and tickets: use a link to its page, or a photo or screenshot. Please never put voucher codes, ticket numbers, barcodes or booking references in a gift box; send those privately.\n\nPerfect for birthdays, Christmas, anniversaries, Mother's Day, thank-yous and last-minute gifts.\n\nProduct links: Frommwah reads the product page to find its name and main picture, saves a copy with your gift and cuts it out so it can rise out of the box (pictures of places, like hotels, show as a photo card). The picture belongs to its owner and is used only to show your gift. Some shops can't be read; ChatGPT then offers to use a photo or screenshot instead, or a box with just the gift's name if you agree.\n\nGood to know: Frommwah doesn't buy, sell or deliver anything, take payment, or send anything for you. You choose when to share the link. Please use a picture of the gift, not of people. These are personal gift boxes; shop-branded boxes are part of Frommwah's separate app for Shopify stores.",
+  "original_description_language": "英語",
+  "description_scope": "詳細ページの説明本文",
+  "summary_ja": "ギフト画像やメッセージを開く3Dボックスとして共有できる形にする。",
+  "usage_tags": [
+    "贈り物",
+    "3D",
+    "メッセージ"
+  ],
+  "limitations_ja": "購入・決済・配送・送信は行わない。券のコードや予約番号は入れないよう説明。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。"
+}
