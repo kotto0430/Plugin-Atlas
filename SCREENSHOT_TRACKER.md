@@ -1280,3 +1280,12 @@ Monogram Maker、Product Photos by RunComfy、Image Maker、AI Video Creator、I
 Monogram Makerは文字を画像モデルが描くため確認が必要。RunComfyの3掲載は商品画像・画像から動画・画像生成という個別の詳細ページで、既存のRunComfy記録と区別した。画像からの処理にはアクセス可能なHTTPSリンクが必要と説明。Image MakerとAI Video Creatorは折りたたみを開き全文を確認。Image Makerは日本語の画像内文字に対応するとは説明されていない。
 
 一覧でShorty Editを選択しようとしたところCluesoが開いた。画面上の名称とURLを確認し、Cluesoは同名の既存詳細記録があるため追加せず、選択位置の不一致を受け6件で停止。Shorty Editは詳細未確認。次回はShorty Editを検索して名前を確認してから開き、その後Faces付近を既存記録と照合して再開する。表示順は変わる可能性がある。
+
+
+### 詳細調査（2026-11-28、クリエイティブ10件）
+
+Shorty Edit、Faces、Graphic Design Studio、Novel Writer、Poster Maker（POSTER APP LLP）、Poster Maker（MegaScenes）、Holi Greeting Images、Diwali Greeting Images、Diwali Invitations、AI Fashion Designer の公式説明原文・出典・日本語要約・用途と確認状況を記録。前回746件から10件増え、詳細ファイルは累計756件。実動作・料金・一覧本体との照合は未検証。接続・インストール・設定変更・生成・送信・投稿・公開は行っていない。
+
+Shorty Editは検索結果と詳細の名称を照合して確認。Poster Makerは同名だが提供元・掲載URLが異なる2件を区別。Graphic Design StudioとNovel Writerは回答にアフィリエイトリンクを含む場合があると説明。HoliとDiwaliの画像、およびDiwali招待状はラテン文字を使用し、送信は行わないと説明。AI Fashion Designerは一覧で確認後、名前で検索して詳細を開いた。
+
+次回はクリエイティブ一覧で今回見えたTaste・GIF Maker付近から既存記録との重複を確認して再開する。表示順は変わる可能性がある。
