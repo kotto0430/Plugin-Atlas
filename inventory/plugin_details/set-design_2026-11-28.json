@@ -1,0 +1,25 @@
+{
+  "official_app_name": "Set Design",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "AD&",
+  "version": "1.0.1",
+  "observed_at": "2026-11-28",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6adc013c59f08191ae6fb54602e31131?category=creativity",
+  "original_description": "Set is a 3D studio for shots of devices showing your own work: an app, a site, a video, a design. It runs in your browser at setdesign.app. Set Design connects ChatGPT to the Set window you have open, so you can ask for a shot in words and watch it being built.\n\nChatGPT can put devices on the stage (phones, tablets, laptops, watches and displays), put an image or a video from a public address on a screen, frame the camera the way a product shot does, set the lights, backdrop, floor, lens and each device's colour and finish, add motion from Set's presets, look at the frame, and export stills and video to your computer.\n\nEvery change happens in your Set window, where you can see it, and each one is a single step of undo there. A setting Set does not have, or a value outside a control's range, is refused in words rather than quietly changed. Rendering happens in your browser on your own graphics hardware, and exports save to your computer. You can ask from ChatGPT on any device; the shot is built in the Set window on your computer.\n\nWhat you need: a Set Pro licence, Set open in a desktop browser and signed in with it, and Assistant switched on in Set's sidebar. When you connect, a page on setdesign.app asks you to allow ChatGPT. The setup is at setdesign.app/assistant.",
+  "original_description_language": "英語",
+  "description_scope": "詳細ページの説明本文",
+  "summary_ja": "作品を端末画面に載せた3Dの製品画像・動画を作る。",
+  "usage_tags": [
+    "3D",
+    "モックアップ",
+    "動画制作"
+  ],
+  "limitations_ja": "Set Proライセンスとデスクトップブラウザで開いたSet、Assistantの有効化が必要と説明。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。"
+}
