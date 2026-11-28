@@ -1373,3 +1373,12 @@ Melyx AI Music Generator、Kinetune、SoundBoost、About My Sound、TabFollower�
 SoundBoostはチャット内で30秒プレビュー、全曲の仕上げはWebアプリと説明。Audio Stem Labは最大120秒・20MBのMP3/WAVを分離し、公開リンクは所持者がアクセスできる。TabFollowerはiPadアプリとアカウントが必要。PitchHighwayは練習データを読む連携。TonalBrainは分析の読取とトラック設定の送信を区別。Kinetuneの本文と内包アプリ欄は説明の範囲が異なるため詳細ファイルに記載。
 
 次回はmusic検索結果に表示されたMuziek maken met AI付近から既存記録と提供元・URLを照合して再開する。表示順は変わる可能性がある。過去に保留した類似掲載や表示不一致は引き続き保留。
+
+
+### 詳細調査（2026-11-29、クリエイティブ10件）
+
+Pixoary、PopNow、ClippingAlpha、ElevenCreative、Mira AI、Hoosha、OneStation、Soundtrack Studio、One More Shot、Cartelera の公式説明原文・出典・日本語要約・用途と確認状況を記録。前回825件から10件増え、詳細ファイルは累計835件。実動作・料金・一覧本体との照合は未検証。接続・インストール・設定変更・生成・投稿は行っていない。
+
+再開候補Muziek maken met AIは既存の詳細記録を確認し、重複追加せず周辺の候補を調査。ClippingAlphaの報酬は視聴数やブランドの承認に左右されると説明。Hooshaはクレジットが必要でプラグインから購入・生成取消・削除はできない。Soundtrack Studioは5〜47秒の曲を生成すると説明し権利や独占性を保証しない。One More Shotはクレジットと過去の購入または提供元によるレビュー権限が必要。Carteleraはシーンの動画化にアカウントが必要と説明。
+
+次回はmusic検索結果に表示されたPulseJet AIまたはWhim付近から、既存記録と提供元・URLを照合して再開する。表示順は変わる可能性がある。過去に保留した類似掲載や表示不一致は引き続き保留。
