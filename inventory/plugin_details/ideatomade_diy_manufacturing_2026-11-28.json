@@ -1,0 +1,25 @@
+{
+  "official_app_name": "IdeaToMade: DIY Manufacturing",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "February AI",
+  "version": "1.0.0",
+  "observed_at": "2026-11-28",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6af25031a1ec8191ae031c54f16fc06a?category=creativity",
+  "original_description": "Turn an idea into a design you can see in 3D, analyze and test in simulation, refine, and prepare to make in the real world. Describe what you need in everyday language: furniture, a custom product for your home or workshop, a physical product prototype, a robotic mechanism, a test rig, a small machine, or another complete physical product or mechanical system. Share your dimensions, materials, tools, and intended use. IdeaToMade helps clarify the requirements and prepare the design for your chosen making process.\n\nExplore an interactive 3D preview, inspect individual parts and assemblies, and refine dimensions before exporting files. Text-to-CAD and parametric design workflows let you describe changes through conversation, while CAD modeling keeps the geometry tied to the design parameters.\n\nFor DIY projects, including furniture making, furniture assembly, and woodworking, prepare dimensioned drawings, a cut list, a bill of materials, and assembly instructions. See which parts to make, which components to obtain, how the complete design fits together, and how to build and assemble it.\n\nThe same workflow can also support parts, assemblies, and complete projects across a wide range of ways to make, build, and fabricate physical designs, including custom furniture, welded structures, machine enclosures, sheet-metal assemblies, product prototypes, jigs and fixtures, robotic mechanisms, automation equipment, small machines, lab and test rigs, and other constraint-driven mechanical designs.\n\nChoose the CAD and manufacturing files that suit your workflow:\n• 3MF for modern 3D printing workflows, including multi-part models and manufacturing metadata where supported.\n• STL for widely compatible 3D printing and use with a slicer.\n• STEP for exchanging precise solid CAD geometry with CAD, CAM, and manufacturing systems.\n• DXF for 2D drawings and cutting outlines, including laser cutting, CNC routing, plasma cutting, and other supported fabrication workflows.\n• SVG for compatible 2D vector drawings, templates, and cutting workflows.\n• PDF for dimensioned technical drawings, material notes, assembly documentation, and production packages.\n• IGES / IGS for compatibility with legacy CAD and manufacturing systems.\n• OBJ for mesh-based 3D exchange and visualization.\n• CSV for cut lists, bills of materials, dimensions, quantities, and other production data.\n\nFor 3D printers, prepare slicing settings and machine instructions using the selected printer and material profiles. Generate printer-ready G-code or other supported machine output based on the printer, material, and print settings. For CNC machines, CAM workflows use FreeCAD to prepare machining operations, toolpaths, feeds and speeds, and controller-specific output. CNC files may include G-code and other machine-specific formats depending on your equipment, tools, stock, postprocessor, and machining setup. Inspect the preview and manufacturing setup before use.\n\nFor engineering and fabrication projects, explore structural analysis results such as calculated stresses, deflections, displacements, forces, and reactions, as well as mechanism motion and dynamic behavior. Finite element analysis (FEA) and simulation results can help compare design options and depend on the materials, loads, supports, contacts, and other assumptions supplied.\n\nIdeaToMade brings text-to-CAD, parametric 3D modeling, DIY project planning, 3D printing, CNC machining, and manufacturing preparation into one workflow, from the initial idea and interactive 3D design to downloadable CAD files, manufacturing files, drawings, and assembly guidance. You can make the project yourself, produce it with a 3D printer or CNC machine, or send the design files to a local or overseas manufacturer.",
+  "original_description_language": "英語",
+  "description_scope": "詳細ページの説明本文",
+  "summary_ja": "文章から製品や家具の3D設計・解析・製作資料作成を支援する。",
+  "usage_tags": [
+    "CAD",
+    "DIY",
+    "3D設計"
+  ],
+  "limitations_ja": "解析結果や加工出力は入力条件や機材設定による。実際の安全性・精度は未検証。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。"
+}
