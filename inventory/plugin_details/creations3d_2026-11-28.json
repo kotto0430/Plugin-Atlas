@@ -1,0 +1,24 @@
+{
+  "official_app_name": "Creations3D",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "App Agentic Ltd",
+  "version": "1.0.1",
+  "observed_at": "2026-11-28",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ae2474e1f64819183b82c2d77838cc8?category=creativity",
+  "original_description": "Create 3D models from a text description or image without leaving your conversation. Creations3D shows each result in an interactive viewer, so you can rotate and inspect your model before downloading it.\n\nCreate a model, check its progress, browse your existing models, and request an export for your project. Supported exports include GLB, OBJ, FBX, STL and 3MF. Your account keeps your models and available credits together across the website and connected tools.\n\nA Creations3D account with generation credits is required.",
+  "original_description_language": "英語",
+  "description_scope": "詳細ページの説明本文",
+  "summary_ja": "文章や画像から3Dモデルを作り、表示や形式の書き出しを行う。",
+  "usage_tags": [
+    "3Dモデル",
+    "3D制作"
+  ],
+  "limitations_ja": "Creations3Dアカウントと生成用クレジットが必要。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。"
+}
