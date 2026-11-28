@@ -1,0 +1,25 @@
+{
+  "official_app_name": "3D Garden Designer",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "YLabs",
+  "version": "0.1.3",
+  "observed_at": "2026-11-28",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ae0747f3f488191b5c5673f43ea2502?category=creativity",
+  "original_description": "Plan an outdoor garden or yard to scale and explore the layout in 3D.\n\nDescribe your yard's dimensions and the features you want. 3D Garden Designer creates a saved layout with lawns, planting beds, paths, trees and garden features, then returns links to the editable plan and 3D walk. Estimated dimensions are marked approximate.\n\nMove or resize labelled items, change materials, undo edits and copy a garden to compare another layout. Saved gardens belong to your account. Optional view-only sharing lets anyone with the active link see the current title, plan, 3D walk and notes.\n\nThe realistic-picture tool opens the saved garden's website page, where you choose a viewpoint and request a visualisation. The tool itself does not generate an image.\n\nAn account and sign-in are required. The initial version models flat ground. Plans are design aids, not land surveys or structural, drainage, botanical or safety advice.",
+  "original_description_language": "英語",
+  "description_scope": "詳細ページの説明本文",
+  "summary_ja": "庭の寸法や設備を指定して、編集可能な配置図と3D表示を作る。",
+  "usage_tags": [
+    "庭",
+    "造園",
+    "3D"
+  ],
+  "limitations_ja": "アカウントが必要。初期版は平坦地に対応し、図面は設計補助と説明。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。"
+}
