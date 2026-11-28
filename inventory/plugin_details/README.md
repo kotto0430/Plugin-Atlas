@@ -945,6 +945,10 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 - [Birthday Video Maker](birthday-video-maker-megascenes_2026-11-28.json) — 誕生日向けの音楽や音声付き短編動画を作る。
 - [Birthday Song Maker](birthday-song-maker-megascenes_2026-11-28.json) — 名前や思い出を入れた誕生日の歌を作る。
 
+- [Graduation Song Maker](graduation-song-maker_2026-11-28.json) — 名前や学校・思い出を入れた卒業祝いの歌を作る。
+- [Lullaby Maker](lullaby-maker_2026-11-28.json) — 名前や希望の題材を入れた子守歌を作る。
+- [Love Song Maker](love-song-maker_2026-11-28.json) — 相手の名前や二人の思い出を入れたラブソングを作る。
+
 ## 一覧本体との照合
 
 [名称照合の記録](catalog_name_audit_2026-11-14.json) — 詳細35件と作業ブランチの一覧3,941件を比較。34件は名前が一致、Palimpsestは一致なし。名前の一致は同一性の確定ではない。個々のJSONにある旧「照合未確認」の記載は調査時点の記録で、最新の照合結果はこの記録を参照。
