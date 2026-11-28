@@ -914,6 +914,17 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 - [Image to Video by RunComfy](image-to-video-by-runcomfy_2026-11-28.json) — 既存の写真や商品画像に動きやカメラ移動を加えて短い動画を作る。
 - [AI Image Generator by RunComfy](ai-image-generator-by-runcomfy_2026-11-28.json) — 文章や参考画像からイラスト・コンセプトアートなどを作る。
 
+- [Shorty Edit](shorty-edit_2026-11-28.json) — 手持ちの映像から商品広告や顧客の声、ブランド紹介動画を編集する。
+- [Faces](faces_2026-11-28.json) — 対話型プレゼンテーションの作成、編集、公開、管理を支援する。
+- [Graphic Design Studio](graphic-design-studio_2026-11-28.json) — SNS、印刷物、ロゴなどのデザインやブランド素材の制作を支援する。
+- [Novel Writer](novel-writer_2026-11-28.json) — 小説の企画、構成、執筆、推敲、出版準備を支援する。
+- [Poster Maker（POSTER APP LLP）](poster-maker-poster-app_2026-11-28.json) — テンプレートを検索し、文章を入れたポスターのプレビューを作成する。
+- [Poster Maker（MegaScenes）](poster-maker-megascenes_2026-11-28.json) — 見出しやテーマから文字入りポスターやチラシ画像を作る。
+- [Holi Greeting Images](holi-greeting-images_2026-11-28.json) — ホーリー祭の挨拶文入り画像を作る。
+- [Diwali Greeting Images](diwali-greeting-images_2026-11-28.json) — ディワリ祭の挨拶文入り画像を作る。
+- [Diwali Invitations](diwali-invitations_2026-11-28.json) — ディワリ祭の催し向けに招待状画像を作る。
+- [AI Fashion Designer](ai-fashion-designer_2026-11-28.json) — 衣服のデザイン、技術画、モデル上の可視化や作品集の制作を支援する。
+
 ## 一覧本体との照合
 
 [名称照合の記録](catalog_name_audit_2026-11-14.json) — 詳細35件と作業ブランチの一覧3,941件を比較。34件は名前が一致、Palimpsestは一致なし。名前の一致は同一性の確定ではない。個々のJSONにある旧「照合未確認」の記載は調査時点の記録で、最新の照合結果はこの記録を参照。
