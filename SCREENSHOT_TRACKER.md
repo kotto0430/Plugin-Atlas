@@ -1364,3 +1364,12 @@ Image to 3D、Plainly Guide、CinAI、idea.ai、awen、PocketMangaka、Translate
 Image to 3Dは単体のGLBモデルでアカウントのクレジットを使う。Plainly Guideは制作ツールの比較で自身はメディアを生成しない。PocketMangakaは聞き取りから日本語の漫画を作り、アカウントにより種類が異なる。TranslateImageは既存のImage Translator（MegaScenes）と提供元・掲載URLが異なる。PlayableNotesはピアノ楽譜を読み取って編集・再生できると説明。
 
 次回は今回のmusic検索結果で見えたMelyx AI Music Generator付近から、既存記録と提供元・URLを照合して再開する。表示順は変わる可能性がある。過去に保留した類似掲載や表示不一致は引き続き保留。
+
+
+### 詳細調査（2026-11-29、クリエイティブ10件）
+
+Melyx AI Music Generator、Kinetune、SoundBoost、About My Sound、TabFollower、PitchHighway、TonalBrain、Audio Stem Lab、HookSounds、Suno の公式説明原文・出典・日本語要約・用途と確認状況を記録。前回815件から10件増え、詳細ファイルは累計825件。実動作・料金・一覧本体との照合は未検証。接続・インストール・設定変更・音源送信・生成・公開は行っていない。
+
+SoundBoostはチャット内で30秒プレビュー、全曲の仕上げはWebアプリと説明。Audio Stem Labは最大120秒・20MBのMP3/WAVを分離し、公開リンクは所持者がアクセスできる。TabFollowerはiPadアプリとアカウントが必要。PitchHighwayは練習データを読む連携。TonalBrainは分析の読取とトラック設定の送信を区別。Kinetuneの本文と内包アプリ欄は説明の範囲が異なるため詳細ファイルに記載。
+
+次回はmusic検索結果に表示されたMuziek maken met AI付近から既存記録と提供元・URLを照合して再開する。表示順は変わる可能性がある。過去に保留した類似掲載や表示不一致は引き続き保留。
