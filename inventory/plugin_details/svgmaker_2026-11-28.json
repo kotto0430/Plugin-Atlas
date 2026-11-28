@@ -1,0 +1,25 @@
+{
+  "official_app_name": "SVGMaker",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "GenWave LLC",
+  "version": "1.0.0",
+  "observed_at": "2026-11-28",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6afab2467f9c8191ac8c9d3224cd1170?category=creativity",
+  "original_description": "Edit SVGs and convert PNG, JPG, and WebP images into editable vector logos, icons, and illustrations directly in ChatGPT. SVGMaker combines image to SVG conversion, AI SVG editing, and text-to-vector generation for designers, developers, and makers.\n\nWhat you can do:\n• Convert PNG, JPG and WebP images to SVG and turn raster artwork into editable vectors.\n• Edit and recolor SVGs, and remove backgrounds from images.\n• Generate vector logos, SVG icons and matching icon sets, and illustrations from text prompts.\n• Design posters, banners, printables, stickers, and T-shirt graphics.\n• Create SVG files for Cricut and other cutting machines, including layered designs and silhouettes.\n• Create SVG artwork for laser engraving and laser cutting.\n\nStart with an image, an existing SVG, or a text description, then tell SVGMaker what you want to edit, convert, or create.\n\nLimits:\n• You need an SVGMaker account. You sign in and approve the connection; the plugin never sees your password.\n• Generating, editing, converting and removing backgrounds use credits on your account. The cost depends on the operation and quality, and ChatGPT asks before each one.\n• Images and prompts made on a free account are public in the SVGMaker gallery. Paid-account images stay private unless you share them.\n• Files are downloaded on svgmaker.io, not in ChatGPT. Whether you can download depends on your SVGMaker plan.\n• Tracing a photo gives flat colour regions and loses fine texture.\n• It makes still images, not video or animation.",
+  "original_description_language": "英語",
+  "description_scope": "詳細ページの説明本文",
+  "summary_ja": "画像のSVG変換、SVG編集、ベクターイラスト作成を支援する。",
+  "usage_tags": [
+    "SVG",
+    "画像編集",
+    "ベクター"
+  ],
+  "limitations_ja": "アカウントとクレジットが必要。無料アカウントで作成した画像と指示文はギャラリーで公開されると説明。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。"
+}
