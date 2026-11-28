@@ -1,0 +1,25 @@
+{
+  "official_app_name": "Simple House Planner",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "Simple House Planner",
+  "version": "1.1.0",
+  "observed_at": "2026-11-28",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6aebb9892f148191adbf5f6281fd9aa6?category=creativity",
+  "original_description": "Simple House Planner designs houses, apartments and rooms with you, to scale, and shows them beside the chat in 2D and 3D.\n\nDescribe the home you want, such as a three-bedroom farmhouse, a small cabin, an apartment layout or a new kitchen, and ChatGPT draws the floor plan floor by floor: walls, doors, windows, stairs, roofs, furniture, the garden and the site. The planner checks each step for what you would notice walking through it, such as furniture in the way through a door or a room no door reaches, and ChatGPT fixes it.\n\nThe editor opens beside the conversation with the same controls as the website. Move a wall, furnish a room or walk through the house in 3D by hand, and ChatGPT sees your change on its next turn. Your plans are stored in your account, so they also open at simplehouseplanner.com, where you can export them as PDF sheets to scale, DXF, DWG and IFC.\n\nAsk about a build and ChatGPT calculates it, without sign-in: how many stairs you need, square footage, flooring, paint, drywall, concrete, gravel, a deck, a fence, roofing, insulation, a ramp, window sizes and the bed, sofa, table or rug that fits a room.\n\nPlans are design aids and do not replace the work of an architect or a check against local building rules.",
+  "original_description_language": "英語",
+  "description_scope": "詳細ページの説明本文",
+  "summary_ja": "住宅や部屋の間取りを2D・3Dで設計し、家具配置を検討する。",
+  "usage_tags": [
+    "間取り",
+    "住宅",
+    "3D"
+  ],
+  "limitations_ja": "図面は設計補助であり、建築家による作業や地域の建築規則の確認に代わらないと説明。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。"
+}
