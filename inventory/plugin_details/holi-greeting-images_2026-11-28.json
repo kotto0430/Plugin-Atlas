@@ -1,0 +1,26 @@
+{
+  "name": "Holi Greeting Images",
+  "official_app_name": "Holi Greeting Images",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "MegaScenes",
+  "version": "1.0.0",
+  "observed_at": "2026-11-28",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6af6353a04c481918e3b8b345c93af50?category=creativity",
+  "original_description": "Write the greeting you want to share, such as Happy Holi or a line of your own, and pick the scene and the look: bursts of colored powder in the air, bowls of bright colors with flowers, water balloons and splashes of color, as a vibrant photo, a watercolor splash, a bright illustration, pastel or minimal. You get a festive image with your words in it and the festival's symbols drawn respectfully, square, tall for stories and status, or wide.\n\nChatGPT tells you what the image needs and creates it in your MegaScenes account when you ask. The image opens in the chat and stays in your library.\n\nFor family chats, status updates, stories and Holi posts.\n\nLimitations: one image per run; your text is passed to the model as written, so check the lettering in the result. Words are set in Latin letters, such as Happy Holi or Holi Hai, not in Devanagari script. It does not post or send the image for you. Making a file needs a signed-in MegaScenes account and runs in it; nothing is made until you confirm. Not for sexual or adult content or for real people's likeness. Files are made by generative models and saved in your MegaScenes library.",
+  "original_description_language": "英語",
+  "summary_ja": "ホーリー祭の挨拶文入り画像を作る。",
+  "limitations_ja": "1回に1画像。文字はラテン文字で、投稿や送信は行わないと説明。",
+  "usage_tags": [
+    "祝祭",
+    "挨拶画像",
+    "画像生成"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "description_scope": "詳細ページ本文の英語説明"
+}
