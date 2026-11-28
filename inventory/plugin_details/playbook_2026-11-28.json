@@ -1,0 +1,25 @@
+{
+  "official_app_name": "Playbook",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "Playbook",
+  "version": "0.7.2",
+  "observed_at": "2026-11-28",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac40c3aa1c881919374b8a79f131d7c?category=creativity",
+  "original_description": "Playbook is a media backend for creative teams. This plugin connects your Playbook workspace so you can search images, video and documents by keyword or by what they show, organize them into folders, tag them and fill in custom fields, upload files from a URL, Google Drive or Dropbox, review version history, read the text of PDFs, and share a folder through a link, a published page or an email invitation. It acts as the signed-in Playbook user and reaches only the workspaces that account belongs to. It does not download file contents, read text inside images or scanned PDFs, or extract video captions.",
+  "original_description_language": "英語",
+  "description_scope": "詳細ページの説明本文",
+  "summary_ja": "画像・動画・文書などの素材を検索・整理・共有する。",
+  "usage_tags": [
+    "素材管理",
+    "検索",
+    "共有"
+  ],
+  "limitations_ja": "ログイン中の利用者が所属するワークスペースが対象。画像やスキャンPDF内の文字、動画字幕は読み取らないと説明。内包アプリ欄はboardsと記載し、本文ではfoldersと記載。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。"
+}
