@@ -1,0 +1,25 @@
+{
+  "official_app_name": "Easter Video Maker",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "MegaScenes",
+  "version": "1.0.0",
+  "observed_at": "2026-11-28",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6af634878f54819194b6de4323496039?category=creativity",
+  "original_description": "Describe the scene and who it is for: a basket of painted eggs in a spring meadow, white lilies at sunrise, a sunrise over the hills with spring flowers, for Grandma Rosa or the whole family. Add a short line to be spoken in the video if you like, about 15 words, such as Happy Easter to all of you! You get a short video with gentle music and sound, wide or tall for phones and stories.\n\nChatGPT tells you what the video needs and makes it in your MegaScenes account when you ask. The video plays in the chat and stays in your library.\n\nFor family chats, stories and an Easter message for the people you love.\n\nLimitations: a short clip of a few seconds, made from your description, not from your photos, with no words on screen; the music, the sound and the spoken line are generated with the video, so watch it before sharing. It does not post or send the video for you. Making a file needs a signed-in MegaScenes account and runs in it; nothing is made until you confirm. Not for sexual or adult content or for real people's likeness. Files are made by generative models and saved in your MegaScenes library.",
+  "original_description_language": "英語",
+  "description_scope": "詳細ページの説明本文",
+  "summary_ja": "イースター向けの音楽や短い音声入り動画を説明文から作る。",
+  "usage_tags": [
+    "動画制作",
+    "イースター",
+    "挨拶"
+  ],
+  "limitations_ja": "数秒の動画で画面内文字なし。写真からは作成しない。MegaScenesアカウントが必要。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。"
+}
