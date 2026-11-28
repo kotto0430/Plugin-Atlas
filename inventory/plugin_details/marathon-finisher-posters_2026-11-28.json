@@ -1,0 +1,25 @@
+{
+  "official_app_name": "Marathon Finisher Posters",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "The Open Apps, Inc.",
+  "version": "1.0.1",
+  "observed_at": "2026-11-28",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ad6777fe4b08191a6a3c47eab2720e7?category=creativity",
+  "original_description": "Routeframe makes marathon finisher posters, for a marathon or half marathon you ran or as a gift for a runner. Tell ChatGPT the race, the year, your name and your finish time, and the poster appears in the chat: the course traced from OpenStreetMap with its start and finish, the city, the distance, the year, your name and your time.\n\nChange it in the card: six colour styles, miles or kilometres, the year, and a short line of your own such as \"First marathon\".\n\nIn the United States, when it looks right, pick 30 x 40 cm or 50 x 70 cm, unframed or in a black, white or oak wood frame, and order it. Checkout opens on routeframe.ambientapp.ai, where you enter the delivery address and pay; nothing is paid in ChatGPT. The poster is printed close to you and shipped to your door. After an order, ask \"Where is my Routeframe order?\" at any time to see whether it has been printed or shipped, with the tracking link.\n\nLimits:\n• The catalogue has big marathons and half marathons in the US and Europe, with more added as their courses are checked. Ask which races it has.\n• Posters show the city, course, distance and year, never a race's name or logo. Routeframe is not affiliated with any race or organiser.\n• Routeframe doesn't use GPS files or fitness-app data, and has no race results: the name and time are yours to give.\n• Printing and shipping are available in the United States only. Elsewhere you can make and change the poster in the chat, with no print options. No digital files.\n• Course lines are traced from OpenStreetMap; a course can differ a little from year to year.",
+  "original_description_language": "英語",
+  "description_scope": "詳細ページの説明本文",
+  "summary_ja": "マラソンのコースや完走記録を使った記念ポスターを作る。",
+  "usage_tags": [
+    "マラソン",
+    "ポスター",
+    "記念品"
+  ],
+  "limitations_ja": "印刷・配送は米国のみ。デジタルファイルは提供しないと説明。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。"
+}
