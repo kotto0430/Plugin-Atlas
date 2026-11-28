@@ -1328,3 +1328,12 @@ Love Song Maker（https://chatgpt.com/plugins/plugin_asdk_app_6af37ca135d081918f
 Birthday Greeting Images（MegaScenes、1.0.0、https://chatgpt.com/plugins/plugin_asdk_app_6af37be4a9088191be3a6aae02ef03cf）も確認。同じ提供元の記録済みBirthday Card Makerと文字入り誕生日画像という機能が重なり、両掲載の関係を確認できないため、詳細ファイル追加は保留。前者は1回1画像で送信・投稿しないと説明。
 
 次回は上記の類似掲載を保留のまま、クリエイティブ一覧の未調査候補を検索し、既存記録と照合して再開する。表示順は変わる可能性がある。
+
+
+### 詳細調査（2026-11-28、クリエイティブ10件）
+
+SVG Lab、SVGMaker、Story Lantern、Streamline Icons、ドールラインβ、Dathent Studio、3DMockups、3D Garden Designer、3DArtist、3Dstudio.co AI Render Studio の公式説明原文・出典・日本語要約・用途と確認状況を記録。前回777件から10件増え、詳細ファイルは累計787件。実動作・料金・一覧本体との照合は未検証。接続・インストール・設定変更・生成・公開は行っていない。
+
+SVG LabとSVGMakerは別の提供元・掲載。SVGMakerは無料アカウントで作成した画像と指示文がギャラリーで公開されると説明。ドールラインβの説明原文は日本語。Story Lanternは印刷やメール送信を行わず、Dathent Studioは自動保存や製造への送信を行わないと説明。3DArtistは編集可能な3Dモデルではなく画像を出力。3Dstudio.coは建築画像が必要で、文章のみの生成はできないと説明。
+
+次回は今回の3D検索結果に表示されたRelief3D付近から既存記録との重複を確認して再開する。表示順は変わる可能性がある。前回保留した類似掲載は引き続き保留。
