@@ -925,6 +925,15 @@ ChatGPTのプラグイン詳細画面で、一覧の名前・短い説明だけ�
 - [Diwali Invitations](diwali-invitations_2026-11-28.json) — ディワリ祭の催し向けに招待状画像を作る。
 - [AI Fashion Designer](ai-fashion-designer_2026-11-28.json) — 衣服のデザイン、技術画、モデル上の可視化や作品集の制作を支援する。
 
+- [Taste（Saul Martí）](taste-saul-marti_2026-11-28.json) — フロントエンドの画面デザインとUI実装を支援する。
+- [Taste（ALEXANDER ETHAN KEHR）](taste-alexander-kehr_2026-11-28.json) — 保存したデザインの参考資料を検索・閲覧し制作の参考にする。
+- [GIF Maker](gif-maker_2026-11-28.json) — GIFの企画・作成・編集やアニメーションコードを支援する。
+- [Video Maker](video-maker-ai-sciences-lab_2026-11-28.json) — 文章や写真から無音スライド動画を作り、動画の切り抜き・形式変換を行う。
+- [Yearbook Maker for Reunions](yearbook-maker-for-reunions_2026-11-28.json) — グループの写真やメッセージを集め、年鑑を共同制作する。
+- [Easter Video Maker](easter-video-maker_2026-11-28.json) — イースター向けの音楽や短い音声入り動画を説明文から作る。
+- [Presentations.AI](presentations-ai_2026-11-28.json) — 題材や文章からスライドを作り、共有やファイル出力を行う。
+- [Brand API](brand-api_2026-11-28.json) — ウェブサイトのブランド要素を抽出し、デザイン参考検索や既存ブランドへの適合確認を支援する。
+
 ## 一覧本体との照合
 
 [名称照合の記録](catalog_name_audit_2026-11-14.json) — 詳細35件と作業ブランチの一覧3,941件を比較。34件は名前が一致、Palimpsestは一致なし。名前の一致は同一性の確定ではない。個々のJSONにある旧「照合未確認」の記載は調査時点の記録で、最新の照合結果はこの記録を参照。
