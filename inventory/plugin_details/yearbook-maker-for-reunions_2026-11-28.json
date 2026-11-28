@@ -1,0 +1,25 @@
+{
+  "official_app_name": "Yearbook Maker for Reunions",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "The Open Apps, Inc.",
+  "version": "1.0.1",
+  "observed_at": "2026-11-28",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ad685b40e1081918c6266427a0eccfe?category=creativity",
+  "original_description": "Yearbind is a yearbook maker for reunions, school classes, sports teams, clubs and any other group: one yearbook your whole group makes together.\n\nStart it in ChatGPT and you get one join link. Everyone opens it on their phone or computer, with no account, and adds a photo, their name and a short quote. You approve each person before the others see them.\n\nRetro portraits: share a photo and ask ChatGPT for a 1970s, 1980s, 1990s or 2000s yearbook portrait. ChatGPT makes the image and Yearbind puts it in the book under the name you give. Pick an era look for the whole book and every photo gets the same treatment, so phone selfies and ChatGPT portraits sit together.\n\nKind superlatives: members vote from their own page on titles like Most likely to start a business or Biggest heart. Superlatives are positive only and never about looks, bodies or dating. Nobody sees vote counts; when you close voting, Yearbind reveals only the winners.\n\nThe finished book has a title page, member pages with portraits and quotes, the superlative winners and signature pages, laid out as an 8.5 x 11 inch book you can preview page by page.\n\nIn the United States and Canada, the finished book can also be ordered as a hardcover: once voting is closed, the organizer and every member aged 18 or over can order it. Checkout happens on yearbind.ambientapp.ai, never in ChatGPT: the buyer enters the delivery address, confirms they are 18 or older and pays there. Printed copies ship only to the United States and Canada; in every other country Yearbind works the same, without printed copies.\n\nDetails:\n• Members need no ChatGPT and no account; their personal link lets them change their entry, vote or remove themselves at any time.\n• Every photo and every word is checked before it is shown, and the organizer approves each member.\n• For ages 13 and up. Where printed copies are offered, only adults 18 and over can order them; a parent or guardian can order for a younger member.",
+  "original_description_language": "英語",
+  "description_scope": "詳細ページの説明本文",
+  "summary_ja": "グループの写真やメッセージを集め、年鑑を共同制作する。",
+  "usage_tags": [
+    "年鑑",
+    "同窓会",
+    "写真集"
+  ],
+  "limitations_ja": "対象は13歳以上。印刷本の配送は米国・カナダのみで、注文は18歳以上などの条件がある。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。"
+}
