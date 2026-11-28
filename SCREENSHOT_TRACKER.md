@@ -1307,3 +1307,24 @@ Name Ideas Generator、NameReef Domain Generator、Graffiti Generator、Zovo Pla
 Name Ideas Generatorはドメインの空き・商標を確認しない一方、NameReef Domain Generatorはレジストリ情報と照合すると説明し、購入前の再確認を推奨。Zovo Place Card Makerは日本語を含む文字の印刷に対応すると説明。Marathon Finisher Postersは印刷・配送が米国限定、デジタルファイルは提供しない。Song for Your ChildとBirthday Song Makerは同じMegaScenes提供の別URLで対象や用途が異なる掲載だが、サービス上の関係は未確認。
 
 前回保留したMake a Gameの本文と内包アプリの不一致は未解決のまま。次回は検索結果に表示されたGraduation Song Maker付近から既存記録との重複を確認して再開する。表示順は変わる可能性がある。
+
+
+### 詳細調査（2026-11-28、クリエイティブ3件・類似掲載）
+
+Graduation Song Maker、Lullaby Maker、Love Song Maker の公式説明原文・出典・日本語要約・用途と確認状況を記録。前回774件から3件増え、詳細ファイルは累計777件。実動作・料金・一覧本体との照合は未検証。接続・インストール・設定変更・生成は行っていない。
+
+Love Song Maker（https://chatgpt.com/plugins/plugin_asdk_app_6af37ca135d081918fe9b64fb192e7c3）とValentine Song Maker（https://chatgpt.com/plugins/plugin_asdk_app_6af3879a28808191900e896f7e174bc6）はMegaScenes提供の別掲載で、前者の用途にもバレンタインが含まれ、名前とエピソードから歌を作るという説明が非常に似ている。両掲載の関係は不明のため、後者の詳細ファイル追加は保留して3件で停止。Valentine Song Makerの詳細本文：
+
+> Give the name to sing, a few lines about your story and what you love about them, and the style: R&B, acoustic, a pop ballad, soul, jazz or a funny pop song, with a female or male lead or a duet. You get an original Valentine's Day song with vocals as an audio file, with lyrics written from your story or the lyrics you give. The voice sings the name you give.
+>
+> ChatGPT tells you what the song needs and creates it in your MegaScenes account when you ask. The song plays in the chat and stays in your library.
+>
+> Give only the name and the details you want sung: no address or contact details are needed.
+>
+> To send on February 14th, play at a dinner for two or add to a Valentine's video.
+>
+> Limitations: original songs; it does not imitate a real singer's voice or copy an existing song or artist. Making a file needs a signed-in MegaScenes account and runs in it; nothing is made until you confirm. Not for sexual or adult content or for real people's likeness. Files are made by generative models and saved in your MegaScenes library.
+
+Birthday Greeting Images（MegaScenes、1.0.0、https://chatgpt.com/plugins/plugin_asdk_app_6af37be4a9088191be3a6aae02ef03cf）も確認。同じ提供元の記録済みBirthday Card Makerと文字入り誕生日画像という機能が重なり、両掲載の関係を確認できないため、詳細ファイル追加は保留。前者は1回1画像で送信・投稿しないと説明。
+
+次回は上記の類似掲載を保留のまま、クリエイティブ一覧の未調査候補を検索し、既存記録と照合して再開する。表示順は変わる可能性がある。
