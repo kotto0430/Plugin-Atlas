@@ -1,0 +1,24 @@
+{
+  "official_app_name": "Melyx AI Music Generator",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "Dhaka",
+  "version": "0.1.0",
+  "observed_at": "2026-11-29",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6aeda6e0f0248191b1947fc262d03dbd?category=creativity",
+  "original_description": "Create songs and instrumental music from descriptions or your own lyrics with Melyx AI. Describe a mood and style, bring your original lyrics, or request music without vocals. Connect your Melyx AI account to follow real task progress, listen to completed tracks, download the audio, and revisit your private music library. Custom lyrics mode defaults to a target of five minutes unless you request a different supported duration; actual output length may vary. Editing lyrics alone does not submit an audio-generation task.",
+  "original_description_language": "英語",
+  "description_scope": "詳細ページの説明本文",
+  "summary_ja": "文章や自作歌詞から歌やインスト曲を作り、音源を管理する。",
+  "usage_tags": [
+    "音楽制作",
+    "楽曲生成"
+  ],
+  "limitations_ja": "Melyx AIアカウント連携。自作歌詞モードの目標時間は標準5分だが実際の長さは変わる場合がある。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。"
+}

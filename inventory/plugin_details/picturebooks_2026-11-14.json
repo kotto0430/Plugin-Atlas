@@ -1,0 +1,26 @@
+{
+  "name": "PictureBooks",
+  "provider": "WILSON GAN",
+  "version": "0.2.2",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6aa6d22a487c819195f5f691e628aa01?category=creativity",
+  "developer_url": "https://picturebooks.io/",
+  "original_description": "Create private illustrated storybooks from your ideas, follow generation progress, and read stories saved in your PictureBooks account. Built for parents, caregivers, educators, and other adult authors. Connect your existing account to check available credits and create books using those credits. The plugin does not purchase credits, charge a card, or publish your books. You can disconnect access in PictureBooks at any time.",
+  "summary_ja": "アイデアから非公開の絵本を作成し、生成状況や保存した作品を確認する。",
+  "usage_tags": [
+    "絵本制作",
+    "教育",
+    "物語制作"
+  ],
+  "limitations_ja": "保護者・教育者など大人向け。既存アカウントのクレジットを使用し、プラグインはクレジット購入、カード決済、作品公開を行わないと説明。実動作や料金は未検証。",
+  "official_app_name": "PictureBooks",
+  "official_name_basis": "ChatGPTのプラグイン詳細画面に表示された名称",
+  "category": "Creativity",
+  "observed_at": "2026-11-14",
+  "description_scope": "ChatGPT詳細画面の提供元の英語説明。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "詳細画面の説明と情報欄を確認。接続・実機能の検証は行っていない。",
+  "catalog_status": "2026-11-14時点の一覧本体 index.html（blob 27fc7d17ee843cc9e0651a6c2913c06326f3b9db）に正式表示名の文字列なし。別名・同名製品との同一性は未確認。"
+}

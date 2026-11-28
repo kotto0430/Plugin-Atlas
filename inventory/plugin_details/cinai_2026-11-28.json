@@ -1,0 +1,26 @@
+{
+  "official_app_name": "CinAI",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "CinAI",
+  "version": "2.6.2",
+  "observed_at": "2026-11-28",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ae9799bb0c88191adaeab1f4465eafc?category=creativity",
+  "original_description": "CinAI connects ChatGPT to your CinAI account on cinai.tv. Ask for an image, a short video clip or a voiceover: CinAI shows the models your account can use, checks with you before it starts a generation, runs it and shows the finished files in a result card.\n\nFor larger projects CinAI can also build a Canvas (connected image, video, audio and editing steps you can open and rerun on cinai.tv), stage 3D World scenes with characters, cameras and lights, or hand a whole brief to the CinAI agent and report its progress and questions back to you.\n\nYou need a CinAI account. CinAI only works with the files, canvases, 3D worlds and tasks in the account you connect.",
+  "original_description_language": "英語",
+  "description_scope": "詳細ページの説明本文",
+  "summary_ja": "画像・動画・音声や3Dシーンの制作とワークフローを支援する。",
+  "usage_tags": [
+    "画像生成",
+    "動画制作",
+    "音声制作",
+    "3D"
+  ],
+  "limitations_ja": "CinAIアカウントが必要。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。"
+}

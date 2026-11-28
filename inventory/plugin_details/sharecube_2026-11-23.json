@@ -1,0 +1,21 @@
+{
+  "official_app_name": "ShareCube",
+  "provider": "Infragate",
+  "version": "1.0.1",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a905813d48881919d2edc530c7f1e96?category=creativity",
+  "observed_at": "2026-11-23",
+  "original_description": "ShareCube turns what ChatGPT writes into a real document you can share and get feedback on.\n\nAsk ChatGPT to draft a plan, a report, or a page, and it publishes to ShareCube as HTML or Markdown with its own URL. You choose who sees it: keep it private, share it inside your organisation, or open it to anyone with the link.\n\nReviewers highlight a sentence and comment on it, the way they would in a document. ChatGPT can read those comments back and revise. Every version is kept, so you can see what changed and restore an earlier one.\n\nIt's useful when the people reviewing your work don't use ChatGPT themselves, when review comments would otherwise be scattered across a thread, and when you want the things an agent wrote to still be findable next month.",
+  "summary_ja": "文書をHTMLやMarkdownとして共有し、コメントや版を管理する。",
+  "usage_tags": [
+    "文書共有",
+    "レビュー"
+  ],
+  "limitations": [
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証",
+    "説明だけでは不明"
+  ]
+}

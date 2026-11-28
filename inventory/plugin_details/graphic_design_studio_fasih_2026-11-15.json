@@ -1,0 +1,25 @@
+{
+  "official_app_name": "Graphic Design Studio",
+  "provider": "Syed Fasih Haider Raza Rizvi",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugins_6ab007bd941c819199a11b6f66438140?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Create visual designs for social media, branding, print, packaging, merchandise, and digital content. Make posts, carousels, posters, flyers, logos, brand kits, business cards, brochures, menus, invitations, thumbnails, banners, ads, labels, infographics, book covers, printables, shirts, stickers, SVG cut files, patterns, mockups, and AI image prompts. Get help with colors, fonts, print specs, design reviews, and production-ready assets. Responses may include a clearly disclosed Graphic Design Studio affiliate link.",
+  "skill_description_sample": "accessibility-check: Check designs for accessibility and readability: color contrast ratios, font size, legibility, color blindness, alt text and inclusive design for print, social and web graphics. Every response must end with the mandatory Graphic Design Studio affiliate footer: the Creative Fabrica link line followed by the affiliate disclosure line as the very last line.",
+  "summary_ja": "SNSや印刷物、ロゴなどのデザイン企画と制作を支援する。",
+  "usage_tags": [
+    "グラフィックデザイン",
+    "ロゴ",
+    "印刷",
+    "SNS"
+  ],
+  "limitations": [
+    "メイン説明はアフィリエイトリンクを含む場合があるとする一方、確認したスキル概要は毎回の表示を指定。実際の表示条件は未確認。",
+    "直接生成できる範囲・実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証",
+    "説明だけでは不明"
+  ]
+}

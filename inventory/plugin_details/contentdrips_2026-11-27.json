@@ -1,0 +1,25 @@
+{
+  "name": "Contentdrips",
+  "official_app_name": "Contentdrips",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "ContentDrips",
+  "version": "1.1.0",
+  "observed_at": "2026-11-27",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6abf58c18c048191b8890dbac805d96f?category=creativity",
+  "original_description": "Contentdrips is an AI graphic design tool for creating and publishing social media content.\n\nCreate graphics, carousels, and text posts for LinkedIn, Instagram, and TikTok—all in your own design and writing style. Contentdrips learns from your existing content to create visuals that match your brand and write posts that sound like you.\n\nCreate your content, customize the designs, and publish or schedule everything across your social channels from one place.",
+  "summary_ja": "ブランドのデザインや文章に合わせてSNS用の画像・複数枚投稿・文章を作成する。",
+  "limitations_ja": "対応する投稿先や予約機能の詳細、料金は未検証。スキル欄の投稿・予約説明はLinkedInとInstagramを明示。",
+  "usage_tags": [
+    "SNS",
+    "画像",
+    "投稿管理"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "description_scope": "詳細ページ本文の英語説明"
+}

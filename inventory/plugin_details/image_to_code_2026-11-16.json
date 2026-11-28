@@ -1,0 +1,22 @@
+{
+  "official_app_name": "ImageToCode",
+  "provider": "Saul Martí",
+  "version": "2.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugins_6aa301a0d98481918955ba85f921a89e?category=creativity",
+  "observed_at": "2026-11-16",
+  "original_description": "Start from a supplied or generated visual reference, analyze it carefully, and implement frontend code that matches it as closely as practical.",
+  "summary_ja": "指定または生成した参考画像を分析し、見た目に沿ったフロントエンドを実装する。",
+  "usage_tags": [
+    "プログラミング",
+    "ウェブ制作",
+    "UI",
+    "画像からコード"
+  ],
+  "limitations": [
+    "実動作・対応技術・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

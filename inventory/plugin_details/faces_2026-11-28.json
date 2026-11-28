@@ -1,0 +1,26 @@
+{
+  "name": "Faces",
+  "official_app_name": "Faces",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "Perhaps Inc.",
+  "version": "1.0.0",
+  "observed_at": "2026-11-28",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a28acadcc2c81919bc0fd34b245d094?category=creativity",
+  "original_description": "Faces helps users create, inspect, edit, publish, and manage interactive presentation projects through ChatGPT. The MCP tools support project and team discovery, slide authoring, plugin setup, visual verification, publishing, and live URL configuration for authenticated users.",
+  "original_description_language": "英語",
+  "summary_ja": "対話型プレゼンテーションの作成、編集、公開、管理を支援する。",
+  "limitations_ja": "認証された利用者向けの機能と説明。実際の編集・公開は未検証。",
+  "usage_tags": [
+    "プレゼン",
+    "スライド",
+    "対話型資料"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "description_scope": "詳細ページ本文の英語説明"
+}

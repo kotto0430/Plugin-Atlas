@@ -1,0 +1,21 @@
+{
+  "official_app_name": "Supericons",
+  "provider": "Curly Mole Labs",
+  "version": "2.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a1ac4817a6081919b271261c0c96277?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Supericons helps people find and preview SVG icons by meaning, UI role, library, style, or supported language. It can recommend a consistent icon set for up to 20 parts of a product interface, show visual previews, and return exact SVG code when an icon is selected.",
+  "summary_ja": "意味や用途からSVGアイコンを探してプレビューし、選択したアイコンのSVGコードを取得する。",
+  "usage_tags": [
+    "アイコン",
+    "UIデザイン",
+    "ウェブ制作"
+  ],
+  "limitations": [
+    "実動作・料金・各アイコンの利用条件は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

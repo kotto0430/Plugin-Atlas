@@ -1,0 +1,605 @@
+﻿row_id,page,column,row,ocr_candidate,status,name_match_candidate,evidence
+p01L01,1,L,1,Booking.com,要画像照合,True,evidence/page-01.png
+p01L02,1,L,2,Trip.com,要画像照合,False,evidence/page-01.png
+p01L03,1,L,3,Tripadvisor,要画像照合,False,evidence/page-01.png
+p01L04,1,L,4,eDreams,要画像照合,False,evidence/page-01.png
+p01L05,1,L,5,Kiwi.com,要画像照合,False,evidence/page-01.png
+p01L06,1,L,6,komoot,要画像照合,False,evidence/page-01.png
+p01L07,1,L,7,Wego,要画像照合,False,evidence/page-01.png
+p01L08,1,L,8,MakeMyTrip,要画像照合,False,evidence/page-01.png
+p01L09,1,L,9,AnyWhereMap - Navigate+Locate,要画像照合,False,evidence/page-01.png
+p01L10,1,L,10,Vio.com,要画像照合,False,evidence/page-01.png
+p01L11,1,L,11,Gondola,要画像照合,False,evidence/page-01.png
+p01L12,1,L,12,Turkish Airlines,要画像照合,False,evidence/page-01.png
+p01L13,1,L,13,Klook,要画像照合,False,evidence/page-01.png
+p01L14,1,L,14,Travel Vibes: Trip Itineraries,要画像照合,False,evidence/page-01.png
+p01L15,1,L,15,Marriott Bonvoy,要画像照合,False,evidence/page-01.png
+p01L16,1,L,16,Almosafer.com,要画像照合,False,evidence/page-01.png
+p01L17,1,L,17,Cruise Critic,要画像照合,False,evidence/page-01.png
+p01L18,1,L,18,CheapOair,要画像照合,False,evidence/page-01.png
+p01L19,1,L,19,Viator,要画像照合,False,evidence/page-01.png
+p01L20,1,L,20,TRIP PLANNER Travel Itinerary,要画像照合,False,evidence/page-01.png
+p01L21,1,L,21,TABLEALL,要画像照合,False,evidence/page-01.png
+p01L22,1,L,22,Hyatt,要画像照合,False,evidence/page-01.png
+p01L23,1,L,23,Flygresor.se,要画像照合,False,evidence/page-01.png
+p01L24,1,L,24,Reagent Travel,要画像照合,False,evidence/page-01.png
+p01L25,1,L,25,Eurostar,要画像照合,False,evidence/page-01.png
+p01L26,1,L,26,12Go,要画像照合,False,evidence/page-01.png
+p01L27,1,L,27,FLIGHTS Trip & Travel Routes,要画像照合,False,evidence/page-01.png
+p01L28,1,L,28,DiscoverCars.com,要画像照合,False,evidence/page-01.png
+p01L29,1,L,29,Civitatis,要画像照合,False,evidence/page-01.png
+p01L30,1,L,30,Iberia,要画像照合,False,evidence/page-01.png
+p01L31,1,L,31,Nowistay,要画像照合,False,evidence/page-01.png
+p01L32,1,L,32,SIXT,要画像照合,False,evidence/page-01.png
+p01L33,1,L,33,Wyndham Hotels & Resorts,要画像照合,False,evidence/page-01.png
+p01L34,1,L,34,Virgin Australia,要画像照合,False,evidence/page-01.png
+p01L35,1,L,35,GuruWalk: Tours & Activities,要画像照合,False,evidence/page-01.png
+p01L36,1,L,36,tiket.com,要画像照合,False,evidence/page-01.png
+p01L37,1,L,37,Bolt,要画像照合,False,evidence/page-01.png
+p01L38,1,L,38,Zio,要画像照合,False,evidence/page-01.png
+p01L39,1,L,39,Al Trip Planner,要画像照合,False,evidence/page-01.png
+p01L40,1,L,40,tabiori,要画像照合,False,evidence/page-01.png
+p01L41,1,L,41,TRAIL Hike Planner & Camping,要画像照合,False,evidence/page-01.png
+p01L42,1,L,42,AutoRentals,要画像照合,False,evidence/page-01.png
+p01L43,1,L,43,Buson,要画像照合,False,evidence/page-01.png
+p01R01,1,R,1,Skyscanner,要画像照合,False,evidence/page-01.png
+p01R02,1,R,2,Flight Network,要画像照合,False,evidence/page-01.png
+p01R03,1,R,3,Wikiloc,要画像照合,False,evidence/page-01.png
+p01R04,1,R,4,trivago,要画像照合,False,evidence/page-01.png
+p01R05,1,R,5,ForeFlight Mobile,要画像照合,False,evidence/page-01.png
+p01R06,1,R,6,FlightPoints,要画像照合,False,evidence/page-01.png
+p01R07,1,R,7,Ryanair,要画像照合,False,evidence/page-01.png
+p01R08,1,R,8,World Airfares,要画像照合,False,evidence/page-01.png
+p01R09,1,R,9,Trainline,要画像照合,False,evidence/page-01.png
+p01R10,1,R,10,Rome2Rio,要画像照合,False,evidence/page-01.png
+p01R11,1,R,11,Hilton Hotel Search,要画像照合,False,evidence/page-01.png
+p01R12,1,R,12,GetYourGuide,要画像照合,False,evidence/page-01.png
+p01R13,1,R,13,Omio,要画像照合,False,evidence/page-01.png
+p01R14,1,R,14,Princess Cruises,要画像照合,False,evidence/page-01.png
+p01R15,1,R,15,ALL Accor,要画像照合,False,evidence/page-01.png
+p01R16,1,R,16,EaseMyTrip,要画像照合,False,evidence/page-01.png
+p01R17,1,R,17,Priceline,要画像照合,False,evidence/page-01.png
+p01R18,1,R,18,Swarm by Foursquare,要画像照合,False,evidence/page-01.png
+p01R19,1,R,19,IHG Hotels & Resorts,要画像照合,False,evidence/page-01.png
+p01R20,1,R,20,TUI,要画像照合,False,evidence/page-01.png
+p01R21,1,R,21,ixigo,要画像照合,False,evidence/page-01.png
+p01R22,1,R,22,TheHotelsNetwork,要画像照合,False,evidence/page-01.png
+p01R23,1,R,23,Pegasus Airlines,要画像照合,False,evidence/page-01.png
+p01R24,1,R,24,Traveloka,要画像照合,False,evidence/page-01.png
+p01R25,1,R,25,Archipelago Hotels,要画像照合,False,evidence/page-01.png
+p01R26,1,R,26,Recreation.gov,要画像照合,False,evidence/page-01.png
+p01R27,1,R,27,AbhiBus,要画像照合,False,evidence/page-01.png
+p01R28,1,R,28,BreckenWander Travel,要画像照合,False,evidence/page-01.png
+p01R29,1,R,29,Lambus,要画像照合,False,evidence/page-01.png
+p01R30,1,R,30,redBus,要画像照合,False,evidence/page-01.png
+p01R31,1,R,31,Turo,要画像照合,False,evidence/page-01.png
+p01R32,1,R,32,Travel Advisory,要画像照合,False,evidence/page-01.png
+p01R33,1,R,33,FareFirst,要画像照合,False,evidence/page-01.png
+p01R34,1,R,34,TravExp,要画像照合,False,evidence/page-01.png
+p01R35,1,R,35,Yatra,要画像照合,False,evidence/page-01.png
+p01R36,1,R,36,TourRadar,要画像照合,False,evidence/page-01.png
+p01R37,1,R,37,Wave by Vento,要画像照合,False,evidence/page-01.png
+p01R38,1,R,38,Fattal,要画像照合,False,evidence/page-01.png
+p01R39,1,R,39,DirectBooker,要画像照合,False,evidence/page-01.png
+p01R40,1,R,40,Kismet,要画像照合,False,evidence/page-01.png
+p01R41,1,R,41,Akasa Air,要画像照合,False,evidence/page-01.png
+p01R42,1,R,42,KKday,要画像照合,False,evidence/page-01.png
+p01R43,1,R,43,Ouigo France,要画像照合,False,evidence/page-01.png
+p02L01,2,L,1,TrainPal,要画像照合,False,evidence/page-02.png
+p02L02,2,L,2,Get My eSIM,要画像照合,False,evidence/page-02.png
+p02L03,2,L,3,Adin Flights,要画像照合,False,evidence/page-02.png
+p02L04,2,L,4,TripO by FreeTravel,要画像照合,False,evidence/page-02.png
+p02L05,2,L,5,Travomint,要画像照合,False,evidence/page-02.png
+p02L06,2,L,6,Cottages,要画像照合,False,evidence/page-02.png
+p02L07,2,L,7,Ferryhopper,要画像照合,False,evidence/page-02.png
+p02L08,2,L,8,RouteStack.ai,要画像照合,False,evidence/page-02.png
+p02L09,2,L,9,Pricewin Hotels & Flights,要画像照合,False,evidence/page-02.png
+p02L10,2,L,10,Recorrido,要画像照合,False,evidence/page-02.png
+p02L11,2,L,11,Rail Monsters - Train Tickets,要画像照合,False,evidence/page-02.png
+p02L12,2,L,12,Cleartrip,要画像照合,False,evidence/page-02.png
+p02L13,2,L,13,Atlys,要画像照合,False,evidence/page-02.png
+p02L14,2,L,14,Yango,要画像照合,False,evidence/page-02.png
+p02L15,2,L,15,FareHarbor,要画像照合,False,evidence/page-02.png
+p02L16,2,L,16,Motel One,要画像照合,False,evidence/page-02.png
+p02L17,2,L,17,Travelenie,要画像照合,False,evidence/page-02.png
+p02L18,2,L,18,Book Direct,要画像照合,False,evidence/page-02.png
+p02L19,2,L,19,Wanderz,要画像照合,False,evidence/page-02.png
+p02L20,2,L,20,JourneyBay,要画像照合,False,evidence/page-02.png
+p02L21,2,L,21,Milepoint,要画像照合,False,evidence/page-02.png
+p02L22,2,L,22,Paradise Beach Cozumel,要画像照合,False,evidence/page-02.png
+p02L23,2,L,23,Meow Map,要画像照合,False,evidence/page-02.png
+p02L24,2,L,24,Abandoned World App,要画像照合,False,evidence/page-02.png
+p02L25,2,L,25,WeatherPromise,要画像照合,False,evidence/page-02.png
+p02L26,2,L,26,OutReserve,要画像照合,False,evidence/page-02.png
+p02L27,2,L,27,Headout,要画像照合,False,evidence/page-02.png
+p02L28,2,L,28,Direct Host,要画像照合,False,evidence/page-02.png
+p02L29,2,L,29,A-Z London Transport,要画像照合,False,evidence/page-02.png
+p02L30,2,L,30,Executive Hotels Al,要画像照合,False,evidence/page-02.png
+p02L31,2,L,31,Kombo,要画像照合,False,evidence/page-02.png
+p02L32,2,L,32,BeachFinder,要画像照合,False,evidence/page-02.png
+p02L33,2,L,33,Vegas,要画像照合,False,evidence/page-02.png
+p02L34,2,L,34,BE-A,要画像照合,False,evidence/page-02.png
+p02L35,2,L,35,Total Parks,要画像照合,False,evidence/page-02.png
+p02L36,2,L,36,Bytetravel,要画像照合,False,evidence/page-02.png
+p02L37,2,L,37,TICATi,要画像照合,False,evidence/page-02.png
+p02L38,2,L,38,WAUG,要画像照合,False,evidence/page-02.png
+p02L39,2,L,39,Worldschedule,要画像照合,False,evidence/page-02.png
+p02L40,2,L,40,FunNow,要画像照合,False,evidence/page-02.png
+p02L41,2,L,41,Tripuck,要画像照合,False,evidence/page-02.png
+p02L42,2,L,42,Barcelo Hotel Group,要画像照合,False,evidence/page-02.png
+p02L43,2,L,43,TrailVerse,要画像照合,False,evidence/page-02.png
+p02L44,2,L,44,Goshuin Atlas,要画像照合,False,evidence/page-02.png
+p02L45,2,L,45,Pick your match,要画像照合,False,evidence/page-02.png
+p02L46,2,L,46,SecretBox,要画像照合,False,evidence/page-02.png
+p02L47,2,L,47,LDN Travel,要画像照合,False,evidence/page-02.png
+p02R01,2,R,1,Hotels Booking,要画像照合,False,evidence/page-02.png
+p02R02,2,R,2,Busbud,要画像照合,False,evidence/page-02.png
+p02R03,2,R,3,Sunny Cars,要画像照合,False,evidence/page-02.png
+p02R04,2,R,4,Road Trip Planner,要画像照合,False,evidence/page-02.png
+p02R05,2,R,5,EconomyBookings,要画像照合,False,evidence/page-02.png
+p02R06,2,R,6,Israir,要画像照合,False,evidence/page-02.png
+p02R07,2,R,7,Sigtrip,要画像照合,False,evidence/page-02.png
+p02R08,2,R,8,Direct Ferries,要画像照合,False,evidence/page-02.png
+p02R09,2,R,9,HappyFares,要画像照合,False,evidence/page-02.png
+p02R10,2,R,10,Tripsy,要画像照合,True,evidence/page-02.png
+p02R11,2,R,11,ADAC Mietwagen,要画像照合,False,evidence/page-02.png
+p02R12,2,R,12,AirHelp,要画像照合,False,evidence/page-02.png
+p02R13,2,R,13,Paytm Travel,要画像照合,False,evidence/page-02.png
+p02R14,2,R,14,Mondial tourisme,要画像照合,False,evidence/page-02.png
+p02R15,2,R,15,Bed-and-Breakfast.it,要画像照合,False,evidence/page-02.png
+p02R16,2,R,16,Direct Book Al,要画像照合,False,evidence/page-02.png
+p02R17,2,R,17,eSIM Finder,要画像照合,False,evidence/page-02.png
+p02R18,2,R,18,Is It Safe To Travel?,要画像照合,False,evidence/page-02.png
+p02R19,2,R,19,hoppa,要画像照合,False,evidence/page-02.png
+p02R20,2,R,20,eSIM Copilot,要画像照合,False,evidence/page-02.png
+p02R21,2,R,21,Hotelzify - Book Direct,要画像照合,False,evidence/page-02.png
+p02R22,2,R,22,Otto Travel,要画像照合,False,evidence/page-02.png
+p02R23,2,R,23,Oojo,要画像照合,False,evidence/page-02.png
+p02R24,2,R,24,AkbarTravels,要画像照合,False,evidence/page-02.png
+p02R25,2,R,25,BonjourRATP,要画像照合,False,evidence/page-02.png
+p02R26,2,R,26,Shangri-La Circle,要画像照合,False,evidence/page-02.png
+p02R27,2,R,27,VisitorsCoverage,要画像照合,False,evidence/page-02.png
+p02R28,2,R,28,Novasol,要画像照合,False,evidence/page-02.png
+p02R29,2,R,29,ChecklistlQ,要画像照合,False,evidence/page-02.png
+p02R30,2,R,30,WeRoad,要画像照合,False,evidence/page-02.png
+p02R31,2,R,31,FINN,要画像照合,False,evidence/page-02.png
+p02R32,2,R,32,SparkSpot,要画像照合,False,evidence/page-02.png
+p02R33,2,R,33,Chapka,要画像照合,False,evidence/page-02.png
+p02R34,2,R,34,Hotel Emperador Madrid,要画像照合,False,evidence/page-02.png
+p02R35,2,R,35,HelloSafe Travel Insurance,要画像照合,False,evidence/page-02.png
+p02R36,2,R,36,Dayuse Hotels,要画像照合,False,evidence/page-02.png
+p02R37,2,R,37,Perigee Fishing,要画像照合,False,evidence/page-02.png
+p02R38,2,R,38,Extra Holidays,要画像照合,False,evidence/page-02.png
+p02R39,2,R,39,TravelSearch.io,要画像照合,False,evidence/page-02.png
+p02R40,2,R,40,FlatHunt,要画像照合,False,evidence/page-02.png
+p02R41,2,R,41,Wanderu,要画像照合,False,evidence/page-02.png
+p02R42,2,R,42,Tripbtoz,要画像照合,False,evidence/page-02.png
+p02R43,2,R,43,ToursByLocals,要画像照合,False,evidence/page-02.png
+p02R44,2,R,44,Skyalo Travel Guide,要画像照合,False,evidence/page-02.png
+p02R45,2,R,45,Motel 6,要画像照合,False,evidence/page-02.png
+p02R46,2,R,46,TravelSwitch,要画像照合,False,evidence/page-02.png
+p02R47,2,R,47,Simbye,要画像照合,False,evidence/page-02.png
+p03L01,3,L,1,IbiPoint — prepaid data eSIMs,要画像照合,False,evidence/page-03.png
+p03L02,3,L,2,Mozio,要画像照合,False,evidence/page-03.png
+p03L03,3,L,3,Amapas Vacation Rental,要画像照合,False,evidence/page-03.png
+p03L04,3,L,4,Eurostars Hotel Company,要画像照合,False,evidence/page-03.png
+p03L05,3,L,5,Avi-Go Aviation Intelligence,要画像照合,False,evidence/page-03.png
+p03L06,3,L,6,EVT Hotels & Resorts,要画像照合,False,evidence/page-03.png
+p03L07,3,L,7,Life Happens Outdoors,要画像照合,False,evidence/page-03.png
+p03L08,3,L,8,Hotel Moderno,要画像照合,False,evidence/page-03.png
+p03L09,3,L,9,Valpas Hotels,要画像照合,False,evidence/page-03.png
+p03L10,3,L,10,SoloWay — Bus Tickets,要画像照合,False,evidence/page-03.png
+p03L11,3,L,11,Evaneos,要画像照合,False,evidence/page-03.png
+p03L12,3,L,12,Meeters,要画像照合,False,evidence/page-03.png
+p03L13,3,L,13,PrivateJet.com,要画像照合,False,evidence/page-03.png
+p03L14,3,L,14,Powly,要画像照合,False,evidence/page-03.png
+p03L15,3,L,15,SnowSure,要画像照合,False,evidence/page-03.png
+p03L16,3,L,16,Michi - Travel App,要画像照合,False,evidence/page-03.png
+p03L17,3,L,17,uhomes.com,要画像照合,False,evidence/page-03.png
+p03L18,3,L,18,Kindred,要画像照合,False,evidence/page-03.png
+p03L19,3,L,19,isango!,要画像照合,False,evidence/page-03.png
+p03L20,3,L,20,Vegas Guide,要画像照合,False,evidence/page-03.png
+p03L21,3,L,21,UkraineBorder,要画像照合,False,evidence/page-03.png
+p03L22,3,L,22,Jumpseat,要画像照合,False,evidence/page-03.png
+p03L23,3,L,23,Gullivr,要画像照合,False,evidence/page-03.png
+p03L24,3,L,24,BNESIM,要画像照合,False,evidence/page-03.png
+p03L25,3,L,25,Porcel hotels,要画像照合,False,evidence/page-03.png
+p03L26,3,L,26,Tralendr,要画像照合,False,evidence/page-03.png
+p03L27,3,L,27,Verne,要画像照合,False,evidence/page-03.png
+p03L28,3,L,28,Airport Pickups London,要画像照合,False,evidence/page-03.png
+p03L29,3,L,29,VoyageHacks,要画像照合,False,evidence/page-03.png
+p03L30,3,L,30,Yoteiko,要画像照合,False,evidence/page-03.png
+p03L31,3,L,31,Southwest Airlines,要画像照合,False,evidence/page-03.png
+p03L32,3,L,32,Carhopp,要画像照合,False,evidence/page-03.png
+p03L33,3,L,33,Ognissanti Hotels,要画像照合,False,evidence/page-03.png
+p03L34,3,L,34,FREETOUR.com,要画像照合,False,evidence/page-03.png
+p03L35,3,L,35,McDreams Hotels,要画像照合,False,evidence/page-03.png
+p03L36,3,L,36,Fly Travel Albania,要画像照合,False,evidence/page-03.png
+p03L37,3,L,37,Vize Rehberim,要画像照合,False,evidence/page-03.png
+p03L38,3,L,38,Stayonomy,要画像照合,False,evidence/page-03.png
+p03L39,3,L,39,tickadoo,要画像照合,False,evidence/page-03.png
+p03L40,3,L,40,eSIMFOX,要画像照合,False,evidence/page-03.png
+p03L41,3,L,41,Traffik Yacht Radar,要画像照合,False,evidence/page-03.png
+p03L42,3,L,42,Mercury Jets,要画像照合,False,evidence/page-03.png
+p03L43,3,L,43,How is my trip?,要画像照合,False,evidence/page-03.png
+p03L44,3,L,44,One Step Travel,要画像照合,False,evidence/page-03.png
+p03L45,3,L,45,PLAZA Hotels,要画像照合,False,evidence/page-03.png
+p03L46,3,L,46,Secret World — Hidden Gems,要画像照合,False,evidence/page-03.png
+p03R01,3,R,1,Nomadic,要画像照合,False,evidence/page-03.png
+p03R02,3,R,2,Preferred Hotels & Resorts,要画像照合,False,evidence/page-03.png
+p03R03,3,R,3,Retreats and Venues,要画像照合,False,evidence/page-03.png
+p03R04,3,R,4,Momego,要画像照合,False,evidence/page-03.png
+p03R05,3,R,5,Stockholm Archipelago Trail,要画像照合,False,evidence/page-03.png
+p03R06,3,R,6,Jettly,要画像照合,False,evidence/page-03.png
+p03R07,3,R,7,Condor,要画像照合,False,evidence/page-03.png
+p03R08,3,R,8,Campiri,要画像照合,False,evidence/page-03.png
+p03R09,3,R,9,James Villas,要画像照合,False,evidence/page-03.png
+p03R10,3,R,10,MoodTrip.Ai,要画像照合,False,evidence/page-03.png
+p03R11,3,R,11,Charge Atlas,要画像照合,False,evidence/page-03.png
+p03R12,3,R,12,Simsurf,要画像照合,False,evidence/page-03.png
+p03R13,3,R,13,Heymondo,要画像照合,False,evidence/page-03.png
+p03R14,3,R,14,TIRAVA - Taxi in Albania,要画像照合,False,evidence/page-03.png
+p03R15,3,R,15,ChillMaps: NA Drink Finder,要画像照合,False,evidence/page-03.png
+p03R16,3,R,16,Tineo,要画像照合,False,evidence/page-03.png
+p03R17,3,R,17,Radisson Hotels,要画像照合,False,evidence/page-03.png
+p03R18,3,R,18,Kingston Hotels,要画像照合,False,evidence/page-03.png
+p03R19,3,R,19,Shgiponja eSIM,要画像照合,False,evidence/page-03.png
+p03R20,3,R,20,Mitsis Hotels,要画像照合,False,evidence/page-03.png
+p03R21,3,R,21,TripCanvas,要画像照合,False,evidence/page-03.png
+p03R22,3,R,22,EF Ultimate Break,要画像照合,False,evidence/page-03.png
+p03R23,3,R,23,Simcardo Connectivity Planner,要画像照合,False,evidence/page-03.png
+p03R24,3,R,24,LINEAR Magazine,要画像照合,False,evidence/page-03.png
+p03R25,3,R,25,easyJet,要画像照合,False,evidence/page-03.png
+p03R26,3,R,26,MapQuest,要画像照合,False,evidence/page-03.png
+p03R27,3,R,27,HemmaBo,要画像照合,False,evidence/page-03.png
+p03R28,3,R,28,Alpy.com,要画像照合,False,evidence/page-03.png
+p03R29,3,R,29,sharc Travel,要画像照合,False,evidence/page-03.png
+p03R30,3,R,30,SlickTrip,要画像照合,False,evidence/page-03.png
+p03R31,3,R,31,MeranO,要画像照合,False,evidence/page-03.png
+p03R32,3,R,32,NEBLES,要画像照合,False,evidence/page-03.png
+p03R33,3,R,33,MilanMetroStatus.it,要画像照合,False,evidence/page-03.png
+p03R34,3,R,34,HOTEL ROMA MCP,要画像照合,False,evidence/page-03.png
+p03R35,3,R,35,Sobo Beaches,要画像照合,False,evidence/page-03.png
+p03R36,3,R,36,PlanYourTrip,要画像照合,False,evidence/page-03.png
+p03R37,3,R,37,Hoseasons,要画像照合,False,evidence/page-03.png
+p03R38,3,R,38,Musafir.com: Visa & Travel,要画像照合,False,evidence/page-03.png
+p03R39,3,R,39,ChooseCruise,要画像照合,False,evidence/page-03.png
+p03R40,3,R,40,HopeGoo,要画像照合,False,evidence/page-03.png
+p03R41,3,R,41,Aman,要画像照合,False,evidence/page-03.png
+p03R42,3,R,42,OPEN - what is open right now,要画像照合,False,evidence/page-03.png
+p03R43,3,R,43,Parra-Glideator,要画像照合,False,evidence/page-03.png
+p03R44,3,R,44,AgentRoam,要画像照合,False,evidence/page-03.png
+p03R45,3,R,45,HOTELS Trip & Travel Stays,要画像照合,False,evidence/page-03.png
+p03R46,3,R,46,ENUYGUN,要画像照合,False,evidence/page-03.png
+p04L01,4,L,1,The Visa Services,要画像照合,False,evidence/page-04.png
+p04L02,4,L,2,Piazza in Festa,要画像照合,False,evidence/page-04.png
+p04L03,4,L,3,pickthehotel,要画像照合,False,evidence/page-04.png
+p04L04,4,L,4,JPS — Award Search & Watch,要画像照合,False,evidence/page-04.png
+p04L05,4,L,5,The Houstonian,要画像照合,False,evidence/page-04.png
+p04L06,4,L,6,Travon,要画像照合,False,evidence/page-04.png
+p04L07,4,L,7,Parks n Paws,要画像照合,False,evidence/page-04.png
+p04L08,4,L,8,Yescapa,要画像照合,False,evidence/page-04.png
+p04L09,4,L,9,Flaut.Travel,要画像照合,False,evidence/page-04.png
+p04L10,4,L,10,billiger-mietwagen.de,要画像照合,False,evidence/page-04.png
+p04L11,4,L,11,eSIM-Global.VIP,要画像照合,False,evidence/page-04.png
+p04L12,4,L,12,Forktime,要画像照合,False,evidence/page-04.png
+p04L13,4,L,13,Airside Labs Aviation Tools,要画像照合,False,evidence/page-04.png
+p04L14,4,L,14,RegioJet,要画像照合,False,evidence/page-04.png
+p04L15,4,L,15,AHORN Hotels & Resorts,要画像照合,False,evidence/page-04.png
+p04L16,4,L,16,Adam Vacations,要画像照合,False,evidence/page-04.png
+p04L17,4,L,17,Worldschedule,要画像照合,False,evidence/page-04.png
+p04L18,4,L,18,WAS Travel Insurance,要画像照合,False,evidence/page-04.png
+p04L19,4,L,19,CatamaranSite,要画像照合,False,evidence/page-04.png
+p04L20,4,L,20,TravCozy,要画像照合,False,evidence/page-04.png
+p04L21,4,L,21,SeeyaTrip,要画像照合,False,evidence/page-04.png
+p04L22,4,L,22,Futrumi,要画像照合,False,evidence/page-04.png
+p04L23,4,L,23,Sail,要画像照合,False,evidence/page-04.png
+p04L24,4,L,24,BirdWatch,要画像照合,False,evidence/page-04.png
+p04L25,4,L,25,VroomVroomVroom - Car Hire,要画像照合,False,evidence/page-04.png
+p04L26,4,L,26,AuroraReach,要画像照合,False,evidence/page-04.png
+p04L27,4,L,27,Vacanta Romania,要画像照合,False,evidence/page-04.png
+p04L28,4,L,28,Trip Planner,要画像照合,False,evidence/page-04.png
+p04L29,4,L,29,"Trips, Made Yours.",要画像照合,False,evidence/page-04.png
+p04L30,4,L,30,Houfy,要画像照合,False,evidence/page-04.png
+p04L31,4,L,31,Zuzli,要画像照合,False,evidence/page-04.png
+p04L32,4,L,32,The Grand Hotel Collection,要画像照合,False,evidence/page-04.png
+p04L33,4,L,33,Seaclub Alcudia,要画像照合,False,evidence/page-04.png
+p04L34,4,L,34,Flight Queue,要画像照合,False,evidence/page-04.png
+p04L35,4,L,35,KoalasTrip Excursions & Trips,要画像照合,False,evidence/page-04.png
+p04L36,4,L,36,Slashtel,要画像照合,False,evidence/page-04.png
+p04L37,4,L,37,Sonar Connections,要画像照合,False,evidence/page-04.png
+p04L38,4,L,38,VIPCars.com,要画像照合,False,evidence/page-04.png
+p04L39,4,L,39,Andeor,要画像照合,False,evidence/page-04.png
+p04L40,4,L,40,StayThere,要画像照合,False,evidence/page-04.png
+p04L41,4,L,41,Movably,要画像照合,False,evidence/page-04.png
+p04L42,4,L,42,Baraglo Travel Insurance,要画像照合,False,evidence/page-04.png
+p04L43,4,L,43,Holiday Planner Assistant,要画像照合,False,evidence/page-04.png
+p04L44,4,L,44,Despegar,要画像照合,False,evidence/page-04.png
+p04L45,4,L,45,Booking Wolf,要画像照合,False,evidence/page-04.png
+p04L46,4,L,46,Smart Travel Planner,要画像照合,False,evidence/page-04.png
+p04R01,4,R,1,TripPocket,要画像照合,False,evidence/page-04.png
+p04R02,4,R,2,ride.auto,要画像照合,False,evidence/page-04.png
+p04R03,4,R,3,Holiday Autos,要画像照合,False,evidence/page-04.png
+p04R04,4,R,4,Le Bon Road Trip Planner,要画像照合,False,evidence/page-04.png
+p04R05,4,R,5,Rio Las Vegas,要画像照合,False,evidence/page-04.png
+p04R06,4,R,6,Bellhopt Concierge,要画像照合,False,evidence/page-04.png
+p04R07,4,R,7,Flightcat,要画像照合,False,evidence/page-04.png
+p04R08,4,R,8,Teemeup,要画像照合,False,evidence/page-04.png
+p04R09,4,R,9,Fridey,要画像照合,False,evidence/page-04.png
+p04R10,4,R,10,ReturnOS Hospitality Commerce,要画像照合,False,evidence/page-04.png
+p04R11,4,R,11,trip1,要画像照合,False,evidence/page-04.png
+p04R12,4,R,12,eSIMradar,要画像照合,False,evidence/page-04.png
+p04R13,4,R,13,SplashScout,要画像照合,False,evidence/page-04.png
+p04R14,4,R,14,Metro MCP,要画像照合,False,evidence/page-04.png
+p04R15,4,R,15,BookMyDestination.com,要画像照合,False,evidence/page-04.png
+p04R16,4,R,16,"K-Beauty, Spa & Hair Booking",要画像照合,False,evidence/page-04.png
+p04R17,4,R,17,Soley,要画像照合,False,evidence/page-04.png
+p04R18,4,R,18,The Peninsula,要画像照合,False,evidence/page-04.png
+p04R19,4,R,19,StayVisible,要画像照合,False,evidence/page-04.png
+p04R20,4,R,20,Instafan,要画像照合,False,evidence/page-04.png
+p04R21,4,R,21,Provue,要画像照合,False,evidence/page-04.png
+p04R22,4,R,22,Scioperi,要画像照合,False,evidence/page-04.png
+p04R23,4,R,23,Transferhood,要画像照合,False,evidence/page-04.png
+p04R24,4,R,24,BookYolo,要画像照合,False,evidence/page-04.png
+p04R25,4,R,25,Car Shipping,要画像照合,False,evidence/page-04.png
+p04R26,4,R,26,bluerails,要画像照合,False,evidence/page-04.png
+p04R27,4,R,27,Roovook,要画像照合,False,evidence/page-04.png
+p04R28,4,R,28,StayFritz,要画像照合,False,evidence/page-04.png
+p04R29,4,R,29,Westbahn,要画像照合,False,evidence/page-04.png
+p04R30,4,R,30,Ivon,要画像照合,False,evidence/page-04.png
+p04R31,4,R,31,OUIGO Espana,要画像照合,False,evidence/page-04.png
+p04R32,4,R,32,AFerry,要画像照合,False,evidence/page-04.png
+p04R33,4,R,33,DRAIV,要画像照合,False,evidence/page-04.png
+p04R34,4,R,34,Concierge Radar,要画像照合,False,evidence/page-04.png
+p04R35,4,R,35,Nieves Alaska Relocation,要画像照合,False,evidence/page-04.png
+p04R36,4,R,36,Coliving,要画像照合,False,evidence/page-04.png
+p04R37,4,R,37,FindCamp,要画像照合,False,evidence/page-04.png
+p04R38,4,R,38,Solartrip,要画像照合,False,evidence/page-04.png
+p04R39,4,R,39,Vacation Planner Pro,要画像照合,False,evidence/page-04.png
+p04R40,4,R,40,MOT Check,要画像照合,False,evidence/page-04.png
+p04R41,4,R,41,Max Eats Out,要画像照合,False,evidence/page-04.png
+p04R42,4,R,42,WonderKit,要画像照合,False,evidence/page-04.png
+p04R43,4,R,43,Kratons,要画像照合,False,evidence/page-04.png
+p04R44,4,R,44,Speed Cameras Radar,要画像照合,False,evidence/page-04.png
+p04R45,4,R,45,Gloria Palace,要画像照合,False,evidence/page-04.png
+p04R46,4,R,46,restplass.no,要画像照合,False,evidence/page-04.png
+p05L01,5,L,1,Trains on Map,要画像照合,False,evidence/page-05.png
+p05L02,5,L,2,Simcorner eSIM,要画像照合,False,evidence/page-05.png
+p05L03,5,L,3,Greenfee365,要画像照合,False,evidence/page-05.png
+p05L04,5,L,4,seats.aero,要画像照合,False,evidence/page-05.png
+p05L05,5,L,5,Slothy by CRMaps,要画像照合,False,evidence/page-05.png
+p05L06,5,L,6,Fare Deals,要画像照合,False,evidence/page-05.png
+p05L07,5,L,7,LetsPackUp,要画像照合,False,evidence/page-05.png
+p05L08,5,L,8,Cria.al,要画像照合,False,evidence/page-05.png
+p05L09,5,L,9,DayPass,要画像照合,False,evidence/page-05.png
+p05L10,5,L,10,Motion4rent,要画像照合,False,evidence/page-05.png
+p05L11,5,L,11,Gangwaze,要画像照合,False,evidence/page-05.png
+p05L12,5,L,12,Tourision,要画像照合,False,evidence/page-05.png
+p05L13,5,L,13,MigatAir,要画像照合,False,evidence/page-05.png
+p05L14,5,L,14,Mimo,要画像照合,False,evidence/page-05.png
+p05L15,5,L,15,WINGIE,要画像照合,False,evidence/page-05.png
+p05L16,5,L,16,RouteXL,要画像照合,False,evidence/page-05.png
+p05L17,5,L,17,SelectBNBs Verify,要画像照合,False,evidence/page-05.png
+p05L18,5,L,18,COooL,要画像照合,False,evidence/page-05.png
+p05L19,5,L,19,Koko,要画像照合,False,evidence/page-05.png
+p05L20,5,L,20,Psiri Vibes,要画像照合,False,evidence/page-05.png
+p05L21,5,L,21,HotelME,要画像照合,False,evidence/page-05.png
+p05L22,5,L,22,How Walkable,要画像照合,False,evidence/page-05.png
+p05L23,5,L,23,HostelHound,要画像照合,False,evidence/page-05.png
+p05L24,5,L,24,Baolau,要画像照合,False,evidence/page-05.png
+p05L25,5,L,25,FishFriender,要画像照合,False,evidence/page-05.png
+p05L26,5,L,26,NYC RSVPs,要画像照合,False,evidence/page-05.png
+p05L27,5,L,27,MTX Connect: eSIM + Travel SIM,要画像照合,False,evidence/page-05.png
+p05L28,5,L,28,Flying Fine,要画像照合,False,evidence/page-05.png
+p05L29,5,L,29,Frip,要画像照合,False,evidence/page-05.png
+p05L30,5,L,30,CarJet,要画像照合,False,evidence/page-05.png
+p05L31,5,L,31,WIZZ Link flight search,要画像照合,False,evidence/page-05.png
+p05L32,5,L,32,LalaGo,要画像照合,False,evidence/page-05.png
+p05L33,5,L,33,Over The Planet,要画像照合,False,evidence/page-05.png
+p05L34,5,L,34,Gjirafa eSIM,要画像照合,False,evidence/page-05.png
+p05L35,5,L,35,Lumina,要画像照合,False,evidence/page-05.png
+p05L36,5,L,36,EscapeStays by Luxury Lodging,要画像照合,False,evidence/page-05.png
+p05L37,5,L,37,Webcam Live,要画像照合,False,evidence/page-05.png
+p05L38,5,L,38,ate,要画像照合,False,evidence/page-05.png
+p05L39,5,L,39,CarHauler247 - Car Shipping,要画像照合,False,evidence/page-05.png
+p05L40,5,L,40,Smart Studios,要画像照合,False,evidence/page-05.png
+p05L41,5,L,41,chucho — Book Direct,要画像照合,False,evidence/page-05.png
+p05L42,5,L,42,Pilot,要画像照合,False,evidence/page-05.png
+p05L43,5,L,43,AllTheStreet,要画像照合,False,evidence/page-05.png
+p05L44,5,L,44,Adonde,要画像照合,False,evidence/page-05.png
+p05L45,5,L,45,ChauffeurFlow,要画像照合,False,evidence/page-05.png
+p05L46,5,L,46,Remap,要画像照合,False,evidence/page-05.png
+p05R01,5,R,1,AegeanBot Direct Stays,要画像照合,False,evidence/page-05.png
+p05R02,5,R,2,Visa Submission Flow,要画像照合,False,evidence/page-05.png
+p05R03,5,R,3,ELA Map,要画像照合,False,evidence/page-05.png
+p05R04,5,R,4,Easybook,要画像照合,False,evidence/page-05.png
+p05R05,5,R,5,Stymie Golf,要画像照合,False,evidence/page-05.png
+p05R06,5,R,6,Motiva,要画像照合,False,evidence/page-05.png
+p05R07,5,R,7,Flight Gate,要画像照合,False,evidence/page-05.png
+p05R08,5,R,8,Standby: Theme Park Companion,要画像照合,False,evidence/page-05.png
+p05R09,5,R,9,Hotel Liabeny,要画像照合,False,evidence/page-05.png
+p05R10,5,R,10,TrainBrain,要画像照合,False,evidence/page-05.png
+p05R11,5,R,11,OpenVan.camp Travel,要画像照合,False,evidence/page-05.png
+p05R12,5,R,12,Hotely,要画像照合,False,evidence/page-05.png
+p05R13,5,R,13,Discriminantly,要画像照合,False,evidence/page-05.png
+p05R14,5,R,14,Traveler.md,要画像照合,False,evidence/page-05.png
+p05R15,5,R,15,Spin My Day,要画像照合,False,evidence/page-05.png
+p05R16,5,R,16,Atlas Planner,要画像照合,False,evidence/page-05.png
+p05R17,5,R,17,Aisle,要画像照合,False,evidence/page-05.png
+p05R18,5,R,18,Aviasurf,要画像照合,False,evidence/page-05.png
+p05R19,5,R,19,RESTL — Table Reservations,要画像照合,False,evidence/page-05.png
+p05R20,5,R,20,HPRG Hotel Concierge,要画像照合,False,evidence/page-05.png
+p05R21,5,R,21,Singapore Airlines,要画像照合,False,evidence/page-05.png
+p05R22,5,R,22,Mom I am OK,要画像照合,False,evidence/page-05.png
+p05R23,5,R,23,Parks Open,要画像照合,False,evidence/page-05.png
+p05R24,5,R,24,OlaChill Travel,要画像照合,False,evidence/page-05.png
+p05R25,5,R,25,DoYouSpain,要画像照合,False,evidence/page-05.png
+p05R26,5,R,26,XiaoHongShu RedNote China,要画像照合,False,evidence/page-05.png
+p05R27,5,R,27,TravelYalla,要画像照合,False,evidence/page-05.png
+p05R28,5,R,28,poste — Slovenian post offices,要画像照合,False,evidence/page-05.png
+p05R29,5,R,29,Matchday Parking,要画像照合,False,evidence/page-05.png
+p05R30,5,R,30,e-eSIM,要画像照合,False,evidence/page-05.png
+p05R31,5,R,31,TripWays,要画像照合,False,evidence/page-05.png
+p05R32,5,R,32,Voyscout.com,要画像照合,False,evidence/page-05.png
+p05R33,5,R,33,swissrailways,要画像照合,False,evidence/page-05.png
+p05R34,5,R,34,Train Price Tracker,要画像照合,False,evidence/page-05.png
+p05R35,5,R,35,TomTom Maps,要画像照合,False,evidence/page-05.png
+p05R36,5,R,36,Alice Flights,要画像照合,False,evidence/page-05.png
+p05R37,5,R,37,Jade Beach Hotel,要画像照合,False,evidence/page-05.png
+p05R38,5,R,38,Localrydes,要画像照合,False,evidence/page-05.png
+p05R39,5,R,39,PopUp Surf Trips,要画像照合,False,evidence/page-05.png
+p05R40,5,R,40,Destiny Blue,要画像照合,False,evidence/page-05.png
+p05R41,5,R,41,HomeToGo - Vacation Rentals,要画像照合,False,evidence/page-05.png
+p05R42,5,R,42,Déstaire,要画像照合,False,evidence/page-05.png
+p05R43,5,R,43,FlyEthio,要画像照合,False,evidence/page-05.png
+p05R44,5,R,44,hoteldiscount24 Hotels,要画像照合,False,evidence/page-05.png
+p05R45,5,R,45,ConnectMeGuru eSIM,要画像照合,False,evidence/page-05.png
+p05R46,5,R,46,DroneClear Thailand,要画像照合,False,evidence/page-05.png
+p06L01,6,L,1,Anywhere,要画像照合,False,evidence/page-06.png
+p06L02,6,L,2,hoper,要画像照合,False,evidence/page-06.png
+p06L03,6,L,3,Tourer Travel,要画像照合,False,evidence/page-06.png
+p06L04,6,L,4,Swiss Activities,要画像照合,False,evidence/page-06.png
+p06L05,6,L,5,takt Dresden,要画像照合,False,evidence/page-06.png
+p06L06,6,L,6,Taiwan Weather Lens,要画像照合,False,evidence/page-06.png
+p06L07,6,L,7,DoYoultaly,要画像照合,False,evidence/page-06.png
+p06L08,6,L,8,MR. ALPS,要画像照合,False,evidence/page-06.png
+p06L09,6,L,9,UniAffitti Room Finder,要画像照合,False,evidence/page-06.png
+p06L10,6,L,10,DRIVR,要画像照合,False,evidence/page-06.png
+p06L11,6,L,11,Earth Roulette,要画像照合,False,evidence/page-06.png
+p06L12,6,L,12,TheFoilBuddy,要画像照合,False,evidence/page-06.png
+p06L13,6,L,13,eSIMDB,要画像照合,False,evidence/page-06.png
+p06L14,6,L,14,MR. WINDS,要画像照合,False,evidence/page-06.png
+p06L15,6,L,15,Sandals & Beaches Resorts,要画像照合,False,evidence/page-06.png
+p06L16,6,L,16,GOL,要画像照合,False,evidence/page-06.png
+p06L17,6,L,17,Stippl Travel Planner,要画像照合,False,evidence/page-06.png
+p06L18,6,L,18,333travel,要画像照合,False,evidence/page-06.png
+p06L19,6,L,19,Journey Ready,要画像照合,False,evidence/page-06.png
+p06L20,6,L,20,Flippto Visa Calculator,要画像照合,False,evidence/page-06.png
+p06L21,6,L,21,GoVola,要画像照合,False,evidence/page-06.png
+p06L22,6,L,22,SimplySIM eSIM Finder,要画像照合,False,evidence/page-06.png
+p06L23,6,L,23,Compi,要画像照合,False,evidence/page-06.png
+p06L24,6,L,24,Mappu,要画像照合,False,evidence/page-06.png
+p06L25,6,L,25,Travel Together,要画像照合,False,evidence/page-06.png
+p06L26,6,L,26,TripValise,要画像照合,False,evidence/page-06.png
+p06L27,6,L,27,Trippy Days,要画像照合,False,evidence/page-06.png
+p06L28,6,L,28,Mopingo,要画像照合,False,evidence/page-06.png
+p06L29,6,L,29,Flybest Al Travel Booking,要画像照合,False,evidence/page-06.png
+p06L30,6,L,30,Axel,要画像照合,False,evidence/page-06.png
+p06L31,6,L,31,Limbo,要画像照合,False,evidence/page-06.png
+p06L32,6,L,32,MobiMatter,要画像照合,False,evidence/page-06.png
+p06L33,6,L,33,Karta,要画像照合,False,evidence/page-06.png
+p06L34,6,L,34,Fernweh Charge,要画像照合,False,evidence/page-06.png
+p06L35,6,L,35,Dubai Table,要画像照合,False,evidence/page-06.png
+p06L36,6,L,36,Dove Living,要画像照合,False,evidence/page-06.png
+p06L37,6,L,37,Autalo car rental,要画像照合,False,evidence/page-06.png
+p06L38,6,L,38,Rent Gurus,要画像照合,False,evidence/page-06.png
+p06L39,6,L,39,MindMeal,要画像照合,False,evidence/page-06.png
+p06L40,6,L,40,Gites Holiday Search,要画像照合,False,evidence/page-06.png
+p06L41,6,L,41,Veabird Ski & Beach,要画像照合,False,evidence/page-06.png
+p06L42,6,L,42,Faralya Hotels,要画像照合,False,evidence/page-06.png
+p06L43,6,L,43,FlightSeatMap,要画像照合,False,evidence/page-06.png
+p06L44,6,L,44,Stayantra Go,要画像照合,False,evidence/page-06.png
+p06L45,6,L,45,OrderlyAl Hotel Concierge,要画像照合,False,evidence/page-06.png
+p06L46,6,L,46,Three Peaks Challenge,要画像照合,False,evidence/page-06.png
+p06L47,6,L,47,Ucak Bileti - BiletimiAl,要画像照合,False,evidence/page-06.png
+p06R01,6,R,1,WAYA flight search,要画像照合,False,evidence/page-06.png
+p06R02,6,R,2,PakBus,要画像照合,False,evidence/page-06.png
+p06R03,6,R,3,RailJournal India,要画像照合,False,evidence/page-06.png
+p06R04,6,R,4,RhoRent Car Rental Rhodes,要画像照合,False,evidence/page-06.png
+p06R05,6,R,5,Trvirr,要画像照合,False,evidence/page-06.png
+p06R06,6,R,6,TodayNYC,要画像照合,False,evidence/page-06.png
+p06R07,6,R,7,AdvenBook,要画像照合,False,evidence/page-06.png
+p06R08,6,R,8,Stayspan Schengen Days,要画像照合,False,evidence/page-06.png
+p06R09,6,R,9,Goldsainte Hotels,要画像照合,False,evidence/page-06.png
+p06R10,6,R,10,iryo,要画像照合,False,evidence/page-06.png
+p06R11,6,R,11,Thailand Dive Map,要画像照合,False,evidence/page-06.png
+p06R12,6,R,12,Zippy,要画像照合,False,evidence/page-06.png
+p06R13,6,R,13,Rental Blacklist,要画像照合,False,evidence/page-06.png
+p06R14,6,R,14,DFW International Airport,要画像照合,False,evidence/page-06.png
+p06R15,6,R,15,Nantes IA par Infotan,要画像照合,False,evidence/page-06.png
+p06R16,6,R,16,Domus Aedes,要画像照合,False,evidence/page-06.png
+p06R17,6,R,17,GOARAG,要画像照合,False,evidence/page-06.png
+p06R18,6,R,18,1Stay,要画像照合,False,evidence/page-06.png
+p06R19,6,R,19,Hotel Please,要画像照合,False,evidence/page-06.png
+p06R20,6,R,20,Jetopia: Jeju Driver Tours,要画像照合,False,evidence/page-06.png
+p06R21,6,R,21,Just Travel,要画像照合,False,evidence/page-06.png
+p06R22,6,R,22,Decolar,要画像照合,False,evidence/page-06.png
+p06R23,6,R,23,Hostizzy Villas & Farmstays,要画像照合,False,evidence/page-06.png
+p06R24,6,R,24,Real Roadies,要画像照合,False,evidence/page-06.png
+p06R25,6,R,25,VibeCrawl,要画像照合,False,evidence/page-06.png
+p06R26,6,R,26,StrandAlert,要画像照合,False,evidence/page-06.png
+p06R27,6,R,27,DholeraGIS — DholeraMaster,要画像照合,False,evidence/page-06.png
+p06R28,6,R,28,TravStar,要画像照合,False,evidence/page-06.png
+p06R29,6,R,29,Skinow,要画像照合,False,evidence/page-06.png
+p06R30,6,R,30,Family Trip Budget,要画像照合,False,evidence/page-06.png
+p06R31,6,R,31,Boatscribe,要画像照合,False,evidence/page-06.png
+p06R32,6,R,32,Swinch,要画像照合,False,evidence/page-06.png
+p06R33,6,R,33,Railwatch,要画像照合,False,evidence/page-06.png
+p06R34,6,R,34,Peskio,要画像照合,False,evidence/page-06.png
+p06R35,6,R,35,Minerva Weekend,要画像照合,False,evidence/page-06.png
+p06R36,6,R,36,TripNoted,要画像照合,False,evidence/page-06.png
+p06R37,6,R,37,GuideCompare,要画像照合,False,evidence/page-06.png
+p06R38,6,R,38,iwafu Events,要画像照合,False,evidence/page-06.png
+p06R39,6,R,39,Lalafly,要画像照合,False,evidence/page-06.png
+p06R40,6,R,40,China Footnotes,要画像照合,False,evidence/page-06.png
+p06R41,6,R,41,Camper Champ,要画像照合,False,evidence/page-06.png
+p06R42,6,R,42,a&o Hostels,要画像照合,False,evidence/page-06.png
+p06R43,6,R,43,Awayfolk,要画像照合,False,evidence/page-06.png
+p06R44,6,R,44,Extreme Wind,要画像照合,False,evidence/page-06.png
+p06R45,6,R,45,Sooperfare,要画像照合,False,evidence/page-06.png
+p06R46,6,R,46,Filinvest Hospitality,要画像照合,False,evidence/page-06.png
+p06R47,6,R,47,Klasswagen.com,要画像照合,False,evidence/page-06.png
+p07L01,7,L,1,Foyard,要画像照合,False,evidence/page-07.png
+p07L02,7,L,2,Swiss Touristy,要画像照合,False,evidence/page-07.png
+p07L03,7,L,3,Vegferd,要画像照合,False,evidence/page-07.png
+p07L04,7,L,4,BB Tokyo Stays,要画像照合,False,evidence/page-07.png
+p07L05,7,L,5,GoCycling Al,要画像照合,False,evidence/page-07.png
+p07L06,7,L,6,hostDirect,要画像照合,False,evidence/page-07.png
+p07L07,7,L,7,PrivJet,要画像照合,False,evidence/page-07.png
+p07L08,7,L,8,Roamzo - Compare eSIMs,要画像照合,False,evidence/page-07.png
+p07L09,7,L,9,Spekboom,要画像照合,False,evidence/page-07.png
+p07L10,7,L,10,wellnesshotel.guide,要画像照合,False,evidence/page-07.png
+p07L11,7,L,11,Wendily,要画像照合,False,evidence/page-07.png
+p07L12,7,L,12,Antalya Taxi App,要画像照合,False,evidence/page-07.png
+p07L13,7,L,13,PermitSnag,要画像照合,False,evidence/page-07.png
+p07L14,7,L,14,Pick the travel,要画像照合,False,evidence/page-07.png
+p07L15,7,L,15,FlightCompensations.com,要画像照合,False,evidence/page-07.png
+p07L16,7,L,16,Barcelona TaxiGo,要画像照合,False,evidence/page-07.png
+p07L17,7,L,17,GdeNaMore smestaj,要画像照合,False,evidence/page-07.png
+p07L18,7,L,18,Mandarin Beach Villa,要画像照合,False,evidence/page-07.png
+p07L19,7,L,19,Pratickets - Ucak Bileti,要画像照合,False,evidence/page-07.png
+p07L20,7,L,20,BestBus,要画像照合,False,evidence/page-07.png
+p07L21,7,L,21,cyah,要画像照合,False,evidence/page-07.png
+p07L22,7,L,22,Guidalia,要画像照合,False,evidence/page-07.png
+p07L23,7,L,23,Kosher Compass,要画像照合,False,evidence/page-07.png
+p07L24,7,L,24,Uptown101,要画像照合,False,evidence/page-07.png
+p07L25,7,L,25,Tixxly,要画像照合,False,evidence/page-07.png
+p07L26,7,L,26,Reelzy,要画像照合,False,evidence/page-07.png
+p07L27,7,L,27,Asia Odyssey Travel,要画像照合,False,evidence/page-07.png
+p07R01,7,R,1,NEU Ski Trip Planner,要画像照合,False,evidence/page-07.png
+p07R02,7,R,2,AHM Transfer,要画像照合,False,evidence/page-07.png
+p07R03,7,R,3,Be Well Packed,要画像照合,False,evidence/page-07.png
+p07R04,7,R,4,Clematis Street,要画像照合,False,evidence/page-07.png
+p07R05,7,R,5,China Guide: Travel & Shopping,要画像照合,False,evidence/page-07.png
+p07R06,7,R,6,NiceHub Transfers,要画像照合,False,evidence/page-07.png
+p07R07,7,R,7,Quibity,要画像照合,False,evidence/page-07.png
+p07R08,7,R,8,SkyAccess,要画像照合,False,evidence/page-07.png
+p07R09,7,R,9,TableGo,要画像照合,False,evidence/page-07.png
+p07R10,7,R,10,Windshield Weather,要画像照合,False,evidence/page-07.png
+p07R11,7,R,11,Hootel,要画像照合,False,evidence/page-07.png
+p07R12,7,R,12,CLICKnCRUISE,要画像照合,False,evidence/page-07.png
+p07R13,7,R,13,MyBestSim,要画像照合,False,evidence/page-07.png
+p07R14,7,R,14,Zovo VIN Recall Check,要画像照合,False,evidence/page-07.png
+p07R15,7,R,15,Bangkok Got Me,要画像照合,False,evidence/page-07.png
+p07R16,7,R,16,BookFique,要画像照合,False,evidence/page-07.png
+p07R17,7,R,17,iQuota,要画像照合,False,evidence/page-07.png
+p07R18,7,R,18,Obi,要画像照合,False,evidence/page-07.png
+p07R19,7,R,19,AlertCamp,要画像照合,False,evidence/page-07.png
+p07R20,7,R,20,Bonder,要画像照合,False,evidence/page-07.png
+p07R21,7,R,21,Flyin’ Helicopter Charter,要画像照合,False,evidence/page-07.png
+p07R22,7,R,22,Hyatus,要画像照合,False,evidence/page-07.png
+p07R23,7,R,23,Paris Cab Service,要画像照合,False,evidence/page-07.png
+p07R24,7,R,24,Airfare Brain,要画像照合,False,evidence/page-07.png
+p07R25,7,R,25,Gingerguide,要画像照合,False,evidence/page-07.png
+p07R26,7,R,26,TourMind Hotel Booking,要画像照合,False,evidence/page-07.png
+p07R27,7,R,27,HotelUse - Hotel Metasearch,要画像照合,False,evidence/page-07.png

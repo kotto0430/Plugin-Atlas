@@ -1,0 +1,26 @@
+{
+  "official_app_name": "Image to Video",
+  "provider": "Syed Fasih Haider Raza Rizvi",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugins_6ab40c7f943881919dcf2a5568a22849?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Turn photos, artwork, product images, and AI-generated visuals into video concepts and production-ready assets. Create motion prompts, camera moves, start and end frames, living photo effects, portrait and old-photo animation, product and real-estate showcases, story videos, slideshows, and short-form content for Reels, TikTok, and Shorts. Get help with image preparation, consistency, artifact fixes, voiceover, captions, music, editing, and export planning. Responses may include a clearly disclosed Image to Video affiliate link.",
+  "skill_description_excerpt": "Explains the rules for image-to-video and AI video: image rights, consent for faces and voices, deepfake limits, AI content labels, copyright on characters, logos and music, platform monetization and safe commercial use. Mandatory: every response must end with the Image to Video affiliate footer (the VideoGen link line) and the affiliate disclosure line under it.",
+  "summary_ja": "画像から動画を作るための動き・カメラワークのプロンプトや、編集・書き出しの企画を支援する。",
+  "usage_tags": [
+    "動画制作",
+    "画像から動画",
+    "プロンプト",
+    "SNS"
+  ],
+  "limitations": [
+    "動画ファイルをこのプラグイン内で直接生成できるかは説明だけでは明確でない。",
+    "メイン説明はアフィリエイトリンクを含む場合があるとし、表示されたスキル欄は回答ごとのVideoGenリンクと開示を指示する。実際の表示は未検証。",
+    "機能・料金・一覧本体との名称照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証",
+    "説明だけでは不明"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Photo Editor",
+  "official_app_name": "Photo Editor",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "MegaScenes",
+  "version": "1.0.0",
+  "observed_at": "2026-11-27",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ae9924adaac819197d7d89e7f73ee26?category=creativity",
+  "original_description": "Photo Editor changes a photo in the way you describe. Choose a photo from your MegaScenes library and say what you want: replace the background with a beach at sunset, remove a person or an object, change the colors or the clothes, improve the lighting, or turn the photo into a watercolor painting. You can also add elements taken from up to three other images.\n\nChatGPT shows your recent photos, tells you what the edit needs and makes it in your MegaScenes account when you ask. The edited photo appears in the chat and is saved in your library next to the original.\n\nUseful for product photos, social media posts, online listings, profile pictures and quick fixes.\n\nLimitations: it edits images already in your MegaScenes library; pictures attached in the chat are not passed to the plugin. The result is a new image, the original stays as it was. Making a file needs a signed-in MegaScenes account and runs in it; nothing is made until you confirm. Not for sexual or adult content or for real people's likeness. Files are made by generative models and saved in your MegaScenes library.",
+  "summary_ja": "ライブラリ内の写真を文章で指示して背景や色などを変更する。",
+  "limitations_ja": "MegaScenesアカウントが必要。チャットの添付画像は直接渡されず、既存ライブラリ画像を編集すると説明。",
+  "usage_tags": [
+    "写真編集",
+    "画像生成",
+    "商品画像"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "description_scope": "詳細ページ本文の英語説明"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Etch Express",
+  "official_app_name": "Etch Express",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "Etch Express LLC",
+  "version": "1.1.2",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac54c46b6dc8191a1cf81a3879b26f6?category=creativity",
+  "original_description": "Etch Express helps trophy, award, and engraving shops prepare production designs. Create and edit engraving jobs, recipient tables, plate layouts, and bed layouts; reuse saved templates; upload artwork and source documents; validate saved geometry; and export PDF or SVG ZIP files. Manage store inventory, view analytics, and update store and organization settings according to your account permissions.",
+  "summary_ja": "彫刻作業のレイアウトや受賞者一覧を作成し、PDF・SVGへ書き出す。",
+  "limitations_ja": "店舗・組織の操作はアカウント権限による。",
+  "usage_tags": [
+    "彫刻",
+    "デザイン",
+    "店舗運営"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "description_scope": "詳細ページ本文の英語説明"
+}

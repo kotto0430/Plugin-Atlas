@@ -1,0 +1,24 @@
+{
+  "official_app_name": "LogoGenic Image Generator",
+  "provider": "Pyxl",
+  "version": "2.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_697248cb2b7c819185ed882ecee6b3ef?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Enter a description, select a style or format, and generate images in different sizes. The app is useful for designers, developers, content creators, and anyone who needs visuals without manual drawing.\n\nGenerated images can be used for presentations, mockups, social media, or inspiration.",
+  "summary_ja": "説明とスタイル・形式を指定し、プレゼンやSNSなどに使う画像を生成する。",
+  "usage_tags": [
+    "画像生成",
+    "プレゼン",
+    "SNS",
+    "モックアップ"
+  ],
+  "limitations": [
+    "ロゴ専用機能や編集可能な形式は説明だけでは不明。",
+    "実動作・料金・一覧本体との名称照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証",
+    "説明だけでは不明"
+  ]
+}

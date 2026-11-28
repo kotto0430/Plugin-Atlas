@@ -1,0 +1,25 @@
+{
+  "name": "Clout",
+  "official_app_name": "Clout",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "Isometric Labs LLC",
+  "version": "0.1.11",
+  "observed_at": "2026-11-27",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ad1a66739208191b8ac4ebc3ed3b04a?category=creativity",
+  "original_description": "Bring your Clout creative workspace into the conversation. Create realistic images, build a consistent AI influencer, turn your products into UGC and marketing content, generate videos and lip sync, or plan faceless stories and cinematic sequences. Explore available models and templates, reuse saved characters and product references, review your creative plans, and follow generation progress until your results are ready. Connect your Clout workspace with OAuth to access your own assets and creative tools.",
+  "summary_ja": "画像・動画やAIインフルエンサー、商品向け広告素材を作る。",
+  "limitations_ja": "自身の素材とツールへのアクセスにはCloutワークスペースのOAuth接続が必要。",
+  "usage_tags": [
+    "画像生成",
+    "動画",
+    "広告"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "description_scope": "詳細ページ本文の英語説明"
+}

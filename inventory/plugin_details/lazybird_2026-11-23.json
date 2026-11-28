@@ -1,0 +1,23 @@
+{
+  "official_app_name": "Lazybird",
+  "provider": "Lazybird",
+  "version": "2.1.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ad20673832c81918d11429d57b7b062?category=creativity",
+  "observed_at": "2026-11-23",
+  "original_description": "Turn scripts into ready-to-use voiceover MP3s and videos without leaving ChatGPT. Write or polish your script with ChatGPT, then ask Lazybird to read it aloud: you get an audio player in the chat and an MP3 you can download and drop into your video, podcast, ad, audiobook or course.\n\nWhat you can do:\n• Find the right voice by describing it (\"a calm British narrator for a nature documentary\"). Lazybird searches 500+ voices in 150+ languages and accents, plus the voices in your own library, including your cloned voices.\n• Generate speech from any text with the voice you picked, adjusting the speaking speed or the language and accent.\n• Design a brand-new voice from a description (\"a raspy, ancient wizard with a slow, mysterious delivery\"), listen to the sample, and save it to your Lazybird library to reuse in ChatGPT or in Lazybird Studio.\n• Build a video project with voiceover blocks, pictures, video clips, music and text, then export it as an MP4 or MOV, or as audio or a transcript.\n• Share a link to a project, or to its finished file, with anyone.\n• Check how many characters you have left.\n\nConnect your Lazybird account the first time you use it. Lazybird can't see your password, payment details or API keys, and you can disconnect ChatGPT any time in Lazybird Settings → Connected apps.",
+  "summary_ja": "台本からナレーション音声や動画プロジェクトを作る。",
+  "usage_tags": [
+    "音声生成",
+    "動画制作",
+    "ナレーション"
+  ],
+  "limitations": [
+    "初回利用時にLazybirdアカウントを接続する。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証",
+    "説明だけでは不明"
+  ]
+}

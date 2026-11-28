@@ -1,0 +1,25 @@
+{
+  "name": "GHEM",
+  "category": "Creativity",
+  "provider": "GHEM",
+  "version": "1.0.0",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac0f79d3bc08191942813c0b3af9923?category=creativity",
+  "original_description": "GHEM helps creators and businesses produce product images and videos from written descriptions and visual references. Connect your GHEM account, choose a supported model and settings, approve each generation, and view or save the result. Upload reference files, reuse named products and characters, and organize your work into projects. Reference files must be selected in the GHEM upload view or imported from a supported direct HTTPS link; the plugin does not automatically access chat attachments.",
+  "summary_ja": "文章や参考画像から商品画像・動画を生成し、プロジェクトで管理する。",
+  "limitations_ja": "GHEMアカウントを接続する。参考ファイルは専用画面または対応する直接HTTPSリンクから取り込み、チャット添付を自動取得しない。",
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "GHEM",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "商品画像",
+    "画像生成",
+    "動画制作"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}

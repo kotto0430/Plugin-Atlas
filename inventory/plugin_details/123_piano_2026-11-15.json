@@ -1,0 +1,21 @@
+{
+  "official_app_name": "123 Piano",
+  "provider": "Spheric Admin Ltd",
+  "version": "2.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_69b9470f766c8191bec961ec81a54b96?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "An easy fun way to play the piano/keyboard in ChatGPT and discuss your performance with the AI!\ne.g.\n• \"@123 Piano I want to play a piano\"\n• \"@123 Piano Give me a piano to play chopsticks\"\n• \"@123 Piano Show me a piano to play a tune I made up\"",
+  "summary_ja": "ChatGPT内で鍵盤を演奏し、演奏についてAIと話す。",
+  "usage_tags": [
+    "音楽",
+    "ピアノ",
+    "学習"
+  ],
+  "limitations": [
+    "演奏判定の精度や入力機器の対応、料金は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

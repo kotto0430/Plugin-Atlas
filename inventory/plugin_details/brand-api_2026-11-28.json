@@ -1,0 +1,25 @@
+{
+  "official_app_name": "Brand API",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "Taste Labs",
+  "version": "0.1.0",
+  "observed_at": "2026-11-28",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ae7cd264d5c8191a74da44e4def4004?category=creativity",
+  "original_description": "Brand API turns a website URL into a structured brand system: colors, typography, layout and components, plus the captured HTML, CSS and screenshots. Search a curated corpus of brand sites by aesthetic, build new pages inside an existing brand, and score how closely a page follows it. Ships with three skills: brand-search, taste-director and brand-adherence.",
+  "original_description_language": "英語",
+  "description_scope": "詳細ページの説明本文",
+  "summary_ja": "ウェブサイトのブランド要素を抽出し、デザイン参考検索や既存ブランドへの適合確認を支援する。",
+  "usage_tags": [
+    "ブランド",
+    "ウェブデザイン",
+    "デザイン参考資料"
+  ],
+  "limitations_ja": "スキルによりシェル・書き込み可能な作業ディレクトリや操作可能なブラウザが必要と説明。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Framesurfer",
+  "category": "Creativity",
+  "provider": "Framesurfer",
+  "version": "1.0.1",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac11222450c81919820b574674e42bf?category=creativity",
+  "original_description": "Framesurfer makes AI media from a description, right in the chat.\n\nPictures: make an AI picture from words, or change a picture Framesurfer made or one the user attaches. Pictures are saved in the user's Framesurfer library, ready to turn into a video clip.\n\nVideo clips: make a short video clip of a single shot, with sound, from words or starting from a picture.\n\nMusic: make an instrumental music track.\n\nFramesurfer returns a link to each finished file. It asks before every generation step and runs it only after the user agrees. It requires a Framesurfer account.\n\nFor creators, marketers and small businesses who want visuals, clips and music for social media, ads and presentations.\n\nLimitations: one video clip is made at a time per account; clips are short single shots; Framesurfer does not post to social platforms; and it does not depict real people without their consent.",
+  "summary_ja": "文章や画像から画像・短い動画・楽曲を作る。",
+  "limitations_ja": "アカウントが必要。動画は短い単一ショットで、同時に作成できるのはアカウントごとに1本。SNS投稿には非対応。",
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "official_app_name": "Framesurfer",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "画像生成",
+    "動画生成",
+    "音楽制作"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}

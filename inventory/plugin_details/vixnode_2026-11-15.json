@@ -1,0 +1,22 @@
+{
+  "official_app_name": "VIXNODE",
+  "provider": "STAR META INNOVATION TECHNOLOGY LTD.",
+  "version": "3.5.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_69b4222b08148191a1473ac4c9170ad9?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Connect your VIXNODE account to plan, design, create and manage websites in ChatGPT. Work with projects, pages, drafts, previews, domains, SEO, media and publication. Use reusable industry, style, color and multilingual typography guidance with immersive spatial design resources. Test and manage project API data sources, review actual data and field Display Names before saving, and generate task-specific webpage bindings or form calls.",
+  "summary_ja": "VIXNODEと連携してウェブサイトの制作・編集・プレビュー・公開を管理する。",
+  "usage_tags": [
+    "ウェブサイト制作",
+    "SEO",
+    "サイト管理"
+  ],
+  "limitations": [
+    "VIXNODEアカウントの連携が必要と説明。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

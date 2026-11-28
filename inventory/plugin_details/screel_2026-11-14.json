@@ -1,0 +1,26 @@
+{
+  "name": "Screel",
+  "provider": "Xlab Digital llc",
+  "version": "2.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a6375f9e5288191b1f6ad81ba4253e3?category=creativity",
+  "developer_url": "https://screel.ai/",
+  "original_description": "Screel turns an idea into a finished video without leaving the chat. Describe what you want and Screel builds a project as a sequence of scenes: it writes the storyboard, generates a still image for every scene, and can animate scenes into clips, add AI voiceover narration and background music, and render everything into a shareable video. Reference documents keep your characters, props, products and places consistent from scene to scene, whether they start from an uploaded photo or a picture made in the chat. Consecutive scenes can be derived from one another and animated with an end frame, so one action flows from clip to clip. Clips are generated at a low-cost draft resolution by default, with higher tiers available when you ask. Live widgets show the storyboard, job progress and the final player inline, and every project stays open in the Screel web app for timeline trimming, document editing and collaboration.",
+  "summary_ja": "シーンごとの絵コンテや静止画を基に動画を制作し、音声や音楽も追加する。",
+  "usage_tags": [
+    "動画制作",
+    "絵コンテ",
+    "ナレーション"
+  ],
+  "limitations_ja": "クリップは既定で低コストの下書き解像度、高い等級も指定できると説明。料金や品質は未検証。",
+  "official_app_name": "Screel",
+  "official_name_basis": "ChatGPTのプラグイン詳細画面に表示された名称",
+  "category": "Creativity",
+  "observed_at": "2026-11-14",
+  "description_scope": "ChatGPT詳細画面の提供元の英語説明。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "詳細画面の説明と情報欄を確認。実機能、料金、品質は未検証。",
+  "catalog_status": "一覧本体との名称照合は未確認。同名・別名の同一性は未確認。"
+}

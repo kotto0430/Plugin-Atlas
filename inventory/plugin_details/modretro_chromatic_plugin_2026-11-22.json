@@ -1,0 +1,23 @@
+{
+  "official_app_name": "ModRetro Chromatic Plugin",
+  "provider": "ModRetro",
+  "version": "1.0.34+codex.distribution.5efb7a8c2b1207f93f2a673a",
+  "source_url": "https://chatgpt.com/plugins/plugins_6abb3f473abc8191b8e4cebb3954e2b9?search=ModRetro+Chromatic+Plugin",
+  "observed_at": "2026-11-22",
+  "original_description": "Make your own games for ModRetro Chromatic, directly in Codex. Turn your ideas into playable adventures. Create worlds, design characters and pixel art, write dialogue, and test your game as it takes shape.\n\nWhen you're ready, flash your game to the compatible ModRetro Chromatic Game Cartridge. Then pick up your Chromatic and play what you created. Built on GB Studio and the Chromatic Firmware Updater, the plugin creates Game Boy and Game Boy Color games that remain fully editable in GB Studio.\n\nCartridge activation keys are exclusive to the ModRetro Chromatic: Codex Edition. Each activation key is limited to two devices.",
+  "summary_ja": "CodexでChromatic向けゲームを制作し、対応カートリッジへの書き込みを支援。",
+  "usage_tags": [
+    "ゲーム制作",
+    "プログラミング",
+    "ピクセルアート",
+    "レトロゲーム"
+  ],
+  "limitations": [
+    "カートリッジのアクティベーションキーはModRetro Chromatic: Codex Edition限定で、各キーは2台までと説明。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

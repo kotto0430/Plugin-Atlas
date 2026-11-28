@@ -1,0 +1,25 @@
+{
+  "name": "VideoDB",
+  "official_app_name": "VideoDB",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "VideoDB",
+  "version": "1.0.0",
+  "observed_at": "2026-11-27",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ae0a16ab548819199bfec2ff4dfb2cc?category=creativity",
+  "original_description": "VideoDB lets you edit and clip videos, transcribe speech, add subtitles, and search or analyse what’s said and shown. Import videos from URLs or connect live streams. Get timestamped answers, playable clips, and shareable links.\n\nVideo Editing & Highlights\n- Trim and cut videos; extract precise clips.\n- Stitch clips into montages, highlight reels, or compilations.\n- Render timelines, reframe for Shorts/Reels, and stream results.\n- Try: \"Create a 30-second highlight reel from this video.\"\n\nTranscription, Captions & Subtitles\n- Transcribe speech into timestamped text.\n- Retrieve transcripts, find spoken moments, and add burned-in subtitles.\n- Try: \"Transcribe this video and add captions.\"\n\nVisual Video Analysis & Understanding\n- Analyse scenes, objects, people, actions, activities, and events.\n- Describe and summarise what happens visually, even without speech.\n- Answer questions about footage with supporting video moments.\n- Try: \"Watch this video and explain what happens on screen.\"\n\nSemantic Video Search\n- Search long recordings and video libraries using natural language.\n- Find visual events or spoken phrases and retrieve exact moments as playable clips.\n- Try: \"Find every time someone picks up a red object.\"\n\nLive Video & Camera Monitoring\n- Connect RTSP feeds for continuous visual analysis and indexing.\n- Detect events and trigger real-time alerts.\n- Try: \"Alert me when someone enters this camera feed.\"\n\nConnect your VideoDB account to get started.",
+  "summary_ja": "動画の切り抜き・字幕付け・文字起こしや、映像内容の検索と分析を行う。",
+  "limitations_ja": "VideoDBアカウントの接続が必要。機能と精度は未検証。",
+  "usage_tags": [
+    "動画編集",
+    "文字起こし",
+    "動画検索"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "description_scope": "詳細ページ本文の英語説明"
+}

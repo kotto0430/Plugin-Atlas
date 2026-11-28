@@ -1,0 +1,23 @@
+{
+  "official_app_name": "QuickStage",
+  "provider": "QuickStage",
+  "version": "0.2.5",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6abe6627403481919c31706d1b96cd7b?category=creativity",
+  "observed_at": "2026-11-23",
+  "original_description": "Turn property photos into furnished listing images with QuickStage. Choose Quick for concise help or Take my time for guided choices. Start with interiors, exteriors or both, and see all compatible styles with plain-English descriptions and sample previews before choosing.\n\nUpload one photo or a batch, choose one style throughout or pick styles by room, and approve one clear plan with the total allowance use. Empty-room photos work best; existing furnishings may change. Each image is staged independently, so different angles may contain different furniture. Exterior treatments include Curb Appeal and Twilight.\n\nFor a completed interior photo staged through this integration, describe a furnishing correction in plain language with QuickFix. Your agent identifies the photo, explains the separate QuickFix use and asks for confirmation when needed.\n\nAfter staging, your agent can make a separate resized JPEG for your MLS and add a \"Virtually Staged\" or \"Digitally Altered\" label, without using staging credits or QuickFixes. It shares the source-dated destination guidance it has, keeps your full-size result unchanged, and does not certify compliance.\n\nRequires existing QuickStage.io credits or an active QuickStage.io subscription. Connect with the email linked to your credits. Your agent names the connected email, checks its staging and QuickFix balances available here, and confirms the photo plan and use of one staging credit per photo before starting. Purchases and billing changes are not supported here.\n\nReview the original and generated image before use, and disclose virtual staging as required by your listing rules. QuickStage does not guarantee exact image accuracy, certify MLS compliance or publish listings.",
+  "summary_ja": "物件写真に家具や装飾を仮想配置する。",
+  "usage_tags": [
+    "不動産",
+    "画像編集"
+  ],
+  "limitations": [
+    "既存クレジットまたは有効な契約が必要で、写真1枚ごとにステージング枠を使う。",
+    "画像の完全な正確性やMLS準拠を保証せず、物件の掲載も行わない。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証",
+    "説明だけでは不明"
+  ]
+}

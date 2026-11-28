@@ -1,0 +1,23 @@
+{
+  "official_app_name": "VoiceLabs",
+  "provider": "14930398 Canada Inc.",
+  "version": "1.0.1",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a7ae345f2dc8191bd52864d8358632a?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "VoiceLabs is a browser-based voice studio for text-to-speech and transcription. The VoiceLabs plugin lets ChatGPT work with your voice library directly: list the voice profiles on your account, provision a built-in preset voice when one is missing, generate spoken audio from text, transcribe an audio clip to text, browse your saved captures, and check the status of a generation you started earlier.\n\nAccess is granted through OAuth 2.1 with a consent screen that shows exactly which scopes you are approving: voice:read for browsing your library, voice:generate for producing audio and transcripts. You can revoke a connection at any time from Connected Apps in the VoiceLabs app, which invalidates both the stored consent and any live access tokens. Voice cloning is deliberately excluded from this surface. The plugin can only provision VoiceLabs' own preset voices, because uploading samples of a real person's voice requires a consent an agent cannot hold on your behalf.\n\nGenerated audio is returned as a short-lived signed link rather than a permanent public URL, and every tool call is recorded on the account's audit trail with its outcome.",
+  "summary_ja": "VoiceLabsの音声ライブラリを使い、文章の読み上げ音声を作ったり音声を文字起こししたりする。",
+  "usage_tags": [
+    "音声合成",
+    "文字起こし",
+    "ナレーション"
+  ],
+  "limitations": [
+    "このプラグインでは声のクローン作成は対象外で、用意する声は提供元のプリセットに限られると説明。",
+    "生成音声は期限の短い署名付きリンクで返ると説明。",
+    "実動作・料金・対応言語・一覧本体との名称照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

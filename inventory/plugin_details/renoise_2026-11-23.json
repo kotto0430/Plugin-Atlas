@@ -1,0 +1,22 @@
+{
+  "official_app_name": "Renoise",
+  "provider": "Renoise",
+  "version": "1.10.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ad1c79119f88191bdb7b25a87f97e8b?category=creativity",
+  "observed_at": "2026-11-23",
+  "original_description": "Renoise turns a brief into finished AI video, images and music without leaving the conversation.\n\nWhat you can do:\n- Describe a product ad, UGC clip, short story or brand film; Renoise plans the shots, picks a suitable model and shows the cost estimate before anything is generated.\n- Upload product photos or reference clips in the chat and use them as references or first frames.\n- Start from a ready-made template and make one like it with your own image.\n- Analyze an uploaded video or image: scenes, camera, style, dialogue and music.\n- Follow progress on task cards and watch or download the results in a player in the chat.\n\nWho it is for: e-commerce sellers, marketers, agencies and creators who need short-form video.\n\nLimits: you need a Renoise account; you sign in with OAuth. Generation and analysis use the credits already in your Renoise account, and every generation is shown with its estimate before it is submitted. The plugin cannot buy credits, delete anything, or edit footage with a timeline; finished results stay in your Renoise library.",
+  "summary_ja": "広告や短編などの動画・画像・音楽の生成と素材分析を支援する。",
+  "usage_tags": [
+    "動画制作",
+    "広告",
+    "画像生成"
+  ],
+  "limitations": [
+    "Renoiseアカウントが必要。生成と分析にはクレジットを使用する。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

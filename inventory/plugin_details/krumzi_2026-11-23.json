@@ -1,0 +1,24 @@
+{
+  "name": "Krumzi",
+  "category": "Creativity",
+  "provider": "ACT Software Solutions S.R.L",
+  "version": "0.1.2",
+  "observed_at": "2026-11-23",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac4fa43275c8191a57a7a2c6d132e9d?category=creativity",
+  "original_description": "Create editable social media graphics from a description. Make an Instagram post, turn supplied content into an Instagram or LinkedIn carousel, or design a YouTube thumbnail, flyer or banner.\n\nUse your Krumzi brand colors, fonts and logo. Find saved designs, refine their text and layout, generate images to use in a design, and open the result in Krumzi to edit individual layers.\n\nSave the displayed preview as a JPG, or export single-image designs as PNG, JPG, WebP or PDF. Carousels and multipage documents export through this connection as individual JPG pages. Their previews show the combined design. Standalone AI images are raster assets. Preview and export links are accessible to anyone who has the URL.\n\nConnect an existing Krumzi account with access to the design tools. Krumzi accounts require users to be 18 or older. AI generation and edits use your account's credits; previews and exports can use trial render allowances. This connection supports still images, carousels and documents; it does not create videos, publish or schedule social posts, or manage billing.",
+  "summary_ja": "SNS用の編集可能な画像やカルーセルを作成・出力する。",
+  "limitations_ja": "18歳以上の既存アカウントが必要。生成・編集にクレジットを使用。プレビューと出力のリンクはURLを知る人がアクセスできる。",
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "Krumzi",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "SNS",
+    "デザイン"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}

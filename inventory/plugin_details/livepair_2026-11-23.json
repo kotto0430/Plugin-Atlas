@@ -1,0 +1,21 @@
+{
+  "official_app_name": "LivePair",
+  "provider": "Livepairai",
+  "version": "0.1.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac43522108881919ea475040323d6f0?category=creativity",
+  "observed_at": "2026-11-23",
+  "original_description": "LivePair's prompt library — search prompts that are tested against real models, see the exact instruction and the output it produced, copy variations, and open any prompt in the LivePair studio to run it yourself. Search image and video prompts by style, subject, or model. Every prompt shows the result it actually generated, plus variants of the same base prompt with different outcomes.",
+  "summary_ja": "画像・動画生成のプロンプトとその生成例を検索する。",
+  "usage_tags": [
+    "プロンプト",
+    "画像生成",
+    "動画生成"
+  ],
+  "limitations": [
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "official_app_name": "WFI — WhatFontIs",
+  "provider": "WHATFONTIS COM SRL",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6abbbb8acf54819199238a1c97b5ed2c?category=creativity",
+  "observed_at": "2026-11-23",
+  "original_description": "Identify fonts from screenshots and images with WhatFontIs. Compare matching fonts, preview uppercase letters, lowercase letters and numbers, and open font information pages. Results include available source and license-category information. Matches are suggestions, not a guarantee of the original font.",
+  "summary_ja": "画像から似たフォントの候補を探す。",
+  "usage_tags": [
+    "フォント",
+    "デザイン"
+  ],
+  "limitations": [
+    "候補の提示であり元のフォントを保証しない。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証",
+    "説明だけでは不明"
+  ]
+}

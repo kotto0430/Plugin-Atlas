@@ -1,0 +1,22 @@
+{
+  "official_app_name": "Tattoos Wizard",
+  "provider": "Tattoos Wizard UG",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ab6816fca1481919550bef4b64fd02e?search=Tattoos+Wizard",
+  "observed_at": "2026-11-22",
+  "original_description": "Tattoos Wizard helps people plan a tattoo before they book. Estimate what a tattoo typically costs at studios in 618 cities by size, level of detail and colour; find real tattoo artists and studios from the Tattoos Wizard directory (10,000+) by style and city, with portfolio images and profile links; and find practical guides on aftercare, healing, pain by placement, cost and styles. No account is needed, and every tool only reads public Tattoos Wizard data.",
+  "summary_ja": "タトゥーの料金目安や彫師、スタジオ、ケア情報を探す。",
+  "usage_tags": [
+    "タトゥー",
+    "店舗検索",
+    "料金調査"
+  ],
+  "limitations": [
+    "掲載情報は618都市、ディレクトリは10,000件以上と説明。アカウント不要。",
+    "実動作・価格の正確性・対象地域・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

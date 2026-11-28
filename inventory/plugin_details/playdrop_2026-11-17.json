@@ -1,0 +1,23 @@
+{
+  "official_app_name": "PlayDrop",
+  "provider": "PlayDrop Inc.",
+  "version": "1.1.2",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac1864f175481919d6b35b31fec47f8?category=creativity",
+  "observed_at": "2026-11-17",
+  "original_description": "Make and improve browser games with your coding agent, then bring them to PlayDrop. Upload your game and its complete listing, playtest a private draft, and publish the version you tested as unlisted or public. Players open your link on the web and in PlayDrop's iOS, Android, Windows and macOS apps.\nOpen Your games from the sidebar and compare Live and Draft beside your conversation. Use PlayDrop review feedback to improve your game and listing for distribution. Discovery eligibility depends on the game review; placement is not guaranteed.\nYour source code stays in your own project. Games created in PlayDrop Studio open on the PlayDrop website. Local development uses the PlayDrop Dev page in a compatible browser.\nA PlayDrop account is required.",
+  "summary_ja": "ブラウザーゲームの制作、非公開テスト、限定公開や一般公開を支援。",
+  "usage_tags": [
+    "ゲーム制作",
+    "プログラミング",
+    "公開",
+    "テスト"
+  ],
+  "limitations": [
+    "PlayDropアカウントが必要。掲載・発見の対象となるかは審査によると説明。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

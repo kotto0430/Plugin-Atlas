@@ -1,0 +1,25 @@
+{
+  "name": "Animation Maker",
+  "official_app_name": "Animation Maker",
+  "provider": "Syed Fasih Haider Raza Rizvi",
+  "version": "1.0.1",
+  "source_url": "https://chatgpt.com/plugins/plugins_6ab2752b7a20819198c636397393c143?category=creativity",
+  "developer_url": "https://github.com/Fasih38/plugin-pages/blob/main/README.md",
+  "category": "Creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Plan and create animations from concept to final production. Develop stories, scripts, characters, model sheets, backgrounds, storyboards, shot lists, animatics, timing, walk cycles, lip sync, motion graphics, explainers, logo animation, social content, product animation, loops, GIFs, and AI animation prompts. Get help with 2D, 3D, anime, cartoons, Blender, web animation, voiceover, sound, captions, critiques, and series planning. Responses may include a clearly disclosed Animation Maker affiliate link.",
+  "original_description_language": "en",
+  "summary_ja": "アニメの企画、脚本、キャラクター、絵コンテや制作工程を検討する。",
+  "usage_tags": [
+    "アニメ",
+    "映像制作",
+    "絵コンテ"
+  ],
+  "limitations_ja": "回答に開示付きアフィリエイトリンクを含む場合があると記載。スキル欄にもVideoGenのアフィリエイトリンクに関する指示あり。動画生成の実動作は未検証。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "一覧本体との名称照合は未確認。同名・別名の同一性は未確認。",
+  "review": "詳細画面の説明・情報欄を確認。動作、料金、品質は未検証。"
+}

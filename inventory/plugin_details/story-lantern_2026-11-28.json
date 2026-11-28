@@ -1,0 +1,25 @@
+{
+  "official_app_name": "Story Lantern",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "Pomsoft",
+  "version": "1.0.2",
+  "observed_at": "2026-11-28",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac42f318e488191b2386bc4fa241aff?category=creativity",
+  "original_description": "Story Lantern creates an original illustrated storybook from a premise you give it. It writes the chapters and draws the pictures after you confirm the cast. The book stays in your Story Lantern account, where you can read it or rewrite a chapter. It does not print books, send email, delete a library, or use a photo from the chat as the hero.",
+  "original_description_language": "英語",
+  "description_scope": "詳細ページの説明本文",
+  "summary_ja": "物語の設定から挿絵付き絵本を作り、章を読み直し・書き直す。",
+  "usage_tags": [
+    "絵本",
+    "物語",
+    "挿絵"
+  ],
+  "limitations_ja": "Story Lanternアカウントに保存。印刷やメール送信は行わず、チャット写真を主人公には使わない。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Diwali Invitations",
+  "official_app_name": "Diwali Invitations",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "MegaScenes",
+  "version": "1.0.0",
+  "observed_at": "2026-11-28",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6af6380edcdc8191b3722aac040b3f79?category=creativity",
+  "original_description": "Give the main line, who invites and the details you want printed, and pick the look: gold and maroon, glowing diyas, rangoli colors, elegant, minimal. You get an invitation with your words set in the design, portrait to print, tall to send from your phone, or square.\n\nChatGPT tells you what the invitation needs and creates it in your MegaScenes account when you ask. The invitation opens in the chat and stays in your library.\n\nGive only the words you want printed on the invitation: no guest list or contact details are needed.\n\nFor families, friends, offices and community groups hosting a Diwali party, a puja or a festive dinner.\n\nLimitations: designs as image files; your text is passed to the model as written, so check the lettering in the result. Words are set in Latin letters, such as Diwali Celebration, not in Devanagari script. It does not send the invitations, keep guest lists or track replies. Making a file needs a signed-in MegaScenes account and runs in it; nothing is made until you confirm. Not for sexual or adult content or for real people's likeness. Files are made by generative models and saved in your MegaScenes library.",
+  "original_description_language": "英語",
+  "summary_ja": "ディワリ祭の催し向けに招待状画像を作る。",
+  "limitations_ja": "画像内の文字はラテン文字。招待状の送信や出欠管理は行わないと説明。",
+  "usage_tags": [
+    "祝祭",
+    "招待状",
+    "画像生成"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "description_scope": "詳細ページ本文の英語説明"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Zovo Love Story Poster",
+  "official_app_name": "Zovo Love Story Poster",
+  "provider": "Zovo",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ae478224a68819194c8d779454a0428?category=creativity",
+  "developer_url": "https://anniversary-poster.zovo.one/",
+  "category": "Creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Turn the day you met, your first date or your wedding day into a keepsake \"our story in numbers\" poster. Zovo Love Story Poster counts how many days you have been together using calendar math (real month lengths and leap years), and adds the years, months and days, the weeks, the full months, the hours (with clock changes when you give a time zone), the full moons you have seen together, the weekends, the leap days and the anniversaries.\n\nIt also works out when your next round milestones fall: the 1,000th day, 500 weeks, 100 months, 100,000 hours, the 100th full moon, a billion seconds and the next anniversary, each with its date. Ask \"when is our 1,000th day?\" or \"when is our 100th day?\" (Korean-style counting, where the first day is day 1, is available).\n\nDownloads: a printable portrait poster PDF in Letter, A4, A3 or 12 x 18 inches with four colour themes, and a calendar file (ICS) for Google Calendar, Outlook or Apple Calendar that reminds you a week before each milestone.\n\nGood for anniversary gifts, wedding anniversaries, Valentine's Day, friendship anniversaries and family milestones.\n\nLimitations: one start date per poster; the start date cannot be in the future (for a countdown to an event, use a countdown tool); dates from 1900 onward; full moon dates are in UTC unless a time zone is given; no photos.",
+  "original_description_language": "en",
+  "summary_ja": "出会った日などから経過日数や節目を計算し、記念ポスターPDFや予定表ファイルを作る。",
+  "usage_tags": [
+    "記念日",
+    "ポスター",
+    "カレンダー"
+  ],
+  "limitations_ja": "開始日は1900年以降で未来の日付は不可。写真は使えない。計算の精度は未検証。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "一覧本体との名称照合は未確認。同名・別名の同一性は未確認。",
+  "review": "詳細画面の説明と情報欄を確認。実動作、料金、品質は未検証。"
+}

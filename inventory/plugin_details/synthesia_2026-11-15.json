@@ -1,0 +1,24 @@
+{
+  "official_app_name": "Synthesia",
+  "provider": "Synthesia",
+  "version": "1.3.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a6c6ebc8f74819197497c772358751b?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Create Synthesia videos from ChatGPT.\n\nYou already write scripts and plan content in ChatGPT. Now the video happens here too. Describe what you need, like a product launch, an explainer or a team update, or paste a script or attach a deck, PDF or image. Synthesia Syren builds the whole video: script, visuals, motion graphics, music and an AI presenter if you want one. If your brief leaves a choice open, Syren asks a quick question.\n\nWatch it appear: your video plays right in the chat. Works in the ChatGPT mobile app too, so you can make and review videos on the go.\n\nKeep it on brand: attach your logo or brand assets, or describe the look you want, and Syren uses them to style your video.\n\nFix it by asking: \"tighten the intro\", \"make it moodier\", \"swap the second scene\", and Syren updates the same video.\n\nShare it: publish to a Share page and get a link anyone can watch, or export an MP4.\n\nMake it part of your workflow. Turn notes from a sales call into a 60-second recap, this week's updates into a Friday video for the team, or a release's changelog into a launch explainer. Anything already in the chat can go into your video, including results from your other ChatGPT apps.\n\nSyren is in beta, makes videos up to 3 minutes long and uses your Synthesia credits. Want a classic Synthesia video with your template or brand kit? Just ask. Requires a Synthesia account.",
+  "summary_ja": "文章・資料から映像、音楽、必要に応じてAIプレゼンターを含む動画を作成し、会話で修正・MP4出力する。",
+  "usage_tags": [
+    "動画制作",
+    "説明動画",
+    "プレゼンテーション",
+    "AIアバター"
+  ],
+  "limitations": [
+    "Syrenはベータ版で最大3分、Synthesiaのクレジットを消費すると説明。アプリ欄は有料アカウントが必要と記載。",
+    "共有ページはリンクを知る人が閲覧できると説明。",
+    "料金・実動作・一覧本体との名称照合は未確認。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

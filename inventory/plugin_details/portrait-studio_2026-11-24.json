@@ -1,0 +1,24 @@
+{
+  "name": "Portrait Studio",
+  "category": "Creativity",
+  "provider": "Firemoon Studio",
+  "version": "1.0.2",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac27d529a0481918e8dcb0aeaf26783?category=creativity",
+  "original_description": "Restyle an attached portrait with backdrop, lighting and framing choices. Preview results inline or compare variations in the portrait workspace. Download images and share a chosen result with chat. AI editing may change facial details; inspect likeness before use. A connected Firemoon account is required.",
+  "summary_ja": "人物写真の背景・照明・構図を調整し、仕上がりを比較する。",
+  "limitations_ja": "AI編集で顔の細部が変わる可能性があり、似ているか確認するよう説明。Firemoonアカウントが必要。",
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "official_app_name": "Portrait Studio",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "人物写真",
+    "写真編集"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}

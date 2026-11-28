@@ -1,0 +1,26 @@
+{
+  "name": "Raelume",
+  "official_app_name": "Raelume",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "Raelume",
+  "version": "1.0.0",
+  "observed_at": "2026-11-27",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac293908a408191a4458114eee7dacb?category=creativity",
+  "original_description": "Make images, videos, 3D models and audio right from your chat, using the generation models in your Raelume account. Every result is saved to your Raelume project, so you can keep working on it on the Raelume canvas.\n\nGenerate images from a text prompt. Edit or restyle an image you attach or one you made earlier: change the background, swap colours, add or remove objects, or relight a product shot. Turn text or a still image into a video.\n\nTurn a photo or render of an object into a 3D model and download the 3D file from the chat.\n\nCreate audio from text: voiceovers, spoken lines and music. Play it in the chat and download the audio file.\n\nImage tools are included too: upscaling, background removal, multi-angle product shots and placing a product into a new scene.\n\nYour favourite Raelume models are used first. Ask for the cheapest, the fastest or the highest-quality option, or name a model, and it chooses from all the models in your account.\n\nAsk how anything in Raelume works: answers come from Raelume's own help pages.\n\nRequires a Raelume account. Sign in once with Connect, and disconnect anytime in Raelume Settings › Integrations. Generations use your Raelume account's balance.",
+  "summary_ja": "画像・動画・3Dモデル・音声を生成し、Raelumeのプロジェクトに保存する。",
+  "limitations_ja": "Raelumeアカウントが必要。生成はアカウント残高を使用すると説明。",
+  "usage_tags": [
+    "画像生成",
+    "動画",
+    "3D",
+    "音声"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "description_scope": "詳細ページ本文の英語説明"
+}

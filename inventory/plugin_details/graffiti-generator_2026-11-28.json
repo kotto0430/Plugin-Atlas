@@ -1,0 +1,25 @@
+{
+  "official_app_name": "Graffiti Generator",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "MegaScenes",
+  "version": "1.0.1",
+  "observed_at": "2026-11-28",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6aeccf8bc45481919aefe233c5b0f302?category=creativity",
+  "original_description": "Type a word, a name or a short phrase and pick the lettering: wildstyle, bubble letters, 3D block letters, throw-ups or tags. Choose where it is painted, a brick wall, a subway train or a plain background, and the colors.\n\nChatGPT tells you what the artwork needs and makes it in your MegaScenes account when you ask. The graffiti opens in the chat and stays in your library.\n\nFor wallpapers, posters, gifts, team names and social posts.\n\nLimitations: your words are passed to the model as written and the lettering is drawn by the model, so check it in the result; one image per run. Making a file needs a signed-in MegaScenes account and runs in it; nothing is made until you confirm. Not for sexual or adult content or for real people's likeness. Files are made by generative models and saved in your MegaScenes library.",
+  "original_description_language": "英語",
+  "description_scope": "詳細ページの説明本文",
+  "summary_ja": "指定した文字や色からグラフィティ風の画像を作る。",
+  "usage_tags": [
+    "画像制作",
+    "グラフィティ",
+    "文字デザイン"
+  ],
+  "limitations_ja": "1回につき画像1枚。文字は画像モデルが描くため結果確認が必要。MegaScenesアカウントが必要。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。"
+}

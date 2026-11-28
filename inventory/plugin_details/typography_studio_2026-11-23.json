@@ -1,0 +1,26 @@
+{
+  "name": "Typography Studio",
+  "category": "Creativity",
+  "provider": "Martín Santos",
+  "version": "0.4.2",
+  "observed_at": "2026-11-23",
+  "source_url": "https://chatgpt.com/plugins/plugins_6ac7e587f78c8191935566bb0dbd02be?category=creativity",
+  "original_description": "Build and refine typefaces from a brief: control glyphs, optical corrections, spacing, kerning, weights, italics, variable families and exports. Review actual rendered words and responsive hierarchy, with clear attribution and evidence. Includes optional local proofing scripts and Latin English/Spanish exercises. Requires image inspection for visual conclusions and suitable font-editing tools for source changes. Technical checks do not certify aesthetics, reading speed or untested platforms.",
+  "summary_ja": "フォントの設計・字間調整・表示見本の確認を支援する。",
+  "limitations_ja": [
+    "外観の判断には画像確認、ソース変更には適切なフォント編集ツールが必要。"
+  ],
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "Typography Studio",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "フォント",
+    "デザイン"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}

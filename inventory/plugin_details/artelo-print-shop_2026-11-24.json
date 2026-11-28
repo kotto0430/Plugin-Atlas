@@ -1,0 +1,25 @@
+{
+  "name": "Artelo Print Shop",
+  "official_app_name": "Artelo Print Shop",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "Artelo",
+  "version": "1.0.0",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ad259b8033c8191a9c9c0fb8502cae3?category=creativity",
+  "original_description": "Turn your photos, artwork, and AI images into art prints, photo prints, and posters, framed or unframed. Artelo opens a print preview in ChatGPT where you choose the size, frame, mat, and paper and see a mockup of your image. You pay on a Stripe checkout page, and nothing is ordered until it is paid. Prints are made to order by Artelo, ship to the countries offered at checkout, and cannot be returned. You can also ask ChatGPT whether your order went through and where it is.",
+  "summary_ja": "写真や作品の額装・印刷イメージを選び、注文状況を確認する。",
+  "limitations_ja": "注文は支払い後に成立。受注制作で返品不可、配送先は決済画面で提示される国に限ると説明。",
+  "usage_tags": [
+    "印刷",
+    "写真",
+    "アート"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "description_scope": "詳細ページ本文の英語説明"
+}

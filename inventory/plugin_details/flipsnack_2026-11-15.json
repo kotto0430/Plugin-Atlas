@@ -1,0 +1,24 @@
+{
+  "official_app_name": "Flipsnack",
+  "provider": "Flipsnack Inc.",
+  "version": "2.0.1",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_69e04224b8cec81919f0c397fd7664c57?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Flipsnack helps users create flipbooks from public PDF URLs, find and manage collections, configure reader access, generate embed code, and review publication analytics through ChatGPT.",
+  "app_description": "Upload PDFs, create interactive flipbooks, manage collections, and track engagement analytics directly from Chat GPT. Turn static documents into shoppable catalogs, digital magazines, brochures, and reports with embedded videos, links, and lead forms. Pull view stats, reader behavior, and conversion data into your conversations to inform content decisions. Make Flipsnack a native part of your publishing workflow, from creation to performance analysis, without leaving Chat GPT.",
+  "summary_ja": "PDFからフリップブックを作成し、公開設定や閲覧状況を管理する。",
+  "usage_tags": [
+    "PDF",
+    "電子ブック",
+    "資料共有",
+    "閲覧分析"
+  ],
+  "limitations": [
+    "メイン説明は公開PDFのURLからの作成、アプリ欄はPDFアップロードと記載。ファイルを直接アップロードできる範囲は未検証。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "official_app_name": "SoundBoost",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "DIKTATORIAL Inc.",
+  "version": "1.0.2",
+  "observed_at": "2026-11-29",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ad60497554481918345727c47705406?category=creativity",
+  "original_description": "SoundBoost masters music from a description in plain words. Attach a track to the chat and say how it should sound, for example \"warmer and more open on top\" or \"more punch, tighter low end\", and SoundBoost's mastering engine makes the master. There are no settings to learn: you describe the sound the way you would to a mastering engineer.\n\nThe result opens in a player card in the conversation. Play the master, switch mastering on and off to compare it with your original, and download the preview.\n\nThen refine it in plain words. Ask for a change in the chat or type it into the card's Revision box: each request adds a new version to the same card, so you can listen back through the versions and keep the one you like. SoundBoost can also work on the instruments on their own: remove the vocals for an instrumental, or turn the vocals, drums or bass up or down, in the first master or in any later change.\n\nSoundBoost is for musicians, producers, beatmakers and songwriters who want their tracks mastered for release without learning mastering software.\n\nWhat you can do in ChatGPT:\n- Master an audio file (WAV, MP3, FLAC, AIFF, OGG, AAC, M4A or Opus, or the sound of a video file) from a plain-language description\n- Compare each version with the original in the card\n- Revise the master in plain words, in the chat or in the card\n- Remove the vocals, or change the level of the vocals, drums and bass\n- Download each version's preview as an MP3\n- Continue the project in SoundBoost's web app with one link, with every setting by hand, mastering to a reference track and the full-length master\n\nGood to know:\n- Versions in the chat are 30-second previews; the full-length master is made in SoundBoost's web app.\n- One track per message: when you attach several files, they are mastered one at a time.\n- A project takes up to 10 revisions in the chat.\n- No sign-in is needed. Your track is uploaded to SoundBoost to be mastered; SoundBoost's privacy policy explains how it is handled.",
+  "original_description_language": "英語",
+  "description_scope": "詳細ページの説明本文",
+  "summary_ja": "文章による指示で楽曲をマスタリングし、元音源と比較・修正する。",
+  "usage_tags": [
+    "音楽制作",
+    "マスタリング",
+    "音声編集"
+  ],
+  "limitations_ja": "チャット内は30秒プレビュー、全曲の仕上げはWebアプリ。1プロジェクトにつきチャット内の修正は最大10回。音源はSoundBoostに送信される。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。"
+}

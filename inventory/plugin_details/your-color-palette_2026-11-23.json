@@ -1,0 +1,21 @@
+{
+  "official_app_name": "Your Color Palette",
+  "provider": "SHCH BUILDS S.R.L.",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ad8d44743b88191bab4d7bad885abe6?category=creativity",
+  "observed_at": "2026-11-23",
+  "original_description": "Find your color season from one selfie. Your Color Palette measures your skin, eyes and hair on your device, inside the chat. It shows your most likely season out of 12, the runner-up, and how confident the reading is. You see your face on your best and your worst palette, and three colors from your palette.\n\nYour photo is measured on your device. We and ChatGPT never see it.",
+  "summary_ja": "自撮り写真を用いたパーソナルカラーの候補と配色を表示する。",
+  "usage_tags": [
+    "ファッション",
+    "パーソナルカラー"
+  ],
+  "limitations": [
+    "写真が端末内で処理されるという記載は提供元の説明。実際の挙動は未検証。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

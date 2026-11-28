@@ -1,0 +1,25 @@
+{
+  "official_app_name": "Syllaby",
+  "provider": "Syllaby",
+  "version": "1.0.3",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6adb3bc7ff148191a394f0cbc88ba253?category=creativity",
+  "observed_at": "2026-11-22",
+  "original_description": "Syllaby turns a topic, a script, a web link or your own footage into short vertical videos for TikTok, Instagram Reels, YouTube Shorts and more, then posts them or schedules them, all from the conversation.\n\nWhat you can do:\n• Make a faceless video: give a topic and Syllaby writes the script, picks visuals, and adds voiceover, music and captions.\n• Make a text-to-video clip: describe a scene and Syllaby generates a short AI video clip.\n• Plan scene by scene: turn a brief into a storyboard, generate each scene, and render it as one video.\n• Generate images: describe a social graphic or thumbnail, optionally with your logo as a reference, and Syllaby creates up to three images.\n• Turn a link into a video: share an article or page and Syllaby drafts a script and video from its content.\n• Use your own footage: upload a video, or share a public video link.\n• Render and watch: a card shows render progress, and the finished video plays in the chat.\n• Publish or schedule: post now, or pick a date and time, to your TikTok, Instagram, YouTube, Facebook, Threads and LinkedIn accounts.\n• Find past work: search your Syllaby videos and see what is scheduled or already posted.\n\nHow it works:\nBefore Syllaby generates or renders anything, it tells you what it will use from your account and waits for your OK. Before anything is posted, it confirms the video, channels, caption and time with you.\n\nRequirements and limitations:\n• You sign in with your Syllaby account when you connect, or create one on the sign-in page.\n• Writing scripts, generating AI visuals, clips and images, and rendering draw on your Syllaby account. Browsing, searching and publishing do not.\n• Social accounts connect through a secure Syllaby sign-in link. ChatGPT never receives their passwords or tokens.\n• Videos are short-form. Detailed timeline editing happens in the Syllaby editor on syllaby.io.\n• Posting follows each platform's own rules and limits.",
+  "summary_ja": "企画や映像から短い縦動画を制作し、SNSへの投稿・予約を支援。",
+  "usage_tags": [
+    "短尺動画",
+    "SNS",
+    "動画制作"
+  ],
+  "limitations": [
+    "本文は接続時に既存アカウントへサインインするか、サインインページで新規作成できると記載。アプリ欄は既存アカウントが必要と記載しており、実際の利用開始方法は未検証。",
+    "詳細なタイムライン編集はSyllaby側のエディターで行うと説明。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証",
+    "説明だけでは不明"
+  ],
+  "app_account_requirement_original": "You need an existing Syllaby account, and you sign in with it when you connect."
+}

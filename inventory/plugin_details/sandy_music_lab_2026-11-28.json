@@ -1,0 +1,25 @@
+{
+  "official_app_name": "Sandy Music Lab",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "David Sandy (Sandy Music Lab)",
+  "version": "1.0.0",
+  "observed_at": "2026-11-28",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6af685452ac0819198f8e07da986e9d4?category=creativity",
+  "original_description": "Sandy Music Lab is a set of music tools for guitarists, singers and songwriters. It helps you play, practice and write songs by doing the music theory math for you. Ask it to:\n\n- transpose a chord sheet to a new key (lyrics stay untouched)\n- work out capo shapes\n- name a chord from the frets you're holding\n- show one of 190 chord charts\n- convert to Nashville numbers\n- find the best key for a singer or congregation\n- size a pedalboard power supply\n- get delay times for any tempo\n- pick string gauges for drop tunings\n- build a song style prompt for music generators\n\nEvery answer links to the matching interactive tool on sandymusiclab.com. It's read-only, has no ads in the app, and needs no account.",
+  "original_description_language": "英語",
+  "description_scope": "詳細ページの説明本文",
+  "summary_ja": "ギターのコード移調や運指、歌いやすいキーなどを調べる。",
+  "usage_tags": [
+    "音楽",
+    "ギター",
+    "作曲"
+  ],
+  "limitations_ja": "提供元の説明では読み取り専用でアカウント不要。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Alpenmarketing Bildkompressor",
+  "category": "Creativity",
+  "provider": "mxi.design / Alpenmarketing",
+  "version": "1.0.1",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6abf9bc87c54819195fe8b47622dc33e?category=creativity",
+  "original_description": "Komprimiere ein hochgeladenes PNG-, JPG-, WebP- oder AVIF-Bild für E-Mail, Website oder Messenger. Das Plugin verarbeitet die Datei während des Aufrufs, gibt das optimierte Bild und die Größenänderung zurück. Qualität und Ausgabeformat können gewählt werden. Dateien bis 8 MB; das Ergebnis wird nicht dauerhaft bei Alpenmarketing gespeichert.",
+  "original_description_language": "de",
+  "summary_ja": "画像を圧縮し、品質や出力形式を選んでサイズの変化を確認する。",
+  "limitations_ja": "入力はPNG・JPG・WebP・AVIF、8 MBまで。処理結果はAlpenmarketingに恒久保存されないと説明。",
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "Alpenmarketing Bildkompressor",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "画像圧縮",
+    "画像編集"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文のドイツ語説明"
+}

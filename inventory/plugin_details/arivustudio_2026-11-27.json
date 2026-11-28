@@ -1,0 +1,27 @@
+{
+  "name": "ArivuStudio",
+  "official_app_name": "ArivuStudio",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "ArivuLabs",
+  "version": "1.0.0",
+  "observed_at": "2026-11-27",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ad56ac3c9608191b81ee55330902cf4?category=creativity",
+  "original_description": "ArivuStudio makes video, music, voice, sound effects and images from your conversation.\n\nVideo: short clips from a text prompt, from an image made in ArivuStudio, or by continuing a clip you made, on models that support it. Before a video starts, ArivuStudio tells you which model it will use, and it starts only after you confirm.\n\nMusic: instrumental tracks from a description of genre, mood, instruments and tempo.\n\nVoice: speech from your text in expressive voices that can laugh, whisper and pause, dialogues with two to four speakers, or standard voices in many languages, including custom voices your organization created in ArivuStudio.\n\nSound effects: effects of 1 to 30 seconds from a description.\n\nImages: new images, or edited copies of images you made earlier.\n\nWhat you make plays in the chat, stays in your ArivuStudio account, and comes with a link that works for 7 days. Anyone you share a link with can open the file until it expires. You can also check on renders in progress, cancel one that has not finished, list your past work, and see the available models and voices.\n\nWho it is for: creators, marketers, educators and teams who use ArivuStudio and want to make media without leaving the conversation.\n\nLimits: you need an ArivuLabs account in an organization with ArivuStudio, and you sign in with ArivuLabs when you connect. Videos take one to several minutes. Music is instrumental, up to 90 seconds, and tracks longer than 30 seconds repeat. AI providers' safety filters may refuse some requests, and ArivuStudio must not be used for sexual content, deceptive media of real people, or content that infringes the rights of others.",
+  "original_description_language": "英語",
+  "summary_ja": "会話から動画・音楽・音声・効果音・画像を制作する。",
+  "limitations_ja": "ArivuStudioを利用できる組織のアカウントが必要。音楽は最大90秒で30秒を超えると繰り返す。",
+  "usage_tags": [
+    "動画生成",
+    "音楽生成",
+    "音声生成",
+    "画像生成"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "description_scope": "詳細ページ本文の説明（折りたたまれた部分は内包アプリ欄で確認）"
+}

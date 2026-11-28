@@ -1,0 +1,22 @@
+{
+  "official_app_name": "DevMotion",
+  "provider": "EMANUELE PAVANELLO",
+  "version": "1.1.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6aa447d9c0a48191bf71b8ae5a573d39?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "DevMotion turns a conversation into an editable animated video. Describe what you want and ChatGPT builds it in your DevMotion workspace: a real project with layers, keyframes and scenes that you can keep changing, by asking or by hand.\nThe DevMotion editor opens beside the chat. Every change ChatGPT makes shows up in it as it happens, so you can watch the video come together, play it, scrub the timeline and adjust text, colors, timing or position yourself. Select a layer and ChatGPT knows which one you mean in your next request. Your edits and ChatGPT's land in the same saved project.\nWhat you can do:\n• Create projects in any shape, from vertical shorts to widescreen, and set their size, duration and background.\n• Add and animate text, shapes, icons, images, video, audio, captions, code and terminal windows, and browser, laptop and phone frames, with keyframes and animation presets.\n• Build scripted scenes in HTML, CSS, GSAP or Three.js, or start from ready-made Scene Library blocks with editable text, colors and settings.\n• Bring in media: import a file from a public link, upload your own, search stock photos, fetch a company's logo and brand colors, or capture a website screenshot.\n• Generate images, video clips, voiceovers and background music, add sound effects on the beat, dub a video into another language and add word-synced captions.\n• Turn a long video into a short highlight cut, or research a product website and draft a creator-style ad you can generate once you approve it.\n• Check the result: ChatGPT looks at rendered frames of the video before it tells you the work is done.\n• Render the finished video as an MP4 file.\nWho it is for: creators, marketers, founders and developers who want product demos, explainers, social clips, ads and title sequences that stay editable.\nGood to know:\n• You sign in with your DevMotion account. ChatGPT can only see and change the projects in that account.\n• Projects created from ChatGPT get a preview link that anyone with the link can open.\n• A multi-scene generation starts with a preview of what will be generated, and runs only after you agree.\n• Where the editor cannot open beside the chat, ChatGPT shows a link that opens the project on devmotion.app.",
+  "summary_ja": "会話から編集可能なアニメーション動画を作り、レイヤーや字幕を調整する。",
+  "usage_tags": [
+    "動画制作",
+    "アニメーション",
+    "字幕",
+    "プログラミング"
+  ],
+  "limitations": [
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

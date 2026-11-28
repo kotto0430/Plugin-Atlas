@@ -1,0 +1,21 @@
+{
+  "official_app_name": "Logos & app icons",
+  "provider": "The Doers Firm",
+  "version": "0.1.0",
+  "source_url": "https://chatgpt.com/plugins/plugins_6ab22061c59881918e07c6042dab3677?category=creativity",
+  "observed_at": "2026-11-16",
+  "original_description": "Create distinctive logos and app icons for products, brands, apps, websites, games, and campaigns. Plan concepts, generate visual directions, adapt marks for platforms and sizes, check legibility and accessibility, and prepare honest export specifications.",
+  "summary_ja": "ロゴやアプリアイコンの案を作り、用途ごとのサイズや見やすさ、納品仕様を検討する。",
+  "usage_tags": [
+    "ロゴ",
+    "アプリアイコン",
+    "デザイン"
+  ],
+  "limitations": [
+    "実動作・出力形式・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "official_app_name": "Bandicam AI",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "Bandicam Company LLC",
+  "version": "1.0.2",
+  "observed_at": "2026-11-28",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac95e77e0c88191bd43b400255e7edf?category=creativity",
+  "original_description": "Create AI videos, images, voiceovers, music, and sound effects with Bandicam AI in ChatGPT. Generate videos from text, animate still images, create product photos and YouTube thumbnails, and turn scripts into speech. Bring reference images or motion videos to guide supported models, and develop content for social media, presentations, product showcases, tutorials, and creative projects.\n\nAI IMAGE GENERATION & EDITING\n\nTurn text descriptions into images for your next creative project. Create product visuals, character concepts, illustrations, and thumbnail artwork. Use reference images with supported models to guide image generation or request changes to an existing image. Describe the composition, background, lighting, and visual style you want, then reuse previous results to explore further variations.\n\nTEXT-TO-VIDEO & IMAGE-TO-VIDEO\n\nGenerate video clips from written prompts or bring still images to life. Describe your subject, scene, camera movement, and atmosphere to guide video generation. Animate a product image, add motion to a character illustration, or explore a short visual concept. Available settings, including duration, aspect ratio, resolution, and audio options, depend on the selected model.\n\nCHARACTER ANIMATION & MOTION CONTROL\n\nCombine a character image with a reference video to guide movement using supported motion control tools. Use a gesture, dance, or other movement clip as a reference for character animation. The guided workflow helps identify the character image and motion reference, select supported options, and submit the generation request.\n\nTEXT-TO-SPEECH & AI VOICEOVERS\n\nTurn written scripts into speech for tutorials, product demonstrations, presentations, and video narration. Explore available voices and choose supported speech settings for your project. Generate narration from your script, preview the result, and access the audio for use in your content. Voice, language, and delivery options vary by speech model.\n\nAI MUSIC & SOUND EFFECTS\n\nGenerate music from descriptions of the mood, genre, instrumentation, or scene you have in mind. Create instrumental tracks or songs with supported music tools. Describe individual sound effects to generate audio clips for creative projects. Music, speech, and sound effects are generated as separate outputs that you can preview and reuse.\n\nPRODUCT PHOTOS & YOUTUBE THUMBNAILS\n\nCreate product photography concepts with prompts describing the setting, materials, lighting, and composition. Use reference images with supported tools to guide the product's appearance. Develop YouTube thumbnail concepts with a clear subject, background, and space for a headline. Explore alternatives and request revisions using an earlier result as a reference.\n\nGUIDED CREATIVE WORKFLOWS\n\nGet help organizing common creation tasks with six reusable skills: text-to-video, product photoshoots, image-to-video, motion control, narration, and thumbnails. These workflows guide the collection of required inputs, selection of supported tools and settings, and handling of generation results.\n\nMODEL EXPLORATION\n\nAsk which creation tools and models are available and explore their supported inputs and settings.\n\nGENERATION PROGRESS & CREATION HISTORY\n\nFollow generation progress in the conversation and preview supported results when they are ready. Revisit earlier images, videos, and audio from your connected Bandicam AI account. Access your generated media and use compatible previous outputs as references for another creation.\n\nA connected Bandicam AI account is required. Processing time, available settings, supported reference types, and output characteristics vary by tool and model.",
+  "original_description_language": "英語",
+  "description_scope": "詳細ページの説明本文",
+  "summary_ja": "画像・動画・ナレーション・音楽・効果音の制作を支援する。",
+  "usage_tags": [
+    "画像制作",
+    "動画制作",
+    "音声制作"
+  ],
+  "limitations_ja": "Bandicam AIアカウントの接続が必要。対応設定などはツールとモデルによって異なる。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。"
+}

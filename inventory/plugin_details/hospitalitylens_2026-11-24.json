@@ -1,0 +1,25 @@
+{
+  "name": "HospitalityLens",
+  "category": "Creativity",
+  "provider": "augenlicht creative GmbH",
+  "version": "0.2.13",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac2a775e2588191b3f0c4c27b1553a5?category=creativity",
+  "original_description": "AI photo editing for property listing images, from phone snaps or existing photos.\n\nPlan a clear set of phone photos, improve a property image you already have, and compare the original with the result. Adjust the style, look, outdoor season, indoor seasonal decoration and cleanup for each photo. Choose the company watermark and TV/fireplace options available in your workspace. Saved logos, reference images and their appearance are managed on the website. Organize photos into property projects using your connected HospitalityLens account.\n\nFor property managers, rental hosts, hotels, agents, landlords and homeowners. Portfolio size never limits access. The ChatGPT studio processes one photo at a time; bulk workflows remain on the HospitalityLens website.\n\nPhoto processing uses entitlements already available in your account. JPEG, PNG and WebP are supported, up to 20 MB. Results depend on the source photo; retain the real property's layout, fixtures, views and permanent features.",
+  "summary_ja": "宿泊施設や物件の掲載写真を調整し、元画像と比較する。",
+  "limitations_ja": "接続アカウントの利用枠を使用。ChatGPTでは1枚ずつ処理し、一括処理はウェブサイト。JPEG・PNG・WebP、最大20 MB。",
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "HospitalityLens",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "不動産",
+    "写真編集",
+    "宿泊"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}

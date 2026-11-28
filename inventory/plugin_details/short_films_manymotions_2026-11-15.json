@@ -1,0 +1,33 @@
+{
+  "name": "Short Films",
+  "official_app_name": "Short Films",
+  "provider": "ManyMotions",
+  "version": "1.0.2",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac12a1fde7c819199681f2defa6dd9b?category=creativity",
+  "developer_url": "https://manymotions.com/",
+  "category": "Creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Turn a logline into a narrative short film with characters, dialogue and a film look across several scenes.\n\nDescribe the story in one or two sentences, the genre (drama, sci-fi, thriller, romance, mystery or fantasy), the main characters, the setting and, if you want, the ending, plus the spoken language, format and length. The plugin prepares a brief and shows the number of scenes and the credits it will use. When you confirm, ManyMotions writes the script with one turn and an ending that lands, keeps the characters consistent, generates the keyframes and the scene videos with AI voices, and edits the final cut. A video takes several minutes; ChatGPT reports the progress and returns the link to the MP4.\n\nFor writers, film students and creators who want to see a story on screen.\n\nLimitations: original stories from text only, meant for new stories rather than existing films and franchises. It does not edit uploaded footage, use photos of real people or imitate real actors. Producing a video uses your signed-in ManyMotions account; preparing a brief does not need an account. If you are not signed in, the plugin gives a link where the same brief opens on ManyMotions.\n\nManyMotions is the platform formerly known as ClipWave.",
+  "original_description_language": "en",
+  "summary_ja": "オリジナル物語の概要から、登場人物・台詞・AI音声を含む短編映画を制作する。",
+  "usage_tags": [
+    "映像制作",
+    "短編映画",
+    "物語"
+  ],
+  "limitations_ja": "文章によるオリジナル作品向け。既存映像の編集、実在人物の写真や俳優の模倣は対象外。動画制作にはManyMotionsへのサインインが必要。1.0.2の説明は使用クレジットの表示に言及。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "related_listing": {
+    "name": "Short Films",
+    "provider": "ManyMotions",
+    "version": "1.0.1",
+    "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ae335ebd42881918e8e268a5954ad54?category=creativity",
+    "original_description": "Turn a logline into a narrative short film with characters, dialogue and a film look across several scenes.\n\nDescribe the story in one or two sentences, the genre (drama, sci-fi, thriller, romance, mystery or fantasy), the main characters, the setting and, if you want, the ending, plus the spoken language, format and length. The plugin prepares a brief and shows the number of scenes. When you confirm, ManyMotions writes the script with one turn and an ending that lands, keeps the characters consistent, generates the keyframes and the scene videos with AI voices, and edits the final cut. A video takes several minutes; ChatGPT reports the progress and returns the link to the MP4.\n\nFor writers, film students and creators who want to see a story on screen.\n\nLimitations: original stories from text only, meant for new stories rather than existing films and franchises. It does not edit uploaded footage, use photos of real people or imitate real actors. Producing a video uses your signed-in ManyMotions account; preparing a brief does not need an account. If you are not signed in, the plugin gives a link where the same brief opens on ManyMotions.\n\nManyMotions is the platform formerly known as ClipWave.",
+    "comparison_ja": "名称・提供元・概要は同じ。ページIDとバージョンが異なり、1.0.2には使用クレジット数を表示する記述がある。重複や移行関係は未確認。"
+  },
+  "catalog_status": "一覧本体との名称照合は未確認。同名・別名の同一性は未確認。",
+  "review": "2ページの公式説明を比較。実動作・料金・同一性は未検証。"
+}

@@ -1,0 +1,23 @@
+{
+  "official_app_name": "Clipwave Video & Image Maker",
+  "provider": "Clipwave",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6aa174b74d988191a68b5960d89dea79?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Describe an image or video, choose the format, and generate it in your connected Clipwave workspace. Create product shots, social visuals and logo concepts, then check the status of your generation. A Clipwave account and available generation credits are required.",
+  "summary_ja": "Clipwaveで画像・動画を生成し、生成状況を確認する。",
+  "usage_tags": [
+    "画像生成",
+    "動画生成",
+    "商品画像",
+    "ロゴ"
+  ],
+  "limitations": [
+    "Clipwaveアカウントと生成クレジットが必要と説明。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

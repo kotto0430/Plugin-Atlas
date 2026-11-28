@@ -1,0 +1,25 @@
+{
+  "official_app_name": "ClippingAlpha",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "ClippingAlpha",
+  "version": "1.0.6",
+  "observed_at": "2026-11-29",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6abef76c38f0819196db60aacbe1a32b?category=creativity",
+  "original_description": "For anyone who wants to make money creating content on TikTok, Instagram, YouTube and X: ClippingAlpha sources the paid campaigns. Clipping campaigns pay for clips cut from the streams, podcasts and videos the campaign provides. UGC campaigns pay for your own videos about a product. Music campaigns pay for edits that use an artist's track as the sound. Logo campaigns pay for your own niche videos with the brand's logo on them.\n\nIt is a low barrier way to start. Most campaigns pay per 1K views, not per follower, so what counts is the views a post gets, not the size of the account. Many campaigns are open to join with no application, and clipping campaigns provide the footage, so there is nothing to film.\n\nClippingAlpha tracks live campaigns on Content Rewards, Promote.fun, Clipster, Clipstake, Vyro and Evangelist, and gives each one an Alpha Score: pay per 1K views after board fees and payout rules, approval odds, budget left and payout reliability, ranked against the live campaigns of its own type.\n\nAsk how to start making money creating content, what to clip or post today or which music and logo campaigns fit your niche. Filter by campaign type, platform, pay per 1K views, niche or board. Results show as cards with the Alpha Score, pay, budget left and a Join button that opens the campaign on its board. Open any campaign as a panel to read what the brand wants, the Brief Quality grade, the best moments to clip with links to the source at each second, what one post pays at 10K, 50K and 100K views, and how long the budget lasts. The campaign browser in the sidebar lists every live campaign with platform and type filters and a Top picks row.\n\nConnect a ClippingAlpha account to see members campaigns and brand file links, to save campaigns and set alert rules from ChatGPT, and to cut clips. Signed in, you can connect your TikTok, Instagram, YouTube or X account right in the chat: ClippingAlpha gives a short code to put in its bio and reads the public profile once to find it, then ranks campaigns for that account. Signed in, ClippingAlpha cuts clips from the footage a campaign gives its clippers into vertical 1080 by 1920 MP4s with captions, each with a private download link that works for 24 hours.\n\nWhat a post earns depends on its views and the brand approving it. ClippingAlpha reads the public pages of each board and links to the board to join. It never takes payments and never posts or submits anything for you. Campaigns in age restricted categories are not shown in ChatGPT.",
+  "original_description_language": "英語",
+  "description_scope": "詳細ページの説明本文",
+  "summary_ja": "SNS向け動画・音楽などの報酬付き案件を探し比較する。",
+  "usage_tags": [
+    "動画制作",
+    "SNS",
+    "案件検索"
+  ],
+  "limitations_ja": "報酬は視聴数や承認に左右される。保存やクリップ作成にはアカウントが必要。自動投稿や応募はしないと説明。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。"
+}

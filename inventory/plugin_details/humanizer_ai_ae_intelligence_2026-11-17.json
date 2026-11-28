@@ -1,0 +1,25 @@
+{
+  "official_app_name": "Humanizer AI",
+  "provider": "AE-Intelligence",
+  "version": "1.0.7",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ae763b0cc848191bf1303f299c4438e?category=creativity",
+  "observed_at": "2026-11-17",
+  "original_description": "Humanizer AI rewrites AI drafts so they sound like you. It replaces stiff phrases, cuts repetition, and varies sentence length while keeping your facts and meaning.\nPaste an email, blog post, or product description. Tell Humanizer AI how you want it to sound and which words to keep.\nIf an AI detector flags your writing by mistake, Humanizer AI helps you rephrase it so it sounds human.",
+  "app_name": "Humanize AI",
+  "app_description": "Humanize AI edits text you provide so it reads clearly and naturally, while keeping your meaning and facts. Use it to: - Smooth awkward phrasing and improve flow - Match tone to your audience (casual, professional, friendly, formal) - Shorten, expand, or simplify a draft - Keep chosen words and Markdown formatting unchanged Good for emails, blog drafts, product descriptions, and social posts. Humanize AI is a writing assistant. It is not for evading AI detectors or presenting AI-generated work as your own.",
+  "summary_ja": "文章の意味を保ちながら表現や文体を読みやすく調整する。",
+  "usage_tags": [
+    "文章作成",
+    "推敲",
+    "メール",
+    "SNS"
+  ],
+  "limitations": [
+    "主説明はAI検出の誤判定を受けた文章の言い換えに言及し、アプリ説明は検出回避やAI生成物の偽装を目的としないと明記。両説明を保存し、実際の判定基準は未確認。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

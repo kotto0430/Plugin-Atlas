@@ -1,0 +1,23 @@
+{
+  "official_app_name": "Flixly",
+  "provider": "SOFTFORGE DIGITAL",
+  "version": "1.1.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a810e6e217481918fa8634e8898d603?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Compare reviewed image and video models, inspect supported options, and follow a generation from your text brief to its result. View images and playable videos in the conversation, and recover the original job after a lost response.",
+  "app_description": "Create images and short videos from ChatGPT using Flixly’s curated catalog and your existing credits. Compare supported models and estimated costs, start one generation job, and follow that same job to a usable result in the conversation. Generations appear in your Flixly history. The integration does not support purchases or subscriptions.",
+  "summary_ja": "画像・短い動画の生成モデルや費用を比較し、生成状況と結果を確認する。",
+  "usage_tags": [
+    "画像生成",
+    "動画生成",
+    "モデル比較"
+  ],
+  "limitations": [
+    "既存クレジットを使い、連携から購入・契約はできないと説明。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

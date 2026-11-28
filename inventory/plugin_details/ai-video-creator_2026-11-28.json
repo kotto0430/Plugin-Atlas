@@ -1,0 +1,27 @@
+{
+  "name": "AI Video Creator",
+  "official_app_name": "AI Video Creator",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "ARKELUMA LLC",
+  "version": "1.0.0",
+  "observed_at": "2026-11-28",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6b05468dafe081918957afb0abff6098?category=creativity",
+  "original_description": "Create AI videos right in ChatGPT with Makify AI. Describe a scene or attach a photo, and get a finished video clip back in the conversation, with sound on models that support it. The same plugin also creates and edits images, so you can make a product photo and turn it into a video ad in one chat.\n\nVideo\n• Text to video: clips of 3 to 30 seconds from a description, up to 1080p, in 16:9, 9:16, 1:1, 4:3, 3:4 or 21:9.\n• Image to video: animate a photo, drawing or product shot with natural motion and camera moves.\n• Product videos and video ads: orbit and push-in showcase shots and lifestyle scenes for online stores, TikTok, Reels and YouTube.\n• Social media videos: vertical clips for TikTok, Instagram Reels, YouTube Shorts and stories.\n• Cinematic shots and b-roll: drone, dolly and tracking shots, trailer moments and widescreen scenes.\n• Anime and cartoon animation: anime, 3D cartoon, claymation and watercolor styles.\n• Logo animation: animated intros and outros from your logo.\n• Old photo revival: restore an old photo and bring it to life as a short video.\n\nImages\n• AI image generator: text to image up to 4K for photos, illustrations, wallpapers and social graphics.\n• AI photo editor: change backgrounds, remove or add objects, relight and retouch by describing the change.\n• Product photography: white background packshots and lifestyle images for Amazon and Shopify listings and ads.\n• AI headshots: professional LinkedIn and profile photos from your own selfie.\n• Outfit, hairstyle and hair color changes, including virtual try-on.\n• Old photo restoration and colorization.\n• Posters, thumbnails, flyers and logos with readable text.\n• Consistent characters and character sheets for stories, comics and brands.\n• Mockups: your designs and logos on T-shirts, mugs, packaging and more.\n\nModels: Seedance 2.5, Seedance 2.0, Kling 4 and MiniMax H3 Max for video; Nano Banana Pro, Nano Banana 2.1, Nano Banana 2, GPT Image 2 and Seedream 5.5 for images.\n\nWho it is for: marketers, online sellers, content creators, designers and anyone who needs videos and visuals for products, ads, social media or presentations.\n\nHow it works: connect your Makify AI account (or create one) the first time you use it. Results appear in the chat in a card that updates until the video or image is ready, and they are also saved in your history on makifyai.com. Each generation uses credits from your Makify AI balance, the same balance as on makifyai.com; a generation that fails returns its credits automatically. Credits are not sold inside ChatGPT.\n\nLimits: images usually take under a minute and videos a few minutes. Up to 5 generations can run at the same time per account. Each video is a single shot of up to 30 seconds; existing videos cannot be edited. Safety checks are turned on wherever a model offers them, and requests for sexual content, content involving minors, other people's likeness without consent or forged documents are not allowed.",
+  "original_description_language": "英語",
+  "summary_ja": "文章や写真から短い動画を作り、画像の生成や編集も行う。",
+  "limitations_ja": "Makify AIアカウントと残高を使用。動画は最大30秒の単一ショットで、既存動画は編集不可と説明。",
+  "usage_tags": [
+    "動画生成",
+    "画像生成",
+    "漫画制作",
+    "広告"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "description_scope": "詳細ページ本文の英語説明"
+}

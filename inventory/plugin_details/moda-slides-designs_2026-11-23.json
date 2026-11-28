@@ -1,0 +1,25 @@
+{
+  "name": "Moda - Slides & Designs",
+  "category": "Creativity",
+  "provider": "Nullframe (dba Moda)",
+  "version": "1.0.3",
+  "observed_at": "2026-11-23",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ada7bec545881919206a8cf89db59f8?category=creativity",
+  "original_description": "Moda gives ChatGPT a real design canvas for creating, editing, reviewing, organizing, sharing, and exporting fully editable presentations, sales collateral, social creative, print assets, and generated media. It preserves editable text and layers, supports brand kits and team templates, and exports finished work to formats including PowerPoint, PDF, PNG, and video.",
+  "summary_ja": "編集可能なスライドや販促・SNS向け素材を作成し、各形式に書き出す。",
+  "limitations_ja": [],
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "Moda - Slides & Designs",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "プレゼン",
+    "デザイン",
+    "SNS"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}

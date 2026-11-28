@@ -1,0 +1,21 @@
+{
+  "official_app_name": "PromptKosh",
+  "provider": "SAMIR VIJAYKUMAR SAWARKAR",
+  "version": "0.2.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ab4f034cfc08191adfdd4e8d671efe1?category=creativity",
+  "observed_at": "2026-11-23",
+  "original_description": "Find a public PromptKosh style or use a style ID from promptkosh.in. PromptKosh sends the style prompt and any required inputs to ChatGPT, which can create the image using your ChatGPT account’s available image features. No PromptKosh account is needed.",
+  "summary_ja": "公開スタイルのプロンプトを探し、ChatGPTの画像機能で画像を作る。",
+  "usage_tags": [
+    "画像生成",
+    "プロンプト"
+  ],
+  "limitations": [
+    "PromptKoshアカウント不要。利用できる画像機能はChatGPTアカウントに依存。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

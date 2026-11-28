@@ -1,0 +1,25 @@
+{
+  "official_app_name": "HookSounds",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "HookSounds",
+  "version": "1.0.0",
+  "observed_at": "2026-11-29",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ae4a1c38f3c81918f9e8b873ac803d0?category=creativity",
+  "original_description": "Find music, sound effects and intros from a project brief, compare previews, and choose versions such as shorter edits or mixes without melodies. Sign in with your HookSounds account to save sounds to your playlists and download them.",
+  "original_description_language": "英語",
+  "description_scope": "詳細ページの説明本文",
+  "summary_ja": "企画内容に合う音楽・効果音・イントロを探して試聴する。",
+  "usage_tags": [
+    "音楽素材",
+    "効果音",
+    "動画制作"
+  ],
+  "limitations_ja": "プレイリスト保存とダウンロードはHookSoundsアカウントにサインイン。ライセンス条件は本文に記載なし。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。"
+}

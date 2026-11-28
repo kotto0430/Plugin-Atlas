@@ -1,0 +1,25 @@
+{
+  "official_app_name": "PitchHighway",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "PitchHighway",
+  "version": "1.0.0",
+  "observed_at": "2026-11-29",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6af5454207bc8191ac8caa2cf1c477ff?category=creativity",
+  "original_description": "PitchHighway turns a song you love into a practice journey with real-time pitch feedback. This plugin lets you ask about your own practice: your measured vocal range, your songs and how they fit your voice, your recent attempts, and note-level pitch reports from your runs. It only reads data from the PitchHighway account you connect, and it never exposes audio.",
+  "original_description_language": "英語",
+  "description_scope": "詳細ページの説明本文",
+  "summary_ja": "連携した歌唱練習の音域や音程、履歴を確認する。",
+  "usage_tags": [
+    "歌唱練習",
+    "音楽",
+    "音程"
+  ],
+  "limitations_ja": "連携アカウントの練習データを読み取る。説明では音声そのものは公開しない。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。"
+}

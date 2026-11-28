@@ -1,0 +1,21 @@
+{
+  "official_app_name": "PostNitro",
+  "provider": "Muneeb Awan",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a673b3d27848191af9b47a6c7980351?category=creativity",
+  "observed_at": "2026-11-16",
+  "original_description": "The PostNitro MCP server lets AI assistants and agents — Claude (Desktop, Code, and Cowork), Cursor, ChatGPT, and any other Model Context Protocol client — create carousels and image posts, manage brand kits and connected social accounts, and schedule posts directly.\nInstead of writing REST API calls, you connect the server once and your AI assistant gets ready-made tools covering carousel and image generation, brands, social accounts, and scheduling — using the same Embed API key and credits as the REST API.",
+  "summary_ja": "SNS向けのカルーセルや画像投稿を作成し、ブランド設定や連携アカウント、投稿予約を管理する。",
+  "usage_tags": [
+    "SNS",
+    "カルーセル",
+    "投稿予約"
+  ],
+  "limitations": [
+    "Embed APIキーとクレジットを使用すると説明。実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

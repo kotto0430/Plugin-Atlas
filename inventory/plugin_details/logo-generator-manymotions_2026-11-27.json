@@ -1,0 +1,26 @@
+{
+  "name": "Logo Generator",
+  "official_app_name": "Logo Generator",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "ManyMotions",
+  "version": "1.0.1",
+  "observed_at": "2026-11-27",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ae33855cbcc819181a36729075da163?category=creativity",
+  "original_description": "Turn a brand name, industry and style brief into AI logo concepts with ManyMotions (formerly ClipWave). Logo Maker prepares the logo prompt and settings, generates up to four concepts per request in your connected ManyMotions account (GPT Image 2 by default, other image models available), lets you check the job status in chat and opens the result in the Media Forge Logo tab to refine, re-run or download. Generating uses credits in your existing ManyMotions account. Outputs are AI-generated raster PNG images; editable vector files and trademark clearance are not included.",
+  "original_description_language": "英語",
+  "summary_ja": "ブランド情報からロゴ案を生成し、ManyMotions上で調整する。",
+  "limitations_ja": "ManyMotionsアカウントとクレジットが必要。出力はPNGでベクターと商標調査は含まれない。B12の同名掲載とは別。",
+  "usage_tags": [
+    "ロゴ制作",
+    "画像生成",
+    "ブランド"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "description_scope": "詳細ページ本文の英語説明"
+}

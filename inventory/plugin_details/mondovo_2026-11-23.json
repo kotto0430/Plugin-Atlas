@@ -1,0 +1,22 @@
+{
+  "official_app_name": "Mondovo",
+  "provider": "Mondovo",
+  "version": "1.0.12",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac0ae13b9948191a03845bd363388b7?category=creativity",
+  "observed_at": "2026-11-23",
+  "original_description": "Mondovo is a website design and creation tool for business owners, creators and agencies. Turn a description of your business into three distinct website designs, compare visual previews and choose the direction you prefer. Build a landing page or a business website without writing code.\n\nRefine your chosen design in plain language: change colors, typography, images, copy and page layout, or add new pages. Interactive cards show your designs, previews and progress in the conversation. When you are ready, ask Mondovo to publish the chosen website and share its live link. Your projects and revision history are saved in your Mondovo account.\n\nKeep the site up to date by asking: add dishes to a menu, write blog posts, update products and prices, set up appointment booking, switch on a chat assistant for visitors, set a favicon or find broken links. You can also view form submissions, appointments and contacts collected by your website, browse saved Creative Studio images and videos, review social post drafts and check video project progress. A Mondovo account is required. Access is limited to the workspace, or workspaces, and permissions you approve when connecting.",
+  "summary_ja": "事業の説明からウェブサイトを設計・編集し、公開や運用を支援する。",
+  "usage_tags": [
+    "Web制作",
+    "サイト運用",
+    "ビジネス"
+  ],
+  "limitations": [
+    "Mondovoアカウントが必要。公開等の操作は実施していない。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

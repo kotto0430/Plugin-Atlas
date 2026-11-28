@@ -1,0 +1,23 @@
+{
+  "official_app_name": "Photoroom",
+  "provider": "Photoroom",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6abe83b5359081918785bbdac17f7e66?category=creativity",
+  "observed_at": "2026-11-22",
+  "original_description": "Photoroom turns everyday product photos into studio-quality images and videos directly from ChatGPT. Pick a photo from your Photoroom uploads or attach a new one, then ask for what you need: a clean white-background packshot, your product staged in a lifestyle scene, clothing on a virtual model or a ghost mannequin, wrinkle removal, colour variants, bundle shots that combine several products, or a short product video. Photoroom can also grade the imagery on a public product page and recommend which AI Tools would improve it.\n\nEach AI Tool run and each page rating consumes credits from your connected Photoroom account. Higher quality settings produce higher-resolution images (up to 4K) and use more credits. Results are saved to your Photoroom account and come back with short-lived download links that you can refresh later.\n\nPhotoroom can view the images you have uploaded to Photoroom and your past AI Tool results so you can reuse them. It does not change or delete them, and it cannot access other users' images. Images you attach in ChatGPT are kept for up to 30 minutes so a tool can process them.",
+  "summary_ja": "商品写真の背景・色などを編集し、商品画像や短い動画を制作。",
+  "usage_tags": [
+    "商品写真",
+    "画像編集",
+    "EC",
+    "動画制作"
+  ],
+  "limitations": [
+    "接続アカウントのクレジットを使用。ChatGPTで添付した画像は処理のため最大30分保持すると説明。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

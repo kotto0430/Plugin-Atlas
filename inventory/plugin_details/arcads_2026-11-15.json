@@ -1,0 +1,25 @@
+{
+  "name": "Arcads",
+  "official_app_name": "Arcads",
+  "provider": "Arcads",
+  "version": "1.0.10",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6aa01081c414819196e58fc42ab585a6?category=creativity",
+  "developer_url": "https://www.arcads.ai/",
+  "category": "Creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Arcads is a creative tool for making advertising content. This plugin turns a product, a brief or a reference ad into finished ad creatives: video ads (UGC-style, cinematic short films, Pixar-style 3D, paper-collage animation, AI music and song ads), static image ads, Amazon listing images, and motion versions of existing statics.\n\nTypical tasks: find competitor ads in the Meta Ad Library for inspiration, clone the hook of a reference video for your brand, adapt a static ad to your product, write a script or song lyrics and generate the matching video, and restyle or animate existing footage and images.\n\nIt is built for marketers, growth teams, agencies and e-commerce brands who produce ads for Meta, TikTok and other social platforms.\n\nLimitations: an Arcads account is required, and every generation uses the credits included in that account. Competitor research needs a connected browser automation tool. Some skills stitch clips locally and need ffmpeg.",
+  "original_description_language": "en",
+  "summary_ja": "商品や企画から広告用の画像や動画を制作する。",
+  "usage_tags": [
+    "広告",
+    "動画制作",
+    "画像制作"
+  ],
+  "limitations_ja": "Arcadsアカウントと生成ごとのクレジットが必要。競合広告の調査にブラウザー自動化ツール、一部のローカル結合にffmpegが必要と説明。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "一覧本体との名称照合は未確認。同名・別名の同一性は未確認。",
+  "review": "詳細画面の説明・情報欄を確認。動作、料金、品質は未検証。"
+}

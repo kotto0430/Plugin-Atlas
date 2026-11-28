@@ -1,0 +1,26 @@
+{
+  "name": "Anifusion",
+  "official_app_name": "Anifusion",
+  "provider": "CodeConda LLC",
+  "version": "1.0.2",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ad7992b03d48191885f268df91b82e5?category=creativity",
+  "developer_url": "https://anifusion.ai/developers/api/",
+  "category": "Creativity",
+  "observed_at": "2026-11-14",
+  "original_description": "Create anime art, manga, and editable comics from your ideas. Design original characters, turn a story or your own panel script into a private comic draft, and generate artwork for a whole page or selected panels. Open your comic in Anifusion to refine layouts and lettering, then export page images. You can also create character sheets and videos, or use supported LoRAs for characters and styles. Explore available models and approve generation before it starts. Connect your Anifusion account to get started. Available workflows depend on your account permissions and supported models. Your creations are not automatically published to the community gallery.",
+  "original_description_language": "en",
+  "description_scope": "ChatGPT詳細画面の提供元の英語説明。",
+  "summary_ja": "物語やコマごとの脚本から非公開の漫画を作り、Anifusionでレイアウトや文字を編集する。",
+  "usage_tags": [
+    "漫画制作",
+    "キャラクター制作",
+    "画像生成"
+  ],
+  "limitations_ja": "Anifusionアカウント、対象機能の権限と既存クレジットが必要とアプリ欄に記載。生成前に見積もりを確認・承認し、自動で公開ギャラリーに投稿しないと説明。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "詳細画面の説明と情報欄を確認。実動作・料金・品質・権利条件は未検証。",
+  "catalog_status": "一覧本体との名称照合は未確認。同名・別名の同一性は未確認。"
+}

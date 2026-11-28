@@ -1,0 +1,25 @@
+{
+  "name": "Ava Studio",
+  "category": "Creativity",
+  "provider": "Hologram Labs",
+  "version": "0.8.1",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ad65bd130108191842057e3ffd346c6?category=creativity",
+  "original_description": "Research short-form video references, manage brand media, draft campaign concepts, generate images, video and audio, and edit or export projects in Ava Studio. Sign in with Ava to choose permissions and a monthly credit budget. Actions use existing account credits and return usage information.",
+  "summary_ja": "短い動画の参考調査や、広告企画・画像・動画・音声の制作を支援する。",
+  "limitations_ja": "Avaへのサインインが必要。操作には既存アカウントのクレジットを使う。",
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "Ava Studio",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "広告",
+    "動画制作",
+    "画像生成"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}

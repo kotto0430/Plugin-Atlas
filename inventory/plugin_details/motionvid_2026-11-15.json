@@ -1,0 +1,23 @@
+{
+  "official_app_name": "Motionvid",
+  "provider": "Digisell Hub Ltd",
+  "version": "1.1.1",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6aa82cdc03fc81919026fc6a1fe67e50?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "MotionVid turns a prompt or a script into a finished motion graphics video. Describe what you need, like an animated logo reveal, a product ad, a how-it-works explainer, an animated chart or a map explainer, and MotionVid plans the scenes, animates them, adds narration and music, and renders an MP4 in 16:9, 9:16 or 1:1. Pick a style such as claymation, paper collage or flat vector, apply your brand kit, and preview frames before rendering. Every video stays editable: ask for a change in chat and only that part is rebuilt, or open the project in the MotionVid editor.",
+  "summary_ja": "文章や台本からナレーションや音楽付きのモーショングラフィックス動画を作り、編集・MP4出力する。",
+  "usage_tags": [
+    "動画制作",
+    "アニメーション",
+    "広告制作",
+    "データ可視化"
+  ],
+  "limitations": [
+    "アプリ欄にはMotionVidの有料プランのアカウントで動作すると記載。価格と実動作は未検証。",
+    "既存の外部動画を編集できる範囲は説明だけでは不明。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

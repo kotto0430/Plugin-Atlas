@@ -1,0 +1,25 @@
+{
+  "name": "Fontesh",
+  "category": "Creativity",
+  "provider": "ROUHOLLAH ARMANPAJOUH",
+  "version": "1.0.2",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ad4957849148191aaa51506bd370c86?category=creativity",
+  "original_description": "Fontesh is a font identification tool for designers and content creators who work with Persian and Arabic-script text.\n\nAttach an image that contains Persian text, such as a poster, social media post, logo or screenshot, and ask Fontesh which font it uses. Fontesh detects the text in the image, matches it against its font catalog and shows the closest fonts in an interactive preview card.\n\nWhat you can do:\n• Identify the font in an image and see the closest matches.\n• Compare matches in previews rendered with the actual font files.\n• Type your own sample text and refresh the previews.\n• Open each font's license link before you use it.\n• Mark a result as correct or wrong to help improve recognition.\n\nYou can try a few images as a guest; after that, sign in with a Fontesh account to continue.\n\nFontesh focuses on Persian fonts. It does not edit or generate images and does not create new fonts.",
+  "summary_ja": "画像に含まれるペルシャ語フォントの候補を探し、実際のフォントで比較する。",
+  "limitations_ja": "画像の編集・生成や新しいフォントの作成には非対応。ゲストで数枚試した後はサインインが必要。",
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "official_app_name": "Fontesh",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "フォント",
+    "ペルシャ語",
+    "デザイン"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}

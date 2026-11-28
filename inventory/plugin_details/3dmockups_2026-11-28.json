@@ -1,0 +1,25 @@
+{
+  "official_app_name": "3DMockups",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "3DMockups",
+  "version": "1.0.4",
+  "observed_at": "2026-11-28",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6add7239fc648191bcba695f94de7cbb?category=creativity",
+  "original_description": "3DMockups turns print-on-demand into something you run from ChatGPT: design, preview in 3D, create products and design your store from the chat; we print and ship.\n\nDescribe what you want (\"a retro coffee club badge in 70s colors\") and 3DMockups creates print-ready designs with AI, puts them on real 3D garments and shows you the product photos from the same 3D studio our website and iPhone app use. When you like one, save it to My designs to keep editing it later on the web or in the app, or publish it as a product in your 3DMockups store with real sizes and print files. We print and ship every order.\n\nWhat you can do:\n• Create 1 to 4 print-ready designs (transparent PNG) from a short brief.\n• Preview any design on a 3D garment, with front, three-quarter and back photos.\n• Save a design on its garment to My designs.\n• Publish a product to your store, visible or as a hidden draft.\n• Design or redesign your storefront with Fin, our AI store designer, from a reference website or image, and publish it when you are happy.\n• Change your store name and bio, and the title, description, price or tags of your products.\n• Connect your Shopify store and publish products there; Shopify orders are printed and shipped automatically.\n• See your account, saved designs, products and sales.\n\nHow it works with your account:\n• You sign in with your 3DMockups account and choose Allow. Nothing happens without a connected account.\n• Everything follows the same rules as the 3DMockups website and app, so what you can make here is what your account can make there.\n• Products are published like the ones you publish in the app, with only the sizes each garment is made in.\n• Rendering in 3D takes about a minute for a preview and 2 to 3 minutes to publish. If it takes longer, the assistant checks back on the job.\n\nLimitations: this first version supports all-over print garments. Placement-print garments are coming next. The assistant cannot delete products, change a product's design or photos, or manage individual orders; do that on the 3DMockups website or app.",
+  "original_description_language": "英語",
+  "description_scope": "詳細ページの説明本文",
+  "summary_ja": "衣服のデザインを3Dで確認し、オンデマンド商品や店舗を作る。",
+  "usage_tags": [
+    "衣服デザイン",
+    "3D",
+    "商品販売"
+  ],
+  "limitations_ja": "アカウント連携が必要。初期版は全面プリント衣服に対応と説明。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。"
+}

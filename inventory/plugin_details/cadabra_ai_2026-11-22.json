@@ -1,0 +1,23 @@
+{
+  "official_app_name": "Cadabra AI",
+  "provider": "Meital Sela",
+  "version": "1.1.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6abe0653ea808191b2bf4f4779161229?search=Cadabra+AI",
+  "observed_at": "2026-11-22",
+  "original_description": "Cadabra AI is a full creative studio inside ChatGPT for businesses and creators. Say what you want in one sentence, add a product photo or a selfie if you have one, and get a finished ad, film or picture right in the chat.\nMade for businesses:\n• Product ads: turn one product photo into image ads, a giant product in a city street, or a short video ad.\n• Video ads and films: go from one idea to a cut film with scenes, voiceover, music and captions.\n• Brand content: keep the same character, product or presenter in every shot, with talking avatars and translated versions.\nOne-photo magic: dozens of ready transformations, like you in 1985, hugging your younger self, an action figure in its box, a fashion magazine cover, a Renaissance portrait, anime and a plush toy.\nVoice and sound: narration in your own voice, dialogue between characters, songs, music and sound effects, in English and Hebrew.\nHow it works:\n1. Connect your Cadabra AI account.\n2. Ask in plain words. Cadabra picks the right engine and writes the expert prompt for you.\n3. Before anything is made, you see exactly what will run and approve it.\n4. Your result appears in the chat and is saved to your Cadabra gallery.\nYour creations stay in your own account at livinginmovie.com.",
+  "summary_ja": "商品写真や文章から広告画像・動画・短編映像などを制作する。",
+  "usage_tags": [
+    "広告",
+    "動画制作",
+    "画像制作",
+    "音声"
+  ],
+  "limitations": [
+    "Cadabra AIアカウントの接続が必要。音声は英語とヘブライ語に言及。",
+    "実動作・日本語対応・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "official_app_name": "FashionTrendAI",
+  "provider": "The F_ Word",
+  "version": "2.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6969334d50c081919de6597e024c2983?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "FashionTrendAI helps fashion designers, merchandisers, creative directors, and brands analyze fashion trends inside ChatGPT. Use it to read runway, color, silhouette, fabric, styling, and market signals, then turn those insights into collection direction, moodboard inputs, product briefs, and design concepts. It supports faster seasonal planning, trend research, range building, and early product development with structured fashion intelligence instead of scattered inspiration.",
+  "summary_ja": "ファッションの色・素材・シルエットなどの動向を分析し、企画やデザイン案に生かす。",
+  "usage_tags": [
+    "ファッション",
+    "トレンド調査",
+    "商品企画",
+    "デザイン"
+  ],
+  "limitations": [
+    "情報源・更新頻度・分析精度・実動作・料金は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

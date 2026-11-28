@@ -1,0 +1,25 @@
+{
+  "name": "ThreadCam",
+  "official_app_name": "ThreadCam",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "Ruvix Labs",
+  "version": "1.0.0",
+  "observed_at": "2026-11-27",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac365a812c48191b589d3300ccc8921?category=creativity",
+  "original_description": "ThreadCam puts your design on real 3D garments right in the chat. Ask ChatGPT for a logo, a slogan or a picture, or share your own artwork, and ThreadCam shows it on a t-shirt, hoodie, sweatshirt, cap, shorts or sweatpants that you can spin and look at from every side.\n\nDrag and resize the design, move it from a small left-chest logo to a full front or back print, and try it in the garment's real colours. Ask for changes in plain words (\"make it smaller\", \"try it in sand\", \"put it on the back\") and the panel updates in place.\n\nWhen you like it, ThreadCam tells you what it costs to print and ship, and gives you a secure checkout link on threadcam.com. Your garment is printed on demand and shipped to you. Orders ship to more than 200 countries, up to 50 items per order, in mixed sizes.\n\nIf you already have a ThreadCam account, you can connect it to use the features your account includes inside the panel.\n\nLimitations: ThreadCam won't print trademarked logos, characters or other people's artwork. The 3D mockup is a preview, so colours and print position on the finished garment can differ slightly.",
+  "summary_ja": "デザインを衣服の3Dプレビューに配置し、印刷・配送の価格を確認する。",
+  "limitations_ja": "印刷物の色や位置はプレビューと異なる場合がある。商標ロゴや他人の作品等の印刷は受け付けないと説明。",
+  "usage_tags": [
+    "衣服",
+    "デザイン",
+    "印刷"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "description_scope": "詳細ページ本文の英語説明"
+}

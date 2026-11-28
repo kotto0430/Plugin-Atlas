@@ -1,0 +1,22 @@
+{
+  "official_app_name": "Vivu",
+  "provider": "Vivu.ai",
+  "version": "1.0.1",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6aac98a1d53481919ff505ead57b6f57?category=creativity",
+  "observed_at": "2026-11-17",
+  "original_description": "Search indexed video libraries, find precise moments, open playable previews, summarize videos, and manage projects and uploads from ChatGPT.",
+  "summary_ja": "登録済み動画の場面検索・プレビュー・要約とプロジェクト管理を支援。",
+  "usage_tags": [
+    "動画検索",
+    "動画管理",
+    "要約"
+  ],
+  "limitations": [
+    "検索対象は索引化された動画ライブラリと説明。索引作成や保存の具体的条件は未確認。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

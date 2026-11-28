@@ -1,0 +1,23 @@
+{
+  "official_app_name": "SC Adelsdorf Matchreporter",
+  "provider": "Alexander Kulla",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugins_6ab440fd11d88191afaf195ea34824fd?category=creativity",
+  "observed_at": "2026-11-23",
+  "original_description": "Hilft dir mit fränkischem Charme, perfekte Spielberichte für Social Media zu basteln – #blackandyellow 🖤💛 einfach loslegen!",
+  "summary_ja": "SC Adelsdorf のSNS向け試合レポート作成を支援する。",
+  "usage_tags": [
+    "スポーツ",
+    "SNS",
+    "文章作成"
+  ],
+  "limitations": [
+    "原文はドイツ語。対応範囲や詳細な作成手順は説明だけでは不明。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証",
+    "説明だけでは不明"
+  ]
+}

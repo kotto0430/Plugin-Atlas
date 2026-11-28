@@ -1,0 +1,25 @@
+{
+  "official_app_name": "SVG Lab",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "SVG Lab",
+  "version": "1.1.0",
+  "observed_at": "2026-11-28",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ad2bf1ec4988191a371f507e64ed23b?category=creativity",
+  "original_description": "SVG Lab designs app screens, websites, logos, icons, illustrations, posters, pitch decks and charts in your SVG Lab account, from a plain description. The SVG Lab MCP houses SVG Lab's Design Engine: you bring the product, the content and the direction, and the Design Engine does the design work (layout, spacing, type, colour and drawing) and checks each screen before it is handed over.\n\nWhat you can ask for:\n• App and web screens, laid out on artboards with consistent spacing, type and colour, in a named look you pick\n• Logos, icon sets and illustrations, drawn as vectors\n• Pitch decks, posters and social posts, exported as PDF, PowerPoint or images\n• Charts, and layouts with stock photos from Unsplash or Pexels, credited to the photographer\n• Changes to earlier work: open a saved project and carry on\n• The SVG or the code of any screen, ready to use in your app or site\n\nHow it works: SVG Lab first asks a few questions (the screens, the look, photos or drawings) with a recommended answer for each, then builds while you watch the live view beside the chat. Everything is saved as a project in your SVG Lab account, under My Projects. Open it in the SVG Lab editor at svglab.app to adjust it by hand.\n\nWho it is for: people who build apps and sites but do not design, and anyone who wants finished vector design from a plain description instead of design vocabulary.\n\nLimits:\n• You need an SVG Lab account. You sign in and approve the connection; the app never sees your password.\n• Access to the SVG Lab MCP and the number of requests depend on your SVG Lab account.\n• On ChatGPT Free, designs use stock photos rather than drawn illustrations, because drawing needs ChatGPT's image generation.\n• The first request after a pause can take up to 30 seconds while your editor opens on SVG Lab's servers.\n• It makes vector artwork. It does not generate photographs or other raster images.",
+  "original_description_language": "英語",
+  "description_scope": "詳細ページの説明本文",
+  "summary_ja": "画面・ロゴ・イラストなどのベクターデザインを作成する。",
+  "usage_tags": [
+    "SVG",
+    "UI",
+    "デザイン"
+  ],
+  "limitations_ja": "SVG Labアカウントが必要。Freeプランでは描画イラストの代わりにストック写真を使うと説明。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。"
+}

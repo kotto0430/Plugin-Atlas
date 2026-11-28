@@ -1,0 +1,22 @@
+{
+  "official_app_name": "AI Video Enhancer Studio",
+  "provider": "ContentaSoft AB",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugins_6abfd36ff6ec81918cbf57e2107422af?category=creativity",
+  "observed_at": "2026-11-22",
+  "original_description": "Upscale, stabilize, denoise and smooth videos on your Windows PC with your NVIDIA RTX GPU. AI Video Enhancer Studio is a Windows desktop app for upscaling, stabilizing, denoising and frame-rate conversion of videos on an NVIDIA RTX GPU; this skill teaches the agent its command-line tool (aivideoenhancer), so you ask in plain words and the work runs on your own PC, on your own files, with nothing uploaded. It needs AI Video Enhancer Studio installed (https://www.contenta-software.com/aivideoenhancer/download.php). In Codex the agent runs the commands for you; in ChatGPT it tells you which command to run. Support: bruno@contenta-software.com",
+  "summary_ja": "Windows上で動画の高解像度化・手ぶれ補正・ノイズ除去を支援。",
+  "usage_tags": [
+    "動画編集",
+    "映像補正",
+    "Windows"
+  ],
+  "limitations": [
+    "Windows PC、NVIDIA RTX GPU、専用アプリのインストールが必要。提供元はローカル処理でアップロードしないと説明。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

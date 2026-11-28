@@ -1,0 +1,25 @@
+{
+  "name": "Coloring Pages",
+  "category": "Creativity",
+  "provider": "MegaScenes",
+  "version": "1.0.1",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ae319168bc88191ab21ab08803c5fc5?category=creativity",
+  "original_description": "Name a subject and who it is for and get a coloring page: clean black outlines on white, simple shapes for kids or intricate patterns for adults.\n\nChatGPT tells you what the run needs and creates the page in your MegaScenes account when you ask. The page opens in the chat and stays in your library, ready to print.\n\nFor parents, teachers and anyone who colors to relax.\n\nLimitations: new pages from a description; it does not turn a photo you attach into a coloring page. Making a file needs a signed-in MegaScenes account and runs in it; nothing is made until you confirm. Not for sexual or adult content or for real people's likeness. Files are made by generative models and saved in your MegaScenes library.",
+  "summary_ja": "指定した題材と対象年齢に合わせ、印刷用の塗り絵を作る。",
+  "limitations_ja": "添付写真の塗り絵化には非対応。作成にはサインインが必要。",
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "official_app_name": "Coloring Pages",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "塗り絵",
+    "画像生成"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明",
+  "embedded_app_name": "Coloring Pages by MegaScenes"
+}

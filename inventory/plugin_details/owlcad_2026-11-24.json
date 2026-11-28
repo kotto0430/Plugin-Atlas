@@ -1,0 +1,25 @@
+{
+  "name": "OwlCAD",
+  "official_app_name": "OwlCAD",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "Spare Matter Corp",
+  "version": "1.0.0",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac95358c2e88191b1614e05a19ead85?category=creativity",
+  "original_description": "OwlCAD is a browser-based parametric CAD editor built for 3D printing. With this plugin, ChatGPT can create and edit real OwlCAD projects for you: combine shapes with booleans, use built-in generators for gears, threads and Gridfinity storage, insert datasheet-dimensioned library parts, and set every dimension in millimetres.\n\nBefore calling a part done, ChatGPT can check it: confirm it builds as a watertight solid, measure its size and volume, look for overhangs and thin walls, test whether parts collide, and see whether it fits a specific printer's bed, then cut it into pieces if it does not.\n\nResults stay editable. Every model is a tree of named, dimensioned parts rather than a frozen mesh, so you can open the project in the OwlCAD editor and change any value afterwards. Export STL, 3MF or OBJ for your slicer, STEP for other CAD tools, or a 2D drawing.\n\nWho it is for: makers, students, teachers and engineers who want printable parts from a description.\n\nLimitations: OwlCAD models solid parts. It does not generate images or sculpted organic shapes through this plugin, and it cannot open native files from other CAD programs; it imports STL, OBJ, 3MF and DXF. You need an existing OwlCAD Pro account, and ChatGPT asks you to sign in to OwlCAD the first time you use it.",
+  "summary_ja": "寸法を指定して3D印刷用の編集可能なCAD部品を作り、形状や印刷条件を確認する。",
+  "limitations_ja": "既存のOwlCAD Proアカウントが必要。画像生成や彫刻的な有機形状、他CADの独自形式は非対応と説明。",
+  "usage_tags": [
+    "CAD",
+    "3D印刷",
+    "設計"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "description_scope": "詳細ページ本文の英語説明"
+}

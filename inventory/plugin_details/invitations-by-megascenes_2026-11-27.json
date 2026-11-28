@@ -1,0 +1,25 @@
+{
+  "name": "Invitations by MegaScenes",
+  "official_app_name": "Invitations by MegaScenes",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "MegaScenes",
+  "version": "1.0.1",
+  "observed_at": "2026-11-27",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ae3199ddbb88191bae6d53daa462954?category=creativity",
+  "original_description": "Give the occasion, the main text and the details, and get an invitation or a greeting card with the text in the design.\n\nChatGPT tells you what the run needs and creates the card in your MegaScenes account when you ask. The card opens in the chat and stays in your library, ready to share or print.\n\nGive only the words you want printed on the card: no guest list or contact details are needed.\n\nFor birthdays, weddings, baby showers, holidays and office parties.\n\nLimitations: designs as image files; it does not send the invitations, keep guest lists or track replies. Making a file needs a signed-in MegaScenes account and runs in it; nothing is made until you confirm. Not for sexual or adult content or for real people's likeness. Files are made by generative models and saved in your MegaScenes library.",
+  "summary_ja": "用途と文章を指定して招待状やグリーティングカードの画像を作る。",
+  "limitations_ja": "MegaScenesアカウントが必要。招待状の送信や招待者・返信の管理には非対応と説明。",
+  "usage_tags": [
+    "招待状",
+    "カード",
+    "画像生成"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "description_scope": "詳細ページ本文の英語説明"
+}

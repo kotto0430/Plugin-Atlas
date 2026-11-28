@@ -1,0 +1,24 @@
+{
+  "official_app_name": "3DArtist",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "Imagineers Studio Inc",
+  "version": "1.0.3",
+  "observed_at": "2026-11-28",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6af0e656b8308191a66c3cabf4e0b755?category=creativity",
+  "original_description": "Create raster illustrations of 3D-style objects from text descriptions or an optional reference image. Choose classic, chrome or clay looks and control the aspect ratio and background. This app exports images, not editable 3D models. Choose the controls shown in its original form, save a text/settings recipe, or use the sidebar and conversation workspace. No sign-in is required. Existing daily generation limits apply; result links are unlisted and expire after 24 hours.",
+  "original_description_language": "英語",
+  "description_scope": "詳細ページの説明本文",
+  "summary_ja": "文章や参考画像から3D風のラスター画像を作る。",
+  "usage_tags": [
+    "3D風イラスト",
+    "画像制作"
+  ],
+  "limitations_ja": "編集可能な3Dモデルは出力しない。生成回数制限があり、結果リンクは24時間で失効。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。"
+}

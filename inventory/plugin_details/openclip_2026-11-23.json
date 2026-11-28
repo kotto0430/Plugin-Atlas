@@ -1,0 +1,22 @@
+{
+  "official_app_name": "OpenClip",
+  "provider": "Oak Ridge Ventures FZ-LLC",
+  "version": "1.1.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a63091ee9ec8191b6c002a13464ade9?category=creativity",
+  "observed_at": "2026-11-23",
+  "original_description": "Find the moments worth sharing in interviews, podcasts, and webinars. OpenClip turns a supported video link into ranked clip previews. Review the moments, choose a caption style, and export the clips you select.\n\nFor an existing short video, add captions to an upload up to three minutes long. Find previous videos and read time-coded transcripts to locate a quote or revisit a moment.\n\nConnect your OpenClip account to work with videos in your current team. New clipping jobs require eligible account access and processing credits; Quick Captions has separate export limits. Processing runs in the background; check its status to see when previews or exports are ready.",
+  "summary_ja": "動画から共有向けの場面を探し、字幕を付けて書き出す。",
+  "usage_tags": [
+    "動画編集",
+    "字幕",
+    "切り抜き"
+  ],
+  "limitations": [
+    "アカウント接続が必要。切り抜きには利用可能な権限と処理クレジットが必要。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "AutoShot",
+  "category": "Creativity",
+  "provider": "AutoShot",
+  "version": "1.0.2",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac73eac91bc81919343b32736a6c294?category=creativity",
+  "original_description": "AutoShot helps car dealers and vehicle sellers prepare consistent photos for vehicle listings. Choose a studio background, apply your saved dealership logo to exterior photos, and select license-plate treatment. Preview all five backgrounds, process photos in batches, and download each result from one card. Save background and plate preferences for future photos and retrieve recent results. Manage logo uploads in your AutoShot account. Interior photos retain their cabin view and receive no dealership-logo stamp. Review generated photos before publishing.",
+  "summary_ja": "車両販売用の写真に背景やナンバープレート処理を適用する。",
+  "limitations_ja": "車内写真には販売店ロゴを入れず車内の表示を維持すると説明。公開前に結果を確認するよう求めている。",
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "AutoShot",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "自動車",
+    "商品写真",
+    "画像編集"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}

@@ -1,0 +1,23 @@
+{
+  "official_app_name": "Crealix",
+  "provider": "JORGE JIMENEZ DIAZ",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6abbdfc4957881918983a1f223d495ea?search=Crealix",
+  "observed_at": "2026-11-22",
+  "original_description": "Crealix makes finished short-form and long-form videos from an idea or a script: faceless narrated videos, scene-by-scene videos, Reddit stories, tweet threads, text-message stories, AI dramas, AI movies, music videos and more. It picks a voice, a visual style, captions and music that suit the video from Crealix's catalog (or your saved brand), shows you a proposal to approve, and plays a draft with the voice, captions and music right in the chat. Ask for changes in plain words and render the final MP4 when you're happy. Crealix also generates images, video clips, music, avatar videos and 4K upscales, and uses your own files: attach them to the chat or upload them from the card. Everything is saved to your Crealix library and uses your Crealix credits; the cost is shown before anything is spent, and bigger spends ask for your OK.",
+  "summary_ja": "アイデアや台本から音声・字幕・音楽付き動画を作成・編集。",
+  "usage_tags": [
+    "動画制作",
+    "SNS",
+    "音楽",
+    "画像生成"
+  ],
+  "limitations": [
+    "Crealixのクレジットを使用し、費用は使用前に表示されると説明。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Birthday Songs",
+  "official_app_name": "Birthday Songs",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "Abracadabrax",
+  "version": "1.0.2",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac1293162c08191948d5b8e9766985d?category=creativity",
+  "original_description": "Make a birthday song that uses the person's name and your own memories. ChatGPT helps you write the lyrics, then Abracadabrax sings and produces the track in the style and voice you pick.\n\nThe plugin prepares a draft with the name, the lyrics, the style and the voice, and shows the credits it will use. When you confirm, Abracadabrax produces the song and ChatGPT returns the link to the audio file.\n\nLimitations: new songs only. It does not sing over existing songs, clone anyone's voice or edit uploaded tracks. Producing uses credits of the user's Abracadabrax account. If you are not signed in, the plugin gives a link where the same draft opens on Abracadabrax. Outputs are AI-generated.",
+  "summary_ja": "名前や思い出を入れた誕生日の歌詞と楽曲を作る。",
+  "limitations_ja": "新曲のみ。既存曲への歌唱、声の複製、アップロード済み音源の編集には非対応。生成にはAbracadabraxのクレジットを使用。",
+  "usage_tags": [
+    "音楽",
+    "誕生日",
+    "作詞"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "description_scope": "詳細ページ本文の英語説明"
+}

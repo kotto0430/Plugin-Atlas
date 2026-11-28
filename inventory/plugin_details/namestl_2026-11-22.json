@@ -1,0 +1,22 @@
+{
+  "official_app_name": "NameSTL",
+  "provider": "Soon Up GmbH",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6abf74ad828881918cbd6011bdc96850?category=creativity",
+  "observed_at": "2026-11-22",
+  "original_description": "Create and edit 3D names from your conversation. Choose fonts, colors, thickness and bases for name signs, keychains, pet tags, cake toppers and two-name flip designs. Refine the interactive preview, then connect a NameSTL account to save and reopen designs. Export STL and 3MF files when your connected account has export access. NameSTL explains account access limits when a download is unavailable. File preparation uses a WebGL-capable browser; set the final print size in your slicer. NameSTL creates model files for you to print yourself.",
+  "summary_ja": "名前入りの3Dプリント用デザインを作成し、プレビュー・保存。",
+  "usage_tags": [
+    "3Dプリント",
+    "デザイン",
+    "名札"
+  ],
+  "limitations": [
+    "保存・再読込にはアカウント接続が必要。STL・3MFの書き出しはアカウントのアクセス権に依存。WebGL対応ブラウザが必要。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

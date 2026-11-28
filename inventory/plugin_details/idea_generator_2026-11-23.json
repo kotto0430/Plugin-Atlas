@@ -1,0 +1,24 @@
+{
+  "name": "Idea Generator",
+  "category": "Creativity",
+  "provider": "Ludi Lab",
+  "version": "1.0.2",
+  "observed_at": "2026-11-23",
+  "source_url": "https://chatgpt.com/plugins/plugins_6a7eaa927ac48191b4346001cee2da3c?category=creativity",
+  "original_description": "Generate ideas by decomposing concepts into Idea DNA, crossbreeding and mutating them while preserving explicit constraints and locks.",
+  "summary_ja": "概念を分解・組み合わせて制約を保ちながら新しい発想を生み出す。",
+  "limitations_ja": [],
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "Idea Generator",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "アイデア",
+    "企画"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}

@@ -1,0 +1,22 @@
+{
+  "official_app_name": "WebMockup",
+  "provider": "Saul Martí",
+  "version": "2.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugins_6aa2fbd4eb1c8191a91645956e8ac44d?category=creativity",
+  "observed_at": "2026-11-17",
+  "original_description": "Generate implementation-oriented web design reference images, one horizontal image per section, without writing the frontend implementation.",
+  "summary_ja": "ウェブページの各セクションのデザイン参考画像を作る。",
+  "usage_tags": [
+    "ウェブデザイン",
+    "モックアップ",
+    "画像生成"
+  ],
+  "limitations": [
+    "説明ではフロントエンドの実装は行わない。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

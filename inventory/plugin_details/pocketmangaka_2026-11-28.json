@@ -1,0 +1,25 @@
+{
+  "official_app_name": "PocketMangaka",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "KIZUNA合同会社",
+  "version": "1.1.0",
+  "observed_at": "2026-11-28",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6aec2496afd881919fa22da60ca320a0?category=creativity",
+  "original_description": "PocketMangaka turns what you tell it in an interview into a Japanese manga. The base type is promotional manga: a real customer story, told by a shop or company owner, becomes a manga that makes readers want to get in touch. Other manga types that your PocketMangaka account includes (for example recruiting manga and training manga) follow the same sequence with their own rules; the server tells ChatGPT which types are available when you start. The sequence is fixed: storyline (the order of events), then script (scene headings, stage directions and dialogue), then one image per page, then a PDF. Names, numbers and service details come only from the interview; anything the interview does not answer is left out and reported. The latest rules for both the storyline and the page layout are delivered from the PocketMangaka server after you sign in with your PocketMangaka account; the page-making scripts are included in this plugin. The manga itself is written in Japanese.",
+  "original_description_language": "英語",
+  "description_scope": "詳細ページの説明本文",
+  "summary_ja": "聞き取りを基に販促漫画の筋・脚本・ページ画像・PDFを制作する。",
+  "usage_tags": [
+    "漫画制作",
+    "販促",
+    "PDF"
+  ],
+  "limitations_ja": "PocketMangakaアカウントが必要。漫画は日本語で、利用できる種類はアカウントによる。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。"
+}

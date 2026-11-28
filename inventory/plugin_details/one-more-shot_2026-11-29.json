@@ -1,0 +1,25 @@
+{
+  "official_app_name": "One More Shot",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "KRNL SRL",
+  "version": "1.0.1",
+  "observed_at": "2026-11-29",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ad529e6bea48191904c3abf2320f400?category=creativity",
+  "original_description": "Create AI music videos from your songs with One More Shot, an AI music video generator for musicians, artists, and creators. Turn existing audio into lyric videos or narrative music videos using your singer and character photos.\n\nUpload a song, describe your music video concept, and choose from supported visual styles, video formats, and quality options. Transcribe lyrics, generate a video, track its progress, and preview or download the finished result. Open the embedded workspace to upload media, play videos, and browse your video history.\n\nConnect your One More Shot account to get started. Generation uses existing account credits and requires sufficient credits plus an eligible account with a prior purchase or publisher-granted review access. Director is available in the web workspace; Director tools are not included in this plugin release.",
+  "original_description_language": "英語",
+  "description_scope": "詳細ページの説明本文",
+  "summary_ja": "既存の楽曲と人物画像から歌詞動画や物語形式のミュージックビデオを作る。",
+  "usage_tags": [
+    "音楽制作",
+    "動画制作",
+    "歌詞動画"
+  ],
+  "limitations_ja": "アカウントと十分なクレジット、過去の購入または提供元が許可したレビュー権限が必要。Director機能は本プラグインに含まれない。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。"
+}

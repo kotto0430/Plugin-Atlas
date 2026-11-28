@@ -1,0 +1,25 @@
+{
+  "official_app_name": "TonalBrain",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "TonalBrain",
+  "version": "1.1.0",
+  "observed_at": "2026-11-29",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6afb4882ab288191833d937cb2c379d7?category=creativity",
+  "original_description": "TonalBrain makes mixing plugins for your DAW.\n\nTonalBrain Mix measures every track in your session and sets EQ, compression, panning and effects for each one. Ask your assistant about your latest analysis: why the bass got a cut at 250 Hz, why the kick is compressed more than the snare, or what makes the vocal brighter. The assistant reads the settings TonalBrain chose for each track and shows the EQ curve and module settings of every track. These tools are read-only: they cannot start an analysis or use credits.\n\nTonalBrain Track is a channel strip (EQ, compressor, opto, de-esser, tape, exciter, stereo width) on one track. Press Capture in the plugin, then ask your assistant to mix the track. The assistant reads rounded findings about the track (tone by octave, dynamics, low end, highs, stereo) and sends settings to the plugin. The plugin applies them while its window is open in your DAW. TonalBrain checks every setting before the plugin applies it, and you can change or undo anything in the plugin.\n\nTonalBrain never sends audio. Requires a TonalBrain account. Mix questions need at least one analysis; setting a Track strip needs a TonalBrain Track licence.",
+  "original_description_language": "英語",
+  "description_scope": "詳細ページの説明本文",
+  "summary_ja": "DAWのミックス分析を説明し、対応するトラックの音声処理設定を支援する。",
+  "usage_tags": [
+    "音楽制作",
+    "ミキシング",
+    "DAW"
+  ],
+  "limitations_ja": "アカウントが必要。Mixの質問には分析結果、Trackの設定にはライセンスが必要。Mixの分析読取とTrackの設定送信を区別。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。"
+}

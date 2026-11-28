@@ -1,0 +1,26 @@
+{
+  "name": "T-Shirt Art",
+  "category": "Creativity",
+  "provider": "Abracadabrax",
+  "version": "1.0.2",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ace8f14df2081918b9b1a806dab22e3?category=creativity",
+  "original_description": "Describe a graphic and an optional slogan and get an original print for t-shirts, hoodies and print-on-demand merch, centered on a plain background in the color of the garment.\n\nThe plugin prepares a draft with the slogan spelled exactly, the style, the garment color and the format (front print or chest print). When you confirm, Abracadabrax renders it and ChatGPT returns the link to the image.\n\nFor small brands, bands, events and print-on-demand sellers.\n\nLimitations: original prints from text only. It does not copy brand logos or copyrighted characters, mock up the design on a photo, or place orders with print shops. Producing needs a signed-in Abracadabrax account. If you are not signed in, the plugin gives a link where the same draft opens on Abracadabrax. Outputs are AI-generated.",
+  "summary_ja": "文章からTシャツやパーカー向けのプリント画像を作る。",
+  "limitations_ja": "ロゴ・著作権のあるキャラクターのコピー、写真への合成、印刷発注には非対応。制作にはサインインが必要。",
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "official_app_name": "T-Shirt Art",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "Tシャツ",
+    "デザイン",
+    "画像生成"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明",
+  "embedded_app_name": "Abracadabrax T-Shirt Designs"
+}

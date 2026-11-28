@@ -1,0 +1,22 @@
+{
+  "official_app_name": "Kittl",
+  "provider": "Kittl",
+  "version": "0.1.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_69ec3bce98a288191ad90717b517a2d27?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Generate product shots, mockups, UGC videos, and listing videos. Create merchandise, branding, and marketing assets. All without leaving the chat. Kittl has a workflow built for each one, so you pick the result you want and describe your product. Everything shows up in the chat and saves to your Kittl account. Images are ready to drop onto a mockup or export print-ready. Videos are ready to post. Kittl is where people design and launch the products they sell. This puts it in your chat.",
+  "summary_ja": "商品画像やモックアップ、販促動画などを作り、Kittlアカウントに保存する。",
+  "usage_tags": [
+    "商品画像",
+    "モックアップ",
+    "動画制作",
+    "販促"
+  ],
+  "limitations": [
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

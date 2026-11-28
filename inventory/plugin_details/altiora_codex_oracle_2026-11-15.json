@@ -1,0 +1,21 @@
+{
+  "official_app_name": "The Altiora Codex Oracle",
+  "provider": "Dimensional Frequency",
+  "version": "2.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a666bbee318819198aa3e17cf99e389?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "The Altiora Codex Oracle is a digital environment for personal, spiritual, and creative reflection. Users can open one-card, three-card, or five-card readings and, for multi-card readings, choose between a Full Reading, Core Message, or Personal Transmission. The Oracle supports both English and Dutch, and readings can be saved as a document or PDF. It is intended for personal reflection and inspiration and does not replace medical, legal, financial, or other professional advice.",
+  "summary_ja": "英語・オランダ語でカードリーディングを行い、個人の内省や着想に使う。結果は文書やPDFに保存できると説明。",
+  "usage_tags": [
+    "カードリーディング",
+    "内省",
+    "創作"
+  ],
+  "limitations": [
+    "個人の内省や着想向けで、専門家の助言に代わらないとの説明。実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

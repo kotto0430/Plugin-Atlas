@@ -1,0 +1,25 @@
+{
+  "name": "Bandmixr",
+  "official_app_name": "Bandmixr",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "Bandmixr",
+  "version": "1.0.0",
+  "observed_at": "2026-11-27",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ad76c2248348191a0acb360cf0ec8f6?category=creativity",
+  "original_description": "Bandmixr mixes and masters music you recorded yourself. It is made for musicians, bands and home producers.\n\nCheck a finished song: drop it into the chat and see its loudness, peaks, stereo width and tonal balance with plain-word verdicts, then hear a 30-second mastered preview next to the original. The song is measured in your browser.\n\nMix your stems: upload the separate tracks of a song (vocals, drums, bass, guitars, keys and so on). Bandmixr recognizes what is on each stem, you check the labels and confirm them with one tap, and the mix and the master then run on their own. Listen to the original, the mix and the master side by side in the chat.\n\nChange the mix in words, for example \"vocals a bit louder, less reverb on the guitar, mute the shaker\", and Bandmixr makes the mix and the master again. You can also set each stem's volume, mute, reverb and pan in the studio.\n\nMaster a finished song in one of three styles: Streaming, Standard or Loud.\n\nMixing and full-song masters need a Bandmixr account; checking a song does not. Downloads happen on the song's page on bandmixr.com. Bandmixr processes your own recordings: it does not generate music or voices. Supported files: WAV, AIFF, FLAC and MP3.",
+  "summary_ja": "自分の録音の音量や音質を確認し、パート別のミックスやマスタリングを行う。",
+  "limitations_ja": "ミックスとフル楽曲のマスタリングにはアカウントが必要。音楽や声の生成は行わないと説明。",
+  "usage_tags": [
+    "音楽",
+    "音声編集",
+    "ミキシング"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "description_scope": "詳細ページ本文の英語説明"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "UlazAI Media",
+  "category": "Creativity",
+  "provider": "Samautomation",
+  "version": "1.0.1",
+  "observed_at": "2026-11-23",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a91e85f31c881918c744505e58cc458?category=creativity",
+  "original_description": "UlazAI Media helps users choose a supported image model, prepare a private 1K image request, create it from a recurring sponsored allowance, and retrieve the completed private file.",
+  "summary_ja": "対応モデルを選び、提供枠を使った非公開の1K画像生成を支援する。",
+  "limitations_ja": [
+    "提供枠の詳細や非公開の実際の範囲は未検証。"
+  ],
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "UlazAI Media",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "画像生成",
+    "デザイン"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}

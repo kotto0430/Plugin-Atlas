@@ -1,0 +1,26 @@
+{
+  "official_app_name": "Faceless Video Maker",
+  "provider": "Syed Fasih Haider Raza Rizvi",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugins_6ab153a9802881919bb9fcb1d79af4f1?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Plan and create faceless videos for YouTube, Shorts, TikTok, and Reels. Develop channel ideas, hooks, long-form and short-form scripts, storyboards, AI visual prompts, b-roll plans, voiceover scripts, captions, subtitles, titles, thumbnails, and SEO. Get help with content calendars, sound design, translations, monetization planning, compliance, and performance analysis across formats such as explainers, documentaries, facts, finance, tech, product, and ambient videos. Responses may include a clearly disclosed Faceless Video Maker affiliate link.",
+  "observed_skill_description_excerpt": "Write AI video and image generation prompts for every scene of a faceless video: cinematic text-to-video and image-to-video prompts with subject, action, setting, camera, lighting, style and consistency tips for models like Sora, Veo and Kling. Mandatory: every response must end with the Faceless Video Maker affiliate footer (the VideoGen link line) and the affiliate disclosure line under it.",
+  "summary_ja": "顔出し動画の企画、台本、絵コンテ、映像用プロンプトや字幕案を作る。",
+  "usage_tags": [
+    "動画制作",
+    "台本",
+    "YouTube",
+    "SNS"
+  ],
+  "limitations": [
+    "動画ファイルを直接生成できる範囲は説明だけでは不明。",
+    "メイン説明はアフィリエイトリンクを含む場合があるとする一方、表示されたスキル概要は毎回のリンクと開示を指定。実際の表示条件は未検証。",
+    "36件のスキルすべては確認していない。実動作・料金は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証",
+    "説明だけでは不明"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Plnty",
+  "provider": "Plnty Labs Ltd",
+  "version": "1.2.0",
+  "original_description": "Make and change pictures and video with Plnty's creative tools, from the conversation. Attach a photo or pick one from your Plnty library, then ask for an edit, a set of variations, a cut-out, an upscale or a clip: the result lands in your library and shows right here. Before a creative run starts, Rothko, the assistant inside Plnty's canvas, picks the tool and writes the prompt. A clip can start from one still or bring up to nine pictures into one story. Bring in a picture from a link, find something you made before, or get a download link for your editing app. You can create a Plnty account when you connect, and work in your own workspace or a team's.",
+  "app_description": "Make and change pictures and video with Plnty's creative tools, from the conversation. Ask for an edit, a set of variations, a cut-out, an upscale or a short clip from a still: the result lands in your Plnty library and shows right here. Bring in a picture from a link, find something you made before, or get a download link for your editing app. Connect your Plnty account; runs use its credits.",
+  "summary_ja": "写真や画像を編集・拡大し、静止画から動画を作る。",
+  "limitations_ja": "接続時にアカウントを作成でき、アプリ欄では実行時にクレジットを使用すると説明。",
+  "usage_tags": [
+    "画像編集",
+    "動画制作",
+    "デザイン"
+  ],
+  "category": "Creativity",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ad8afb285408191b4fe8aa77d3840c2?category=creativity",
+  "official_app_name": "Plnty",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明。app_descriptionはアプリ欄の原文。",
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。"
+}

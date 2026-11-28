@@ -1,0 +1,24 @@
+{
+  "name": "Imagen for Real Estate",
+  "category": "Creativity",
+  "provider": "Imagen AI",
+  "version": "1.0.2",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6acb891b0afc8191b11fb9ea5d3311e6?category=creativity",
+  "original_description": "AI real estate photo editing in ChatGPT: fix dark rooms, blown-out windows and crooked walls in your listing photos.\n\nDrop in interior or exterior shots of a house, condo, vacation rental or commercial space, and Imagen AI edits them for a natural, consistent, MLS-ready look:\n\n• Brightens dark, underexposed rooms\n\n• Pulls in blown-out windows so the view outside shows (window pull)\n\n• Removes yellow and orange color casts from mixed lighting\n\n• Straightens leaning walls and vertical lines (perspective correction)\n\n• Swaps gray, overcast skies for blue sky on exteriors\n\nWorks with JPEG and camera RAW (CR2, CR3, NEF, ARW, DNG). Drag the before/after slider on each photo. To download the full-resolution edits, sign in to your Imagen for Real Estate account, or create one, on Imagen's sign-in page. The same account works on imagen-ai.com for full shoots.\n\nMade for real estate photographers, agents and short-term rental hosts getting photos ready for MLS, Zillow, Realtor.com, Airbnb and Vrbo.",
+  "summary_ja": "不動産掲載用の写真の明るさ・色・傾きなどを整える。",
+  "limitations_ja": "フル解像度のダウンロードにはアカウントへのサインインが必要。掲載基準への適合は未検証。",
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "official_app_name": "Imagen for Real Estate",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "不動産",
+    "写真編集"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}

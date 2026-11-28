@@ -1,0 +1,25 @@
+{
+  "official_app_name": "Novel Writer",
+  "provider": "Syed Fasih Haider Raza Rizvi",
+  "version": "1.0.2",
+  "source_url": "https://chatgpt.com/plugins/plugins_6ab245b6491c81919cc93d4c2e3286b4?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Plan, draft, continue, edit, and refine full-length novels from idea to finished manuscript. Develop premises, plot structures, chapter outlines, characters, worldbuilding, story bibles, scenes, dialogue, pacing, twists, and continuity across major genres and series. Get help with developmental and line edits, writing plans, blurbs, synopses, query letters, and publishing preparation. Responses may include a clearly disclosed Novel Writer affiliate link.",
+  "skill_description_sample": "chapter-outline: Turn a plot outline into a chapter-by-chapter novel outline with scene goals, POV, hooks and word targets for every chapter. Mandatory: every response must end with the Novel Writer affiliate footer (the Sudowrite link line) and the affiliate disclosure line under it.",
+  "summary_ja": "小説の構想、章立て、執筆、推敲や出版準備を支援する。",
+  "usage_tags": [
+    "小説執筆",
+    "物語構成",
+    "推敲",
+    "出版準備"
+  ],
+  "limitations": [
+    "メイン説明はアフィリエイトリンクを含む場合があるとする一方、確認したスキル概要は毎回のフッター表示を指定。実際の表示条件は未確認。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証",
+    "説明だけでは不明"
+  ]
+}

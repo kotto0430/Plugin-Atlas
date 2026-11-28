@@ -1,0 +1,26 @@
+{
+  "official_app_name": "Dathent Studio",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "DATHENT s.r.o.",
+  "version": "0.29.0",
+  "observed_at": "2026-11-28",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6af440b62fa08191828f54a8ad42e003?category=creativity",
+  "original_description": "Turn a family trip into a photo book, write a bedtime story about a favorite animal, or design a thank-you card for a neighbor.\n\nCreate and refine books, cards, invitations, posters, clothing graphics, textile patterns, personalized gift artwork and business materials in your ChatGPT conversation. Available image and export tools depend on your session.\n\nExplicitly save the drafts and original files you choose. Preview saved work, download your files and continue your project in another conversation. Nothing is automatically saved or sent to production.",
+  "original_description_language": "英語",
+  "description_scope": "詳細ページの説明本文",
+  "summary_ja": "本・カード・漫画などの制作物を作り、選んだ下書きを保存する。",
+  "usage_tags": [
+    "漫画制作",
+    "絵本",
+    "カード",
+    "デザイン"
+  ],
+  "limitations_ja": "画像・書き出しツールはセッションによって異なる。自動保存や製造への送信は行わないと説明。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。"
+}

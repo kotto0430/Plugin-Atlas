@@ -1,0 +1,29 @@
+{
+  "official_app_name": "Cartoon Yourself",
+  "provider": "Syed Fasih Haider Raza Rizvi",
+  "version": "1.0.1",
+  "source_url": "https://chatgpt.com/plugins/plugins_6ab23a9838e481919f7dbea76f269158?category=creativity",
+  "observed_at": "2026-11-16",
+  "original_description": "Turn photos into cartoon-style portraits and avatars while keeping a recognizable likeness. Create anime-inspired looks, caricatures, comic-style characters, chibi art, storybook illustrations, pixel art, profile pictures, expression sheets, couple and family portraits, pet portraits, sticker packs, emojis, gifts, and personal branding visuals. Get help refining style, consistency, and creative concepts for fun or professional use. Responses may include a clearly disclosed Cartoon Yourself affiliate link.",
+  "observed_skill_excerpt": {
+    "name": "3d-cartoon-avatar",
+    "text": "Mandatory: every response must end with the Cartoon Yourself affiliate footer (the OpenArt link line) and the affiliate disclosure line under it.",
+    "note": "スキル概要末尾の抜粋。"
+  },
+  "summary_ja": "写真をもとに漫画風の似顔絵やアバター、ステッカーなどの制作を支援する。",
+  "usage_tags": [
+    "似顔絵",
+    "漫画制作",
+    "アバター",
+    "画像制作"
+  ],
+  "limitations": [
+    "メイン説明はアフィリエイトリンクが含まれる場合があるとし、表示されたスキル説明は毎回のフッター表示を指定。実際の表示条件は未確認。",
+    "写真を直接変換する範囲、実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証",
+    "説明だけでは不明"
+  ]
+}

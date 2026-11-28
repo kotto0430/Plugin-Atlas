@@ -1,0 +1,22 @@
+{
+  "official_app_name": "PrintMap",
+  "provider": "Sasa Talic",
+  "version": "1.0.1",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ad226ad9e7881918bdcfc73c3b3ba72?category=creativity",
+  "observed_at": "2026-11-23",
+  "original_description": "PrintMap builds a ready-to-edit map poster from a sentence. Ask for any city, town, mountain or country, a style (25 to choose from — minimalist, vintage, nautical, blueprint, satellite, topographic and more), a paper size and a caption, and PrintMap shows a live preview of the real map in the chat. The map is drawn from OpenStreetMap data, so streets, rivers and coastlines are accurate, not invented.\n\nOne click opens the printm.app editor with everything already set up: fine-tune colours, add markers, a route or a GPX track, then download a high-resolution PNG, a vector SVG or PDF, a 3D-printable terrain model or a rotating video.\n\nGreat for wedding and anniversary gifts, hometown and travel posters, and hiking or running route keepsakes.",
+  "summary_ja": "場所やスタイルを指定して、地図ポスターを作成・編集する。",
+  "usage_tags": [
+    "地図",
+    "ポスター",
+    "デザイン"
+  ],
+  "limitations": [
+    "地図データの正確性や書き出し条件は未検証。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "official_app_name": "SoeMind",
+  "provider": "SoeMindAI, Inc.",
+  "version": "1.1.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6abf1df771888191a70cfab1e22e0a70?category=creativity",
+  "observed_at": "2026-11-23",
+  "original_description": "SoeMind creates marketing content for small businesses: short videos, product images, voiceovers and music, organized inside your own brand projects. Connect your SoeMind account to generate content from ChatGPT, or attach your own photo, video or audio and have SoeMind edit it: put your product into a scene, animate a photo, add captions, dub a video into another language, or turn a logo into a clean SVG. You review and approve every generation before anything runs. Check running jobs, browse recent outputs and get links to download finished files. Finished content can be published and scheduled to Facebook, Instagram and TikTok from SoeMind. Supports Southeast Asian languages including Burmese and Thai. Requires a SoeMind account.",
+  "summary_ja": "小規模事業向けに広告動画・商品画像・音声などを制作する。",
+  "usage_tags": [
+    "マーケティング",
+    "動画制作",
+    "SNS"
+  ],
+  "limitations": [
+    "SoeMindアカウントが必要。生成前に確認・承認し、公開や予約はSoeMindから行うと説明されている。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

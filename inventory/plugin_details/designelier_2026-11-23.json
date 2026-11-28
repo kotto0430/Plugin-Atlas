@@ -1,0 +1,25 @@
+{
+  "official_app_name": "Designelier",
+  "provider": "Amura Ventures SL",
+  "version": "1.0.4",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6abe04f558508191aa0611c00086c367?category=creativity",
+  "observed_at": "2026-11-23",
+  "original_description": "Ask Designelier to make 1–6 matching icons or spot illustrations as files you can download: transparent WebP, PNG and SVG, plus a traced vector SVG with editable paths for most flat, line-art and pixel-art styles. The standard SVG files embed raster artwork. Review the plan before generation; a new account's first set can start right away when you ask Designelier to make it. Preview the results in chat and download a ZIP. You can also create website-matched illustration packs from a public URL. Requires a Designelier account. Does not edit or trace existing images, create fonts or build websites.",
+  "summary_ja": "統一したスタイルのアイコンや小さなイラストのセットを生成する。",
+  "usage_tags": [
+    "アイコン",
+    "イラスト",
+    "デザイン"
+  ],
+  "limitations": [
+    "本文は一部スタイルで編集可能なベクターSVGを提供すると説明する一方、アプリ欄はSVGに編集可能なベクターパスはなくベクターのトレースもしないと記載。実際の提供範囲は未確認。",
+    "Designelierアカウントが必要。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証",
+    "説明間の相違を確認・実際の機能は不明"
+  ],
+  "app_description_original": "Create coherent sets of 1–6 stylized icons or isolated spot illustrations from named subjects, a shared style and a color palette. Review the asset plan before generation, preview the results in chat, and download a ZIP with transparent full-canvas and cropped WebP plus self-contained SVG files. SVG files contain embedded raster artwork, not editable vector paths. You can also create website-matched illustration packs from a public URL. Requires a Designelier account. Does not edit existing images, trace vectors, create fonts or build websites."
+}

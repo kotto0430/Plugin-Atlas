@@ -1,0 +1,23 @@
+{
+  "official_app_name": "VEED Video Generator",
+  "provider": "VEED",
+  "version": "3.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_69445b148f08819187525b8c34b00175?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Pick your character. Pick your voice. Generate your video. It's that simple. Browse a library of lifelike characters and natural-sounding voices, then watch your idea come to life as a polished, share-ready video — no cameras, no crew. Perfect for creators, marketers, and anyone who wants pro-quality videos in minutes.",
+  "summary_ja": "人物キャラクターと声を選んで動画を生成する。",
+  "usage_tags": [
+    "動画制作",
+    "アバター",
+    "音声"
+  ],
+  "limitations": [
+    "対応言語、動画の長さ、料金は説明だけでは不明。",
+    "一覧本体との名称照合は未確認。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証",
+    "説明だけでは不明"
+  ]
+}

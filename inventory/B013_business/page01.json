@@ -1,0 +1,524 @@
+{
+  "source": "Business＆オペレーション.pdf",
+  "sha256": "a565a71685964a805522619ee160bc9554b980497a2766488f9329ca83b8d574",
+  "page": 1,
+  "baseline_index_sha": "f61560f4a395e428309adde640105424ebd02365",
+  "rows": [
+    {
+      "row_id": "p01L01",
+      "name": "Shopify",
+      "status": "画像照合済み",
+      "match": true
+    },
+    {
+      "row_id": "p01L02",
+      "name": "Sales",
+      "status": "画像照合済み",
+      "match": true
+    },
+    {
+      "row_id": "p01L03",
+      "name": "Wix",
+      "status": "画像照合済み",
+      "match": true
+    },
+    {
+      "row_id": "p01L04",
+      "name": "Indeed Job Search",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p01L05",
+      "name": "Windsor.ai Facebook Ads",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p01L06",
+      "name": "Ads by HYPD AI: Google & Meta",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p01L07",
+      "name": "Supermetrics Marketing Agent",
+      "status": "画像照合済み",
+      "match": true
+    },
+    {
+      "row_id": "p01L08",
+      "name": "ZoomInfo",
+      "status": "画像照合済み",
+      "match": true
+    },
+    {
+      "row_id": "p01L09",
+      "name": "Zoho CRM",
+      "status": "画像照合済み",
+      "match": true
+    },
+    {
+      "row_id": "p01L10",
+      "name": "MCP Server For WordPress",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p01L11",
+      "name": "Lusha",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p01L12",
+      "name": "HoneyBook",
+      "status": "画像照合済み",
+      "match": true
+    },
+    {
+      "row_id": "p01L13",
+      "name": "Quo",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p01L14",
+      "name": "Windsor.ai Google Ads",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p01L15",
+      "name": "Attio",
+      "status": "画像照合済み",
+      "match": true
+    },
+    {
+      "row_id": "p01L16",
+      "name": "RocketReach",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p01L17",
+      "name": "Vibe Prospecting",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p01L18",
+      "name": "Close",
+      "status": "画像照合済み",
+      "match": true
+    },
+    {
+      "row_id": "p01L19",
+      "name": "Hunter",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p01L20",
+      "name": "Peach for WhatsApp Business",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p01L21",
+      "name": "MailerLite",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p01L22",
+      "name": "Jobicy",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p01L23",
+      "name": "Instantly.ai",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p01L24",
+      "name": "Tailwind",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p01L25",
+      "name": "NetSuite",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p01L26",
+      "name": "ActiveCampaign",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p01L27",
+      "name": "Ads by AdKit: Meta & Google",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p01L28",
+      "name": "Songstats",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p01L29",
+      "name": "Monster Job Search",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p01L30",
+      "name": "FullEnrich",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p01L31",
+      "name": "Jooble",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p01L32",
+      "name": "Teamtailor",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p01L33",
+      "name": "OnePageCRM",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p01L34",
+      "name": "Wialon",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p01L35",
+      "name": "SiteGuru",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p01L36",
+      "name": "Infojobs Brasil",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p01L37",
+      "name": "Fiverr",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p01L38",
+      "name": "Constant Contact",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p01L39",
+      "name": "Apartments.com",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p01L40",
+      "name": "tool4seller",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p01L41",
+      "name": "beehiiv",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p01L42",
+      "name": "Triple Whale",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p01L43",
+      "name": "Business Helper",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p01R01",
+      "name": "vidIQ",
+      "status": "画像照合済み",
+      "match": true
+    },
+    {
+      "row_id": "p01R02",
+      "name": "Windsor.ai",
+      "status": "画像照合済み",
+      "match": true
+    },
+    {
+      "row_id": "p01R03",
+      "name": "HubSpot",
+      "status": "画像照合済み",
+      "match": true
+    },
+    {
+      "row_id": "p01R04",
+      "name": "Apollo.io",
+      "status": "画像照合済み",
+      "match": true
+    },
+    {
+      "row_id": "p01R05",
+      "name": "ChatGPT Ads Manager",
+      "status": "画像照合済み",
+      "match": true
+    },
+    {
+      "row_id": "p01R06",
+      "name": "Upwork",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p01R07",
+      "name": "Ubersuggest",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p01R08",
+      "name": "Webflow",
+      "status": "画像照合済み",
+      "match": true
+    },
+    {
+      "row_id": "p01R09",
+      "name": "Klaviyo",
+      "status": "画像照合済み",
+      "match": true
+    },
+    {
+      "row_id": "p01R10",
+      "name": "Ahrefs",
+      "status": "画像照合済み",
+      "match": true
+    },
+    {
+      "row_id": "p01R11",
+      "name": "Box",
+      "status": "画像照合済み",
+      "match": true
+    },
+    {
+      "row_id": "p01R12",
+      "name": "Clay for reps",
+      "status": "画像照合済み",
+      "match": true
+    },
+    {
+      "row_id": "p01R13",
+      "name": "Adspirer",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p01R14",
+      "name": "Jobber",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p01R15",
+      "name": "Windsor.ai Instagram",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p01R16",
+      "name": "Systeme.io",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p01R17",
+      "name": "Nifty",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p01R18",
+      "name": "JobTread",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p01R19",
+      "name": "W. Google Search Console",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p01R20",
+      "name": "Omnisend",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p01R21",
+      "name": "Maersk",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p01R22",
+      "name": "Planning Center",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p01R23",
+      "name": "Upload-Post",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p01R24",
+      "name": "SE Ranking",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p01R25",
+      "name": "Sanity",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p01R26",
+      "name": "ServiceM8",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p01R27",
+      "name": "Markifact - Google & Meta Ads",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p01R28",
+      "name": "W. Google Business Profile",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p01R29",
+      "name": "iZap",
+      "status": "画像照合済み",
+      "match": true
+    },
+    {
+      "row_id": "p01R30",
+      "name": "Streak",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p01R31",
+      "name": "PDF Editor by PDF net",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p01R32",
+      "name": "Zendrop",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p01R33",
+      "name": "AWeber",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p01R34",
+      "name": "lemlist",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p01R35",
+      "name": "Planable",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p01R36",
+      "name": "Flodesk",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p01R37",
+      "name": "ZeroBounce",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p01R38",
+      "name": "DirectCase Legal Research",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p01R39",
+      "name": "Ocoya",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p01R40",
+      "name": "Respond.io",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p01R41",
+      "name": "GoVeda Patent",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p01R42",
+      "name": "DataForB2B",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p01R43",
+      "name": "PublisherChamp",
+      "status": "画像照合済み",
+      "match": false
+    }
+  ]
+}

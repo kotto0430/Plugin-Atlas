@@ -1,0 +1,27 @@
+{
+  "name": "HZplan",
+  "official_app_name": "HZplan",
+  "provider": "HZplan",
+  "version": "3.2.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a23e2a3a95c819190fe9324aed7c0bc?category=creativity",
+  "developer_url": "https://hzplan.uk/",
+  "category": "Creativity",
+  "observed_at": "2026-11-14",
+  "original_description": "HZplan turns floor-plan images or written dimensions into structured, editable home plans your assistant can reason about. Use AI as a practical design partner to test ideas before you move or buy anything: check whether furniture fits, compare layouts, see how a Scandinavian style changes your bedroom, or model how a new antique table will look in your living room. Your assistant can build and update the plan, furnish rooms, apply finishes and styles, and prepare 2D plans, 3D walkthroughs, and VR views so you can inspect the result and decide what works. If you are starting from scratch, generate a private demo plan to explore what is possible, learn how styles and 3D views work, and move quickly into designing your own home. HZplan supports exploration and decision-making; verify measurements and use qualified professionals for safety-critical or regulated work.",
+  "original_description_language": "en",
+  "description_scope": "ChatGPT詳細画面の提供元の英語説明。",
+  "summary_ja": "間取り画像や寸法から編集可能な住宅プランを作り、家具配置や2D・3D・VR表示を検討する。",
+  "usage_tags": [
+    "間取り",
+    "内装",
+    "3D",
+    "背景資料"
+  ],
+  "limitations_ja": "寸法を確認し、安全に関わる作業や規制対象の作業では有資格者を利用するよう説明。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "詳細画面の説明と情報欄を確認。実動作・料金・品質は未検証。",
+  "catalog_status": "一覧本体との名称照合は未確認。同名・別名の同一性は未確認。"
+}

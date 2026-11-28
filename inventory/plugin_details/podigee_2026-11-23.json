@@ -1,0 +1,22 @@
+{
+  "official_app_name": "Podigee",
+  "provider": "Podigee GmbH",
+  "version": "0.1.1",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac38ec038088191b1134a7909638800?category=creativity",
+  "observed_at": "2026-11-23",
+  "original_description": "Connect your Podigee account to manage audio and video podcast episodes from your assistant. Search transcripts, find quotes with timestamps, compare episode performance, and check distribution status. Preview metadata changes and prepare publishing or scheduling with your approval.\n\nYou need a Podigee account. Available features and analytics history depend on your plan and permissions. The connection accesses only the account you authorize. You can revoke access in Podigee. In ChatGPT, upload recordings through Podigee when your assistant cannot access the file.",
+  "summary_ja": "ポッドキャストのエピソード、文字起こし、配信状況や分析を管理する。",
+  "usage_tags": [
+    "ポッドキャスト",
+    "音声",
+    "配信管理"
+  ],
+  "limitations": [
+    "Podigeeアカウントが必要。機能や分析履歴はプランと権限に依存。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

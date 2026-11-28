@@ -1,0 +1,21 @@
+{
+  "official_app_name": "DesignSystem",
+  "provider": "Saul Martí",
+  "version": "2.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugins_6aa30964bbe88191b15add0cdebc8864?category=creativity",
+  "observed_at": "2026-11-16",
+  "original_description": "Uses the real vendored Impeccable workflow and its references, scripts, agents, and hooks. Specialized for durable product and design-system setup through init, document, and extract.",
+  "summary_ja": "UIプロジェクトの情報やデザインシステムを初期化・文書化し、共通スタイルを抽出する。",
+  "usage_tags": [
+    "デザインシステム",
+    "UIデザイン",
+    "フロントエンド"
+  ],
+  "limitations": [
+    "実動作・出力品質・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "official_app_name": "AutoSprite",
+  "provider": "AutoSprite",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac7050d40ac81918a48cb540c3068e5?category=creativity",
+  "observed_at": "2026-11-23",
+  "original_description": "AutoSprite turns game characters into animated, game-ready spritesheets for 2D games.\n\nDescribe a character or share an image of one, then choose its moves: idle, walk, run, attack, jump, ready-made actions like death or victory, weapon attack combos, 8-direction isometric packs for top-down games, or any custom action you describe. AutoSprite generates each animation as a transparent PNG spritesheet with a JSON atlas that works in Unity, Godot, GameMaker, Phaser and other engines. Animations play right in the chat as soon as they are ready, and everything is saved to your AutoSprite library so you can keep working on autosprite.io.\n\nFor indie and professional game developers who want character animations fast.\n\nRequires an AutoSprite account; generating uses the account's existing credits. 3D models and frame editing are available on autosprite.io but not in ChatGPT.",
+  "summary_ja": "2Dゲーム向けにキャラクターのアニメーションとスプライトシートを作る。",
+  "usage_tags": [
+    "ゲーム制作",
+    "スプライト",
+    "アニメーション"
+  ],
+  "limitations": [
+    "AutoSpriteアカウントとクレジットが必要。3Dモデルとフレーム編集はサイト側の機能。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

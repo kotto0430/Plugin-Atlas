@@ -1,0 +1,22 @@
+{
+  "official_app_name": "B12 Website Generator",
+  "provider": "B12",
+  "version": "2.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_694361dfee78819186aabf41a657510e?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "B12 Website Generator lets you create a professional, engaging, and user-friendly website directly inside ChatGPT. Just describe your business or project in plain language, and the app instantly generates a complete website tailored to your goals and brand.",
+  "summary_ja": "事業や企画の説明からウェブサイトを作成する。",
+  "usage_tags": [
+    "ウェブサイト制作",
+    "ビジネス"
+  ],
+  "limitations": [
+    "公開・ホスティングや料金、出力形式は説明だけでは不明。",
+    "実動作と一覧本体との名称照合は未確認。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証",
+    "説明だけでは不明"
+  ]
+}

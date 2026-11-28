@@ -1,0 +1,25 @@
+{
+  "name": "Character Art",
+  "official_app_name": "Character Art",
+  "provider": "Abracadabrax",
+  "version": "1.0.1",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ae320252f648191842c8b72294b8c33?category=creativity",
+  "developer_url": "https://abracadabrax.app/",
+  "category": "Creativity",
+  "observed_at": "2026-11-14",
+  "original_description": "Describe a hero, a villain or a mascot and get an original character: a portrait, a full-body figure or a character sheet with front, side and back views.\n\nTell ChatGPT who the character is, the world or genre and the art style. The plugin prepares a draft with the view and the image model. When you confirm, Abracadabrax renders the character and ChatGPT returns the link to the image.\n\nFor game masters, game developers, writers and anyone building a world.\n\nLimitations: original characters from text only. It does not draw copyrighted or existing characters or real people, and it does not edit uploaded images. Producing needs a signed-in Abracadabrax account. If you are not signed in, the plugin gives a link where the same draft opens on Abracadabrax. Outputs are AI-generated.",
+  "original_description_language": "en",
+  "summary_ja": "文章から創作キャラクターの肖像・全身像・三面図を作る。",
+  "usage_tags": [
+    "キャラクター制作",
+    "創作",
+    "画像生成"
+  ],
+  "limitations_ja": "既存キャラクター・実在人物・アップロード画像の編集は対象外と説明。Character Makerなどとの同一性は未確認。 生成にはAbracadabraxへのサインインと生成前の確認が必要と説明。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "詳細画面の説明と情報欄を確認。実動作・料金・品質・権利条件は未検証。",
+  "catalog_status": "一覧本体との名称照合は未確認。同名・別名の同一性は未確認。"
+}

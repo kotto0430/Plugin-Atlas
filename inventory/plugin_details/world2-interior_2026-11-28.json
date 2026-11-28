@@ -1,0 +1,25 @@
+{
+  "official_app_name": "World2 Interior",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "LIANG RAO",
+  "version": "0.1.3",
+  "observed_at": "2026-11-28",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6afa3b8d30b48191b83d61dc095de2b1?category=creativity",
+  "original_description": "World2 Interior is an agent-guided 3D room design tool for measured spaces and editable layouts. Create an empty room shell or a furnished design with the available published parametric catalog, read the current design and edit furniture and supported room finishes. Remove furniture or undo a change, then inspect a read-only 3D scene. Anonymous drafts require a private creation credential for edits and cannot be retrieved from a public viewer link. Unpublished furniture or geometry changes needing offline Blender generation are not immediately available. Reference photos do not supply verified room measurements; this tool does not ingest uploads, download model source, arrange physical deliveries or take payments.",
+  "original_description_language": "英語",
+  "description_scope": "詳細ページの説明本文",
+  "summary_ja": "寸法を指定した部屋の家具や仕上げを3Dで設計・編集する。",
+  "usage_tags": [
+    "室内設計",
+    "家具",
+    "3D"
+  ],
+  "limitations_ja": "参考写真から検証済み寸法は得られず、アップロードの取り込みや配送・決済は行わないと説明。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。"
+}

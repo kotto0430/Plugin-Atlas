@@ -1,0 +1,26 @@
+{
+  "name": "BioRender",
+  "official_app_name": "BioRender",
+  "official_name_basis": "ChatGPTのプラグイン詳細画面に表示された名称",
+  "category": "Creativity",
+  "provider": "BioRender",
+  "version": "2.0.1",
+  "observed_at": "2026-11-14",
+  "source_url": "https://chatgpt.com/plugins/plugin_connector_691e3de0d2708191a6476a7b36e38779?category=creativity",
+  "developer_url": "https://biorender.com/",
+  "original_description": "Search BioRender's library of scientific templates, find your files, and generate custom first-draft figures with AI. Results and previews appear right in your conversation, and every item links back to BioRender so you can open and keep editing.",
+  "description_scope": "ChatGPTの詳細画面に表示された提供元の英語説明",
+  "summary_ja": "科学図のテンプレートや保存ファイルを探し、AIで図の下書きを作成する。",
+  "usage_tags": [
+    "科学研究",
+    "科学図",
+    "図解制作"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "limitations_ja": "生成図の科学的な正確性、利用料金、公開・商用利用の条件は未確認。",
+  "review": "詳細画面の説明と情報欄を確認。図の生成やアカウントへの接続は試していない。",
+  "catalog_status": "一覧本体との名称照合は未確認。"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Sequencer",
+  "official_app_name": "Sequencer",
+  "provider": "Sequencer Media",
+  "version": "1.2.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a8c817e1430819190d6e1dcf12edbc2?category=creativity",
+  "developer_url": "https://sequencer.media/plugin?source=chatgpt",
+  "category": "Creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Sequencer turns ideas, reference images, existing footage, articles and webpages into finished images, videos and audio from ChatGPT. Connect your Sequencer account to create product ads and ad variations, architectural walkthroughs, short films, avatar explainers, social clips, storyboards, product photography, thumbnails and branded visuals. Discover a matching workflow and choose from supported image, video and audio models using current capabilities and generation quotes.\n\nGenerate images from text or references, edit supplied images, animate stills, make targeted changes to existing footage, expand videos to new aspect ratios, upscale images and videos, remove backgrounds and convert video to HDR. Create spoken voiceovers, music and sound effects. Build editable scenes and shots, trim clips, arrange narration, add transitions, captions and motion graphics, and export the finished video. Browse, search and reuse media from your connected workspace, then revise the same project as your brief develops.\n\nReview the production plan and cost before paid generation. Projects and results are saved in your Sequencer workspace. Preview images, play videos and audio inline, download completed outputs and open the editable project in Sequencer. Account and billing management take place on sequencer.media.",
+  "original_description_language": "en",
+  "summary_ja": "画像・動画・音声を生成、編集し、シーンを組み合わせて動画を書き出す。",
+  "usage_tags": [
+    "動画制作",
+    "画像制作",
+    "音声",
+    "広告"
+  ],
+  "limitations_ja": "Sequencerアカウントの連携が必要。有料生成前に計画と費用を確認すると説明。機能や費用は実測していない。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "一覧本体との名称照合は未確認。同名・別名の同一性は未確認。",
+  "review": "詳細画面の説明・情報欄を確認。動作、料金、品質は未検証。"
+}

@@ -1,0 +1,26 @@
+{
+  "official_app_name": "Mira AI",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "Global AI Group, Inc.",
+  "version": "0.7.27",
+  "observed_at": "2026-11-29",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6adf66d653248191a59c4e7e129f05c7?category=creativity",
+  "original_description": "Mira AI turns a description, a photo or a clip into finished images, video and sound, right in the conversation.\n\nWhat you can do:\n- Generate images and videos from text or from a reference photo, on a choice of current image and video models.\n- Animate a photo, extend a clip forward or backward, upscale it to 1080p or 4K, raise its frame rate or change its aspect ratio.\n- Edit a clip you already have: change the lighting, weather or backdrop, remove the background, swap one object for another, or redraw one marked area.\n- Add sound: voiceover, multi-voice dialogue, music written for the cut, sound effects, captions, transcripts and clean voice tracks.\n- Reuse your own places and products, and keep a team project's cast consistent across shots.\n- Turn an object into a 3D model you can download, and rig a character so it walks and runs.\n- Work in your team's AI Film Studio and Marketing Studio projects, and learn from community guides that show the real recipe behind each result.\n\nThe bundled skills give the assistant Mira's playbooks for UGC, product shots, ads, cinematic pieces, explainers, anime, illustration, 3D cartoon and pixel art, plus prompting notes for every model.\n\nWho it is for: creators, marketers and small teams who make social video, ads and visuals.\n\nRequirements and limits: you need a Mira account and sign in once when the plugin first asks. Renders run on your existing Mira account, and Mira tells you what a long or heavy job will use before it starts. A video takes a few minutes. Mira refuses sexual content, realistic depictions of real people without their consent and anything else that is not suitable for a general audience.",
+  "original_description_language": "英語",
+  "description_scope": "詳細ページの説明本文",
+  "summary_ja": "画像・動画・音声・3Dモデルの制作や既存動画の編集を支援する。",
+  "usage_tags": [
+    "画像制作",
+    "動画制作",
+    "3D",
+    "音声制作"
+  ],
+  "limitations_ja": "Miraアカウントが必要。動画には数分かかると説明。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Poster Maker",
+  "official_app_name": "Poster Maker",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "POSTER APP LLP",
+  "version": "1.0.0",
+  "observed_at": "2026-11-28",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a5f6cd1de288191a59184a231a6db7c?category=creativity",
+  "original_description": "Poster Maker helps you turn your ideas into professional posters without leaving the chat.\n\nSimply describe what you need—a birthday invitation, restaurant offer, festival greeting, business promotion, event flyer, or social media post—and Poster Maker searches its template library to find the best matching designs. It displays personalized previews directly in ChatGPT instead of generic samples.\n\nAdd details such as a name, date, price, discount, contact number, or business information, and Poster Maker automatically places your content into the selected design so you can see how the final poster will look.\n\nOnce you've found the design you like, open it in the Poster App Lab editor to customize colors, fonts, images, and layout, then download and share your finished poster anywhere.",
+  "original_description_language": "英語",
+  "summary_ja": "テンプレートを検索し、文章を入れたポスターのプレビューを作成する。",
+  "limitations_ja": "同名のMegaScenes版とは別の掲載。仕上げの編集にはPoster App Labエディターを開くと説明。",
+  "usage_tags": [
+    "ポスター",
+    "チラシ",
+    "テンプレート"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "description_scope": "詳細ページ本文の英語説明"
+}

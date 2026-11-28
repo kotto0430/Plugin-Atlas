@@ -1,0 +1,22 @@
+{
+  "official_app_name": "SMC Schrijversstem",
+  "provider": "Scootmobiel Centrum",
+  "version": "1.2.0-rc.15",
+  "source_url": "https://chatgpt.com/plugins/plugins_6aa97d06504081918d771ef28427c650?category=creativity",
+  "observed_at": "2026-11-22",
+  "original_description": "Gebaseerd op rc.13, met een gerichte aanpassing van advies, review en nieuws. De voorbeeldcatalogus, bronherkomst en feitenbescherming blijven behouden. Modelgegevens, waarnemingen, wijzigingen en grenzen krijgen vóór het schrijven een passende plek. Dit is een gebouwde kandidaat; betere eerste schrijfuitvoer is nog niet bewezen.",
+  "summary_ja": "SMCの文体に沿う文章の作成・評価・修正を支援。",
+  "usage_tags": [
+    "文章作成",
+    "文章編集",
+    "オランダ語"
+  ],
+  "limitations": [
+    "説明原文はオランダ語。初回の文章生成が改善されたことはまだ実証されていないと説明。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

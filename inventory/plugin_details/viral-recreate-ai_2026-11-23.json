@@ -1,0 +1,25 @@
+{
+  "name": "Viral Recreate Ai",
+  "category": "Creativity",
+  "provider": "MILLICENT WANGUI KINUTHIA",
+  "version": "1.0.0",
+  "observed_at": "2026-11-23",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a8ebf61c06881919d4f68751ce21524?category=creativity",
+  "original_description": "Viral Recreate AI analyses uploaded images and videos and turns them into structured generation prompts. It can break videos down scene by scene with timestamps, shot descriptions, camera angles, framing, camera movement, subject and object movement, lighting, visual style and sound. It provides separate image-generation, video-generation, movement + sound, complete image and complete video prompts. It can also create image-to-video animation plans from still images.",
+  "summary_ja": "画像や動画を分析し、生成用プロンプトや動きの計画を作る。",
+  "limitations_ja": "実動作・料金は未検証。",
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "Viral Recreate Ai",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "画像制作",
+    "動画制作",
+    "プロンプト"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}

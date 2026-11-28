@@ -1,0 +1,25 @@
+{
+  "name": "Photoshoot GPT: AI Fashion",
+  "official_app_name": "Photoshoot GPT: AI Fashion",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "Lonca Bilişim Teknolojileri A.Ş.",
+  "version": "0.1.9",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ae0c0486ef4819187008a8d9c7f5087?category=creativity",
+  "original_description": "Turn your clothing images into AI-powered fashion photos and videos with Photoshoot GPT. Show your collection on models, reimagine existing fashion photos, and turn still images into videos for your online store, marketplace listings, and social media.\n\nBuilt for clothing brands, online sellers, and creative teams, Photoshoot GPT offers four ways to create content from your product and reference images.\n\nProduct videos\nTurn a still product image into a video. Choose from available motion options to add movement to your photos and create content for product pages, collection launches, and social posts. Start with a photo you already have, without filming new footage.\n\nOn-model product photos\nCreate a new photo of a model wearing your clothing, starting with a product image. Choose a model, background, and pose to shape the presentation—from a clean catalog look to a styled scene for your next collection.\n\nModel replacement\nCreate a new version of an existing fashion photo with a different model. Use a photo that already features your clothing and explore other model looks for the same outfit. Refresh your product photos or develop alternatives for a campaign without starting from a new shoot.\n\nProduct replacement\nUse a reference fashion photo to imagine your own product in that setting. Replace the featured clothing with a piece from your collection, using the reference as a guide for the scene and composition. Explore a new presentation for your product or try different pieces within a similar visual concept.\n\nDescribe what you want to create in your conversation, browse visual options, and choose the direction for your shoot. Your saved products, uploaded images, and generated photos and videos are also available in your Photoshoot GPT website account, so you can continue working across both.\n\nSupports English, Turkish, Spanish, and Portuguese. Requires a Photoshoot GPT account.",
+  "summary_ja": "衣類の商品画像から着用写真や商品動画を作成する。",
+  "limitations_ja": "Photoshoot GPTアカウントが必要。説明上の対応言語は英語・トルコ語・スペイン語・ポルトガル語。",
+  "usage_tags": [
+    "ファッション",
+    "商品写真",
+    "動画制作"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "description_scope": "詳細ページ本文の英語説明"
+}

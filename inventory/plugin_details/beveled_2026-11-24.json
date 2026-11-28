@@ -1,0 +1,25 @@
+{
+  "name": "Beveled",
+  "official_app_name": "Beveled",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "Beveled",
+  "version": "0.2.0",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6aca1491eec881919736e70266ee5b92?category=creativity",
+  "original_description": "Create 2D and 3D device mockups, App Store screenshot sets, webpage captures and showreel videos. The hosted connector processes supplied media on Beveled’s Cloudflare server and returns a preview and a temporary download link for the finished file. No account or API key is required. Local file paths and localhost URLs require the local package. Videos can take several minutes and may exceed fixed one-minute host timeouts.",
+  "summary_ja": "画面画像から端末モックアップやアプリ紹介用画像・動画を作る。",
+  "limitations_ja": "ホスト版は提供したメディアをBeveledのCloudflareサーバーで処理。ローカルファイルパスとlocalhostにはローカルパッケージが必要。",
+  "usage_tags": [
+    "モックアップ",
+    "スクリーンショット",
+    "動画制作"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "description_scope": "詳細ページ本文の英語説明"
+}

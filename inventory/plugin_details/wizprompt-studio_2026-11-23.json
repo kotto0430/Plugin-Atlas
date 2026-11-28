@@ -1,0 +1,22 @@
+{
+  "official_app_name": "WizPrompt Studio",
+  "provider": "WizPrompt",
+  "version": "1.0.5",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ad63b908fa48191803bd56621cf1344?category=creativity",
+  "observed_at": "2026-11-23",
+  "original_description": "WizPrompt helps songwriters, producers, and artists turn song ideas into ready-to-paste music prompts. Describe a mood, story, or reference sound and WizPrompt returns separate title, style, lyrics, exclusions, and optional settings fields, with text-based craft checks and notes on controls your model may not support.\n\nConnect your WizPrompt account to use the tools. You can also reopen saved creative direction, organize projects and albums, build and reuse artist personas, compare prompt revisions while keeping the original, check an album track against the project's arc, record your own listening feedback, and save music preferences you explicitly confirm.\n\nWizPrompt only reads and writes the projects, personas, prompts, and preferences in your own linked account. Some saved-library features depend on the features available to your WizPrompt account. WizPrompt does not generate, play, listen to, or publish audio, and it does not connect to a music-generation service on your behalf; you copy the prepared fields into your chosen service yourself.",
+  "summary_ja": "楽曲のアイデアから音楽生成用のプロンプトや歌詞を作り、企画や版を管理する。",
+  "usage_tags": [
+    "音楽制作",
+    "プロンプト",
+    "歌詞"
+  ],
+  "limitations": [
+    "ツールにはWizPromptアカウントの接続が必要。音声の生成・再生・公開は行わない。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

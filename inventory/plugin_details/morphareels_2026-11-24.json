@@ -1,0 +1,24 @@
+{
+  "name": "MorphaReels",
+  "category": "Creativity",
+  "provider": "Difflex Ltd",
+  "version": "1.0.0",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6acb72dbd08481918fa8b0bc37683949?category=creativity",
+  "original_description": "MorphaReels is a video editor for short vertical videos such as Reels, TikToks and Shorts. With this plugin, ChatGPT works inside your MorphaReels projects: it creates a project, adds text, shapes and images, animates them with keyframes, transitions and presets, and arranges layers on the timeline.\n\nIt is most useful for edits that would take many clicks by hand: placing dozens of layers at once, staggering animations, restyling every caption, or making several versions of one video with different text for testing.\n\nWho it is for: social media managers, marketers and creators who publish short video regularly.\n\nEvery project also opens in the MorphaReels editor in your browser. ChatGPT gives you the link, and you can move any layer, change its properties, adjust its timing, and download the finished MP4 there.\n\nLimitations: you sign in with a MorphaReels account, and the plugin only sees projects that account can access. ChatGPT cannot upload video clips from your device or post to social networks. Upload clips and download the MP4 in the MorphaReels editor.",
+  "summary_ja": "短い縦型動画の文字や画像、アニメーションを編集する。",
+  "limitations_ja": "アカウントが必要。端末からの動画アップロードやMP4ダウンロードは専用エディターで行い、SNS投稿には非対応。",
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "official_app_name": "MorphaReels",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "動画編集",
+    "SNS"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}

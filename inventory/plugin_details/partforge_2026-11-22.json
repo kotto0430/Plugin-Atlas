@@ -1,0 +1,24 @@
+{
+  "official_app_name": "PartForge",
+  "provider": "Pixite Inc.",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6abe85cc701081918335827d63d8b85c?search=PartForge",
+  "observed_at": "2026-11-22",
+  "original_description": "Turn an idea into a 3D-printable object by describing what you need in everyday language. PartForge helps you design custom brackets, clips, phone stands, enclosures, replacement knobs, and other useful parts—no CAD experience required.\nChatGPT creates the 3D model in your PartForge account, builds it, and opens it in a live 3D viewer right in the chat. Rotate it, inspect it from any angle, and use simple sliders to adjust dimensions such as length, wall thickness, or hole size. Choose Keep Settings to save the version you like.\nYour design stays fully editable. Change a measurement and the rest of the model updates to match, making it easy to fit the screw, shelf, device, or 3D printer you actually have. PartForge can also render the part from different angles and check practical details for 3D printing, including wall thickness and whether it fits your printer's build plate.\nWhen the model is ready, open it in PartForge to download an STL or 3MF file for your slicer and 3D printer, or a STEP file for another CAD tool. You can also start from designs in PartForge's public library, publish a finished design with a name and description, or make it private again.\nPartForge never sees your conversation. It receives only the requests ChatGPT sends to your PartForge account.",
+  "summary_ja": "文章から3Dプリント用の部品を設計し、寸法の調整や出力を支援する。",
+  "usage_tags": [
+    "3Dプリント",
+    "CAD",
+    "部品設計"
+  ],
+  "limitations": [
+    "PartForgeアカウントでモデルを作成し、PartForge側でSTL・3MF・STEPを取得すると説明。",
+    "本文は会話自体を見ず送信されたリクエストのみを受け取るとする一方、接続画面の一般的な注意書きは関連する会話やメモリを共有する場合があると記載。実際の共有範囲は未検証。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証",
+    "説明だけでは不明"
+  ]
+}

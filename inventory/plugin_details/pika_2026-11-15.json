@@ -1,0 +1,22 @@
+{
+  "official_app_name": "Pika",
+  "provider": "Pika",
+  "version": "0.21.1",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac466ba11f4819191ee609ea667f124?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Pika's creation apps in your chat: product ads, studio headshots, short films, photo animation, relighting, new camera angles, outfit swaps, lip-sync, soundtracks and more. Pick an app from the gallery or describe what you want, upload your photos and clips, and keep building on earlier results.",
+  "summary_ja": "写真や動画をもとに広告、短編映像、人物写真、音楽などを制作・編集する。",
+  "usage_tags": [
+    "動画制作",
+    "画像編集",
+    "音楽",
+    "広告制作"
+  ],
+  "limitations": [
+    "クレジット消費への言及あり。料金や利用条件、実際の機能は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

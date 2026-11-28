@@ -1,0 +1,25 @@
+{
+  "name": "Book Covers by Abracadabrax",
+  "official_app_name": "Book Covers by Abracadabrax",
+  "provider": "Abracadabrax",
+  "version": "1.0.1",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ace532e12f8819190cfc23ed394e814?category=creativity",
+  "developer_url": "https://abracadabrax.app/",
+  "category": "Creativity",
+  "observed_at": "2026-11-14",
+  "original_description": "Create a front cover for your ebook, Kindle book or print book. Tell ChatGPT the title, the subtitle, the author name, the genre and the look you want, and you get a cover in 2:3 portrait format with the title and the author name set into the design.\n\nThe plugin prepares a draft that keeps your cover text exactly as you wrote it and shows the image model it will use. When you confirm, Abracadabrax renders the cover and ChatGPT returns the link to the image.\n\nBuilt for self-published authors and small publishers who need a clean, readable cover.\n\nLimitations: front covers from text only. It does not design spines or back covers, edit an uploaded cover, or copy the cover of an existing book. Producing needs a signed-in Abracadabrax account. If you are not signed in, the plugin gives a link where the same draft opens on Abracadabrax. Outputs are AI-generated.",
+  "original_description_language": "en",
+  "summary_ja": "書名や著者、ジャンルを指定して電子書籍・印刷本の表紙画像を作る。",
+  "usage_tags": [
+    "表紙制作",
+    "出版",
+    "画像生成"
+  ],
+  "limitations_ja": "表1のみ。背表紙・裏表紙やアップロード表紙の編集は対象外と説明。文字の再現性は未検証。 生成にはAbracadabraxへのサインインと生成前の確認が必要と説明。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "詳細画面の説明と情報欄を確認。実動作・料金・品質・権利条件は未検証。",
+  "catalog_status": "一覧本体との名称照合は未確認。同名・別名の同一性は未確認。"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Logos do Brasil",
+  "category": "Creativity",
+  "provider": "Logos do Brasil",
+  "version": "0.1.1",
+  "observed_at": "2026-11-23",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac2da6c86508191b8f71f568a6853e4?category=creativity",
+  "original_description": "Consulte o catálogo público do Logos do Brasil. Busque uma marca e confira os formatos SVG e PNG, as variantes nativas disponíveis, referências de origem e condições de uso. As ferramentas search e fetch são somente de leitura e não exigem login. Downloads individuais são feitos na página da marca. O plugin não envia arquivos, publica marcas, libera CDN ou concede direitos adicionais sobre marcas.",
+  "summary_ja": "ブラジルのロゴ公開カタログでブランドや形式・出典・利用条件を調べる。",
+  "limitations_ja": [
+    "ポルトガル語原文。追加の商標利用権は付与しないと説明。"
+  ],
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "Logos do Brasil",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "ロゴ",
+    "ブランド",
+    "素材検索"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文のポルトガル語説明"
+}

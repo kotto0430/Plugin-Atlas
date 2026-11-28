@@ -1,0 +1,25 @@
+{
+  "name": "NOXI",
+  "category": "Creativity",
+  "provider": "NOXI",
+  "version": "0.3.3",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac60d5305d4819185a1aa72b14f568b?category=creativity",
+  "original_description": "NOXI is an AI presentation maker for work. It turns a topic, a brief or an outline into a complete, professionally designed slide deck in your NOXI account, using the same engine as noxi.ai. From the chat you can create a presentation (optionally grounded in fresh web research or built from an exact outline), change slides in plain words with NOXI's AI editor, find and read your presentations and templates, and export PDF, PowerPoint or a single-file HTML web version. After a deck is created or changed, NOXI prepares its PDF, PowerPoint and HTML files automatically, and a card in the chat shows the progress, slide previews and the files. Long tasks run in the background and the assistant follows them to completion. Slides are written in the language you ask for, including right-to-left languages such as Arabic. NOXI only works with presentations in the account you connect.",
+  "summary_ja": "話題や構成案からプレゼン資料を作成・編集し、PDF等に出力する。",
+  "limitations_ja": "接続したNOXIアカウント内のプレゼンテーションのみ扱う。",
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "NOXI",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "プレゼン",
+    "スライド",
+    "資料作成"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}

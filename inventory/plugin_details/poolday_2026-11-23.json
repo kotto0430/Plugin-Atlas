@@ -1,0 +1,21 @@
+{
+  "official_app_name": "Poolday",
+  "provider": "Poolday",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac4c5092b9081918fee37bd90c242c2?category=creativity",
+  "observed_at": "2026-11-23",
+  "original_description": "Poolday is an AI video editing platform. With this plugin you brief the Poolday agent from the chat and it does the production work in your Poolday workspace: scripting, footage, voiceover, music, captions, brand kits and rendering. A task runs for minutes in the background. The plugin shows it in a live panel with its status, any question the agent needs answered, and the finished video or image outputs with links to open them in Poolday. You can follow up on a task with a change (\"make it 15 seconds\", \"use the second voice\"), answer the agent's questions from the chat, find earlier tasks, and drop files from your computer into the panel so a task can use them. Media already in your Poolday library can be referenced in a brief, and links to YouTube, TikTok, Instagram or web pages are fetched by Poolday. Connecting asks you to sign in to Poolday and pick one workspace; everything the plugin does happens in that workspace, as you, within your workspace's permissions and credits.",
+  "summary_ja": "Pooldayのワークスペースで動画や画像の制作を依頼し、進捗や修正を管理する。",
+  "usage_tags": [
+    "動画編集",
+    "動画制作"
+  ],
+  "limitations": [
+    "Pooldayへのサインインとワークスペースの選択が必要。権限とクレジットの範囲内で動作。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "layZ AI",
+  "category": "Creativity",
+  "provider": "layZ AI",
+  "version": "8.0.4",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6abe27bf1a448191b607b3469b9b43da?category=creativity",
+  "original_description": "layZ AI turns ChatGPT and Codex into a full video workflow for creators. Start a workflow, create a video, then either open the layZ web video editor to adjust the timeline yourself, or let the AI handle everything and export so the finished video lands right in chat.\n\nPaste a YouTube, TikTok, Instagram, Reels, Shorts, or similar link and layZ downloads the clip, cleans it up, and gets it ready to publish. Make entire videos end to end, from script and voiceover through edit and export. Remove watermarks, captions, and burned-in text. Enhance and upscale footage. Analyze clips and build timeline edits with live progress in your layZ workspace.\n\nConnect your layZ account once, then ask for what you need: download, clean, enhance, edit, run a workflow, or create a full video, and layZ handles the rest.",
+  "summary_ja": "動画の作成・編集・画質調整や書き出しを支援する。",
+  "limitations_ja": "layZアカウントの接続が必要。素材の利用条件や実動作は未検証。",
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "official_app_name": "layZ AI",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "動画制作",
+    "動画編集"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}

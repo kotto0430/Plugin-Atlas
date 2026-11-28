@@ -1,0 +1,25 @@
+{
+  "name": "Social Media Posts",
+  "official_app_name": "Social Media Posts",
+  "provider": "MegaScenes",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6aecebabdca08191babf444d61afe555?category=creativity",
+  "developer_url": "https://megascenes.com/",
+  "category": "Creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Give the message, an optional smaller line such as a date or a website, what it is about and the style. You get a post with your words on it, in the shape you need: a square post for Instagram, a 9:16 story or a 3:4 Pinterest pin.\n\nChatGPT tells you what the design needs and makes it in your MegaScenes account when you ask. The post opens in the chat and stays in your library.\n\nFor small businesses, creators, events and announcements.\n\nLimitations: your text is passed to the model as written and the lettering is drawn by the model, so check it in the result. It does not publish the post to your accounts. Making a file needs a signed-in MegaScenes account and runs in it; nothing is made until you confirm. Not for sexual or adult content or for real people's likeness. Files are made by generative models and saved in your MegaScenes library.",
+  "original_description_language": "en",
+  "summary_ja": "指定した言葉を載せたSNS用画像を作る。",
+  "usage_tags": [
+    "SNS",
+    "画像制作",
+    "広報"
+  ],
+  "limitations_ja": "文字はモデルが描画するため結果の確認が必要。SNSへの投稿は行わず、生成にサインインと確認が必要。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "一覧本体との名称照合は未確認。同名・別名の同一性は未確認。",
+  "review": "詳細画面の説明・情報欄を確認。動作、料金、品質は未検証。"
+}

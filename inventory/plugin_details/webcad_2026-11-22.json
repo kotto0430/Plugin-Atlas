@@ -1,0 +1,22 @@
+{
+  "official_app_name": "WebCAD",
+  "provider": "WebCAD",
+  "version": "1.0.1",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ad41751ba14819188a784b74d509c90?category=creativity",
+  "observed_at": "2026-11-22",
+  "original_description": "WebCAD is a CAD app that runs in the browser. With WebCAD connected, your assistant can design mechanical parts and simple mechanisms for you in WebCAD: it writes the model in ArchScript, WebCAD's text modelling language, builds it in WebCAD, shows you pictures of it, and gives you a STEP file that opens in other CAD tools or can go to a machine shop or a 3D-print service.\n\nWhat you can ask for:\n- Plates, brackets, enclosures, pulleys and other machined or printed parts, with holes, slots, pockets and rounded edges.\n- Assemblies with joints that move, such as hinges, arms and linkages. WebCAD reports parts that collide or come apart as a joint moves through its range.\n- Gear pairs and simple drivetrains.\n- A first stress check of a part: a material, a fixed face and a load, with the peak stress and how far the part bends.\n\nWhat you get:\n- Every build reports PASS, or FAIL with the problems found, so the assistant can fix them before it calls a part done.\n- Pictures of the model from the directions you ask for.\n- A STEP file, made only when the build passes. Download links work for 24 hours.\n- In assistants that show apps in the conversation, a 3D view of the part that you can turn and zoom, with a STEP button.\n\nLimits:\n- A PASS means the model builds in WebCAD. Whether a part is right for its purpose (fit, strength, safety, manufacturability) still needs a person's review.\n- Stress results are a first check for a person to review, not an engineering sign-off.\n- A build takes from about 15 seconds to a few minutes.\n\nYou need a WebCAD account (app.webcad.ca). WebCAD does not keep your scripts after a build; STEP files are deleted after 7 days, and the 3D view's part shapes after 24 hours.",
+  "summary_ja": "機械部品や簡単な機構の設計、画像表示、STEP出力を支援。",
+  "usage_tags": [
+    "CAD",
+    "機械設計",
+    "3Dプリント"
+  ],
+  "limitations": [
+    "WebCADアカウントが必要。PASSはモデルが構築できたことを示し、適合・強度・安全性・製造可能性は人による確認が必要。応力結果も初期確認であり設計承認ではない。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

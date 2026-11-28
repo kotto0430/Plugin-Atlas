@@ -1,0 +1,27 @@
+{
+  "name": "CookUp",
+  "category": "Creativity",
+  "provider": "Angel Chavarro",
+  "version": "0.2.0",
+  "observed_at": "2026-11-23",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac6e9f5b964819189aed37b910099dc?category=creativity",
+  "original_description": "CookUp brings your saved music sessions into chat. Browse sessions, open a real timeline, inspect MIDI and play the saved arrangement without leaving the conversation. Ask ChatGPT to create a beat, revise a melody, change sounds or adjust a mix using CookUp’s session tools and musical context. Undo supported edits and compare saved versions. Connect your CookUp account to access your sessions. Playback reflects saved session data; refresh after changes on the website. Request a downloadable WAV or MP3 of saved arrangements up to ten minutes in chat. Sample a song: attach a track and CookUp finds its tempo, key and best loop, chops it into your library and builds a beat around it, keeping the song, artist and timestamps for a sample-clearance sheet. Built-in effects and routing are included; automation and external VSTs are excluded. Detailed manual MIDI editing and recording happen in the CookUp web studio. AI musical results should be reviewed and auditioned. Find CookUp users by username or exact email, send and accept friend requests, and send independent private session copies to accepted friends or session collaborators when requested.",
+  "summary_ja": "保存した音楽セッションを再生・編集し、楽曲やビートの制作を支援する。",
+  "limitations_ja": [
+    "アカウント接続が必要。細かな手動MIDI編集や録音はウェブスタジオで行う。外部VSTやオートメーションは対象外。"
+  ],
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "CookUp",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "音楽制作",
+    "MIDI",
+    "音声編集"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}

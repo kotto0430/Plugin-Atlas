@@ -1,0 +1,478 @@
+{
+  "source": "Chrome ChatGPT エンターテインメント",
+  "date": "2026-11-14",
+  "catalog_blob": "fd13ece4009fcf170733daf819bb2e7424328a60",
+  "method": "画面を重ねてスクロールし表示名を目視転記。大文字小文字を区別せず名前を照合。",
+  "notes": "誤記・重複の可能性あり。一致は同一性、不一致は新規件数を意味しない。",
+  "counts": {
+    "rows": 116,
+    "matched": 113,
+    "unmatched": 3
+  },
+  "rows": [
+    {
+      "name": "Rising Astrology & Tarot",
+      "matched": true
+    },
+    {
+      "name": "Cookie Stack with Ottie",
+      "matched": true
+    },
+    {
+      "name": "moviegroupies",
+      "matched": true
+    },
+    {
+      "name": "Airline Executive",
+      "matched": true
+    },
+    {
+      "name": "Impostor Party® Games",
+      "matched": true
+    },
+    {
+      "name": "Destiny Atlas",
+      "matched": true
+    },
+    {
+      "name": "Keyshift Chord Transposer",
+      "matched": true
+    },
+    {
+      "name": "TodoWeekend",
+      "matched": true
+    },
+    {
+      "name": "Birthprint",
+      "matched": true
+    },
+    {
+      "name": "Kaucim Palm Reading",
+      "matched": true
+    },
+    {
+      "name": "Gamechalk Score Keeper",
+      "matched": true
+    },
+    {
+      "name": "Sonosfera",
+      "matched": true
+    },
+    {
+      "name": "Kallax.io",
+      "matched": true
+    },
+    {
+      "name": "GolfCore",
+      "matched": true
+    },
+    {
+      "name": "Hiku",
+      "matched": true
+    },
+    {
+      "name": "TopAIMuza",
+      "matched": true
+    },
+    {
+      "name": "Pawn Break",
+      "matched": true
+    },
+    {
+      "name": "Spellbinder",
+      "matched": true
+    },
+    {
+      "name": "LexiDaily",
+      "matched": true
+    },
+    {
+      "name": "TEDDY MOUNTAIN",
+      "matched": true
+    },
+    {
+      "name": "FPLai Assistant",
+      "matched": true
+    },
+    {
+      "name": "Anisongs",
+      "matched": true
+    },
+    {
+      "name": "WeekendSeek",
+      "matched": true
+    },
+    {
+      "name": "fantaclub",
+      "matched": true
+    },
+    {
+      "name": "Spotted.gg",
+      "matched": true
+    },
+    {
+      "name": "withPICA Directory",
+      "matched": true
+    },
+    {
+      "name": "Spinn Radio",
+      "matched": true
+    },
+    {
+      "name": "Token Tally",
+      "matched": true
+    },
+    {
+      "name": "My Market Kitchen",
+      "matched": true
+    },
+    {
+      "name": "Solitaire",
+      "matched": true
+    },
+    {
+      "name": "Pairloop Doubles Mixer",
+      "matched": true
+    },
+    {
+      "name": "CineSenseAI",
+      "matched": true
+    },
+    {
+      "name": "FCData",
+      "matched": true
+    },
+    {
+      "name": "Kickhollow Football",
+      "matched": true
+    },
+    {
+      "name": "Tableu",
+      "matched": true
+    },
+    {
+      "name": "RelayPlay",
+      "matched": true
+    },
+    {
+      "name": "Needl",
+      "matched": true
+    },
+    {
+      "name": "Concertje",
+      "matched": true
+    },
+    {
+      "name": "Nadirball Football Grid",
+      "matched": true
+    },
+    {
+      "name": "Pinnacle Nexus Radio",
+      "matched": true
+    },
+    {
+      "name": "Eyevo",
+      "matched": false
+    },
+    {
+      "name": "Arcopolis",
+      "matched": true
+    },
+    {
+      "name": "IIDX DP Coach",
+      "matched": true
+    },
+    {
+      "name": "PerfectSens",
+      "matched": true
+    },
+    {
+      "name": "Enjoyvent",
+      "matched": false
+    },
+    {
+      "name": "Plazmi",
+      "matched": true
+    },
+    {
+      "name": "Software Notion",
+      "matched": true
+    },
+    {
+      "name": "Pickleheads",
+      "matched": true
+    },
+    {
+      "name": "TodayTix",
+      "matched": true
+    },
+    {
+      "name": "RIFFCADE",
+      "matched": true
+    },
+    {
+      "name": "Which One's Me?",
+      "matched": true
+    },
+    {
+      "name": "Encounter Workbench",
+      "matched": true
+    },
+    {
+      "name": "Bedtime Stories Read Aloud",
+      "matched": true
+    },
+    {
+      "name": "Horror Stories",
+      "matched": true
+    },
+    {
+      "name": "Sonarlex Word Puzzle",
+      "matched": true
+    },
+    {
+      "name": "Winrate",
+      "matched": true
+    },
+    {
+      "name": "Bingers",
+      "matched": true
+    },
+    {
+      "name": "TrulyCricket",
+      "matched": true
+    },
+    {
+      "name": "CuppaZee",
+      "matched": true
+    },
+    {
+      "name": "Chunkplay Stats",
+      "matched": true
+    },
+    {
+      "name": "Dododo Game",
+      "matched": true
+    },
+    {
+      "name": "AI Raiders",
+      "matched": true
+    },
+    {
+      "name": "Freecords — Music Distribution",
+      "matched": true
+    },
+    {
+      "name": "Chess Workshop",
+      "matched": true
+    },
+    {
+      "name": "Freegama Daily Practice",
+      "matched": true
+    },
+    {
+      "name": "Naksha",
+      "matched": true
+    },
+    {
+      "name": "Birthday Videos",
+      "matched": true
+    },
+    {
+      "name": "Cardmine",
+      "matched": true
+    },
+    {
+      "name": "Greedy Worm",
+      "matched": true
+    },
+    {
+      "name": "AI Bar",
+      "matched": true
+    },
+    {
+      "name": "Astrofaith",
+      "matched": true
+    },
+    {
+      "name": "StarBind",
+      "matched": true
+    },
+    {
+      "name": "Pet Videos from Photos",
+      "matched": true
+    },
+    {
+      "name": "Describe the Word Game",
+      "matched": true
+    },
+    {
+      "name": "Med Relax",
+      "matched": true
+    },
+    {
+      "name": "O'Hara Where to Watch",
+      "matched": true
+    },
+    {
+      "name": "ontown",
+      "matched": true
+    },
+    {
+      "name": "Natuurijs.nl",
+      "matched": true
+    },
+    {
+      "name": "Mystery Games: Daily Whodunit",
+      "matched": true
+    },
+    {
+      "name": "Everloot",
+      "matched": true
+    },
+    {
+      "name": "Synthesis Astrology",
+      "matched": true
+    },
+    {
+      "name": "Zonori",
+      "matched": true
+    },
+    {
+      "name": "Pandy Tickets",
+      "matched": true
+    },
+    {
+      "name": "Kineticist",
+      "matched": true
+    },
+    {
+      "name": "StageReview",
+      "matched": true
+    },
+    {
+      "name": "Moving Stars",
+      "matched": true
+    },
+    {
+      "name": "5.5e SRD Oracle",
+      "matched": true
+    },
+    {
+      "name": "HeyNakama",
+      "matched": true
+    },
+    {
+      "name": "pickaru",
+      "matched": true
+    },
+    {
+      "name": "Treat Tracker",
+      "matched": true
+    },
+    {
+      "name": "Keel Stats",
+      "matched": true
+    },
+    {
+      "name": "00Quiz: Your AI Quizmaster",
+      "matched": true
+    },
+    {
+      "name": "Hushword Imposter",
+      "matched": true
+    },
+    {
+      "name": "Nobex Radio",
+      "matched": true
+    },
+    {
+      "name": "Vinyl Record Scanner - VinylAI",
+      "matched": true
+    },
+    {
+      "name": "Boxerbook",
+      "matched": true
+    },
+    {
+      "name": "AstrologyApp.net",
+      "matched": true
+    },
+    {
+      "name": "Praetorium",
+      "matched": true
+    },
+    {
+      "name": "Smart Cricket Scores & Matches",
+      "matched": true
+    },
+    {
+      "name": "Can You Beat AI?",
+      "matched": true
+    },
+    {
+      "name": "Agenda du coin",
+      "matched": true
+    },
+    {
+      "name": "Breakroom",
+      "matched": true
+    },
+    {
+      "name": "Electric State",
+      "matched": true
+    },
+    {
+      "name": "WOIII.me",
+      "matched": false
+    },
+    {
+      "name": "CharGen",
+      "matched": true
+    },
+    {
+      "name": "Fanatical",
+      "matched": true
+    },
+    {
+      "name": "Happy Birthday",
+      "matched": true
+    },
+    {
+      "name": "In Someone Else's Shoes",
+      "matched": true
+    },
+    {
+      "name": "Cubbby",
+      "matched": true
+    },
+    {
+      "name": "GoodWatch",
+      "matched": true
+    },
+    {
+      "name": "GamesLike",
+      "matched": true
+    },
+    {
+      "name": "LineCrush",
+      "matched": true
+    },
+    {
+      "name": "Manchester Tonight",
+      "matched": true
+    },
+    {
+      "name": "Mini Games",
+      "matched": true
+    },
+    {
+      "name": "Rashi Lord",
+      "matched": true
+    },
+    {
+      "name": "Scoreboard by Ideas All Day",
+      "matched": true
+    }
+  ]
+}

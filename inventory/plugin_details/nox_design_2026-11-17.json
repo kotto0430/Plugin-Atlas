@@ -1,0 +1,22 @@
+{
+  "official_app_name": "Nox Design",
+  "provider": "Alberson Hauxwell Apagueño",
+  "version": "0.3.7",
+  "source_url": "https://chatgpt.com/plugins/plugins_6ab3df5b41048191b250883d953bb3e5?category=creativity",
+  "observed_at": "2026-11-17",
+  "original_description": "Especialista en extracción digital de diseños de camisetas y conjuntos, por fondo completo o piezas rectangulares, y digitalización fiel de gráficos.",
+  "description_language": "スペイン語",
+  "summary_ja": "シャツや服のデザインを背景全体または長方形の部分として抽出・デジタル化する。",
+  "usage_tags": [
+    "衣服",
+    "デザイン",
+    "画像編集"
+  ],
+  "limitations": [
+    "実動作・出力形式・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

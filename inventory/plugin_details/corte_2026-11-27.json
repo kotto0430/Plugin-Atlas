@@ -1,0 +1,25 @@
+{
+  "name": "Corte",
+  "official_app_name": "Corte",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "Eli Makes, LLC",
+  "version": "1.0.2",
+  "observed_at": "2026-11-27",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ad02433e68081919cfee6dc860bb691?category=creativity",
+  "original_description": "Corte is an AI media platform: create, edit, automate and publish brand media in one workspace. Connect it and describe the outcome; ChatGPT does the work in your Corte projects.\n\nCreate: generate images, video, music, voiceover and sound effects in your brand's look and voice. Run one-click Applications like Product Reshoot and Virtual Try-On on your own photos.\n\nAutomate: start any of your Workflows, follow the run, and get the results back.\n\nPublish: get a permanent public link for any asset. Create, translate and publish content. Spin up a Build site or app, talk to it, and deploy it.\n\nGrow: draft social posts and campaigns for review, and see how they performed. A person approves or schedules social posts in Corte before anything is sent to a connected channel. Turn a product catalog into ready-to-run ads.\n\nFollow your agents: see what your Corte agents did on each run and what they made.\n\nStay in control: everything lands in the project you choose, and shared projects bill the project owner. You approve exactly what ChatGPT can reach when you connect, and you can disconnect it anytime from Corte's Settings.",
+  "summary_ja": "ブランド向けの画像・動画・音声やSNS投稿を作成・管理し、公開を支援する。",
+  "limitations_ja": "共有プロジェクトは所有者に課金。SNS送信前にCorteで人が承認または予約すると説明。",
+  "usage_tags": [
+    "広告",
+    "画像生成",
+    "SNS"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "description_scope": "詳細ページ本文の英語説明"
+}

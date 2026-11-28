@@ -1,0 +1,25 @@
+{
+  "name": "Wrap",
+  "category": "Creativity",
+  "provider": "Lumina Apps",
+  "version": "1.0.7",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6accaf5a0fdc8191a9f17ed5e54dd389?category=creativity",
+  "original_description": "Wrap turns photos into reusable mockup templates. Ask for a realistic scene of any blank product, or share your own photo, and Wrap converts it while you watch. Then add your designs, adjust how they sit on the product, and export the mockup as an image. Your mockups are saved in your Wrap account, so you can reopen them in later chats or on wrap.design.",
+  "summary_ja": "写真から商品用モックアップを作り、デザインを配置して画像に出力する。",
+  "limitations_ja": "モックアップはWrapアカウントに保存されると説明。実際の利用条件・料金は未確認。",
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "Wrap",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "モックアップ",
+    "商品画像",
+    "デザイン"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}

@@ -1,0 +1,390 @@
+{
+  "source": "Chrome ChatGPT その他",
+  "date": "2026-11-13",
+  "method": "画面を重ねてスクロールし表示名を目視転記。誤記・重複の可能性あり。",
+  "notes": "Tailor.ai 右隣のヘブライ語名および最終行の省略された ZAMA 名は判読保留。Draft dashapi-publish-version は複数表示枠を記録、同一性未確認。",
+  "catalog_blob": "fd13ece4009fcf170733daf819bb2e7424328a60",
+  "counts": {
+    "rows": 94,
+    "matched": 0,
+    "unmatched": 94
+  },
+  "rows": [
+    {
+      "name": "Goodsend",
+      "matched": false
+    },
+    {
+      "name": "아모레몰 AMORE MALL",
+      "matched": false
+    },
+    {
+      "name": "SimVoro – eSIM & SMS Services",
+      "matched": false
+    },
+    {
+      "name": "これいくら？｜価格・中古相場チェック",
+      "matched": false
+    },
+    {
+      "name": "ココナラ",
+      "matched": false
+    },
+    {
+      "name": "Casepoint Gov",
+      "matched": false
+    },
+    {
+      "name": "EasyRegistry",
+      "matched": false
+    },
+    {
+      "name": "SaltyBytes",
+      "matched": false
+    },
+    {
+      "name": "Automania",
+      "matched": false
+    },
+    {
+      "name": "MyProgram",
+      "matched": false
+    },
+    {
+      "name": "SASOM",
+      "matched": false
+    },
+    {
+      "name": "Yooty",
+      "matched": false
+    },
+    {
+      "name": "페이북",
+      "matched": false
+    },
+    {
+      "name": "Stowra",
+      "matched": false
+    },
+    {
+      "name": "올리브영",
+      "matched": false
+    },
+    {
+      "name": "Car Check",
+      "matched": false
+    },
+    {
+      "name": "Testimo",
+      "matched": false
+    },
+    {
+      "name": "굿웨어몰 GOODWEAR MALL",
+      "matched": false
+    },
+    {
+      "name": "Draft dashapi-publish-version",
+      "matched": false
+    },
+    {
+      "name": "ievent.ro",
+      "matched": false
+    },
+    {
+      "name": "Deal.ai",
+      "matched": false
+    },
+    {
+      "name": "CJ온스타일",
+      "matched": false
+    },
+    {
+      "name": "Inmobiliaria Aljarafe Teja2",
+      "matched": false
+    },
+    {
+      "name": "Loppee Business",
+      "matched": false
+    },
+    {
+      "name": "Keuzehulp Studio",
+      "matched": false
+    },
+    {
+      "name": "オカムライト (賃貸版)",
+      "matched": false
+    },
+    {
+      "name": "WiredWhips",
+      "matched": false
+    },
+    {
+      "name": "AIR Bandenservice",
+      "matched": false
+    },
+    {
+      "name": "Style Me by yanabana",
+      "matched": false
+    },
+    {
+      "name": "FitCard",
+      "matched": false
+    },
+    {
+      "name": "Clutch",
+      "matched": false
+    },
+    {
+      "name": "Mesh Local",
+      "matched": false
+    },
+    {
+      "name": "PlaylistAI: AI Playlist Maker",
+      "matched": false
+    },
+    {
+      "name": "탑텐몰 TOPTEN10 MALL",
+      "matched": false
+    },
+    {
+      "name": "Imospot",
+      "matched": false
+    },
+    {
+      "name": "전자랜드",
+      "matched": false
+    },
+    {
+      "name": "Draft dashapi-publish-version",
+      "matched": false
+    },
+    {
+      "name": "Guyal",
+      "matched": false
+    },
+    {
+      "name": "Lowcart",
+      "matched": false
+    },
+    {
+      "name": "A Resplendent Tea Experience",
+      "matched": false
+    },
+    {
+      "name": "Dropair Home",
+      "matched": false
+    },
+    {
+      "name": "SwingSmith",
+      "matched": false
+    },
+    {
+      "name": "청연 (청소연구소)",
+      "matched": false
+    },
+    {
+      "name": "Kompass",
+      "matched": false
+    },
+    {
+      "name": "ギフトコンシェルジュ by 八代目儀兵衛",
+      "matched": false
+    },
+    {
+      "name": "メルカリ",
+      "matched": false
+    },
+    {
+      "name": "SafeBite",
+      "matched": false
+    },
+    {
+      "name": "Skroutz Shopping",
+      "matched": false
+    },
+    {
+      "name": "요기요",
+      "matched": false
+    },
+    {
+      "name": "Tablica 99 — CleanWhale",
+      "matched": false
+    },
+    {
+      "name": "SuperCheap Market",
+      "matched": false
+    },
+    {
+      "name": "mybest おすすめ商品比較",
+      "matched": false
+    },
+    {
+      "name": "Loppee Personal",
+      "matched": false
+    },
+    {
+      "name": "더블유쇼핑",
+      "matched": false
+    },
+    {
+      "name": "Tailor.ai",
+      "matched": false
+    },
+    {
+      "name": "TONALINQ",
+      "matched": false
+    },
+    {
+      "name": "OrderInChat Shopping",
+      "matched": false
+    },
+    {
+      "name": "VEDEO",
+      "matched": false
+    },
+    {
+      "name": "神戸レタス",
+      "matched": false
+    },
+    {
+      "name": "Nailie Beauty（ネイリービューティー）",
+      "matched": false
+    },
+    {
+      "name": "Connectlinx",
+      "matched": false
+    },
+    {
+      "name": "Ogabassey",
+      "matched": false
+    },
+    {
+      "name": "Thrifted",
+      "matched": false
+    },
+    {
+      "name": "롯데ON",
+      "matched": false
+    },
+    {
+      "name": "Gmarket 지마켓",
+      "matched": false
+    },
+    {
+      "name": "Yahoo!ショッピング",
+      "matched": false
+    },
+    {
+      "name": "qiübo Market",
+      "matched": false
+    },
+    {
+      "name": "Rakuten Search Helper｜楽天市場検索",
+      "matched": false
+    },
+    {
+      "name": "Gift Finder",
+      "matched": false
+    },
+    {
+      "name": "信息广场",
+      "matched": false
+    },
+    {
+      "name": "Recall Check",
+      "matched": false
+    },
+    {
+      "name": "Crisp. Air Fryer Recipes",
+      "matched": false
+    },
+    {
+      "name": "eesel Shopping Assistant",
+      "matched": false
+    },
+    {
+      "name": "JAWD",
+      "matched": false
+    },
+    {
+      "name": "Trisport",
+      "matched": false
+    },
+    {
+      "name": "Rett fra Bonden",
+      "matched": false
+    },
+    {
+      "name": "PropFácil",
+      "matched": false
+    },
+    {
+      "name": "uniple checkout",
+      "matched": false
+    },
+    {
+      "name": "Draft dashapi-publish-version",
+      "matched": false
+    },
+    {
+      "name": "이랜드몰 ELAND MALL",
+      "matched": false
+    },
+    {
+      "name": "Qistas",
+      "matched": false
+    },
+    {
+      "name": "Salsmart",
+      "matched": false
+    },
+    {
+      "name": "Реалистимо",
+      "matched": false
+    },
+    {
+      "name": "Senna 传统术数引擎",
+      "matched": false
+    },
+    {
+      "name": "우리동네GS",
+      "matched": false
+    },
+    {
+      "name": "Draft dashapi-publish-version",
+      "matched": false
+    },
+    {
+      "name": "PC Express",
+      "matched": false
+    },
+    {
+      "name": "BankTCG",
+      "matched": false
+    },
+    {
+      "name": "유플러스",
+      "matched": false
+    },
+    {
+      "name": "Carpatics",
+      "matched": false
+    },
+    {
+      "name": "Kubora",
+      "matched": false
+    },
+    {
+      "name": "Energievergelijker by WVE",
+      "matched": false
+    },
+    {
+      "name": "BeautyGo",
+      "matched": false
+    },
+    {
+      "name": "Rozetka: інтернет гіпермаркет",
+      "matched": false
+    }
+  ]
+}

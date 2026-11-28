@@ -1,0 +1,22 @@
+{
+  "official_app_name": "01 Superdesign",
+  "provider": "Superdesign",
+  "version": "0.6.0",
+  "source_url": "https://chatgpt.com/plugins/plugins_6a56fb5f5ea481918f9a87c2d13f0b7c?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "From landing pages and presentations to launch graphics, Superdesign turns your ideas into polished visuals you can explore and refine with ChatGPT. Approve slide outlines, compare design directions on an infinite browser canvas, and keep iterating—all grounded in your brand and existing design system.",
+  "summary_ja": "ランディングページやスライド、告知画像の案を作り、ブラウザー上で比較・修正する。",
+  "usage_tags": [
+    "UIデザイン",
+    "プレゼンテーション",
+    "ウェブ制作",
+    "画像制作"
+  ],
+  "limitations": [
+    "既存デザインシステムの読み込み方法、実動作・料金は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Accounting",
+  "official_app_name": "Accounting",
+  "official_name_basis": "ChatGPTのプラグイン詳細画面に表示された名称",
+  "category": "Finance",
+  "provider": "OpenAI",
+  "version": "1.0.0",
+  "observed_at": "2026-11-14",
+  "source_url": "https://chatgpt.com/plugins/Plugin_60db802073a48191b7256d1c268d7a47?category=finance",
+  "original_description": "An accounting assistant for work in your software and workbooks, from everyday bookkeeping to reporting and audits. It helps you work through problems and check the results, with explanations grounded in your records and a clear account of changes it makes.",
+  "description_scope": "ChatGPTのプラグイン詳細に表示された提供元の英語説明",
+  "summary_ja": "帳簿付けから報告・監査まで、会計ソフトやワークブック上の作業と結果の確認を支援する。",
+  "usage_tags": [
+    "会計",
+    "簿記",
+    "監査",
+    "経営管理"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "limitations_ja": "詳細画面は変更内容の説明にも言及するが、個々のサービスで実行可能な操作や利用条件は未検証。",
+  "compatible_plugins_displayed": [
+    "QuickStart",
+    "NetSuite",
+    "Xero",
+    "Rillet",
+    "Campfire",
+    "Gmail",
+    "Outlook Email",
+    "Google Drive",
+    "SharePoint"
+  ],
+  "example_prompts": [
+    "Check my accounting workbook for errors",
+    "Can you tie out this bank statement to the GL?",
+    "Explain this month's variances from budget"
+  ],
+  "review": "詳細画面の説明と連携可能なプラグイン欄を確認。個人や企業の会計データを接続せず、実際の動作は確認していない。",
+  "catalog_status": "一覧本体との名称照合は未確認。Accountingは一般的な名称のため同名製品との同一性に注意。"
+}

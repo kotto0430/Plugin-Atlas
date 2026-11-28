@@ -1,0 +1,23 @@
+{
+  "official_app_name": "3D Website Creator",
+  "provider": "The Doers Firm LTD",
+  "version": "1.0.1",
+  "source_url": "https://chatgpt.com/plugins/plugins_6ac8b869e5308191bb06de77c7389543?category=creativity",
+  "observed_at": "2026-11-22",
+  "original_description": "Plan immersive 3D websites from a brief, reference site, or existing project. Map distinct scenes for each page, choose a visual direction, plan camera motion and interactions, and define practical architecture. Includes studio and portfolio concepts, cinematic home and interior journeys, truthful live-preview and data guidance, responsive accessibility, complete 2D fallbacks, and route-by-route visual QA. This skills-only plugin provides instructions and prompts; it does not host, fetch, monitor, or deploy a website by itself.",
+  "summary_ja": "3Dウェブサイトの場面・動き・構成・表示確認を計画。",
+  "usage_tags": [
+    "ウェブ制作",
+    "3D",
+    "デザイン",
+    "アクセシビリティ"
+  ],
+  "limitations": [
+    "スキルのみのプラグインであり、単体ではサイトのホスティング、取得、監視、デプロイを行わないと説明。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

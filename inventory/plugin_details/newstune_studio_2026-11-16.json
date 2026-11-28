@@ -1,0 +1,21 @@
+{
+  "official_app_name": "NewsTune Studio",
+  "provider": "GUANYU CHEN",
+  "version": "1.3.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a58673988ac8191abcdf00db9c98fc3?category=creativity",
+  "observed_at": "2026-11-16",
+  "original_description": "NewsTune Studio creates private podcast episodes from approved scripts or source material. Preview one exact batch quote for 2–10 episodes, approve it once, and let NewsTune generate episodes sequentially while tracking each status and episode-page link. Reuse unchanged approvals, compare accessible voices, maintain transcripts and assets, and publish exact approved public pages and RSS separately.",
+  "summary_ja": "承認済みの原稿や資料からポッドキャストの非公開エピソードを作り、音声や公開ページ、RSSを管理する。",
+  "usage_tags": [
+    "ポッドキャスト",
+    "音声制作",
+    "RSS"
+  ],
+  "limitations": [
+    "作成見積もりや公開範囲を承認する流れとの説明。実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

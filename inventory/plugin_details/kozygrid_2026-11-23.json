@@ -1,0 +1,21 @@
+{
+  "official_app_name": "KozyGrid",
+  "provider": "KozyGrid",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6abaaa55cf808191acfa57da6fa63596?category=creativity",
+  "observed_at": "2026-11-23",
+  "original_description": "KozyGrid helps you turn ideas and images into editable chunky blanket patterns. Create a design in ChatGPT, prepare it for KozyGrid, open it in the editor, and refine stitches, colors, size, and layout before downloading your pattern kit. You can also browse existing KozyGrid blanket templates when you want a ready-made starting point.",
+  "summary_ja": "アイデアや画像から太い糸のブランケット用の編み図を作り、編集する。",
+  "usage_tags": [
+    "編み物",
+    "手芸",
+    "デザイン"
+  ],
+  "limitations": [
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

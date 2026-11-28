@@ -1,0 +1,24 @@
+{
+  "name": "TuneCraft: AI Music Generator",
+  "category": "Creativity",
+  "provider": "ZHU SHENSHEN",
+  "version": "1.1.0",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6adcc51c407c8191ad0a835e4a1955b9?category=creativity",
+  "original_description": "Turn an idea, a moment, or a story into a song. Describe what you want to hear, choose a style and mood, and TuneCraft creates two takes for you to explore. Try another style, bring back your latest song, or browse the songs in your connected TuneCraft library. In ChatGPT, listen with the turntable player and switch between Take A and Take B. In Codex, get song information and links to listen on the TuneCraft website.\n\nSign in to your TuneCraft account to create and access your songs. Generated song pages are public and show the creator's display name. Song audio is normally available for three days; download the takes you want to keep from the website. TuneCraft cannot delete songs through the plugin. Requests to imitate real artists, reuse copyrighted lyrics, or include sexually explicit content are not supported.",
+  "summary_ja": "説明や雰囲気の指定から2種類の楽曲を作る。",
+  "limitations_ja": "生成した曲のページは公開され表示名が載る。音声は通常3日間利用可能。プラグインから曲の削除はできない。",
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "TuneCraft: AI Music Generator",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "作曲",
+    "音楽生成"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}

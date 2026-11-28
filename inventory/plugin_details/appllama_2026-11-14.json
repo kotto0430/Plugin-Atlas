@@ -1,0 +1,26 @@
+{
+  "name": "Appllama",
+  "provider": "Antmind",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a8fef0864e88191b4eeb977b085f371?category=creativity",
+  "developer_url": "https://appllama.io/",
+  "original_description": "Appllama is the design library of the highest grossing mobile apps: their screens, flows, onboarding and paywalls, with revenue context. The platform serves founders, designers and product teams across the world to help them design apps people love to use.",
+  "summary_ja": "売上上位のモバイルアプリの画面、操作フロー、オンボーディングや課金画面を調べるためのデザイン資料。",
+  "usage_tags": [
+    "UIデザイン",
+    "アプリ調査",
+    "オンボーディング"
+  ],
+  "limitations_ja": "プラグインで利用できる具体的な操作や収益情報の範囲は説明だけでは不明。",
+  "official_app_name": "Appllama",
+  "official_name_basis": "ChatGPTのプラグイン詳細画面に表示された名称",
+  "category": "Creativity",
+  "observed_at": "2026-11-14",
+  "description_scope": "ChatGPT詳細画面の提供元の英語説明。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "詳細画面の説明と情報欄を確認。実機能、料金、品質は未検証。",
+  "catalog_status": "一覧本体との名称照合は未確認。同名・別名の同一性は未確認。"
+}

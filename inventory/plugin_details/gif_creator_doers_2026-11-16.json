@@ -1,0 +1,21 @@
+{
+  "official_app_name": "GIF Creator",
+  "provider": "The Doers Firm",
+  "version": "0.1.0",
+  "source_url": "https://chatgpt.com/plugins/plugins_6ab2084094a08191ab61fc064aec1b49?category=creativity",
+  "observed_at": "2026-11-16",
+  "original_description": "Create animated GIFs from scratch or user-uploaded images in expressive visual styles. Plan frames, motion, timing, loops, transitions, captions, and export settings for social posts, stickers, explainers, product demos, memes, and more.",
+  "summary_ja": "アイデアや画像からGIFアニメーションを作り、動き・字幕・ループなどを調整する。",
+  "usage_tags": [
+    "GIF",
+    "アニメーション",
+    "画像制作"
+  ],
+  "limitations": [
+    "実動作・出力品質・料金・一覧本体との照合は未検証。既存のGIF MakerやGifGenとは別の表示名・詳細ページ。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

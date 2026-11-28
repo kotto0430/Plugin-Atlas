@@ -1,0 +1,25 @@
+{
+  "name": "EdThumb",
+  "category": "Creativity",
+  "provider": "Infowan",
+  "version": "1.0.0",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6acd0b959568819190a32be9a197f9c6?category=creativity",
+  "original_description": "Create YouTube and Shorts thumbnails by chatting with ChatGPT. Pick from 300+ ready-made styles in a visual gallery, use the characters you saved (your face, with high fidelity) and describe the video in one sentence. Link your channel and choose 3 reference thumbnails: EdThumb learns your channel's visual identity (text style, colors, effects) and keeps new thumbnails consistent with it, without copying. Adjust directly in the editor by marking areas on the image, move elements and compare versions. To find out what converts, generate 3 variations with different ideas for YouTube's Test & Compare and mark the winner: EdThumb learns what works on your channel. Thumbnails are saved to your EdThumb projects. Requires an EdThumb account.",
+  "summary_ja": "YouTubeやShorts向けのサムネイルを作成・編集し、案を比較する。",
+  "limitations_ja": "EdThumbアカウントが必要。効果や生成精度は未検証。",
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "official_app_name": "EdThumb",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "YouTube",
+    "サムネイル",
+    "画像制作"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}

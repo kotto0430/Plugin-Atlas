@@ -1,0 +1,25 @@
+{
+  "name": "Image Upscaler",
+  "category": "Creativity",
+  "provider": "MegaScenes",
+  "version": "1.0.1",
+  "observed_at": "2026-11-23",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ae317d52bfc819190ca58d3902dface?category=creativity",
+  "original_description": "Pick an image from your MegaScenes library, an upload or one made here, and get a sharper, larger version of it.\n\nChatGPT lists your recent images, tells you what the run needs and upscales the one you choose when you ask. The result opens in the chat and stays in your library.\n\nFor prints, banners, product pages and wallpapers.\n\nLimitations: it starts from images in your MegaScenes library; pictures attached in the chat are not passed to the plugin. Making a file needs a signed-in MegaScenes account and runs in it; nothing is made until you confirm. Not for sexual or adult content or for real people's likeness. Files are made by generative models and saved in your MegaScenes library.",
+  "summary_ja": "ライブラリ内の画像を高解像度に拡大する。",
+  "limitations_ja": "MegaScenesアカウントが必要。チャット添付画像はプラグインに渡されないと説明。",
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "Image Upscaler",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "画像編集",
+    "印刷",
+    "商品画像"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}

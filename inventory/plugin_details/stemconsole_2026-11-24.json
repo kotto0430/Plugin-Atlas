@@ -1,0 +1,25 @@
+{
+  "name": "StemConsole",
+  "category": "Creativity",
+  "provider": "Dan Murtagh",
+  "version": "1.0.0",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ad84c437ecc81918d72db95d4119903?category=creativity",
+  "original_description": "Turn your recording into a backing track you can practise with inside ChatGPT.\n\nStemConsole separates a song into vocals, drums, bass and other, or adds guitar and piano with Full Separation, using your existing StemConsole account and allowance. Attach an audio file or provide a supported audio-file link. When processing finishes, mix and practise with the stems directly in ChatGPT: mute or solo parts, balance the mix, loop a section, find the key and BPM, and export a mix, stems, a MIDI tempo map or a click track. Available separation modes, formats and practice controls depend on your account entitlements. Your songs remain in your StemConsole library so you can reopen them on stemconsole.ai. Separation quality varies with the recording; use audio you have the right to process.",
+  "summary_ja": "楽曲をパート別に分け、ミックスや練習用の伴奏を作る。",
+  "limitations_ja": "既存アカウントと利用枠が必要。利用可能な分離・形式・練習機能は契約権限による。",
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "official_app_name": "StemConsole",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "音楽制作",
+    "音源分離",
+    "演奏練習"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}

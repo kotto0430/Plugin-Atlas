@@ -1,0 +1,23 @@
+{
+  "official_app_name": "3aqel Arabic Creative",
+  "provider": "SHADY HALLOUN",
+  "version": "1.1.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a9c2a3d40448191b3a20a2605cd3010?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Create editable Arabic motion graphic designs for offers, announcements and social posts. Browse real templates, fill their text and colors, then open your personalized design in 3aqel to preview, edit and request export. Creating a design is free and does not require an account. Shareable design links expire after seven days; the chat tool does not render video or send email.\n\nFor voiceovers, connect your existing 3aqel account, choose a catalogue voice and Arabic dialect, approve a script of up to 500 characters, and retrieve the finished audio. Voice generation uses your available account allowance. Dialect delivery can vary.",
+  "summary_ja": "アラビア語の広告用動画デザインを作り、連携アカウントで音声を生成する。",
+  "usage_tags": [
+    "アラビア語",
+    "モーショングラフィックス",
+    "音声合成",
+    "販促"
+  ],
+  "limitations": [
+    "チャット上では動画レンダリングやメール送信を行わず、共有リンクは7日で期限切れと説明。音声生成はアカウントの利用枠を使用。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

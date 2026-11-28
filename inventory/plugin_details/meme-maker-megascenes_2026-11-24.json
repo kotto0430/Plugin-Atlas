@@ -1,0 +1,25 @@
+{
+  "name": "Meme Maker",
+  "category": "Creativity",
+  "provider": "MegaScenes",
+  "version": "1.0.1",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ae318a5af848191a578cc6f65c0dc40?category=creativity",
+  "original_description": "Give the joke and the captions and get an original meme image with the text set in the picture.\n\nChatGPT tells you what the run needs and creates the meme in your MegaScenes account when you ask. The meme opens in the chat and stays in your library.\n\nFor group chats, social posts and presentations that need a laugh.\n\nLimitations: original images only; it does not use real people's faces or existing meme templates you attach. Making a file needs a signed-in MegaScenes account and runs in it; nothing is made until you confirm. Not for sexual or adult content or for real people's likeness. Files are made by generative models and saved in your MegaScenes library.",
+  "summary_ja": "文章とキャプションからオリジナルのミーム画像を作る。",
+  "limitations_ja": "実在人物の顔や添付した既存のミームテンプレートは使わない。作成にはサインインが必要。",
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "official_app_name": "Meme Maker",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "ミーム",
+    "画像生成"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明",
+  "embedded_app_name": "Meme Maker by MegaScenes"
+}

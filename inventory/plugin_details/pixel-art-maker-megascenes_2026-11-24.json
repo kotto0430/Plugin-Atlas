@@ -1,0 +1,26 @@
+{
+  "name": "Pixel Art Maker",
+  "category": "Creativity",
+  "provider": "MegaScenes",
+  "version": "1.0.1",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ae3183b03648191809ad7a22274e03c?category=creativity",
+  "original_description": "Describe a subject and a look and get a pixel art image: an 8-bit hero, a 16-bit castle, a cozy room or a tiny icon.\n\nChatGPT tells you what the run needs and creates the image in your MegaScenes account when you ask. The image opens in the chat and stays in your library.\n\nFor game prototypes, profile pictures and retro posters.\n\nLimitations: images in a pixel art look; it does not export sprite sheets or game-ready animations. Making a file needs a signed-in MegaScenes account and runs in it; nothing is made until you confirm. Not for sexual or adult content or for real people's likeness. Files are made by generative models and saved in your MegaScenes library.",
+  "summary_ja": "説明からレトロなドット絵風画像を作る。",
+  "limitations_ja": "MegaScenesアカウントが必要。スプライトシートやゲーム用アニメーションの出力には対応しない。",
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "Pixel Art Maker",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "ドット絵",
+    "画像生成",
+    "ゲーム制作"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明",
+  "embedded_app_name": "Pixel Art Maker by MegaScenes"
+}

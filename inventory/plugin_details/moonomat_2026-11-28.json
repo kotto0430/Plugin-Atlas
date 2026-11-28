@@ -1,0 +1,24 @@
+{
+  "official_app_name": "Moonomat",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "Christian Schulz",
+  "version": "1.1.0",
+  "observed_at": "2026-11-28",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ace0bee667c8191938c466cf27d4054?category=creativity",
+  "original_description": "Design 3D models by chatting with ChatGPT, with nothing to install. ChatGPT writes the design, and you see the 3D model take shape right in the chat, on desktop and on your phone.\n\nChatGPT works in a loop: it writes the design, runs it, renders the model to check its work, and fixes errors on its own.\n\nThe result is a parametric design, not a frozen file. Designs are written in Moon, a small text-based design language that ChatGPT handles for you, so every dimension, count and material stays a parameter. Try variants by changing the parameters on the model in the chat, and keep refining the design with ChatGPT, prompt by prompt.\n\nUse it to:\n• Design anything from a mug to a building from a description, a sketch or photos\n• Turn a design into a configurator with parameters anyone can change\n• Open the design in Moonomat to keep editing, export it as glTF (.glb), share it as a link or embed it on a web page\n\nRequirements: a Moonomat account. Each chat's design is stored with your Moonomat account, so it is still there when you come back to the chat.",
+  "original_description_language": "英語",
+  "description_scope": "詳細ページの説明本文",
+  "summary_ja": "会話から寸法などを調整できる3Dデザインを作成する。",
+  "usage_tags": [
+    "3D",
+    "パラメトリック設計"
+  ],
+  "limitations_ja": "Moonomatアカウントが必要。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。"
+}

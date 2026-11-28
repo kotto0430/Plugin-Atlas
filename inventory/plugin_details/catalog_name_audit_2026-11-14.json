@@ -1,0 +1,472 @@
+{
+  "observed_at": "2026-11-14",
+  "repository": "kotto0430/Plugin-Atlas",
+  "branch": "feature/popular-17-v3-12-20261113",
+  "source_catalog": "index.html",
+  "source_catalog_blob": "27fc7d17ee843cc9e0651a6c2913c06326f3b9db",
+  "source_catalog_entries": 3941,
+  "source_details": "inventory/plugin_details/README.md のJSONリンク35件",
+  "method": "JavaScriptのcatalog配列をJSONとして読み取り、名称をNFKC正規化し、英字の大小・前後空白・連続空白の差をならして比較。記号や語の違いは除去しない。",
+  "results": {
+    "detail_records": 35,
+    "matched_names": 34,
+    "unmatched_names": 1,
+    "matched_catalog_rows_per_name": "各1行"
+  },
+  "caveats": [
+    "名前一致だけでは同一アプリと確定できない。",
+    "atlas-pdf-のIDはサイト内仮IDであり公式IDではない。",
+    "名前不一致は未収録候補であり、同義語・名称変更の可能性は残る。",
+    "機能・料金・利用可能性は別途確認が必要。"
+  ],
+  "items": [
+    {
+      "detail_name": "Palimpsest",
+      "detail_file": "palimpsest_2026-11-14.json",
+      "matches": [],
+      "identity_verified": false
+    },
+    {
+      "detail_name": "TradingCursor",
+      "detail_file": "tradingcursor_2026-11-14.json",
+      "matches": [
+        {
+          "name": "TradingCursor",
+          "id": "atlas-pdf-tradingcursor",
+          "category": "Finance",
+          "source": "directory"
+        }
+      ],
+      "identity_verified": false
+    },
+    {
+      "detail_name": "IBI SMART",
+      "detail_file": "ibi_smart_2026-11-14.json",
+      "matches": [
+        {
+          "name": "IBI SMART",
+          "id": "atlas-pdf-ibi-smart",
+          "category": "Finance",
+          "source": "directory"
+        }
+      ],
+      "identity_verified": false
+    },
+    {
+      "detail_name": "Economic Mind",
+      "detail_file": "economic_mind_2026-11-14.json",
+      "matches": [
+        {
+          "name": "Economic Mind",
+          "id": "atlas-pdf-economic-mind",
+          "category": "Finance",
+          "source": "directory"
+        }
+      ],
+      "identity_verified": false
+    },
+    {
+      "detail_name": "S&P Global - Deterministic",
+      "detail_file": "sp_global_deterministic_2026-11-14.json",
+      "matches": [
+        {
+          "name": "S&P Global - Deterministic",
+          "id": "atlas-pdf-s-p-global-deterministic",
+          "category": "Finance",
+          "source": "directory"
+        }
+      ],
+      "identity_verified": false
+    },
+    {
+      "detail_name": "VODER",
+      "detail_file": "voder_2026-11-14.json",
+      "matches": [
+        {
+          "name": "VODER",
+          "id": "atlas-pdf-voder",
+          "category": "Finance",
+          "source": "directory"
+        }
+      ],
+      "identity_verified": false
+    },
+    {
+      "detail_name": "Third Bridge",
+      "detail_file": "third_bridge_2026-11-14.json",
+      "matches": [
+        {
+          "name": "Third Bridge",
+          "id": "atlas-pdf-third-bridge",
+          "category": "Finance",
+          "source": "directory"
+        }
+      ],
+      "identity_verified": false
+    },
+    {
+      "detail_name": "CB Insights",
+      "detail_file": "cb_insights_2026-11-14.json",
+      "matches": [
+        {
+          "name": "CB Insights",
+          "id": "atlas-pdf-cb-insights",
+          "category": "Finance",
+          "source": "directory"
+        }
+      ],
+      "identity_verified": false
+    },
+    {
+      "detail_name": "Cube",
+      "detail_file": "cube_2026-11-14.json",
+      "matches": [
+        {
+          "name": "Cube",
+          "id": "atlas-pdf-cube",
+          "category": "Finance",
+          "source": "directory"
+        }
+      ],
+      "identity_verified": false
+    },
+    {
+      "detail_name": "Parqet",
+      "detail_file": "parqet_2026-11-14.json",
+      "matches": [
+        {
+          "name": "Parqet",
+          "id": "atlas-pdf-parqet",
+          "category": "Finance",
+          "source": "directory"
+        }
+      ],
+      "identity_verified": false
+    },
+    {
+      "detail_name": "Massive",
+      "detail_file": "massive_2026-11-14.json",
+      "matches": [
+        {
+          "name": "Massive",
+          "id": "atlas-pdf-massive",
+          "category": "Finance",
+          "source": "directory"
+        }
+      ],
+      "identity_verified": false
+    },
+    {
+      "detail_name": "Bigdata.com",
+      "detail_file": "bigdata_com_2026-11-14.json",
+      "matches": [
+        {
+          "name": "Bigdata.com",
+          "id": "atlas-pdf-bigdata-com",
+          "category": "Finance",
+          "source": "directory"
+        }
+      ],
+      "identity_verified": false
+    },
+    {
+      "detail_name": "Unusual Whales",
+      "detail_file": "unusual_whales_2026-11-14.json",
+      "matches": [
+        {
+          "name": "Unusual Whales",
+          "id": "atlas-pdf-unusual-whales",
+          "category": "Finance",
+          "source": "directory"
+        }
+      ],
+      "identity_verified": false
+    },
+    {
+      "detail_name": "Moneytree",
+      "detail_file": "moneytree_2026-11-14.json",
+      "matches": [
+        {
+          "name": "Moneytree",
+          "id": "atlas-pdf-moneytree",
+          "category": "Finance",
+          "source": "directory"
+        }
+      ],
+      "identity_verified": false
+    },
+    {
+      "detail_name": "CryptoAudit",
+      "detail_file": "cryptoaudit_2026-11-14.json",
+      "matches": [
+        {
+          "name": "CryptoAudit",
+          "id": "atlas-pdf-cryptoaudit",
+          "category": "Finance",
+          "source": "directory"
+        }
+      ],
+      "identity_verified": false
+    },
+    {
+      "detail_name": "Rallies",
+      "detail_file": "rallies_2026-11-14.json",
+      "matches": [
+        {
+          "name": "Rallies",
+          "id": "atlas-pdf-rallies",
+          "category": "Finance",
+          "source": "directory"
+        }
+      ],
+      "identity_verified": false
+    },
+    {
+      "detail_name": "Synci",
+      "detail_file": "synci_2026-11-14.json",
+      "matches": [
+        {
+          "name": "Synci",
+          "id": "atlas-pdf-synci",
+          "category": "Finance",
+          "source": "directory"
+        }
+      ],
+      "identity_verified": false
+    },
+    {
+      "detail_name": "Kubera",
+      "detail_file": "kubera_2026-11-14.json",
+      "matches": [
+        {
+          "name": "Kubera",
+          "id": "atlas-pdf-kubera",
+          "category": "Finance",
+          "source": "directory"
+        }
+      ],
+      "identity_verified": false
+    },
+    {
+      "detail_name": "Co-Invest",
+      "detail_file": "co_invest_2026-11-14.json",
+      "matches": [
+        {
+          "name": "Co-Invest",
+          "id": "atlas-pdf-co-invest",
+          "category": "Finance",
+          "source": "directory"
+        }
+      ],
+      "identity_verified": false
+    },
+    {
+      "detail_name": "Accounting",
+      "detail_file": "accounting_openai_2026-11-14.json",
+      "matches": [
+        {
+          "name": "Accounting",
+          "id": "atlas-pdf-accounting",
+          "category": "Finance",
+          "source": "directory"
+        }
+      ],
+      "identity_verified": false
+    },
+    {
+      "detail_name": "StrategyTune: Backtesting",
+      "detail_file": "strategytune_backtesting_2026-11-14.json",
+      "matches": [
+        {
+          "name": "StrategyTune: Backtesting",
+          "id": "atlas-pdf-strategytune-backtesting",
+          "category": "Finance",
+          "source": "directory"
+        }
+      ],
+      "identity_verified": false
+    },
+    {
+      "detail_name": "LONA™",
+      "detail_file": "lona_2026-11-14.json",
+      "matches": [
+        {
+          "name": "LONA™",
+          "id": "atlas-pdf-lona",
+          "category": "Finance",
+          "source": "directory"
+        }
+      ],
+      "identity_verified": false
+    },
+    {
+      "detail_name": "HyperFrames by HeyGen",
+      "detail_file": "hyperframes_by_heygen_2026-11-14.json",
+      "matches": [
+        {
+          "name": "HyperFrames by HeyGen",
+          "id": "atlas-pdf-hyperframes-by-heygen",
+          "category": "Design",
+          "source": "directory"
+        }
+      ],
+      "identity_verified": false
+    },
+    {
+      "detail_name": "Creative Claw",
+      "detail_file": "creative_claw_2026-11-14.json",
+      "matches": [
+        {
+          "name": "Creative Claw",
+          "id": "atlas-pdf-creative-claw",
+          "category": "Design",
+          "source": "directory"
+        }
+      ],
+      "identity_verified": false
+    },
+    {
+      "detail_name": "Creative Production",
+      "detail_file": "creative_production_openai_2026-11-14.json",
+      "matches": [
+        {
+          "name": "Creative Production",
+          "id": "atlas-pdf-creative-production",
+          "category": "Design",
+          "source": "directory"
+        }
+      ],
+      "identity_verified": false
+    },
+    {
+      "detail_name": "Krea",
+      "detail_file": "krea_2026-11-14.json",
+      "matches": [
+        {
+          "name": "Krea",
+          "id": "atlas-pdf-krea",
+          "category": "Design",
+          "source": "directory"
+        }
+      ],
+      "identity_verified": false
+    },
+    {
+      "detail_name": "Pollo AI",
+      "detail_file": "pollo_ai_2026-11-14.json",
+      "matches": [
+        {
+          "name": "Pollo AI",
+          "id": "atlas-pdf-pollo-ai",
+          "category": "Design",
+          "source": "directory"
+        }
+      ],
+      "identity_verified": false
+    },
+    {
+      "detail_name": "Mobbin",
+      "detail_file": "mobbin_2026-11-14.json",
+      "matches": [
+        {
+          "name": "Mobbin",
+          "id": "atlas-pdf-mobbin",
+          "category": "Design",
+          "source": "directory"
+        }
+      ],
+      "identity_verified": false
+    },
+    {
+      "detail_name": "Refero",
+      "detail_file": "refero_2026-11-14.json",
+      "matches": [
+        {
+          "name": "Refero",
+          "id": "atlas-pdf-refero",
+          "category": "Design",
+          "source": "directory"
+        }
+      ],
+      "identity_verified": false
+    },
+    {
+      "detail_name": "to3D",
+      "detail_file": "to3d_2026-11-14.json",
+      "matches": [
+        {
+          "name": "to3D",
+          "id": "atlas-pdf-to3d",
+          "category": "Design",
+          "source": "directory"
+        }
+      ],
+      "identity_verified": false
+    },
+    {
+      "detail_name": "BioRender",
+      "detail_file": "biorender_2026-11-14.json",
+      "matches": [
+        {
+          "name": "BioRender",
+          "id": "atlas-pdf-biorender",
+          "category": "Design",
+          "source": "directory"
+        }
+      ],
+      "identity_verified": false
+    },
+    {
+      "detail_name": "MyFonts",
+      "detail_file": "myfonts_2026-11-14.json",
+      "matches": [
+        {
+          "name": "MyFonts",
+          "id": "atlas-pdf-myfonts",
+          "category": "Design",
+          "source": "directory"
+        }
+      ],
+      "identity_verified": false
+    },
+    {
+      "detail_name": "VideoZero",
+      "detail_file": "videozero_2026-11-14.json",
+      "matches": [
+        {
+          "name": "VideoZero",
+          "id": "atlas-pdf-videozero",
+          "category": "Design",
+          "source": "directory"
+        }
+      ],
+      "identity_verified": false
+    },
+    {
+      "detail_name": "Instavar Video Templates",
+      "detail_file": "instavar_video_templates_2026-11-14.json",
+      "matches": [
+        {
+          "name": "Instavar Video Templates",
+          "id": "atlas-pdf-instavar-video-templates",
+          "category": "Design",
+          "source": "directory"
+        }
+      ],
+      "identity_verified": false
+    },
+    {
+      "detail_name": "MagicPath",
+      "detail_file": "magicpath_2026-11-14.json",
+      "matches": [
+        {
+          "name": "MagicPath",
+          "id": "plugin_asdk_app_6a883213fb288191aa91f89a5db31f60",
+          "category": "Design",
+          "source": "search"
+        }
+      ],
+      "identity_verified": false
+    }
+  ]
+}

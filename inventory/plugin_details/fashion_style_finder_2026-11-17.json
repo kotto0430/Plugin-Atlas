@@ -1,0 +1,23 @@
+{
+  "official_app_name": "Fashion & Style Finder",
+  "provider": "Ravi K Gupta",
+  "version": "0.1.0",
+  "source_url": "https://chatgpt.com/plugins/plugins_6ab455067a088191a0f01d9e1a0d46db?category=creativity",
+  "observed_at": "2026-11-17",
+  "original_description": "Help users find the right sneakers, running shoes, sportswear, streetwear, and designer fashion. Delivers styling advice, footwear cushioning and fit comparisons, and seasonal wardrobe recommendations with direct shopping links to verified fashion brands.",
+  "summary_ja": "靴や衣服の選び方、履き心地の比較、季節の着こなしを提案する。",
+  "usage_tags": [
+    "ファッション",
+    "買い物",
+    "靴",
+    "コーディネート"
+  ],
+  "limitations": [
+    "ブランドへの買い物リンクを提示すると説明。対象ブランドやリンクの条件は未確認。",
+    "実動作・価格情報・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

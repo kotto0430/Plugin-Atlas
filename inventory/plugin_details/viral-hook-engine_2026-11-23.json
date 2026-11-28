@@ -1,0 +1,27 @@
+{
+  "name": "Viral Hook Engine",
+  "category": "Creativity",
+  "provider": "Stephen Mayall",
+  "version": "0.16.1+bundle.069905d6c45fb116e333ba56f48e3aed",
+  "observed_at": "2026-11-23",
+  "source_url": "https://chatgpt.com/plugins/plugins_6ac88d43ebdc81918bf4f975e477c980?category=creativity",
+  "original_description": "Create and adapt social media opening hooks using formulas from the included hook library. Results depend on your content and audience.",
+  "summary_ja": "SNS投稿の冒頭を、収録された型を使って作成・調整する。",
+  "limitations_ja": [
+    "成果は内容と対象読者に依存すると説明。"
+  ],
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "Viral Hook Engine",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "SNS",
+    "文章作成",
+    "マーケティング"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}

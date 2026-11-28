@@ -1,0 +1,1165 @@
+{
+  "source": "Chrome ChatGPT 金融",
+  "date": "2026-11-14",
+  "method": "アクセシビリティ文書のインストールボタン名を抽出。出力は途中で切れ、インストール済みなどは欠落しうる。",
+  "catalog_blob": "ed517167a5188fd9018de0c4c041e146750b43b9",
+  "counts": {
+    "rows": 288,
+    "matched": 286,
+    "unmatched": 2
+  },
+  "rows": [
+    {
+      "name": "Interactive Brokers (IBKR)",
+      "matched": true
+    },
+    {
+      "name": "Public Equity Investing",
+      "matched": true
+    },
+    {
+      "name": "Binance",
+      "matched": true
+    },
+    {
+      "name": "Longbridge",
+      "matched": true
+    },
+    {
+      "name": "Stripe",
+      "matched": true
+    },
+    {
+      "name": "Massive",
+      "matched": true
+    },
+    {
+      "name": "Bigdata.com",
+      "matched": true
+    },
+    {
+      "name": "CoinMarketCap",
+      "matched": true
+    },
+    {
+      "name": "Financial Datasets",
+      "matched": true
+    },
+    {
+      "name": "CoinGecko",
+      "matched": true
+    },
+    {
+      "name": "IOL invertironline",
+      "matched": true
+    },
+    {
+      "name": "Webull",
+      "matched": true
+    },
+    {
+      "name": "Parqet",
+      "matched": true
+    },
+    {
+      "name": "Alpha Vantage",
+      "matched": true
+    },
+    {
+      "name": "TradingCursor",
+      "matched": true
+    },
+    {
+      "name": "Stocktwits",
+      "matched": true
+    },
+    {
+      "name": "QBO Connector by Meridian",
+      "matched": true
+    },
+    {
+      "name": "Bybit",
+      "matched": true
+    },
+    {
+      "name": "Unusual Whales",
+      "matched": true
+    },
+    {
+      "name": "Xero",
+      "matched": true
+    },
+    {
+      "name": "FMP",
+      "matched": true
+    },
+    {
+      "name": "TipRanks",
+      "matched": true
+    },
+    {
+      "name": "MyInvestor",
+      "matched": true
+    },
+    {
+      "name": "Era Context",
+      "matched": true
+    },
+    {
+      "name": "Alpaca Paper Trading",
+      "matched": true
+    },
+    {
+      "name": "Quartr",
+      "matched": true
+    },
+    {
+      "name": "Moneytree",
+      "matched": true
+    },
+    {
+      "name": "Investment Banking",
+      "matched": true
+    },
+    {
+      "name": "TraderSpy",
+      "matched": true
+    },
+    {
+      "name": "CryptoAudit",
+      "matched": true
+    },
+    {
+      "name": "Fugle-Stock",
+      "matched": true
+    },
+    {
+      "name": "Co-Invest",
+      "matched": true
+    },
+    {
+      "name": "TickerLayer",
+      "matched": true
+    },
+    {
+      "name": "Mercury",
+      "matched": true
+    },
+    {
+      "name": "Rallies",
+      "matched": true
+    },
+    {
+      "name": "StrategyTune: Backtesting",
+      "matched": true
+    },
+    {
+      "name": "Portfolio Dividend Tracker",
+      "matched": true
+    },
+    {
+      "name": "LONA™",
+      "matched": true
+    },
+    {
+      "name": "Zacks Financial Data",
+      "matched": true
+    },
+    {
+      "name": "AlphaStocks",
+      "matched": true
+    },
+    {
+      "name": "PayPal",
+      "matched": true
+    },
+    {
+      "name": "Synci",
+      "matched": true
+    },
+    {
+      "name": "Fiscal.ai",
+      "matched": true
+    },
+    {
+      "name": "Revolut X",
+      "matched": true
+    },
+    {
+      "name": "Next Stock - Market Insights",
+      "matched": true
+    },
+    {
+      "name": "Token Terminal",
+      "matched": true
+    },
+    {
+      "name": "Kubera",
+      "matched": true
+    },
+    {
+      "name": "Itau Beneficios",
+      "matched": true
+    },
+    {
+      "name": "VODER",
+      "matched": true
+    },
+    {
+      "name": "Accounting",
+      "matched": true
+    },
+    {
+      "name": "PitchBook",
+      "matched": true
+    },
+    {
+      "name": "Pocket Ledger Expense Tracker",
+      "matched": true
+    },
+    {
+      "name": "FinancialFilings",
+      "matched": true
+    },
+    {
+      "name": "Fakturoid",
+      "matched": true
+    },
+    {
+      "name": "PicPay",
+      "matched": true
+    },
+    {
+      "name": "StockLens",
+      "matched": true
+    },
+    {
+      "name": "ForInvest",
+      "matched": true
+    },
+    {
+      "name": "The Fly Market Intelligence",
+      "matched": true
+    },
+    {
+      "name": "FactSet AI-Ready Data",
+      "matched": true
+    },
+    {
+      "name": "PocketSmith Complete Access",
+      "matched": true
+    },
+    {
+      "name": "Finhay",
+      "matched": true
+    },
+    {
+      "name": "Razorpay",
+      "matched": true
+    },
+    {
+      "name": "Bull AI",
+      "matched": true
+    },
+    {
+      "name": "LSEG",
+      "matched": true
+    },
+    {
+      "name": "Exum: ExoScope Crypto",
+      "matched": true
+    },
+    {
+      "name": "Crunchbase",
+      "matched": true
+    },
+    {
+      "name": "Xero Connector by Meridian",
+      "matched": true
+    },
+    {
+      "name": "KiasuMiles",
+      "matched": true
+    },
+    {
+      "name": "IBI SMART",
+      "matched": true
+    },
+    {
+      "name": "AIXBT",
+      "matched": true
+    },
+    {
+      "name": "Morningstar",
+      "matched": true
+    },
+    {
+      "name": "Simply Family Budget",
+      "matched": true
+    },
+    {
+      "name": "Aiera",
+      "matched": true
+    },
+    {
+      "name": "Halkbank",
+      "matched": true
+    },
+    {
+      "name": "Gainium",
+      "matched": true
+    },
+    {
+      "name": "YNAB: Get Good At Money",
+      "matched": true
+    },
+    {
+      "name": "Manulife®",
+      "matched": true
+    },
+    {
+      "name": "Expensify",
+      "matched": true
+    },
+    {
+      "name": "MetricDuck",
+      "matched": true
+    },
+    {
+      "name": "GoCardless",
+      "matched": true
+    },
+    {
+      "name": "S&P Global - Deterministic",
+      "matched": true
+    },
+    {
+      "name": "CloFin",
+      "matched": true
+    },
+    {
+      "name": "Third Bridge",
+      "matched": true
+    },
+    {
+      "name": "Alpaca Live",
+      "matched": true
+    },
+    {
+      "name": "Financial Summarizer Pro",
+      "matched": true
+    },
+    {
+      "name": "InvestmentIQ",
+      "matched": true
+    },
+    {
+      "name": "Economic Mind",
+      "matched": true
+    },
+    {
+      "name": "Manilo",
+      "matched": true
+    },
+    {
+      "name": "Learn to invest with AJ Bell",
+      "matched": true
+    },
+    {
+      "name": "Elevate Invoices",
+      "matched": true
+    },
+    {
+      "name": "XE Currency Converter",
+      "matched": true
+    },
+    {
+      "name": "LunarCrush",
+      "matched": true
+    },
+    {
+      "name": "MSCI Connector",
+      "matched": true
+    },
+    {
+      "name": "Bajaj Broking",
+      "matched": true
+    },
+    {
+      "name": "Kick",
+      "matched": true
+    },
+    {
+      "name": "CB Insights",
+      "matched": true
+    },
+    {
+      "name": "Double",
+      "matched": true
+    },
+    {
+      "name": "Dakota Marketplace",
+      "matched": true
+    },
+    {
+      "name": "Freeway Insurance",
+      "matched": true
+    },
+    {
+      "name": "Daloopa",
+      "matched": true
+    },
+    {
+      "name": "WealthCheck Financial Planner",
+      "matched": true
+    },
+    {
+      "name": "Cactus: Real Estate Analysis",
+      "matched": true
+    },
+    {
+      "name": "Options Analysis Suite",
+      "matched": true
+    },
+    {
+      "name": "Jaz Accounting",
+      "matched": true
+    },
+    {
+      "name": "Clear Energy Facts",
+      "matched": true
+    },
+    {
+      "name": "Brex",
+      "matched": true
+    },
+    {
+      "name": "RealEstateIQ",
+      "matched": true
+    },
+    {
+      "name": "Lev",
+      "matched": true
+    },
+    {
+      "name": "PointBagel",
+      "matched": true
+    },
+    {
+      "name": "Finmagine",
+      "matched": true
+    },
+    {
+      "name": "Elecz - Electricity Prices",
+      "matched": true
+    },
+    {
+      "name": "RetirementIQ",
+      "matched": true
+    },
+    {
+      "name": "Mansa African Markets",
+      "matched": true
+    },
+    {
+      "name": "Nansen",
+      "matched": true
+    },
+    {
+      "name": "PortfolioIQ",
+      "matched": true
+    },
+    {
+      "name": "Tuio",
+      "matched": true
+    },
+    {
+      "name": "Cube",
+      "matched": true
+    },
+    {
+      "name": "Harmonic",
+      "matched": true
+    },
+    {
+      "name": "TradingNX Risk Manager",
+      "matched": true
+    },
+    {
+      "name": "Gate Info",
+      "matched": true
+    },
+    {
+      "name": "Bankrate",
+      "matched": true
+    },
+    {
+      "name": "Paribu",
+      "matched": true
+    },
+    {
+      "name": "Allianz Direct España",
+      "matched": true
+    },
+    {
+      "name": "ExpenseBot",
+      "matched": true
+    },
+    {
+      "name": "UK Property Valuation",
+      "matched": true
+    },
+    {
+      "name": "Mashvisor",
+      "matched": true
+    },
+    {
+      "name": "Superbrain Finanzas",
+      "matched": true
+    },
+    {
+      "name": "Western Union",
+      "matched": true
+    },
+    {
+      "name": "Moody’s",
+      "matched": false
+    },
+    {
+      "name": "OptionClaws Options Scanner",
+      "matched": true
+    },
+    {
+      "name": "Buy Or Rent Simulator",
+      "matched": true
+    },
+    {
+      "name": "Money by Checkr",
+      "matched": true
+    },
+    {
+      "name": "Ekohesap",
+      "matched": true
+    },
+    {
+      "name": "Any Exchange Rate",
+      "matched": true
+    },
+    {
+      "name": "TrueProfit",
+      "matched": true
+    },
+    {
+      "name": "Pane",
+      "matched": true
+    },
+    {
+      "name": "Kredit",
+      "matched": true
+    },
+    {
+      "name": "RealOpen",
+      "matched": true
+    },
+    {
+      "name": "Plymouth Rock Home Assurance",
+      "matched": true
+    },
+    {
+      "name": "Fahali",
+      "matched": true
+    },
+    {
+      "name": "Boleron AI Insurance Broker",
+      "matched": true
+    },
+    {
+      "name": "AnyMortgageCalculator",
+      "matched": true
+    },
+    {
+      "name": "Mortgage IQ",
+      "matched": true
+    },
+    {
+      "name": "Sacra",
+      "matched": true
+    },
+    {
+      "name": "Ethos",
+      "matched": true
+    },
+    {
+      "name": "Cashfree",
+      "matched": true
+    },
+    {
+      "name": "SecureLend",
+      "matched": true
+    },
+    {
+      "name": "VUHL VA Loan Calculator",
+      "matched": true
+    },
+    {
+      "name": "Refermate",
+      "matched": true
+    },
+    {
+      "name": "WikiFx",
+      "matched": true
+    },
+    {
+      "name": "Aave",
+      "matched": true
+    },
+    {
+      "name": "TaxHeaven",
+      "matched": true
+    },
+    {
+      "name": "Leocare",
+      "matched": true
+    },
+    {
+      "name": "Deal Analyzer MCP",
+      "matched": true
+    },
+    {
+      "name": "Granatum Financeiro",
+      "matched": true
+    },
+    {
+      "name": "Sponge",
+      "matched": true
+    },
+    {
+      "name": "AmazingPensions",
+      "matched": true
+    },
+    {
+      "name": "Xflow",
+      "matched": true
+    },
+    {
+      "name": "ElevenFlo",
+      "matched": true
+    },
+    {
+      "name": "MutuiOnline.it",
+      "matched": true
+    },
+    {
+      "name": "Mamble Calculators",
+      "matched": true
+    },
+    {
+      "name": "Akaunting",
+      "matched": true
+    },
+    {
+      "name": "Superfunds",
+      "matched": true
+    },
+    {
+      "name": "WalleK",
+      "matched": true
+    },
+    {
+      "name": "NestPilot",
+      "matched": true
+    },
+    {
+      "name": "ualet",
+      "matched": true
+    },
+    {
+      "name": "Moody's Credit",
+      "matched": true
+    },
+    {
+      "name": "Whisper Money",
+      "matched": true
+    },
+    {
+      "name": "GrantLink",
+      "matched": true
+    },
+    {
+      "name": "AutoIQ",
+      "matched": true
+    },
+    {
+      "name": "Aleph",
+      "matched": true
+    },
+    {
+      "name": "Capycash",
+      "matched": true
+    },
+    {
+      "name": "RateAPI",
+      "matched": true
+    },
+    {
+      "name": "Facile.it",
+      "matched": true
+    },
+    {
+      "name": "Photon Commerce",
+      "matched": true
+    },
+    {
+      "name": "Fintoc",
+      "matched": true
+    },
+    {
+      "name": "Chargebee (US Region)",
+      "matched": true
+    },
+    {
+      "name": "Zocks",
+      "matched": true
+    },
+    {
+      "name": "Midpoint Card Prices",
+      "matched": true
+    },
+    {
+      "name": "Nella Finance AI",
+      "matched": true
+    },
+    {
+      "name": "AuctionScout",
+      "matched": true
+    },
+    {
+      "name": "Bill Splitter",
+      "matched": true
+    },
+    {
+      "name": "Pretto",
+      "matched": true
+    },
+    {
+      "name": "Wisesheets",
+      "matched": true
+    },
+    {
+      "name": "Billabex",
+      "matched": true
+    },
+    {
+      "name": "Vector Smart Chain",
+      "matched": true
+    },
+    {
+      "name": "FactorWeave",
+      "matched": true
+    },
+    {
+      "name": "Guidepoint",
+      "matched": true
+    },
+    {
+      "name": "MT Newswires",
+      "matched": true
+    },
+    {
+      "name": "BizCover AU",
+      "matched": true
+    },
+    {
+      "name": "Norman",
+      "matched": true
+    },
+    {
+      "name": "Clear Street",
+      "matched": true
+    },
+    {
+      "name": "Monito",
+      "matched": true
+    },
+    {
+      "name": "Stock Market Summary",
+      "matched": true
+    },
+    {
+      "name": "Shinhan Securities Assistant",
+      "matched": true
+    },
+    {
+      "name": "OakbrookOne",
+      "matched": true
+    },
+    {
+      "name": "In Practise",
+      "matched": true
+    },
+    {
+      "name": "Bank Statement Conversion",
+      "matched": true
+    },
+    {
+      "name": "Dr. Klein",
+      "matched": true
+    },
+    {
+      "name": "GlobalSource Partners",
+      "matched": true
+    },
+    {
+      "name": "Octus",
+      "matched": true
+    },
+    {
+      "name": "Multiples.vc",
+      "matched": true
+    },
+    {
+      "name": "Seguro Match",
+      "matched": true
+    },
+    {
+      "name": "Borderless Budget",
+      "matched": true
+    },
+    {
+      "name": "SkyWatch.ai",
+      "matched": true
+    },
+    {
+      "name": "SaaSFlow",
+      "matched": true
+    },
+    {
+      "name": "Pazy",
+      "matched": true
+    },
+    {
+      "name": "RateZip Deposit/Mortgage Rates",
+      "matched": true
+    },
+    {
+      "name": "Addy AI",
+      "matched": true
+    },
+    {
+      "name": "Datarails FinanceOS",
+      "matched": true
+    },
+    {
+      "name": "Pine Labs Payment Assistant",
+      "matched": true
+    },
+    {
+      "name": "ALPHAPORT.AI",
+      "matched": true
+    },
+    {
+      "name": "Calculadora de Combustível",
+      "matched": true
+    },
+    {
+      "name": "SueldoNeto",
+      "matched": true
+    },
+    {
+      "name": "Wealthfront",
+      "matched": true
+    },
+    {
+      "name": "Investra",
+      "matched": true
+    },
+    {
+      "name": "Kalkınma Yatırım Bankası",
+      "matched": true
+    },
+    {
+      "name": "D&B Finance Analytics",
+      "matched": true
+    },
+    {
+      "name": "D&B Risk Analytics",
+      "matched": true
+    },
+    {
+      "name": "CMC Markets",
+      "matched": true
+    },
+    {
+      "name": "HelpDol",
+      "matched": true
+    },
+    {
+      "name": "facturillo",
+      "matched": true
+    },
+    {
+      "name": "Vestd",
+      "matched": true
+    },
+    {
+      "name": "Vantixs",
+      "matched": true
+    },
+    {
+      "name": "ClearCash",
+      "matched": true
+    },
+    {
+      "name": "GREI",
+      "matched": false
+    },
+    {
+      "name": "Europea Seguros",
+      "matched": true
+    },
+    {
+      "name": "Chargebee (EU Region)",
+      "matched": true
+    },
+    {
+      "name": "PGicover",
+      "matched": true
+    },
+    {
+      "name": "Savvly",
+      "matched": true
+    },
+    {
+      "name": "Equibles",
+      "matched": true
+    },
+    {
+      "name": "Albsig",
+      "matched": true
+    },
+    {
+      "name": "Klardaten DATEV-Connector",
+      "matched": true
+    },
+    {
+      "name": "Stable.com",
+      "matched": true
+    },
+    {
+      "name": "Modrek",
+      "matched": true
+    },
+    {
+      "name": "Secfi",
+      "matched": true
+    },
+    {
+      "name": "Tally Markets",
+      "matched": true
+    },
+    {
+      "name": "Irish Tax Hub",
+      "matched": true
+    },
+    {
+      "name": "Ambak Loan Offers",
+      "matched": true
+    },
+    {
+      "name": "TaxMadeEazy: Rideshare Ded",
+      "matched": true
+    },
+    {
+      "name": "Per Diem",
+      "matched": true
+    },
+    {
+      "name": "FinPilot",
+      "matched": true
+    },
+    {
+      "name": "Réassurez-Moi",
+      "matched": true
+    },
+    {
+      "name": "Meshed Cover",
+      "matched": true
+    },
+    {
+      "name": "Nogogo AI",
+      "matched": true
+    },
+    {
+      "name": "Assurance Emprunteur Lemoine",
+      "matched": true
+    },
+    {
+      "name": "LedgerLens",
+      "matched": true
+    },
+    {
+      "name": "FactIQ",
+      "matched": true
+    },
+    {
+      "name": "Assurance Temporaire",
+      "matched": true
+    },
+    {
+      "name": "Halan Borsa",
+      "matched": true
+    },
+    {
+      "name": "Noweir Market Data",
+      "matched": true
+    },
+    {
+      "name": "DayTrading.Monster",
+      "matched": true
+    },
+    {
+      "name": "Moody's Growth and Strategy",
+      "matched": true
+    },
+    {
+      "name": "StackerScan",
+      "matched": true
+    },
+    {
+      "name": "Dakota Platform",
+      "matched": true
+    },
+    {
+      "name": "Lassie",
+      "matched": true
+    },
+    {
+      "name": "Antevo Executive Brief",
+      "matched": true
+    },
+    {
+      "name": "ACE Money Transfer",
+      "matched": true
+    },
+    {
+      "name": "InsurConnect",
+      "matched": true
+    },
+    {
+      "name": "Bitpanda",
+      "matched": true
+    },
+    {
+      "name": "Obolus",
+      "matched": true
+    },
+    {
+      "name": "RemitCheap",
+      "matched": true
+    },
+    {
+      "name": "Juspay Genius",
+      "matched": true
+    },
+    {
+      "name": "Vings",
+      "matched": true
+    },
+    {
+      "name": "ClarityTrack",
+      "matched": true
+    },
+    {
+      "name": "Balanços.AI",
+      "matched": true
+    },
+    {
+      "name": "SimsaSplit",
+      "matched": true
+    },
+    {
+      "name": "PortfolioFit",
+      "matched": true
+    },
+    {
+      "name": "Finom",
+      "matched": true
+    },
+    {
+      "name": "Lexfi",
+      "matched": true
+    },
+    {
+      "name": "S&P Global - Adaptive",
+      "matched": true
+    },
+    {
+      "name": "BestRemit",
+      "matched": true
+    },
+    {
+      "name": "Jawz",
+      "matched": true
+    },
+    {
+      "name": "Kova",
+      "matched": true
+    },
+    {
+      "name": "Lexplorer Swiss Tax Research",
+      "matched": true
+    },
+    {
+      "name": "QuanterLab: Backtest Trading",
+      "matched": true
+    },
+    {
+      "name": "IFG",
+      "matched": true
+    },
+    {
+      "name": "PANDA Tierversicherung",
+      "matched": true
+    },
+    {
+      "name": "SAHMK",
+      "matched": true
+    },
+    {
+      "name": "ValuEdge - Stock Valuation",
+      "matched": true
+    },
+    {
+      "name": "Findash",
+      "matched": true
+    },
+    {
+      "name": "Cryptoworth",
+      "matched": true
+    },
+    {
+      "name": "Embat",
+      "matched": true
+    },
+    {
+      "name": "Calculadora de Autônomos",
+      "matched": true
+    },
+    {
+      "name": "airpay",
+      "matched": true
+    },
+    {
+      "name": "FX Hedge",
+      "matched": true
+    },
+    {
+      "name": "DSCR Loan Calculator",
+      "matched": true
+    },
+    {
+      "name": "Thrifle",
+      "matched": true
+    }
+  ]
+}

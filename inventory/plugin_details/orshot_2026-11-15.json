@@ -1,0 +1,24 @@
+{
+  "official_app_name": "Orshot",
+  "provider": "Orshot",
+  "version": "3.4.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a79affedd808191b69f2e62014b8235?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Create videos and social posts in ChatGPT, keep them on brand, and schedule them to your social accounts. Describe the Reel, TikTok, carousel or ad you need and ChatGPT designs it in your Orshot workspace, shows you a preview, and posts or schedules it. Orshot is an API for automated image, PDF and video generation from templates, so every design is reusable: ask for the next post and only the content changes.\nVideos and social posting:\n• Reels, TikToks, YouTube Shorts and video ads with animation, music, sound effects and captions, saved as MP4\n• Posting and scheduling to Instagram, TikTok, LinkedIn, Facebook, YouTube, X, Threads, Pinterest, Bluesky and more\n• Social analytics: reach, engagement, followers and your best time to post\n• One design in every social size in one step\nAI inside your designs:\n• AI images, AI video clips and AI voiceovers generated as parts of a design, next to your own text, logo and footage\n• Free stock photos, videos and music, or your own files from the chat\nImages and PDFs too:\n• Instagram posts, LinkedIn carousels, ads, YouTube thumbnails, flyers and posters\n• Certificates, invoices and multi-page PDFs, one for every row of a spreadsheet\n• Automation: posts and PDFs generated on a schedule or a trigger, from Google Sheets, webhooks and more\nOn brand by default: your colors, fonts, logo and images come from your brand kit or your website. Everything happens in your own Orshot workspace, connected through OAuth.\nLimitations: posting needs a social account connected in Orshot, and video length and AI generation limits depend on your Orshot workspace.",
+  "summary_ja": "テンプレートを使って動画・画像・PDFを作成し、連携したSNSへの投稿・予約や分析を行う。",
+  "usage_tags": [
+    "動画制作",
+    "SNS投稿",
+    "画像制作",
+    "PDF",
+    "マーケティング"
+  ],
+  "limitations": [
+    "SNSへの投稿にはOrshotに接続したSNSアカウントが必要。動画の長さとAI生成の制限はワークスペースによると説明。",
+    "機能・料金・品質・一覧本体との名称照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

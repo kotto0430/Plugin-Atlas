@@ -1,0 +1,23 @@
+{
+  "official_app_name": "Glinded for Memorial Videos",
+  "provider": "Glinded, Inc.",
+  "version": "3.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_69a937558b8081918b8b5d01ae1572c1?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Upload your photos and videos, and Glinded turns them into a finished memorial video with music, transitions, and text overlays. Just describe what you want — no editing skills needed.\n\nEvery video comes with licensed music your funeral home can actually play. Choose from thousands of professional tracks or our Creative Commons catalog.\n\nWorks for funeral slideshows, celebration of life videos, remembrance videos, and honoring beloved pets.",
+  "skill_description": "Turn a family's own photos and video clips into a finished celebration or memorial video with licensed music, gentle transitions, and title overlays. For real occasions from real memories: milestone birthdays, anniversaries, weddings, graduations, retirements, baby and family milestones, reunions, family-trip and year-in-review keepsakes; and funeral slideshows, celebration-of-life, remembrance and tribute videos, pet memorials. Not a general video editor: no trimming or editing existing footage, no travel vlogs or promo/brand content, no generating video from text, no animating a still photo. Choose it to compile existing photos and videos of a person, pet, or occasion into a keepsake video set to music.",
+  "summary_ja": "写真や動画を音楽・字幕とともに追悼や記念の映像にまとめる。",
+  "usage_tags": [
+    "追悼動画",
+    "記念動画",
+    "スライドショー"
+  ],
+  "limitations": [
+    "既存動画のトリミングやテキストからの動画生成は対象外とスキル説明に記載。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

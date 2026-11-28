@@ -1,0 +1,21 @@
+{
+  "official_app_name": "Air",
+  "provider": "Air Inc",
+  "version": "0.0.1",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a7201527fa48191af83141ef896370a?category=creativity",
+  "observed_at": "2026-11-16",
+  "original_description": "Air understands your brand, organizes your library, and scales creative while keeping humans involved where they matter most.",
+  "summary_ja": "ブランドとライブラリを扱い、クリエイティブ業務を支援するとの説明。具体的な操作や対象はこの説明だけでは不明。",
+  "usage_tags": [
+    "クリエイティブ業務",
+    "ライブラリ整理"
+  ],
+  "limitations": [
+    "具体的に扱える素材や操作範囲は説明だけでは不明。実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証",
+    "説明だけでは不明"
+  ]
+}

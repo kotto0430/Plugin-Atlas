@@ -1,0 +1,27 @@
+{
+  "name": "Inkdrop",
+  "category": "Creativity",
+  "provider": "Software services",
+  "version": "1.0.1",
+  "observed_at": "2026-11-23",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ab4b56a106c81918567c8fff00593cc?category=creativity",
+  "original_description": "Bring an image from your conversation to a T-shirt or another available Inkdrop product. If you do not have artwork yet, create or attach a design in ChatGPT first. Once the image is ready, send “Choose my Inkdrop product” to open the picker.\n\nBrowse a horizontal product list, read details, enlarge photos, and choose available colors, sizes and print options. Apply your artwork and review the finished mockup in the conversation. Change the product or scale, recover saved choices after a reload, and open the real product preview on Inkdrop. To rework artwork, edit the standalone image in ChatGPT and explicitly continue with the finished image; review it before applying.\n\nWhen ready to buy, open Inkdrop’s website to review your product, shipping, taxes and payment. Opening checkout does not place an order. Physical products currently ship only to addresses in the United States. Users in other supported countries can create and preview artwork; purchases require a US shipping address. Product availability and prices vary. An Inkdrop account is required to save artwork and create previews. Artwork and mockup images are unlisted, but anyone with their image link can view them.",
+  "summary_ja": "画像をTシャツなどの商品に配置し、選択肢や完成イメージを確認する。",
+  "limitations_ja": [
+    "実物の配送先は米国内のみと説明。画像とモックアップは限定公開だが、リンクを知る人は閲覧できる。"
+  ],
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "Inkdrop",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "グッズ制作",
+    "デザイン",
+    "商品プレビュー"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}

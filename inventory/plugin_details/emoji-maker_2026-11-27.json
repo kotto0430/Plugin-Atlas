@@ -1,0 +1,26 @@
+{
+  "name": "Emoji Maker",
+  "official_app_name": "Emoji Maker",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "embedded_app_name": "Emoji Maker by MegaScenes",
+  "category": "Creativity",
+  "provider": "MegaScenes",
+  "version": "1.0.2",
+  "observed_at": "2026-11-27",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ae31822bb888191b4974f6f0ebaea84?category=creativity",
+  "original_description": "Describe a face, an object or a reaction and get a custom emoji: a small square image that stays readable at chat size.\n\nChatGPT tells you what the run needs and creates the emoji in your MegaScenes account when you ask. The emoji opens in the chat and stays in your library.\n\nFor team chats, community servers and streams.\n\nLimitations: new images from a description; it does not upload emoji to Slack or Discord for you. Making a file needs a signed-in MegaScenes account and runs in it; nothing is made until you confirm. Not for sexual or adult content or for real people's likeness. Files are made by generative models and saved in your MegaScenes library.",
+  "summary_ja": "顔や物、感情を説明してチャット向けの小さな絵文字画像を作る。",
+  "limitations_ja": "MegaScenesアカウントが必要。SlackやDiscordへのアップロードは行わないと説明。",
+  "usage_tags": [
+    "絵文字",
+    "画像生成",
+    "チャット"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "description_scope": "詳細ページ本文の英語説明"
+}

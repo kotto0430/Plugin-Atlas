@@ -1,0 +1,24 @@
+{
+  "name": "regards.design",
+  "category": "Creativity",
+  "provider": "Regards Labs, Inc.",
+  "version": "1.0.0",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ad0249252908191b7c3d3e6899959e1?category=creativity",
+  "original_description": "regards.design is a hand-picked library of real, well-made websites, cut into their sections (heroes, navigation, feature grids, pricing, footers and more), each screenshotted and searchable by how it looks: its mood, type, colour, imagery, motion and how experimental it is.\n\nAsk the way you'd brief a designer: \"experimental hero sections with striking type\", \"calm, minimal heroes with lots of white space\", \"design studio homepages that move\". The sections that fit appear as screenshots in the chat. Open any of them on regards.design, see the rest of the page it came from, or ask for more like the ones you like.\n\nReach for it while the look of a website is still open: setting a visual direction for a brand, designing or redesigning a landing page, or finding references for a single section.\n\nMaking the page in Codex or another coding agent? The regards design skill (regards.design/skill) takes it further: it researches real sections for your brief, settles a direction, designs the page and checks it in a browser.\n\nSign in with your regards.design account to search.",
+  "summary_ja": "実在するウェブサイトの各部分を見た目から検索し、デザインの参考を探す。",
+  "limitations_ja": "検索にはregards.designアカウントが必要。",
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "regards.design",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "ウェブデザイン",
+    "参考資料"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}

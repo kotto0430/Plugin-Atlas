@@ -1,0 +1,25 @@
+{
+  "name": "3dCMS",
+  "official_app_name": "3dCMS",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "3dCMS",
+  "version": "1.0.4",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ad6bf1921c4819199896b17d4a1977d?category=creativity",
+  "original_description": "3dCMS turns a conversation into a walkable 3D web page. Describe a scene and ChatGPT builds it in your 3dCMS account: rooms, signs, images, models, lighting and links. Ask for changes in plain words, check a screenshot or a design review, and publish to a shareable link when you are happy. Every edit is checkpointed, so you can roll back from the editor. Needs a 3dCMS account (Google sign-in).",
+  "summary_ja": "会話から歩き回れる3Dウェブページを作成・修正し、共有用リンクを公開する。",
+  "limitations_ja": "3dCMSアカウントとGoogleサインインが必要。編集履歴からエディタで復元可能と説明。",
+  "usage_tags": [
+    "ウェブ制作",
+    "3D",
+    "デザイン"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "description_scope": "詳細ページ本文の英語説明"
+}

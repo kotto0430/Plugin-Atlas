@@ -1,0 +1,25 @@
+{
+  "official_app_name": "Aircad",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "Aircad, Inc.",
+  "version": "1.0.5",
+  "observed_at": "2026-11-28",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6afe0e94a3e88191a35e55067f18046b?category=creativity",
+  "original_description": "Aircad is online CAD for precise 2D drafting and 3D modeling, in the browser or on Mac and Windows. It opens and saves DWG and DXF drawings with their layouts, blocks, and dimensions; imports and exports STEP, Rhino 3DM, glTF and GLB, STL, and OBJ; imports SVG; and exports drawing sets to PDF.\n\nConnect it to work in the drawing you have open, whichever format it came from: ask what is in it, measure and check it, build 3D models from a description, sketch, or reference image, lay out drawing sets with viewports, sections, dimensions, and title blocks, and turn a repeated task into a command you can run again.\n\nEvery change arrives as a draft. You see it tinted on the canvas and apply or discard it in Aircad, so nothing changes in your file until you say so. Aircad asks before an assistant reads a file for the first time, and the assistant works only in the files you allow.\n\nFor anyone who drafts or models: architects, engineers, product designers, fabricators, and students. You need an Aircad account, and the file must be open in Aircad in a browser tab or the desktop app. An assistant can't delete, rename, move, or share your files.",
+  "original_description_language": "英語",
+  "description_scope": "詳細ページの説明本文",
+  "summary_ja": "開いているCAD図面の確認や2D・3D設計を支援する。",
+  "usage_tags": [
+    "CAD",
+    "製図",
+    "3D"
+  ],
+  "limitations_ja": "Aircadアカウントが必要。変更は下書きとして表示され、利用者が適用・破棄すると説明。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。"
+}

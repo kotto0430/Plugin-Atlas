@@ -1,0 +1,24 @@
+{
+  "official_app_name": "QynTro AI",
+  "provider": "UDDHAB PRAMANIK",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ab83586ab888191b8b098a9dcb359ee?category=creativity",
+  "observed_at": "2026-11-22",
+  "original_description": "Create media from ChatGPT with the credits in your QynTro account.\n\n• Images from FLUX, GPT Image, Nano Banana and Stability AI models\n• Image editing with an instruction, including placing a logo or product from a second image\n• Video from text, or from a picture you just made; video editing\n• UGC spokesperson ads from one photo, lip-sync, and music videos cut to a song\n• Original music tracks up to two minutes\n• Voiceovers in many voices and languages\n• Talking avatars: a studio presenter or your own photo speaking a script\n• PowerPoint decks (.pptx) from a topic\n• Textured 3D models (GLB) from a photo or a description\n\nEverything you make is saved to your QynTro library. Sign in with your QynTro account; each generation uses credits from your existing balance, and every reply says what it cost. Tools that bring a real face to life ask you to confirm you have the right to use that face and voice.",
+  "summary_ja": "画像・動画・音楽・音声や3Dモデル、スライドを制作。",
+  "usage_tags": [
+    "画像生成",
+    "動画制作",
+    "音楽",
+    "3D",
+    "プレゼン"
+  ],
+  "limitations": [
+    "QynTroアカウントとクレジットを使用。実在人物の顔を動かすツールは顔・声を使う権利の確認を求めると説明。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

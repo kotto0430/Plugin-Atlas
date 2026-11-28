@@ -1,0 +1,25 @@
+{
+  "name": "LiveReacting",
+  "category": "Creativity",
+  "provider": "LiveReacting",
+  "version": "1.0.2",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6abbfaf2da708191bcbf683951ca32ff?category=creativity",
+  "original_description": "Run a 24/7 live stream of pre-recorded videos, or live stream one recorded video at the time you choose, from ChatGPT. Your old videos, lessons, podcast episodes or lofi beats play as one continuous livestream, looped from a playlist in the order you choose. LiveReacting's servers do the streaming, so your computer can be off.\n\nWith this plugin you build the stream from your LiveReacting video library, multistream it to YouTube, Facebook, Twitch or any other platform, schedule it to go live later, change the playlist while it is live, and check how it is running. Streams you built in LiveReacting with overlays, polls or trivia start from here too.\n\nYou need a LiveReacting account that includes API access. Connect your channels once in LiveReacting, and the plugin uses them. Videos come from your library, a direct link, Google Drive, Dropbox, or videos you already published on your own YouTube channel.",
+  "summary_ja": "録画済み動画をループ配信・予約配信し、配信状況を確認する。",
+  "limitations_ja": "APIアクセスを含むLiveReactingアカウントと事前に接続した配信先が必要。",
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "official_app_name": "LiveReacting",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "ライブ配信",
+    "動画",
+    "配信予約"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}

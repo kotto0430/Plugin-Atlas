@@ -1,0 +1,27 @@
+{
+  "name": "Designly",
+  "official_app_name": "Designly",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "Mamdouh Abo Ammar",
+  "version": "4.4.0",
+  "observed_at": "2026-11-27",
+  "source_url": "https://chatgpt.com/plugins/plugins_6a80500711748191bee28e0649499efa?category=creativity",
+  "original_description": "Designly helps you turn a brief, idea, or reference into polished visual work for ads, social posts, campaigns, and brand content\n\nIt helps shape the concept, composition, typography, imagery, and overall art direction, then reviews the result and guides precise revisions when something feels off\n\nYou can also use Designly to improve existing images without changing everything else, follow brand guidelines, handle Arabic and RTL layouts, and keep a consistent visual style across multiple assets",
+  "original_description_language": "英語",
+  "summary_ja": "広告やブランド向けのビジュアルの構想・構成・レビューを支援する。",
+  "limitations_ja": "実際の生成・編集方法は未検証。",
+  "usage_tags": [
+    "デザイン",
+    "広告制作",
+    "ブランド",
+    "アラビア語"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "description_scope": "詳細ページ本文の英語説明"
+}

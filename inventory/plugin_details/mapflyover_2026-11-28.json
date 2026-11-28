@@ -1,0 +1,25 @@
+{
+  "official_app_name": "Mapflyover",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "ALI HASSAN",
+  "version": "1.0.1",
+  "observed_at": "2026-11-28",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6af01382e6a48191865e2a25f0e966a2?category=creativity",
+  "original_description": "Mapflyover makes cinematic map flyover videos. Connected to ChatGPT, it builds complete map animation videos from your words: describe a journey or paste a script and Mapflyover creates the project, flies a cinematic 3D camera between the places, highlights and fills countries (including with their flags), draws animated routes, generates narration and burns in timed captions. Projects stay fully editable in the Mapflyover web editor.",
+  "original_description_language": "英語",
+  "description_scope": "詳細ページの説明本文",
+  "summary_ja": "旅行経路や原稿から地図の移動動画、ナレーション、字幕を作る。",
+  "usage_tags": [
+    "地図",
+    "動画制作",
+    "旅行"
+  ],
+  "limitations_ja": "プロジェクトはMapflyoverのウェブエディターで編集可能と説明。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。"
+}

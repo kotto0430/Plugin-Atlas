@@ -1,0 +1,26 @@
+{
+  "name": "Monogram Maker",
+  "official_app_name": "Monogram Maker",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "MegaScenes",
+  "version": "1.0.0",
+  "observed_at": "2026-11-28",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6aeceb8bea288191b4530895cf4357b8?category=creativity",
+  "original_description": "Give your initials, one letter, two or a pair like E&L, and pick the style: classic serif, elegant script, modern minimal, art deco or a floral wreath, with your colors. You get a monogram as an image, ready for invitations, napkins, labels or a logo.\n\nChatGPT tells you what the design needs and makes it in your MegaScenes account when you ask. The monogram opens in the chat and stays in your library.\n\nFor weddings, stationery, embroidery, gifts and personal brands.\n\nLimitations: your initials are passed to the model as written and the letters are drawn by the model, so check them in the result; it returns an image, not a vector file. Making a file needs a signed-in MegaScenes account and runs in it; nothing is made until you confirm. Not for sexual or adult content or for real people's likeness. Files are made by generative models and saved in your MegaScenes library.",
+  "original_description_language": "英語",
+  "summary_ja": "イニシャルと書体・色からモノグラムの画像を作る。",
+  "limitations_ja": "MegaScenesアカウントが必要。文字はモデルが描くため結果の確認が必要で、ベクターファイルではない。",
+  "usage_tags": [
+    "モノグラム",
+    "文字デザイン",
+    "招待状"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "description_scope": "詳細ページ本文の英語説明"
+}

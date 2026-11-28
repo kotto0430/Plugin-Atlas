@@ -1,0 +1,26 @@
+{
+  "name": "Refero",
+  "official_app_name": "Refero",
+  "official_name_basis": "ChatGPTのプラグイン詳細画面に表示された名称",
+  "category": "Creativity",
+  "provider": "Refero Inc.",
+  "version": "1.0.2",
+  "observed_at": "2026-11-14",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a72258e6f18819183e5c4d8a56b78d9?category=creativity",
+  "developer_url": "https://refero.design/",
+  "original_description": "Refero helps AI agents research strong, real-world interface references before designing or implementing a product. It combines a research-first design skill with read-only MCP tools for searching curated visual styles, real product screens, and complete user flows. Agents can establish a visual direction, study concrete UI patterns, inspect relevant screens, and understand multi-step journeys while keeping the final design specific to the user's product.",
+  "description_scope": "ChatGPTのプラグイン詳細に表示された提供元の英語説明",
+  "summary_ja": "実際の製品画面や操作フロー、ビジュアルスタイルを検索し、UI設計の参考にする。",
+  "usage_tags": [
+    "UIデザイン",
+    "UXデザイン",
+    "デザイン調査"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "limitations_ja": "検索用MCPツールは読み取り専用と説明。収録範囲・料金・実際の挙動は未検証。",
+  "review": "詳細画面の説明と情報欄を確認。検索やデザイン作業は実行していない。",
+  "catalog_status": "一覧本体との名称照合は未確認。"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Stickers by Abracadabrax",
+  "category": "Creativity",
+  "provider": "Abracadabrax",
+  "version": "1.0.1",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ace8ea48f7c8191920f03140d97930c?category=creativity",
+  "original_description": "Tell ChatGPT what the sticker shows and get a custom die-cut sticker or emoji-style icon: one design or a set of 4, 6 or 9, with optional short text, on a plain background ready to cut out.\n\nThe plugin prepares a draft with the kind, the number of designs, the style and the image model. When you confirm, Abracadabrax renders it and ChatGPT returns the link to the image.\n\nFor chats, laptops, planners and small shops.\n\nLimitations: new stickers from text only. It does not turn uploaded photos into stickers, copy brand or copyrighted characters, or send stickers to messaging apps. Producing needs a signed-in Abracadabrax account. If you are not signed in, the plugin gives a link where the same draft opens on Abracadabrax. Outputs are AI-generated.",
+  "summary_ja": "文章からステッカーや絵文字風の画像を作る。",
+  "limitations_ja": "写真のステッカー化やメッセージアプリへの送信には非対応。制作にはサインインが必要。",
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "official_app_name": "Stickers by Abracadabrax",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "ステッカー",
+    "画像生成"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明",
+  "embedded_app_name": "Abracadabrax Stickers"
+}

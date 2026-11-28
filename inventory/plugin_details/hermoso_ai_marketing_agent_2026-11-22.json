@@ -1,0 +1,24 @@
+{
+  "official_app_name": "Hermoso: AI Marketing Agent",
+  "provider": "Hermoso AI",
+  "version": "1.3.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6abde87d08048191b2ee7cda76721749?search=Hermoso%3A+AI+Marketing+Agent",
+  "observed_at": "2026-11-22",
+  "original_description": "Hermoso is an AI marketing agent and AI ad generator in ChatGPT, with every Hermoso feature in one app. Ask in plain words and it makes video ads, image ads and posts for your brand, posts and schedules them to your own social accounts, builds paid campaigns on your own ad accounts and tells you what is working. Use any part on its own or all of it together: marketing on autopilot.\nCreate: make AI video ads and image ads from your saved brand profile (products, logo, colours and voice), from presenter-led UGC-style ads to product videos, product shots and social post visuals in any size. Show cut-ins of your own app or page screens over a video, extend a clip by cutting to a new shot, remake a video or static ad you like for your brand from its link, and turn one ad into headline or hook variations for testing. Files land in your Hermoso Library and can be saved to a Google Drive folder.\nResearch: see the ads competitors are running right now in the Meta, Google and LinkedIn ad libraries, find a brand's competitors from its website, break down which hooks and themes their longest-running ads use, and mine ad angles from real customer language.\nPublish: post or schedule to the accounts you connect, such as Instagram, Facebook, TikTok, YouTube, LinkedIn, X, Threads, Pinterest, Bluesky and Telegram, see what is queued and what already went out, edit or remove a published post, and answer comments, direct messages, WhatsApp and Intercom support conversations.\nPaid ads: build and run campaigns on your own ad accounts on Meta (Facebook and Instagram), Google, TikTok, LinkedIn, Reddit, Snapchat and ChatGPT ads: campaigns, ad groups and ads from your own creative, audiences and targeting, reports, pausing, resuming and budgets. New campaigns are created paused, and nothing spends until you turn it on.\nMeasure: see which posts and hooks perform best on each channel, read channel analytics, website analytics from Google Analytics and Search Console, and campaign reports, and get a review of your paid campaigns with suggestions on what to scale, pause, fix or test next.\nWho it is for: founders, marketers, creators and agencies who want their marketing handled from one conversation.\nLimits: Hermoso needs a Hermoso account, and it only acts on the brands and accounts you connect to it. It never posts, and never turns on a campaign, without your instruction. Generating ads and ad research use credits from your Hermoso account. Ad libraries only show what the platforms make public, so some advertisers return few or no ads. Video ads usually take a few minutes to render.",
+  "summary_ja": "ブランド向け広告の制作・競合調査・SNS投稿・広告運用を支援する。",
+  "usage_tags": [
+    "マーケティング",
+    "広告",
+    "SNS",
+    "動画制作"
+  ],
+  "limitations": [
+    "Hermosoアカウントと対象アカウントの接続が必要。広告制作と調査にはクレジットを使うと説明。",
+    "新しい広告キャンペーンは停止状態で作成され、指示なしに投稿や有効化をしないと説明。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

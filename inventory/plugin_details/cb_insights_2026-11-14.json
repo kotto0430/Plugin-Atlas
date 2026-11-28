@@ -1,0 +1,29 @@
+{
+  "name": "CB Insights",
+  "official_app_name": "CB Insights",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Finance",
+  "provider": "CB Insights",
+  "version": "6.0.0",
+  "observed_at": "2026-11-14",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_69a85d518e2c81918694d9a48e3def41?category=finance",
+  "developer_url": "https://cbinsights.com/",
+  "privacy_url": "https://www.cbinsights.com/privacy-policy",
+  "original_description": "Unleash ChatGPT as your private markets research agent. Source companies, build market maps, draft investment memos, and monitor competitors — all powered by CB Insights’ predictive intelligence. Tap into 11M+ double-validated company profiles, leading coverage of recent equity deals, proprietary taxonomies, unique scores, hidden signals, and over 20 years of bleeding edge technology research to identify and analyze relevant, high-potential companies ahead of your competition.\nBuilt for corporate strategists seeking acquisition targets, VCs screening deal flow, and business development teams hunting new partners. If your work involves private companies, CB Insights delivers the insight you need to make your next move first.",
+  "description_scope": "詳細ページ本文の英語説明",
+  "summary_ja": "非上場企業の調査、業界マップや投資メモの作成、競合企業の把握に使う企業情報の連携。",
+  "usage_tags": [
+    "企業調査",
+    "市場調査",
+    "競合分析"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "example_prompts": [
+    "Which companies in the industrial robotics space are most likely to IPO?"
+  ],
+  "review": "詳細画面を下まで確認。企業情報件数や予測精度は提供元の主張で未検証。動作・料金・利用条件・地域も未検証。",
+  "catalog_status": "一覧本体に CB Insights の名前あり。"
+}

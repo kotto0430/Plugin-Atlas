@@ -1,0 +1,22 @@
+{
+  "official_app_name": "Deep Art AI",
+  "provider": "Deep Art AI GmbH",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a764f4cfd008191b7fe46c6f581921b?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Deep Art AI enables users to create high-quality visual content directly through ChatGPT using natural-language instructions. Users can generate entirely new images and videos from text prompts by describing the desired subject, visual style, composition, atmosphere, movement, or other creative details.\n\nDeep Art AI is designed to make use of the latest and most advanced image-generation and video-generation technologies available. The underlying imaging and video capabilities are continuously kept up to date so that users can benefit from current state-of-the-art models, improved visual quality, more accurate prompt understanding, better consistency, enhanced realism, and the latest creative generation capabilities.\n\nFor video creation, Deep Art AI can submit video generation requests as asynchronous generation jobs. This allows users to initiate more complex video-generation tasks without requiring the entire generation process to be completed within a single interaction. After a video job has been submitted, users can retrieve its current generation status through ChatGPT, making it possible to check whether the video is still being processed, has been successfully completed, or requires further action.\n\nOverall, Deep Art AI provides an integrated creative workflow within ChatGPT for generating images and videos, submitting video-generation jobs, and monitoring the progress and status of generated video content. By continuously leveraging the latest available imaging and video technologies, Deep Art AI gives users access to modern, high-quality visual creation capabilities through simple conversational, prompt-based interactions.",
+  "summary_ja": "文章から画像や動画を生成し、動画生成の進捗を確認する。",
+  "usage_tags": [
+    "画像制作",
+    "動画制作"
+  ],
+  "limitations": [
+    "クレジット残高確認スキルが表示されるが、具体的な料金や使用量は未確認。",
+    "品質やモデル更新の説明は提供元の主張で、実動作は未検証。",
+    "一覧本体との名称照合は未確認。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

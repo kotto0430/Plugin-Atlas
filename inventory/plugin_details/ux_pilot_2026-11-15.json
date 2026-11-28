@@ -1,0 +1,23 @@
+{
+  "official_app_name": "UX Pilot",
+  "provider": "UX Pilot AI",
+  "version": "1.0.1",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6972419c9f1c8191be56dadf73a9cbb7?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "UX Pilot helps users create wireframes, high-fidelity UI screens, and multi-screen app flows from natural-language prompts inside ChatGPT. Single-screen requests start generation in the user's UX Pilot workspace right away and show a live preview widget. Multi-screen flow requests first suggest screens; the user confirms selections in the widget before designs are generated. Users can open results in UX Pilot to continue editing.",
+  "summary_ja": "自然言語からワイヤーフレームやUI画面、複数画面のアプリフローを作り、UX Pilotで編集する。",
+  "usage_tags": [
+    "UI設計",
+    "UX",
+    "ワイヤーフレーム",
+    "アプリ制作"
+  ],
+  "limitations": [
+    "単一画面はすぐ生成を開始し、複数画面は選択の確認後に生成すると説明。",
+    "実動作・料金・一覧本体との名称照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

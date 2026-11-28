@@ -1,0 +1,390 @@
+{
+  "source": "Chrome ChatGPT 教育",
+  "date": "2026-11-14",
+  "method": "画面を重ねてスクロールし表示名を目視転記。誤記・重複の可能性あり。",
+  "notes": "ちゃんべん JDLA G検定の右側は名称が省略表示、Paper Close Reading右側のアラビア語名は判読保留。",
+  "catalog_blob": "fd13ece4009fcf170733daf819bb2e7424328a60",
+  "counts": {
+    "rows": 94,
+    "matched": 2,
+    "unmatched": 92
+  },
+  "rows": [
+    {
+      "name": "SCA Prep: MRCGP SCA Revision",
+      "matched": false
+    },
+    {
+      "name": "The Century Report Ledger",
+      "matched": false
+    },
+    {
+      "name": "LawQi",
+      "matched": false
+    },
+    {
+      "name": "DeepDNA",
+      "matched": false
+    },
+    {
+      "name": "作文批改助理",
+      "matched": false
+    },
+    {
+      "name": "Cutaway",
+      "matched": false
+    },
+    {
+      "name": "CAC Editorial",
+      "matched": false
+    },
+    {
+      "name": "iLegis.AI",
+      "matched": false
+    },
+    {
+      "name": "StudyQuest",
+      "matched": false
+    },
+    {
+      "name": "Országház Figyelő",
+      "matched": false
+    },
+    {
+      "name": "Leap English Pathways",
+      "matched": false
+    },
+    {
+      "name": "UnLethe",
+      "matched": false
+    },
+    {
+      "name": "CurriculumProof",
+      "matched": false
+    },
+    {
+      "name": "Dịch Pháp-Việt",
+      "matched": false
+    },
+    {
+      "name": "Make Homeschool",
+      "matched": false
+    },
+    {
+      "name": "NTU Mods",
+      "matched": false
+    },
+    {
+      "name": "Lovsamling",
+      "matched": false
+    },
+    {
+      "name": "LQT Learning Target Generator",
+      "matched": false
+    },
+    {
+      "name": "DMV Permit Practice Tests",
+      "matched": false
+    },
+    {
+      "name": "Read Quran Today",
+      "matched": false
+    },
+    {
+      "name": "CULT+MATH Research",
+      "matched": false
+    },
+    {
+      "name": "Quantum Expectations",
+      "matched": false
+    },
+    {
+      "name": "BabyNews",
+      "matched": false
+    },
+    {
+      "name": "Catálogo Blucher",
+      "matched": false
+    },
+    {
+      "name": "EdBuild AI",
+      "matched": false
+    },
+    {
+      "name": "OB/GYN EBM Coach",
+      "matched": false
+    },
+    {
+      "name": "IPRwise",
+      "matched": false
+    },
+    {
+      "name": "LQT Progressive Criteria",
+      "matched": false
+    },
+    {
+      "name": "LQT Scaffold Designer",
+      "matched": false
+    },
+    {
+      "name": "Vaquill AI Primary Law",
+      "matched": false
+    },
+    {
+      "name": "Vocabulum",
+      "matched": false
+    },
+    {
+      "name": "Subtie",
+      "matched": false
+    },
+    {
+      "name": "Lehrassistent Deutschland",
+      "matched": false
+    },
+    {
+      "name": "LQT Closing Generator",
+      "matched": false
+    },
+    {
+      "name": "Qurani.ai",
+      "matched": false
+    },
+    {
+      "name": "Citeproof",
+      "matched": false
+    },
+    {
+      "name": "Dalo Baby",
+      "matched": false
+    },
+    {
+      "name": "Diamond Pole",
+      "matched": false
+    },
+    {
+      "name": "Good News Gilbert",
+      "matched": false
+    },
+    {
+      "name": "letX",
+      "matched": false
+    },
+    {
+      "name": "LQT Engaging Task Maker",
+      "matched": false
+    },
+    {
+      "name": "LQT Lesson Designer",
+      "matched": false
+    },
+    {
+      "name": "LQT Quality Rubric Designer",
+      "matched": false
+    },
+    {
+      "name": "LQT Standards Analyzer",
+      "matched": false
+    },
+    {
+      "name": "LQT Task Choice Generator",
+      "matched": false
+    },
+    {
+      "name": "Zovo Math Worksheet Maker",
+      "matched": false
+    },
+    {
+      "name": "PeerFeedback.app",
+      "matched": false
+    },
+    {
+      "name": "PrepClass",
+      "matched": false
+    },
+    {
+      "name": "REAHUB Knowledge Assistant",
+      "matched": false
+    },
+    {
+      "name": "to-teach",
+      "matched": false
+    },
+    {
+      "name": "Unclass",
+      "matched": false
+    },
+    {
+      "name": "Interview Prep DB",
+      "matched": false
+    },
+    {
+      "name": "Calculator for Grading",
+      "matched": false
+    },
+    {
+      "name": "Intervista Impossibile",
+      "matched": false
+    },
+    {
+      "name": "GMAS ICT Creator",
+      "matched": false
+    },
+    {
+      "name": "Olier",
+      "matched": false
+    },
+    {
+      "name": "One U Education",
+      "matched": false
+    },
+    {
+      "name": "predigt.io",
+      "matched": false
+    },
+    {
+      "name": "Satcat",
+      "matched": false
+    },
+    {
+      "name": "TrulyRandomVerse",
+      "matched": false
+    },
+    {
+      "name": "RAG Accidentologia",
+      "matched": false
+    },
+    {
+      "name": "Bettyapp",
+      "matched": false
+    },
+    {
+      "name": "contractes.cat",
+      "matched": false
+    },
+    {
+      "name": "Folarin Bookstore",
+      "matched": false
+    },
+    {
+      "name": "Terrava",
+      "matched": false
+    },
+    {
+      "name": "argüman.ai",
+      "matched": false
+    },
+    {
+      "name": "Bettyapp for Teachers",
+      "matched": false
+    },
+    {
+      "name": "Brains — Criar flashcards",
+      "matched": false
+    },
+    {
+      "name": "Career Bhavan Colleges",
+      "matched": false
+    },
+    {
+      "name": "Chess Analytics",
+      "matched": false
+    },
+    {
+      "name": "ChessBuddy",
+      "matched": false
+    },
+    {
+      "name": "EULEX.AI",
+      "matched": false
+    },
+    {
+      "name": "Fatos contra a Desinformação",
+      "matched": false
+    },
+    {
+      "name": "Life Scenario",
+      "matched": false
+    },
+    {
+      "name": "LQT Station Rotations",
+      "matched": false
+    },
+    {
+      "name": "Polya",
+      "matched": false
+    },
+    {
+      "name": "RC Football",
+      "matched": false
+    },
+    {
+      "name": "Seek X",
+      "matched": false
+    },
+    {
+      "name": "WARP DD — Tech Due Diligence",
+      "matched": false
+    },
+    {
+      "name": "developing-country.org",
+      "matched": false
+    },
+    {
+      "name": "AI Success & Evidence",
+      "matched": false
+    },
+    {
+      "name": "小テストジェネレーター",
+      "matched": false
+    },
+    {
+      "name": "ちゃんべん JDLA G検定",
+      "matched": false
+    },
+    {
+      "name": "Es la hora de la verdad",
+      "matched": false
+    },
+    {
+      "name": "Feason",
+      "matched": false
+    },
+    {
+      "name": "Didaro",
+      "matched": false
+    },
+    {
+      "name": "Citation Checker",
+      "matched": true
+    },
+    {
+      "name": "Zovo Citation Generator",
+      "matched": false
+    },
+    {
+      "name": "Lymi",
+      "matched": false
+    },
+    {
+      "name": "OT Bestie",
+      "matched": false
+    },
+    {
+      "name": "CurveMora",
+      "matched": false
+    },
+    {
+      "name": "Zovo Cryptogram Maker",
+      "matched": false
+    },
+    {
+      "name": "wizWick",
+      "matched": false
+    },
+    {
+      "name": "Paper Close Reading",
+      "matched": true
+    }
+  ]
+}

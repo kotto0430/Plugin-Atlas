@@ -1,0 +1,25 @@
+{
+  "name": "Explainium",
+  "official_app_name": "Explainium",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "Explainium",
+  "version": "1.0.0",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ad1e51d3b6081918903805c4817b8dd?category=creativity",
+  "original_description": "Explainium turns an idea, a topic, a blog post or your release notes into a short animated explainer video, right from the chat. It works in plain ChatGPT on desktop or on your phone, so you can make a video on the go.\n\nDescribe what the video should explain and who it is for. Explainium composes the scenes from motion-graphics building blocks: kinetic typography, diagrams, charts, icons and photos, timed to a musical beat grid. The videos are silent by design, so every scene reads on mute.\n\nAs it works, Explainium checks preview frames of each scene. Ask for changes in plain words (a different headline, a slower reveal, another color, an extra scene) and it revises the video in place.\n\nUse your own images and video clips: upload them in the Explainium Studio first, then ask for a video that uses them. Explainium can also add images and clips from a public link, or search a stock library of icons, photos and clips.\n\nEvery video opens in the Explainium Studio at go.explainium.com, where you can watch it, fine-tune text and assets, and download it as an MP4. You can also ask for the MP4 from the chat.\n\nGood for explainers, how-tos, product updates and feature launches, lesson intros, announcements, social posts and concept walkthroughs, in landscape, square or vertical formats.",
+  "summary_ja": "アイデアや記事から文字・図を使った短い説明動画を作る。",
+  "limitations_ja": "動画は無音仕様。手元の画像や動画はExplainium Studioへの事前アップロードが必要。",
+  "usage_tags": [
+    "動画制作",
+    "教育",
+    "広報"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "description_scope": "詳細ページ本文の英語説明"
+}

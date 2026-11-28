@@ -1,0 +1,27 @@
+{
+  "name": "Packaging Design Assistant",
+  "category": "Creativity",
+  "provider": "The Doers Firm LTD",
+  "version": "1.0.1",
+  "observed_at": "2026-11-23",
+  "source_url": "https://chatgpt.com/plugins/plugins_6ac07ade6de88191859bd373aa0e1280?category=creativity",
+  "original_description": "Develop original packaging concepts for consumer products. Plan labels and panels, compare formats and materials, map supplied dielines, draft copy from verified facts, prepare cautious print checklists, create concept mockups, and review shelf and ecommerce clarity. The skills separate creative suggestions from current legal, manufacturer, and printer requirements.",
+  "summary_ja": "商品のパッケージ案、表示面、印刷準備やモックアップを検討する。",
+  "limitations_ja": [
+    "創作上の提案と、現行の法令・製造業者・印刷業者の要件は区別するという説明。"
+  ],
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "Packaging Design Assistant",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "パッケージ",
+    "デザイン",
+    "印刷"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}

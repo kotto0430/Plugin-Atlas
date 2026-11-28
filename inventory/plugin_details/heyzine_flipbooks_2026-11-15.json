@@ -1,0 +1,21 @@
+{
+  "official_app_name": "Heyzine Flipbooks",
+  "provider": "Heyzine",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a994cc6cb54819188bb2204632c7f89?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Heyzine Flipbooks helps users convert documents into interactive online flipbooks, manage publications and bookshelves, search page text, configure access, and generate embed code through ChatGPT.",
+  "summary_ja": "文書をオンラインの電子冊子に変換し、公開物や本棚、アクセス設定などを管理する。",
+  "usage_tags": [
+    "電子冊子",
+    "文書公開",
+    "PDF"
+  ],
+  "limitations": [
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

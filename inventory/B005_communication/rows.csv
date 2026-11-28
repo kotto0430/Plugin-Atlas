@@ -1,0 +1,168 @@
+﻿row_id,page,column,row,display_name,status,ocr_raw,catalog_name_match_before,catalog_name_added,review_note,evidence
+p01L01,1,L,1,Gmail,画像照合済み,Gmail,True,False,,evidence/page-01.png
+p01L02,1,L,2,Slack,画像照合済み,Slack,True,False,,evidence/page-01.png
+p01L03,1,L,3,Teams,画像照合済み,Teams,True,False,,evidence/page-01.png
+p01L04,1,L,4,Rhythm AI Personality Tuner,画像照合済み,Rhythm Al Personality Tuner,False,True,,evidence/page-01.png
+p01L05,1,L,5,Superhuman Mail,画像照合済み,Superhuman Mail,True,False,,evidence/page-01.png
+p01L06,1,L,6,Werify,画像照合済み,Werify,False,True,,evidence/page-01.png
+p01L07,1,L,7,CALL-E,画像照合済み,CALL-E,False,True,,evidence/page-01.png
+p01L08,1,L,8,AI Roleplay Chat Simulator,画像照合済み,Al Roleplay Chat Simulator,False,True,,evidence/page-01.png
+p01L09,1,L,9,Publora,画像照合済み,Publora,False,True,,evidence/page-01.png
+p01L10,1,L,10,AT&T,画像照合済み,AT&T,False,True,,evidence/page-01.png
+p01L11,1,L,11,Postiz,画像照合済み,Postiz,False,True,,evidence/page-01.png
+p01L12,1,L,12,Speko,画像照合済み,Speko,False,True,,evidence/page-01.png
+p01L13,1,L,13,NoPressure,画像照合済み,NoPressure,False,True,,evidence/page-01.png
+p01L14,1,L,14,TIM Brasil,画像照合済み,TIM Brasil,False,True,,evidence/page-01.png
+p01L15,1,L,15,Send Postcard,画像照合済み,Send Postcard,False,True,,evidence/page-01.png
+p01L16,1,L,16,Tella,画像照合済み,Tella,False,True,,evidence/page-01.png
+p01L17,1,L,17,Breakreach,画像照合済み,Breakreach,False,True,,evidence/page-01.png
+p01L18,1,L,18,TG Finder,画像照合済み,TG Finder,False,True,,evidence/page-01.png
+p01L19,1,L,19,Telepath — Telegram Connector,画像照合済み,Telepath — Telegram Connector,False,True,,evidence/page-01.png
+p01L20,1,L,20,House of Prayer by Melorna,画像照合済み,House of Prayer by Melorna,False,True,,evidence/page-01.png
+p01L21,1,L,21,LMGram,画像照合済み,LMGram,False,True,,evidence/page-01.png
+p01L22,1,L,22,Relationship Reply Coach,画像照合済み,Relationship Reply Coach,False,True,,evidence/page-01.png
+p01L23,1,L,23,Never Boring AI,画像照合済み,Never Boring Al,False,True,,evidence/page-01.png
+p01L24,1,L,24,UNIFIELD,画像照合済み,UNIFIELD,False,True,,evidence/page-01.png
+p01L25,1,L,25,PlaybookUX,画像照合済み,PlaybookUX,False,True,,evidence/page-01.png
+p01L26,1,L,26,GoProfiles,画像照合済み,GoProfiles,False,True,,evidence/page-01.png
+p01L27,1,L,27,Balsio,画像照合済み,Balsio,False,True,,evidence/page-01.png
+p01L28,1,L,28,camelBots,画像照合済み,camelBots,False,True,,evidence/page-01.png
+p01L29,1,L,29,FiraPhone,画像照合済み,FiraPhone,False,True,,evidence/page-01.png
+p01L30,1,L,30,Salesmsg,画像照合済み,Salesmsg,False,True,,evidence/page-01.png
+p01L31,1,L,31,mailmcp,画像照合済み,mailmcp,False,True,,evidence/page-01.png
+p01L32,1,L,32,Drag,画像照合済み,Drag,False,True,,evidence/page-01.png
+p01L33,1,L,33,Realtime Avatar,画像照合済み,Realtime Avatar,False,True,,evidence/page-01.png
+p01L34,1,L,34,Sendblue,画像照合済み,Sendblue,False,True,,evidence/page-01.png
+p01L35,1,L,35,Kreatoai,画像照合済み,Kreatoai,False,True,,evidence/page-01.png
+p01L36,1,L,36,Cadencz,画像照合済み,Cadencz,False,True,,evidence/page-01.png
+p01L37,1,L,37,ChatifyIT,画像照合済み,ChatifyIT,False,True,,evidence/page-01.png
+p01L38,1,L,38,Suparelay,画像照合済み,Suparelay,False,True,,evidence/page-01.png
+p01L39,1,L,39,Negotiation Coach,画像照合済み,Negotiation Coach,False,True,,evidence/page-01.png
+p01L40,1,L,40,MailReach,画像照合済み,MailReach,False,True,,evidence/page-01.png
+p01L41,1,L,41,PieterPost,画像照合済み,PieterPost,False,True,,evidence/page-01.png
+p01L42,1,L,42,Enlazá para WhatsApp Business,画像照合済み,Enlaza para WhatsApp Business,False,True,,evidence/page-01.png
+p01L43,1,L,43,SuperLinkin for LinkedIn,画像照合済み,SuperLinkin for LinkedIn,False,True,,evidence/page-01.png
+p01R01,1,R,1,Outlook Email,画像照合済み,Outlook Email,True,False,,evidence/page-01.png
+p01R02,1,R,2,Hostinger Mail,画像照合済み,Hostinger Mail,True,False,,evidence/page-01.png
+p01R03,1,R,3,Zoom,画像照合済み,Zoom,True,False,,evidence/page-01.png
+p01R04,1,R,4,Mailopoly Inbox,画像照合済み,Mailopoly Inbox,False,True,,evidence/page-01.png
+p01R05,1,R,5,Brevo,画像照合済み,Brevo,False,True,,evidence/page-01.png
+p01R06,1,R,6,Inkbox,画像照合済み,Inkbox,False,True,,evidence/page-01.png
+p01R07,1,R,7,Prezi,画像照合済み,Prezi,False,True,,evidence/page-01.png
+p01R08,1,R,8,Textmagic,画像照合済み,Textmagic,False,True,,evidence/page-01.png
+p01R09,1,R,9,Fyxer,画像照合済み,Fyxer,False,True,,evidence/page-01.png
+p01R10,1,R,10,RingCentral Chat,画像照合済み,RingCentral Chat,False,True,,evidence/page-01.png
+p01R11,1,R,11,Turnfeed,画像照合済み,Turnfeed,False,True,,evidence/page-01.png
+p01R12,1,R,12,Front,画像照合済み,Front,False,True,,evidence/page-01.png
+p01R13,1,R,13,Klaxoon,画像照合済み,Klaxoon,False,True,,evidence/page-01.png
+p01R14,1,R,14,flow - AI Collaboration tool,画像照合済み,flow - Al Collaboration tool,False,True,,evidence/page-01.png
+p01R15,1,R,15,Kepler,画像照合済み,Kepler,False,True,,evidence/page-01.png
+p01R16,1,R,16,Mailbox MCP,画像照合済み,Mailbox MCP,False,True,,evidence/page-01.png
+p01R17,1,R,17,Webex,画像照合済み,Webex,False,True,,evidence/page-01.png
+p01R18,1,R,18,Inline,画像照合済み,Inline,False,True,,evidence/page-01.png
+p01R19,1,R,19,TimelinesAI for WhatsApp,画像照合済み,TimelinesAl for WhatsApp,False,True,,evidence/page-01.png
+p01R20,1,R,20,Geekbot,画像照合済み,Geekbot,False,True,,evidence/page-01.png
+p01R21,1,R,21,EasyReply,画像照合済み,EasyReply,False,True,,evidence/page-01.png
+p01R22,1,R,22,SuperMe Network,画像照合済み,SuperMe Network,False,True,,evidence/page-01.png
+p01R23,1,R,23,GigaMail,画像照合済み,GigaMail,False,True,,evidence/page-01.png
+p01R24,1,R,24,Cooper Email,画像照合済み,Cooper Email,False,True,,evidence/page-01.png
+p01R25,1,R,25,Postlyra,画像照合済み,Postlyra,False,True,,evidence/page-01.png
+p01R26,1,R,26,MatchMyCrew.com,画像照合済み,MatchMyCrew.com,False,True,,evidence/page-01.png
+p01R27,1,R,27,CommSync,画像照合済み,CommSync,False,True,,evidence/page-01.png
+p01R28,1,R,28,Artil,画像照合済み,Artil,False,True,,evidence/page-01.png
+p01R29,1,R,29,Avoma,画像照合済み,Avoma,False,True,,evidence/page-01.png
+p01R30,1,R,30,Marketing Email,画像照合済み,Marketing Email,False,True,,evidence/page-01.png
+p01R31,1,R,31,Missive,画像照合済み,Missive,False,True,,evidence/page-01.png
+p01R32,1,R,32,ChatRook,画像照合済み,ChatRook,False,True,,evidence/page-01.png
+p01R33,1,R,33,SealGate Beeper,画像照合済み,SealGate Beeper,False,True,,evidence/page-01.png
+p01R34,1,R,34,Kadenzo,画像照合済み,Kadenzo,False,True,,evidence/page-01.png
+p01R35,1,R,35,Rep,画像照合済み,Rep,False,True,,evidence/page-01.png
+p01R36,1,R,36,Emailit,画像照合済み,Emailit,False,True,,evidence/page-01.png
+p01R37,1,R,37,Easy Email Verification,画像照合済み,Easy Email Verification,False,True,,evidence/page-01.png
+p01R38,1,R,38,Echo,画像照合済み,Echo,False,True,,evidence/page-01.png
+p01R39,1,R,39,Telerivet,画像照合済み,Telerivet,False,True,,evidence/page-01.png
+p01R40,1,R,40,teem,画像照合済み,teem,False,True,,evidence/page-01.png
+p01R41,1,R,41,Lovekept Obituaries,画像照合済み,Lovekept Obituaries,False,True,,evidence/page-01.png
+p01R42,1,R,42,Bolter Connect,画像照合済み,Bolter Connect,False,True,,evidence/page-01.png
+p01R43,1,R,43,Reachlee,画像照合済み,Reachlee,False,True,,evidence/page-01.png
+p02L01,2,L,1,Meeting Follow-Up Assistant,画像照合済み,Meeting Follow-Up Assistant,False,True,,evidence/page-02.png
+p02L02,2,L,2,Stanza,画像照合済み,Stanza,False,True,,evidence/page-02.png
+p02L03,2,L,3,SendFox,画像照合済み,SendFox,False,True,,evidence/page-02.png
+p02L04,2,L,4,Soprano Connect,画像照合済み,Soprano Connect,False,True,,evidence/page-02.png
+p02L05,2,L,5,PilotControl,画像照合済み,PilotControl,False,True,,evidence/page-02.png
+p02L06,2,L,6,DIGG.IA: Revisão de Textos,画像照合済み,DIGG.IA: Revisdo de Textos,False,True,,evidence/page-02.png
+p02L07,2,L,7,MisarMail,画像照合済み,MisarMail,False,True,,evidence/page-02.png
+p02L08,2,L,8,DialAgent,画像照合済み,DialAgent,False,True,,evidence/page-02.png
+p02L09,2,L,9,Panda Greetings,画像照合済み,Panda Greetings,False,True,,evidence/page-02.png
+p02L10,2,L,10,HeyBonds Practice Room,画像照合済み,HeyBonds Practice Room,False,True,,evidence/page-02.png
+p02L11,2,L,11,Ellora,画像照合済み,Ellora,False,True,,evidence/page-02.png
+p02L12,2,L,12,VoiceLake,画像照合済み,VoiceLake,False,True,,evidence/page-02.png
+p02L13,2,L,13,Huddo,画像照合済み,Huddo,False,True,,evidence/page-02.png
+p02L14,2,L,14,Realtor Reply Email Drafts,画像照合済み,Realtor Reply Email Drafts,False,True,,evidence/page-02.png
+p02L15,2,L,15,iZap,画像照合済み,iZap,False,True,,evidence/page-02.png
+p02L16,2,L,16,SwarmMemo,画像照合済み,SwarmMemo,False,True,,evidence/page-02.png
+p02L17,2,L,17,AffiliSend,画像照合済み,AffiliSend,False,True,,evidence/page-02.png
+p02L18,2,L,18,SocialLab,画像照合済み,SocialLab,False,True,,evidence/page-02.png
+p02L19,2,L,19,Fax.Plus,画像照合済み,Fax.Plus,False,True,,evidence/page-02.png
+p02L20,2,L,20,Olatti,画像照合済み,Olatti,False,True,,evidence/page-02.png
+p02L21,2,L,21,Mailtea,画像照合済み,Mailtea,False,True,,evidence/page-02.png
+p02L22,2,L,22,iHatePosting,画像照合済み,iHatePosting,False,True,,evidence/page-02.png
+p02L23,2,L,23,PressDrop,画像照合済み,PressDrop,False,True,,evidence/page-02.png
+p02L24,2,L,24,OsmO,画像照合済み,OsmO,False,True,,evidence/page-02.png
+p02L25,2,L,25,Penround Group Cards,画像照合済み,Penround Group Cards,False,True,,evidence/page-02.png
+p02L26,2,L,26,Hive Analytics,画像照合済み,Hive Analytics,False,True,,evidence/page-02.png
+p02L27,2,L,27,Rizamo,画像照合済み,Rizamo,False,True,,evidence/page-02.png
+p02L28,2,L,28,Workshop,画像照合済み,Workshop,False,True,,evidence/page-02.png
+p02L29,2,L,29,Pidgeon,画像照合済み,Pidgeon,False,True,,evidence/page-02.png
+p02L30,2,L,30,Mailows,画像照合済み,Mailows,False,True,,evidence/page-02.png
+p02L31,2,L,31,Attached Translator,画像照合済み,Attached Translator,False,True,,evidence/page-02.png
+p02L32,2,L,32,Workshop EU,画像照合済み,Workshop EU,False,True,,evidence/page-02.png
+p02L33,2,L,33,Flowforth,画像照合済み,Flowforth,False,True,,evidence/page-02.png
+p02L34,2,L,34,Openline,画像照合済み,Openline,False,True,,evidence/page-02.png
+p02L35,2,L,35,Floada Answer,画像照合済み,Floada Answer,False,True,,evidence/page-02.png
+p02L36,2,L,36,Cerber,画像照合済み,Cerber,False,True,,evidence/page-02.png
+p02L37,2,L,37,Filament,画像照合済み,Filament,False,True,,evidence/page-02.png
+p02L38,2,L,38,Hogmatix,画像照合済み,Hogmatix,False,True,,evidence/page-02.png
+p02L39,2,L,39,JuzPost,画像照合済み,JuzPost,False,True,,evidence/page-02.png
+p02L40,2,L,40,Send & Retain Emails,画像照合済み,Send & Retain Emails,False,True,,evidence/page-02.png
+p02L41,2,L,41,BeyondSky Post,画像照合済み,BeyondSky Post,False,True,,evidence/page-02.png
+p02R01,2,R,1,Infobip,画像照合済み,Infobip,False,True,,evidence/page-02.png
+p02R02,2,R,2,Publer,画像照合済み,Publer,False,True,,evidence/page-02.png
+p02R03,2,R,3,PostAxis,画像照合済み,PostAxis,False,True,,evidence/page-02.png
+p02R04,2,R,4,ExTweets,画像照合済み,ExTweets,False,True,,evidence/page-02.png
+p02R05,2,R,5,OpenMail,画像照合済み,OpenMail,False,True,,evidence/page-02.png
+p02R06,2,R,6,Slashy,画像照合済み,Slashy,False,True,,evidence/page-02.png
+p02R07,2,R,7,Pluggzy,画像照合済み,Pluggzy,False,True,,evidence/page-02.png
+p02R08,2,R,8,Banger,画像照合済み,Banger,False,True,,evidence/page-02.png
+p02R09,2,R,9,ThinkMatch Introductions,画像照合済み,ThinkMatch Introductions,False,True,,evidence/page-02.png
+p02R10,2,R,10,Index Network,画像照合済み,Index Network,False,True,,evidence/page-02.png
+p02R11,2,R,11,Fax Anything,画像照合済み,Fax Anything,False,True,,evidence/page-02.png
+p02R12,2,R,12,SecureSMTP,画像照合済み,SecureSMTP,False,True,,evidence/page-02.png
+p02R13,2,R,13,Realtor Reply Email Drafts,画像照合済み,Realtor Reply Email Drafts,False,True,,evidence/page-02.png
+p02R14,2,R,14,Skysay,画像照合済み,Skysay,False,True,,evidence/page-02.png
+p02R15,2,R,15,Go Agent - Telegram,画像照合済み,Go Agent - Telegram,False,True,,evidence/page-02.png
+p02R16,2,R,16,Atomic Mail Agentic,画像照合済み,Atomic Mail Agentic,False,True,,evidence/page-02.png
+p02R17,2,R,17,Ando - Team messaging,画像照合済み,Ando - Team messaging,False,True,,evidence/page-02.png
+p02R18,2,R,18,V30,画像照合済み,V30,False,True,,evidence/page-02.png
+p02R19,2,R,19,Real News | Redação e SEO,画像照合済み,Real News | Redacao e SEO,False,True,,evidence/page-02.png
+p02R20,2,R,20,VideoCallTranslator,画像照合済み,VideoCallTranslator,False,True,,evidence/page-02.png
+p02R21,2,R,21,iBlueText,画像照合済み,iBlueText,False,True,,evidence/page-02.png
+p02R22,2,R,22,3Chat Customer Growth,画像照合済み,3Chat Customer Growth,False,True,,evidence/page-02.png
+p02R23,2,R,23,ClimbX,画像照合済み,ClimbX,False,True,,evidence/page-02.png
+p02R24,2,R,24,EPAV Desk,画像照合済み,EPAV Desk,False,True,,evidence/page-02.png
+p02R25,2,R,25,TalkTool,画像照合済み,TalkTool,False,True,,evidence/page-02.png
+p02R26,2,R,26,ポストメッシュ,画像照合済み,mhARXYY IA,False,True,日本語の読取は画像による。正式IDは未確認。,evidence/page-02.png
+p02R27,2,R,27,InboxFamily,画像照合済み,InboxFamily,False,True,,evidence/page-02.png
+p02R28,2,R,28,FounderBrain,画像照合済み,FounderBrain,False,True,,evidence/page-02.png
+p02R29,2,R,29,Masheev,画像照合済み,Masheev,False,True,,evidence/page-02.png
+p02R30,2,R,30,MillionSend,画像照合済み,MillionSend,False,True,,evidence/page-02.png
+p02R31,2,R,31,Chatinbox,画像照合済み,Chatinbox,False,True,,evidence/page-02.png
+p02R32,2,R,32,Church Videos,画像照合済み,Church Videos,False,True,,evidence/page-02.png
+p02R33,2,R,33,CommScore,画像照合済み,CommScore,False,True,,evidence/page-02.png
+p02R34,2,R,34,Railagent,画像照合済み,Railagent,False,True,,evidence/page-02.png
+p02R35,2,R,35,Asking,画像照合済み,Asking,False,True,,evidence/page-02.png
+p02R36,2,R,36,Zoom Canvas,画像照合済み,Zoom Canvas,False,True,,evidence/page-02.png
+p02R37,2,R,37,AgentPhone,画像照合済み,AgentPhone,False,True,,evidence/page-02.png
+p02R38,2,R,38,Shager,画像照合済み,Shager,False,True,,evidence/page-02.png
+p02R39,2,R,39,HueChat,画像照合済み,HueChat,False,True,,evidence/page-02.png
+p02R40,2,R,40,MBX Reach,画像照合済み,MBX Reach,False,True,,evidence/page-02.png

@@ -1,0 +1,25 @@
+{
+  "name": "CILA",
+  "category": "Creativity",
+  "provider": "CILA",
+  "version": "1.0.5",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6acaffd397ec81919045ab329260595b?category=creativity",
+  "original_description": "Track what’s trending across Instagram + TikTok, spot outliers and get ideas for content ideation\n\nCILA brings your Instagram + TikTok content research into ChatGPT and Codex. Track your niche, spot outliers and turn what's working into your next content idea.\n\nWhat you can do:\n• Check your tracked lists: Pull the latest posts from the competitors and creators you track in CILA, and find the outliers across your niche.\n• Search by topic: Find what's taking off on Instagram + TikTok for any topic.\n• Save winning ideas: Create folders, save posts into them and pull them back up when you're planning content.",
+  "summary_ja": "InstagramやTikTokの投稿動向を調べ、企画の参考を保存する。",
+  "limitations_ja": "接続条件・料金は未検証。",
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "official_app_name": "CILA",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "SNS",
+    "トレンド調査",
+    "企画"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Vidova",
+  "category": "Creativity",
+  "provider": "DeepShot, Inc.",
+  "version": "1.0.6",
+  "observed_at": "2026-11-23",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ad6811f854081919fb827ce3c29273f?category=creativity",
+  "original_description": "Vidova is an AI video editor that ChatGPT drives for you. Sign in with your Vidova account, then ask for the video you want in plain words. ChatGPT opens your Vidova projects, reads your footage (what is on screen, what is said, the best moments), and builds the edit on a real timeline: cuts, captions from the speech, titles, music, voiceover, motion graphics, effects and transitions. It checks the film for problems a viewer would notice, such as text too close to the edge or low contrast, fixes them, and renders a finished MP4 in the cloud.\n\nGood for: product ads and promos from product clips, short captioned clips from a podcast or interview, travel recaps, event recaps, birthday and family videos, explainers and motion graphics.\n\nEvery project also opens in the Vidova web editor at editor.vidova.ai, where you can watch the edit and keep changing it by hand or by chat.\n\nYou need a Vidova account. Your footage stays in your account.",
+  "summary_ja": "素材の内容を確認し、字幕や音楽を加えて動画の編集・出力を支援する。",
+  "limitations_ja": [
+    "Vidovaアカウントが必要。"
+  ],
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "Vidova",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "動画編集",
+    "字幕",
+    "映像制作"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}

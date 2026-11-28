@@ -1,0 +1,22 @@
+{
+  "official_app_name": "Writing Assistant",
+  "provider": "Matthew Lane",
+  "version": "0.39.1+bundle.c10131e6ff4ed4beb2ca702c966ea155",
+  "source_url": "https://chatgpt.com/plugins/plugins_6ab4020d985081919ced1bc551fe1daf?category=creativity",
+  "observed_at": "2026-11-17",
+  "original_description": "This writing helper uses proven strategies from respected writing guides to sharpen your work. It works best with a draft that already carries your voice, perspective, and intent.",
+  "summary_ja": "書き手の文体や意図を持つ下書きの文章を改善する。",
+  "usage_tags": [
+    "文章作成",
+    "推敲",
+    "校正"
+  ],
+  "limitations": [
+    "対象言語や具体的な添削精度は説明だけでは不明。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

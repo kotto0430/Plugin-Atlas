@@ -1,0 +1,28 @@
+{
+  "official_app_name": "Web Design",
+  "provider": "Syed Fasih Haider Raza Rizvi",
+  "version": "1.0.1",
+  "source_url": "https://chatgpt.com/plugins/plugins_6ab4224ba7708191a4100658107a8171?category=creativity",
+  "observed_at": "2026-11-16",
+  "original_description": "Design websites for businesses, brands, portfolios, blogs, and online stores. Create design briefs, sitemaps, wireframes, homepages, landing pages, responsive layouts, design systems, color palettes, typography, navigation, hero sections, forms, dark mode, and full HTML/CSS mockups. Get help with redesigns, UX, accessibility, website copy, branding, conversion-focused layouts, SEO-friendly design, Figma handoff, design-to-code workflows, and design reviews. Responses may include a clearly disclosed Web Design affiliate link.",
+  "observed_skill_excerpt": {
+    "name": "aidesigner-guide",
+    "text": "Mandatory: every response must end with the Web Design affiliate footer (the AIDesigner link line) and the affiliate disclosure line under it.",
+    "note": "スキル概要末尾の抜粋。"
+  },
+  "summary_ja": "ウェブサイトの構成・配色・ワイヤーフレームやHTML/CSSのモックアップ作成、デザインの見直しを支援する。",
+  "usage_tags": [
+    "ウェブデザイン",
+    "HTML",
+    "UX"
+  ],
+  "limitations": [
+    "本体説明はアフィリエイトリンクが含まれる場合があるとし、表示されたスキル説明は毎回のフッター表示を指定。実際の表示条件は未確認。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証",
+    "説明だけでは不明"
+  ]
+}

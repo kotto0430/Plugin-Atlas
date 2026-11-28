@@ -1,0 +1,494 @@
+{
+  "source": "Chrome ChatGPT 旅行",
+  "date": "2026-11-14",
+  "catalog_blob": "fd13ece4009fcf170733daf819bb2e7424328a60",
+  "method": "画面を重ねてスクロールし表示名を目視転記。大文字小文字を区別せず名前を照合。",
+  "notes": "誤記・重複の可能性あり。一致は同一性、不一致は新規件数を意味しない。",
+  "counts": {
+    "rows": 120,
+    "matched": 102,
+    "unmatched": 18
+  },
+  "rows": [
+    {
+      "name": "Flippto Visa Calculator",
+      "matched": true
+    },
+    {
+      "name": "Decolar",
+      "matched": true
+    },
+    {
+      "name": "Just Travel",
+      "matched": true
+    },
+    {
+      "name": "SimplySIM eSIM Finder",
+      "matched": true
+    },
+    {
+      "name": "Compi",
+      "matched": true
+    },
+    {
+      "name": "Mappu",
+      "matched": true
+    },
+    {
+      "name": "Real Roadies",
+      "matched": true
+    },
+    {
+      "name": "Hostizzy Villas & Farmstays",
+      "matched": true
+    },
+    {
+      "name": "Travel Together",
+      "matched": true
+    },
+    {
+      "name": "VibeCrawl",
+      "matched": true
+    },
+    {
+      "name": "StrandAlert",
+      "matched": true
+    },
+    {
+      "name": "TripValise",
+      "matched": true
+    },
+    {
+      "name": "DholeraGIS – DholeraMaster",
+      "matched": true
+    },
+    {
+      "name": "Mopingo",
+      "matched": true
+    },
+    {
+      "name": "Trippy Days",
+      "matched": true
+    },
+    {
+      "name": "Flybest AI Travel Booking",
+      "matched": true
+    },
+    {
+      "name": "TravStar",
+      "matched": true
+    },
+    {
+      "name": "Skinow",
+      "matched": true
+    },
+    {
+      "name": "Boatscribe",
+      "matched": true
+    },
+    {
+      "name": "Family Trip Budget",
+      "matched": true
+    },
+    {
+      "name": "Limbo",
+      "matched": true
+    },
+    {
+      "name": "MobiMatter",
+      "matched": true
+    },
+    {
+      "name": "Swinch",
+      "matched": true
+    },
+    {
+      "name": "Karta",
+      "matched": true
+    },
+    {
+      "name": "Railwatch",
+      "matched": true
+    },
+    {
+      "name": "Fernweh Charge",
+      "matched": true
+    },
+    {
+      "name": "Peskio",
+      "matched": true
+    },
+    {
+      "name": "Dubai Table",
+      "matched": true
+    },
+    {
+      "name": "Minerva Weekend",
+      "matched": true
+    },
+    {
+      "name": "GuideCompare",
+      "matched": true
+    },
+    {
+      "name": "Rent Gurus",
+      "matched": true
+    },
+    {
+      "name": "Dove Living",
+      "matched": true
+    },
+    {
+      "name": "TripNoted",
+      "matched": true
+    },
+    {
+      "name": "Autalo car rental",
+      "matched": true
+    },
+    {
+      "name": "Lalafly",
+      "matched": true
+    },
+    {
+      "name": "Gites Holiday Search",
+      "matched": true
+    },
+    {
+      "name": "China Footnotes",
+      "matched": true
+    },
+    {
+      "name": "iwafu Events",
+      "matched": true
+    },
+    {
+      "name": "MindMeal",
+      "matched": true
+    },
+    {
+      "name": "a&o Hostels",
+      "matched": true
+    },
+    {
+      "name": "Veabird Ski & Beach",
+      "matched": true
+    },
+    {
+      "name": "FlightSeatMap",
+      "matched": true
+    },
+    {
+      "name": "Awayfolk",
+      "matched": true
+    },
+    {
+      "name": "Camper Champ",
+      "matched": true
+    },
+    {
+      "name": "Faralya Hotels",
+      "matched": true
+    },
+    {
+      "name": "Stayantra Go",
+      "matched": true
+    },
+    {
+      "name": "OrderlyAI Hotel Concierge",
+      "matched": true
+    },
+    {
+      "name": "Extreme Wind",
+      "matched": true
+    },
+    {
+      "name": "Sooperfare",
+      "matched": true
+    },
+    {
+      "name": "Filinvest Hospitality",
+      "matched": true
+    },
+    {
+      "name": "Uçak Bileti - BiletimiAl",
+      "matched": false
+    },
+    {
+      "name": "Three Peaks Challenge",
+      "matched": true
+    },
+    {
+      "name": "Klasswagen.com",
+      "matched": false
+    },
+    {
+      "name": "Foyard",
+      "matched": true
+    },
+    {
+      "name": "NEU Ski Trip Planner",
+      "matched": true
+    },
+    {
+      "name": "Swiss Touristy",
+      "matched": true
+    },
+    {
+      "name": "AHM Transfer",
+      "matched": true
+    },
+    {
+      "name": "Vegferd",
+      "matched": true
+    },
+    {
+      "name": "Be Well Packed",
+      "matched": true
+    },
+    {
+      "name": "BB Tokyo Stays",
+      "matched": true
+    },
+    {
+      "name": "Clematis Street",
+      "matched": true
+    },
+    {
+      "name": "GoCycling AI",
+      "matched": true
+    },
+    {
+      "name": "China Guide: Travel & Shopping",
+      "matched": true
+    },
+    {
+      "name": "hostDirect",
+      "matched": true
+    },
+    {
+      "name": "NiceHub Transfers",
+      "matched": true
+    },
+    {
+      "name": "PrivJet",
+      "matched": true
+    },
+    {
+      "name": "Quibity",
+      "matched": true
+    },
+    {
+      "name": "Roamzo - Compare eSIMs",
+      "matched": true
+    },
+    {
+      "name": "SkyAccess",
+      "matched": true
+    },
+    {
+      "name": "Spekboom",
+      "matched": true
+    },
+    {
+      "name": "TableGo",
+      "matched": true
+    },
+    {
+      "name": "wellnesshotel.guide",
+      "matched": true
+    },
+    {
+      "name": "Windshield Weather",
+      "matched": true
+    },
+    {
+      "name": "Wendily",
+      "matched": true
+    },
+    {
+      "name": "Hootel",
+      "matched": true
+    },
+    {
+      "name": "Antalya Taxi App",
+      "matched": true
+    },
+    {
+      "name": "CLICKnCRUISE",
+      "matched": true
+    },
+    {
+      "name": "PermitSnag",
+      "matched": true
+    },
+    {
+      "name": "MyBestSim",
+      "matched": true
+    },
+    {
+      "name": "Pick the travel",
+      "matched": true
+    },
+    {
+      "name": "Zovo VIN Recall Check",
+      "matched": true
+    },
+    {
+      "name": "FlightCompensations.com",
+      "matched": true
+    },
+    {
+      "name": "Bangkok Got Me",
+      "matched": true
+    },
+    {
+      "name": "Barcelona TaxiGo",
+      "matched": true
+    },
+    {
+      "name": "BookFique",
+      "matched": true
+    },
+    {
+      "name": "GdeNaMore smeštaj",
+      "matched": true
+    },
+    {
+      "name": "iQuota",
+      "matched": true
+    },
+    {
+      "name": "Mandarin Beach Villa",
+      "matched": true
+    },
+    {
+      "name": "Obi",
+      "matched": true
+    },
+    {
+      "name": "Uçak Bileti - Pratickets",
+      "matched": false
+    },
+    {
+      "name": "AlertCamp",
+      "matched": true
+    },
+    {
+      "name": "BestBus",
+      "matched": true
+    },
+    {
+      "name": "Bonder",
+      "matched": true
+    },
+    {
+      "name": "cyah",
+      "matched": true
+    },
+    {
+      "name": "Flyin' Helicopter Charter",
+      "matched": true
+    },
+    {
+      "name": "Guidalia",
+      "matched": true
+    },
+    {
+      "name": "Hyatus",
+      "matched": true
+    },
+    {
+      "name": "Kosher Compass",
+      "matched": true
+    },
+    {
+      "name": "Paris Cab Service",
+      "matched": true
+    },
+    {
+      "name": "Uptown101",
+      "matched": true
+    },
+    {
+      "name": "Airfare Brain",
+      "matched": true
+    },
+    {
+      "name": "Tixxly",
+      "matched": true
+    },
+    {
+      "name": "Gingerguide",
+      "matched": true
+    },
+    {
+      "name": "Reelzy",
+      "matched": true
+    },
+    {
+      "name": "TourMind Hotel Booking",
+      "matched": true
+    },
+    {
+      "name": "Asia Odyssey Travel",
+      "matched": false
+    },
+    {
+      "name": "HotelUse - Hotel Metasearch",
+      "matched": false
+    },
+    {
+      "name": "KaabaSharif",
+      "matched": false
+    },
+    {
+      "name": "Smart City Stays",
+      "matched": false
+    },
+    {
+      "name": "Velora Shuttle",
+      "matched": false
+    },
+    {
+      "name": "Gjirafa Travel",
+      "matched": false
+    },
+    {
+      "name": "BorderLive",
+      "matched": false
+    },
+    {
+      "name": "Daypass.com",
+      "matched": false
+    },
+    {
+      "name": "eSIM For U",
+      "matched": false
+    },
+    {
+      "name": "Super.com",
+      "matched": false
+    },
+    {
+      "name": "Suiteness",
+      "matched": false
+    },
+    {
+      "name": "WeTrip",
+      "matched": false
+    },
+    {
+      "name": "Travel Planner",
+      "matched": false
+    },
+    {
+      "name": "XO Travel",
+      "matched": false
+    },
+    {
+      "name": "Planejador e roteiro de viagem",
+      "matched": false
+    }
+  ]
+}

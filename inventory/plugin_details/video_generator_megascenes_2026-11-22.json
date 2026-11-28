@@ -1,0 +1,23 @@
+{
+  "official_app_name": "Video Generator",
+  "provider": "MegaScenes",
+  "version": "1.0.1",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ae3173d09908191833ddff844e5f7b0?category=creativity",
+  "observed_at": "2026-11-22",
+  "original_description": "Describe a scene and get a short video clip: a product spin, a landscape fly-over, a character moment or a social ad, in 16:9, 9:16 or 1:1.\n\nChatGPT picks a fitting model, tells you what the run needs and starts the clip in your MegaScenes account when you ask. The clip plays in the chat when it is ready and stays in your library.\n\nFor social media, ads, storyboards and b-roll.\n\nLimitations: new clips from a description, a few seconds long; it does not edit videos you attach in the chat. Making a file needs a signed-in MegaScenes account and runs in it; nothing is made until you confirm. Not for sexual or adult content or for real people's likeness. Files are made by generative models and saved in your MegaScenes library.",
+  "summary_ja": "文章から数秒の動画クリップを制作。",
+  "usage_tags": [
+    "動画生成",
+    "SNS",
+    "広告"
+  ],
+  "limitations": [
+    "MegaScenesアカウントが必要。添付動画の編集や実在人物の容姿の生成は対象外と説明。",
+    "一覧上の名称はVideo Generator、アプリ欄の名称はVideo Generator by MegaScenes。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

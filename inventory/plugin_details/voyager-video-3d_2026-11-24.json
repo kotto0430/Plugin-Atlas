@@ -1,0 +1,26 @@
+{
+  "name": "Voyager Video & 3D",
+  "category": "Creativity",
+  "provider": "Voyager",
+  "version": "0.1.10",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ae3982d27b4819184ac134a3c1d1307?category=creativity",
+  "original_description": "Create cinematic videos from prompts or photos, plus images, narration, music and sound effects with your Voyager account. Voyager picks a sensible default model for each kind of media, or uses the one you name. Track jobs, preview or download results, and reuse your brand kits and saved Cast characters.\n\nMake 3D models from a text prompt or an image. Retexture a model with a new look, remesh it to a target face count, rig a character with a skeleton and add animations, then download the result as GLB for your game engine or 3D app.\n\nIf a model you ask for isn't available, Voyager asks you instead of using a different one. This hosted plugin does not require the Voyager desktop app.",
+  "original_description_language": "en",
+  "summary_ja": "画像・動画・音声・3Dモデルを生成し、3Dモデルを加工する。",
+  "limitations_ja": "Voyagerアカウントを使用。指定モデルが利用できない場合は別モデルに勝手に切り替えず確認すると説明。",
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "Voyager Video & 3D",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "動画制作",
+    "3D",
+    "画像生成"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}

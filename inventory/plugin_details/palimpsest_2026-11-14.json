@@ -1,0 +1,39 @@
+{
+  "name": "Palimpsest",
+  "category": "Finance",
+  "provider": "LIQUILENS PRIVATE LIMITED",
+  "version": "1.0.3",
+  "observed_at": "2026-11-14",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ae1d7e1a3e48191b64020b601b5b5d1?category=finance",
+  "developer_url": "https://palimpsest.info/developers.html",
+  "privacy_url": "https://agents.seiche.info/privacy",
+  "original_description": "Inspect public-record research signals, China and regional evidence catalogs, and sourced newsroom context. Palimpsest helps analysts trace provenance, revisions and access restrictions before using evidence. Restricted economic collections remain metadata only; the plugin does not reconstruct denied observations or present research signals as verified financial conclusions.",
+  "summary_ja": "公開記録を使った調査シグナル、中国・地域の資料カタログ、出典付きニュースの背景を確認し、資料の来歴・改訂・アクセス制限を追跡するためのプラグイン。",
+  "limitations_ja": [
+    "利用制限のある経済データはメタデータのみ。",
+    "取得を拒否された観測値の復元や、調査シグナルを検証済みの金融上の結論として示すことはしないと説明されている。"
+  ],
+  "example_prompts": [
+    "Show Palimpsest's research signals and their coverage limits.",
+    "Explain the rights and lineage status of the China economic evidence.",
+    "Summarize five newsroom items with sources and publication dates."
+  ],
+  "capabilities": [
+    "Read",
+    "Research"
+  ],
+  "review": "詳細画面を末尾までスクロールして確認。提供元の説明に基づく記録で、動作・料金・提供地域は未検証。",
+  "catalog_status": "金融Chrome目視08の未一致候補。3,941件の一覧本体には未追加。",
+  "official_app_name": "Palimpsest",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "資料調査",
+    "公開記録",
+    "出典確認"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}

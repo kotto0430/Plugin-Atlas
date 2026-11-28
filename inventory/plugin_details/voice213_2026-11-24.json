@@ -1,0 +1,25 @@
+{
+  "name": "Voice213",
+  "category": "Creativity",
+  "provider": "Voice213",
+  "version": "1.0.4",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ad11a4c11b48191a15b735ba5114de7?category=creativity",
+  "original_description": "Voice213 brings natural Algerian, Tunisian and Libyan darija voice-overs, and AI voice agents for your business, into ChatGPT. Connect your Voice213 account, then ask in plain words.\n\nWhat you can do:\n- Turn a script into an MP3 voice-over with a darija voice, on five voice models from Lite to Pro 2. Tone directions such as (نبرة حماسية) change how a line is performed.\n- Write ad scripts in darija, add tashkeel and tone directions to a script, and transcribe recordings.\n- Design a new custom voice from a description, and keep the one you like.\n- Create, teach, test and publish voice agents that answer your customers' calls and chats on your website and WhatsApp, and read their conversations.\n- Create landing pages and product photos for your products.\n- Find your past voice-overs and creations, and check your Voice213 account.\n\nYou need a Voice213 account. You can disconnect ChatGPT at any time in Voice213, under Settings → Security → Connected apps.",
+  "summary_ja": "アルジェリア・チュニジア・リビアのダリジャ語の音声や音声エージェントを作る。",
+  "limitations_ja": "Voice213アカウントが必要。音声生成や公開などの実動作は未検証。",
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "official_app_name": "Voice213",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "音声生成",
+    "ダリジャ語",
+    "顧客対応"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}

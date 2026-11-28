@@ -1,0 +1,26 @@
+{
+  "name": "PersonalizedComics",
+  "official_app_name": "PersonalizedComics",
+  "provider": "PersonalizedComics",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ada12174284819199ce0a99e0d5494b?category=creativity",
+  "developer_url": "https://personalizedcomics.com/",
+  "category": "Creativity",
+  "observed_at": "2026-11-14",
+  "original_description": "PersonalizedComics turns the people in your photos into the stars of a short comic. Attach a photo of each person (up to four), say what should happen and what it is for, and the plugin writes a complete two-page story and draws it: first the cast, so you can check that everyone looks like themselves and redraw anyone who does not, then a cover, the two story pages and a back cover. The finished comic opens in a reader inside the conversation, and your short comics stay in your PersonalizedComics account so you can come back to them.\n\nIt is made for birthdays, anniversaries, Mother's and Father's Day, retirements, a present for a friend, or just for fun. Pick a style such as graphic novel, manga, watercolor, noir or classic American comics, or let the plugin choose.\n\nWhen you want a longer comic as a printed book, the plugin opens the PersonalizedComics website with your characters already saved, and the printed comic book is made and ordered there.\n\nGood to know: you sign in with a PersonalizedComics account (Google, or email and password). A short comic takes about three minutes to draw. Each person can make five short comics a day. The pages of a finished comic are not redrawn; start a new comic to tell a different story. Only share photos of people who are happy to be in a comic. Comics are made for general audiences.",
+  "original_description_language": "en",
+  "description_scope": "ChatGPT詳細画面の提供元の英語説明。",
+  "summary_ja": "写真の人物を登場させ、表紙・2ページの物語・裏表紙からなる短編漫画を作る。",
+  "usage_tags": [
+    "漫画制作",
+    "ギフト",
+    "画像生成"
+  ],
+  "limitations_ja": "写真は最大4人。アカウントが必要、短編は1人1日5作と説明。完成ページの描き直しはできず、掲載に同意した人物の写真だけを共有するよう記載。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "詳細画面の説明と情報欄を確認。実動作・料金・品質・権利条件は未検証。",
+  "catalog_status": "一覧本体との名称照合は未確認。同名・別名の同一性は未確認。"
+}

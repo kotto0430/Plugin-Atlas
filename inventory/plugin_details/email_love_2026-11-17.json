@@ -1,0 +1,23 @@
+{
+  "official_app_name": "Email Love",
+  "provider": "Email Love",
+  "version": "4.11.3",
+  "source_url": "https://chatgpt.com/plugins/plugins_6a739f43c3b48191b1281a9b2d48b409?category=creativity",
+  "observed_at": "2026-11-17",
+  "original_description": "Four Figma skills cover Email Love email building, template repair, design-system migration, and quality gates. Ten ESP skills cover Braze Liquid, Customer.io Liquid, HubSpot HubL, Iterable Handlebars, Klaviyo Django, Marketo Velocity, MoEngage Jinja, Sailthru Zephyr, Salesforce Marketing Cloud AMPscript, and Zeta ZML. The ESP skills write, review, and debug personalization in any email HTML, whether or not it came from Email Love, without requiring an MCP connection. This is a skills-only package and does not bundle MCP configuration. Canvas work requires compatible Figma write tools connected separately. Inspiration research, conversion, design-system access, headless export verification, and previews require the relevant Email Love MCP tools connected and authenticated separately. Available Figma workflows depend on the tools exposed in your environment. Conversion begins with a Figma design or supplied screenshot; it is not a free-form HTML generator for chat.",
+  "summary_ja": "Figmaでのメール制作・修復や配信サービス向けのメールの個別化を支援。",
+  "usage_tags": [
+    "メール制作",
+    "Figma",
+    "マーケティング",
+    "プログラミング"
+  ],
+  "limitations": [
+    "Figmaのキャンバス操作には別途対応する書き込みツールが必要。プレビューなどには別途Email Love MCPの接続・認証が必要と説明。",
+    "ESP向け個別化スキルはMCP接続不要と説明。実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Book Covers",
+  "category": "Creativity",
+  "provider": "MegaScenes",
+  "version": "1.0.1",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ae319673e58819183f25c83c3484b65?category=creativity",
+  "original_description": "Give the title, the author, the genre and an image idea, and get a book cover with the text in the design, in the tall format books use.\n\nChatGPT tells you what the run needs and creates the cover in your MegaScenes account when you ask. The cover opens in the chat and stays in your library.\n\nFor self-published authors, newsletters and book clubs.\n\nLimitations: front covers as image files; it does not lay out the spine and back cover or publish the book. Making a file needs a signed-in MegaScenes account and runs in it; nothing is made until you confirm. Not for sexual or adult content or for real people's likeness. Files are made by generative models and saved in your MegaScenes library.",
+  "summary_ja": "書名・著者・ジャンルから縦長の書籍表紙画像を作る。",
+  "limitations_ja": "表紙画像のみで、背表紙・裏表紙のレイアウトや出版には非対応。作成にはサインインが必要。",
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "official_app_name": "Book Covers",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "書籍",
+    "表紙",
+    "画像生成"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明",
+  "embedded_app_name": "Book Covers by MegaScenes"
+}

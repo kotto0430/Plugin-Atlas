@@ -1,0 +1,24 @@
+{
+  "official_app_name": "NOLGIA",
+  "provider": "Nolgia INC",
+  "version": "1.2.1",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6aa37cb6ef8c81918b76fe6033e487f5?category=creativity",
+  "observed_at": "2026-11-23",
+  "original_description": "Create images, video, voiceover and edits with guided presets and your own media. Browse a visual preset gallery, filter by image or video, and open a preset to see examples and the questions it needs answered.\n\nCustom widgets keep the workflow inside ChatGPT: fill in text fields, choose options, and select reference images from your NOLGIA library. Search and filter your saved assets in a visual grid, then reuse a logo, product photo or clip in your next creation.\n\nRemake a clip you already have with Miroge. Keep its movement and give it a new subject, swap one person or product for another, or move the whole scene into a new world, then compare the remake with your original.\n\nTurn one steady take into every camera angle with Multicam. See which angles your clip can have before anything is made, render only the ones you pick, in sync over the original sound, and get a highlight edit that cuts between them.\n\nMake a finished edit in an Encore style from your own files and words: a product drop, a travel film, a lyric video, a car reveal, captions for a talking clip, or an edit you love remade with you in it. A card shows the styles with previews, picks your photos and clips from your library, checks the form before anything starts, then plays the finished edit in the chat beside a side by side compare, with a download.\n\nChoose a preset for a YouTube thumbnail, product demo, logo reveal, animation and more, or describe a task directly. Generate supported media, check video job progress, retrieve finished files, and organize assets with projects and tags. Cut short vertical clips from a longer video, make a 3D model from product photos, or edit one image step by step and go back to any earlier version. Some multi-shot productions return a brief for NOLGIA Agent and, where supported, a single preview scene rather than a completed production.\n\nA NOLGIA account is required.",
+  "summary_ja": "プリセットや手持ち素材で画像・動画・音声を制作する。",
+  "usage_tags": [
+    "動画制作",
+    "画像生成",
+    "音声"
+  ],
+  "limitations": [
+    "NOLGIAアカウントが必要。生成にはクレジットを使うとアプリ欄に記載。",
+    "一部の複数ショット制作は完成品でなく制作指示やプレビューを返す。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証",
+    "説明だけでは不明"
+  ]
+}

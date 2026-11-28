@@ -1,0 +1,24 @@
+{
+  "official_app_name": "Plainly Guide",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "Studiomi Ltd",
+  "version": "1.0.1",
+  "observed_at": "2026-11-28",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6af0726c42e8819195b035a4d153338c?category=creativity",
+  "original_description": "Plainly Guide helps you choose the right AI tool for creative work: making pictures, video, voiceovers, music, talking presenters and 3D models. Describe what you want to make and Plainly Guide returns a shortlist from its independent catalogue of 338 creative AI tools, models and services, with what each does, the free option, the cheapest paid plan, whether it is open or closed and whether you can sell what you make. You can also open one tool's full details or compare up to five side by side. Every fact links to the maker's own page and shows the date it was last checked. Plainly Guide does not create images or media itself; it helps you pick the tool. No sign-in, no personal data, and nobody pays to be listed or ranked.",
+  "original_description_language": "英語",
+  "description_scope": "詳細ページの説明本文",
+  "summary_ja": "画像・動画・音楽などのAI制作ツールを検索・比較する。",
+  "usage_tags": [
+    "AIツール比較",
+    "クリエイティブ"
+  ],
+  "limitations_ja": "メディアそのものは生成しない。338件は表示時点の提供元の説明。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。"
+}

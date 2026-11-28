@@ -1,0 +1,27 @@
+{
+  "name": "A1 Gallery",
+  "official_app_name": "A1 Gallery",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "Bryn Taylor",
+  "version": "1.2.0",
+  "observed_at": "2026-11-27",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac777fae9948191b07490c3508c903b?category=creativity",
+  "original_description": "Search a hand-curated gallery of 1,250+ real websites by style, category, technology, font and colour, each with the live URL, its tags and a screenshot. Ask for a design brief and get 5 real examples plus the type sizes, widths, fonts and colours sites like it use. Search 6,800+ captured sections such as heroes, pricing tables and FAQs, each with the colours, type sizes, spacing and radius measured off the live page. Compare sites side by side, browse full-page captures, find font pairings in use and see who built each site. Save what you find to your own A1 boards. Needs an A1 account.",
+  "embedded_app_description": "Search a hand-curated gallery of 1,150+ real websites by style, category, technology, font and colour. Each result has the live URL, its tags and a screenshot. Search 2,800+ captured sections such as heroes, feature grids and FAQs by what they say, and read the colours, type sizes, spacing and radius measured off the live page. Browse full-page captures by page type, find font pairings in use on real sites, and see who built each site. All tools are read-only and need an A1 account.",
+  "summary_ja": "実在するウェブサイトや各ページのデザイン事例を検索・比較する。",
+  "limitations_ja": "本文はサイト1,250件以上・セクション6,800件以上およびボードへの保存を説明。一方、内包アプリ欄は1,150件以上・2,800件以上で全ツール読み取り専用と説明。件数・保存機能の実際の対応は未確認。A1アカウントが必要。",
+  "usage_tags": [
+    "ウェブデザイン",
+    "参考資料",
+    "調査"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証",
+    "説明だけでは不明"
+  ],
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "description_scope": "詳細ページ本文の英語説明"
+}

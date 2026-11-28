@@ -1,0 +1,22 @@
+{
+  "official_app_name": "WonderWhy",
+  "provider": "DenX",
+  "version": "0.1.1",
+  "source_url": "https://chatgpt.com/plugins/plugins_6aa8ccc8d5b88191a24392ac43a5c82f?category=creativity",
+  "observed_at": "2026-11-17",
+  "original_description": "Use supplied product photos and personalization previews to develop three visually grounded marketing hypotheses and three portrait ad creatives. No store connection is required.",
+  "summary_ja": "商品写真などを基にマーケティング仮説と縦長広告の案を作る。",
+  "usage_tags": [
+    "広告",
+    "マーケティング",
+    "商品画像"
+  ],
+  "limitations": [
+    "ストア連携は不要と説明。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

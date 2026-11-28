@@ -1,0 +1,21 @@
+{
+  "official_app_name": "Uxia",
+  "provider": "Uxia",
+  "version": "2.2.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a43db2d6e5881919880245922bbfa58?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Use Uxia to plan AI-powered UX research and analyze test results. Build or revise user-test drafts and define tasks, audiences and survey questions. Explore existing findings, screenshots, transcripts, survey responses and benchmarks to understand usability issues and prioritize improvements. Requires a connected Uxia MCP server.",
+  "summary_ja": "UX調査のテスト案を作成し、結果や画面画像、回答などを調べて改善点を整理する。",
+  "usage_tags": [
+    "UX調査",
+    "ユーザーテスト",
+    "製品設計"
+  ],
+  "limitations": [
+    "Uxia MCPサーバーの接続が必要と表示。実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

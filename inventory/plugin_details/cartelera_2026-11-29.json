@@ -1,0 +1,25 @@
+{
+  "official_app_name": "Cartelera",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "Toro Technology",
+  "version": "1.0.6",
+  "observed_at": "2026-11-29",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ade7582e39881919a37872ee37c094f?category=creativity",
+  "original_description": "Cartelera turns an idea into a finished video: animate a photo or a painting, make a commercial for your business, a short series, a house tour or a music video with an original song.\n\nWhat you can do from ChatGPT:\n- Start a project from a short description (style, length, vertical or horizontal).\n- Follow the plan step by step: Cartelera prepares the script, the scene photos and the music, and you can change any scene or pick a different photo.\n- Steps that use your Cartelera tokens (scene photos, music, animated shots) run when you ask for them, and every reply says how many were used. Set a budget for each project and Cartelera never goes past it, nor past the daily limit you chose when you connected.\n- Download the finished MP4 when it is ready.\n- Make a voice-over from your text in several voices at once, or a new voice described in your words, and edit it (deeper or higher, slower or faster, trim, join, equalize).\n- Attach a song or a video and get its music analyzed: whether it is music or speech, the genres it resembles, BPM, key, instruments, mood and the language of the vocals, plus a prompt to create original music in a similar style.\n\nWho it is for: families who want to bring old photos to life, small businesses that need short ads, and creators who want music videos, voice-overs and series in Spanish or English.\n\nLimitations: animating scenes requires a Cartelera account; long videos take a few minutes per scene; Cartelera does not make adult, violent or impersonation content.",
+  "original_description_language": "英語",
+  "description_scope": "詳細ページの説明本文",
+  "summary_ja": "文章や写真から動画を制作し、ナレーション作成や音楽分析を行う。",
+  "usage_tags": [
+    "動画制作",
+    "音楽分析",
+    "ナレーション"
+  ],
+  "limitations_ja": "シーンの動画化にはアカウントが必要。トークン消費と予算の設定があると説明。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。"
+}

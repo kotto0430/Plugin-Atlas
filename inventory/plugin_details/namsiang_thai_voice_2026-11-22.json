@@ -1,0 +1,22 @@
+{
+  "official_app_name": "Namsiang Thai Voice",
+  "provider": "Pop NX World Co.,Ltd.",
+  "version": "0.32.7",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6aa2a26508c08191a28b05ee395c98eb?category=creativity",
+  "observed_at": "2026-11-22",
+  "original_description": "Cast Thai voices by gender, age, personality, and role; direct emotion and pacing line by line for drama, dubbing, and narration; then create, track, play, and download private audio directly in ChatGPT without exposing provider API keys or voice IDs.",
+  "summary_ja": "タイ語音声の配役や感情・間合いを指定し、ドラマやナレーションを制作。",
+  "usage_tags": [
+    "タイ語",
+    "音声制作",
+    "吹き替え",
+    "ドラマ"
+  ],
+  "limitations": [
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "MAP Audio Tools",
+  "category": "Creativity",
+  "provider": "MAP Audio",
+  "version": "0.6.1",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ae065edba748191b1685d1eb32b1037?category=creativity",
+  "original_description": "MAP Audio tools in ChatGPT.\n\nAnalyse a recording. Attach a WAV, AIFF, FLAC or MP3 to get its tempo, key with its Camelot code, loudness and true peak against the -14, -16 and -23 LUFS streaming and broadcast targets, tonal balance, stereo width and sections. Ask for a spectrogram, compare a processed file with the recording it was made from, or check a mix against up to three reference tracks. ChatGPT explains the numbers and suggests PAM and MFX presets that fit. The player shows the waveform, spectrogram and sections; drag across the waveform to loop a passage.\n\nMake beats with PAM. Ask for a style or a tempo and PAM, MAP Audio's sampler and sequencer, opens in the conversation with a matching preset. Press Play inside PAM to hear it. Signed in to a MAP Audio account, ChatGPT can also change the tempo, start and stop playback, switch variations, load presets, randomize the beat, set PAM's parameters and load a recording into a cell, and export what PAM plays as a WAV or a .preset file to download.\n\nProcess audio with MFX. Hear an MFX effect preset on one of MFX's built-in loops without signing in. Signed in, ChatGPT runs your own recording through a preset; compare the result with the original and download it.\n\nMaster a recording. Signed in, ChatGPT masters a mix with Master Sculpt, PAM's mastering EQ, toward a loudness target under a true-peak ceiling, and stores a 24-bit copy to download. Add up to three reference tracks to see where the mix differs from them, then ask for a master that follows them.\n\nRender with the MAP Audio Music API. For a MAP Audio account with Music API access, ChatGPT renders PAM factory presets, using that account's own render-minutes, drum hits, and CM-FX effect and CMI instrument programs with their measurements, and opens them in the player.\n\nGood to know: PAM control and export, MFX on your own recordings, mastering and the Music API need a MAP Audio account, which ChatGPT asks you to connect. No PAM or MFX licence is needed. Music API access is by invitation. Attachments can be up to 32 MiB; analysis reads up to ten minutes, MFX up to five and mastering up to three (less above 44.1 kHz). Analysing an attachment stores nothing, and copies opened in the player expire after an hour. MAP Audio does not make songs, vocals or sounds from a text prompt.",
+  "app_description": "MAP Audio puts three of its tools in ChatGPT. Analyse a recording. Attach a file and the player shows its waveform and spectrogram, with sample peak, true peak, RMS and integrated LUFS measured in your browser. Drag across the waveform to loop a section. ChatGPT sees the measurements, where playback is and the section you picked, and it can mark sections on the timeline. In the ChatGPT desktop app, WAV, FLAC, MP3 and M4A files from the conversation open in the player too. Make beats with PAM. PAM is MAP Audio's eight-cell sampler and sequencer, and it runs in the conversation, in your browser. Ask for a style or a tempo and ChatGPT opens PAM with a matching preset. Press Play inside PAM to start the sound. With a PAM licence, ChatGPT can then change the tempo, start and stop playback, switch variations, load another preset or randomize the beat. Process audio with MFX. With an MFX licence, ChatGPT runs a recording through one of MFX's effect presets without opening MFX. You can compare the result with the original and download it. Limits: attachments can be up to 32 MiB, and MFX takes up to five minutes of audio. Stored copies expire after one hour. PAM in ChatGPT plays MAP Audio's presets and cannot save presets or export audio. Every tool needs a MAP Audio account. MAP Audio does not generate sound with AI.",
+  "summary_ja": "録音の分析、ビートの再生・操作、音声処理などを支援する。",
+  "limitations_ja": "詳細本文はPAMの書き出し対応・PAM/MFXライセンス不要・一部サインイン不要と記載。アプリ欄はPAMの保存・書き出し不可、ライセンス必要、全ツールにアカウント必要と記載。実際の対応・条件は未確認。",
+  "review": "詳細本文と内包アプリ欄の相違を記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。別URLのMAP Audioとの関係は未確認。",
+  "official_app_name": "MAP Audio Tools",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "音声解析",
+    "音楽制作",
+    "音声編集"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証",
+    "説明だけでは不明"
+  ],
+  "description_scope": "詳細本文とアプリ欄の英語説明を各々保存。"
+}

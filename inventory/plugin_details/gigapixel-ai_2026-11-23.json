@@ -1,0 +1,25 @@
+{
+  "official_app_name": "Gigapixel AI",
+  "provider": "CODEONE AI PTE. LTD.",
+  "version": "0.2.2",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac4fab85f7c819186b8af0a2678c076?category=creativity",
+  "observed_at": "2026-11-23",
+  "original_description": "Upscale images up to 10×. Bring more detail and clarity to your videos. Create original images and videos with AI in ChatGPT.\n\nImage upscaling — up to 10×: Enlarge photos, artwork, and product images. The 2× option is available without connecting an account, subject to usage and file limits. Larger sizes and advanced enhancement require a connected account with existing access to advanced upscaling and sufficient credits. Preserve original detail, restore soft images, or add creative texture. Preserve existing transparency with supported 4× PNG settings. Compare before and after, then save the original output or export as PNG, JPG, or WebP, subject to browser conversion limits.\n\nVideo upscaling and enhancement: Increase resolution, including 4K output where supported, restore detail, reduce noise and blur, and improve motion. Available scale, frame-rate, slow-motion, and output options depend on the selected processing mode and source video. Cloud video processing requires a connected account with existing access to cloud enhancement and sufficient credits.\n\nOn-device video upscaling is available where your device and ChatGPT environment support it, without uploading the video or spending credits. Local results stay in the current workspace only, and saving depends on ChatGPT support. If saving is blocked, open the website's on-device video tool and select your original video again to process and save it locally.\n\nImage generation: Create product visuals, illustrations, and original concepts from a prompt, with optional reference images. Choose from supported AI models and their available aspect ratios, resolutions, output formats, and background options. Reference-image limits vary by model.\n\nVideo generation: Create videos from a prompt, reference images, or first and last frames where supported. Choose the available generation mode, aspect ratio, resolution, and duration for your selected model. Image and video generation require a connected account and sufficient existing credits.\n\nReview settings and the exact credit cost before confirming a cloud task. Follow progress, preview results, and save cloud outputs through a Gigapixel download page. Revisit retained cloud tasks created through this plugin with your connected account. Opening the workspace, preparing a quote, and browsing results do not spend credits. Available options and input limits depend on the selected tool, source media, and account access.",
+  "summary_ja": "画像や動画の拡大・高画質化と生成を支援する。",
+  "usage_tags": [
+    "画像拡大",
+    "動画編集",
+    "画像生成"
+  ],
+  "limitations": [
+    "アカウント不要の倍率について本文は2倍を挙げ、それより大きな倍率は接続が必要とする一方、アプリ欄はStandardの2倍または4倍が接続不要と記載。実際の条件は不明。",
+    "クラウド動画処理や画像・動画の生成には接続と十分なクレジットが必要。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証",
+    "説明だけでは不明"
+  ],
+  "app_description_original": "Upscale photos, illustrations, and artwork to larger pixel dimensions in ChatGPT. Use Standard at 2x or 4x without connecting an account, or connect an existing Gigapixel AI account to use its available Fidelity and Crystal image-enhancement modes. Review image dimensions and settings before approving an upscale. Track progress, compare the original and enhanced image, download the result, and reuse a completed result. Connected accounts can view recent upscales created through this plugin."
+}

@@ -1,0 +1,3934 @@
+{
+  "schema_version": 1,
+  "source_pdf": "ヘルスケア.pdf",
+  "source_sha256": "0ca45f4dbb4a8160c535ceb23b5974ad1bbbd8a57a6ac63cf446591e8dba4bd5",
+  "page_count": 3,
+  "config": {
+    "reference_width": 3840,
+    "render_dpi": 465,
+    "columns": [
+      {
+        "id": "L",
+        "title_x": [
+          1567,
+          2105
+        ]
+      },
+      {
+        "id": "R",
+        "title_x": [
+          2275,
+          2813
+        ]
+      }
+    ],
+    "start_y_by_page": {
+      "1": 330
+    },
+    "brightness_threshold": 215,
+    "minimum_bright_pixels": 3,
+    "ocr_language": "eng",
+    "workers": 6
+  },
+  "pages": [
+    {
+      "page": 1,
+      "width": 3840,
+      "height": 5048,
+      "mode": "embedded-original",
+      "dpi": [
+        483.35664335664336,
+        483.356653819068
+      ],
+      "columns": [
+        {
+          "column": "L",
+          "detected_title_bands": 43,
+          "visual_display_rows": null,
+          "visually_reviewed": false
+        },
+        {
+          "column": "R",
+          "detected_title_bands": 43,
+          "visual_display_rows": null,
+          "visually_reviewed": false
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "width": 3840,
+      "height": 5048,
+      "mode": "embedded-original",
+      "dpi": [
+        483.35664335664336,
+        483.356653819068
+      ],
+      "columns": [
+        {
+          "column": "L",
+          "detected_title_bands": 47,
+          "visual_display_rows": null,
+          "visually_reviewed": false
+        },
+        {
+          "column": "R",
+          "detected_title_bands": 47,
+          "visual_display_rows": null,
+          "visually_reviewed": false
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "width": 3840,
+      "height": 2591,
+      "mode": "embedded-original",
+      "dpi": [
+        483.35664335664336,
+        483.3566331647643
+      ],
+      "columns": [
+        {
+          "column": "L",
+          "detected_title_bands": 23,
+          "visual_display_rows": null,
+          "visually_reviewed": false
+        },
+        {
+          "column": "R",
+          "detected_title_bands": 22,
+          "visual_display_rows": null,
+          "visually_reviewed": false
+        }
+      ]
+    }
+  ],
+  "rows": [
+    {
+      "row_id": "p01L01",
+      "page": 1,
+      "column": "L",
+      "row": 1,
+      "bbox_native": [
+        1567,
+        354,
+        2105,
+        383
+      ],
+      "ocr_raw": "Health",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-01.png"
+    },
+    {
+      "row_id": "p01L02",
+      "page": 1,
+      "column": "L",
+      "row": 2,
+      "bbox_native": [
+        1567,
+        463,
+        2105,
+        492
+      ],
+      "ocr_raw": "COROS",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-01.png"
+    },
+    {
+      "row_id": "p01L03",
+      "page": 1,
+      "column": "L",
+      "row": 3,
+      "bbox_native": [
+        1567,
+        572,
+        2105,
+        601
+      ],
+      "ocr_raw": "Tredict",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-01.png"
+    },
+    {
+      "row_id": "p01L04",
+      "page": 1,
+      "column": "L",
+      "row": 4,
+      "bbox_native": [
+        1567,
+        681,
+        2105,
+        711
+      ],
+      "ocr_raw": "freddy health",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-01.png"
+    },
+    {
+      "row_id": "p01L05",
+      "page": 1,
+      "column": "L",
+      "row": 5,
+      "bbox_native": [
+        1567,
+        790,
+        2105,
+        820
+      ],
+      "ocr_raw": "Calories Club",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-01.png"
+    },
+    {
+      "row_id": "p01L06",
+      "page": 1,
+      "column": "L",
+      "row": 6,
+      "bbox_native": [
+        1567,
+        899,
+        2105,
+        929
+      ],
+      "ocr_raw": "MyFitnessPal",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-01.png"
+    },
+    {
+      "row_id": "p01L07",
+      "page": 1,
+      "column": "L",
+      "row": 7,
+      "bbox_native": [
+        1567,
+        1009,
+        2105,
+        1038
+      ],
+      "ocr_raw": "SnapCal",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-01.png"
+    },
+    {
+      "row_id": "p01L08",
+      "page": 1,
+      "column": "L",
+      "row": 8,
+      "bbox_native": [
+        1567,
+        1118,
+        2105,
+        1147
+      ],
+      "ocr_raw": "FitAl Pro",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-01.png"
+    },
+    {
+      "row_id": "p01L09",
+      "page": 1,
+      "column": "L",
+      "row": 9,
+      "bbox_native": [
+        1567,
+        1226,
+        2105,
+        1256
+      ],
+      "ocr_raw": "Habitify",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-01.png"
+    },
+    {
+      "row_id": "p01L10",
+      "page": 1,
+      "column": "L",
+      "row": 10,
+      "bbox_native": [
+        1567,
+        1335,
+        2105,
+        1365
+      ],
+      "ocr_raw": "Insight Timer",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-01.png"
+    },
+    {
+      "row_id": "p01L11",
+      "page": 1,
+      "column": "L",
+      "row": 11,
+      "bbox_native": [
+        1567,
+        1450,
+        2105,
+        1474
+      ],
+      "ocr_raw": "Trainerrr",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-01.png"
+    },
+    {
+      "row_id": "p01L12",
+      "page": 1,
+      "column": "L",
+      "row": 12,
+      "bbox_native": [
+        1567,
+        1554,
+        2105,
+        1584
+      ],
+      "ocr_raw": "WeightWise",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-01.png"
+    },
+    {
+      "row_id": "p01L13",
+      "page": 1,
+      "column": "L",
+      "row": 13,
+      "bbox_native": [
+        1567,
+        1664,
+        2105,
+        1693
+      ],
+      "ocr_raw": "Calio",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-01.png"
+    },
+    {
+      "row_id": "p01L14",
+      "page": 1,
+      "column": "L",
+      "row": 14,
+      "bbox_native": [
+        1567,
+        1773,
+        2105,
+        1802
+      ],
+      "ocr_raw": "Flow State",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-01.png"
+    },
+    {
+      "row_id": "p01L15",
+      "page": 1,
+      "column": "L",
+      "row": 15,
+      "bbox_native": [
+        1567,
+        1881,
+        2105,
+        1911
+      ],
+      "ocr_raw": "Pacing: Run Coach & Tracker",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-01.png"
+    },
+    {
+      "row_id": "p01L16",
+      "page": 1,
+      "column": "L",
+      "row": 16,
+      "bbox_native": [
+        1567,
+        1991,
+        2105,
+        2020
+      ],
+      "ocr_raw": "OathMCP",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-01.png"
+    },
+    {
+      "row_id": "p01L17",
+      "page": 1,
+      "column": "L",
+      "row": 17,
+      "bbox_native": [
+        1567,
+        2100,
+        2105,
+        2129
+      ],
+      "ocr_raw": "Kenso",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-01.png"
+    },
+    {
+      "row_id": "p01L18",
+      "page": 1,
+      "column": "L",
+      "row": 18,
+      "bbox_native": [
+        1567,
+        2208,
+        2105,
+        2238
+      ],
+      "ocr_raw": "All My Affirmations",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-01.png"
+    },
+    {
+      "row_id": "p01L19",
+      "page": 1,
+      "column": "L",
+      "row": 19,
+      "bbox_native": [
+        1567,
+        2317,
+        2105,
+        2347
+      ],
+      "ocr_raw": "Trash Panda - Food Scanner",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-01.png"
+    },
+    {
+      "row_id": "p01L20",
+      "page": 1,
+      "column": "L",
+      "row": 20,
+      "bbox_native": [
+        1567,
+        2427,
+        2105,
+        2457
+      ],
+      "ocr_raw": "Miracle Of Mind",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-01.png"
+    },
+    {
+      "row_id": "p01L21",
+      "page": 1,
+      "column": "L",
+      "row": 21,
+      "bbox_native": [
+        1567,
+        2536,
+        2105,
+        2566
+      ],
+      "ocr_raw": "Selah - Bible stories",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-01.png"
+    },
+    {
+      "row_id": "p01L22",
+      "page": 1,
+      "column": "L",
+      "row": 22,
+      "bbox_native": [
+        1567,
+        2645,
+        2105,
+        2675
+      ],
+      "ocr_raw": "Cal Plus",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-01.png"
+    },
+    {
+      "row_id": "p01L23",
+      "page": 1,
+      "column": "L",
+      "row": 23,
+      "bbox_native": [
+        1567,
+        2755,
+        2105,
+        2784
+      ],
+      "ocr_raw": "Dr Nutrition",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-01.png"
+    },
+    {
+      "row_id": "p01L24",
+      "page": 1,
+      "column": "L",
+      "row": 24,
+      "bbox_native": [
+        1567,
+        2863,
+        2105,
+        2893
+      ],
+      "ocr_raw": "Purely Snacks",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-01.png"
+    },
+    {
+      "row_id": "p01L25",
+      "page": 1,
+      "column": "L",
+      "row": 25,
+      "bbox_native": [
+        1567,
+        2973,
+        2105,
+        3002
+      ],
+      "ocr_raw": "InnoSupps",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-01.png"
+    },
+    {
+      "row_id": "p01L26",
+      "page": 1,
+      "column": "L",
+      "row": 26,
+      "bbox_native": [
+        1567,
+        3082,
+        2105,
+        3111
+      ],
+      "ocr_raw": "Zumba",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-01.png"
+    },
+    {
+      "row_id": "p01L27",
+      "page": 1,
+      "column": "L",
+      "row": 27,
+      "bbox_native": [
+        1567,
+        3190,
+        2105,
+        3226
+      ],
+      "ocr_raw": "GLHF: GymLog, Health & Fitness",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-01.png"
+    },
+    {
+      "row_id": "p01L28",
+      "page": 1,
+      "column": "L",
+      "row": 28,
+      "bbox_native": [
+        1567,
+        3301,
+        2105,
+        3330
+      ],
+      "ocr_raw": "Rhizome Al",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-01.png"
+    },
+    {
+      "row_id": "p01L29",
+      "page": 1,
+      "column": "L",
+      "row": 29,
+      "bbox_native": [
+        1567,
+        3415,
+        2105,
+        3439
+      ],
+      "ocr_raw": "rit.run",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-01.png"
+    },
+    {
+      "row_id": "p01L30",
+      "page": 1,
+      "column": "L",
+      "row": 30,
+      "bbox_native": [
+        1567,
+        3518,
+        2105,
+        3548
+      ],
+      "ocr_raw": "Nexus: Calories & Workouts",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-01.png"
+    },
+    {
+      "row_id": "p01L31",
+      "page": 1,
+      "column": "L",
+      "row": 31,
+      "bbox_native": [
+        1567,
+        3628,
+        2105,
+        3657
+      ],
+      "ocr_raw": "Sweat & Tonic",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-01.png"
+    },
+    {
+      "row_id": "p01L32",
+      "page": 1,
+      "column": "L",
+      "row": 32,
+      "bbox_native": [
+        1567,
+        3736,
+        2105,
+        3766
+      ],
+      "ocr_raw": "Alma: Nutrition Coach",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-01.png"
+    },
+    {
+      "row_id": "p01L33",
+      "page": 1,
+      "column": "L",
+      "row": 33,
+      "bbox_native": [
+        1567,
+        3845,
+        2105,
+        3875
+      ],
+      "ocr_raw": "Turkey Dental Treatment Prices",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-01.png"
+    },
+    {
+      "row_id": "p01L34",
+      "page": 1,
+      "column": "L",
+      "row": 34,
+      "bbox_native": [
+        1567,
+        3955,
+        2105,
+        3984
+      ],
+      "ocr_raw": "NutriSave",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-01.png"
+    },
+    {
+      "row_id": "p01L35",
+      "page": 1,
+      "column": "L",
+      "row": 35,
+      "bbox_native": [
+        1567,
+        4064,
+        2105,
+        4093
+      ],
+      "ocr_raw": "Anxiety Reset",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-01.png"
+    },
+    {
+      "row_id": "p01L36",
+      "page": 1,
+      "column": "L",
+      "row": 36,
+      "bbox_native": [
+        1567,
+        4174,
+        2105,
+        4203
+      ],
+      "ocr_raw": "PaceKeeper Al",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-01.png"
+    },
+    {
+      "row_id": "p01L37",
+      "page": 1,
+      "column": "L",
+      "row": 37,
+      "bbox_native": [
+        1567,
+        4283,
+        2105,
+        4312
+      ],
+      "ocr_raw": "INCREMNT Training",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-01.png"
+    },
+    {
+      "row_id": "p01L38",
+      "page": 1,
+      "column": "L",
+      "row": 38,
+      "bbox_native": [
+        1567,
+        4392,
+        2105,
+        4421
+      ],
+      "ocr_raw": "Eixo Run",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-01.png"
+    },
+    {
+      "row_id": "p01L39",
+      "page": 1,
+      "column": "L",
+      "row": 39,
+      "bbox_native": [
+        1567,
+        4501,
+        2105,
+        4530
+      ],
+      "ocr_raw": "Volm",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-01.png"
+    },
+    {
+      "row_id": "p01L40",
+      "page": 1,
+      "column": "L",
+      "row": 40,
+      "bbox_native": [
+        1567,
+        4610,
+        2105,
+        4640
+      ],
+      "ocr_raw": "STREEQ",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-01.png"
+    },
+    {
+      "row_id": "p01L41",
+      "page": 1,
+      "column": "L",
+      "row": 41,
+      "bbox_native": [
+        1567,
+        4719,
+        2105,
+        4748
+      ],
+      "ocr_raw": "DrugBank",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-01.png"
+    },
+    {
+      "row_id": "p01L42",
+      "page": 1,
+      "column": "L",
+      "row": 42,
+      "bbox_native": [
+        1567,
+        4828,
+        2105,
+        4857
+      ],
+      "ocr_raw": "Joti",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-01.png"
+    },
+    {
+      "row_id": "p01L43",
+      "page": 1,
+      "column": "L",
+      "row": 43,
+      "bbox_native": [
+        1567,
+        4937,
+        2105,
+        4966
+      ],
+      "ocr_raw": "Jinko",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-01.png"
+    },
+    {
+      "row_id": "p01R01",
+      "page": 1,
+      "column": "R",
+      "row": 1,
+      "bbox_native": [
+        2275,
+        354,
+        2813,
+        383
+      ],
+      "ocr_raw": "Fitness Al Connector",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-01.png"
+    },
+    {
+      "row_id": "p01R02",
+      "page": 1,
+      "column": "R",
+      "row": 2,
+      "bbox_native": [
+        2275,
+        463,
+        2813,
+        492
+      ],
+      "ocr_raw": "Hevy",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-01.png"
+    },
+    {
+      "row_id": "p01R03",
+      "page": 1,
+      "column": "R",
+      "row": 3,
+      "bbox_native": [
+        2275,
+        571,
+        2813,
+        601
+      ],
+      "ocr_raw": "Calorie Tracker",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-01.png"
+    },
+    {
+      "row_id": "p01R04",
+      "page": 1,
+      "column": "R",
+      "row": 4,
+      "bbox_native": [
+        2275,
+        681,
+        2813,
+        711
+      ],
+      "ocr_raw": "Caliber",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-01.png"
+    },
+    {
+      "row_id": "p01R05",
+      "page": 1,
+      "column": "R",
+      "row": 5,
+      "bbox_native": [
+        2275,
+        790,
+        2813,
+        820
+      ],
+      "ocr_raw": "LiftTrack",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-01.png"
+    },
+    {
+      "row_id": "p01R06",
+      "page": 1,
+      "column": "R",
+      "row": 6,
+      "bbox_native": [
+        2275,
+        899,
+        2813,
+        929
+      ],
+      "ocr_raw": "Fitbod",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-01.png"
+    },
+    {
+      "row_id": "p01R07",
+      "page": 1,
+      "column": "R",
+      "row": 7,
+      "bbox_native": [
+        2275,
+        1009,
+        2813,
+        1038
+      ],
+      "ocr_raw": "Motra",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-01.png"
+    },
+    {
+      "row_id": "p01R08",
+      "page": 1,
+      "column": "R",
+      "row": 8,
+      "bbox_native": [
+        2275,
+        1117,
+        2813,
+        1147
+      ],
+      "ocr_raw": "Healthier",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-01.png"
+    },
+    {
+      "row_id": "p01R09",
+      "page": 1,
+      "column": "R",
+      "row": 9,
+      "bbox_native": [
+        2275,
+        1226,
+        2813,
+        1256
+      ],
+      "ocr_raw": "MoveMate: Gym Workout Tracker",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-01.png"
+    },
+    {
+      "row_id": "p01R10",
+      "page": 1,
+      "column": "R",
+      "row": 10,
+      "bbox_native": [
+        2275,
+        1335,
+        2813,
+        1365
+      ],
+      "ocr_raw": "Mental Health Tools",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-01.png"
+    },
+    {
+      "row_id": "p01R11",
+      "page": 1,
+      "column": "R",
+      "row": 11,
+      "bbox_native": [
+        2275,
+        1445,
+        2813,
+        1480
+      ],
+      "ocr_raw": "Pregnancy Progress",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-01.png"
+    },
+    {
+      "row_id": "p01R12",
+      "page": 1,
+      "column": "R",
+      "row": 12,
+      "bbox_native": [
+        2275,
+        1554,
+        2813,
+        1584
+      ],
+      "ocr_raw": "Calorie Tracker Guide",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-01.png"
+    },
+    {
+      "row_id": "p01R13",
+      "page": 1,
+      "column": "R",
+      "row": 13,
+      "bbox_native": [
+        2275,
+        1664,
+        2813,
+        1693
+      ],
+      "ocr_raw": "Face Yoga",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-01.png"
+    },
+    {
+      "row_id": "p01R14",
+      "page": 1,
+      "column": "R",
+      "row": 14,
+      "bbox_native": [
+        2275,
+        1773,
+        2813,
+        1808
+      ],
+      "ocr_raw": "NyquistAl",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-01.png"
+    },
+    {
+      "row_id": "p01R15",
+      "page": 1,
+      "column": "R",
+      "row": 15,
+      "bbox_native": [
+        2275,
+        1881,
+        2813,
+        1911
+      ],
+      "ocr_raw": "Breethe Meditations Made 4 You",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-01.png"
+    },
+    {
+      "row_id": "p01R16",
+      "page": 1,
+      "column": "R",
+      "row": 16,
+      "bbox_native": [
+        2275,
+        1990,
+        2813,
+        2020
+      ],
+      "ocr_raw": "Sleep Cycle",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-01.png"
+    },
+    {
+      "row_id": "p01R17",
+      "page": 1,
+      "column": "R",
+      "row": 17,
+      "bbox_native": [
+        2275,
+        2099,
+        2813,
+        2129
+      ],
+      "ocr_raw": "BurnFat — Calorie Tracker",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-01.png"
+    },
+    {
+      "row_id": "p01R18",
+      "page": 1,
+      "column": "R",
+      "row": 18,
+      "bbox_native": [
+        2275,
+        2208,
+        2813,
+        2238
+      ],
+      "ocr_raw": "Achieve Harmony",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-01.png"
+    },
+    {
+      "row_id": "p01R19",
+      "page": 1,
+      "column": "R",
+      "row": 19,
+      "bbox_native": [
+        2275,
+        2318,
+        2813,
+        2347
+      ],
+      "ocr_raw": "Pearl Pet Care",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-01.png"
+    },
+    {
+      "row_id": "p01R20",
+      "page": 1,
+      "column": "R",
+      "row": 20,
+      "bbox_native": [
+        2275,
+        2428,
+        2813,
+        2457
+      ],
+      "ocr_raw": "DREAMHALL",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-01.png"
+    },
+    {
+      "row_id": "p01R21",
+      "page": 1,
+      "column": "R",
+      "row": 21,
+      "bbox_native": [
+        2275,
+        2536,
+        2813,
+        2566
+      ],
+      "ocr_raw": "UltraFit360",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-01.png"
+    },
+    {
+      "row_id": "p01R22",
+      "page": 1,
+      "column": "R",
+      "row": 22,
+      "bbox_native": [
+        2275,
+        2645,
+        2813,
+        2675
+      ],
+      "ocr_raw": "StrengthCode",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-01.png"
+    },
+    {
+      "row_id": "p01R23",
+      "page": 1,
+      "column": "R",
+      "row": 23,
+      "bbox_native": [
+        2275,
+        2760,
+        2813,
+        2784
+      ],
+      "ocr_raw": "Joules",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-01.png"
+    },
+    {
+      "row_id": "p01R24",
+      "page": 1,
+      "column": "R",
+      "row": 24,
+      "bbox_native": [
+        2275,
+        2863,
+        2813,
+        2893
+      ],
+      "ocr_raw": "Bella Noor Skin Concierge",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-01.png"
+    },
+    {
+      "row_id": "p01R25",
+      "page": 1,
+      "column": "R",
+      "row": 25,
+      "bbox_native": [
+        2275,
+        2973,
+        2813,
+        3002
+      ],
+      "ocr_raw": "SmartSpectra",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-01.png"
+    },
+    {
+      "row_id": "p01R26",
+      "page": 1,
+      "column": "R",
+      "row": 26,
+      "bbox_native": [
+        2275,
+        3082,
+        2813,
+        3111
+      ],
+      "ocr_raw": "Sina Connect",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-01.png"
+    },
+    {
+      "row_id": "p01R27",
+      "page": 1,
+      "column": "R",
+      "row": 27,
+      "bbox_native": [
+        2275,
+        3190,
+        2813,
+        3220
+      ],
+      "ocr_raw": "Simple Muscle: Workout Planner",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-01.png"
+    },
+    {
+      "row_id": "p01R28",
+      "page": 1,
+      "column": "R",
+      "row": 28,
+      "bbox_native": [
+        2275,
+        3300,
+        2813,
+        3336
+      ],
+      "ocr_raw": "Endorphins Running",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-01.png"
+    },
+    {
+      "row_id": "p01R29",
+      "page": 1,
+      "column": "R",
+      "row": 29,
+      "bbox_native": [
+        2275,
+        3410,
+        2813,
+        3439
+      ],
+      "ocr_raw": "PlateLens",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-01.png"
+    },
+    {
+      "row_id": "p01R30",
+      "page": 1,
+      "column": "R",
+      "row": 30,
+      "bbox_native": [
+        2275,
+        3518,
+        2813,
+        3548
+      ],
+      "ocr_raw": "Performance Signal",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-01.png"
+    },
+    {
+      "row_id": "p01R31",
+      "page": 1,
+      "column": "R",
+      "row": 31,
+      "bbox_native": [
+        2275,
+        3627,
+        2813,
+        3663
+      ],
+      "ocr_raw": "Pregnancy Wheel",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-01.png"
+    },
+    {
+      "row_id": "p01R32",
+      "page": 1,
+      "column": "R",
+      "row": 32,
+      "bbox_native": [
+        2275,
+        3737,
+        2813,
+        3766
+      ],
+      "ocr_raw": "BurnWeek",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-01.png"
+    },
+    {
+      "row_id": "p01R33",
+      "page": 1,
+      "column": "R",
+      "row": 33,
+      "bbox_native": [
+        2275,
+        3846,
+        2813,
+        3875
+      ],
+      "ocr_raw": "84asana",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-01.png"
+    },
+    {
+      "row_id": "p01R34",
+      "page": 1,
+      "column": "R",
+      "row": 34,
+      "bbox_native": [
+        2275,
+        3954,
+        2813,
+        3984
+      ],
+      "ocr_raw": "Sphere Calorie Tracker",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-01.png"
+    },
+    {
+      "row_id": "p01R35",
+      "page": 1,
+      "column": "R",
+      "row": 35,
+      "bbox_native": [
+        2275,
+        4064,
+        2813,
+        4093
+      ],
+      "ocr_raw": "Do Workout",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-01.png"
+    },
+    {
+      "row_id": "p01R36",
+      "page": 1,
+      "column": "R",
+      "row": 36,
+      "bbox_native": [
+        2275,
+        4173,
+        2813,
+        4209
+      ],
+      "ocr_raw": "instingo - Schritte Challenge",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-01.png"
+    },
+    {
+      "row_id": "p01R37",
+      "page": 1,
+      "column": "R",
+      "row": 37,
+      "bbox_native": [
+        2275,
+        4283,
+        2813,
+        4312
+      ],
+      "ocr_raw": "Vertical",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-01.png"
+    },
+    {
+      "row_id": "p01R38",
+      "page": 1,
+      "column": "R",
+      "row": 38,
+      "bbox_native": [
+        2275,
+        4391,
+        2813,
+        4421
+      ],
+      "ocr_raw": "Praetor Health",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-01.png"
+    },
+    {
+      "row_id": "p01R39",
+      "page": 1,
+      "column": "R",
+      "row": 39,
+      "bbox_native": [
+        2275,
+        4500,
+        2813,
+        4536
+      ],
+      "ocr_raw": "Lightweight",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-01.png"
+    },
+    {
+      "row_id": "p01R40",
+      "page": 1,
+      "column": "R",
+      "row": 40,
+      "bbox_native": [
+        2275,
+        4610,
+        2813,
+        4639
+      ],
+      "ocr_raw": "Fitness Ledger",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-01.png"
+    },
+    {
+      "row_id": "p01R41",
+      "page": 1,
+      "column": "R",
+      "row": 41,
+      "bbox_native": [
+        2275,
+        4719,
+        2813,
+        4748
+      ],
+      "ocr_raw": "Running Workout",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-01.png"
+    },
+    {
+      "row_id": "p01R42",
+      "page": 1,
+      "column": "R",
+      "row": 42,
+      "bbox_native": [
+        2275,
+        4833,
+        2813,
+        4857
+      ],
+      "ocr_raw": "rit.run",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-01.png"
+    },
+    {
+      "row_id": "p01R43",
+      "page": 1,
+      "column": "R",
+      "row": 43,
+      "bbox_native": [
+        2275,
+        4937,
+        2813,
+        4966
+      ],
+      "ocr_raw": "TRAINEDBY",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-01.png"
+    },
+    {
+      "row_id": "p02L01",
+      "page": 2,
+      "column": "L",
+      "row": 1,
+      "bbox_native": [
+        1567,
+        0,
+        2105,
+        28
+      ],
+      "ocr_raw": "Exxentric",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02L02",
+      "page": 2,
+      "column": "L",
+      "row": 2,
+      "bbox_native": [
+        1567,
+        107,
+        2105,
+        137
+      ],
+      "ocr_raw": "Healthy Food Guide",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02L03",
+      "page": 2,
+      "column": "L",
+      "row": 3,
+      "bbox_native": [
+        1567,
+        216,
+        2105,
+        246
+      ],
+      "ocr_raw": "SisuLift",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02L04",
+      "page": 2,
+      "column": "L",
+      "row": 4,
+      "bbox_native": [
+        1567,
+        326,
+        2105,
+        355
+      ],
+      "ocr_raw": "NAFA",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02L05",
+      "page": 2,
+      "column": "L",
+      "row": 5,
+      "bbox_native": [
+        1567,
+        435,
+        2105,
+        464
+      ],
+      "ocr_raw": "WoODone",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02L06",
+      "page": 2,
+      "column": "L",
+      "row": 6,
+      "bbox_native": [
+        1567,
+        544,
+        2105,
+        579
+      ],
+      "ocr_raw": "StrengthLog",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02L07",
+      "page": 2,
+      "column": "L",
+      "row": 7,
+      "bbox_native": [
+        1567,
+        652,
+        2105,
+        682
+      ],
+      "ocr_raw": "Conicia for OCD",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02L08",
+      "page": 2,
+      "column": "L",
+      "row": 8,
+      "bbox_native": [
+        1567,
+        761,
+        2105,
+        791
+      ],
+      "ocr_raw": "Food Tracker",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02L09",
+      "page": 2,
+      "column": "L",
+      "row": 9,
+      "bbox_native": [
+        1567,
+        871,
+        2105,
+        901
+      ],
+      "ocr_raw": "Oasis Health",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02L10",
+      "page": 2,
+      "column": "L",
+      "row": 10,
+      "bbox_native": [
+        1567,
+        980,
+        2105,
+        1016
+      ],
+      "ocr_raw": "Al Calorie Counter by BodyPal",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02L11",
+      "page": 2,
+      "column": "L",
+      "row": 11,
+      "bbox_native": [
+        1567,
+        1089,
+        2105,
+        1125
+      ],
+      "ocr_raw": "Arclight Feasibility Planner",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02L12",
+      "page": 2,
+      "column": "L",
+      "row": 12,
+      "bbox_native": [
+        1567,
+        1199,
+        2105,
+        1228
+      ],
+      "ocr_raw": "ARVO",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02L13",
+      "page": 2,
+      "column": "L",
+      "row": 13,
+      "bbox_native": [
+        1567,
+        1307,
+        2105,
+        1343
+      ],
+      "ocr_raw": "Clynevia Booking",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02L14",
+      "page": 2,
+      "column": "L",
+      "row": 14,
+      "bbox_native": [
+        1567,
+        1416,
+        2105,
+        1446
+      ],
+      "ocr_raw": "Infinite State",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02L15",
+      "page": 2,
+      "column": "L",
+      "row": 15,
+      "bbox_native": [
+        1567,
+        1526,
+        2105,
+        1555
+      ],
+      "ocr_raw": "ATHLO",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02L16",
+      "page": 2,
+      "column": "L",
+      "row": 16,
+      "bbox_native": [
+        1567,
+        1634,
+        2105,
+        1670
+      ],
+      "ocr_raw": "Eating Buddy",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02L17",
+      "page": 2,
+      "column": "L",
+      "row": 17,
+      "bbox_native": [
+        1567,
+        1745,
+        2105,
+        1774
+      ],
+      "ocr_raw": "KiloJ",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02L18",
+      "page": 2,
+      "column": "L",
+      "row": 18,
+      "bbox_native": [
+        1567,
+        1853,
+        2105,
+        1883
+      ],
+      "ocr_raw": "Alkemy",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02L19",
+      "page": 2,
+      "column": "L",
+      "row": 19,
+      "bbox_native": [
+        1567,
+        1962,
+        2105,
+        1998
+      ],
+      "ocr_raw": "Arclight Readiness Navigator",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02L20",
+      "page": 2,
+      "column": "L",
+      "row": 20,
+      "bbox_native": [
+        1567,
+        2071,
+        2105,
+        2101
+      ],
+      "ocr_raw": "ClinMatch",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02L21",
+      "page": 2,
+      "column": "L",
+      "row": 21,
+      "bbox_native": [
+        1567,
+        2181,
+        2105,
+        2210
+      ],
+      "ocr_raw": "HealthX",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02L22",
+      "page": 2,
+      "column": "L",
+      "row": 22,
+      "bbox_native": [
+        1567,
+        2289,
+        2105,
+        2319
+      ],
+      "ocr_raw": "Zelta Steps to Calories",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02L23",
+      "page": 2,
+      "column": "L",
+      "row": 23,
+      "bbox_native": [
+        1567,
+        2398,
+        2105,
+        2434
+      ],
+      "ocr_raw": "Joy2Move Home Exercise Library",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02L24",
+      "page": 2,
+      "column": "L",
+      "row": 24,
+      "bbox_native": [
+        1567,
+        2508,
+        2105,
+        2537
+      ],
+      "ocr_raw": "Katori",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02L25",
+      "page": 2,
+      "column": "L",
+      "row": 25,
+      "bbox_native": [
+        1567,
+        2617,
+        2105,
+        2653
+      ],
+      "ocr_raw": "Zelta Daily Calorie Target",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02L26",
+      "page": 2,
+      "column": "L",
+      "row": 26,
+      "bbox_native": [
+        1567,
+        2727,
+        2105,
+        2756
+      ],
+      "ocr_raw": "Acta Fit",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02L27",
+      "page": 2,
+      "column": "L",
+      "row": 27,
+      "bbox_native": [
+        1567,
+        2836,
+        2105,
+        2865
+      ],
+      "ocr_raw": "Zelta Protein Per Day",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02L28",
+      "page": 2,
+      "column": "L",
+      "row": 28,
+      "bbox_native": [
+        1567,
+        2944,
+        2105,
+        2974
+      ],
+      "ocr_raw": "DailyFuel",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02L29",
+      "page": 2,
+      "column": "L",
+      "row": 29,
+      "bbox_native": [
+        1567,
+        3059,
+        2105,
+        3083
+      ],
+      "ocr_raw": "Lupora",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02L30",
+      "page": 2,
+      "column": "L",
+      "row": 30,
+      "bbox_native": [
+        1567,
+        3163,
+        2105,
+        3192
+      ],
+      "ocr_raw": "Let's Workout",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02L31",
+      "page": 2,
+      "column": "L",
+      "row": 31,
+      "bbox_native": [
+        1567,
+        3271,
+        2105,
+        3307
+      ],
+      "ocr_raw": "Olympic Weightlifting Builder",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02L32",
+      "page": 2,
+      "column": "L",
+      "row": 32,
+      "bbox_native": [
+        1567,
+        3381,
+        2105,
+        3410
+      ],
+      "ocr_raw": "Pump",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02L33",
+      "page": 2,
+      "column": "L",
+      "row": 33,
+      "bbox_native": [
+        1567,
+        3491,
+        2105,
+        3520
+      ],
+      "ocr_raw": "UVLens",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02L34",
+      "page": 2,
+      "column": "L",
+      "row": 34,
+      "bbox_native": [
+        1567,
+        3600,
+        2105,
+        3629
+      ],
+      "ocr_raw": "Prizm",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02L35",
+      "page": 2,
+      "column": "L",
+      "row": 35,
+      "bbox_native": [
+        1567,
+        3708,
+        2105,
+        3738
+      ],
+      "ocr_raw": "MyFitnessCoach",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02L36",
+      "page": 2,
+      "column": "L",
+      "row": 36,
+      "bbox_native": [
+        1567,
+        3823,
+        2105,
+        3847
+      ],
+      "ocr_raw": "intervl",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02L37",
+      "page": 2,
+      "column": "L",
+      "row": 37,
+      "bbox_native": [
+        1567,
+        3926,
+        2105,
+        3956
+      ],
+      "ocr_raw": "SuperLift",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02L38",
+      "page": 2,
+      "column": "L",
+      "row": 38,
+      "bbox_native": [
+        1567,
+        4036,
+        2105,
+        4065
+      ],
+      "ocr_raw": "FiTin",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02L39",
+      "page": 2,
+      "column": "L",
+      "row": 39,
+      "bbox_native": [
+        1567,
+        4144,
+        2105,
+        4174
+      ],
+      "ocr_raw": "Triathlon Pace",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02L40",
+      "page": 2,
+      "column": "L",
+      "row": 40,
+      "bbox_native": [
+        1567,
+        4254,
+        2105,
+        4283
+      ],
+      "ocr_raw": "JustGains",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02L41",
+      "page": 2,
+      "column": "L",
+      "row": 41,
+      "bbox_native": [
+        1567,
+        4363,
+        2105,
+        4393
+      ],
+      "ocr_raw": "Performance Pathway",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02L42",
+      "page": 2,
+      "column": "L",
+      "row": 42,
+      "bbox_native": [
+        1567,
+        4472,
+        2105,
+        4502
+      ],
+      "ocr_raw": "Vita Health Coach",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02L43",
+      "page": 2,
+      "column": "L",
+      "row": 43,
+      "bbox_native": [
+        1567,
+        4581,
+        2105,
+        4611
+      ],
+      "ocr_raw": "Wall Pilates Workouts at Home",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02L44",
+      "page": 2,
+      "column": "L",
+      "row": 44,
+      "bbox_native": [
+        1567,
+        4691,
+        2105,
+        4720
+      ],
+      "ocr_raw": "YoPeak",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02L45",
+      "page": 2,
+      "column": "L",
+      "row": 45,
+      "bbox_native": [
+        1567,
+        4799,
+        2105,
+        4829
+      ],
+      "ocr_raw": "Transition",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02L46",
+      "page": 2,
+      "column": "L",
+      "row": 46,
+      "bbox_native": [
+        1567,
+        4909,
+        2105,
+        4944
+      ],
+      "ocr_raw": "Reppy",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02L47",
+      "page": 2,
+      "column": "L",
+      "row": 47,
+      "bbox_native": [
+        1567,
+        5017,
+        2105,
+        5047
+      ],
+      "ocr_raw": "Diet Mate - Nutritional Memory",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02R01",
+      "page": 2,
+      "column": "R",
+      "row": 1,
+      "bbox_native": [
+        2275,
+        0,
+        2813,
+        28
+      ],
+      "ocr_raw": "Coach to Wrist",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02R02",
+      "page": 2,
+      "column": "R",
+      "row": 2,
+      "bbox_native": [
+        2275,
+        107,
+        2813,
+        137
+      ],
+      "ocr_raw": "Athlete Space",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02R03",
+      "page": 2,
+      "column": "R",
+      "row": 3,
+      "bbox_native": [
+        2275,
+        216,
+        2813,
+        246
+      ],
+      "ocr_raw": "Lila Meals",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02R04",
+      "page": 2,
+      "column": "R",
+      "row": 4,
+      "bbox_native": [
+        2275,
+        325,
+        2813,
+        355
+      ],
+      "ocr_raw": "Match with Care",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02R05",
+      "page": 2,
+      "column": "R",
+      "row": 5,
+      "bbox_native": [
+        2275,
+        434,
+        2813,
+        464
+      ],
+      "ocr_raw": "Kalori: Chat Nutrition Tracker",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02R06",
+      "page": 2,
+      "column": "R",
+      "row": 6,
+      "bbox_native": [
+        2275,
+        543,
+        2813,
+        573
+      ],
+      "ocr_raw": "FindMyKOL",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02R07",
+      "page": 2,
+      "column": "R",
+      "row": 7,
+      "bbox_native": [
+        2275,
+        652,
+        2813,
+        688
+      ],
+      "ocr_raw": "What's My Attachment Style?",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02R08",
+      "page": 2,
+      "column": "R",
+      "row": 8,
+      "bbox_native": [
+        2275,
+        761,
+        2813,
+        791
+      ],
+      "ocr_raw": "Apteka.md",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02R09",
+      "page": 2,
+      "column": "R",
+      "row": 9,
+      "bbox_native": [
+        2275,
+        871,
+        2813,
+        901
+      ],
+      "ocr_raw": "Liftory",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02R10",
+      "page": 2,
+      "column": "R",
+      "row": 10,
+      "bbox_native": [
+        2275,
+        980,
+        2813,
+        1016
+      ],
+      "ocr_raw": "Supplement Intelligence",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02R11",
+      "page": 2,
+      "column": "R",
+      "row": 11,
+      "bbox_native": [
+        2275,
+        1090,
+        2813,
+        1119
+      ],
+      "ocr_raw": "Zone2Al",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02R12",
+      "page": 2,
+      "column": "R",
+      "row": 12,
+      "bbox_native": [
+        2275,
+        1199,
+        2813,
+        1228
+      ],
+      "ocr_raw": "Telo",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02R13",
+      "page": 2,
+      "column": "R",
+      "row": 13,
+      "bbox_native": [
+        2275,
+        1307,
+        2813,
+        1337
+      ],
+      "ocr_raw": "FormBlends Companion",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02R14",
+      "page": 2,
+      "column": "R",
+      "row": 14,
+      "bbox_native": [
+        2275,
+        1416,
+        2813,
+        1446
+      ],
+      "ocr_raw": "Foodzilla",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02R15",
+      "page": 2,
+      "column": "R",
+      "row": 15,
+      "bbox_native": [
+        2275,
+        1526,
+        2813,
+        1555
+      ],
+      "ocr_raw": "Ovari",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02R16",
+      "page": 2,
+      "column": "R",
+      "row": 16,
+      "bbox_native": [
+        2275,
+        1634,
+        2813,
+        1664
+      ],
+      "ocr_raw": "Lion Lift",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02R17",
+      "page": 2,
+      "column": "R",
+      "row": 17,
+      "bbox_native": [
+        2275,
+        1744,
+        2813,
+        1774
+      ],
+      "ocr_raw": "gFit Home Workouts",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02R18",
+      "page": 2,
+      "column": "R",
+      "row": 18,
+      "bbox_native": [
+        2275,
+        1853,
+        2813,
+        1883
+      ],
+      "ocr_raw": "Capital Health",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02R19",
+      "page": 2,
+      "column": "R",
+      "row": 19,
+      "bbox_native": [
+        2275,
+        1962,
+        2813,
+        1992
+      ],
+      "ocr_raw": "Calisthenics-Coach",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02R20",
+      "page": 2,
+      "column": "R",
+      "row": 20,
+      "bbox_native": [
+        2275,
+        2072,
+        2813,
+        2101
+      ],
+      "ocr_raw": "How We Feel",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02R21",
+      "page": 2,
+      "column": "R",
+      "row": 21,
+      "bbox_native": [
+        2275,
+        2180,
+        2813,
+        2210
+      ],
+      "ocr_raw": "Zelta BMI for Indians",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02R22",
+      "page": 2,
+      "column": "R",
+      "row": 22,
+      "bbox_native": [
+        2275,
+        2289,
+        2813,
+        2319
+      ],
+      "ocr_raw": "iBody",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02R23",
+      "page": 2,
+      "column": "R",
+      "row": 23,
+      "bbox_native": [
+        2275,
+        2399,
+        2813,
+        2428
+      ],
+      "ocr_raw": "Almanac",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02R24",
+      "page": 2,
+      "column": "R",
+      "row": 24,
+      "bbox_native": [
+        2275,
+        2508,
+        2813,
+        2537
+      ],
+      "ocr_raw": "YouCaps PT",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02R25",
+      "page": 2,
+      "column": "R",
+      "row": 25,
+      "bbox_native": [
+        2275,
+        2618,
+        2813,
+        2647
+      ],
+      "ocr_raw": "PB-Runner Running Coach",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02R26",
+      "page": 2,
+      "column": "R",
+      "row": 26,
+      "bbox_native": [
+        2275,
+        2727,
+        2813,
+        2756
+      ],
+      "ocr_raw": "Lezonder",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02R27",
+      "page": 2,
+      "column": "R",
+      "row": 27,
+      "bbox_native": [
+        2275,
+        2835,
+        2813,
+        2865
+      ],
+      "ocr_raw": "Welltory",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02R28",
+      "page": 2,
+      "column": "R",
+      "row": 28,
+      "bbox_native": [
+        2275,
+        2944,
+        2813,
+        2974
+      ],
+      "ocr_raw": "Shape Calendar",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02R29",
+      "page": 2,
+      "column": "R",
+      "row": 29,
+      "bbox_native": [
+        2275,
+        3054,
+        2813,
+        3083
+      ],
+      "ocr_raw": "Mutant Genomics",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02R30",
+      "page": 2,
+      "column": "R",
+      "row": 30,
+      "bbox_native": [
+        2275,
+        3163,
+        2813,
+        3192
+      ],
+      "ocr_raw": "One More Day",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02R31",
+      "page": 2,
+      "column": "R",
+      "row": 31,
+      "bbox_native": [
+        2275,
+        3272,
+        2813,
+        3301
+      ],
+      "ocr_raw": "SafeForm",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02R32",
+      "page": 2,
+      "column": "R",
+      "row": 32,
+      "bbox_native": [
+        2275,
+        3380,
+        2813,
+        3410
+      ],
+      "ocr_raw": "Ehsebha",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02R33",
+      "page": 2,
+      "column": "R",
+      "row": 33,
+      "bbox_native": [
+        2275,
+        3496,
+        2813,
+        3520
+      ],
+      "ocr_raw": "Ziva",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02R34",
+      "page": 2,
+      "column": "R",
+      "row": 34,
+      "bbox_native": [
+        2275,
+        3600,
+        2813,
+        3629
+      ],
+      "ocr_raw": "Nolio",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02R35",
+      "page": 2,
+      "column": "R",
+      "row": 35,
+      "bbox_native": [
+        2275,
+        3709,
+        2813,
+        3738
+      ],
+      "ocr_raw": "SnapRooster",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02R36",
+      "page": 2,
+      "column": "R",
+      "row": 36,
+      "bbox_native": [
+        2275,
+        3817,
+        2813,
+        3847
+      ],
+      "ocr_raw": "Superlift",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02R37",
+      "page": 2,
+      "column": "R",
+      "row": 37,
+      "bbox_native": [
+        2275,
+        3926,
+        2813,
+        3962
+      ],
+      "ocr_raw": "Mamas&kin: Pregnancy Skincare",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02R38",
+      "page": 2,
+      "column": "R",
+      "row": 38,
+      "bbox_native": [
+        2275,
+        4036,
+        2813,
+        4065
+      ],
+      "ocr_raw": "IZeat",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02R39",
+      "page": 2,
+      "column": "R",
+      "row": 39,
+      "bbox_native": [
+        2275,
+        4144,
+        2813,
+        4174
+      ],
+      "ocr_raw": "Not So Dumbbell",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02R40",
+      "page": 2,
+      "column": "R",
+      "row": 40,
+      "bbox_native": [
+        2275,
+        4254,
+        2813,
+        4283
+      ],
+      "ocr_raw": "Kibora",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02R41",
+      "page": 2,
+      "column": "R",
+      "row": 41,
+      "bbox_native": [
+        2275,
+        4363,
+        2813,
+        4393
+      ],
+      "ocr_raw": "IntervalCoach",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02R42",
+      "page": 2,
+      "column": "R",
+      "row": 42,
+      "bbox_native": [
+        2275,
+        4473,
+        2813,
+        4502
+      ],
+      "ocr_raw": "Vitalstat",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02R43",
+      "page": 2,
+      "column": "R",
+      "row": 43,
+      "bbox_native": [
+        2275,
+        4582,
+        2813,
+        4611
+      ],
+      "ocr_raw": "Food Diary",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02R44",
+      "page": 2,
+      "column": "R",
+      "row": 44,
+      "bbox_native": [
+        2275,
+        4691,
+        2813,
+        4720
+      ],
+      "ocr_raw": "Soulnests",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02R45",
+      "page": 2,
+      "column": "R",
+      "row": 45,
+      "bbox_native": [
+        2275,
+        4799,
+        2813,
+        4829
+      ],
+      "ocr_raw": "Primed",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02R46",
+      "page": 2,
+      "column": "R",
+      "row": 46,
+      "bbox_native": [
+        2275,
+        4909,
+        2813,
+        4938
+      ],
+      "ocr_raw": "SetRep",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p02R47",
+      "page": 2,
+      "column": "R",
+      "row": 47,
+      "bbox_native": [
+        2275,
+        5017,
+        2813,
+        5047
+      ],
+      "ocr_raw": "Allergen Detector",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-02.png"
+    },
+    {
+      "row_id": "p03L01",
+      "page": 3,
+      "column": "L",
+      "row": 1,
+      "bbox_native": [
+        1567,
+        78,
+        2105,
+        108
+      ],
+      "ocr_raw": "Dial",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-03.png"
+    },
+    {
+      "row_id": "p03L02",
+      "page": 3,
+      "column": "L",
+      "row": 2,
+      "bbox_native": [
+        1567,
+        189,
+        2105,
+        218
+      ],
+      "ocr_raw": "RaceThere",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-03.png"
+    },
+    {
+      "row_id": "p03L03",
+      "page": 3,
+      "column": "L",
+      "row": 3,
+      "bbox_native": [
+        1567,
+        298,
+        2105,
+        327
+      ],
+      "ocr_raw": "Gymwork",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-03.png"
+    },
+    {
+      "row_id": "p03L04",
+      "page": 3,
+      "column": "L",
+      "row": 4,
+      "bbox_native": [
+        1567,
+        406,
+        2105,
+        436
+      ],
+      "ocr_raw": "IdkRx",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-03.png"
+    },
+    {
+      "row_id": "p03L05",
+      "page": 3,
+      "column": "L",
+      "row": 5,
+      "bbox_native": [
+        1567,
+        516,
+        2105,
+        545
+      ],
+      "ocr_raw": "TrueCal",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-03.png"
+    },
+    {
+      "row_id": "p03L06",
+      "page": 3,
+      "column": "L",
+      "row": 6,
+      "bbox_native": [
+        1567,
+        625,
+        2105,
+        654
+      ],
+      "ocr_raw": "Foodnoms",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-03.png"
+    },
+    {
+      "row_id": "p03L07",
+      "page": 3,
+      "column": "L",
+      "row": 7,
+      "bbox_native": [
+        1567,
+        733,
+        2105,
+        763
+      ],
+      "ocr_raw": "What Did | Eat",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-03.png"
+    },
+    {
+      "row_id": "p03L08",
+      "page": 3,
+      "column": "L",
+      "row": 8,
+      "bbox_native": [
+        1567,
+        842,
+        2105,
+        872
+      ],
+      "ocr_raw": "Sahni",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-03.png"
+    },
+    {
+      "row_id": "p03L09",
+      "page": 3,
+      "column": "L",
+      "row": 9,
+      "bbox_native": [
+        1567,
+        950,
+        2105,
+        982
+      ],
+      "ocr_raw": "SRI",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-03.png"
+    },
+    {
+      "row_id": "p03L10",
+      "page": 3,
+      "column": "L",
+      "row": 10,
+      "bbox_native": [
+        1567,
+        1067,
+        2105,
+        1091
+      ],
+      "ocr_raw": "Ferry",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-03.png"
+    },
+    {
+      "row_id": "p03L11",
+      "page": 3,
+      "column": "L",
+      "row": 11,
+      "bbox_native": [
+        1567,
+        1171,
+        2105,
+        1200
+      ],
+      "ocr_raw": "Boulie",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-03.png"
+    },
+    {
+      "row_id": "p03L12",
+      "page": 3,
+      "column": "L",
+      "row": 12,
+      "bbox_native": [
+        1567,
+        1280,
+        2105,
+        1309
+      ],
+      "ocr_raw": "00Food",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-03.png"
+    },
+    {
+      "row_id": "p03L13",
+      "page": 3,
+      "column": "L",
+      "row": 13,
+      "bbox_native": [
+        1567,
+        1387,
+        2105,
+        1419
+      ],
+      "ocr_raw": "SlEVIL",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-03.png"
+    },
+    {
+      "row_id": "p03L14",
+      "page": 3,
+      "column": "L",
+      "row": 14,
+      "bbox_native": [
+        1567,
+        1498,
+        2105,
+        1527
+      ],
+      "ocr_raw": "VeriMom",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-03.png"
+    },
+    {
+      "row_id": "p03L15",
+      "page": 3,
+      "column": "L",
+      "row": 15,
+      "bbox_native": [
+        1567,
+        1606,
+        2105,
+        1636
+      ],
+      "ocr_raw": "Fitcore Race Training",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-03.png"
+    },
+    {
+      "row_id": "p03L16",
+      "page": 3,
+      "column": "L",
+      "row": 16,
+      "bbox_native": [
+        1567,
+        1721,
+        2105,
+        1745
+      ],
+      "ocr_raw": "px.",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-03.png"
+    },
+    {
+      "row_id": "p03L17",
+      "page": 3,
+      "column": "L",
+      "row": 17,
+      "bbox_native": [
+        1567,
+        1825,
+        2105,
+        1854
+      ],
+      "ocr_raw": "Fitzap",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-03.png"
+    },
+    {
+      "row_id": "p03L18",
+      "page": 3,
+      "column": "L",
+      "row": 18,
+      "bbox_native": [
+        1567,
+        1935,
+        2105,
+        1964
+      ],
+      "ocr_raw": "Fuel",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-03.png"
+    },
+    {
+      "row_id": "p03L19",
+      "page": 3,
+      "column": "L",
+      "row": 19,
+      "bbox_native": [
+        1567,
+        2043,
+        2105,
+        2073
+      ],
+      "ocr_raw": "Function Health",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-03.png"
+    },
+    {
+      "row_id": "p03L20",
+      "page": 3,
+      "column": "L",
+      "row": 20,
+      "bbox_native": [
+        1567,
+        2152,
+        2105,
+        2182
+      ],
+      "ocr_raw": "Broche Ballet",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-03.png"
+    },
+    {
+      "row_id": "p03L21",
+      "page": 3,
+      "column": "L",
+      "row": 21,
+      "bbox_native": [
+        1567,
+        2262,
+        2105,
+        2291
+      ],
+      "ocr_raw": "PAWFECT | PUPPY YOGA",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-03.png"
+    },
+    {
+      "row_id": "p03L22",
+      "page": 3,
+      "column": "L",
+      "row": 22,
+      "bbox_native": [
+        1567,
+        2371,
+        2105,
+        2400
+      ],
+      "ocr_raw": "Kovo",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-03.png"
+    },
+    {
+      "row_id": "p03L23",
+      "page": 3,
+      "column": "L",
+      "row": 23,
+      "bbox_native": [
+        1567,
+        2480,
+        2105,
+        2509
+      ],
+      "ocr_raw": "Health Memory",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-03.png"
+    },
+    {
+      "row_id": "p03R01",
+      "page": 3,
+      "column": "R",
+      "row": 1,
+      "bbox_native": [
+        2275,
+        79,
+        2813,
+        108
+      ],
+      "ocr_raw": "Nutrimeniu",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-03.png"
+    },
+    {
+      "row_id": "p03R02",
+      "page": 3,
+      "column": "R",
+      "row": 2,
+      "bbox_native": [
+        2275,
+        189,
+        2813,
+        218
+      ],
+      "ocr_raw": "Cronometer",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-03.png"
+    },
+    {
+      "row_id": "p03R03",
+      "page": 3,
+      "column": "R",
+      "row": 3,
+      "bbox_native": [
+        2275,
+        297,
+        2813,
+        327
+      ],
+      "ocr_raw": "CalorieGoals",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-03.png"
+    },
+    {
+      "row_id": "p03R04",
+      "page": 3,
+      "column": "R",
+      "row": 4,
+      "bbox_native": [
+        2275,
+        406,
+        2813,
+        436
+      ],
+      "ocr_raw": "Food diary",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-03.png"
+    },
+    {
+      "row_id": "p03R05",
+      "page": 3,
+      "column": "R",
+      "row": 5,
+      "bbox_native": [
+        2275,
+        516,
+        2813,
+        545
+      ],
+      "ocr_raw": "Axis",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-03.png"
+    },
+    {
+      "row_id": "p03R06",
+      "page": 3,
+      "column": "R",
+      "row": 6,
+      "bbox_native": [
+        2275,
+        624,
+        2813,
+        654
+      ],
+      "ocr_raw": "NDIS Provider Review Directory",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-03.png"
+    },
+    {
+      "row_id": "p03R07",
+      "page": 3,
+      "column": "R",
+      "row": 7,
+      "bbox_native": [
+        2275,
+        734,
+        2813,
+        763
+      ],
+      "ocr_raw": "VeriMom",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-03.png"
+    },
+    {
+      "row_id": "p03R08",
+      "page": 3,
+      "column": "R",
+      "row": 8,
+      "bbox_native": [
+        2275,
+        843,
+        2813,
+        872
+      ],
+      "ocr_raw": "Know My Meals",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-03.png"
+    },
+    {
+      "row_id": "p03R09",
+      "page": 3,
+      "column": "R",
+      "row": 9,
+      "bbox_native": [
+        2275,
+        952,
+        2813,
+        981
+      ],
+      "ocr_raw": "GRO",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-03.png"
+    },
+    {
+      "row_id": "p03R10",
+      "page": 3,
+      "column": "R",
+      "row": 10,
+      "bbox_native": [
+        2275,
+        1061,
+        2813,
+        1091
+      ],
+      "ocr_raw": "Healthcare Public Data",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-03.png"
+    },
+    {
+      "row_id": "p03R11",
+      "page": 3,
+      "column": "R",
+      "row": 11,
+      "bbox_native": [
+        2275,
+        1176,
+        2813,
+        1200
+      ],
+      "ocr_raw": "Torevo",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-03.png"
+    },
+    {
+      "row_id": "p03R12",
+      "page": 3,
+      "column": "R",
+      "row": 12,
+      "bbox_native": [
+        2275,
+        1279,
+        2813,
+        1309
+      ],
+      "ocr_raw": "metri: Calorie & Macro Tracker",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-03.png"
+    },
+    {
+      "row_id": "p03R13",
+      "page": 3,
+      "column": "R",
+      "row": 13,
+      "bbox_native": [
+        2275,
+        1389,
+        2813,
+        1418
+      ],
+      "ocr_raw": "FitXO",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-03.png"
+    },
+    {
+      "row_id": "p03R14",
+      "page": 3,
+      "column": "R",
+      "row": 14,
+      "bbox_native": [
+        2275,
+        1498,
+        2813,
+        1527
+      ],
+      "ocr_raw": "PR.O.",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-03.png"
+    },
+    {
+      "row_id": "p03R15",
+      "page": 3,
+      "column": "R",
+      "row": 15,
+      "bbox_native": [
+        2275,
+        1607,
+        2813,
+        1636
+      ],
+      "ocr_raw": "ESSOS",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-03.png"
+    },
+    {
+      "row_id": "p03R16",
+      "page": 3,
+      "column": "R",
+      "row": 16,
+      "bbox_native": [
+        2275,
+        1715,
+        2813,
+        1745
+      ],
+      "ocr_raw": "trainedby.ai",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-03.png"
+    },
+    {
+      "row_id": "p03R17",
+      "page": 3,
+      "column": "R",
+      "row": 17,
+      "bbox_native": [
+        2275,
+        1825,
+        2813,
+        1854
+      ],
+      "ocr_raw": "Aptiva",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-03.png"
+    },
+    {
+      "row_id": "p03R18",
+      "page": 3,
+      "column": "R",
+      "row": 18,
+      "bbox_native": [
+        2275,
+        1940,
+        2813,
+        1964
+      ],
+      "ocr_raw": "amp",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-03.png"
+    },
+    {
+      "row_id": "p03R19",
+      "page": 3,
+      "column": "R",
+      "row": 19,
+      "bbox_native": [
+        2275,
+        2043,
+        2813,
+        2073
+      ],
+      "ocr_raw": "Reframe: Drink Less Alcohol",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-03.png"
+    },
+    {
+      "row_id": "p03R20",
+      "page": 3,
+      "column": "R",
+      "row": 20,
+      "bbox_native": [
+        2275,
+        2152,
+        2813,
+        2182
+      ],
+      "ocr_raw": "Zolt Health",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-03.png"
+    },
+    {
+      "row_id": "p03R21",
+      "page": 3,
+      "column": "R",
+      "row": 21,
+      "bbox_native": [
+        2275,
+        2262,
+        2813,
+        2291
+      ],
+      "ocr_raw": "Yigri",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-03.png"
+    },
+    {
+      "row_id": "p03R22",
+      "page": 3,
+      "column": "R",
+      "row": 22,
+      "bbox_native": [
+        2275,
+        2370,
+        2813,
+        2400
+      ],
+      "ocr_raw": "Doktor Hermes Beziehungstests",
+      "display_name": null,
+      "status": "要確認",
+      "review_note": "OCR候補。画像照合前",
+      "evidence": "evidence/page-03.png"
+    }
+  ]
+}

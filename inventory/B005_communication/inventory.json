@@ -1,0 +1,3356 @@
+{
+  "source_pdf": "コミュニケーション.pdf",
+  "source_sha256": "50158522c4bcbf5b321c52cb8caca6079aa8d01d49ec1f6e988e269487098cd9",
+  "pages": 2,
+  "row_counts": {
+    "1L": 43,
+    "1R": 43,
+    "2L": 41,
+    "2R": 40
+  },
+  "row_occurrences": 167,
+  "unique_display_names": 166,
+  "matching_existing_names": 7,
+  "added_display_names": 159,
+  "added_names": [
+    "Rhythm AI Personality Tuner",
+    "Werify",
+    "CALL-E",
+    "AI Roleplay Chat Simulator",
+    "Publora",
+    "AT&T",
+    "Postiz",
+    "Speko",
+    "NoPressure",
+    "TIM Brasil",
+    "Send Postcard",
+    "Tella",
+    "Breakreach",
+    "TG Finder",
+    "Telepath — Telegram Connector",
+    "House of Prayer by Melorna",
+    "LMGram",
+    "Relationship Reply Coach",
+    "Never Boring AI",
+    "UNIFIELD",
+    "PlaybookUX",
+    "GoProfiles",
+    "Balsio",
+    "camelBots",
+    "FiraPhone",
+    "Salesmsg",
+    "mailmcp",
+    "Drag",
+    "Realtime Avatar",
+    "Sendblue",
+    "Kreatoai",
+    "Cadencz",
+    "ChatifyIT",
+    "Suparelay",
+    "Negotiation Coach",
+    "MailReach",
+    "PieterPost",
+    "Enlazá para WhatsApp Business",
+    "SuperLinkin for LinkedIn",
+    "Mailopoly Inbox",
+    "Brevo",
+    "Inkbox",
+    "Prezi",
+    "Textmagic",
+    "Fyxer",
+    "RingCentral Chat",
+    "Turnfeed",
+    "Front",
+    "Klaxoon",
+    "flow - AI Collaboration tool",
+    "Kepler",
+    "Mailbox MCP",
+    "Webex",
+    "Inline",
+    "TimelinesAI for WhatsApp",
+    "Geekbot",
+    "EasyReply",
+    "SuperMe Network",
+    "GigaMail",
+    "Cooper Email",
+    "Postlyra",
+    "MatchMyCrew.com",
+    "CommSync",
+    "Artil",
+    "Avoma",
+    "Marketing Email",
+    "Missive",
+    "ChatRook",
+    "SealGate Beeper",
+    "Kadenzo",
+    "Rep",
+    "Emailit",
+    "Easy Email Verification",
+    "Echo",
+    "Telerivet",
+    "teem",
+    "Lovekept Obituaries",
+    "Bolter Connect",
+    "Reachlee",
+    "Meeting Follow-Up Assistant",
+    "Stanza",
+    "SendFox",
+    "Soprano Connect",
+    "PilotControl",
+    "DIGG.IA: Revisão de Textos",
+    "MisarMail",
+    "DialAgent",
+    "Panda Greetings",
+    "HeyBonds Practice Room",
+    "Ellora",
+    "VoiceLake",
+    "Huddo",
+    "Realtor Reply Email Drafts",
+    "iZap",
+    "SwarmMemo",
+    "AffiliSend",
+    "SocialLab",
+    "Fax.Plus",
+    "Olatti",
+    "Mailtea",
+    "iHatePosting",
+    "PressDrop",
+    "OsmO",
+    "Penround Group Cards",
+    "Hive Analytics",
+    "Rizamo",
+    "Workshop",
+    "Pidgeon",
+    "Mailows",
+    "Attached Translator",
+    "Workshop EU",
+    "Flowforth",
+    "Openline",
+    "Floada Answer",
+    "Cerber",
+    "Filament",
+    "Hogmatix",
+    "JuzPost",
+    "Send & Retain Emails",
+    "BeyondSky Post",
+    "Infobip",
+    "Publer",
+    "PostAxis",
+    "ExTweets",
+    "OpenMail",
+    "Slashy",
+    "Pluggzy",
+    "Banger",
+    "ThinkMatch Introductions",
+    "Index Network",
+    "Fax Anything",
+    "SecureSMTP",
+    "Skysay",
+    "Go Agent - Telegram",
+    "Atomic Mail Agentic",
+    "Ando - Team messaging",
+    "V30",
+    "Real News | Redação e SEO",
+    "VideoCallTranslator",
+    "iBlueText",
+    "3Chat Customer Growth",
+    "ClimbX",
+    "EPAV Desk",
+    "TalkTool",
+    "ポストメッシュ",
+    "InboxFamily",
+    "FounderBrain",
+    "Masheev",
+    "MillionSend",
+    "Chatinbox",
+    "Church Videos",
+    "CommScore",
+    "Railagent",
+    "Asking",
+    "Zoom Canvas",
+    "AgentPhone",
+    "Shager",
+    "HueChat",
+    "MBX Reach"
+  ],
+  "rows": [
+    {
+      "row_id": "p01L01",
+      "page": 1,
+      "column": "L",
+      "row": 1,
+      "bbox_native": [
+        1567,
+        354,
+        2105,
+        383
+      ],
+      "ocr_raw": "Gmail",
+      "display_name": "Gmail",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-01.png",
+      "catalog_name_match_before": true,
+      "catalog_name_added": false
+    },
+    {
+      "row_id": "p01L02",
+      "page": 1,
+      "column": "L",
+      "row": 2,
+      "bbox_native": [
+        1567,
+        462,
+        2105,
+        492
+      ],
+      "ocr_raw": "Slack",
+      "display_name": "Slack",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-01.png",
+      "catalog_name_match_before": true,
+      "catalog_name_added": false
+    },
+    {
+      "row_id": "p01L03",
+      "page": 1,
+      "column": "L",
+      "row": 3,
+      "bbox_native": [
+        1567,
+        577,
+        2105,
+        601
+      ],
+      "ocr_raw": "Teams",
+      "display_name": "Teams",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-01.png",
+      "catalog_name_match_before": true,
+      "catalog_name_added": false
+    },
+    {
+      "row_id": "p01L04",
+      "page": 1,
+      "column": "L",
+      "row": 4,
+      "bbox_native": [
+        1567,
+        681,
+        2105,
+        717
+      ],
+      "ocr_raw": "Rhythm Al Personality Tuner",
+      "display_name": "Rhythm AI Personality Tuner",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-01.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p01L05",
+      "page": 1,
+      "column": "L",
+      "row": 5,
+      "bbox_native": [
+        1567,
+        790,
+        2105,
+        820
+      ],
+      "ocr_raw": "Superhuman Mail",
+      "display_name": "Superhuman Mail",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-01.png",
+      "catalog_name_match_before": true,
+      "catalog_name_added": false
+    },
+    {
+      "row_id": "p01L06",
+      "page": 1,
+      "column": "L",
+      "row": 6,
+      "bbox_native": [
+        1567,
+        899,
+        2105,
+        929
+      ],
+      "ocr_raw": "Werify",
+      "display_name": "Werify",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-01.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p01L07",
+      "page": 1,
+      "column": "L",
+      "row": 7,
+      "bbox_native": [
+        1567,
+        1009,
+        2105,
+        1038
+      ],
+      "ocr_raw": "CALL-E",
+      "display_name": "CALL-E",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-01.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p01L08",
+      "page": 1,
+      "column": "L",
+      "row": 8,
+      "bbox_native": [
+        1567,
+        1117,
+        2105,
+        1147
+      ],
+      "ocr_raw": "Al Roleplay Chat Simulator",
+      "display_name": "AI Roleplay Chat Simulator",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-01.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p01L09",
+      "page": 1,
+      "column": "L",
+      "row": 9,
+      "bbox_native": [
+        1567,
+        1227,
+        2105,
+        1256
+      ],
+      "ocr_raw": "Publora",
+      "display_name": "Publora",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-01.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p01L10",
+      "page": 1,
+      "column": "L",
+      "row": 10,
+      "bbox_native": [
+        1567,
+        1336,
+        2105,
+        1365
+      ],
+      "ocr_raw": "AT&T",
+      "display_name": "AT&T",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-01.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p01L11",
+      "page": 1,
+      "column": "L",
+      "row": 11,
+      "bbox_native": [
+        1567,
+        1445,
+        2105,
+        1474
+      ],
+      "ocr_raw": "Postiz",
+      "display_name": "Postiz",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-01.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p01L12",
+      "page": 1,
+      "column": "L",
+      "row": 12,
+      "bbox_native": [
+        1567,
+        1555,
+        2105,
+        1584
+      ],
+      "ocr_raw": "Speko",
+      "display_name": "Speko",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-01.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p01L13",
+      "page": 1,
+      "column": "L",
+      "row": 13,
+      "bbox_native": [
+        1567,
+        1664,
+        2105,
+        1693
+      ],
+      "ocr_raw": "NoPressure",
+      "display_name": "NoPressure",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-01.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p01L14",
+      "page": 1,
+      "column": "L",
+      "row": 14,
+      "bbox_native": [
+        1567,
+        1772,
+        2105,
+        1802
+      ],
+      "ocr_raw": "TIM Brasil",
+      "display_name": "TIM Brasil",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-01.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p01L15",
+      "page": 1,
+      "column": "L",
+      "row": 15,
+      "bbox_native": [
+        1567,
+        1881,
+        2105,
+        1911
+      ],
+      "ocr_raw": "Send Postcard",
+      "display_name": "Send Postcard",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-01.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p01L16",
+      "page": 1,
+      "column": "L",
+      "row": 16,
+      "bbox_native": [
+        1567,
+        1991,
+        2105,
+        2020
+      ],
+      "ocr_raw": "Tella",
+      "display_name": "Tella",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-01.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p01L17",
+      "page": 1,
+      "column": "L",
+      "row": 17,
+      "bbox_native": [
+        1567,
+        2100,
+        2105,
+        2129
+      ],
+      "ocr_raw": "Breakreach",
+      "display_name": "Breakreach",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-01.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p01L18",
+      "page": 1,
+      "column": "L",
+      "row": 18,
+      "bbox_native": [
+        1567,
+        2208,
+        2105,
+        2238
+      ],
+      "ocr_raw": "TG Finder",
+      "display_name": "TG Finder",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-01.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p01L19",
+      "page": 1,
+      "column": "L",
+      "row": 19,
+      "bbox_native": [
+        1567,
+        2317,
+        2105,
+        2353
+      ],
+      "ocr_raw": "Telepath — Telegram Connector",
+      "display_name": "Telepath — Telegram Connector",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-01.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p01L20",
+      "page": 1,
+      "column": "L",
+      "row": 20,
+      "bbox_native": [
+        1567,
+        2427,
+        2105,
+        2463
+      ],
+      "ocr_raw": "House of Prayer by Melorna",
+      "display_name": "House of Prayer by Melorna",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-01.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p01L21",
+      "page": 1,
+      "column": "L",
+      "row": 21,
+      "bbox_native": [
+        1567,
+        2537,
+        2105,
+        2566
+      ],
+      "ocr_raw": "LMGram",
+      "display_name": "LMGram",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-01.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p01L22",
+      "page": 1,
+      "column": "L",
+      "row": 22,
+      "bbox_native": [
+        1567,
+        2645,
+        2105,
+        2681
+      ],
+      "ocr_raw": "Relationship Reply Coach",
+      "display_name": "Relationship Reply Coach",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-01.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p01L23",
+      "page": 1,
+      "column": "L",
+      "row": 23,
+      "bbox_native": [
+        1567,
+        2755,
+        2105,
+        2784
+      ],
+      "ocr_raw": "Never Boring Al",
+      "display_name": "Never Boring AI",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-01.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p01L24",
+      "page": 1,
+      "column": "L",
+      "row": 24,
+      "bbox_native": [
+        1567,
+        2864,
+        2105,
+        2893
+      ],
+      "ocr_raw": "UNIFIELD",
+      "display_name": "UNIFIELD",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-01.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p01L25",
+      "page": 1,
+      "column": "L",
+      "row": 25,
+      "bbox_native": [
+        1567,
+        2972,
+        2105,
+        3002
+      ],
+      "ocr_raw": "PlaybookUX",
+      "display_name": "PlaybookUX",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-01.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p01L26",
+      "page": 1,
+      "column": "L",
+      "row": 26,
+      "bbox_native": [
+        1567,
+        3081,
+        2105,
+        3111
+      ],
+      "ocr_raw": "GoProfiles",
+      "display_name": "GoProfiles",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-01.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p01L27",
+      "page": 1,
+      "column": "L",
+      "row": 27,
+      "bbox_native": [
+        1567,
+        3191,
+        2105,
+        3220
+      ],
+      "ocr_raw": "Balsio",
+      "display_name": "Balsio",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-01.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p01L28",
+      "page": 1,
+      "column": "L",
+      "row": 28,
+      "bbox_native": [
+        1567,
+        3301,
+        2105,
+        3330
+      ],
+      "ocr_raw": "camelBots",
+      "display_name": "camelBots",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-01.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p01L29",
+      "page": 1,
+      "column": "L",
+      "row": 29,
+      "bbox_native": [
+        1567,
+        3410,
+        2105,
+        3439
+      ],
+      "ocr_raw": "FiraPhone",
+      "display_name": "FiraPhone",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-01.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p01L30",
+      "page": 1,
+      "column": "L",
+      "row": 30,
+      "bbox_native": [
+        1567,
+        3519,
+        2105,
+        3548
+      ],
+      "ocr_raw": "Salesmsg",
+      "display_name": "Salesmsg",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-01.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p01L31",
+      "page": 1,
+      "column": "L",
+      "row": 31,
+      "bbox_native": [
+        1567,
+        3633,
+        2105,
+        3657
+      ],
+      "ocr_raw": "mailmcp",
+      "display_name": "mailmcp",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-01.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p01L32",
+      "page": 1,
+      "column": "L",
+      "row": 32,
+      "bbox_native": [
+        1567,
+        3737,
+        2105,
+        3766
+      ],
+      "ocr_raw": "Drag",
+      "display_name": "Drag",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-01.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p01L33",
+      "page": 1,
+      "column": "L",
+      "row": 33,
+      "bbox_native": [
+        1567,
+        3846,
+        2105,
+        3875
+      ],
+      "ocr_raw": "Realtime Avatar",
+      "display_name": "Realtime Avatar",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-01.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p01L34",
+      "page": 1,
+      "column": "L",
+      "row": 34,
+      "bbox_native": [
+        1567,
+        3954,
+        2105,
+        3984
+      ],
+      "ocr_raw": "Sendblue",
+      "display_name": "Sendblue",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-01.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p01L35",
+      "page": 1,
+      "column": "L",
+      "row": 35,
+      "bbox_native": [
+        1567,
+        4064,
+        2105,
+        4093
+      ],
+      "ocr_raw": "Kreatoai",
+      "display_name": "Kreatoai",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-01.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p01L36",
+      "page": 1,
+      "column": "L",
+      "row": 36,
+      "bbox_native": [
+        1567,
+        4174,
+        2105,
+        4203
+      ],
+      "ocr_raw": "Cadencz",
+      "display_name": "Cadencz",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-01.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p01L37",
+      "page": 1,
+      "column": "L",
+      "row": 37,
+      "bbox_native": [
+        1567,
+        4282,
+        2105,
+        4312
+      ],
+      "ocr_raw": "ChatifyIT",
+      "display_name": "ChatifyIT",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-01.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p01L38",
+      "page": 1,
+      "column": "L",
+      "row": 38,
+      "bbox_native": [
+        1567,
+        4392,
+        2105,
+        4427
+      ],
+      "ocr_raw": "Suparelay",
+      "display_name": "Suparelay",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-01.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p01L39",
+      "page": 1,
+      "column": "L",
+      "row": 39,
+      "bbox_native": [
+        1567,
+        4500,
+        2105,
+        4530
+      ],
+      "ocr_raw": "Negotiation Coach",
+      "display_name": "Negotiation Coach",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-01.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p01L40",
+      "page": 1,
+      "column": "L",
+      "row": 40,
+      "bbox_native": [
+        1567,
+        4609,
+        2105,
+        4639
+      ],
+      "ocr_raw": "MailReach",
+      "display_name": "MailReach",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-01.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p01L41",
+      "page": 1,
+      "column": "L",
+      "row": 41,
+      "bbox_native": [
+        1567,
+        4719,
+        2105,
+        4748
+      ],
+      "ocr_raw": "PieterPost",
+      "display_name": "PieterPost",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-01.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p01L42",
+      "page": 1,
+      "column": "L",
+      "row": 42,
+      "bbox_native": [
+        1567,
+        4827,
+        2105,
+        4863
+      ],
+      "ocr_raw": "Enlaza para WhatsApp Business",
+      "display_name": "Enlazá para WhatsApp Business",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-01.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p01L43",
+      "page": 1,
+      "column": "L",
+      "row": 43,
+      "bbox_native": [
+        1567,
+        4936,
+        2105,
+        4966
+      ],
+      "ocr_raw": "SuperLinkin for LinkedIn",
+      "display_name": "SuperLinkin for LinkedIn",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-01.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p01R01",
+      "page": 1,
+      "column": "R",
+      "row": 1,
+      "bbox_native": [
+        2275,
+        353,
+        2813,
+        383
+      ],
+      "ocr_raw": "Outlook Email",
+      "display_name": "Outlook Email",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-01.png",
+      "catalog_name_match_before": true,
+      "catalog_name_added": false
+    },
+    {
+      "row_id": "p01R02",
+      "page": 1,
+      "column": "R",
+      "row": 2,
+      "bbox_native": [
+        2275,
+        462,
+        2813,
+        492
+      ],
+      "ocr_raw": "Hostinger Mail",
+      "display_name": "Hostinger Mail",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-01.png",
+      "catalog_name_match_before": true,
+      "catalog_name_added": false
+    },
+    {
+      "row_id": "p01R03",
+      "page": 1,
+      "column": "R",
+      "row": 3,
+      "bbox_native": [
+        2275,
+        577,
+        2813,
+        601
+      ],
+      "ocr_raw": "Zoom",
+      "display_name": "Zoom",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-01.png",
+      "catalog_name_match_before": true,
+      "catalog_name_added": false
+    },
+    {
+      "row_id": "p01R04",
+      "page": 1,
+      "column": "R",
+      "row": 4,
+      "bbox_native": [
+        2275,
+        681,
+        2813,
+        717
+      ],
+      "ocr_raw": "Mailopoly Inbox",
+      "display_name": "Mailopoly Inbox",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-01.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p01R05",
+      "page": 1,
+      "column": "R",
+      "row": 5,
+      "bbox_native": [
+        2275,
+        791,
+        2813,
+        820
+      ],
+      "ocr_raw": "Brevo",
+      "display_name": "Brevo",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-01.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p01R06",
+      "page": 1,
+      "column": "R",
+      "row": 6,
+      "bbox_native": [
+        2275,
+        899,
+        2813,
+        929
+      ],
+      "ocr_raw": "Inkbox",
+      "display_name": "Inkbox",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-01.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p01R07",
+      "page": 1,
+      "column": "R",
+      "row": 7,
+      "bbox_native": [
+        2275,
+        1009,
+        2813,
+        1038
+      ],
+      "ocr_raw": "Prezi",
+      "display_name": "Prezi",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-01.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p01R08",
+      "page": 1,
+      "column": "R",
+      "row": 8,
+      "bbox_native": [
+        2275,
+        1118,
+        2813,
+        1147
+      ],
+      "ocr_raw": "Textmagic",
+      "display_name": "Textmagic",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-01.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p01R09",
+      "page": 1,
+      "column": "R",
+      "row": 9,
+      "bbox_native": [
+        2275,
+        1232,
+        2813,
+        1256
+      ],
+      "ocr_raw": "Fyxer",
+      "display_name": "Fyxer",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-01.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p01R10",
+      "page": 1,
+      "column": "R",
+      "row": 10,
+      "bbox_native": [
+        2275,
+        1335,
+        2813,
+        1365
+      ],
+      "ocr_raw": "RingCentral Chat",
+      "display_name": "RingCentral Chat",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-01.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p01R11",
+      "page": 1,
+      "column": "R",
+      "row": 11,
+      "bbox_native": [
+        2275,
+        1444,
+        2813,
+        1474
+      ],
+      "ocr_raw": "Turnfeed",
+      "display_name": "Turnfeed",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-01.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p01R12",
+      "page": 1,
+      "column": "R",
+      "row": 12,
+      "bbox_native": [
+        2275,
+        1555,
+        2813,
+        1584
+      ],
+      "ocr_raw": "Front",
+      "display_name": "Front",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-01.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p01R13",
+      "page": 1,
+      "column": "R",
+      "row": 13,
+      "bbox_native": [
+        2275,
+        1664,
+        2813,
+        1693
+      ],
+      "ocr_raw": "Klaxoon",
+      "display_name": "Klaxoon",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-01.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p01R14",
+      "page": 1,
+      "column": "R",
+      "row": 14,
+      "bbox_native": [
+        2275,
+        1772,
+        2813,
+        1802
+      ],
+      "ocr_raw": "flow - Al Collaboration tool",
+      "display_name": "flow - AI Collaboration tool",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-01.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p01R15",
+      "page": 1,
+      "column": "R",
+      "row": 15,
+      "bbox_native": [
+        2275,
+        1882,
+        2813,
+        1911
+      ],
+      "ocr_raw": "Kepler",
+      "display_name": "Kepler",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-01.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p01R16",
+      "page": 1,
+      "column": "R",
+      "row": 16,
+      "bbox_native": [
+        2275,
+        1990,
+        2813,
+        2020
+      ],
+      "ocr_raw": "Mailbox MCP",
+      "display_name": "Mailbox MCP",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-01.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p01R17",
+      "page": 1,
+      "column": "R",
+      "row": 17,
+      "bbox_native": [
+        2275,
+        2100,
+        2813,
+        2129
+      ],
+      "ocr_raw": "Webex",
+      "display_name": "Webex",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-01.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p01R18",
+      "page": 1,
+      "column": "R",
+      "row": 18,
+      "bbox_native": [
+        2275,
+        2208,
+        2813,
+        2238
+      ],
+      "ocr_raw": "Inline",
+      "display_name": "Inline",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-01.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p01R19",
+      "page": 1,
+      "column": "R",
+      "row": 19,
+      "bbox_native": [
+        2275,
+        2317,
+        2813,
+        2347
+      ],
+      "ocr_raw": "TimelinesAl for WhatsApp",
+      "display_name": "TimelinesAI for WhatsApp",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-01.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p01R20",
+      "page": 1,
+      "column": "R",
+      "row": 20,
+      "bbox_native": [
+        2275,
+        2428,
+        2813,
+        2457
+      ],
+      "ocr_raw": "Geekbot",
+      "display_name": "Geekbot",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-01.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p01R21",
+      "page": 1,
+      "column": "R",
+      "row": 21,
+      "bbox_native": [
+        2275,
+        2537,
+        2813,
+        2572
+      ],
+      "ocr_raw": "EasyReply",
+      "display_name": "EasyReply",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-01.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p01R22",
+      "page": 1,
+      "column": "R",
+      "row": 22,
+      "bbox_native": [
+        2275,
+        2646,
+        2813,
+        2675
+      ],
+      "ocr_raw": "SuperMe Network",
+      "display_name": "SuperMe Network",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-01.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p01R23",
+      "page": 1,
+      "column": "R",
+      "row": 23,
+      "bbox_native": [
+        2275,
+        2754,
+        2813,
+        2784
+      ],
+      "ocr_raw": "GigaMail",
+      "display_name": "GigaMail",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-01.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p01R24",
+      "page": 1,
+      "column": "R",
+      "row": 24,
+      "bbox_native": [
+        2275,
+        2864,
+        2813,
+        2893
+      ],
+      "ocr_raw": "Cooper Email",
+      "display_name": "Cooper Email",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-01.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p01R25",
+      "page": 1,
+      "column": "R",
+      "row": 25,
+      "bbox_native": [
+        2275,
+        2973,
+        2813,
+        3002
+      ],
+      "ocr_raw": "Postlyra",
+      "display_name": "Postlyra",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-01.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p01R26",
+      "page": 1,
+      "column": "R",
+      "row": 26,
+      "bbox_native": [
+        2275,
+        3082,
+        2813,
+        3111
+      ],
+      "ocr_raw": "MatchMyCrew.com",
+      "display_name": "MatchMyCrew.com",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-01.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p01R27",
+      "page": 1,
+      "column": "R",
+      "row": 27,
+      "bbox_native": [
+        2275,
+        3191,
+        2813,
+        3220
+      ],
+      "ocr_raw": "CommSync",
+      "display_name": "CommSync",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-01.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p01R28",
+      "page": 1,
+      "column": "R",
+      "row": 28,
+      "bbox_native": [
+        2275,
+        3301,
+        2813,
+        3330
+      ],
+      "ocr_raw": "Artil",
+      "display_name": "Artil",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-01.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p01R29",
+      "page": 1,
+      "column": "R",
+      "row": 29,
+      "bbox_native": [
+        2275,
+        3412,
+        2813,
+        3439
+      ],
+      "ocr_raw": "Avoma",
+      "display_name": "Avoma",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-01.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p01R30",
+      "page": 1,
+      "column": "R",
+      "row": 30,
+      "bbox_native": [
+        2275,
+        3518,
+        2813,
+        3548
+      ],
+      "ocr_raw": "Marketing Email",
+      "display_name": "Marketing Email",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-01.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p01R31",
+      "page": 1,
+      "column": "R",
+      "row": 31,
+      "bbox_native": [
+        2275,
+        3627,
+        2813,
+        3657
+      ],
+      "ocr_raw": "Missive",
+      "display_name": "Missive",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-01.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p01R32",
+      "page": 1,
+      "column": "R",
+      "row": 32,
+      "bbox_native": [
+        2275,
+        3736,
+        2813,
+        3766
+      ],
+      "ocr_raw": "ChatRook",
+      "display_name": "ChatRook",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-01.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p01R33",
+      "page": 1,
+      "column": "R",
+      "row": 33,
+      "bbox_native": [
+        2275,
+        3846,
+        2813,
+        3875
+      ],
+      "ocr_raw": "SealGate Beeper",
+      "display_name": "SealGate Beeper",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-01.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p01R34",
+      "page": 1,
+      "column": "R",
+      "row": 34,
+      "bbox_native": [
+        2275,
+        3955,
+        2813,
+        3984
+      ],
+      "ocr_raw": "Kadenzo",
+      "display_name": "Kadenzo",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-01.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p01R35",
+      "page": 1,
+      "column": "R",
+      "row": 35,
+      "bbox_native": [
+        2275,
+        4064,
+        2813,
+        4093
+      ],
+      "ocr_raw": "Rep",
+      "display_name": "Rep",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-01.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p01R36",
+      "page": 1,
+      "column": "R",
+      "row": 36,
+      "bbox_native": [
+        2275,
+        4173,
+        2813,
+        4203
+      ],
+      "ocr_raw": "Emailit",
+      "display_name": "Emailit",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-01.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p01R37",
+      "page": 1,
+      "column": "R",
+      "row": 37,
+      "bbox_native": [
+        2275,
+        4282,
+        2813,
+        4312
+      ],
+      "ocr_raw": "Easy Email Verification",
+      "display_name": "Easy Email Verification",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-01.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p01R38",
+      "page": 1,
+      "column": "R",
+      "row": 38,
+      "bbox_native": [
+        2275,
+        4397,
+        2813,
+        4421
+      ],
+      "ocr_raw": "Echo",
+      "display_name": "Echo",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-01.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p01R39",
+      "page": 1,
+      "column": "R",
+      "row": 39,
+      "bbox_native": [
+        2275,
+        4500,
+        2813,
+        4530
+      ],
+      "ocr_raw": "Telerivet",
+      "display_name": "Telerivet",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-01.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p01R40",
+      "page": 1,
+      "column": "R",
+      "row": 40,
+      "bbox_native": [
+        2275,
+        4615,
+        2813,
+        4639
+      ],
+      "ocr_raw": "teem",
+      "display_name": "teem",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-01.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p01R41",
+      "page": 1,
+      "column": "R",
+      "row": 41,
+      "bbox_native": [
+        2275,
+        4718,
+        2813,
+        4748
+      ],
+      "ocr_raw": "Lovekept Obituaries",
+      "display_name": "Lovekept Obituaries",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-01.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p01R42",
+      "page": 1,
+      "column": "R",
+      "row": 42,
+      "bbox_native": [
+        2275,
+        4828,
+        2813,
+        4857
+      ],
+      "ocr_raw": "Bolter Connect",
+      "display_name": "Bolter Connect",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-01.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p01R43",
+      "page": 1,
+      "column": "R",
+      "row": 43,
+      "bbox_native": [
+        2275,
+        4936,
+        2813,
+        4966
+      ],
+      "ocr_raw": "Reachlee",
+      "display_name": "Reachlee",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-01.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p02L01",
+      "page": 2,
+      "column": "L",
+      "row": 1,
+      "bbox_native": [
+        1567,
+        0,
+        2105,
+        28
+      ],
+      "ocr_raw": "Meeting Follow-Up Assistant",
+      "display_name": "Meeting Follow-Up Assistant",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-02.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p02L02",
+      "page": 2,
+      "column": "L",
+      "row": 2,
+      "bbox_native": [
+        1567,
+        108,
+        2105,
+        137
+      ],
+      "ocr_raw": "Stanza",
+      "display_name": "Stanza",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-02.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p02L03",
+      "page": 2,
+      "column": "L",
+      "row": 3,
+      "bbox_native": [
+        1567,
+        217,
+        2105,
+        246
+      ],
+      "ocr_raw": "SendFox",
+      "display_name": "SendFox",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-02.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p02L04",
+      "page": 2,
+      "column": "L",
+      "row": 4,
+      "bbox_native": [
+        1567,
+        326,
+        2105,
+        355
+      ],
+      "ocr_raw": "Soprano Connect",
+      "display_name": "Soprano Connect",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-02.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p02L05",
+      "page": 2,
+      "column": "L",
+      "row": 5,
+      "bbox_native": [
+        1567,
+        434,
+        2105,
+        464
+      ],
+      "ocr_raw": "PilotControl",
+      "display_name": "PilotControl",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-02.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p02L06",
+      "page": 2,
+      "column": "L",
+      "row": 6,
+      "bbox_native": [
+        1567,
+        543,
+        2105,
+        573
+      ],
+      "ocr_raw": "DIGG.IA: Revisdo de Textos",
+      "display_name": "DIGG.IA: Revisão de Textos",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-02.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p02L07",
+      "page": 2,
+      "column": "L",
+      "row": 7,
+      "bbox_native": [
+        1567,
+        652,
+        2105,
+        682
+      ],
+      "ocr_raw": "MisarMail",
+      "display_name": "MisarMail",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-02.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p02L08",
+      "page": 2,
+      "column": "L",
+      "row": 8,
+      "bbox_native": [
+        1567,
+        761,
+        2105,
+        791
+      ],
+      "ocr_raw": "DialAgent",
+      "display_name": "DialAgent",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-02.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p02L09",
+      "page": 2,
+      "column": "L",
+      "row": 9,
+      "bbox_native": [
+        1567,
+        871,
+        2105,
+        901
+      ],
+      "ocr_raw": "Panda Greetings",
+      "display_name": "Panda Greetings",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-02.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p02L10",
+      "page": 2,
+      "column": "L",
+      "row": 10,
+      "bbox_native": [
+        1567,
+        981,
+        2105,
+        1010
+      ],
+      "ocr_raw": "HeyBonds Practice Room",
+      "display_name": "HeyBonds Practice Room",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-02.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p02L11",
+      "page": 2,
+      "column": "L",
+      "row": 11,
+      "bbox_native": [
+        1567,
+        1090,
+        2105,
+        1119
+      ],
+      "ocr_raw": "Ellora",
+      "display_name": "Ellora",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-02.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p02L12",
+      "page": 2,
+      "column": "L",
+      "row": 12,
+      "bbox_native": [
+        1567,
+        1199,
+        2105,
+        1228
+      ],
+      "ocr_raw": "VoiceLake",
+      "display_name": "VoiceLake",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-02.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p02L13",
+      "page": 2,
+      "column": "L",
+      "row": 13,
+      "bbox_native": [
+        1567,
+        1307,
+        2105,
+        1337
+      ],
+      "ocr_raw": "Huddo",
+      "display_name": "Huddo",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-02.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p02L14",
+      "page": 2,
+      "column": "L",
+      "row": 14,
+      "bbox_native": [
+        1567,
+        1416,
+        2105,
+        1452
+      ],
+      "ocr_raw": "Realtor Reply Email Drafts",
+      "display_name": "Realtor Reply Email Drafts",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-02.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p02L15",
+      "page": 2,
+      "column": "L",
+      "row": 15,
+      "bbox_native": [
+        1567,
+        1531,
+        2105,
+        1555
+      ],
+      "ocr_raw": "iZap",
+      "display_name": "iZap",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-02.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p02L16",
+      "page": 2,
+      "column": "L",
+      "row": 16,
+      "bbox_native": [
+        1567,
+        1635,
+        2105,
+        1664
+      ],
+      "ocr_raw": "SwarmMemo",
+      "display_name": "SwarmMemo",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-02.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p02L17",
+      "page": 2,
+      "column": "L",
+      "row": 17,
+      "bbox_native": [
+        1567,
+        1744,
+        2105,
+        1774
+      ],
+      "ocr_raw": "AffiliSend",
+      "display_name": "AffiliSend",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-02.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p02L18",
+      "page": 2,
+      "column": "L",
+      "row": 18,
+      "bbox_native": [
+        1567,
+        1853,
+        2105,
+        1883
+      ],
+      "ocr_raw": "SocialLab",
+      "display_name": "SocialLab",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-02.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p02L19",
+      "page": 2,
+      "column": "L",
+      "row": 19,
+      "bbox_native": [
+        1567,
+        1963,
+        2105,
+        1992
+      ],
+      "ocr_raw": "Fax.Plus",
+      "display_name": "Fax.Plus",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-02.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p02L20",
+      "page": 2,
+      "column": "L",
+      "row": 20,
+      "bbox_native": [
+        1567,
+        2071,
+        2105,
+        2101
+      ],
+      "ocr_raw": "Olatti",
+      "display_name": "Olatti",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-02.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p02L21",
+      "page": 2,
+      "column": "L",
+      "row": 21,
+      "bbox_native": [
+        1567,
+        2181,
+        2105,
+        2210
+      ],
+      "ocr_raw": "Mailtea",
+      "display_name": "Mailtea",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-02.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p02L22",
+      "page": 2,
+      "column": "L",
+      "row": 22,
+      "bbox_native": [
+        1567,
+        2290,
+        2105,
+        2319
+      ],
+      "ocr_raw": "iHatePosting",
+      "display_name": "iHatePosting",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-02.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p02L23",
+      "page": 2,
+      "column": "L",
+      "row": 23,
+      "bbox_native": [
+        1567,
+        2399,
+        2105,
+        2428
+      ],
+      "ocr_raw": "PressDrop",
+      "display_name": "PressDrop",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-02.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p02L24",
+      "page": 2,
+      "column": "L",
+      "row": 24,
+      "bbox_native": [
+        1567,
+        2508,
+        2105,
+        2537
+      ],
+      "ocr_raw": "OsmO",
+      "display_name": "OsmO",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-02.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p02L25",
+      "page": 2,
+      "column": "L",
+      "row": 25,
+      "bbox_native": [
+        1567,
+        2617,
+        2105,
+        2647
+      ],
+      "ocr_raw": "Penround Group Cards",
+      "display_name": "Penround Group Cards",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-02.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p02L26",
+      "page": 2,
+      "column": "L",
+      "row": 26,
+      "bbox_native": [
+        1567,
+        2726,
+        2105,
+        2756
+      ],
+      "ocr_raw": "Hive Analytics",
+      "display_name": "Hive Analytics",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-02.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p02L27",
+      "page": 2,
+      "column": "L",
+      "row": 27,
+      "bbox_native": [
+        1567,
+        2836,
+        2105,
+        2865
+      ],
+      "ocr_raw": "Rizamo",
+      "display_name": "Rizamo",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-02.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p02L28",
+      "page": 2,
+      "column": "L",
+      "row": 28,
+      "bbox_native": [
+        1567,
+        2945,
+        2105,
+        2974
+      ],
+      "ocr_raw": "Workshop",
+      "display_name": "Workshop",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-02.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p02L29",
+      "page": 2,
+      "column": "L",
+      "row": 29,
+      "bbox_native": [
+        1567,
+        3054,
+        2105,
+        3083
+      ],
+      "ocr_raw": "Pidgeon",
+      "display_name": "Pidgeon",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-02.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p02L30",
+      "page": 2,
+      "column": "L",
+      "row": 30,
+      "bbox_native": [
+        1567,
+        3163,
+        2105,
+        3192
+      ],
+      "ocr_raw": "Mailows",
+      "display_name": "Mailows",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-02.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p02L31",
+      "page": 2,
+      "column": "L",
+      "row": 31,
+      "bbox_native": [
+        1567,
+        3271,
+        2105,
+        3301
+      ],
+      "ocr_raw": "Attached Translator",
+      "display_name": "Attached Translator",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-02.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p02L32",
+      "page": 2,
+      "column": "L",
+      "row": 32,
+      "bbox_native": [
+        1567,
+        3381,
+        2105,
+        3410
+      ],
+      "ocr_raw": "Workshop EU",
+      "display_name": "Workshop EU",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-02.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p02L33",
+      "page": 2,
+      "column": "L",
+      "row": 33,
+      "bbox_native": [
+        1567,
+        3490,
+        2105,
+        3520
+      ],
+      "ocr_raw": "Flowforth",
+      "display_name": "Flowforth",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-02.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p02L34",
+      "page": 2,
+      "column": "L",
+      "row": 34,
+      "bbox_native": [
+        1567,
+        3600,
+        2105,
+        3629
+      ],
+      "ocr_raw": "Openline",
+      "display_name": "Openline",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-02.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p02L35",
+      "page": 2,
+      "column": "L",
+      "row": 35,
+      "bbox_native": [
+        1567,
+        3708,
+        2105,
+        3738
+      ],
+      "ocr_raw": "Floada Answer",
+      "display_name": "Floada Answer",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-02.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p02L36",
+      "page": 2,
+      "column": "L",
+      "row": 36,
+      "bbox_native": [
+        1567,
+        3818,
+        2105,
+        3847
+      ],
+      "ocr_raw": "Cerber",
+      "display_name": "Cerber",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-02.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p02L37",
+      "page": 2,
+      "column": "L",
+      "row": 37,
+      "bbox_native": [
+        1567,
+        3927,
+        2105,
+        3956
+      ],
+      "ocr_raw": "Filament",
+      "display_name": "Filament",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-02.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p02L38",
+      "page": 2,
+      "column": "L",
+      "row": 38,
+      "bbox_native": [
+        1567,
+        4036,
+        2105,
+        4065
+      ],
+      "ocr_raw": "Hogmatix",
+      "display_name": "Hogmatix",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-02.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p02L39",
+      "page": 2,
+      "column": "L",
+      "row": 39,
+      "bbox_native": [
+        1567,
+        4145,
+        2105,
+        4174
+      ],
+      "ocr_raw": "JuzPost",
+      "display_name": "JuzPost",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-02.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p02L40",
+      "page": 2,
+      "column": "L",
+      "row": 40,
+      "bbox_native": [
+        1567,
+        4253,
+        2105,
+        4283
+      ],
+      "ocr_raw": "Send & Retain Emails",
+      "display_name": "Send & Retain Emails",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-02.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p02L41",
+      "page": 2,
+      "column": "L",
+      "row": 41,
+      "bbox_native": [
+        1567,
+        4363,
+        2105,
+        4399
+      ],
+      "ocr_raw": "BeyondSky Post",
+      "display_name": "BeyondSky Post",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-02.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p02R01",
+      "page": 2,
+      "column": "R",
+      "row": 1,
+      "bbox_native": [
+        2275,
+        0,
+        2813,
+        28
+      ],
+      "ocr_raw": "Infobip",
+      "display_name": "Infobip",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-02.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p02R02",
+      "page": 2,
+      "column": "R",
+      "row": 2,
+      "bbox_native": [
+        2275,
+        108,
+        2813,
+        137
+      ],
+      "ocr_raw": "Publer",
+      "display_name": "Publer",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-02.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p02R03",
+      "page": 2,
+      "column": "R",
+      "row": 3,
+      "bbox_native": [
+        2275,
+        217,
+        2813,
+        246
+      ],
+      "ocr_raw": "PostAxis",
+      "display_name": "PostAxis",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-02.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p02R04",
+      "page": 2,
+      "column": "R",
+      "row": 4,
+      "bbox_native": [
+        2275,
+        326,
+        2813,
+        355
+      ],
+      "ocr_raw": "ExTweets",
+      "display_name": "ExTweets",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-02.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p02R05",
+      "page": 2,
+      "column": "R",
+      "row": 5,
+      "bbox_native": [
+        2275,
+        435,
+        2813,
+        464
+      ],
+      "ocr_raw": "OpenMail",
+      "display_name": "OpenMail",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-02.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p02R06",
+      "page": 2,
+      "column": "R",
+      "row": 6,
+      "bbox_native": [
+        2275,
+        543,
+        2813,
+        573
+      ],
+      "ocr_raw": "Slashy",
+      "display_name": "Slashy",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-02.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p02R07",
+      "page": 2,
+      "column": "R",
+      "row": 7,
+      "bbox_native": [
+        2275,
+        653,
+        2813,
+        688
+      ],
+      "ocr_raw": "Pluggzy",
+      "display_name": "Pluggzy",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-02.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p02R08",
+      "page": 2,
+      "column": "R",
+      "row": 8,
+      "bbox_native": [
+        2275,
+        762,
+        2813,
+        791
+      ],
+      "ocr_raw": "Banger",
+      "display_name": "Banger",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-02.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p02R09",
+      "page": 2,
+      "column": "R",
+      "row": 9,
+      "bbox_native": [
+        2275,
+        871,
+        2813,
+        901
+      ],
+      "ocr_raw": "ThinkMatch Introductions",
+      "display_name": "ThinkMatch Introductions",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-02.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p02R10",
+      "page": 2,
+      "column": "R",
+      "row": 10,
+      "bbox_native": [
+        2275,
+        980,
+        2813,
+        1010
+      ],
+      "ocr_raw": "Index Network",
+      "display_name": "Index Network",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-02.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p02R11",
+      "page": 2,
+      "column": "R",
+      "row": 11,
+      "bbox_native": [
+        2275,
+        1090,
+        2813,
+        1125
+      ],
+      "ocr_raw": "Fax Anything",
+      "display_name": "Fax Anything",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-02.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p02R12",
+      "page": 2,
+      "column": "R",
+      "row": 12,
+      "bbox_native": [
+        2275,
+        1199,
+        2813,
+        1228
+      ],
+      "ocr_raw": "SecureSMTP",
+      "display_name": "SecureSMTP",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-02.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p02R13",
+      "page": 2,
+      "column": "R",
+      "row": 13,
+      "bbox_native": [
+        2275,
+        1307,
+        2813,
+        1343
+      ],
+      "ocr_raw": "Realtor Reply Email Drafts",
+      "display_name": "Realtor Reply Email Drafts",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-02.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p02R14",
+      "page": 2,
+      "column": "R",
+      "row": 14,
+      "bbox_native": [
+        2275,
+        1417,
+        2813,
+        1452
+      ],
+      "ocr_raw": "Skysay",
+      "display_name": "Skysay",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-02.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p02R15",
+      "page": 2,
+      "column": "R",
+      "row": 15,
+      "bbox_native": [
+        2275,
+        1526,
+        2813,
+        1561
+      ],
+      "ocr_raw": "Go Agent - Telegram",
+      "display_name": "Go Agent - Telegram",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-02.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p02R16",
+      "page": 2,
+      "column": "R",
+      "row": 16,
+      "bbox_native": [
+        2275,
+        1634,
+        2813,
+        1664
+      ],
+      "ocr_raw": "Atomic Mail Agentic",
+      "display_name": "Atomic Mail Agentic",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-02.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p02R17",
+      "page": 2,
+      "column": "R",
+      "row": 17,
+      "bbox_native": [
+        2275,
+        1744,
+        2813,
+        1780
+      ],
+      "ocr_raw": "Ando - Team messaging",
+      "display_name": "Ando - Team messaging",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-02.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p02R18",
+      "page": 2,
+      "column": "R",
+      "row": 18,
+      "bbox_native": [
+        2275,
+        1854,
+        2813,
+        1883
+      ],
+      "ocr_raw": "V30",
+      "display_name": "V30",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-02.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p02R19",
+      "page": 2,
+      "column": "R",
+      "row": 19,
+      "bbox_native": [
+        2275,
+        1962,
+        2813,
+        1997
+      ],
+      "ocr_raw": "Real News | Redacao e SEO",
+      "display_name": "Real News | Redação e SEO",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-02.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p02R20",
+      "page": 2,
+      "column": "R",
+      "row": 20,
+      "bbox_native": [
+        2275,
+        2071,
+        2813,
+        2101
+      ],
+      "ocr_raw": "VideoCallTranslator",
+      "display_name": "VideoCallTranslator",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-02.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p02R21",
+      "page": 2,
+      "column": "R",
+      "row": 21,
+      "bbox_native": [
+        2275,
+        2181,
+        2813,
+        2210
+      ],
+      "ocr_raw": "iBlueText",
+      "display_name": "iBlueText",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-02.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p02R22",
+      "page": 2,
+      "column": "R",
+      "row": 22,
+      "bbox_native": [
+        2275,
+        2289,
+        2813,
+        2319
+      ],
+      "ocr_raw": "3Chat Customer Growth",
+      "display_name": "3Chat Customer Growth",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-02.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p02R23",
+      "page": 2,
+      "column": "R",
+      "row": 23,
+      "bbox_native": [
+        2275,
+        2398,
+        2813,
+        2428
+      ],
+      "ocr_raw": "ClimbX",
+      "display_name": "ClimbX",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-02.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p02R24",
+      "page": 2,
+      "column": "R",
+      "row": 24,
+      "bbox_native": [
+        2275,
+        2508,
+        2813,
+        2537
+      ],
+      "ocr_raw": "EPAV Desk",
+      "display_name": "EPAV Desk",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-02.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p02R25",
+      "page": 2,
+      "column": "R",
+      "row": 25,
+      "bbox_native": [
+        2275,
+        2617,
+        2813,
+        2647
+      ],
+      "ocr_raw": "TalkTool",
+      "display_name": "TalkTool",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-02.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p02R26",
+      "page": 2,
+      "column": "R",
+      "row": 26,
+      "bbox_native": [
+        2275,
+        2726,
+        2813,
+        2757
+      ],
+      "ocr_raw": "mhARXYY IA",
+      "display_name": "ポストメッシュ",
+      "status": "画像照合済み",
+      "review_note": "日本語の読取は画像による。正式IDは未確認。",
+      "evidence": "evidence/page-02.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p02R27",
+      "page": 2,
+      "column": "R",
+      "row": 27,
+      "bbox_native": [
+        2275,
+        2835,
+        2813,
+        2865
+      ],
+      "ocr_raw": "InboxFamily",
+      "display_name": "InboxFamily",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-02.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p02R28",
+      "page": 2,
+      "column": "R",
+      "row": 28,
+      "bbox_native": [
+        2275,
+        2944,
+        2813,
+        2974
+      ],
+      "ocr_raw": "FounderBrain",
+      "display_name": "FounderBrain",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-02.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p02R29",
+      "page": 2,
+      "column": "R",
+      "row": 29,
+      "bbox_native": [
+        2275,
+        3054,
+        2813,
+        3083
+      ],
+      "ocr_raw": "Masheev",
+      "display_name": "Masheev",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-02.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p02R30",
+      "page": 2,
+      "column": "R",
+      "row": 30,
+      "bbox_native": [
+        2275,
+        3162,
+        2813,
+        3192
+      ],
+      "ocr_raw": "MillionSend",
+      "display_name": "MillionSend",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-02.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p02R31",
+      "page": 2,
+      "column": "R",
+      "row": 31,
+      "bbox_native": [
+        2275,
+        3271,
+        2813,
+        3301
+      ],
+      "ocr_raw": "Chatinbox",
+      "display_name": "Chatinbox",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-02.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p02R32",
+      "page": 2,
+      "column": "R",
+      "row": 32,
+      "bbox_native": [
+        2275,
+        3380,
+        2813,
+        3410
+      ],
+      "ocr_raw": "Church Videos",
+      "display_name": "Church Videos",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-02.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p02R33",
+      "page": 2,
+      "column": "R",
+      "row": 33,
+      "bbox_native": [
+        2275,
+        3491,
+        2813,
+        3520
+      ],
+      "ocr_raw": "CommScore",
+      "display_name": "CommScore",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-02.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p02R34",
+      "page": 2,
+      "column": "R",
+      "row": 34,
+      "bbox_native": [
+        2275,
+        3600,
+        2813,
+        3629
+      ],
+      "ocr_raw": "Railagent",
+      "display_name": "Railagent",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-02.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p02R35",
+      "page": 2,
+      "column": "R",
+      "row": 35,
+      "bbox_native": [
+        2275,
+        3709,
+        2813,
+        3738
+      ],
+      "ocr_raw": "Asking",
+      "display_name": "Asking",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-02.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p02R36",
+      "page": 2,
+      "column": "R",
+      "row": 36,
+      "bbox_native": [
+        2275,
+        3818,
+        2813,
+        3847
+      ],
+      "ocr_raw": "Zoom Canvas",
+      "display_name": "Zoom Canvas",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-02.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p02R37",
+      "page": 2,
+      "column": "R",
+      "row": 37,
+      "bbox_native": [
+        2275,
+        3927,
+        2813,
+        3956
+      ],
+      "ocr_raw": "AgentPhone",
+      "display_name": "AgentPhone",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-02.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p02R38",
+      "page": 2,
+      "column": "R",
+      "row": 38,
+      "bbox_native": [
+        2275,
+        4036,
+        2813,
+        4065
+      ],
+      "ocr_raw": "Shager",
+      "display_name": "Shager",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-02.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p02R39",
+      "page": 2,
+      "column": "R",
+      "row": 39,
+      "bbox_native": [
+        2275,
+        4145,
+        2813,
+        4174
+      ],
+      "ocr_raw": "HueChat",
+      "display_name": "HueChat",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-02.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    },
+    {
+      "row_id": "p02R40",
+      "page": 2,
+      "column": "R",
+      "row": 40,
+      "bbox_native": [
+        2275,
+        4254,
+        2813,
+        4283
+      ],
+      "ocr_raw": "MBX Reach",
+      "display_name": "MBX Reach",
+      "status": "画像照合済み",
+      "review_note": "",
+      "evidence": "evidence/page-02.png",
+      "catalog_name_match_before": false,
+      "catalog_name_added": true
+    }
+  ],
+  "notes": [
+    "2ページ左右に同名の Realtor Reply Email Drafts が掲載されている。名称単位で1件登録し、同一アプリかは未確認。",
+    "atlas-pdf- はサイト内の仮IDであり、公式プラグインIDではない。",
+    "説明や機能はPDFの名前だけから創作していない。"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "FLORA",
+  "provider": "FLORA",
+  "version": "2.1.2",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a8c516c7e308191a0091f1b9c98a621?category=creativity",
+  "developer_url": "https://flora.ai/mcp",
+  "original_description": "The FLORA plugin lets users generate, organize, and iterate on visual assets — hero images, moodboards, lifestyle shots, promo graphics — directly from a conversation. When used alongside other connected tools like Notion, Google Drive, or Slack, the same conversation can pull in context and write results back to where the team already works. Authentication is OAuth via your existing FLORA account.",
+  "summary_ja": "会話から画像やムードボードなどのビジュアル素材を生成・整理・改善する。",
+  "usage_tags": [
+    "画像制作",
+    "ムードボード",
+    "素材管理"
+  ],
+  "limitations_ja": "既存のFLORAアカウントによるOAuth認証を説明。他ツールとの連携はそれぞれの接続が前提。",
+  "official_app_name": "FLORA",
+  "official_name_basis": "ChatGPTのプラグイン詳細画面に表示された名称",
+  "category": "Creativity",
+  "observed_at": "2026-11-14",
+  "description_scope": "ChatGPT詳細画面の提供元の英語説明。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "詳細画面の説明と情報欄を確認。実機能、料金、品質は未検証。",
+  "catalog_status": "一覧本体との名称照合は未確認。同名・別名の同一性は未確認。"
+}

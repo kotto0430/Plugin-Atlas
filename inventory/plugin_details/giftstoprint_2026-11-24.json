@@ -1,0 +1,25 @@
+{
+  "name": "GiftsToPrint",
+  "category": "Creativity",
+  "provider": "Black Lotus Designs Ltd",
+  "version": "1.0.0",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6abfa4e5c18481919793785c3e83a9da?category=creativity",
+  "original_description": "GiftsToPrint makes personalised newspaper-style posters for birthdays, wedding anniversaries, dating anniversaries and retirements. Each poster is a front page filled with real headlines, prices and events from the year that matters, personalised with the recipient's name, a photo and a message.\n\nPosters come in four country editions (US, UK, Canada and Australia), so the news matches where the recipient grew up. Over 4,000 verified reviews since 2021.\n\nHow it works in ChatGPT:\n1. Tell ChatGPT who the poster is for and the occasion. It finds the right poster and shows the price in your currency.\n2. It asks for the details the poster needs (names, dates, an optional message) and your photo.\n3. It reads everything back to you, then gives you a link to GiftsToPrint's own checkout with every detail already filled in. You review and pay there. Nothing is charged inside ChatGPT.\n\nImportant: this is a digital product. You receive a high-resolution JPG print file by email, usually the next working day (12-hour and weekend rush options are available). You print it at home or at any print shop. Nothing is posted.",
+  "summary_ja": "記念年の出来事などを盛り込んだ新聞風ポスターを注文する。",
+  "limitations_ja": "デジタル商品で、印刷用JPGをメールで受け取ると説明。決済は事業者サイトで行い、印刷物の郵送はない。",
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "official_app_name": "GiftsToPrint",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "ギフト",
+    "ポスター",
+    "記念日"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Product Photos by RunComfy",
+  "official_app_name": "Product Photos by RunComfy",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "Inceptions AI INC",
+  "version": "1.0.4",
+  "observed_at": "2026-11-28",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6aec2b743ad08191841f166091f52510?category=creativity",
+  "original_description": "Product Photos by RunComfy turns existing product photos into clean studio images, lifestyle scenes and campaign variants using compatible image models.\n\nWhat you can do:\n• Create a clean product image with a white or studio background.\n• Place a product into a described lifestyle setting.\n• Prepare a requested set of images for different scenes or formats.\n• Define the product color, shape, label and material details to check against the original.\n\nConnect a RunComfy account to generate images. Generations use your RunComfy account balance. Model choices and available dimensions depend on the current catalog.\n\nProvide a product photo through an accessible HTTPS link. The plugin asks for a usable link if a chat attachment cannot be passed to the model. AI edits can change labels, geometry and fine details, so compare every result with the original before commercial use. A white background does not imply a transparent cutout. The plugin does not automatically publish images to an online store.",
+  "original_description_language": "英語",
+  "summary_ja": "既存の商品写真からスタジオ風や生活場面の商品画像を作る。",
+  "limitations_ja": "RunComfyアカウントと残高が必要。アクセス可能なHTTPS画像リンクが必要。ラベルや形状等は原画像と比較する。",
+  "usage_tags": [
+    "商品写真",
+    "EC",
+    "画像生成"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "description_scope": "詳細ページ本文の英語説明"
+}

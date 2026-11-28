@@ -1,0 +1,1312 @@
+﻿row_id,page,column,row,display_name,candidate_text,status,review_note,ocr_raw,continuation_of,evidence
+p01L01,1,L,1,Google Drive,,画像照合済み,,Google Drive,,evidence/page-01.png
+p01L02,1,L,2,Notion,,画像照合済み,,Notion,,evidence/page-01.png
+p01L03,1,L,3,Metricool,,画像照合済み,,Metricool,,evidence/page-01.png
+p01L04,1,L,4,Outlook Calendar,,画像照合済み,,Outlook Calendar,,evidence/page-01.png
+p01L05,1,L,5,Todoist,,画像照合済み,,Todoist,,evidence/page-01.png
+p01L06,1,L,6,Parallel,,画像照合済み,,Parallel,,evidence/page-01.png
+p01L07,1,L,7,Airtable,,画像照合済み,,Airtable,,evidence/page-01.png
+p01L08,1,L,8,Atlassian,,画像照合済み,,Atlassian,,evidence/page-01.png
+p01L09,1,L,9,Plaud,,画像照合済み,,Plaud,,evidence/page-01.png
+p01L10,1,L,10,Linear,,画像照合済み,,Linear,,evidence/page-01.png
+p01L11,1,L,11,TickTick:To-Do List & Calendar,,画像照合済み,,TickTick:To-Do List & Calendar,,evidence/page-01.png
+p01L12,1,L,12,monday.com,,画像照合済み,,monday.com,,evidence/page-01.png
+p01L13,1,L,13,ElevenLabs,,画像照合済み,,ElevenLabs,,evidence/page-01.png
+p01L14,1,L,14,Fathom AI Notetaker,,画像照合済み,,Fathom Al Notetaker,,evidence/page-01.png
+p01L15,1,L,15,Semrush,,画像照合済み,,Semrush,,evidence/page-01.png
+p01L16,1,L,16,Fireflies,,画像照合済み,,Fireflies,,evidence/page-01.png
+p01L17,1,L,17,Otter.ai,,画像照合済み,,Otter.ai,,evidence/page-01.png
+p01L18,1,L,18,Structured,,画像照合済み,,Structured,,evidence/page-01.png
+p01L19,1,L,19,OneNote,,画像照合済み,,OneNote,,evidence/page-01.png
+p01L20,1,L,20,Adobe Acrobat,,画像照合済み,,Adobe Acrobat,,evidence/page-01.png
+p01L21,1,L,21,Fieldy,,画像照合済み,,Fieldy,,evidence/page-01.png
+p01L22,1,L,22,Tally,,画像照合済み,,Tally,,evidence/page-01.png
+p01L23,1,L,23,AgentMail,,画像照合済み,,AgentMail,,evidence/page-01.png
+p01L24,1,L,24,WP Agent,,画像照合済み,,WP Agent,,evidence/page-01.png
+p01L25,1,L,25,RewriteLy Humanizer,,画像照合済み,,RewriteLy Humanizer,,evidence/page-01.png
+p01L26,1,L,26,Forms AI,,画像照合済み,,Forms Al,,evidence/page-01.png
+p01L27,1,L,27,Manus,,画像照合済み,,Manus,,evidence/page-01.png
+p01L28,1,L,28,FoundRole Jobs,,画像照合済み,,FoundRole Jobs,,evidence/page-01.png
+p01L29,1,L,29,RingCentral Phone,,画像照合済み,,RingCentral Phone,,evidence/page-01.png
+p01L30,1,L,30,Mem,,画像照合済み,,Mem,,evidence/page-01.png
+p01L31,1,L,31,SpeakApp,,画像照合済み,,SpeakApp,,evidence/page-01.png
+p01L32,1,L,32,SlideForge,,画像照合済み,,SlideForge,,evidence/page-01.png
+p01L33,1,L,33,Wrike,,画像照合済み,,Wrike,,evidence/page-01.png
+p01L34,1,L,34,AI Producer by OpusClip,,画像照合済み,,Al Producer by OpusClip,,evidence/page-01.png
+p01L35,1,L,35,Whisper Transcribe AI,,画像照合済み,,Whisper Transcribe Al,,evidence/page-01.png
+p01L36,1,L,36,Goodnotes,,画像照合済み,,Goodnotes,,evidence/page-01.png
+p01L37,1,L,37,HumanWriting,,画像照合済み,,HumanWriting,,evidence/page-01.png
+p01L38,1,L,38,Capacities,,画像照合済み,,Capacities,,evidence/page-01.png
+p01L39,1,L,39,Circleback,,画像照合済み,,Circleback,,evidence/page-01.png
+p01L40,1,L,40,Docusign,,画像照合済み,,Docusign,,evidence/page-01.png
+p01L41,1,L,41,joblet.ai - AI Job Search,,画像照合済み,,joblet.ai - Al Job Search,,evidence/page-01.png
+p01L42,1,L,42,TasksBoard,,画像照合済み,,TasksBoard,,evidence/page-01.png
+p01L43,1,L,43,Softr,,画像照合済み,,Softr,,evidence/page-01.png
+p01R01,1,R,1,Writing Style,,画像照合済み,,Writing Style,,evidence/page-01.png
+p01R02,1,R,2,Google Calendar,,画像照合済み,,Google Calendar,,evidence/page-01.png
+p01R03,1,R,3,Dropbox,,画像照合済み,,Dropbox,,evidence/page-01.png
+p01R04,1,R,4,Firecrawl,,画像照合済み,,Firecrawl,,evidence/page-01.png
+p01R05,1,R,5,SharePoint,,画像照合済み,,SharePoint,,evidence/page-01.png
+p01R06,1,R,6,Trello,,画像照合済み,,Trello,,evidence/page-01.png
+p01R07,1,R,7,Google Contacts,,画像照合済み,,Google Contacts,,evidence/page-01.png
+p01R08,1,R,8,Asana,,画像照合済み,,Asana,,evidence/page-01.png
+p01R09,1,R,9,ClickUp,,画像照合済み,,ClickUp,,evidence/page-01.png
+p01R10,1,R,10,Plugin Creator,,画像照合済み,,Plugin Creator,,evidence/page-01.png
+p01R11,1,R,11,Granola,,画像照合済み,,Granola,,evidence/page-01.png
+p01R12,1,R,12,Opera Browser Connector,,画像照合済み,,Opera Browser Connector,,evidence/page-01.png
+p01R13,1,R,13,Jotform,,画像照合済み,,Jotform,,evidence/page-01.png
+p01R14,1,R,14,AccurateScribe.ai – Transcribe,,画像照合済み,,AccurateScribe.ai — Transcribe,,evidence/page-01.png
+p01R15,1,R,15,WPWriter,,画像照合済み,,WPWriter,,evidence/page-01.png
+p01R16,1,R,16,Miro,,画像照合済み,,Miro,,evidence/page-01.png
+p01R17,1,R,17,Wispr Flow,,画像照合済み,,Wispr Flow,,evidence/page-01.png
+p01R18,1,R,18,Pocket AI,,画像照合済み,,Pocket Al,,evidence/page-01.png
+p01R19,1,R,19,Browser Use,,画像照合済み,,Browser Use,,evidence/page-01.png
+p01R20,1,R,20,Calendly,,画像照合済み,,Calendly,,evidence/page-01.png
+p01R21,1,R,21,Read AI,,画像照合済み,,Read Al,,evidence/page-01.png
+p01R22,1,R,22,Prompt Perfect,,画像照合済み,,Prompt Perfect,,evidence/page-01.png
+p01R23,1,R,23,Smartsheet US,,画像照合済み,,Smartsheet US,,evidence/page-01.png
+p01R24,1,R,24,Agentic Search by Liner,,画像照合済み,,Agentic Search by Liner,,evidence/page-01.png
+p01R25,1,R,25,Lucid,,画像照合済み,,Lucid,,evidence/page-01.png
+p01R26,1,R,26,Krisp,,画像照合済み,,Krisp,,evidence/page-01.png
+p01R27,1,R,27,Agentic Slides by SlidesGPT,,画像照合済み,,Agentic Slides by SlidesGPT,,evidence/page-01.png
+p01R28,1,R,28,Hjarni Notes & Memory,,画像照合済み,,Hjarni Notes & Memory,,evidence/page-01.png
+p01R29,1,R,29,Readwise,,画像照合済み,,Readwise,,evidence/page-01.png
+p01R30,1,R,30,Craft,,画像照合済み,,Craft,,evidence/page-01.png
+p01R31,1,R,31,tl:dv - AI Note Taker,,画像照合済み,,tl:dv - Al Note Taker,,evidence/page-01.png
+p01R32,1,R,32,Evernote,,画像照合済み,,Evernote,,evidence/page-01.png
+p01R33,1,R,33,Whimsical,,画像照合済み,,Whimsical,,evidence/page-01.png
+p01R34,1,R,34,Zite,,画像照合済み,,Zite,,evidence/page-01.png
+p01R35,1,R,35,Xmind,,画像照合済み,,Xmind,,evidence/page-01.png
+p01R36,1,R,36,Speechify,,画像照合済み,,Speechify,,evidence/page-01.png
+p01R37,1,R,37,Coda,,画像照合済み,,Coda,,evidence/page-01.png
+p01R38,1,R,38,Seamless,,画像照合済み,,Seamless,,evidence/page-01.png
+p01R39,1,R,39,WebsitePublisher,,画像照合済み,,WebsitePublisher,,evidence/page-01.png
+p01R40,1,R,40,Resume Builder,,画像照合済み,,Resume Builder,,evidence/page-01.png
+p01R41,1,R,41,TRIGGERcmd,,画像照合済み,,TRIGGERcmd,,evidence/page-01.png
+p01R42,1,R,42,Docs AI,,画像照合済み,,Docs Al,,evidence/page-01.png
+p01R43,1,R,43,Basic Memory Cloud,,画像照合済み,,Basic Memory Cloud,,evidence/page-01.png
+p02L01,2,L,1,NeoSapien,,画像照合済み,,NeoSapien,,evidence/page-02.png
+p02L02,2,L,2,DeepL,,画像照合済み,,DeepL,,evidence/page-02.png
+p02L03,2,L,3,Sider Recorder & Transcriber,,画像照合済み,,Sider Recorder & Transcriber,,evidence/page-02.png
+p02L04,2,L,4,Voicenotes,,画像照合済み,,Voicenotes,,evidence/page-02.png
+p02L05,2,L,5,Plane,,画像照合済み,,Plane,,evidence/page-02.png
+p02L06,2,L,6,Slides AI,,画像照合済み,,Slides Al,,evidence/page-02.png
+p02L07,2,L,7,Carly,,画像照合済み,,Carly,,evidence/page-02.png
+p02L08,2,L,8,Miyo,,画像照合済み,,Miyo,,evidence/page-02.png
+p02L09,2,L,9,Devpost Hackathons,,画像照合済み,,Devpost Hackathons,,evidence/page-02.png
+p02L10,2,L,10,xTiles,,画像照合済み,,xTiles,,evidence/page-02.png
+p02L11,2,L,11,Jotform App Builder,,画像照合済み,,Jotform App Builder,,evidence/page-02.png
+p02L12,2,L,12,XMemo,,画像照合済み,,XMemo,,evidence/page-02.png
+p02L13,2,L,13,CVpop - Resume & CV Builder,,画像照合済み,,CVpop - Resume & CV Builder,,evidence/page-02.png
+p02L14,2,L,14,Tableau,,画像照合済み,,Tableau,,evidence/page-02.png
+p02L15,2,L,15,Reclaim.ai,,画像照合済み,,Reclaim.ai,,evidence/page-02.png
+p02L16,2,L,16,AI Wisebase,,画像照合済み,,Al Wisebase,,evidence/page-02.png
+p02L17,2,L,17,Vocci,,画像照合済み,,Vocci,,evidence/page-02.png
+p02L18,2,L,18,Shippo,,画像照合済み,,Shippo,,evidence/page-02.png
+p02L19,2,L,19,Revise,,画像照合済み,,Revise,,evidence/page-02.png
+p02L20,2,L,20,tldraw,,画像照合済み,,tldraw,,evidence/page-02.png
+p02L21,2,L,21,Dropbox Dash,,画像照合済み,,Dropbox Dash,,evidence/page-02.png
+p02L22,2,L,22,Cambiante: Content Manager,,画像照合済み,,Cambiante: Content Manager,,evidence/page-02.png
+p02L23,2,L,23,Leo Training,,画像照合済み,,Leo Training,,evidence/page-02.png
+p02L24,2,L,24,Formula Genius,,画像照合済み,,Formula Genius,,evidence/page-02.png
+p02L25,2,L,25,PDF Editor PRO by Playgram,,画像照合済み,,PDF Editor PRO by Playgram,,evidence/page-02.png
+p02L26,2,L,26,firestorage.ai,,画像照合済み,,firestorage.ai,,evidence/page-02.png
+p02L27,2,L,27,Upplai,,画像照合済み,,Upplai,,evidence/page-02.png
+p02L28,2,L,28,Resume.io,,画像照合済み,,Resume.io,,evidence/page-02.png
+p02L29,2,L,29,Pantry Persona,,画像照合済み,,Pantry Persona,,evidence/page-02.png
+p02L30,2,L,30,Tweek,,画像照合済み,,Tweek,,evidence/page-02.png
+p02L31,2,L,31,Lawve,,画像照合済み,,Lawve,,evidence/page-02.png
+p02L32,2,L,32,Owll,,画像照合済み,,Owill,,evidence/page-02.png
+p02L33,2,L,33,Roam Research,,画像照合済み,,Roam Research,,evidence/page-02.png
+p02L34,2,L,34,Egnyte,,画像照合済み,,Egnyte,,evidence/page-02.png
+p02L35,2,L,35,Mapify,,画像照合済み,,Mapify,,evidence/page-02.png
+p02L36,2,L,36,Cognito Forms,,画像照合済み,,Cognito Forms,,evidence/page-02.png
+p02L37,2,L,37,PandaDoc,,画像照合済み,,PandaDoc,,evidence/page-02.png
+p02L38,2,L,38,Smallpdf,,画像照合済み,,Smallpdf,,evidence/page-02.png
+p02L39,2,L,39,Linkly URL Shortener,,画像照合済み,,Linkly URL Shortener,,evidence/page-02.png
+p02L40,2,L,40,Auto Photos,,画像照合済み,,Auto Photos,,evidence/page-02.png
+p02L41,2,L,41,Nifty,,画像照合済み,,Nifty,,evidence/page-02.png
+p02L42,2,L,42,A.I. Slides by Brightdeck,,画像照合済み,,A.l. Slides by Brightdeck,,evidence/page-02.png
+p02L43,2,L,43,Enhancv,,画像照合済み,,Enhancv,,evidence/page-02.png
+p02L44,2,L,44,Empirical Memory,,画像照合済み,,Empirical Memory,,evidence/page-02.png
+p02L45,2,L,45,Wave AI Note Taker,,画像照合済み,,Wave Al Note Taker,,evidence/page-02.png
+p02L46,2,L,46,MarcoPolo,,画像照合済み,,MarcoPolo,,evidence/page-02.png
+p02L47,2,L,47,Camtasia,,画像照合済み,,Camtasia,,evidence/page-02.png
+p02R01,2,R,1,Heptabase,,画像照合済み,,Heptabase,,evidence/page-02.png
+p02R02,2,R,2,IHate.ai Humanaizer,,画像照合済み,,IHate.ai Humanaizer,,evidence/page-02.png
+p02R03,2,R,3,Grain,,画像照合済み,,Grain,,evidence/page-02.png
+p02R04,2,R,4,Simpliciter AI,,画像照合済み,,Simpliciter Al,,evidence/page-02.png
+p02R05,2,R,5,post bridge,,画像照合済み,,post bridge,,evidence/page-02.png
+p02R06,2,R,6,MeetGeek,,画像照合済み,,MeetGeek,,evidence/page-02.png
+p02R07,2,R,7,Kalender Sync,,画像照合済み,,Kalender Sync,,evidence/page-02.png
+p02R08,2,R,8,Superhuman Docs,,画像照合済み,,Superhuman Docs,,evidence/page-02.png
+p02R09,2,R,9,CloudConvert,,画像照合済み,,CloudConvert,,evidence/page-02.png
+p02R10,2,R,10,Fibery,,画像照合済み,,Fibery,,evidence/page-02.png
+p02R11,2,R,11,MindMap,,画像照合済み,,MindMap,,evidence/page-02.png
+p02R12,2,R,12,HappyScribe,,画像照合済み,,HappyScribe,,evidence/page-02.png
+p02R13,2,R,13,Reportei,,画像照合済み,,Reportei,,evidence/page-02.png
+p02R14,2,R,14,Sunsama,,画像照合済み,,Sunsama,,evidence/page-02.png
+p02R15,2,R,15,Memoket,,画像照合済み,,Memoket,,evidence/page-02.png
+p02R16,2,R,16,FormHug,,画像照合済み,,FormHug,,evidence/page-02.png
+p02R17,2,R,17,Weavely Forms & Surveys,,画像照合済み,,Weavely Forms & Surveys,,evidence/page-02.png
+p02R18,2,R,18,TwinMind,,画像照合済み,,TwinMind,,evidence/page-02.png
+p02R19,2,R,19,Presenton,,画像照合済み,,Presenton,,evidence/page-02.png
+p02R20,2,R,20,FlowSavvy,,画像照合済み,,FlowSavvy,,evidence/page-02.png
+p02R21,2,R,21,Jotform Sign,,画像照合済み,,Jotform Sign,,evidence/page-02.png
+p02R22,2,R,22,LibreJustice,,画像照合済み,,LibreJustice,,evidence/page-02.png
+p02R23,2,R,23,TaskNotify,,画像照合済み,,TaskNotify,,evidence/page-02.png
+p02R24,2,R,24,ConvertAPI,,画像照合済み,,ConvertAPI,,evidence/page-02.png
+p02R25,2,R,25,AI Psychiatry,,画像照合済み,,Al Psychiatry,,evidence/page-02.png
+p02R26,2,R,26,Presentations Craft,,画像照合済み,,Presentations Craft,,evidence/page-02.png
+p02R27,2,R,27,CraftNote,,画像照合済み,,CraftNote,,evidence/page-02.png
+p02R28,2,R,28,Patsnap Patent Paper Search,,画像照合済み,,Patsnap Patent Paper Search,,evidence/page-02.png
+p02R29,2,R,29,AI Detector by AI GPT Zero,,画像照合済み,,Al Detector by Al GPT Zero,,evidence/page-02.png
+p02R30,2,R,30,Jibble,,画像照合済み,,Jibble,,evidence/page-02.png
+p02R31,2,R,31,MindMap AI,,画像照合済み,,MindMap Al,,evidence/page-02.png
+p02R32,2,R,32,Dex,,画像照合済み,,Dex,,evidence/page-02.png
+p02R33,2,R,33,Carryo website publisher,,画像照合済み,,Carryo website publisher,,evidence/page-02.png
+p02R34,2,R,34,App Atlas,,画像照合済み,,App Atlas,,evidence/page-02.png
+p02R35,2,R,35,Postly,,画像照合済み,,Postly,,evidence/page-02.png
+p02R36,2,R,36,QRCM,,画像照合済み,,QRCM,,evidence/page-02.png
+p02R37,2,R,37,Awesome Slides,,画像照合済み,,Awesome Slides,,evidence/page-02.png
+p02R38,2,R,38,NewTwos,,画像照合済み,,NewTwos,,evidence/page-02.png
+p02R39,2,R,39,AnyPDF - Your PDF Converter,,画像照合済み,,AnyPDF - Your PDF Converter,,evidence/page-02.png
+p02R40,2,R,40,Gong,,画像照合済み,,Gong,,evidence/page-02.png
+p02R41,2,R,41,draftmend,,画像照合済み,,draftmend,,evidence/page-02.png
+p02R42,2,R,42,Career Adapter,,画像照合済み,,Career Adapter,,evidence/page-02.png
+p02R43,2,R,43,Flourish,,画像照合済み,,Flourish,,evidence/page-02.png
+p02R44,2,R,44,Unabyss,,画像照合済み,,Unabyss,,evidence/page-02.png
+p02R45,2,R,45,Foxit PDF Editor,,画像照合済み,,Foxit PDF Editor,,evidence/page-02.png
+p02R46,2,R,46,Orbismo,,画像照合済み,,Orbismo,,evidence/page-02.png
+p02R47,2,R,47,Eraser,,画像照合済み,,Eraser,,evidence/page-02.png
+p03L01,3,L,1,Rosetta,,画像照合済み,,Rosetta,,evidence/page-03.png
+p03L02,3,L,2,Mygentic,,画像照合済み,,Mygentic,,evidence/page-03.png
+p03L03,3,L,3,AI Whisper Voice Note Taker,,画像照合済み,,Al Whisper Voice Note Taker,,evidence/page-03.png
+p03L04,3,L,4,Sociality.io for social media,,画像照合済み,,Sociality.io for social media,,evidence/page-03.png
+p03L05,3,L,5,BluTranslate,,画像照合済み,,BluTranslate,,evidence/page-03.png
+p03L06,3,L,6,Mintlify,,画像照合済み,,Mintlify,,evidence/page-03.png
+p03L07,3,L,7,Awesome Record (voice + sound),,画像照合済み,,Awesome Record (voice + sound),,evidence/page-03.png
+p03L08,3,L,8,omi,,画像照合済み,,omi,,evidence/page-03.png
+p03L09,3,L,9,Tactiq,,画像照合済み,,Tactiq,,evidence/page-03.png
+p03L10,3,L,10,B&A: Diagrams,,画像照合済み,,B&A: Diagrams,,evidence/page-03.png
+p03L11,3,L,11,Transcriptor,,画像照合済み,,Transcriptor,,evidence/page-03.png
+p03L12,3,L,12,,Findlp,要確認,FindIp / Findlp の I と l は画像だけでは字形を確定できない。,Findlp,,evidence/page-03.png
+p03L13,3,L,13,TimerTime,,画像照合済み,,TimerTime,,evidence/page-03.png
+p03L14,3,L,14,24/7 Calendar,,画像照合済み,,24/7 Calendar,,evidence/page-03.png
+p03L15,3,L,15,agent.spot,,画像照合済み,,agent.spot,,evidence/page-03.png
+p03L16,3,L,16,Qarera,,画像照合済み,,Qarera,,evidence/page-03.png
+p03L17,3,L,17,Recordo,,画像照合済み,,Recordo,,evidence/page-03.png
+p03L18,3,L,18,Apilio,,画像照合済み,,Apilio,,evidence/page-03.png
+p03L19,3,L,19,Spkr - Chat to Podcast Episode,,画像照合済み,,Spkr - Chat to Podcast Episode,,evidence/page-03.png
+p03L20,3,L,20,Templafy,,画像照合済み,,Templafy,,evidence/page-03.png
+p03L21,3,L,21,AnyQR,,画像照合済み,,AnyQR,,evidence/page-03.png
+p03L22,3,L,22,DotSpark,,画像照合済み,,DotSpark,,evidence/page-03.png
+p03L23,3,L,23,Workjournal,,画像照合済み,,Workjournal,,evidence/page-03.png
+p03L24,3,L,24,Canvs.io whiteboard,,画像照合済み,,Canvs.io whiteboard,,evidence/page-03.png
+p03L25,3,L,25,Norton,,画像照合済み,,Norton,,evidence/page-03.png
+p03L26,3,L,26,Smartsheet EU,,画像照合済み,,Smartsheet EU,,evidence/page-03.png
+p03L27,3,L,27,Instant Website,,画像照合済み,,Instant Website,,evidence/page-03.png
+p03L28,3,L,28,Artist Growth,,画像照合済み,,Artist Growth,,evidence/page-03.png
+p03L29,3,L,29,Funnel,,画像照合済み,,Funnel,,evidence/page-03.png
+p03L30,3,L,30,UseMyContext.ai,,画像照合済み,,UseMyContext.ai,,evidence/page-03.png
+p03L31,3,L,31,1-2-3-List,,画像照合済み,,1-2-3-List,,evidence/page-03.png
+p03L32,3,L,32,Fattura24,,画像照合済み,,Fattura24,,evidence/page-03.png
+p03L33,3,L,33,AI Attorney Pakistan,,画像照合済み,,Al Attorney Pakistan,,evidence/page-03.png
+p03L34,3,L,34,CorretorIA,,画像照合済み,,CorretorlA,,evidence/page-03.png
+p03L35,3,L,35,Social Post Previewer,,画像照合済み,,Social Post Previewer,,evidence/page-03.png
+p03L36,3,L,36,D-Tools Cloud,,画像照合済み,,D-Tools Cloud,,evidence/page-03.png
+p03L37,3,L,37,iLovePDF,,画像照合済み,,iLovePDF,,evidence/page-03.png
+p03L38,3,L,38,smry,,画像照合済み,,smry,,evidence/page-03.png
+p03L39,3,L,39,KaiCalls,,画像照合済み,,KaiCalls,,evidence/page-03.png
+p03L40,3,L,40,No AI Slop,,画像照合済み,,No Al Slop,,evidence/page-03.png
+p03L41,3,L,41,Plate,,画像照合済み,,Plate,,evidence/page-03.png
+p03L42,3,L,42,smarts.bio: AI for biology,,画像照合済み,,smarts.bio: Al for biology,,evidence/page-03.png
+p03L43,3,L,43,Hoaster,,画像照合済み,,Hoaster,,evidence/page-03.png
+p03L44,3,L,44,LIAM — Memory Assistant,,画像照合済み,,LIAM — Memory Assistant,,evidence/page-03.png
+p03L45,3,L,45,PomoDial,,画像照合済み,,PomoDial,,evidence/page-03.png
+p03L46,3,L,46,ApplyArc,,画像照合済み,,ApplyArc,,evidence/page-03.png
+p03R01,3,R,1,awork,,画像照合済み,,awork,,evidence/page-03.png
+p03R02,3,R,2,Reed.co.uk,,画像照合済み,,Reed.co.uk,,evidence/page-03.png
+p03R03,3,R,3,Relay,,画像照合済み,,Relay,,evidence/page-03.png
+p03R04,3,R,4,Adalo,,画像照合済み,,Adalo,,evidence/page-03.png
+p03R05,3,R,5,Wordy- Highlight+Annotate Text,,画像照合済み,,Wordy- Highlight+Annotate Text,,evidence/page-03.png
+p03R06,3,R,6,AI Passport,,画像照合済み,,Al Passport,,evidence/page-03.png
+p03R07,3,R,7,Newsmind — RSS for your AI,,画像照合済み,,Newsmind — RSS for your Al,,evidence/page-03.png
+p03R08,3,R,8,Taskaid,,画像照合済み,,Taskaid,,evidence/page-03.png
+p03R09,3,R,9,Octopus.do,,画像照合済み,,Octopus.do,,evidence/page-03.png
+p03R10,3,R,10,Qu Review,,画像照合済み,,Qu Review,,evidence/page-03.png
+p03R11,3,R,11,PDF Reader Pro,,画像照合済み,,PDF Reader Pro,,evidence/page-03.png
+p03R12,3,R,12,Passim AI,,画像照合済み,,Passim Al,,evidence/page-03.png
+p03R13,3,R,13,Autocalls AI,,画像照合済み,,Autocalls Al,,evidence/page-03.png
+p03R14,3,R,14,Productive,,画像照合済み,,Productive,,evidence/page-03.png
+p03R15,3,R,15,ButlerBrain,,画像照合済み,,ButlerBrain,,evidence/page-03.png
+p03R16,3,R,16,WeTransfer,,画像照合済み,,WetTransfer,,evidence/page-03.png
+p03R17,3,R,17,Anchor,,画像照合済み,,Anchor,,evidence/page-03.png
+p03R18,3,R,18,Smart Planner AI,,画像照合済み,,Smart Planner Al,,evidence/page-03.png
+p03R19,3,R,19,Happenstance,,画像照合済み,,Happenstance,,evidence/page-03.png
+p03R20,3,R,20,AI Delivery Evidence Checker,,画像照合済み,,Al Delivery Evidence Checker,,evidence/page-03.png
+p03R21,3,R,21,Operator Powers,,画像照合済み,,Operator Powers,,evidence/page-03.png
+p03R22,3,R,22,ResumeBoost,,画像照合済み,,ResumeBoost,,evidence/page-03.png
+p03R23,3,R,23,Career Centre,,画像照合済み,,Career Centre,,evidence/page-03.png
+p03R24,3,R,24,Visualping,,画像照合済み,,Visualping,,evidence/page-03.png
+p03R25,3,R,25,Spinach AI,,画像照合済み,,Spinach Al,,evidence/page-03.png
+p03R26,3,R,26,Menti,,画像照合済み,,Menti,,evidence/page-03.png
+p03R27,3,R,27,Dunzo - Task Assistant,,画像照合済み,,Dunzo - Task Assistant,,evidence/page-03.png
+p03R28,3,R,28,xpost,,画像照合済み,,xpost,,evidence/page-03.png
+p03R29,3,R,29,SuperMCP,,画像照合済み,,SuperMCP,,evidence/page-03.png
+p03R30,3,R,30,Curaiz Remote Jobs,,画像照合済み,,Curaiz Remote Jobs,,evidence/page-03.png
+p03R31,3,R,31,Kamai,,画像照合済み,,Kamai,,evidence/page-03.png
+p03R32,3,R,32,Twistly AI Presentation Maker,,画像照合済み,,Twistly Al Presentation Maker,,evidence/page-03.png
+p03R33,3,R,33,Capsule CRM,,画像照合済み,,Capsule CRM,,evidence/page-03.png
+p03R34,3,R,34,2+2 Calculator,,画像照合済み,,2+2 Calculator,,evidence/page-03.png
+p03R35,3,R,35,Kickresume,,画像照合済み,,Kickresume,,evidence/page-03.png
+p03R36,3,R,36,Task Tool,,画像照合済み,,Task Tool,,evidence/page-03.png
+p03R37,3,R,37,SignNow,,画像照合済み,,SignNow,,evidence/page-03.png
+p03R38,3,R,38,Noteithub,,画像照合済み,,Noteithub,,evidence/page-03.png
+p03R39,3,R,39,Open Context,,画像照合済み,,Open Context,,evidence/page-03.png
+p03R40,3,R,40,Slop Curator,,画像照合済み,,Slop Curator,,evidence/page-03.png
+p03R41,3,R,41,Sider PDF Translator,,画像照合済み,,Sider PDF Translator,,evidence/page-03.png
+p03R42,3,R,42,Contentful,,画像照合済み,,Contentful,,evidence/page-03.png
+p03R43,3,R,43,StepCue,,画像照合済み,,StepCue,,evidence/page-03.png
+p03R44,3,R,44,Adszy,,画像照合済み,,Adszy,,evidence/page-03.png
+p03R45,3,R,45,InvoiceCraft AI,,画像照合済み,,InvoiceCraft Al,,evidence/page-03.png
+p03R46,3,R,46,DeckCraft Slides,,画像照合済み,,DeckCraft Slides,,evidence/page-03.png
+p04L01,4,L,1,Aide Calendar: AI Planner,,画像照合済み,,Aide Calendar: Al Planner,,evidence/page-04.png
+p04L02,4,L,2,Cal.com,,画像照合済み,,Cal.com,,evidence/page-04.png
+p04L03,4,L,3,Sally AI,,画像照合済み,,Sally Al,,evidence/page-04.png
+p04L04,4,L,4,REPSLog,,画像照合済み,,REPSLog,,evidence/page-04.png
+p04L05,4,L,5,Jade Note,,画像照合済み,,Jade Note,,evidence/page-04.png
+p04L06,4,L,6,AirPrompter,,画像照合済み,,AirPrompter,,evidence/page-04.png
+p04L07,4,L,7,Agiflow,,画像照合済み,,Agiflow,,evidence/page-04.png
+p04L08,4,L,8,Sitemate,,画像照合済み,,Sitemate,,evidence/page-04.png
+p04L09,4,L,9,Nudges,,画像照合済み,,Nudges,,evidence/page-04.png
+p04L10,4,L,10,Walla,,画像照合済み,,Walla,,evidence/page-04.png
+p04L11,4,L,11,Compare Text,,画像照合済み,,Compare Text,,evidence/page-04.png
+p04L12,4,L,12,RoadOps,,画像照合済み,,RoadOps,,evidence/page-04.png
+p04L13,4,L,13,Moknah,,画像照合済み,,Moknah,,evidence/page-04.png
+p04L14,4,L,14,Promptbanken,,画像照合済み,,Promptbanken,,evidence/page-04.png
+p04L15,4,L,15,Tela,,画像照合済み,,Tela,,evidence/page-04.png
+p04L16,4,L,16,Idea To Prototype Beta,,画像照合済み,,Idea To Prototype Beta,,evidence/page-04.png
+p04L17,4,L,17,Outliner,,画像照合済み,,Outliner,,evidence/page-04.png
+p04L18,4,L,18,Fraghab,,画像照合済み,,Fraghab,,evidence/page-04.png
+p04L19,4,L,19,Lnk.Bio,,画像照合済み,,Lnk.Bio,,evidence/page-04.png
+p04L20,4,L,20,Smartsheet AU,,画像照合済み,,Smartsheet AU,,evidence/page-04.png
+p04L21,4,L,21,Post Metadata Extractor,,画像照合済み,,Post Metadata Extractor,,evidence/page-04.png
+p04L22,4,L,22,NYCU Library,,画像照合済み,,NYCU Library,,evidence/page-04.png
+p04L23,4,L,23,Octen,,画像照合済み,,Octen,,evidence/page-04.png
+p04L24,4,L,24,Chat2Doc,,画像照合済み,,Chat2Doc,,evidence/page-04.png
+p04L25,4,L,25,Ladder Pick,,画像照合済み,,Ladder Pick,,evidence/page-04.png
+p04L26,4,L,26,A-Z Links: Easily view sources,,画像照合済み,,A-Z Links: Easily view sources,,evidence/page-04.png
+p04L27,4,L,27,Decktopus AI,,画像照合済み,,Decktopus Al,,evidence/page-04.png
+p04L28,4,L,28,Call Me,,画像照合済み,,Call Me,,evidence/page-04.png
+p04L29,4,L,29,Listen Later,,画像照合済み,,Listen Later,,evidence/page-04.png
+p04L30,4,L,30,Youanai,,画像照合済み,,Youanai,,evidence/page-04.png
+p04L31,4,L,31,SlideSpeak,,画像照合済み,,SlideSpeak,,evidence/page-04.png
+p04L32,4,L,32,ChatData Sync,,画像照合済み,,ChatData Sync,,evidence/page-04.png
+p04L33,4,L,33,Zeiko Agents,,画像照合済み,,Zeiko Agents,,evidence/page-04.png
+p04L34,4,L,34,withPICA,,画像照合済み,,withPICA,,evidence/page-04.png
+p04L35,4,L,35,Dijin Memory,,画像照合済み,,Dijin Memory,,evidence/page-04.png
+p04L36,4,L,36,Formbyte,,画像照合済み,,Formbyte,,evidence/page-04.png
+p04L37,4,L,37,There's An AI For That,,画像照合済み,,There's An Al For That,,evidence/page-04.png
+p04L38,4,L,38,dochost.io,,画像照合済み,,dochost.io,,evidence/page-04.png
+p04L39,4,L,39,IMEI Checker by Kelpom,,画像照合済み,,IMEI Checker by Kelpom,,evidence/page-04.png
+p04L40,4,L,40,Speechdub,,画像照合済み,,Speechdub,,evidence/page-04.png
+p04L41,4,L,41,Markdown by mdedit.ai,,画像照合済み,,Markdown by mdedit.ai,,evidence/page-04.png
+p04L42,4,L,42,Product Listing Validator,,画像照合済み,,Product Listing Validator,,evidence/page-04.png
+p04L43,4,L,43,GovQuery,,画像照合済み,,GovQuery,,evidence/page-04.png
+p04L44,4,L,44,Weave,,画像照合済み,,Weave,,evidence/page-04.png
+p04L45,4,L,45,Is It Down? Availability Check,,画像照合済み,,Is It Down? Availability Check,,evidence/page-04.png
+p04L46,4,L,46,Sign.com,,画像照合済み,,Sign.com,,evidence/page-04.png
+p04R01,4,R,1,Genra Video Editor,,画像照合済み,,Genra Video Editor,,evidence/page-04.png
+p04R02,4,R,2,Content Brief Extractor,,画像照合済み,,Content Brief Extractor,,evidence/page-04.png
+p04R03,4,R,3,StoryChief,,画像照合済み,,StoryChief,,evidence/page-04.png
+p04R04,4,R,4,Dovetail,,画像照合済み,,Dovetail,,evidence/page-04.png
+p04R05,4,R,5,OctoEverywhere,,画像照合済み,,OctoEverywhere,,evidence/page-04.png
+p04R06,4,R,6,Context Link,,画像照合済み,,Context Link,,evidence/page-04.png
+p04R07,4,R,7,Meeting Summarizer,,画像照合済み,,Meeting Summarizer,,evidence/page-04.png
+p04R08,4,R,8,ShareWatch,,画像照合済み,,ShareWatch,,evidence/page-04.png
+p04R09,4,R,9,Super Carl,,画像照合済み,,Super Carl,,evidence/page-04.png
+p04R10,4,R,10,DeeplyClear,,画像照合済み,,DeeplyClear,,evidence/page-04.png
+p04R11,4,R,11,30 Minute Timer,,画像照合済み,,30 Minute Timer,,evidence/page-04.png
+p04R12,4,R,12,Truffle Journal,,画像照合済み,,Truffle Journal,,evidence/page-04.png
+p04R13,4,R,13,Humanizer,,画像照合済み,,Humanizer,,evidence/page-04.png
+p04R14,4,R,14,Clio,,画像照合済み,,Clio,,evidence/page-04.png
+p04R15,4,R,15,Floaro,,画像照合済み,,Floaro,,evidence/page-04.png
+p04R16,4,R,16,IQLand,,画像照合済み,,IQLand,,evidence/page-04.png
+p04R17,4,R,17,Codex Replay,,画像照合済み,,Codex Replay,,evidence/page-04.png
+p04R18,4,R,18,StorageChain,,画像照合済み,,StorageChain,,evidence/page-04.png
+p04R19,4,R,19,ToolMatch,,画像照合済み,,ToolMatch,,evidence/page-04.png
+p04R20,4,R,20,Jessie Script Director,,画像照合済み,,Jessie Script Director,,evidence/page-04.png
+p04R21,4,R,21,,RemindMelQ,要確認,RemindMeIQ / RemindMelQ の I と l の同定は要確認。,RemindMelQ,,evidence/page-04.png
+p04R22,4,R,22,Superlist,,画像照合済み,,Superlist,,evidence/page-04.png
+p04R23,4,R,23,DailyHero,,画像照合済み,,DailyHero,,evidence/page-04.png
+p04R24,4,R,24,mytesla.io,,画像照合済み,,mytesla.io,,evidence/page-04.png
+p04R25,4,R,25,iScanner,,画像照合済み,,iScanner,,evidence/page-04.png
+p04R26,4,R,26,DocuSeal,,画像照合済み,,DocuSeal,,evidence/page-04.png
+p04R27,4,R,27,Airepoto,,画像照合済み,,Airepoto,,evidence/page-04.png
+p04R28,4,R,28,CalendarBridge,,画像照合済み,,CalendarBridge,,evidence/page-04.png
+p04R29,4,R,29,Power BI Desktop,,画像照合済み,,Power BI Desktop,,evidence/page-04.png
+p04R30,4,R,30,Octopad,,画像照合済み,,Octopad,,evidence/page-04.png
+p04R31,4,R,31,Rize,,画像照合済み,,Rize,,evidence/page-04.png
+p04R32,4,R,32,Addness,,画像照合済み,,Addness,,evidence/page-04.png
+p04R33,4,R,33,Wistia,,画像照合済み,,Wistia,,evidence/page-04.png
+p04R34,4,R,34,Dillr,,画像照合済み,,Dillr,,evidence/page-04.png
+p04R35,4,R,35,Rebarly,,画像照合済み,,Rebarly,,evidence/page-04.png
+p04R36,4,R,36,Nuwa,,画像照合済み,,Nuwa,,evidence/page-04.png
+p04R37,4,R,37,Tallyfy Workflow Automation,,画像照合済み,,Tallyfy Workflow Automation,,evidence/page-04.png
+p04R38,4,R,38,Project Kickoff Pack,,画像照合済み,,Project Kickoff Pack,,evidence/page-04.png
+p04R39,4,R,39,Fyrebox,,画像照合済み,,Fyrebox,,evidence/page-04.png
+p04R40,4,R,40,AI Humanizer,,画像照合済み,,Al Humanizer,,evidence/page-04.png
+p04R41,4,R,41,,ScalperIntel AI,要確認,ScalperIntel AI / Scalperlntel AI の I と l の同定は要確認。,Scalperintel Al,,evidence/page-04.png
+p04R42,4,R,42,Contextick,,画像照合済み,,Contextick,,evidence/page-04.png
+p04R43,4,R,43,PostSyncer,,画像照合済み,,PostSyncer,,evidence/page-04.png
+p04R44,4,R,44,FormEdge,,画像照合済み,,FormEdge,,evidence/page-04.png
+p04R45,4,R,45,GramPrompt,,画像照合済み,,GramPrompt,,evidence/page-04.png
+p04R46,4,R,46,STORM Brains4Ai,,画像照合済み,,STORM Brains4Ai,,evidence/page-04.png
+p05L01,5,L,1,Sive.Host Domain Finder,,画像照合済み,,Sive.Host Domain Finder,,evidence/page-05.png
+p05L02,5,L,2,VaultSage,,画像照合済み,,VaultSage,,evidence/page-05.png
+p05L03,5,L,3,FlagStat,,画像照合済み,,FlagStat,,evidence/page-05.png
+p05L04,5,L,4,Graffiticode,,画像照合済み,,Graffiticode,,evidence/page-05.png
+p05L05,5,L,5,Esment,,画像照合済み,,Esment,,evidence/page-05.png
+p05L06,5,L,6,Hemelion,,画像照合済み,,Hemelion,,evidence/page-05.png
+p05L07,5,L,7,AI Humanizer,,画像照合済み,,Al Humanizer,,evidence/page-05.png
+p05L08,5,L,8,Ranked AI,,画像照合済み,,Ranked Al,,evidence/page-05.png
+p05L09,5,L,9,Modebase - Your Wardrobe,,画像照合済み,,Modebase - Your Wardrobe,,evidence/page-05.png
+p05L10,5,L,10,Document360,,画像照合済み,,Document360,,evidence/page-05.png
+p05L11,5,L,11,Rezi Resume Builder,,画像照合済み,,Rezi Resume Builder,,evidence/page-05.png
+p05L12,5,L,12,Clipform,,画像照合済み,,Clipform,,evidence/page-05.png
+p05L13,5,L,13,KDAN PDF,,画像照合済み,,KDAN PDF,,evidence/page-05.png
+p05L14,5,L,14,todo mate,,画像照合済み,,todo mate,,evidence/page-05.png
+p05L15,5,L,15,HG Insights - RGI,,画像照合済み,,HG Insights - RGI,,evidence/page-05.png
+p05L16,5,L,16,Shchebitka AI Planner,,画像照合済み,,Shchebitka Al Planner,,evidence/page-05.png
+p05L17,5,L,17,Traspion,,画像照合済み,,Traspion,,evidence/page-05.png
+p05L18,5,L,18,CloudMindMaps,,画像照合済み,,CloudMindMaps,,evidence/page-05.png
+p05L19,5,L,19,CarVault,,画像照合済み,,CarVault,,evidence/page-05.png
+p05L20,5,L,20,VaDa Genius,,画像照合済み,,VaDa Genius,,evidence/page-05.png
+p05L21,5,L,21,KinicMemory,,画像照合済み,,KinicMemory,,evidence/page-05.png
+p05L22,5,L,22,TextExpander,,画像照合済み,,TextExpander,,evidence/page-05.png
+p05L23,5,L,23,HWPXkit,,画像照合済み,,HWPxkit,,evidence/page-05.png
+p05L24,5,L,24,DomainWisp,,画像照合済み,,DomainWisp,,evidence/page-05.png
+p05L25,5,L,25,PDF4me,,画像照合済み,,PDF4me,,evidence/page-05.png
+p05L26,5,L,26,Novelist,,画像照合済み,,Novelist,,evidence/page-05.png
+p05L27,5,L,27,Astral Orchestrator,,画像照合済み,,Astral Orchestrator,,evidence/page-05.png
+p05L28,5,L,28,Symbol,,画像照合済み,,Symbol,,evidence/page-05.png
+p05L29,5,L,29,Caipi,,画像照合済み,,Caipi,,evidence/page-05.png
+p05L30,5,L,30,F-AI Contract Template Finder,,画像照合済み,,F-Al Contract Template Finder,,evidence/page-05.png
+p05L31,5,L,31,CarMax Careers,,画像照合済み,,CarMax Careers,,evidence/page-05.png
+p05L32,5,L,32,RFP Response Checker,,画像照合済み,,RFP Response Checker,,evidence/page-05.png
+p05L33,5,L,33,Teleprompter.com,,画像照合済み,,Teleprompter.com,,evidence/page-05.png
+p05L34,5,L,34,Atlas Red Mind Map,,画像照合済み,,Atlas Red Mind Map,,evidence/page-05.png
+p05L35,5,L,35,FeedBoss,,画像照合済み,,FeedBoss,,evidence/page-05.png
+p05L36,5,L,36,Writing Assistant,,画像照合済み,,Writing Assistant,,evidence/page-05.png
+p05L37,5,L,37,Planday,,画像照合済み,,Planday,,evidence/page-05.png
+p05L38,5,L,38,6sense,,画像照合済み,,6sense,,evidence/page-05.png
+p05L39,5,L,39,Keypup,,画像照合済み,,Keypup,,evidence/page-05.png
+p05L40,5,L,40,Socra Cortex,,画像照合済み,,Socra Cortex,,evidence/page-05.png
+p05L41,5,L,41,Customer Info Validator,,画像照合済み,,Customer Info Validator,,evidence/page-05.png
+p05L42,5,L,42,Formester,,画像照合済み,,Formester,,evidence/page-05.png
+p05L43,5,L,43,FamilyWise HQ,,画像照合済み,,FamilyWise HQ,,evidence/page-05.png
+p05L44,5,L,44,Talonic,,画像照合済み,,Talonic,,evidence/page-05.png
+p05L45,5,L,45,Sistema Experto PPT,,画像照合済み,,Sistema Experto PPT,,evidence/page-05.png
+p05L46,5,L,46,RuleFoundry,,画像照合済み,,RuleFoundry,,evidence/page-05.png
+p05R01,5,R,1,Spoki,,画像照合済み,,Spoki,,evidence/page-05.png
+p05R02,5,R,2,Tenet Careers,,画像照合済み,,Tenet Careers,,evidence/page-05.png
+p05R03,5,R,3,Pocket Informant,,画像照合済み,,Pocket Informant,,evidence/page-05.png
+p05R04,5,R,4,Codelit,,画像照合済み,,Codelit,,evidence/page-05.png
+p05R05,5,R,5,99Tables,,画像照合済み,,99Tables,,evidence/page-05.png
+p05R06,5,R,6,GigHQ.ai,,画像照合済み,,GigHQ.ai,,evidence/page-05.png
+p05R07,5,R,7,Presentation Maker,,画像照合済み,,Presentation Maker,,evidence/page-05.png
+p05R08,5,R,8,DataFlowr,,画像照合済み,,DataFlowr,,evidence/page-05.png
+p05R09,5,R,9,Project Plan 365,,画像照合済み,,Project Plan 365,,evidence/page-05.png
+p05R10,5,R,10,PeopleRun AI v.2,,画像照合済み,,PeopleRun Al v.2,,evidence/page-05.png
+p05R11,5,R,11,Memco Shared Memory,,画像照合済み,,Memco Shared Memory,,evidence/page-05.png
+p05R12,5,R,12,StarryKit,,画像照合済み,,StarryKit,,evidence/page-05.png
+p05R13,5,R,13,Instrumentl,,画像照合済み,,Instrumentl,,evidence/page-05.png
+p05R14,5,R,14,Jotter,,画像照合済み,,Jotter,,evidence/page-05.png
+p05R15,5,R,15,Priority Guardian,,画像照合済み,,Priority Guardian,,evidence/page-05.png
+p05R16,5,R,16,CoachPilot,,画像照合済み,,CoachPilot,,evidence/page-05.png
+p05R17,5,R,17,JobIQ Jobsuche,,画像照合済み,,JobIQ Jobsuche,,evidence/page-05.png
+p05R18,5,R,18,Stable Baseline,,画像照合済み,,Stable Baseline,,evidence/page-05.png
+p05R19,5,R,19,Upfluence,,画像照合済み,,Upfluence,,evidence/page-05.png
+p05R20,5,R,20,CodeQR - Link and QR Analytics,,画像照合済み,,CodeQR - Link and QR Analytics,,evidence/page-05.png
+p05R21,5,R,21,Pelaris,,画像照合済み,,Pelaris,,evidence/page-05.png
+p05R22,5,R,22,Chop it,,画像照合済み,,Chop it,,evidence/page-05.png
+p05R23,5,R,23,Edito-Pdf,,画像照合済み,,Edito-Pdf,,evidence/page-05.png
+p05R24,5,R,24,MyAreaReport,,画像照合済み,,MyAreaReport,,evidence/page-05.png
+p05R25,5,R,25,VoiceCursor Dictionary,,画像照合済み,,VoiceCursor Dictionary,,evidence/page-05.png
+p05R26,5,R,26,Wolfee,,画像照合済み,,Wolfee,,evidence/page-05.png
+p05R27,5,R,27,Proposal.Biz,,画像照合済み,,Proposal.Biz,,evidence/page-05.png
+p05R28,5,R,28,Codex Dev Workflows,,画像照合済み,,Codex Dev Workflows,,evidence/page-05.png
+p05R29,5,R,29,Glance,,画像照合済み,,Glance,,evidence/page-05.png
+p05R30,5,R,30,Markup AI,,画像照合済み,,Markup Al,,evidence/page-05.png
+p05R31,5,R,31,Cleared Colorado Jobs,,画像照合済み,,Cleared Colorado Jobs,,evidence/page-05.png
+p05R32,5,R,32,MotionHub,,画像照合済み,,MotionHub,,evidence/page-05.png
+p05R33,5,R,33,Diverge,,画像照合済み,,Diverge,,evidence/page-05.png
+p05R34,5,R,34,AI App Readiness Checker,,画像照合済み,,Al App Readiness Checker,,evidence/page-05.png
+p05R35,5,R,35,Squish,,画像照合済み,,Squish,,evidence/page-05.png
+p05R36,5,R,36,OmceanBooking,,画像照合済み,,OmceanBooking,,evidence/page-05.png
+p05R37,5,R,37,Form Field Extractor,,画像照合済み,,Form Field Extractor,,evidence/page-05.png
+p05R38,5,R,38,lolcv,,画像照合済み,,lolcv,,evidence/page-05.png
+p05R39,5,R,39,Ragic,,画像照合済み,,Ragic,,evidence/page-05.png
+p05R40,5,R,40,Fellow.ai,,画像照合済み,,Fellow.ai,,evidence/page-05.png
+p05R41,5,R,41,Juridata,,画像照合済み,,Juridata,,evidence/page-05.png
+p05R42,5,R,42,Newton Mail,,画像照合済み,,Newton Mail,,evidence/page-05.png
+p05R43,5,R,43,Research & Writing Copilot,,画像照合済み,,Research & Writing Copilot,,evidence/page-05.png
+p05R44,5,R,44,iitjobs,,画像照合済み,,litjobs,,evidence/page-05.png
+p05R45,5,R,45,Guides,,画像照合済み,,Guides,,evidence/page-05.png
+p05R46,5,R,46,Timezone Buddy,,画像照合済み,,Timezone Buddy,,evidence/page-05.png
+p06L01,6,L,1,Alteryx Insights,,画像照合済み,ページ上端を境界05の連結画像で確認。,Alteryx Insights,,evidence/page-06.png
+p06L02,6,L,2,Memocore,,画像照合済み,,Memocore,,evidence/page-06.png
+p06L03,6,L,3,Hubstaff,,画像照合済み,,Hubstaff,,evidence/page-06.png
+p06L04,6,L,4,Partoska,,画像照合済み,,Partoska,,evidence/page-06.png
+p06L05,6,L,5,Lyssna,,画像照合済み,,Lyssna,,evidence/page-06.png
+p06L06,6,L,6,ReverseGPT,,画像照合済み,,ReverseGPT,,evidence/page-06.png
+p06L07,6,L,7,memorystore.in,,画像照合済み,,memorystore.in,,evidence/page-06.png
+p06L08,6,L,8,Release Notes Coverage Checker,,画像照合済み,,Release Notes Coverage Checker,,evidence/page-06.png
+p06L09,6,L,9,CrowdHum,,画像照合済み,,CrowdHum,,evidence/page-06.png
+p06L10,6,L,10,Supermemory,,画像照合済み,,Supermemory,,evidence/page-06.png
+p06L11,6,L,11,Yaps Transcription,,画像照合済み,,Yaps Transcription,,evidence/page-06.png
+p06L12,6,L,12,Atlas AI Agent,,画像照合済み,,Atlas Al Agent,,evidence/page-06.png
+p06L13,6,L,13,Constructable,,画像照合済み,,Constructable,,evidence/page-06.png
+p06L14,6,L,14,Zentrik,,画像照合済み,,Zentrik,,evidence/page-06.png
+p06L15,6,L,15,Jaggle,,画像照合済み,,Jaggle,,evidence/page-06.png
+p06L16,6,L,16,CoDiscover,,画像照合済み,,CoDiscover,,evidence/page-06.png
+p06L17,6,L,17,Temponia,,画像照合済み,,Temponia,,evidence/page-06.png
+p06L18,6,L,18,NextClip,,画像照合済み,,NextClip,,evidence/page-06.png
+p06L19,6,L,19,DocHub,,画像照合済み,,DocHub,,evidence/page-06.png
+p06L20,6,L,20,1to1 Mate,,画像照合済み,,1to1 Mate,,evidence/page-06.png
+p06L21,6,L,21,AnyConversion- Imperial/Metric,,画像照合済み,,AnyConversion- Imperial/Metric,,evidence/page-06.png
+p06L22,6,L,22,Togello,,画像照合済み,,Togello,,evidence/page-06.png
+p06L23,6,L,23,stierproducts,,画像照合済み,,stierproducts,,evidence/page-06.png
+p06L24,6,L,24,Mosaiq Labs,,画像照合済み,,Mosaigq Labs,,evidence/page-06.png
+p06L25,6,L,25,Transcribe Audio with Whisper,,画像照合済み,,Transcribe Audio with Whisper,,evidence/page-06.png
+p06L26,6,L,26,OSuite.ai,,画像照合済み,,OSuite.ai,,evidence/page-06.png
+p06L27,6,L,27,Responsive,,画像照合済み,,Responsive,,evidence/page-06.png
+p06L28,6,L,28,OnceHub,,画像照合済み,,OnceHub,,evidence/page-06.png
+p06L29,6,L,29,Aphex,,画像照合済み,,Aphex,,evidence/page-06.png
+p06L30,6,L,30,MeisterTask,,画像照合済み,,MeisterTask,,evidence/page-06.png
+p06L31,6,L,31,Cinch,,画像照合済み,,Cinch,,evidence/page-06.png
+p06L32,6,L,32,Bitly,,画像照合済み,,Bitly,,evidence/page-06.png
+p06L33,6,L,33,Mallary,,画像照合済み,,Mallary,,evidence/page-06.png
+p06L34,6,L,34,NivaDesk,,画像照合済み,,NivaDesk,,evidence/page-06.png
+p06L35,6,L,35,PostFast,,画像照合済み,,PostFast,,evidence/page-06.png
+p06L36,6,L,36,Oi,,画像照合済み,,Oi,,evidence/page-06.png
+p06L37,6,L,37,Userbrain,,画像照合済み,,Userbrain,,evidence/page-06.png
+p06L38,6,L,38,22 Skills,,画像照合済み,,22 Skills,,evidence/page-06.png
+p06L39,6,L,39,Algolia Productivity,,画像照合済み,,Algolia Productivity,,evidence/page-06.png
+p06L40,6,L,40,VDClip,,画像照合済み,,VDClip,,evidence/page-06.png
+p06L41,6,L,41,Genviral,,画像照合済み,,Genviral,,evidence/page-06.png
+p06L42,6,L,42,MeetNotes,,画像照合済み,,MeetNotes,,evidence/page-06.png
+p06L43,6,L,43,TEAM 30 — AI Company OS,,画像照合済み,,TEAM 30 — Al Company OS,,evidence/page-06.png
+p06L44,6,L,44,the brand id,,画像照合済み,,the brand id,,evidence/page-06.png
+p06L45,6,L,45,Storydoc,,画像照合済み,,Storydoc,,evidence/page-06.png
+p06L46,6,L,46,SocialHub,,画像照合済み,,SocialHub,,evidence/page-06.png
+p06L47,6,L,47,HOUSE ‘N’ STARS,,画像照合済み,,HOUSE ‘N’ STARS,,evidence/page-06.png
+p06R01,6,R,1,Linko,,画像照合済み,ページ上端を境界05の連結画像で確認。,Linko,,evidence/page-06.png
+p06R02,6,R,2,BrightHire,,画像照合済み,,BrightHire,,evidence/page-06.png
+p06R03,6,R,3,,SavedIt,要確認,SavedIt / Savedlt / Savedit の大文字小文字と I/l は要確認。,Savedit,,evidence/page-06.png
+p06R04,6,R,4,Contract Information Extractor,,画像照合済み,,Contract Information Extractor,,evidence/page-06.png
+p06R05,6,R,5,Weft,,画像照合済み,,Weft,,evidence/page-06.png
+p06R06,6,R,6,anew,,画像照合済み,,anew,,evidence/page-06.png
+p06R07,6,R,7,Czy Jest Eldorado?,,画像照合済み,,Czy Jest Eldorado?,,evidence/page-06.png
+p06R08,6,R,8,F-AI: Contract Review,,画像照合済み,,F-Al: Contract Review,,evidence/page-06.png
+p06R09,6,R,9,Dovetail Regulatory,,画像照合済み,,Dovetail Regulatory,,evidence/page-06.png
+p06R10,6,R,10,RescueTime,,画像照合済み,,RescueTime,,evidence/page-06.png
+p06R11,6,R,11,BuildBetter.ai,,画像照合済み,,BuildBetter.ai,,evidence/page-06.png
+p06R12,6,R,12,Onplana,,画像照合済み,,Onplana,,evidence/page-06.png
+p06R13,6,R,13,Jamie,,画像照合済み,,Jamie,,evidence/page-06.png
+p06R14,6,R,14,Spreadsheet Human UX,,画像照合済み,,Spreadsheet Human UX,,evidence/page-06.png
+p06R15,6,R,15,HaitiDocs,,画像照合済み,,HaitiDocs,,evidence/page-06.png
+p06R16,6,R,16,RaidRunner,,画像照合済み,,RaidRunner,,evidence/page-06.png
+p06R17,6,R,17,Userflow,,画像照合済み,,Userflow,,evidence/page-06.png
+p06R18,6,R,18,Bitmovin,,画像照合済み,,Bitmovin,,evidence/page-06.png
+p06R19,6,R,19,Paper Interpreter (Japanese),,画像照合済み,,Paper Interpreter (Japanese),,evidence/page-06.png
+p06R20,6,R,20,Slidely,,画像照合済み,,Slidely,,evidence/page-06.png
+p06R21,6,R,21,targetjobs,,画像照合済み,,targetjobs,,evidence/page-06.png
+p06R22,6,R,22,CodeWords,,画像照合済み,,CodeWords,,evidence/page-06.png
+p06R23,6,R,23,SourcePRD,,画像照合済み,,SourcePRD,,evidence/page-06.png
+p06R24,6,R,24,Write For Me,,画像照合済み,,Write For Me,,evidence/page-06.png
+p06R25,6,R,25,Native Soil,,画像照合済み,,Native Soil,,evidence/page-06.png
+p06R26,6,R,26,Voarq,,画像照合済み,,Voarg,,evidence/page-06.png
+p06R27,6,R,27,table,,画像照合済み,,table,,evidence/page-06.png
+p06R28,6,R,28,Photo Metadata Remover,,画像照合済み,,Photo Metadata Remover,,evidence/page-06.png
+p06R29,6,R,29,Formspry,,画像照合済み,,Formspry,,evidence/page-06.png
+p06R30,6,R,30,Breeze,,画像照合済み,,Breeze,,evidence/page-06.png
+p06R31,6,R,31,PingPrompt,,画像照合済み,,PingPrompt,,evidence/page-06.png
+p06R32,6,R,32,CiteLaw,,画像照合済み,,CiteLaw,,evidence/page-06.png
+p06R33,6,R,33,iCloud Calendar,,画像照合済み,,iCloud Calendar,,evidence/page-06.png
+p06R34,6,R,34,COR,,画像照合済み,,COR,,evidence/page-06.png
+p06R35,6,R,35,Namp,,画像照合済み,,Namp,,evidence/page-06.png
+p06R36,6,R,36,tugesto,,画像照合済み,,tugesto,,evidence/page-06.png
+p06R37,6,R,37,PlatoForms,,画像照合済み,,PlatoForms,,evidence/page-06.png
+p06R38,6,R,38,SEO&OH AI,,画像照合済み,,SEO&OH Al,,evidence/page-06.png
+p06R39,6,R,39,Private PDF Tools,,画像照合済み,,Private PDF Tools,,evidence/page-06.png
+p06R40,6,R,40,Deep Document Search,,画像照合済み,,Deep Document Search,,evidence/page-06.png
+p06R41,6,R,41,Discipline Rewards (D/R),,画像照合済み,,Discipline Rewards (D/R),,evidence/page-06.png
+p06R42,6,R,42,Specter Systems,,画像照合済み,,Specter Systems,,evidence/page-06.png
+p06R43,6,R,43,Grok Bot Control,,画像照合済み,,Grok Bot Control,,evidence/page-06.png
+p06R44,6,R,44,Runa,,画像照合済み,,Runa,,evidence/page-06.png
+p06R45,6,R,45,SuperIntern,,画像照合済み,,Superintern,,evidence/page-06.png
+p06R46,6,R,46,Buildory,,画像照合済み,,Buildory,,evidence/page-06.png
+p06R47,6,R,47,Resume Builder,,画像照合済み,,Resume Builder,,evidence/page-06.png
+p07L01,7,L,1,LlamaParse,,画像照合済み,,LlamaParse,,evidence/page-07.png
+p07L02,7,L,2,HyNote,,画像照合済み,,HyNote,,evidence/page-07.png
+p07L03,7,L,3,Hive,,画像照合済み,,Hive,,evidence/page-07.png
+p07L04,7,L,4,,elgreja,要確認,eIgreja / elgreja の I と l は要確認。,elgreja,,evidence/page-07.png
+p07L05,7,L,5,LinkedIn Animated Infographics,,画像照合済み,,Linkedin Animated Infographics,,evidence/page-07.png
+p07L06,7,L,6,Hydrosight,,画像照合済み,,Hydrosight,,evidence/page-07.png
+p07L07,7,L,7,Gumnut Photos,,画像照合済み,,Gumnut Photos,,evidence/page-07.png
+p07L08,7,L,8,Bravos AI,,画像照合済み,,Bravos Al,,evidence/page-07.png
+p07L09,7,L,9,Alta,,画像照合済み,,Alta,,evidence/page-07.png
+p07L10,7,L,10,Support Ticket Validator,,画像照合済み,,Support Ticket Validator,,evidence/page-07.png
+p07L11,7,L,11,Signeasy,,画像照合済み,,Signeasy,,evidence/page-07.png
+p07L12,7,L,12,Yaps Text to Speech,,画像照合済み,,Yaps Text to Speech,,evidence/page-07.png
+p07L13,7,L,13,Lara Translate,,画像照合済み,,Lara Translate,,evidence/page-07.png
+p07L14,7,L,14,FORTVISION,,画像照合済み,,FORTVISION,,evidence/page-07.png
+p07L15,7,L,15,Delivery Report Extractor,,画像照合済み,,Delivery Report Extractor,,evidence/page-07.png
+p07L16,7,L,16,MemStore,,画像照合済み,,MemStore,,evidence/page-07.png
+p07L17,7,L,17,GPS-Ortung24,,画像照合済み,,GPS-Ortung24,,evidence/page-07.png
+p07L18,7,L,18,My AskAI,,画像照合済み,,My AskAI,,evidence/page-07.png
+p07L19,7,L,19,Yipai,,画像照合済み,,Yipai,,evidence/page-07.png
+p07L20,7,L,20,esigner,,画像照合済み,,esigner,,evidence/page-07.png
+p07L21,7,L,21,VesselTwin,,画像照合済み,,VesselTwin,,evidence/page-07.png
+p07L22,7,L,22,Jackpot,,画像照合済み,,Jackpot,,evidence/page-07.png
+p07L23,7,L,23,MasterAudit,,画像照合済み,,MasterAudit,,evidence/page-07.png
+p07L24,7,L,24,Dispensa: lista de compras,,画像照合済み,,Dispensa: lista de compras,,evidence/page-07.png
+p07L25,7,L,25,Coverlttr,,画像照合済み,,Coverlttr,,evidence/page-07.png
+p07L26,7,L,26,Trackunit IrisX,,画像照合済み,,Trackunit IrisX,,evidence/page-07.png
+p07L27,7,L,27,AI TeamsMaestro,,画像照合済み,,Al TeamsMaestro,,evidence/page-07.png
+p07L28,7,L,28,HA Interaction Audit,,画像照合済み,,HA Interaction Audit,,evidence/page-07.png
+p07L29,7,L,29,GoSearch,,画像照合済み,,GoSearch,,evidence/page-07.png
+p07L30,7,L,30,AIOProductOS,,画像照合済み,,AlOProductOS,,evidence/page-07.png
+p07L31,7,L,31,Acceptance Criteria Extractor,,画像照合済み,,Acceptance Criteria Extractor,,evidence/page-07.png
+p07L32,7,L,32,La Pyme,,画像照合済み,,La Pyme,,evidence/page-07.png
+p07L33,7,L,33,AltEditais,,画像照合済み,,AltEditais,,evidence/page-07.png
+p07L34,7,L,34,Simply-Useful,,画像照合済み,,Simply-Useful,,evidence/page-07.png
+p07L35,7,L,35,Narrareach,,画像照合済み,,Narrareach,,evidence/page-07.png
+p07L36,7,L,36,HYBRD,,画像照合済み,,HYBRD,,evidence/page-07.png
+p07L37,7,L,37,Tenzo AI MCP,,画像照合済み,,Tenzo Al MCP,,evidence/page-07.png
+p07L38,7,L,38,Adagio,,画像照合済み,,Adagio,,evidence/page-07.png
+p07L39,7,L,39,Page2Al,,画像照合済み,,Page2Al,,evidence/page-07.png
+p07L40,7,L,40,BidBuilder,,画像照合済み,,BidBuilder,,evidence/page-07.png
+p07L41,7,L,41,QRStuff,,画像照合済み,,QRStuff,,evidence/page-07.png
+p07L42,7,L,42,Redpine,,画像照合済み,,Redpine,,evidence/page-07.png
+p07L43,7,L,43,Creator Workspace,,画像照合済み,,Creator Workspace,,evidence/page-07.png
+p07L44,7,L,44,gradireland,,画像照合済み,,gradireland,,evidence/page-07.png
+p07L45,7,L,45,Website Builder,,画像照合済み,,Website Builder,,evidence/page-07.png
+p07L46,7,L,46,AllEars.Vet,,画像照合済み,,AllEars.Vet,,evidence/page-07.png
+p07R01,7,R,1,Pocket Bartender,,画像照合済み,,Pocket Bartender,,evidence/page-07.png
+p07R02,7,R,2,CopyCharm,,画像照合済み,,CopyCharm,,evidence/page-07.png
+p07R03,7,R,3,Vibe AI,,画像照合済み,,Vibe Al,,evidence/page-07.png
+p07R04,7,R,4,Grammar Checker,,画像照合済み,,Grammar Checker,,evidence/page-07.png
+p07R05,7,R,5,ShotPulled,,画像照合済み,,ShotPulled,,evidence/page-07.png
+p07R06,7,R,6,fairw.ai,,画像照合済み,,fairw.ai,,evidence/page-07.png
+p07R07,7,R,7,PracticPro,,画像照合済み,,PracticPro,,evidence/page-07.png
+p07R08,7,R,8,Axis,,画像照合済み,,Axis,,evidence/page-07.png
+p07R09,7,R,9,Free Marathi Biodata Maker,,画像照合済み,,Free Marathi Biodata Maker,,evidence/page-07.png
+p07R10,7,R,10,TracX Logis,,画像照合済み,,TracX Logis,,evidence/page-07.png
+p07R11,7,R,11,Sydium,,画像照合済み,,Sydium,,evidence/page-07.png
+p07R12,7,R,12,Consult with Roy,,画像照合済み,,Consult with Roy,,evidence/page-07.png
+p07R13,7,R,13,Concept Workspace,,画像照合済み,,Concept Workspace,,evidence/page-07.png
+p07R14,7,R,14,Avoid AI Writing,,画像照合済み,,Avoid Al Writing,,evidence/page-07.png
+p07R15,7,R,15,Rox,,画像照合済み,,Rox,,evidence/page-07.png
+p07R16,7,R,16,Humanização de Texto,,画像照合済み,,Humanizacao de Texto,,evidence/page-07.png
+p07R17,7,R,17,A Seat Awaits,,画像照合済み,,A Seat Awaits,,evidence/page-07.png
+p07R18,7,R,18,CI HUB,,画像照合済み,,Cl HUB,,evidence/page-07.png
+p07R19,7,R,19,Skyvern,,画像照合済み,,Skyvern,,evidence/page-07.png
+p07R20,7,R,20,Cribly,,画像照合済み,,Cribly,,evidence/page-07.png
+p07R21,7,R,21,PDF to Editable PowerPoint,,画像照合済み,,PDF to Editable PowerPoint,,evidence/page-07.png
+p07R22,7,R,22,Docket,,画像照合済み,,Docket,,evidence/page-07.png
+p07R23,7,R,23,ArtifactBridge,,画像照合済み,,ArtifactBridge,,evidence/page-07.png
+p07R24,7,R,24,Xenition,,画像照合済み,,Xenition,,evidence/page-07.png
+p07R25,7,R,25,Weekloop,,画像照合済み,,Weekloop,,evidence/page-07.png
+p07R26,7,R,26,Arkon Vault,,画像照合済み,,Arkon Vault,,evidence/page-07.png
+p07R27,7,R,27,Accurate Translation,,画像照合済み,,Accurate Translation,,evidence/page-07.png
+p07R28,7,R,28,Mural,,画像照合済み,,Mural,,evidence/page-07.png
+p07R29,7,R,29,Joby by joblet,,画像照合済み,,Joby by joblet,,evidence/page-07.png
+p07R30,7,R,30,Transcript LOL,,画像照合済み,,Transcript LOL,,evidence/page-07.png
+p07R31,7,R,31,Word in Chat,,画像照合済み,,Word in Chat,,evidence/page-07.png
+p07R32,7,R,32,Roux,,画像照合済み,,Roux,,evidence/page-07.png
+p07R33,7,R,33,JobsDXB.com,,画像照合済み,,JobsDXB.com,,evidence/page-07.png
+p07R34,7,R,34,Word Counter,,画像照合済み,,Word Counter,,evidence/page-07.png
+p07R35,7,R,35,TubeCue,,画像照合済み,,TubeCue,,evidence/page-07.png
+p07R36,7,R,36,FunkyTime,,画像照合済み,,FunkyTime,,evidence/page-07.png
+p07R37,7,R,37,GoLinks,,画像照合済み,,GoLinks,,evidence/page-07.png
+p07R38,7,R,38,Mes Immo - Mes VO,,画像照合済み,,Mes Immo - Mes VO,,evidence/page-07.png
+p07R39,7,R,39,NotoScribe,,画像照合済み,,NotoScribe,,evidence/page-07.png
+p07R40,7,R,40,TimePeace — Daily Log,,画像照合済み,,TimePeace — Daily Log,,evidence/page-07.png
+p07R41,7,R,41,Codex Coordinator,,画像照合済み,,Codex Coordinator,,evidence/page-07.png
+p07R42,7,R,42,decisionpoint.io,,画像照合済み,,decisionpoint.io,,evidence/page-07.png
+p07R43,7,R,43,Fluent,,画像照合済み,,Fluent,,evidence/page-07.png
+p07R44,7,R,44,Tako,,画像照合済み,,Tako,,evidence/page-07.png
+p07R45,7,R,45,AI Meta Ads by Coach Adam,,画像照合済み,,Al Meta Ads by Coach Adam,,evidence/page-07.png
+p07R46,7,R,46,NoClick,,画像照合済み,,NoClick,,evidence/page-07.png
+p08L01,8,L,1,Arabic DOCX RTL,,画像照合済み,,Arabic DOCX RTL,,evidence/page-08.png
+p08L02,8,L,2,Navan,,画像照合済み,,Navan,,evidence/page-08.png
+p08L03,8,L,3,DealKeep,,画像照合済み,,DealKeep,,evidence/page-08.png
+p08L04,8,L,4,Prompt Machine 6 ⚡,,画像照合済み,末尾の稲妻の絵記号を保持。絵文字のvariation selectorは画像では特定できない。,Prompt Machine 6 4,,evidence/page-08.png
+p08L05,8,L,5,Flatre,,画像照合済み,,Flatre,,evidence/page-08.png
+p08L06,8,L,6,Claus Argos Skill OS,,画像照合済み,,Claus Argos Skill OS,,evidence/page-08.png
+p08L07,8,L,7,PostPlanify,,画像照合済み,,PostPlanify,,evidence/page-08.png
+p08L08,8,L,8,Robotomail,,画像照合済み,,Robotomail,,evidence/page-08.png
+p08L09,8,L,9,Memova.ai,,画像照合済み,,Memova.ai,,evidence/page-08.png
+p08L10,8,L,10,PDF Document Maker,,画像照合済み,,PDF Document Maker,,evidence/page-08.png
+p08L11,8,L,11,Hero by Vivun,,画像照合済み,,Hero by Vivun,,evidence/page-08.png
+p08L12,8,L,12,Neural Analog,,画像照合済み,,Neural Analog,,evidence/page-08.png
+p08L13,8,L,13,UGC Script Builder,,画像照合済み,,UGC Script Builder,,evidence/page-08.png
+p08L14,8,L,14,Riido,,画像照合済み,,Riido,,evidence/page-08.png
+p08L15,8,L,15,AgentBroko,,画像照合済み,,AgentBroko,,evidence/page-08.png
+p08L16,8,L,16,Channel99,,画像照合済み,,Channel99,,evidence/page-08.png
+p08L17,8,L,17,Lexplorer Swiss Law Research,,画像照合済み,,Lexplorer Swiss Law Research,,evidence/page-08.png
+p08L18,8,L,18,timr,,画像照合済み,,timr,,evidence/page-08.png
+p08L19,8,L,19,DeerDawn,,画像照合済み,,DeerDawn,,evidence/page-08.png
+p08L20,8,L,20,Ideaflow,,画像照合済み,,Ideaflow,,evidence/page-08.png
+p08L21,8,L,21,Worldwide Remote Job Search,,画像照合済み,,Worldwide Remote Job Search,,evidence/page-08.png
+p08L22,8,L,22,GoodMem,,画像照合済み,,GoodMem,,evidence/page-08.png
+p08L23,8,L,23,StewAI,,画像照合済み,,StewAl,,evidence/page-08.png
+p08L24,8,L,24,VITALS,,画像照合済み,,VITALS,,evidence/page-08.png
+p08L25,8,L,25,Pallyy,,画像照合済み,,Pallyy,,evidence/page-08.png
+p08L26,8,L,26,Universal Summarizer,,画像照合済み,,Universal Summarizer,,evidence/page-08.png
+p08L27,8,L,27,Ambiguous Workspace,,画像照合済み,,Ambiguous Workspace,,evidence/page-08.png
+p08L28,8,L,28,Klee,,画像照合済み,,Klee,,evidence/page-08.png
+p08L29,8,L,29,Quok,,画像照合済み,,Quok,,evidence/page-08.png
+p08L30,8,L,30,PolyBlog Blog Builder,,画像照合済み,,PolyBlog Blog Builder,,evidence/page-08.png
+p08L31,8,L,31,Frase,,画像照合済み,,Frase,,evidence/page-08.png
+p08L32,8,L,32,Compound Writing,,画像照合済み,,Compound Writing,,evidence/page-08.png
+p08L33,8,L,33,HighQ,,画像照合済み,,HighQ,,evidence/page-08.png
+p08L34,8,L,34,Music as Code,,画像照合済み,,Music as Code,,evidence/page-08.png
+p08L35,8,L,35,Whalesync,,画像照合済み,,Whalesync,,evidence/page-08.png
+p08L36,8,L,36,iManage Work,,画像照合済み,,iManage Work,,evidence/page-08.png
+p08L37,8,L,37,RiverScript,,画像照合済み,,RiverScript,,evidence/page-08.png
+p08L38,8,L,38,ru-text,,画像照合済み,,ru-text,,evidence/page-08.png
+p08L39,8,L,39,BauLedger,,画像照合済み,,BauLedger,,evidence/page-08.png
+p08L40,8,L,40,Flux Control,,画像照合済み,,Flux Control,,evidence/page-08.png
+p08L41,8,L,41,Voltformer,,画像照合済み,,Voltformer,,evidence/page-08.png
+p08L42,8,L,42,Empire LLM for Codex,,画像照合済み,,Empire LLM for Codex,,evidence/page-08.png
+p08L43,8,L,43,Lucia,,画像照合済み,,Lucia,,evidence/page-08.png
+p08L44,8,L,44,Kemory,,画像照合済み,,Kemory,,evidence/page-08.png
+p08L45,8,L,45,RadarJobs,,画像照合済み,,RadarJobs,,evidence/page-08.png
+p08L46,8,L,46,Versionly,,画像照合済み,,Versionly,,evidence/page-08.png
+p08R01,8,R,1,Dayalogs,,画像照合済み,,Dayalogs,,evidence/page-08.png
+p08R02,8,R,2,Chat With PDF,,画像照合済み,,Chat With PDF,,evidence/page-08.png
+p08R03,8,R,3,Giraffe,,画像照合済み,,Giraffe,,evidence/page-08.png
+p08R04,8,R,4,Recrutei,,画像照合済み,,Recrutei,,evidence/page-08.png
+p08R05,8,R,5,FilesAnywhere,,画像照合済み,,FilesAnywhere,,evidence/page-08.png
+p08R06,8,R,6,Repostit,,画像照合済み,,Repostit,,evidence/page-08.png
+p08R07,8,R,7,Find My Celebrity Look Alike,,画像照合済み,,Find My Celebrity Look Alike,,evidence/page-08.png
+p08R08,8,R,8,Joinways,,画像照合済み,,Joinways,,evidence/page-08.png
+p08R09,8,R,9,Nomad Helper,,画像照合済み,,Nomad Helper,,evidence/page-08.png
+p08R10,8,R,10,Session Exporter,,画像照合済み,,Session Exporter,,evidence/page-08.png
+p08R11,8,R,11,ClawCall,,画像照合済み,,ClawCall,,evidence/page-08.png
+p08R12,8,R,12,Lawtrades,,画像照合済み,,Lawtrades,,evidence/page-08.png
+p08R13,8,R,13,Kumbukum,,画像照合済み,,Kumbukum,,evidence/page-08.png
+p08R14,8,R,14,MockFlow,,画像照合済み,,MockFlow,,evidence/page-08.png
+p08R15,8,R,15,Axiomyx Personal,,画像照合済み,,Axiomyx Personal,,evidence/page-08.png
+p08R16,8,R,16,BulkPublish,,画像照合済み,,BulkPublish,,evidence/page-08.png
+p08R17,8,R,17,mfloow,,画像照合済み,,mfloow,,evidence/page-08.png
+p08R18,8,R,18,Sunate,,画像照合済み,,Sunate,,evidence/page-08.png
+p08R19,8,R,19,Amy Food Journal,,画像照合済み,,Amy Food Journal,,evidence/page-08.png
+p08R20,8,R,20,iCloud Mail,,画像照合済み,,iCloud Mail,,evidence/page-08.png
+p08R21,8,R,21,Ellie,,画像照合済み,,Ellie,,evidence/page-08.png
+p08R22,8,R,22,Reps: Gym Workout Log,,画像照合済み,,Reps: Gym Workout Log,,evidence/page-08.png
+p08R23,8,R,23,LinkedIn Text Styler,,画像照合済み,,LinkedIn Text Styler,,evidence/page-08.png
+p08R24,8,R,24,Scopture,,画像照合済み,,Scopture,,evidence/page-08.png
+p08R25,8,R,25,Mori,,画像照合済み,,Mori,,evidence/page-08.png
+p08R26,8,R,26,Remote Job Search — RVC,,画像照合済み,,Remote Job Search — RVC,,evidence/page-08.png
+p08R27,8,R,27,Pine Assistant,,画像照合済み,,Pine Assistant,,evidence/page-08.png
+p08R28,8,R,28,Cartly+,,画像照合済み,,Cartly+,,evidence/page-08.png
+p08R29,8,R,29,Izifete,,画像照合済み,,Izifete,,evidence/page-08.png
+p08R30,8,R,30,Textxt,,画像照合済み,,Textxt,,evidence/page-08.png
+p08R31,8,R,31,WOTT,,画像照合済み,,WOTT,,evidence/page-08.png
+p08R32,8,R,32,Bond,,画像照合済み,,Bond,,evidence/page-08.png
+p08R33,8,R,33,Pointer,,画像照合済み,,Pointer,,evidence/page-08.png
+p08R34,8,R,34,PR Completion,,画像照合済み,,PR Completion,,evidence/page-08.png
+p08R35,8,R,35,AnyDB,,画像照合済み,,AnyDB,,evidence/page-08.png
+p08R36,8,R,36,Figr,,画像照合済み,,Figr,,evidence/page-08.png
+p08R37,8,R,37,TaskView,,画像照合済み,,TaskView,,evidence/page-08.png
+p08R38,8,R,38,FALCON Verify,,画像照合済み,,FALCON Verify,,evidence/page-08.png
+p08R39,8,R,39,Dyslex.ai,,画像照合済み,,Dyslex.ai,,evidence/page-08.png
+p08R40,8,R,40,Aivana CIO Decision Twin,,画像照合済み,,Aivana CIO Decision Twin,,evidence/page-08.png
+p08R41,8,R,41,OrbitPage,,画像照合済み,,OrbitPage,,evidence/page-08.png
+p08R42,8,R,42,UserTold: AI User Research,,画像照合済み,,UserTold: Al User Research,,evidence/page-08.png
+p08R43,8,R,43,crosswalk,,画像照合済み,,crosswalk,,evidence/page-08.png
+p08R44,8,R,44,CherryDrop,,画像照合済み,,CherryDrop,,evidence/page-08.png
+p08R45,8,R,45,AI DevKit,,画像照合済み,,Al DevKit,,evidence/page-08.png
+p08R46,8,R,46,ELI5,,画像照合済み,,ELI5,,evidence/page-08.png
+p09L01,9,L,1,Verde,,画像照合済み,,Verde,,evidence/page-09.png
+p09L02,9,L,2,Demo Videos,,画像照合済み,,Demo Videos,,evidence/page-09.png
+p09L03,9,L,3,Axiomyx Mobile,,画像照合済み,,Axiomyx Mobile,,evidence/page-09.png
+p09L04,9,L,4,Fully SEO Optimized Articles,,画像照合済み,,Fully SEO Optimized Articles,,evidence/page-09.png
+p09L05,9,L,5,Elodus,,画像照合済み,,Elodus,,evidence/page-09.png
+p09L06,9,L,6,nefoliGIFT,,画像照合済み,,nefoliGIFT,,evidence/page-09.png
+p09L07,9,L,7,GoFloaters,,画像照合済み,,GoFloaters,,evidence/page-09.png
+p09L08,9,L,8,Fashion Wardrobe,,画像照合済み,,Fashion Wardrobe,,evidence/page-09.png
+p09L09,9,L,9,Gumroad,,画像照合済み,,Gumroad,,evidence/page-09.png
+p09L10,9,L,10,PitchBoost,,画像照合済み,,PitchBoost,,evidence/page-09.png
+p09L11,9,L,11,Configure Memory,,画像照合済み,,Configure Memory,,evidence/page-09.png
+p09L12,9,L,12,Patch CV,,画像照合済み,,Patch CV,,evidence/page-09.png
+p09L13,9,L,13,May or Shall,,画像照合済み,,May or Shall,,evidence/page-09.png
+p09L14,9,L,14,Short Circuit,,画像照合済み,,Short Circuit,,evidence/page-09.png
+p09L15,9,L,15,Frondy,,画像照合済み,,Frondy,,evidence/page-09.png
+p09L16,9,L,16,Memco Personal Memory,,画像照合済み,,Memco Personal Memory,,evidence/page-09.png
+p09L17,9,L,17,LegalQuants Litigation,,画像照合済み,,LegalQuants Litigation,,evidence/page-09.png
+p09L18,9,L,18,PACO Concierge,,画像照合済み,,PACO Concierge,,evidence/page-09.png
+p09L19,9,L,19,URL Shortener by A.af,,画像照合済み,,URL Shortener by A.af,,evidence/page-09.png
+p09L20,9,L,20,Plain Language,,画像照合済み,,Plain Language,,evidence/page-09.png
+p09L21,9,L,21,Signoapp,,画像照合済み,,Signoapp,,evidence/page-09.png
+p09L22,9,L,22,Emily by White Rabbit Foundry,,画像照合済み,,Emily by White Rabbit Foundry,,evidence/page-09.png
+p09L23,9,L,23,REPS Time,,画像照合済み,,REPS Time,,evidence/page-09.png
+p09L24,9,L,24,Väderarkivets väderassistent,,画像照合済み,,Vaderarkivets vaderassistent,,evidence/page-09.png
+p09L25,9,L,25,Muslim Prayer Reminder,,画像照合済み,,Muslim Prayer Reminder,,evidence/page-09.png
+p09L26,9,L,26,xPlant,,画像照合済み,,xPlant,,evidence/page-09.png
+p09L27,9,L,27,Sensei Knowledge Base,,画像照合済み,,Sensei Knowledge Base,,evidence/page-09.png
+p09L28,9,L,28,TrackTogether,,画像照合済み,,TrackTogether,,evidence/page-09.png
+p09L29,9,L,29,wiserwork,,画像照合済み,,wiserwork,,evidence/page-09.png
+p09L30,9,L,30,Resume Match,,画像照合済み,,Resume Match,,evidence/page-09.png
+p09L31,9,L,31,Meetly,,画像照合済み,,Meetly,,evidence/page-09.png
+p09L32,9,L,32,Moonwalk,,画像照合済み,,Moonwalk,,evidence/page-09.png
+p09L33,9,L,33,PMC,,画像照合済み,,PMC,,evidence/page-09.png
+p09L34,9,L,34,Daily Leveling,,画像照合済み,,Daily Leveling,,evidence/page-09.png
+p09L35,9,L,35,Redacción natural en español,,画像照合済み,,Redaccion natural en espanol,,evidence/page-09.png
+p09L36,9,L,36,Revenue Summary Format,,画像照合済み,,Revenue Summary Format,,evidence/page-09.png
+p09L37,9,L,37,Visual Truth,,画像照合済み,,Visual Truth,,evidence/page-09.png
+p09L38,9,L,38,Plain English,,画像照合済み,,Plain English,,evidence/page-09.png
+p09L39,9,L,39,AI Review Skills,,画像照合済み,,Al Review Skills,,evidence/page-09.png
+p09L40,9,L,40,Letsfind,,画像照合済み,,Letsfind,,evidence/page-09.png
+p09L41,9,L,41,Vertical Bar Agent,,画像照合済み,,Vertical Bar Agent,,evidence/page-09.png
+p09L42,9,L,42,Adaptive Task Routing,,画像照合済み,,Adaptive Task Routing,,evidence/page-09.png
+p09L43,9,L,43,The LegalQuants Companion,,画像照合済み,,The LegalQuants Companion,,evidence/page-09.png
+p09L44,9,L,44,Design Arc,,画像照合済み,,Design Arc,,evidence/page-09.png
+p09L45,9,L,45,Intern,,画像照合済み,,Intern,,evidence/page-09.png
+p09L46,9,L,46,Codex Usage,,画像照合済み,,Codex Usage,,evidence/page-09.png
+p09R01,9,R,1,SEO & Growth Copilot,,画像照合済み,,SEO & Growth Copilot,,evidence/page-09.png
+p09R02,9,R,2,ClubMeister: Team Manager,,画像照合済み,,ClubMeister: Team Manager,,evidence/page-09.png
+p09R03,9,R,3,Perspective AI,,画像照合済み,,Perspective Al,,evidence/page-09.png
+p09R04,9,R,4,Pickaxe,,画像照合済み,,Pickaxe,,evidence/page-09.png
+p09R05,9,R,5,Adobe CX Enterprise Coworker,,画像照合済み,,Adobe CX Enterprise Coworker,,evidence/page-09.png
+p09R06,9,R,6,Yaps Subtitle Generator,,画像照合済み,,Yaps Subtitle Generator,,evidence/page-09.png
+p09R07,9,R,7,"PDF: Make, Research, Summarize",,画像照合済み,,"PDF: Make, Research, Summarize",,evidence/page-09.png
+p09R08,9,R,8,BetaOffice,,画像照合済み,,BetaOffice,,evidence/page-09.png
+p09R09,9,R,9,Village,,画像照合済み,,Village,,evidence/page-09.png
+p09R10,9,R,10,EW_knowledge_forge,,画像照合済み,,EW_knowledge_forge,,evidence/page-09.png
+p09R11,9,R,11,Cover Letter Writer,,画像照合済み,,Cover Letter Writer,,evidence/page-09.png
+p09R12,9,R,12,TownConnect,,画像照合済み,,TownConnect,,evidence/page-09.png
+p09R13,9,R,13,Butiksoft,,画像照合済み,,Butiksoft,,evidence/page-09.png
+p09R14,9,R,14,Rig,,画像照合済み,,Rig,,evidence/page-09.png
+p09R15,9,R,15,Memory Keeper,,画像照合済み,,Memory Keeper,,evidence/page-09.png
+p09R16,9,R,16,ViewPrinter,,画像照合済み,,ViewPrinter,,evidence/page-09.png
+p09R17,9,R,17,Orchetta,,画像照合済み,,Orchetta,,evidence/page-09.png
+p09R18,9,R,18,Codex Material Themes,,画像照合済み,,Codex Material Themes,,evidence/page-09.png
+p09R19,9,R,19,HaulNavi EU,,画像照合済み,,HaulNavi EU,,evidence/page-09.png
+p09R20,9,R,20,Website Deploy Toolkit,,画像照合済み,,Website Deploy Toolkit,,evidence/page-09.png
+p09R21,9,R,21,Skylar,,画像照合済み,,Skylar,,evidence/page-09.png
+p09R22,9,R,22,MECE → OpenCode,,画像照合済み,,MECE — OpenCode,,evidence/page-09.png
+p09R23,9,R,23,bryny,,画像照合済み,,bryny,,evidence/page-09.png
+p09R24,9,R,24,Right Click Prompt,,画像照合済み,,Right Click Prompt,,evidence/page-09.png
+p09R25,9,R,25,JobsPipe,,画像照合済み,,JobsPipe,,evidence/page-09.png
+p09R26,9,R,26,CapMind,,画像照合済み,,CapMind,,evidence/page-09.png
+p09R27,9,R,27,Front Desk,,画像照合済み,,Front Desk,,evidence/page-09.png
+p09R28,9,R,28,CentricMem,,画像照合済み,,CentricMem,,evidence/page-09.png
+p09R29,9,R,29,Cohearo,,画像照合済み,,Cohearo,,evidence/page-09.png
+p09R30,9,R,30,Progress Percent Plans,,画像照合済み,,Progress Percent Plans,,evidence/page-09.png
+p09R31,9,R,31,Flowchart Maker,,画像照合済み,,Flowchart Maker,,evidence/page-09.png
+p09R32,9,R,32,Mind Map Maker,,画像照合済み,,Mind Map Maker,,evidence/page-09.png
+p09R33,9,R,33,Hypothèques en ligne,,画像照合済み,,Hypotheques en ligne,,evidence/page-09.png
+p09R34,9,R,34,Notit,,画像照合済み,,Notit,,evidence/page-09.png
+p09R35,9,R,35,Diagram Maker,,画像照合済み,,Diagram Maker,,evidence/page-09.png
+p09R36,9,R,36,Career Command Center,,画像照合済み,,Career Command Center,,evidence/page-09.png
+p09R37,9,R,37,B2 Portal,,画像照合済み,,B2 Portal,,evidence/page-09.png
+p09R38,9,R,38,Contextli,,画像照合済み,,Contextli,,evidence/page-09.png
+p09R39,9,R,39,Tikita,,画像照合済み,,Tikita,,evidence/page-09.png
+p09R40,9,R,40,Yaps Meeting Transcription,,画像照合済み,,Yaps Meeting Transcription,,evidence/page-09.png
+p09R41,9,R,41,TaskPlanner,,画像照合済み,,TaskPlanner,,evidence/page-09.png
+p09R42,9,R,42,Resumier,,画像照合済み,,Resumier,,evidence/page-09.png
+p09R43,9,R,43,NotifyAI,,画像照合済み,,NotifyAl,,evidence/page-09.png
+p09R44,9,R,44,Hold Your Voice,,画像照合済み,,Hold Your Voice,,evidence/page-09.png
+p09R45,9,R,45,Yaps Video to Audio,,画像照合済み,,Yaps Video to Audio,,evidence/page-09.png
+p09R46,9,R,46,Barbaro,,画像照合済み,,Barbaro,,evidence/page-09.png
+p10L01,10,L,1,Sonjapgo,,画像照合済み,ページ上端を境界09の連結画像で確認。,Sonjapgo,,evidence/page-10.png
+p10L02,10,L,2,EarlyBird,,画像照合済み,,EarlyBird,,evidence/page-10.png
+p10L03,10,L,3,Atelier,,画像照合済み,,Atelier,,evidence/page-10.png
+p10L04,10,L,4,MI.LO Prompt Optimiser,,画像照合済み,,MI.LO Prompt Optimiser,,evidence/page-10.png
+p10L05,10,L,5,ComingUp Today,,画像照合済み,,ComingUp Today,,evidence/page-10.png
+p10L06,10,L,6,Mazadat Auctions,,画像照合済み,,Mazadat Auctions,,evidence/page-10.png
+p10L07,10,L,7,revenue-kun,,画像照合済み,,revenue-kun,,evidence/page-10.png
+p10L08,10,L,8,empirio.ai,,画像照合済み,,empirio.ai,,evidence/page-10.png
+p10L09,10,L,9,BizlinAI,,画像照合済み,,BizlinAl,,evidence/page-10.png
+p10L10,10,L,10,Mary,,画像照合済み,,Mary,,evidence/page-10.png
+p10L11,10,L,11,FoxForm,,画像照合済み,,FoxForm,,evidence/page-10.png
+p10L12,10,L,12,Yaps Memory,,画像照合済み,,Yaps Memory,,evidence/page-10.png
+p10L13,10,L,13,Wazu,,画像照合済み,,Wazu,,evidence/page-10.png
+p10L14,10,L,14,ChasePad Client Readiness,,画像照合済み,,ChasePad Client Readiness,,evidence/page-10.png
+p10L15,10,L,15,BodhiKit,,画像照合済み,,BodhiKit,,evidence/page-10.png
+p10L16,10,L,16,Power BI Report Copilot,,画像照合済み,,Power BI Report Copilot,,evidence/page-10.png
+p10L17,10,L,17,Personal Control Plane,,画像照合済み,,Personal Control Plane,,evidence/page-10.png
+p10L18,10,L,18,Savantis Memory,,画像照合済み,,Savantis Memory,,evidence/page-10.png
+p10L19,10,L,19,Property Inspection Interview,,画像照合済み,,Property Inspection Interview,,evidence/page-10.png
+p10L20,10,L,20,Checklist,,画像照合済み,,Checklist,,evidence/page-10.png
+p10L21,10,L,21,PingRoom,,画像照合済み,,PingRoom,,evidence/page-10.png
+p10L22,10,L,22,The Business Engineer,,画像照合済み,,The Business Engineer,,evidence/page-10.png
+p10L23,10,L,23,Portable Mind Maps,,画像照合済み,,Portable Mind Maps,,evidence/page-10.png
+p10L24,10,L,24,Find Your Great,,画像照合済み,,Find Your Great,,evidence/page-10.png
+p10L25,10,L,25,8gnc — Brand Growth Diagnostic,,画像照合済み,,8gnc — Brand Growth Diagnostic,,evidence/page-10.png
+p10L26,10,L,26,TheSignup,,画像照合済み,,TheSignup,,evidence/page-10.png
+p10L27,10,L,27,Atlassian Teamwork Graph CLI,,画像照合済み,,Atlassian Teamwork Graph CLI,,evidence/page-10.png
+p10L28,10,L,28,Yaps Dictation,,画像照合済み,,Yaps Dictation,,evidence/page-10.png
+p10L29,10,L,29,Coveo,,画像照合済み,,Coveo,,evidence/page-10.png
+p10L30,10,L,30,Stasht,,画像照合済み,,Stasht,,evidence/page-10.png
+p10L31,10,L,31,Usage,,画像照合済み,,Usage,,evidence/page-10.png
+p10L32,10,L,32,Career Evidence Toolkit,,画像照合済み,,Career Evidence Toolkit,,evidence/page-10.png
+p10L33,10,L,33,Korva Connect,,画像照合済み,,Korva Connect,,evidence/page-10.png
+p10L34,10,L,34,MightShape,,画像照合済み,,MightShape,,evidence/page-10.png
+p10L35,10,L,35,Auto Preference Learner,,画像照合済み,,Auto Preference Learner,,evidence/page-10.png
+p10L36,10,L,36,Proofread,,画像照合済み,,Proofread,,evidence/page-10.png
+p10L37,10,L,37,Lead Magnet Studio,,画像照合済み,,Lead Magnet Studio,,evidence/page-10.png
+p10L38,10,L,38,Cino Toolkit,,画像照合済み,,Cino Toolkit,,evidence/page-10.png
+p10L39,10,L,39,Product Idea Pack,,画像照合済み,,Product Idea Pack,,evidence/page-10.png
+p10L40,10,L,40,Abilitya Assistant,,画像照合済み,,Abilitya Assistant,,evidence/page-10.png
+p10L41,10,L,41,Qlynk Agent Builder,,画像照合済み,,Qlynk Agent Builder,,evidence/page-10.png
+p10L42,10,L,42,OrgX,,画像照合済み,,OrgX,,evidence/page-10.png
+p10L43,10,L,43,Unreal Engine Skills for Codex,,画像照合済み,,Unreal Engine Skills for Codex,,evidence/page-10.png
+p10L44,10,L,44,ShipFrame,,画像照合済み,,ShipFrame,,evidence/page-10.png
+p10L45,10,L,45,Stack Internal,,画像照合済み,,Stack Internal,,evidence/page-10.png
+p10L46,10,L,46,Dialogue Memories,,画像照合済み,,Dialogue Memories,,evidence/page-10.png
+p10L47,10,L,47,Resume Builder & ATS Checker,,画像照合済み,,Resume Builder & ATS Checker,,evidence/page-10.png
+p10R01,10,R,1,Tap26,,画像照合済み,上端が切れており、境界09の連結画像で Tap26 を確認。,lapzo,,evidence/page-10.png
+p10R02,10,R,2,Mums!,,画像照合済み,,Mums!,,evidence/page-10.png
+p10R03,10,R,3,Lazy Schedule,,画像照合済み,,Lazy Schedule,,evidence/page-10.png
+p10R04,10,R,4,Writing Assistant,,画像照合済み,,Writing Assistant,,evidence/page-10.png
+p10R05,10,R,5,Leapcast,,画像照合済み,,Leapcast,,evidence/page-10.png
+p10R06,10,R,6,Mantic,,画像照合済み,,Mantic,,evidence/page-10.png
+p10R07,10,R,7,SuperPrompter,,画像照合済み,,SuperPrompter,,evidence/page-10.png
+p10R08,10,R,8,Context Bridge,,画像照合済み,,Context Bridge,,evidence/page-10.png
+p10R09,10,R,9,Better Plans,,画像照合済み,,Better Plans,,evidence/page-10.png
+p10R10,10,R,10,Tight Studio,,画像照合済み,,Tight Studio,,evidence/page-10.png
+p10R11,10,R,11,Clariia AI Inbox,,画像照合済み,,Clariia Al Inbox,,evidence/page-10.png
+p10R12,10,R,12,Social-Media-Storyboard,,画像照合済み,,Social-Media-Storyboard,,evidence/page-10.png
+p10R13,10,R,13,Baton Pass,,画像照合済み,,Baton Pass,,evidence/page-10.png
+p10R14,10,R,14,Spreadsheets GPT Workspace,,画像照合済み,,Spreadsheets GPT Workspace,,evidence/page-10.png
+p10R15,10,R,15,Akinator,,画像照合済み,,Akinator,,evidence/page-10.png
+p10R16,10,R,16,Kata,,画像照合済み,,Kata,,evidence/page-10.png
+p10R17,10,R,17,Hugging App,,画像照合済み,,Hugging App,,evidence/page-10.png
+p10R18,10,R,18,Bill se Khata,,画像照合済み,,Bill se Khata,,evidence/page-10.png
+p10R19,10,R,19,LegalQuants Transactional,,画像照合済み,,LegalQuants Transactional,,evidence/page-10.png
+p10R20,10,R,20,Widget Canvas,,画像照合済み,,Widget Canvas,,evidence/page-10.png
+p10R21,10,R,21,Questi Geo,,画像照合済み,,Questi Geo,,evidence/page-10.png
+p10R22,10,R,22,Version Story Redline Compare,,画像照合済み,,Version Story Redline Compare,,evidence/page-10.png
+p10R23,10,R,23,HubPost,,画像照合済み,,HubPost,,evidence/page-10.png
+p10R24,10,R,24,Jicoo,,画像照合済み,,Jicoo,,evidence/page-10.png
+p10R25,10,R,25,WebMCP Enable,,画像照合済み,,WebMCP Enable,,evidence/page-10.png
+p10R26,10,R,26,Graph Mode,,画像照合済み,,Graph Mode,,evidence/page-10.png
+p10R27,10,R,27,OBI Image Creation,,画像照合済み,,OBI Image Creation,,evidence/page-10.png
+p10R28,10,R,28,Google Comment Responder,,画像照合済み,,Google Comment Responder,,evidence/page-10.png
+p10R29,10,R,29,GulfPulse News Images,,画像照合済み,,GulfPulse News Images,,evidence/page-10.png
+p10R30,10,R,30,Negotiation Adviser,,画像照合済み,,Negotiation Adviser,,evidence/page-10.png
+p10R31,10,R,31,Agent Calendars,,画像照合済み,,Agent Calendars,,evidence/page-10.png
+p10R32,10,R,32,Sessionplan,,画像照合済み,,Sessionplan,,evidence/page-10.png
+p10R33,10,R,33,Creator Publish Package,,画像照合済み,,Creator Publish Package,,evidence/page-10.png
+p10R34,10,R,34,VO,,画像照合済み,,vo,,evidence/page-10.png
+p10R35,10,R,35,Broker Genius,,画像照合済み,,Broker Genius,,evidence/page-10.png
+p10R36,10,R,36,Aerion,,画像照合済み,,Aerion,,evidence/page-10.png
+p10R37,10,R,37,CUAR,,画像照合済み,,CUAR,,evidence/page-10.png
+p10R38,10,R,38,Dayze,,画像照合済み,,Dayze,,evidence/page-10.png
+p10R39,10,R,39,Write Like Me — Voice Pattern,,画像照合済み,,Write Like Me — Voice Pattern,,evidence/page-10.png
+p10R40,10,R,40,Gilbert,,画像照合済み,,Gilbert,,evidence/page-10.png
+p10R41,10,R,41,LASEC,,画像照合済み,,LASEC,,evidence/page-10.png
+p10R42,10,R,42,Enterprise Infra Orchestrator,,画像照合済み,,Enterprise Infra Orchestrator,,evidence/page-10.png
+p10R43,10,R,43,GPT vers Plugin · Le QG,,画像照合済み,,GPT vers Plugin - Le QG,,evidence/page-10.png
+p10R44,10,R,44,Hype Design Production,,画像照合済み,,Hype Design Production,,evidence/page-10.png
+p10R45,10,R,45,Electronics & Tech Finder,,画像照合済み,,Electronics & Tech Finder,,evidence/page-10.png
+p10R46,10,R,46,Recalo,,画像照合済み,,Recalo,,evidence/page-10.png
+p10R47,10,R,47,OpenCompare,,画像照合済み,,OpenCompare,,evidence/page-10.png
+p11L01,11,L,1,item,,画像照合済み,,item,,evidence/page-11.png
+p11L02,11,L,2,eworker,,画像照合済み,,eworker,,evidence/page-11.png
+p11L03,11,L,3,DocketDrafter,,画像照合済み,,DocketDrafter,,evidence/page-11.png
+p11L04,11,L,4,Bluedot,,画像照合済み,,Bluedot,,evidence/page-11.png
+p11L05,11,L,5,Kumiho Memory,,画像照合済み,,Kumiho Memory,,evidence/page-11.png
+p11L06,11,L,6,Codex Cost,,画像照合済み,,Codex Cost,,evidence/page-11.png
+p11L07,11,L,7,Marketing Compass,,画像照合済み,,Marketing Compass,,evidence/page-11.png
+p11L08,11,L,8,You.com,,画像照合済み,,You.com,,evidence/page-11.png
+p11L09,11,L,9,Employee Surveys & eNPS,,画像照合済み,,Employee Surveys & eNPS,,evidence/page-11.png
+p11L10,11,L,10,Speaker Delivery Profiler,,画像照合済み,,Speaker Delivery Profiler,,evidence/page-11.png
+p11L11,11,L,11,note Studio mini | ROGNALIA,,画像照合済み,,note Studio mini | ROGNALIA,,evidence/page-11.png
+p11L12,11,L,12,SRT Subtitle Translator,,画像照合済み,,SRT Subtitle Translator,,evidence/page-11.png
+p11L13,11,L,13,Sop Builder,,画像照合済み,,Sop Builder,,evidence/page-11.png
+p11L14,11,L,14,report writing tool,,画像照合済み,,report writing tool,,evidence/page-11.png
+p11L15,11,L,15,okrdev,,画像照合済み,,okrdev,,evidence/page-11.png
+p11L16,11,L,16,Simple Macros,,画像照合済み,,Simple Macros,,evidence/page-11.png
+p11L17,11,L,17,Telagus,,画像照合済み,,Telagus,,evidence/page-11.png
+p11L18,11,L,18,Capability Orchestrator,,画像照合済み,,Capability Orchestrator,,evidence/page-11.png
+p11L19,11,L,19,B2B Messaging Workshop,,画像照合済み,,B2B Messaging Workshop,,evidence/page-11.png
+p11L20,11,L,20,Dossaro,,画像照合済み,,Dossaro,,evidence/page-11.png
+p11L21,11,L,21,Cache Stats,,画像照合済み,,Cache Stats,,evidence/page-11.png
+p11L22,11,L,22,Remember,,画像照合済み,,Remember,,evidence/page-11.png
+p11L23,11,L,23,Research Methodology,,画像照合済み,,Research Methodology,,evidence/page-11.png
+p11L24,11,L,24,Linchpin,,画像照合済み,,Linchpin,,evidence/page-11.png
+p11L25,11,L,25,Relic,,画像照合済み,,Relic,,evidence/page-11.png
+p11L26,11,L,26,FinGrad Appendix Generator,,画像照合済み,,FinGrad Appendix Generator,,evidence/page-11.png
+p11L27,11,L,27,Fixture and Finish,,画像照合済み,,Fixture and Finish,,evidence/page-11.png
+p11L28,11,L,28,Jao Universal Creative Studio,,画像照合済み,,Jao Universal Creative Studio,,evidence/page-11.png
+p11L29,11,L,29,TidyGuardian,,画像照合済み,,TidyGuardian,,evidence/page-11.png
+p11L30,11,L,30,ForgeMind,,画像照合済み,,ForgeMind,,evidence/page-11.png
+p11L31,11,L,31,Follow Anywhere,,画像照合済み,,Follow Anywhere,,evidence/page-11.png
+p11L32,11,L,32,Monday AI: Hook Helper,,画像照合済み,,Monday AI: Hook Helper,,evidence/page-11.png
+p11L33,11,L,33,Aivana Dataverse App Architect,,画像照合済み,,Aivana Dataverse App Architect,,evidence/page-11.png
+p11L34,11,L,34,Snailer,,画像照合済み,,Snailer,,evidence/page-11.png
+p11L35,11,L,35,Aivana Power BI Fabric,,画像照合済み,,Aivana Power BI Fabric,,evidence/page-11.png
+p11L36,11,L,36,EW AI Flowchart,,画像照合済み,,EW Al Flowchart,,evidence/page-11.png
+p11L37,11,L,37,RAGOps,,画像照合済み,,RAGOps,,evidence/page-11.png
+p11L38,11,L,38,Liinks,,画像照合済み,,Liinks,,evidence/page-11.png
+p11L39,11,L,39,Trinity,,画像照合済み,,Trinity,,evidence/page-11.png
+p11L40,11,L,40,Talamus Memory,,画像照合済み,,Talamus Memory,,evidence/page-11.png
+p11L41,11,L,41,Natural writing,,画像照合済み,,Natural writing,,evidence/page-11.png
+p11L42,11,L,42,Progressive Clarity,,画像照合済み,,Progressive Clarity,,evidence/page-11.png
+p11L43,11,L,43,STATEC Explorer,,画像照合済み,,STATEC Explorer,,evidence/page-11.png
+p11L44,11,L,44,AirPal Pilot,,画像照合済み,,AirPal Pilot,,evidence/page-11.png
+p11L45,11,L,45,SaaS Launch Planner,,画像照合済み,,SaaS Launch Planner,,evidence/page-11.png
+p11L46,11,L,46,DevRecap,,画像照合済み,,DevRecap,,evidence/page-11.png
+p11R01,11,R,1,Agent Parley,,画像照合済み,,Agent Parley,,evidence/page-11.png
+p11R02,11,R,2,Airspeed,,画像照合済み,,Airspeed,,evidence/page-11.png
+p11R03,11,R,3,Storyboard Generator,,画像照合済み,,Storyboard Generator,,evidence/page-11.png
+p11R04,11,R,4,LS Doctor,,画像照合済み,,LS Doctor,,evidence/page-11.png
+p11R05,11,R,5,AI Router,,画像照合済み,,Al Router,,evidence/page-11.png
+p11R06,11,R,6,Frontier Infra,,画像照合済み,,Frontier Infra,,evidence/page-11.png
+p11R07,11,R,7,CyberMirror,,画像照合済み,,CyberMirror,,evidence/page-11.png
+p11R08,11,R,8,Drum Notation Importer,,画像照合済み,,Drum Notation Importer,,evidence/page-11.png
+p11R09,11,R,9,Smart Model Router,,画像照合済み,,Smart Model Router,,evidence/page-11.png
+p11R10,11,R,10,Speaker Delivery Profiler,,画像照合済み,,Speaker Delivery Profiler,,evidence/page-11.png
+p11R11,11,R,11,Sermon Scribe,,画像照合済み,,Sermon Scribe,,evidence/page-11.png
+p11R12,11,R,12,Testkube Skills,,画像照合済み,,Testkube Skills,,evidence/page-11.png
+p11R13,11,R,13,Share Artifacts,,画像照合済み,,Share Artifacts,,evidence/page-11.png
+p11R14,11,R,14,CopticGPT,,画像照合済み,,CopticGPT,,evidence/page-11.png
+p11R15,11,R,15,Aivana Database Engineer,,画像照合済み,,Aivana Database Engineer,,evidence/page-11.png
+p11R16,11,R,16,Generate Runbook,,画像照合済み,,Generate Runbook,,evidence/page-11.png
+p11R17,11,R,17,Poetize,,画像照合済み,,Poetize,,evidence/page-11.png
+p11R18,11,R,18,Kvasir Exams,,画像照合済み,,Kvasir Exams,,evidence/page-11.png
+p11R19,11,R,19,Continuum,,画像照合済み,,Continuum,,evidence/page-11.png
+p11R20,11,R,20,Clean Notes,,画像照合済み,,Clean Notes,,evidence/page-11.png
+p11R21,11,R,21,NotForm,,画像照合済み,,NotForm,,evidence/page-11.png
+p11R22,11,R,22,BrainOrder,,画像照合済み,,BrainOrder,,evidence/page-11.png
+p11R23,11,R,23,Electrical Progress Tracker,,画像照合済み,,Electrical Progress Tracker,,evidence/page-11.png
+p11R24,11,R,24,Proofline,,画像照合済み,,Proofline,,evidence/page-11.png
+p11R25,11,R,25,Scriber Studio,,画像照合済み,,Scriber Studio,,evidence/page-11.png
+p11R26,11,R,26,Relativity,,画像照合済み,,Relativity,,evidence/page-11.png
+p11R27,11,R,27,Engram AI Memory,,画像照合済み,,Engram Al Memory,,evidence/page-11.png
+p11R28,11,R,28,Gabriel Operator,,画像照合済み,,Gabriel Operator,,evidence/page-11.png
+p11R29,11,R,29,Easyship - Shipping MCP,,画像照合済み,,Easyship - Shipping MCP,,evidence/page-11.png
+p11R30,11,R,30,tochi-satei-kun,,画像照合済み,,tochi-satei-kun,,evidence/page-11.png
+p11R31,11,R,31,AIOS — Setup Windows,,画像照合済み,,AlOS — Setup Windows,,evidence/page-11.png
+p11R32,11,R,32,Repo Scout,,画像照合済み,,Repo Scout,,evidence/page-11.png
+p11R33,11,R,33,Luvus,,画像照合済み,,Luvus,,evidence/page-11.png
+p11R34,11,R,34,BetterContext,,画像照合済み,,BetterContext,,evidence/page-11.png
+p11R35,11,R,35,Creator & Freelance Toolkit,,画像照合済み,,Creator & Freelance Toolkit,,evidence/page-11.png
+p11R36,11,R,36,Groundwork,,画像照合済み,,Groundwork,,evidence/page-11.png
+p11R37,11,R,37,Aplicativos Fonocenter,,画像照合済み,,Aplicativos Fonocenter,,evidence/page-11.png
+p11R38,11,R,38,Frasma,,画像照合済み,,Frasma,,evidence/page-11.png
+p11R39,11,R,39,Formesign,,画像照合済み,,Formesign,,evidence/page-11.png
+p11R40,11,R,40,BasicOps,,画像照合済み,,BasicOps,,evidence/page-11.png
+p11R41,11,R,41,Reel2SRT,,画像照合済み,,Reel2SRT,,evidence/page-11.png
+p11R42,11,R,42,Fillo,,画像照合済み,,Fillo,,evidence/page-11.png
+p11R43,11,R,43,Mavixx Forge,,画像照合済み,,Mavixx Forge,,evidence/page-11.png
+p11R44,11,R,44,Stashiro,,画像照合済み,,Stashiro,,evidence/page-11.png
+p11R45,11,R,45,Dialogue Skills,,画像照合済み,,Dialogue Skills,,evidence/page-11.png
+p11R46,11,R,46,Benaiah,,画像照合済み,,Benaiah,,evidence/page-11.png
+p12L01,12,L,1,Meeting.ai,,画像照合済み,,Meeting.ai,,evidence/page-12.png
+p12L02,12,L,2,Núcleo Estratégico Atomic,,画像照合済み,,Nucleo Estratégico Atomic,,evidence/page-12.png
+p12L03,12,L,3,Argovance Skill OS,,画像照合済み,,Argovance Skill OS,,evidence/page-12.png
+p12L04,12,L,4,Pushary,,画像照合済み,,Pushary,,evidence/page-12.png
+p12L05,12,L,5,Freelancer Tax Organizer,,画像照合済み,,Freelancer Tax Organizer,,evidence/page-12.png
+p12L06,12,L,6,Oximy Reality Checks,,画像照合済み,,Oximy Reality Checks,,evidence/page-12.png
+p12L07,12,L,7,Equity Council,,画像照合済み,,Equity Council,,evidence/page-12.png
+p12L08,12,L,8,Session Chronicle,,画像照合済み,,Session Chronicle,,evidence/page-12.png
+p12L09,12,L,9,Archiveye,,画像照合済み,,Archiveye,,evidence/page-12.png
+p12L10,12,L,10,Patient Data Analysis,,画像照合済み,,Patient Data Analysis,,evidence/page-12.png
+p12L11,12,L,11,GINA CodeRabbit Curator,,画像照合済み,,GINA CodeRabbit Curator,,evidence/page-12.png
+p12L12,12,L,12,Media2URL,,画像照合済み,,Media2URL,,evidence/page-12.png
+p12L13,12,L,13,FileStation,,画像照合済み,,FileStation,,evidence/page-12.png
+p12L14,12,L,14,OqoDesk,,画像照合済み,,OqoDesk,,evidence/page-12.png
+p12L15,12,L,15,Model Compass,,画像照合済み,,Model Compass,,evidence/page-12.png
+p12L16,12,L,16,WishCraft,,画像照合済み,,WishCraft,,evidence/page-12.png
+p12L17,12,L,17,Tenderkart,,画像照合済み,,Tenderkart,,evidence/page-12.png
+p12L18,12,L,18,Orbit Secretary,,画像照合済み,,Orbit Secretary,,evidence/page-12.png
+p12L19,12,L,19,Product Support Investigator,,画像照合済み,,Product Support Investigator,,evidence/page-12.png
+p12L20,12,L,20,GetItDone,,画像照合済み,,GetitDone,,evidence/page-12.png
+p12L21,12,L,21,Task ETA Tracker,,画像照合済み,,Task ETA Tracker,,evidence/page-12.png
+p12L22,12,L,22,Diarize,,画像照合済み,,Diarize,,evidence/page-12.png
+p12L23,12,L,23,Sparkore Market Research,,画像照合済み,,Sparkore Market Research,,evidence/page-12.png
+p12L24,12,L,24,Cloud & Hosting Advisor,,画像照合済み,,Cloud & Hosting Advisor,,evidence/page-12.png
+p12L25,12,L,25,Patrik Toolkit,,画像照合済み,,Patrik Toolkit,,evidence/page-12.png
+p12L26,12,L,26,Controlled Czech,,画像照合済み,,Controlled Czech,,evidence/page-12.png
+p12L27,12,L,27,Readdy,,画像照合済み,,Readdy,,evidence/page-12.png
+p12L28,12,L,28,Resplendent Resume Builder,,画像照合済み,,Resplendent Resume Builder,,evidence/page-12.png
+p12L29,12,L,29,AAC Card Maker,,画像照合済み,,AAC Card Maker,,evidence/page-12.png
+p12L30,12,L,30,,X4<©M8§Q7-V3_Z9AK6,要確認,記号を含む文字列。菱形・三角・節記号等の正確なUnicode文字と綴りは確定しない。,X4<©M8§Q7-V3_Z9AK6,,evidence/page-12.png
+p12L31,12,L,31,Yedno,,画像照合済み,,Yedno,,evidence/page-12.png
+p12L32,12,L,32,LeadDeck,,画像照合済み,,LeadDeck,,evidence/page-12.png
+p12L33,12,L,33,Diretor de Títulos Sell Pro,,画像照合済み,,Diretor de Titulos Sell Pro,,evidence/page-12.png
+p12L34,12,L,34,,N7§Q2-Z9OM4_V8AX6,要確認,記号を含む文字列。菱形・三角・節記号等の正確なUnicode文字と綴りは確定しない。,N7§Q2-Z9OM4_V8AX6,,evidence/page-12.png
+p12L35,12,L,35,SlideForge,,画像照合済み,,SlideForge,,evidence/page-12.png
+p12L36,12,L,36,ShapelessAI,,画像照合済み,,ShapelessAl,,evidence/page-12.png
+p12L37,12,L,37,Build Steward,,画像照合済み,,Build Steward,,evidence/page-12.png
+p12L38,12,L,38,Compliance Horizon Scanner,,画像照合済み,,Compliance Horizon Scanner,,evidence/page-12.png
+p12L39,12,L,39,LUCI,,画像照合済み,,LUCI,,evidence/page-12.png
+p12L40,12,L,40,Anarlog,,画像照合済み,,Anarlog,,evidence/page-12.png
+p12L41,12,L,41,Aivana Incident Intelligence,,画像照合済み,,Aivana Incident Intelligence,,evidence/page-12.png
+p12L42,12,L,42,Sparkore Core,,画像照合済み,,Sparkore Core,,evidence/page-12.png
+p12L43,12,L,43,Hebrew Editor Suite,,画像照合済み,,Hebrew Editor Suite,,evidence/page-12.png
+p12L44,12,L,44,Sutra,,画像照合済み,,Sutra,,evidence/page-12.png
+p12L45,12,L,45,Clipto,,画像照合済み,,Clipto,,evidence/page-12.png
+p12L46,12,L,46,Mapa Starej Tożsamości,,画像照合済み,,Mapa Starej TozsamoSci,,evidence/page-12.png
+p12R01,12,R,1,Trellis,,画像照合済み,,Trellis,,evidence/page-12.png
+p12R02,12,R,2,SupaBird,,画像照合済み,,SupaBird,,evidence/page-12.png
+p12R03,12,R,3,Horizon Forge,,画像照合済み,,Horizon Forge,,evidence/page-12.png
+p12R04,12,R,4,AI Tools Recommender,,画像照合済み,,Al Tools Recommender,,evidence/page-12.png
+p12R05,12,R,5,CERTENTIC Bridge,,画像照合済み,,CERTENTIC Bridge,,evidence/page-12.png
+p12R06,12,R,6,TPNote Trip Planner,,画像照合済み,,TPNote Trip Planner,,evidence/page-12.png
+p12R07,12,R,7,ShadowGPT - AI Humanizer,,画像照合済み,,ShadowGPT - Al Humanizer,,evidence/page-12.png
+p12R08,12,R,8,HSCBot,,画像照合済み,,HSCBot,,evidence/page-12.png
+p12R09,12,R,9,Gestão Ágil 2.0,,画像照合済み,,Gestao Agil 2.0,,evidence/page-12.png
+p12R10,12,R,10,Startup Financing Readiness,,画像照合済み,,Startup Financing Readiness,,evidence/page-12.png
+p12R11,12,R,11,Documentar Reunião,,画像照合済み,,Documentar Reuniao,,evidence/page-12.png
+p12R12,12,R,12,RUMBO Agent Reliability,,画像照合済み,,RUMBO Agent Reliability,,evidence/page-12.png
+p12R13,12,R,13,Orchestrator Lite Cloud,,画像照合済み,,Orchestrator Lite Cloud,,evidence/page-12.png
+p12R14,12,R,14,Rig,,画像照合済み,,Rig,,evidence/page-12.png
+p12R15,12,R,15,WSH Risk Assessment,,画像照合済み,,WSH Risk Assessment,,evidence/page-12.png
+p12R16,12,R,16,ProSocial,,画像照合済み,,ProSocial,,evidence/page-12.png
+p12R17,12,R,17,HUMMBL Operations,,画像照合済み,,HUMMBL Operations,,evidence/page-12.png
+p12R18,12,R,18,Activepieces,,画像照合済み,,Activepieces,,evidence/page-12.png
+p12R19,12,R,19,Argovance Personal & Life,,画像照合済み,,Argovance Personal & Life,,evidence/page-12.png
+p12R20,12,R,20,Roomwise,,画像照合済み,,Roomwise,,evidence/page-12.png
+p12R21,12,R,21,note Workspace | ROGNALIA,,画像照合済み,,note Workspace | ROGNALIA,,evidence/page-12.png
+p12R22,12,R,22,BR PropMarketer,,画像照合済み,,BR PropMarketer,,evidence/page-12.png
+p12R23,12,R,23,Magnus Realtor Asset Finder,,画像照合済み,,Magnus Realtor Asset Finder,,evidence/page-12.png
+p12R24,12,R,24,Executive Council Core,,画像照合済み,,Executive Council Core,,evidence/page-12.png
+p12R25,12,R,25,Master Change Guard,,画像照合済み,,Master Change Guard,,evidence/page-12.png
+p12R26,12,R,26,Brokerage Screenshot Parser,,画像照合済み,,Brokerage Screenshot Parser,,evidence/page-12.png
+p12R27,12,R,27,,Q8AZ4-X7ON2_K9+V6,要確認,記号を含む文字列。菱形・三角等の正確なUnicode文字と綴りは確定しない。,Q8AZ4-X7ON2_K9+V6,,evidence/page-12.png
+p12R28,12,R,28,Surfer,,画像照合済み,,Surfer,,evidence/page-12.png
+p12R29,12,R,29,MyBI IA,,画像照合済み,,MyBI IA,,evidence/page-12.png
+p12R30,12,R,30,Atlabs Ai,,画像照合済み,,Atlabs Ai,,evidence/page-12.png
+p12R31,12,R,31,Russian General Assistant,,画像照合済み,,Russian General Assistant,,evidence/page-12.png
+p12R32,12,R,32,Whitespace Reentry,,画像照合済み,,Whitespace Reentry,,evidence/page-12.png
+p12R33,12,R,33,6X6,,画像照合済み,,6X6,,evidence/page-12.png
+p12R34,12,R,34,Conductor,,画像照合済み,,Conductor,,evidence/page-12.png
+p12R35,12,R,35,QuarryFi R&D Tracker,,画像照合済み,,QuarryFi R&D Tracker,,evidence/page-12.png
+p12R36,12,R,36,Ukrainian-language assistant,,画像照合済み,,Ukrainian-language assistant,,evidence/page-12.png
+p12R37,12,R,37,JackHamr,,画像照合済み,,JackHamr,,evidence/page-12.png
+p12R38,12,R,38,Spend Management Analysis,,画像照合済み,,Spend Management Analysis,,evidence/page-12.png
+p12R39,12,R,39,Tinylawn,,画像照合済み,,Tinylawn,,evidence/page-12.png
+p12R40,12,R,40,,Z4©K8AV2-Q7_X98N3,要確認,記号を含む文字列。菱形・三角等の正確なUnicode文字と綴りは確定しない。,Z4©K8AV2-Q7_X98N3,,evidence/page-12.png
+p12R41,12,R,41,VeTayStudio Support,,画像照合済み,,VeTayStudio Support,,evidence/page-12.png
+p12R42,12,R,42,Monday AI: Caption Coach,,画像照合済み,,Monday AI: Caption Coach,,evidence/page-12.png
+p12R43,12,R,43,Finrun,,画像照合済み,,Finrun,,evidence/page-12.png
+p12R44,12,R,44,Andexnite Shopping,,画像照合済み,,Andexnite Shopping,,evidence/page-12.png
+p12R45,12,R,45,WST Commander,,画像照合済み,,WST Commander,,evidence/page-12.png
+p12R46,12,R,46,LIGA Workflows,,画像照合済み,,LIGA Workflows,,evidence/page-12.png
+p13L01,13,L,1,Defuddle,,画像照合済み,,Defuddle,,evidence/page-13.png
+p13L02,13,L,2,Enkio,,画像照合済み,,Enkio,,evidence/page-13.png
+p13L03,13,L,3,ChatPRD,,画像照合済み,,ChatPRD,,evidence/page-13.png
+p13L04,13,L,4,Handwriting OCR,,画像照合済み,,Handwriting OCR,,evidence/page-13.png
+p13L05,13,L,5,Autodial,,画像照合済み,,Autodial,,evidence/page-13.png
+p13L06,13,L,6,LLGP Workflows,,画像照合済み,,LLGP Workflows,,evidence/page-13.png
+p13L07,13,L,7,Google Review Link & QR,,画像照合済み,,Google Review Link & QR,,evidence/page-13.png
+p13L08,13,L,8,Orbit - People search,,画像照合済み,,Orbit - People search,,evidence/page-13.png
+p13L09,13,L,9,NSP Club AI Sponsor,,画像照合済み,,NSP Club Al Sponsor,,evidence/page-13.png
+p13L10,13,L,10,HomeOps,,画像照合済み,,HomeOps,,evidence/page-13.png
+p13L11,13,L,11,Dreamer,,画像照合済み,,Dreamer,,evidence/page-13.png
+p13L12,13,L,12,Mindomo,,画像照合済み,,Mindomo,,evidence/page-13.png
+p13L13,13,L,13,Stacktree,,画像照合済み,,Stacktree,,evidence/page-13.png
+p13L14,13,L,14,Longevity: Gym & Coach,,画像照合済み,,Longevity: Gym & Coach,,evidence/page-13.png
+p13L15,13,L,15,RS Dictionary Builder,,画像照合済み,,RS Dictionary Builder,,evidence/page-13.png
+p13L16,13,L,16,Nobrainrot,,画像照合済み,,Nobrainrot,,evidence/page-13.png
+p13L17,13,L,17,CloneVox AI Voice Studio,,画像照合済み,,CloneVox Al Voice Studio,,evidence/page-13.png
+p13L18,13,L,18,Nira,,画像照合済み,,Nira,,evidence/page-13.png
+p13L19,13,L,19,Unicycle,,画像照合済み,,Unicycle,,evidence/page-13.png
+p13L20,13,L,20,Internet Computer (ICP),,画像照合済み,,Internet Computer (ICP),,evidence/page-13.png
+p13L21,13,L,21,Go Echoo,,画像照合済み,,Go Echoo,,evidence/page-13.png
+p13L22,13,L,22,Toonkit,,画像照合済み,,Toonkit,,evidence/page-13.png
+p13L23,13,L,23,AISEO Plagiarism Checker,,画像照合済み,,AISEO Plagiarism Checker,,evidence/page-13.png
+p13L24,13,L,24,Setlane: Gym Workout Tracker,,画像照合済み,,Setlane: Gym Workout Tracker,,evidence/page-13.png
+p13L25,13,L,25,,R8AV3OK6-X9_Q2§Z7,要確認,記号を含む文字列。菱形・三角・節記号等の正確なUnicode文字と綴りは確定しない。,R8AV3OK6-X9_Q2§Z7,,evidence/page-13.png
+p13L26,13,L,26,Jurisprudências.ai,,画像照合済み,,Jurisprudéncias.ai,,evidence/page-13.png
+p13L27,13,L,27,3DPACK.ING,,画像照合済み,,3DPACK.ING,,evidence/page-13.png
+p13L28,13,L,28,Deley,,画像照合済み,,Deley,,evidence/page-13.png
+p13L29,13,L,29,Singapore WSH Status Checker,,画像照合済み,,Singapore WSH Status Checker,,evidence/page-13.png
+p13L30,13,L,30,Hoteler Log,,画像照合済み,,Hoteler Log,,evidence/page-13.png
+p13L31,13,L,31,Agent Router,,画像照合済み,,Agent Router,,evidence/page-13.png
+p13L32,13,L,32,Lisaan,,画像照合済み,,Lisaan,,evidence/page-13.png
+p13L33,13,L,33,8digit Planner,,画像照合済み,,8digit Planner,,evidence/page-13.png
+p13L34,13,L,34,Cognee,,画像照合済み,,Cognee,,evidence/page-13.png
+p13L35,13,L,35,FormBuilder,,画像照合済み,,FormBuilder,,evidence/page-13.png
+p13L36,13,L,36,ClippingMini Bookmarks,,画像照合済み,,ClippingMini Bookmarks,,evidence/page-13.png
+p13L37,13,L,37,Momentum,,画像照合済み,,Momentum,,evidence/page-13.png
+p13L38,13,L,38,Eggshell,,画像照合済み,,Eggshell,,evidence/page-13.png
+p13L39,13,L,39,Aivana Trust & Evidence,,画像照合済み,,Aivana Trust & Evidence,,evidence/page-13.png
+p13L40,13,L,40,EasyPDF,,画像照合済み,,EasyPDF,,evidence/page-13.png
+p13L41,13,L,41,PromptCrew,,画像照合済み,,PromptCrew,,evidence/page-13.png
+p13L42,13,L,42,PostDashPro,,画像照合済み,,PostDashPro,,evidence/page-13.png
+p13L43,13,L,43,Continuity,,画像照合済み,,Continuity,,evidence/page-13.png
+p13L44,13,L,44,Parsewise,,画像照合済み,,Parsewise,,evidence/page-13.png
+p13L45,13,L,45,Customer Review Analyzer,,画像照合済み,,Customer Review Analyzer,,evidence/page-13.png
+p13L46,13,L,46,Gauntlet,,画像照合済み,,Gauntlet,,evidence/page-13.png
+p13L47,13,L,47,StreamPay,,画像照合済み,p14L01と連結して StreamPay を確認。,Cham m = m= Pio. -,,evidence/page-13.png
+p13R01,13,R,1,Shot List Generator,,画像照合済み,,Shot List Generator,,evidence/page-13.png
+p13R02,13,R,2,ARCANA Recruiting Assistant,,画像照合済み,,ARCANA Recruiting Assistant,,evidence/page-13.png
+p13R03,13,R,3,E-Billing Audit Engine,,画像照合済み,,E-Billing Audit Engine,,evidence/page-13.png
+p13R04,13,R,4,dotcv,,画像照合済み,,dotcv,,evidence/page-13.png
+p13R05,13,R,5,GOC Creation,,画像照合済み,,GOC Creation,,evidence/page-13.png
+p13R06,13,R,6,My Closet,,画像照合済み,,My Closet,,evidence/page-13.png
+p13R07,13,R,7,Dez · L’agent IA de DIUP,,画像照合済み,,Dez - L’agent IA de DIUP,,evidence/page-13.png
+p13R08,13,R,8,EW Golden Baseline Model,,画像照合済み,,EW Golden Baseline Model,,evidence/page-13.png
+p13R09,13,R,9,Aivana Outcome Operations,,画像照合済み,,Aivana Outcome Operations,,evidence/page-13.png
+p13R10,13,R,10,Soulware by Honorary Human,,画像照合済み,,Soulware by Honorary Human,,evidence/page-13.png
+p13R11,13,R,11,MultiLocale App Translation,,画像照合済み,,MultiLocale App Translation,,evidence/page-13.png
+p13R12,13,R,12,create-ebook,,画像照合済み,,create-ebook,,evidence/page-13.png
+p13R13,13,R,13,EW AI Work Coach,,画像照合済み,,EW Al Work Coach,,evidence/page-13.png
+p13R14,13,R,14,AI MindClip,,画像照合済み,,Al MindClip,,evidence/page-13.png
+p13R15,13,R,15,Video Highlight,,画像照合済み,,Video Highlight,,evidence/page-13.png
+p13R16,13,R,16,Onboarding Wins,,画像照合済み,,Onboarding Wins,,evidence/page-13.png
+p13R17,13,R,17,POW’HER AI,,画像照合済み,,POW'HER Al,,evidence/page-13.png
+p13R18,13,R,18,JobFinder,,画像照合済み,,JobFinder,,evidence/page-13.png
+p13R19,13,R,19,GoPublish,,画像照合済み,,GoPublish,,evidence/page-13.png
+p13R20,13,R,20,Collective Job Search,,画像照合済み,,Collective Job Search,,evidence/page-13.png
+p13R21,13,R,21,PreVibe,,画像照合済み,,PreVibe,,evidence/page-13.png
+p13R22,13,R,22,Glow for WordPress,,画像照合済み,,Glow for WordPress,,evidence/page-13.png
+p13R23,13,R,23,Dispersão de Gases - ABPIP,,画像照合済み,,Dispersao de Gases - ABPIP,,evidence/page-13.png
+p13R24,13,R,24,ProjectManager,,画像照合済み,,ProjectManager,,evidence/page-13.png
+p13R25,13,R,25,SocialBu,,画像照合済み,,SocialBu,,evidence/page-13.png
+p13R26,13,R,26,HALCYON INFINITE,,画像照合済み,,HALCYON INFINITE,,evidence/page-13.png
+p13R27,13,R,27,SVG Diagram,,画像照合済み,,SVG Diagram,,evidence/page-13.png
+p13R28,13,R,28,Hidden Patterns,,画像照合済み,,Hidden Patterns,,evidence/page-13.png
+p13R29,13,R,29,Fountain,,画像照合済み,,Fountain,,evidence/page-13.png
+p13R30,13,R,30,Eigma,,画像照合済み,画像は Eigma と読める。既存の Figma に置き換えない。,Eigma,,evidence/page-13.png
+p13R31,13,R,31,Continuum,,画像照合済み,,Continuum,,evidence/page-13.png
+p13R32,13,R,32,Totono,,画像照合済み,,Totono,,evidence/page-13.png
+p13R33,13,R,33,Frontify,,画像照合済み,,Frontify,,evidence/page-13.png
+p13R34,13,R,34,T.LY URL Shortener,,画像照合済み,,T.LY URL Shortener,,evidence/page-13.png
+p13R35,13,R,35,Fastio,,画像照合済み,,Fastio,,evidence/page-13.png
+p13R36,13,R,36,Data2Content,,画像照合済み,,Data2Content,,evidence/page-13.png
+p13R37,13,R,37,Tucan,,画像照合済み,,Tucan,,evidence/page-13.png
+p13R38,13,R,38,Lindo AI Website Builder,,画像照合済み,,Lindo Al Website Builder,,evidence/page-13.png
+p13R39,13,R,39,Collage Easy,,画像照合済み,,Collage Easy,,evidence/page-13.png
+p13R40,13,R,40,Keep Browser,,画像照合済み,,Keep Browser,,evidence/page-13.png
+p13R41,13,R,41,Wishlink,,画像照合済み,,Wishlink,,evidence/page-13.png
+p13R42,13,R,42,Orendro,,画像照合済み,,Orendro,,evidence/page-13.png
+p13R43,13,R,43,Open Calls,,画像照合済み,,Open Calls,,evidence/page-13.png
+p13R44,13,R,44,Enzo,,画像照合済み,,Enzo,,evidence/page-13.png
+p13R45,13,R,45,Simple Hack,,画像照合済み,,Simple Hack,,evidence/page-13.png
+p13R46,13,R,46,Maeve Lite,,画像照合済み,,Maeve Lite,,evidence/page-13.png
+p13R47,13,R,47,Family Box by Salz & Schmalz,,画像照合済み,p14R01と連結して Family Box by Salz & Schmalz を確認。,r...:h.. B..- L.. ©. O C.L...I.,,evidence/page-13.png
+p14L01,14,L,1,StreamPay,,画像照合済み,,ouecainray,p13L47,evidence/page-14.png
+p14L02,14,L,2,AIApply,,画像照合済み,,AlApply,,evidence/page-14.png
+p14L03,14,L,3,MyPerfectResume Resume Builder,,画像照合済み,,MyPerfectResume Resume Builder,,evidence/page-14.png
+p14L04,14,L,4,Potion,,画像照合済み,,Potion,,evidence/page-14.png
+p14L05,14,L,5,ContentPulse,,画像照合済み,,ContentPulse,,evidence/page-14.png
+p14L06,14,L,6,Maeve Social,,画像照合済み,,Maeve Social,,evidence/page-14.png
+p14L07,14,L,7,Centennial Arts Email,,画像照合済み,,Centennial Arts Email,,evidence/page-14.png
+p14L08,14,L,8,AiEngage CRM,,画像照合済み,,AiEngage CRM,,evidence/page-14.png
+p14L09,14,L,9,Ribele,,画像照合済み,,Ribele,,evidence/page-14.png
+p14L10,14,L,10,Record Meeting AI Notetaker,,画像照合済み,,Record Meeting Al Notetaker,,evidence/page-14.png
+p14L11,14,L,11,NutriPlant PRO,,画像照合済み,,NutriPlant PRO,,evidence/page-14.png
+p14L12,14,L,12,El Tiempo en Chile,,画像照合済み,,El Tiempo en Chile,,evidence/page-14.png
+p14L13,14,L,13,AnswerTracker,,画像照合済み,,AnswerTracker,,evidence/page-14.png
+p14L14,14,L,14,Veryfi Document Parser,,画像照合済み,,Veryfi Document Parser,,evidence/page-14.png
+p14L15,14,L,15,Spokenly,,画像照合済み,,Spokenly,,evidence/page-14.png
+p14L16,14,L,16,Definely,,画像照合済み,,Definely,,evidence/page-14.png
+p14L17,14,L,17,PodPitch,,画像照合済み,,PodPitch,,evidence/page-14.png
+p14L18,14,L,18,Rapier - Markdown Editor & Art,,画像照合済み,,Rapier - Markdown Editor & Art,,evidence/page-14.png
+p14L19,14,L,19,TODAY,,画像照合済み,,TODAY,,evidence/page-14.png
+p14L20,14,L,20,Court Reservation,,画像照合済み,,Court Reservation,,evidence/page-14.png
+p14L21,14,L,21,PurpleBee,,画像照合済み,,PurpleBee,,evidence/page-14.png
+p14L22,14,L,22,BizVizCards,,画像照合済み,,BizVizCards,,evidence/page-14.png
+p14L23,14,L,23,Randevu Takvimim,,画像照合済み,,Randevu Takvimim,,evidence/page-14.png
+p14L24,14,L,24,Bravara,,画像照合済み,,Bravara,,evidence/page-14.png
+p14L25,14,L,25,2Mind,,画像照合済み,,2Mind,,evidence/page-14.png
+p14L26,14,L,26,TransGull,,画像照合済み,,TransGull,,evidence/page-14.png
+p14L27,14,L,27,QR Generator,,画像照合済み,,QR Generator,,evidence/page-14.png
+p14L28,14,L,28,Job Toast,,画像照合済み,,Job Toast,,evidence/page-14.png
+p14L29,14,L,29,Vokser,,画像照合済み,,Vokser,,evidence/page-14.png
+p14L30,14,L,30,SerpApi,,画像照合済み,,SerpApi,,evidence/page-14.png
+p14L31,14,L,31,ScottGPT,,画像照合済み,,ScottGPT,,evidence/page-14.png
+p14L32,14,L,32,Lead360 Work Mode,,画像照合済み,,Lead360 Work Mode,,evidence/page-14.png
+p14L33,14,L,33,buddydayplanner,,画像照合済み,,buddydayplanner,,evidence/page-14.png
+p14L34,14,L,34,World News Sources,,画像照合済み,,World News Sources,,evidence/page-14.png
+p14L35,14,L,35,MindMap.Town,,画像照合済み,,MindMap.Town,,evidence/page-14.png
+p14L36,14,L,36,Formloop,,画像照合済み,,Formloop,,evidence/page-14.png
+p14L37,14,L,37,TimeLodge,,画像照合済み,,TimeLodge,,evidence/page-14.png
+p14L38,14,L,38,,Chiedi a Lea...,要確認,画面上で Chiedi a Lea... と省略表示されている。省略された正式名は補完しない。,Chiedi a Lea...,,evidence/page-14.png
+p14L39,14,L,39,Visitta,,画像照合済み,,Visitta,,evidence/page-14.png
+p14L40,14,L,40,VideoRecompress Studio,,画像照合済み,,VideoRecompress Studio,,evidence/page-14.png
+p14L41,14,L,41,CleanMyList,,画像照合済み,,CleanMyList,,evidence/page-14.png
+p14L42,14,L,42,Kanban Board,,画像照合済み,,Kanban Board,,evidence/page-14.png
+p14L43,14,L,43,Video Summarizer for YouTube,,画像照合済み,,Video Summarizer for YouTube,,evidence/page-14.png
+p14L44,14,L,44,O'Hara QR Generator,,画像照合済み,,O'Hara QR Generator,,evidence/page-14.png
+p14L45,14,L,45,Yamdu,,画像照合済み,,Yamdu,,evidence/page-14.png
+p14L46,14,L,46,Tenki,,画像照合済み,,Tenki,,evidence/page-14.png
+p14L47,14,L,47,Kickaround,,画像照合済み,,Kickaround,,evidence/page-14.png
+p14R01,14,R,1,Family Box by Salz & Schmalz,,画像照合済み,,ramlly DOX Dy odiZ & SCHMaiz,p13R47,evidence/page-14.png
+p14R02,14,R,2,Jack,,画像照合済み,,Jack,,evidence/page-14.png
+p14R03,14,R,3,Usable,,画像照合済み,,Usable,,evidence/page-14.png
+p14R04,14,R,4,Audiogest,,画像照合済み,,Audiogest,,evidence/page-14.png
+p14R05,14,R,5,TribuJus,,画像照合済み,,TribuJus,,evidence/page-14.png
+p14R06,14,R,6,Mailsoftly,,画像照合済み,,Mailsoftly,,evidence/page-14.png
+p14R07,14,R,7,VoiceCap,,画像照合済み,,VoiceCap,,evidence/page-14.png
+p14R08,14,R,8,Speaking Coach,,画像照合済み,,Speaking Coach,,evidence/page-14.png
+p14R09,14,R,9,Everyn,,画像照合済み,,Everyn,,evidence/page-14.png
+p14R10,14,R,10,Heimster,,画像照合済み,,Heimster,,evidence/page-14.png
+p14R11,14,R,11,Planifly,,画像照合済み,,Planifly,,evidence/page-14.png
+p14R12,14,R,12,One Click,,画像照合済み,,One Click,,evidence/page-14.png
+p14R13,14,R,13,Underpriced AI,,画像照合済み,,Underpriced Al,,evidence/page-14.png
+p14R14,14,R,14,Shorty,,画像照合済み,,Shorty,,evidence/page-14.png
+p14R15,14,R,15,Bloom,,画像照合済み,,Bloom,,evidence/page-14.png
+p14R16,14,R,16,Joboostr,,画像照合済み,,Joboostr,,evidence/page-14.png
+p14R17,14,R,17,ConvertPDF,,画像照合済み,,ConvertPDF,,evidence/page-14.png
+p14R18,14,R,18,Agenda Hero,,画像照合済み,,Agenda Hero,,evidence/page-14.png
+p14R19,14,R,19,Savebase,,画像照合済み,,Savebase,,evidence/page-14.png
+p14R20,14,R,20,SegControle,,画像照合済み,,SegControle,,evidence/page-14.png
+p14R21,14,R,21,Mavlow,,画像照合済み,,Mavlow,,evidence/page-14.png
+p14R22,14,R,22,Segue,,画像照合済み,,Segue,,evidence/page-14.png
+p14R23,14,R,23,Unfenced,,画像照合済み,,Unfenced,,evidence/page-14.png
+p14R24,14,R,24,Designkit,,画像照合済み,,Designkit,,evidence/page-14.png
+p14R25,14,R,25,Cobalt Capture,,画像照合済み,,Cobalt Capture,,evidence/page-14.png
+p14R26,14,R,26,Eventful: Make Calendar Events,,画像照合済み,,Eventful: Make Calendar Events,,evidence/page-14.png
+p14R27,14,R,27,AnyHowTo: Guide + Instructions,,画像照合済み,,AnyHowTo: Guide + Instructions,,evidence/page-14.png
+p14R28,14,R,28,Sonix,,画像照合済み,,Sonix,,evidence/page-14.png
+p14R29,14,R,29,Kapa,,画像照合済み,,Kapa,,evidence/page-14.png
+p14R30,14,R,30,Jotterful,,画像照合済み,,Jotterful,,evidence/page-14.png
+p14R31,14,R,31,Resume,,画像照合済み,,Resume,,evidence/page-14.png
+p14R32,14,R,32,MyCS — My Command System,,画像照合済み,,MyCS — My Command System,,evidence/page-14.png
+p14R33,14,R,33,RS Dictionary Builder,,画像照合済み,,RS Dictionary Builder,,evidence/page-14.png
+p14R34,14,R,34,Burner Mail,,画像照合済み,,Burner Mail,,evidence/page-14.png
+p14R35,14,R,35,Senitix CRM,,画像照合済み,,Senitix CRM,,evidence/page-14.png
+p14R36,14,R,36,Smoothspeak,,画像照合済み,,Smoothspeak,,evidence/page-14.png
+p14R37,14,R,37,Agent KB,,画像照合済み,,Agent KB,,evidence/page-14.png
+p14R38,14,R,38,Kinic Wiki,,画像照合済み,,Kinic Wiki,,evidence/page-14.png
+p14R39,14,R,39,PageRush: Instant websites,,画像照合済み,,PageRush: Instant websites,,evidence/page-14.png
+p14R40,14,R,40,Atlavium,,画像照合済み,,Atlavium,,evidence/page-14.png
+p14R41,14,R,41,AI Gaur Growth Advisor,,画像照合済み,,Al Gaur Growth Advisor,,evidence/page-14.png
+p14R42,14,R,42,YouTube Agent,,画像照合済み,,YouTube Agent,,evidence/page-14.png
+p14R43,14,R,43,BuySignal,,画像照合済み,,BuySignal,,evidence/page-14.png
+p14R44,14,R,44,Causalytics,,画像照合済み,,Causalytics,,evidence/page-14.png
+p14R45,14,R,45,Virte,,画像照合済み,,Virte,,evidence/page-14.png
+p14R46,14,R,46,WalletPassBuilder,,画像照合済み,,WalletPassBuilder,,evidence/page-14.png
+p14R47,14,R,47,RS Attorney Finder,,画像照合済み,,RS Attorney Finder,,evidence/page-14.png
+p15L01,15,L,1,,BenlkBij,要確認,BenIkBij / BenlkBij の I と l は要確認。,BenlkBij,,evidence/page-15.png
+p15L02,15,L,2,Harvest,,画像照合済み,,Harvest,,evidence/page-15.png
+p15L03,15,L,3,LolaNext - jobs,,画像照合済み,,LolaNext - jobs,,evidence/page-15.png
+p15L04,15,L,4,Mistika Workflows,,画像照合済み,,Mistika Workflows,,evidence/page-15.png
+p15L05,15,L,5,dots brain,,画像照合済み,,dots brain,,evidence/page-15.png
+p15L06,15,L,6,Genie Transcribe,,画像照合済み,,Genie Transcribe,,evidence/page-15.png
+p15L07,15,L,7,Eve Cortex,,画像照合済み,,Eve Cortex,,evidence/page-15.png
+p15L08,15,L,8,AppQR,,画像照合済み,,AppQR,,evidence/page-15.png
+p15L09,15,L,9,Julius: Math Solver & Stats,,画像照合済み,,Julius: Math Solver & Stats,,evidence/page-15.png
+p15R01,15,R,1,PartyFun,,画像照合済み,,PartyFun,,evidence/page-15.png
+p15R02,15,R,2,Polytweaks,,画像照合済み,,Polytweaks,,evidence/page-15.png
+p15R03,15,R,3,Hydrafetch,,画像照合済み,,Hydrafetch,,evidence/page-15.png
+p15R04,15,R,4,Shlau,,画像照合済み,,Shlau,,evidence/page-15.png
+p15R05,15,R,5,Lemonpost,,画像照合済み,,Lemonpost,,evidence/page-15.png
+p15R06,15,R,6,IVOA,,画像照合済み,,IVOA,,evidence/page-15.png
+p15R07,15,R,7,Dispro,,画像照合済み,,Dispro,,evidence/page-15.png
+p15R08,15,R,8,Secretary Knowledge,,画像照合済み,,Secretary Knowledge,,evidence/page-15.png
+p15R09,15,R,9,New CV Tool,,画像照合済み,,New CV Tool,,evidence/page-15.png
+p09R47,9,R,47,Tap26,,画像照合済み,,,p10R01,

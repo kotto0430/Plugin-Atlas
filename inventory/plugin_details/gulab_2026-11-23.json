@@ -1,0 +1,26 @@
+{
+  "name": "Gulab",
+  "category": "Creativity",
+  "provider": "Upsurge Labs",
+  "version": "1.0.0",
+  "observed_at": "2026-11-23",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac0df91247c8191920d50ea68f9fabc?category=creativity",
+  "original_description": "Gulab connects your Gulab account to a range of image and video generation models. Describe an image or a short clip and Gulab submits the generation and shows the result in the chat; videos run in the background and appear when ready. You can also save results into Gulab projects, upload reference images, check your credit balance and usage, and open your work on the Gulab canvas at gulab.ai. Generations use credits from your Gulab account.",
+  "summary_ja": "画像や短い動画を生成し、Gulabのプロジェクトで管理する。",
+  "limitations_ja": [
+    "Gulabアカウントのクレジットを使用する。"
+  ],
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "Gulab",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "画像生成",
+    "動画制作"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}

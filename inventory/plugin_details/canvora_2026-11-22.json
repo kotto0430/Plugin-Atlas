@@ -1,0 +1,23 @@
+{
+  "official_app_name": "Canvora",
+  "provider": "Zynova Technologies OÜ",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_69beb865b68c81919c2064fabf77d0b0?category=creativity",
+  "observed_at": "2026-11-22",
+  "original_description": "Canvora turns your content into on-brand marketing visuals inside ChatGPT.\n\nShare a URL, a document, text, or an idea. Canvora reads it and creates a full set of designs – social posts, carousels, stories, ads, presentations, and slide decks – in your saved brand kit (logo, colors, fonts, style). You can create for multiple brands and keep each one consistent.\n\nWhat you can do:\n- Turn a URL, document, text, or idea into visuals across 100+ formats\n- Save a brand kit per brand so every visual stays on-brand\n- Localize a whole set into any of 150+ supported languages, with text regenerated natively – right-to-left and non-Latin scripts supported\n- Edit in plain language (e.g. \"make the headline warmer\") and regenerate with the layout intact\n- Create variations and export to PDF, PPTX, or ZIP at 2K or 4K\n\nBuilt for creators, freelancers, marketing teams, and agencies – whether you run one brand or many.",
+  "summary_ja": "ブランドの設定を使い、SNS投稿や広告・資料向け画像を制作。",
+  "usage_tags": [
+    "マーケティング",
+    "SNS",
+    "デザイン",
+    "プレゼン"
+  ],
+  "limitations": [
+    "100以上の形式、150以上の対応言語を公式説明はうたう。実際の対応範囲は未検証。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

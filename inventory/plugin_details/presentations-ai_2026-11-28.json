@@ -1,0 +1,25 @@
+{
+  "official_app_name": "Presentations.AI",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "Presentations.AI",
+  "version": "1.8.0",
+  "observed_at": "2026-11-28",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a0c45498a2081918ddff7597086fa59?category=creativity",
+  "original_description": "Presentations.AI turns a topic, your notes, or pasted text into a finished, designed slide deck.\n\nDescribe what you need, such as a pitch deck, a quarterly business review, a training session, or a single slide that explains one idea. You can set the slide count, audience, and level of detail, review an outline before any slides are made, and apply a brand kit so the deck matches your brand.\n\nChoose PowerPoint, PDF, or slide images when you ask for the deck, then download the file. You can also get a share link, give someone access by email address, and find, rename, move, or delete your decks from the chat.\n\nMade for founders, sales and marketing teams, educators, and anyone who needs a presentation quickly.\n\nGood to know:\n• You need a Presentations.AI for Business account. It is separate from an app.presentations.ai account.\n• Creating a deck or an outline uses your account's credits.\n• A deck usually takes a few minutes.\n• New decks are private until you share them. Your workspace's owners and admins can always open them.\n• A share link lets anyone with the link view the deck, and everyone in your workspace can view it too.\n• People you give access to are not emailed. They see the deck when they sign in to Presentations.AI with that email address.\n• The file format is set when the deck is created and can't be changed from the chat.\n• Files can't be uploaded from the chat, so paste the text instead. To edit slides, open the deck in Presentations.AI.",
+  "original_description_language": "英語",
+  "description_scope": "詳細ページの説明本文",
+  "summary_ja": "題材や文章からスライドを作り、共有やファイル出力を行う。",
+  "usage_tags": [
+    "プレゼンテーション",
+    "スライド制作",
+    "資料作成"
+  ],
+  "limitations_ja": "Businessアカウントが必要で作成時にクレジットを使用。ファイル形式は作成時に決まり、チャットからのファイルアップロードは不可。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。"
+}

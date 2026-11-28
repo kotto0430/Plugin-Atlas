@@ -1,0 +1,26 @@
+{
+  "name": "Animx",
+  "category": "Creativity",
+  "provider": "Outranking LTD",
+  "version": "1.1.0",
+  "observed_at": "2026-11-23",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac798e2b2348191aab157b5e43d9a4f?category=creativity",
+  "original_description": "Animx creates images and videos from a text prompt. Describe the scene you want and Animx generates it: text-to-image, text-to-video, and turning a still image into a short video. You can also check the status of a generation while it renders, and open or download the finished image or video. Animx is for people who have an Animx account: sign in through ChatGPT, and the plugin only reads and creates the generations that belong to that account.",
+  "summary_ja": "文章や静止画から画像・動画を生成し、進捗を確認する。",
+  "limitations_ja": [
+    "Animxアカウントが必要。"
+  ],
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "Animx",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "画像生成",
+    "動画制作"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}

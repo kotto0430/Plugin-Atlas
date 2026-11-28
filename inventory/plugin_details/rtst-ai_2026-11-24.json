@@ -1,0 +1,25 @@
+{
+  "name": "RTST AI",
+  "category": "Creativity",
+  "provider": "RTST AI (VISATECH S.R.L.)",
+  "version": "0.1.0",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac74ea7f23c8191a32e2a3be88b790b?category=creativity",
+  "original_description": "RTST AI connects your rtst.ai account so you can create images and videos just by describing them. Finished images, and playable videos, appear right in the conversation.\n\nWhat you can do:\n• Generate images: text-to-image, editing your own photos, variations, grids and multiple samples, with each model's own sizes and aspect ratios.\n• Generate videos: text-to-video and image-to-video with first/last-frame control, reference images and optional audio.\n• Motion transfer: animate a character image with the motion from a reference video.\n• Use your own images: attach a photo, pick one in the in-chat uploader, or import any public image by URL.\n• Browse and reuse: your image, video and motion-transfer library, with one-click animate, variation, remix and use-as-reference.\n\nGenerations are private to your rtst.ai library unless you ask to publish them. Sign in with your rtst.ai account, or create one during sign-in; your password is never shared and you can disconnect at any time.",
+  "summary_ja": "画像・動画を生成し、参考動画の動きをキャラクターに移す。",
+  "limitations_ja": "アカウントが必要。生成物は公開を依頼しない限りライブラリ内で非公開と説明。",
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "official_app_name": "RTST AI",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "画像生成",
+    "動画生成",
+    "モーション"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}

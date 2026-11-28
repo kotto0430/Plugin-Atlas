@@ -1,0 +1,21 @@
+{
+  "official_app_name": "Sleek",
+  "provider": "Sleek Design",
+  "version": "1.0.1",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6aabb077792c8191afa89869b7f6c41a?category=creativity",
+  "observed_at": "2026-11-23",
+  "original_description": "Describe the app you want and Sleek designs the screens for it. Onboarding, home, checkout, a profile page, whatever the app needs. It builds them as one set so they read like a single app instead of five loose mockups, then shows them in the chat. Open the project link to edit any screen, change the layout or the copy, and export what you make. No design skills required. If you can describe the app, you get screens back in a few minutes.",
+  "summary_ja": "アプリの複数画面のデザイン案を作成・編集。",
+  "usage_tags": [
+    "アプリデザイン",
+    "UI制作"
+  ],
+  "limitations": [
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証",
+    "説明だけでは不明"
+  ]
+}

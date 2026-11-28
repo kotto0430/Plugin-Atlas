@@ -1,0 +1,24 @@
+{
+  "official_app_name": "SuperCool",
+  "provider": "Deal.ai Inc.",
+  "version": "1.0.3",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6abe94003d108191a98313c8f5317073?category=creativity",
+  "observed_at": "2026-11-22",
+  "original_description": "SuperCool is an AI agent that makes finished work from a plain-language request. Connect your SuperCool account and ask for what you need in ChatGPT: your agent plans it, makes it in your SuperCool account, and sends the results back into the conversation as images, audio, playable video and links.\n\nWith SuperCool, you can:\n• Make video ads, product videos, social shorts and explainers, with music, voiceover and captions.\n• Create product photos, image ads and branded visuals in any style, from a description or your own photos.\n• Make talking-head videos with a consistent AI presenter, from a script or an idea.\n• Build and publish websites and landing pages, then change them by asking.\n• Make presentations and pitch decks, ready to present or download.\n• Get research reports that read the web and cite their sources.\n• Compose songs, jingles and voiceovers.\n\nYour agent remembers your work across SuperCool, the web app, phone calls and texts, so you can say \"make the ad from yesterday shorter\" or \"send me that logo again\". Long jobs keep running in SuperCool while you chat, and the results come back here when they're ready.\n\nSuperCool only works inside your own SuperCool account. Connect your SuperCool account to get started.",
+  "summary_ja": "動画・画像・サイト・資料・音楽などの制作を支援。",
+  "usage_tags": [
+    "動画制作",
+    "画像生成",
+    "ウェブ制作",
+    "プレゼン",
+    "音楽"
+  ],
+  "limitations": [
+    "SuperCoolアカウントの接続が必要。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

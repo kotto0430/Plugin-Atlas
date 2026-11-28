@@ -1,0 +1,25 @@
+{
+  "official_app_name": "Blender Bridge",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "Blender Bridge",
+  "version": "1.1.0",
+  "observed_at": "2026-11-28",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6aef8c52ccac819184e534e7e027d740?category=creativity",
+  "original_description": "Create in Blender by describing what you want. Build a scene from scratch or continue an existing project: Blender Bridge connects ChatGPT and Codex to Blender so you can create, inspect the result and keep refining it in the same conversation.\n\nWork across Blender's creative tools: modeling and Geometry Nodes, materials and textures, UV mapping and baking, lighting and cameras, animation and rigging, physics and simulations. Draw with Grease Pencil, composite your renders or edit video. Bring in reference images and use free CC0 models, HDRIs and textures in your scenes.\n\nSee your scene update in the chat's Blender panel. Follow render progress, browse project files and return to earlier steps through scene history. Download your .blend project, rendered images and videos, or export models for the web, game engines, AR and 3D printing.\n\nYour conversation can travel with you. Use ChatGPT on your phone while Blender runs on your Windows PC. To work on someone else's computer, connect through an invitation they approve; you can also invite a collaborator to work in your Blender.\n\nTo start, install Blender Bridge Desktop on a Windows 10/11 x64 PC with Blender 4.2 or later, then sign in to Blender Bridge with active access and connect the plugin. The PC must be online while you work.",
+  "original_description_language": "英語",
+  "description_scope": "詳細ページの説明本文",
+  "summary_ja": "会話からBlenderのシーン制作・確認・修正を支援する。",
+  "usage_tags": [
+    "Blender",
+    "3D制作",
+    "アニメーション"
+  ],
+  "limitations_ja": "Windows 10/11 x64、Blender 4.2以降、専用デスクトップアプリ、アカウントと接続が必要と説明。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Glif",
+  "category": "Creativity",
+  "provider": "Glif (Entertainment Software)",
+  "version": "1.0.0",
+  "observed_at": "2026-11-23",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a68f68f0a788191b1c4c741b14f1e2f?category=creativity",
+  "original_description": "Turn a creative idea into images, video, and audio with Glif. Describe a product launch, a strange little film, or a visual world. Glif chooses models and carries out the steps in one saved project.\n\nStart with a brief or bring reference media. Explore visual directions, animate an image, and create matching sound. Finished media appears in the Glif viewer, with links to your project and files.\n\nPick up where you left off. Reopen a project, build on earlier results, and use your saved Glif skills to guide the next version.\n\nConnect your Glif account to get started. Generation uses credits already available in your account. The app does not provide credit purchases or subscription checkout.",
+  "summary_ja": "画像・動画・音声を同じプロジェクトで作成し、後から続きを編集する。",
+  "limitations_ja": [
+    "Glifアカウントが必要。生成には既存クレジットを使用する。"
+  ],
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "Glif",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "画像生成",
+    "動画制作",
+    "音声"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}

@@ -1,0 +1,23 @@
+{
+  "official_app_name": "Revid",
+  "provider": "tmaker",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6aaa57f360648191891aee4749290e60?category=creativity",
+  "observed_at": "2026-11-23",
+  "original_description": "Revid turns an idea into a finished short-form video without leaving the chat. Give it a prompt, a script, an article URL, an audio file, or a music track, and Revid writes the script, generates the visuals, adds a voiceover and captions, and renders a vertical video ready for TikTok, Reels, and Shorts. You can estimate the credit cost before rendering, check render progress, export the MP4, and schedule or publish the video to your connected social accounts. Revid also searches viral short-form videos across YouTube, TikTok, Instagram, X, Reddit, Threads, and LinkedIn so you can study what is working before you create. Requires a Revid account with an active plan; renders consume credits from your Revid account.",
+  "summary_ja": "短尺動画を作成し、SNS投稿の準備や調査を支援する。",
+  "usage_tags": [
+    "動画制作",
+    "SNS",
+    "マーケティング"
+  ],
+  "limitations": [
+    "有効なプランのRevidアカウントが必要。レンダリングはクレジットを消費する。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証",
+    "説明だけでは不明"
+  ]
+}

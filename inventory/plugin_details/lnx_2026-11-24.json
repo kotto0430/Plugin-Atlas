@@ -1,0 +1,26 @@
+{
+  "name": "LNX",
+  "category": "Creativity",
+  "provider": "LNX",
+  "version": "1.0.5",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6abdfc606194819190098ddfd7a00894?category=creativity",
+  "original_description": "One link for everything you do.\n\nTell ChatGPT who you are and what you'd like to share (your shop, booking page, latest video, socials) and LNX builds a polished link-in-bio page for you. Put lnx.net/yourname in your Instagram, TikTok or YouTube bio, your email signature or on your business card, and everyone finds everything in one place.\n\n• Up to 20 links and 10 social profiles, plus a tagline and a short bio\n• Three themes to match your style\n• Checks that lnx.net/yourname is still available and suggests alternatives if it isn't\n• Open the link to see your finished page, add a photo and fine-tune anything, then publish when you're happy\n\nNothing goes live until you say so. Pages come with click analytics and a QR code. Made for creators, freelancers, artists and small businesses.",
+  "summary_ja": "リンクやSNSをまとめたプロフィールページの下書きを作る。",
+  "limitations_ja": "新規ページ作成のみ。既存ページの編集や公開はLNX側で行い、公開にはアカウントが必要。下書きは30日で期限切れ。",
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "LNX",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "プロフィール",
+    "SNS",
+    "ウェブページ"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明",
+  "app_description": "LNX builds link-in-bio pages: one short address, lnx.net/yourname, that collects a person's or small business's links, social profiles and a short bio, for use in an Instagram, TikTok or YouTube bio, an email signature or a business card. Tell ChatGPT who you are and what to link. It builds the page and gives you a link. Open it to see your finished page in the LNX editor, add a photo or change anything, and press Publish to put it live with an LNX account. Nothing is public until you publish, and ChatGPT never creates an account for you. What it can do: - Create a page with your name, tagline, bio, up to 20 links (websites, shops, booking pages, phone and email) and up to 10 social profiles, in one of three themes. - Check whether lnx.net/yourname is available and suggest alternatives if it isn't. Limitations: it creates new pages only. It can't edit, publish, delete or read the analytics of an existing LNX page; those happen in the LNX editor. Photos are added in the editor after opening the link. Drafts expire after 30 days. Intended for creators, freelancers, artists and small businesses who want one link that points to everything they do. No account is needed to connect."
+}

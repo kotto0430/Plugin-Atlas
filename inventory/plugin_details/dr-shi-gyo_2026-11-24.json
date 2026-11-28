@@ -1,0 +1,25 @@
+{
+  "name": "Dr.SHI-GYO",
+  "official_app_name": "Dr.SHI-GYO",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "大輔 歌島",
+  "version": "1.1.6",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugins_6adf63a4279881919d36044a3c03d793?category=creativity",
+  "original_description": "An integrated content-creation plugin for physicians producing educational content in Japanese. Dr.SHI-GYO brings together the former SG custom-GPT workflows and YouTube analytics, with improvements across planning, writing, visuals, editorial handoff and content reuse. Start with the task you want to accomplish; use one workflow or connect several.\n\nPlan videos from a theme or a 28-day YouTube report. Create and improve scripts from a theme, supplied documents or your own spoken ideas. Research medical evidence and evaluate proposed methods. Generate thumbnail alternatives, in-video illustrations and diagrams, and social-media grid images. Prepare prompts for YouTube channel art. Turn finished scripts into SEO/AEO blog articles, or research the market and comparable books for a publishing proposal.\n\nCreate a public-facing profile from your own experiences, define three expertise keywords and three personal keywords, and plan a filming set and reusable brand palette. Prepare a publisher-facing proposal and cover letter after market research. For a finished video, create a title, description and chapters using verified timing; script-only input produces untimed chapter headings.\n\nFor an editor handoff, select suitable visual alternatives, create the available images and video clips, place them beside the full script, and deliver script.html and a ZIP with the actual assets. Reuse your introduction card, end screen and other supplied materials. Selected medical scenes can include an anatomy-focused illustration, a cute simplified alternative and a schematic for review.\n\nA personal Project holds your profile, writing examples and visual preferences. The three-stage spoken script process is one option: speak freely, review research and speak again to choose the direction, then speak your corrections to a draft. It is not required for other workflows.\n\nAudio transcription, image and video generation, independent reviewers, file creation and private review pages depend on the tools and connections available in your environment. Separate service plans may be needed. The plugin does not provide its own hosted transcription or video-generation service. Medical content and generated visuals require the physician's review before publication.",
+  "summary_ja": "医師向けの日本語教育コンテンツについて、動画企画・台本・図解・編集用素材の制作を支援する。",
+  "limitations_ja": "音声文字起こしや画像・動画生成などは利用環境のツールや接続に依存し、別途契約が必要な場合がある。医学情報と画像は医師による確認が必要。",
+  "usage_tags": [
+    "医療教育",
+    "動画制作",
+    "執筆"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "description_scope": "詳細ページ本文の英語説明"
+}

@@ -1,0 +1,21 @@
+{
+  "official_app_name": "Embroidery File Converter",
+  "provider": "MTTenterprise Inc",
+  "version": "1.0.2",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a8f200f076c8191ae4b57bcd993e86d?category=creativity",
+  "observed_at": "2026-11-16",
+  "original_description": "Digitize PNG, JPG, SVG, and WebP artwork into embroidery designs, or convert existing embroidery files between machine formats such as PES, DST, JEF, VP3, EXP, and more. Upload a file to create a private stitch preview, then review thread-rendered stitches, dimensions, thread colours, warnings, and production metrics in ChatGPT.",
+  "summary_ja": "画像を刺繍データ化したり刺繍ミシン用の形式を変換したりして、縫い目や寸法を確認する。",
+  "usage_tags": [
+    "刺繍",
+    "ファイル変換",
+    "ハンドメイド"
+  ],
+  "limitations": [
+    "実動作・変換品質・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

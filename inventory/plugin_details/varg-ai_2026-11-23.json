@@ -1,0 +1,24 @@
+{
+  "official_app_name": "varg.ai",
+  "provider": "vargai Inc.",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac05978bc548191a20935c3984a02eb?category=creativity",
+  "observed_at": "2026-11-23",
+  "original_description": "Generate images, video, voiceover and music from text prompts and reference files, using the generation models available in your varg.ai account. Find a voice preset and generate speech, browse and render published video templates, or render your own multi-scene video with captions and voiceover.\n\nVideo and render jobs run in the background: you can check their status and view the result when they finish. Generated and uploaded files are saved to your varg.ai library, and you can check your credit balance, spend and job history. Generations use credits from your varg.ai account.",
+  "summary_ja": "画像・動画・音声・音楽の生成と広告動画の制作。",
+  "usage_tags": [
+    "画像生成",
+    "動画制作",
+    "マーケティング"
+  ],
+  "limitations": [
+    "varg.aiアカウントのクレジットを使用する。",
+    "生成・アップロードしたファイルはvarg.aiライブラリに保存される。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証",
+    "説明だけでは不明"
+  ]
+}

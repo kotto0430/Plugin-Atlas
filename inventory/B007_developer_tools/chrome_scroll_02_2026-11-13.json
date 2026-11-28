@@ -1,0 +1,397 @@
+{
+  "source": "Chrome ChatGPT 開発者ツール",
+  "date": "2026-11-13",
+  "method": "一覧を重ねてスクロールし表示名を目視転記。転記誤りや重複の可能性あり。",
+  "catalog_blob": "fd13ece4009fcf170733daf819bb2e7424328a60",
+  "counts": {
+    "rows": 96,
+    "matched": 0,
+    "unmatched": 96
+  },
+  "rows": [
+    {
+      "name": "MailChannels",
+      "matched": false
+    },
+    {
+      "name": "Web Performance Insights",
+      "matched": false
+    },
+    {
+      "name": "Blink",
+      "matched": false
+    },
+    {
+      "name": "CrowdStrike Falcon Foundry",
+      "matched": false
+    },
+    {
+      "name": "SetupMatt",
+      "matched": false
+    },
+    {
+      "name": "Atlas Scout",
+      "matched": false
+    },
+    {
+      "name": "FlightDeck",
+      "matched": false
+    },
+    {
+      "name": "Promotion Check",
+      "matched": false
+    },
+    {
+      "name": "Go: Distributed Systems",
+      "matched": false
+    },
+    {
+      "name": "Duende Skills",
+      "matched": false
+    },
+    {
+      "name": "Modelica Projects",
+      "matched": false
+    },
+    {
+      "name": "Legacy JRXML Toolkit",
+      "matched": false
+    },
+    {
+      "name": "Go: Fintech",
+      "matched": false
+    },
+    {
+      "name": "TokenLab",
+      "matched": false
+    },
+    {
+      "name": "Triage",
+      "matched": false
+    },
+    {
+      "name": "Portable Resume",
+      "matched": false
+    },
+    {
+      "name": "Apprentice",
+      "matched": false
+    },
+    {
+      "name": "Altifigence",
+      "matched": false
+    },
+    {
+      "name": "Pod",
+      "matched": false
+    },
+    {
+      "name": "OneGate",
+      "matched": false
+    },
+    {
+      "name": "CrowdStrike Falcon Fusion",
+      "matched": false
+    },
+    {
+      "name": "KnowzCode",
+      "matched": false
+    },
+    {
+      "name": "MCP Boundary",
+      "matched": false
+    },
+    {
+      "name": "ApyHub US",
+      "matched": false
+    },
+    {
+      "name": "AWS CDK Project Init",
+      "matched": false
+    },
+    {
+      "name": "Grafana Cloud",
+      "matched": false
+    },
+    {
+      "name": "LanceDB",
+      "matched": false
+    },
+    {
+      "name": "RAG & GenAI Copilot",
+      "matched": false
+    },
+    {
+      "name": "The 5th Ledger",
+      "matched": false
+    },
+    {
+      "name": "Interactive xAPI Designer",
+      "matched": false
+    },
+    {
+      "name": "VirusTotal",
+      "matched": false
+    },
+    {
+      "name": "Harbormaster",
+      "matched": false
+    },
+    {
+      "name": "Waggle Installer",
+      "matched": false
+    },
+    {
+      "name": "Componecat",
+      "matched": false
+    },
+    {
+      "name": "Mergify",
+      "matched": false
+    },
+    {
+      "name": "ToTickets",
+      "matched": false
+    },
+    {
+      "name": "Thrixel",
+      "matched": false
+    },
+    {
+      "name": "AI Hooter",
+      "matched": false
+    },
+    {
+      "name": "Trylle",
+      "matched": false
+    },
+    {
+      "name": "ECZ-ID MCP Trust",
+      "matched": false
+    },
+    {
+      "name": "castform",
+      "matched": false
+    },
+    {
+      "name": "Ramus",
+      "matched": false
+    },
+    {
+      "name": "ECZ-ID API Trust",
+      "matched": false
+    },
+    {
+      "name": "Uniform",
+      "matched": false
+    },
+    {
+      "name": "Antom Integration",
+      "matched": false
+    },
+    {
+      "name": "Embrasure",
+      "matched": false
+    },
+    {
+      "name": "ECZ-ID Agent Trust",
+      "matched": false
+    },
+    {
+      "name": "Harness",
+      "matched": false
+    },
+    {
+      "name": "heyGRC",
+      "matched": false
+    },
+    {
+      "name": "Bagel",
+      "matched": false
+    },
+    {
+      "name": "QAMap",
+      "matched": false
+    },
+    {
+      "name": "Servotab",
+      "matched": false
+    },
+    {
+      "name": "microCMS",
+      "matched": false
+    },
+    {
+      "name": "Ship24 Tracking API",
+      "matched": false
+    },
+    {
+      "name": "CompText Benchmark",
+      "matched": false
+    },
+    {
+      "name": "Bird",
+      "matched": false
+    },
+    {
+      "name": "VEDA Demo Analyst",
+      "matched": false
+    },
+    {
+      "name": "CompText Evidence",
+      "matched": false
+    },
+    {
+      "name": "TokenOS dApp Builder",
+      "matched": false
+    },
+    {
+      "name": "ECZ-ID MCP Verifier",
+      "matched": false
+    },
+    {
+      "name": "Vibe Catalysis",
+      "matched": false
+    },
+    {
+      "name": "louisschprs",
+      "matched": false
+    },
+    {
+      "name": "Pixeltable",
+      "matched": false
+    },
+    {
+      "name": "Pethost",
+      "matched": false
+    },
+    {
+      "name": "Zilliz",
+      "matched": false
+    },
+    {
+      "name": "EW AI Power Digital Twin",
+      "matched": false
+    },
+    {
+      "name": "ShardX Proxy Advisor",
+      "matched": false
+    },
+    {
+      "name": "Search1API",
+      "matched": false
+    },
+    {
+      "name": "ECZ-ID DORA Readiness",
+      "matched": false
+    },
+    {
+      "name": "CompText Guard",
+      "matched": false
+    },
+    {
+      "name": "ECZ-ID SBOM & CRA Readiness",
+      "matched": false
+    },
+    {
+      "name": "SSOT Check",
+      "matched": false
+    },
+    {
+      "name": "Nexo YAML Iron",
+      "matched": false
+    },
+    {
+      "name": "UiChemy AI Website Builder",
+      "matched": false
+    },
+    {
+      "name": "EvalDossier",
+      "matched": false
+    },
+    {
+      "name": "LovableSEO",
+      "matched": false
+    },
+    {
+      "name": "Beste",
+      "matched": false
+    },
+    {
+      "name": "ui-consistency",
+      "matched": false
+    },
+    {
+      "name": "Browser Use",
+      "matched": false
+    },
+    {
+      "name": "dotenc",
+      "matched": false
+    },
+    {
+      "name": "CRIADOR / Reef",
+      "matched": false
+    },
+    {
+      "name": "TokenOS Wallet Inspector",
+      "matched": false
+    },
+    {
+      "name": "TokenOS Token Launch Planner",
+      "matched": false
+    },
+    {
+      "name": "Swigs Cloud",
+      "matched": false
+    },
+    {
+      "name": "Exness",
+      "matched": false
+    },
+    {
+      "name": "SportsAPIs.dev",
+      "matched": false
+    },
+    {
+      "name": "Video Code Reviewer",
+      "matched": false
+    },
+    {
+      "name": "Loupe Code Review",
+      "matched": false
+    },
+    {
+      "name": "EW EDC Protocol Mapper",
+      "matched": false
+    },
+    {
+      "name": "Mac Sign",
+      "matched": false
+    },
+    {
+      "name": "Samva",
+      "matched": false
+    },
+    {
+      "name": "saymd",
+      "matched": false
+    },
+    {
+      "name": "Swagger",
+      "matched": false
+    },
+    {
+      "name": "keelson",
+      "matched": false
+    },
+    {
+      "name": "Sonar ASO",
+      "matched": false
+    },
+    {
+      "name": "VoiceLab",
+      "matched": false
+    }
+  ]
+}

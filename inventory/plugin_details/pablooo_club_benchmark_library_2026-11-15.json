@@ -1,0 +1,21 @@
+{
+  "official_app_name": "Pablooo.club Benchmark library",
+  "provider": "Graines SAS",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a257dbabf308191b12c45cad8b33c0f?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Pablooo.club helps users search a large screenshot library of iOS, Android, and web apps, compare real product UI patterns, filter by app, screen type, and device type, display results in a carousel, and fetch individual screenshots for closer visual analysis.",
+  "summary_ja": "iOS・Android・ウェブアプリの画面例を検索し、UIデザインを比較する。",
+  "usage_tags": [
+    "UIデザイン",
+    "デザイン調査",
+    "参考資料"
+  ],
+  "limitations": [
+    "収録範囲・画像の利用条件・実動作・料金は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

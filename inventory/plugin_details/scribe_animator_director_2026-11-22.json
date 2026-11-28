@@ -1,0 +1,22 @@
+{
+  "official_app_name": "Scribe Animator Director",
+  "provider": "Ohotech Solutions Private Limited",
+  "version": "2.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugins_6ac692d797d8819195a181fe5ace0503?category=creativity",
+  "observed_at": "2026-11-22",
+  "original_description": "Create and revise editable whiteboard animations and explainer scenes in Scribe Animator using discovered live Site tools or self-contained AI JSON validated with the bundled offline validator. Work with native editable objects, Draw Steps, object animation and camera timing. Preview, edit and export results inside Scribe through its supported video or .scribe project options. Live authoring and visual QA require separate access to a supported browser session with Site tools available. Playback and export must be checked separately.",
+  "summary_ja": "Scribe Animator向けの編集可能なホワイトボード動画や説明場面を制作。",
+  "usage_tags": [
+    "アニメーション",
+    "動画制作",
+    "プレゼン"
+  ],
+  "limitations": [
+    "ライブ制作と目視確認にはSiteツールが利用できる対応ブラウザーセッションが別途必要。再生と書き出しも別途確認が必要と説明。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

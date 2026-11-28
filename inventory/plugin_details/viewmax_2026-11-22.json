@@ -1,0 +1,23 @@
+{
+  "official_app_name": "ViewMax",
+  "provider": "ViewMax",
+  "version": "1.0.1",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac0512680e48191be9897aa53becdba?category=creativity",
+  "observed_at": "2026-11-22",
+  "original_description": "ViewMax creates videos, images, narration, music and sound effects from creative briefs. Connect your ViewMax Studio account, choose supported creative settings, approve each generation and retrieve your media. Results remain available in your workspace while their media links remain valid.",
+  "summary_ja": "企画文から動画・画像・ナレーション・音楽や効果音を生成。",
+  "usage_tags": [
+    "動画制作",
+    "画像生成",
+    "音楽",
+    "音声"
+  ],
+  "limitations": [
+    "ViewMax Studioアカウントの接続が必要。各生成を承認すると説明。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

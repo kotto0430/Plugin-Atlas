@@ -1,0 +1,25 @@
+{
+  "name": "Luw.ai",
+  "category": "Creativity",
+  "provider": "Luvi Technologies, Inc.",
+  "version": "1.0.0",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac8d1bd0f908191a97db90c129430f6?category=creativity",
+  "original_description": "Luw.ai is an AI design studio for homeowners, architects, interior designers and real-estate agents. Share a photo of a room and ask for a new style, stage an empty space with furniture, or turn a sketch or CAD view into a photorealistic architectural render. Then refine it in plain words, such as changing the floor to oak or removing clutter, without leaving the chat.\n\nYou can also redesign building exteriors and gardens, turn a finished design into a walkthrough video, create a 3D model from a product photo, generate seamless material textures, and ask ArchiGPT, Luw.ai's architecture assistant, design and planning questions.\n\nRequires a Luw.ai account; each generation uses credits from it. Attach a photo or share a link to one. Videos and 3D models take a few minutes and are collected when ready.",
+  "summary_ja": "部屋や建物の画像から内外装デザインや3Dモデルを作る。",
+  "limitations_ja": "Luw.aiアカウントが必要で、生成ごとにクレジットを使用する。",
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "Luw.ai",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "建築",
+    "インテリア",
+    "3D"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}

@@ -1,0 +1,334 @@
+{
+  "source": "Chrome ChatGPT 金融",
+  "date": "2026-11-14",
+  "catalog_blob": "ed517167a5188fd9018de0c4c041e146750b43b9",
+  "method": "画面を重ねてスクロールし表示名を目視転記。大文字小文字を区別せず名前を照合。",
+  "notes": "誤記・重複・異表記の可能性あり。一致は同一性、不一致は新規件数を意味しない。",
+  "counts": {
+    "rows": 80,
+    "matched": 0,
+    "unmatched": 80
+  },
+  "rows": [
+    {
+      "name": "Morse",
+      "matched": false
+    },
+    {
+      "name": "Allianz Ireland",
+      "matched": false
+    },
+    {
+      "name": "TaxDome",
+      "matched": false
+    },
+    {
+      "name": "Ziraat Bankası",
+      "matched": false
+    },
+    {
+      "name": "nextcard",
+      "matched": false
+    },
+    {
+      "name": "OmniFlag",
+      "matched": false
+    },
+    {
+      "name": "Consensus Market",
+      "matched": false
+    },
+    {
+      "name": "Impact Economic Calendar",
+      "matched": false
+    },
+    {
+      "name": "Lower My Bill",
+      "matched": false
+    },
+    {
+      "name": "AlphaYou: Smart Money Intel",
+      "matched": false
+    },
+    {
+      "name": "Xpress BI",
+      "matched": false
+    },
+    {
+      "name": "Chronograph GP",
+      "matched": false
+    },
+    {
+      "name": "BudgetSync",
+      "matched": false
+    },
+    {
+      "name": "Codon Valuation",
+      "matched": false
+    },
+    {
+      "name": "Can I Retire Early? Calculator",
+      "matched": false
+    },
+    {
+      "name": "ImmoFluss",
+      "matched": false
+    },
+    {
+      "name": "Volrix",
+      "matched": false
+    },
+    {
+      "name": "Money4K",
+      "matched": false
+    },
+    {
+      "name": "DB Investing AI",
+      "matched": false
+    },
+    {
+      "name": "Monthly",
+      "matched": false
+    },
+    {
+      "name": "LedgerBooks",
+      "matched": false
+    },
+    {
+      "name": "Expense Tracker",
+      "matched": false
+    },
+    {
+      "name": "Underwrite",
+      "matched": false
+    },
+    {
+      "name": "Bancaverse™ Private Money",
+      "matched": false
+    },
+    {
+      "name": "EconomicsAPI",
+      "matched": false
+    },
+    {
+      "name": "Rift",
+      "matched": false
+    },
+    {
+      "name": "AsesorFacturas",
+      "matched": false
+    },
+    {
+      "name": "MutuiSupermarket.it",
+      "matched": false
+    },
+    {
+      "name": "EdgeBreak",
+      "matched": false
+    },
+    {
+      "name": "Beast Insights",
+      "matched": false
+    },
+    {
+      "name": "Option Desk (hosted)",
+      "matched": false
+    },
+    {
+      "name": "International School Fees",
+      "matched": false
+    },
+    {
+      "name": "Lucide Finance",
+      "matched": false
+    },
+    {
+      "name": "ProfitBooks",
+      "matched": false
+    },
+    {
+      "name": "WiseData Finances",
+      "matched": false
+    },
+    {
+      "name": "Fragua Data USA",
+      "matched": false
+    },
+    {
+      "name": "MUSITU Axiom",
+      "matched": false
+    },
+    {
+      "name": "Tax1099Payer",
+      "matched": false
+    },
+    {
+      "name": "Sell My House - Anya",
+      "matched": false
+    },
+    {
+      "name": "MarketCrew — stock analysis",
+      "matched": false
+    },
+    {
+      "name": "CapitalGainsTax.net",
+      "matched": false
+    },
+    {
+      "name": "CySo Invoicing",
+      "matched": false
+    },
+    {
+      "name": "Evidence Deflator",
+      "matched": false
+    },
+    {
+      "name": "WhaleRider",
+      "matched": false
+    },
+    {
+      "name": "Cambio",
+      "matched": false
+    },
+    {
+      "name": "Zovo SEC Filings",
+      "matched": false
+    },
+    {
+      "name": "Quantral",
+      "matched": false
+    },
+    {
+      "name": "Feasly",
+      "matched": false
+    },
+    {
+      "name": "InvestorPA",
+      "matched": false
+    },
+    {
+      "name": "InvoiceParser Pro",
+      "matched": false
+    },
+    {
+      "name": "Keşke Getiri Hesaplama",
+      "matched": false
+    },
+    {
+      "name": "BudgetSyncer",
+      "matched": false
+    },
+    {
+      "name": "catetin.ai",
+      "matched": false
+    },
+    {
+      "name": "Subvento",
+      "matched": false
+    },
+    {
+      "name": "Moniary",
+      "matched": false
+    },
+    {
+      "name": "İyi Gelir",
+      "matched": false
+    },
+    {
+      "name": "Layerz",
+      "matched": false
+    },
+    {
+      "name": "Dibsly",
+      "matched": false
+    },
+    {
+      "name": "bedrijfscijfers",
+      "matched": false
+    },
+    {
+      "name": "Propera",
+      "matched": false
+    },
+    {
+      "name": "Moody’s Struct & Pvt Cashflows",
+      "matched": false
+    },
+    {
+      "name": "Investboard",
+      "matched": false
+    },
+    {
+      "name": "Finometr",
+      "matched": false
+    },
+    {
+      "name": "NetWorthTrackr",
+      "matched": false
+    },
+    {
+      "name": "FGO.ro",
+      "matched": false
+    },
+    {
+      "name": "Calculadora Simples Nacional",
+      "matched": false
+    },
+    {
+      "name": "Centry Global Pension Planner",
+      "matched": false
+    },
+    {
+      "name": "RetryHub",
+      "matched": false
+    },
+    {
+      "name": "AluguelManager",
+      "matched": false
+    },
+    {
+      "name": "ChatARV",
+      "matched": false
+    },
+    {
+      "name": "Zovo Currency Converter",
+      "matched": false
+    },
+    {
+      "name": "Tradetron",
+      "matched": false
+    },
+    {
+      "name": "Nitrogen MCP",
+      "matched": false
+    },
+    {
+      "name": "Money You're Owed",
+      "matched": false
+    },
+    {
+      "name": "baku",
+      "matched": false
+    },
+    {
+      "name": "Dados B3",
+      "matched": false
+    },
+    {
+      "name": "Kikin",
+      "matched": false
+    },
+    {
+      "name": "Centry Founder Planner",
+      "matched": false
+    },
+    {
+      "name": "CredCore - Tusk Liquid",
+      "matched": false
+    },
+    {
+      "name": "The Happy Giraffe Budget",
+      "matched": false
+    }
+  ]
+}

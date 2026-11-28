@@ -1,0 +1,22 @@
+{
+  "official_app_name": "SpriteCook",
+  "provider": "SpriteCook",
+  "version": "0.1.18",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6accf4d13858819195c734fdaa2713d3?category=creativity",
+  "observed_at": "2026-11-23",
+  "original_description": "Create sprites, tilesets, animations, and matching UI kits for your game in ChatGPT and Codex. Use reference images and saved presets to keep assets consistent, work with your SpriteCook asset library, and prepare character assets for Godot. Connect a SpriteCook account to get started. Available tools depend on your account, and generation can take a few minutes.",
+  "summary_ja": "ゲーム向けスプライト、タイル、アニメーションやUI素材を作る。",
+  "usage_tags": [
+    "ゲーム制作",
+    "スプライト",
+    "アニメーション"
+  ],
+  "limitations": [
+    "SpriteCookアカウントが必要。使えるツールはアカウントによる。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

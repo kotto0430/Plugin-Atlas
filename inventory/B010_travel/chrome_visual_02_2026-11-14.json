@@ -1,0 +1,398 @@
+{
+  "source": "Chrome ChatGPT 旅行",
+  "date": "2026-11-14",
+  "catalog_blob": "fd13ece4009fcf170733daf819bb2e7424328a60",
+  "method": "画面を重ねてスクロールし表示名を目視転記。大文字小文字を区別せず名前を照合。",
+  "notes": "誤記・重複の可能性あり。一致は同一性、不一致は新規件数を意味しない。",
+  "counts": {
+    "rows": 96,
+    "matched": 96,
+    "unmatched": 0
+  },
+  "rows": [
+    {
+      "name": "Koko",
+      "matched": true
+    },
+    {
+      "name": "HotelME",
+      "matched": true
+    },
+    {
+      "name": "RESTL – Table Reservations",
+      "matched": true
+    },
+    {
+      "name": "Singapore Airlines",
+      "matched": true
+    },
+    {
+      "name": "Psiri Vibes",
+      "matched": true
+    },
+    {
+      "name": "HPRG Hotel Concierge",
+      "matched": true
+    },
+    {
+      "name": "How Walkable",
+      "matched": true
+    },
+    {
+      "name": "Mom I am OK",
+      "matched": true
+    },
+    {
+      "name": "HostelHound",
+      "matched": true
+    },
+    {
+      "name": "NYC RSVPs",
+      "matched": true
+    },
+    {
+      "name": "Parks Open",
+      "matched": true
+    },
+    {
+      "name": "Baolau",
+      "matched": true
+    },
+    {
+      "name": "OlaChill Travel",
+      "matched": true
+    },
+    {
+      "name": "FishFriender",
+      "matched": true
+    },
+    {
+      "name": "XiaoHongShu RedNote China",
+      "matched": true
+    },
+    {
+      "name": "DoYouSpain",
+      "matched": true
+    },
+    {
+      "name": "TravelYalla",
+      "matched": true
+    },
+    {
+      "name": "MTX Connect: eSIM + Travel SIM",
+      "matched": true
+    },
+    {
+      "name": "Flying Fine",
+      "matched": true
+    },
+    {
+      "name": "poste — Slovenian post offices",
+      "matched": true
+    },
+    {
+      "name": "Frip",
+      "matched": true
+    },
+    {
+      "name": "Matchday Parking",
+      "matched": true
+    },
+    {
+      "name": "WIZZ Link flight search",
+      "matched": true
+    },
+    {
+      "name": "CarJet",
+      "matched": true
+    },
+    {
+      "name": "e-eSIM",
+      "matched": true
+    },
+    {
+      "name": "TripWays",
+      "matched": true
+    },
+    {
+      "name": "LalaGo",
+      "matched": true
+    },
+    {
+      "name": "Voyscout.com",
+      "matched": true
+    },
+    {
+      "name": "Over The Planet",
+      "matched": true
+    },
+    {
+      "name": "swissrailways",
+      "matched": true
+    },
+    {
+      "name": "Gjirafa eSIM",
+      "matched": true
+    },
+    {
+      "name": "Train Price Tracker",
+      "matched": true
+    },
+    {
+      "name": "TomTom Maps",
+      "matched": true
+    },
+    {
+      "name": "Lumina",
+      "matched": true
+    },
+    {
+      "name": "EscapeStays by Luxury Lodging",
+      "matched": true
+    },
+    {
+      "name": "Alice Flights",
+      "matched": true
+    },
+    {
+      "name": "Webcam Live",
+      "matched": true
+    },
+    {
+      "name": "Jade Beach Hotel",
+      "matched": true
+    },
+    {
+      "name": "ate",
+      "matched": true
+    },
+    {
+      "name": "Localrydes",
+      "matched": true
+    },
+    {
+      "name": "CarHauler247 - Car Shipping",
+      "matched": true
+    },
+    {
+      "name": "PopUp Surf Trips",
+      "matched": true
+    },
+    {
+      "name": "Smart Studios",
+      "matched": true
+    },
+    {
+      "name": "HomeToGo - Vacation Rentals",
+      "matched": true
+    },
+    {
+      "name": "Destiny Blue",
+      "matched": true
+    },
+    {
+      "name": "chucho — Book Direct",
+      "matched": true
+    },
+    {
+      "name": "Pilot",
+      "matched": true
+    },
+    {
+      "name": "Déstaire",
+      "matched": true
+    },
+    {
+      "name": "FlyEthio",
+      "matched": true
+    },
+    {
+      "name": "AllTheStreet",
+      "matched": true
+    },
+    {
+      "name": "hoteldiscount24 Hotels",
+      "matched": true
+    },
+    {
+      "name": "Adónde",
+      "matched": true
+    },
+    {
+      "name": "Anywhere",
+      "matched": true
+    },
+    {
+      "name": "WAYA flight search",
+      "matched": true
+    },
+    {
+      "name": "ChauffeurFlow",
+      "matched": true
+    },
+    {
+      "name": "ConnectMeGuru eSIM",
+      "matched": true
+    },
+    {
+      "name": "Remap",
+      "matched": true
+    },
+    {
+      "name": "DroneClear Thailand",
+      "matched": true
+    },
+    {
+      "name": "RailJournal India",
+      "matched": true
+    },
+    {
+      "name": "hoper",
+      "matched": true
+    },
+    {
+      "name": "PakBus",
+      "matched": true
+    },
+    {
+      "name": "Tourer Travel",
+      "matched": true
+    },
+    {
+      "name": "Swiss Activities",
+      "matched": true
+    },
+    {
+      "name": "RhoRent Car Rental Rhodes",
+      "matched": true
+    },
+    {
+      "name": "takt Dresden",
+      "matched": true
+    },
+    {
+      "name": "Trvlrr",
+      "matched": true
+    },
+    {
+      "name": "Taiwan Weather Lens",
+      "matched": true
+    },
+    {
+      "name": "TodayNYC",
+      "matched": true
+    },
+    {
+      "name": "DoYouItaly",
+      "matched": true
+    },
+    {
+      "name": "AdvenBook",
+      "matched": true
+    },
+    {
+      "name": "MR. ALPS",
+      "matched": true
+    },
+    {
+      "name": "Stayspan Schengen Days",
+      "matched": true
+    },
+    {
+      "name": "UniAffitti Room Finder",
+      "matched": true
+    },
+    {
+      "name": "iryo",
+      "matched": true
+    },
+    {
+      "name": "Goldsainte Hotels",
+      "matched": true
+    },
+    {
+      "name": "DRIVR",
+      "matched": true
+    },
+    {
+      "name": "Earth Roulette",
+      "matched": true
+    },
+    {
+      "name": "Thailand Dive Map",
+      "matched": true
+    },
+    {
+      "name": "TheFoilBuddy",
+      "matched": true
+    },
+    {
+      "name": "Zippy",
+      "matched": true
+    },
+    {
+      "name": "MR. WINDS",
+      "matched": true
+    },
+    {
+      "name": "DFW International Airport",
+      "matched": true
+    },
+    {
+      "name": "eSIMDB",
+      "matched": true
+    },
+    {
+      "name": "Rental Blacklist",
+      "matched": true
+    },
+    {
+      "name": "Sandals & Beaches Resorts",
+      "matched": true
+    },
+    {
+      "name": "GOL",
+      "matched": true
+    },
+    {
+      "name": "Nantes IA par Infotan",
+      "matched": true
+    },
+    {
+      "name": "Stippl Travel Planner",
+      "matched": true
+    },
+    {
+      "name": "333travel",
+      "matched": true
+    },
+    {
+      "name": "Domus Aedes",
+      "matched": true
+    },
+    {
+      "name": "GOARAÇ",
+      "matched": true
+    },
+    {
+      "name": "1Stay",
+      "matched": true
+    },
+    {
+      "name": "Journey Ready",
+      "matched": true
+    },
+    {
+      "name": "Hotel Please",
+      "matched": true
+    },
+    {
+      "name": "GoVola",
+      "matched": true
+    },
+    {
+      "name": "Jetopia: Jeju Driver Tours",
+      "matched": true
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "SVG.new",
+  "category": "Creativity",
+  "provider": "Nutmeg Studios LLC",
+  "version": "0.3.0",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6abffa36479881918e5ef5ce8f7379d6?category=creativity",
+  "original_description": "Create editable vector artwork from supplied PNG, JPG, and WebP images in ChatGPT. SVG.new helps designers, makers, and creators convert images to SVG, recolor and simplify existing SVGs, remove backgrounds, and process image batches. Provide a source image or SVG; SVG.new does not generate artwork from text alone. Connect your SVG.new account to use credits for vectorization and background removal.",
+  "summary_ja": "画像を編集可能なSVGに変換し、色や形を調整する。",
+  "limitations_ja": "元画像またはSVGが必要で、文章だけから画像は生成しない。ベクター化と背景除去にはアカウントを接続しクレジットを使用する。",
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "SVG.new",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "SVG",
+    "画像編集",
+    "デザイン"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}

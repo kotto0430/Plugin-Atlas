@@ -1,0 +1,21 @@
+{
+  "official_app_name": "Quickads",
+  "provider": "Quickads / 88 Ventures US, LLC",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6aa2f4b4b2b0819199dbaa94be81be12?category=creativity",
+  "observed_at": "2026-11-16",
+  "original_description": "QuickAds helps you research successful ads, discover trending hooks, and turn insights into new campaigns. Create AI images and videos, publish posts, launch ad campaigns, run automated agents, and analyze the performance of your content, ads, and ad accounts - all from one place.",
+  "summary_ja": "広告の調査、画像・動画の制作、キャンペーンの実施と成果分析を支援する。",
+  "usage_tags": [
+    "広告",
+    "マーケティング",
+    "画像・動画制作"
+  ],
+  "limitations": [
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

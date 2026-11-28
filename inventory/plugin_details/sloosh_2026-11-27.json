@@ -1,0 +1,25 @@
+{
+  "name": "Sloosh",
+  "official_app_name": "Sloosh",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "ShopOS",
+  "version": "1.2.0",
+  "observed_at": "2026-11-27",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ae8d6d5804c8191ba0b9f9b60d1fae2?category=creativity",
+  "original_description": "Sloosh makes product images, ad variants and short product videos for online stores and marketing teams, and runs the published Sloosh Spaces in your workspace.\n\nAsk for a studio packshot, a lifestyle scene, a set of ads in feed and story sizes, or a short clip from a product image. Sloosh lists the models that fit the request, and the assistant asks for your approval before it starts paid work. Results appear in a card that updates as each image or clip finishes.\n\nYou can also search the published Spaces in your workspace, such as ad grids and UGC-style recipes, check their inputs, and run one after you approve it.\n\nSloosh works in the Sloosh workspace you connect and follows the spending limit you set in Sloosh settings. It makes one video clip per request and does not join clips or mix audio.\n\nIn a coding agent that can run commands on your computer, the plugin also includes a launch film skill. It directs and renders a product launch film with Remotion on your computer, cut to your voiceover, and can use Sloosh images and clips after you approve them. It needs Node.js, ffmpeg and Python on your computer.",
+  "summary_ja": "商品画像、広告のバリエーション、短い商品動画を作る。",
+  "limitations_ja": "ワークスペースを接続して利用。有料処理は承認後に開始。動画は1回につき1クリップで結合や音声ミックスはしないと説明。",
+  "usage_tags": [
+    "商品画像",
+    "広告",
+    "動画"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "description_scope": "詳細ページ本文の英語説明"
+}

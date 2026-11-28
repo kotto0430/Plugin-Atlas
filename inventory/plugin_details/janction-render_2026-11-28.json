@@ -1,0 +1,25 @@
+{
+  "official_app_name": "JANCTION Render",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "JasmyLab Inc.",
+  "version": "0.4.265",
+  "observed_at": "2026-11-28",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6abd560972048191aa42f2cbb1980bd9?category=creativity",
+  "original_description": "JANCTION Render is a cloud GPU render farm for Blender, built for AI agents. The agent writes or receives a Blender scene as a bpy Python script, a .blend file or a 3D file (glTF/GLB, FBX, USD, OBJ), previews it in seconds on a JANCTION GPU, estimates how long the final render will take, then renders the frames or a video and returns download links.\n\nTypical flow: scene_info reads cameras, frame range, objects, lights and missing files without rendering. render_preview returns up to 4 frames tiled in one image with a short critic verdict and fix code, so the agent can check camera, lighting and materials before spending GPU time; with variations it shows 2 to 8 looks of one frame in one labelled sheet. render_estimate reports the expected GPU seconds, the queue wait, and whether the job fits the account's remaining GPU time. render_final renders PNG or EXR frames or a video (MP4, WebM, ProRes, GIF). On request it also returns a before/after video against an earlier version (compare_to), versions of an animation for X, vertical and square posts (deliver), compositing passes as multilayer EXR or ProRes 4444 (passes), and for long finals the fewest samples that look the same (auto_samples). Every final comes with a delivery check (missing, black or flickering frames, resolution, fps and length) and a contact sheet. render_status reports progress and the remaining time, render_download returns the links, render_cancel stops a job, render_import_file takes a file attached in the chat, asset_search finds CC0 models, textures and HDRIs, render_share and render_unshare publish or remove a public page for a render the user chose to share, and render_info reports worker availability and the queue.\n\nIntended users: people building 3DCG with Blender who have no GPU or whose local rendering is slow, and agents that need a rendered image or video from a Blender scene. Not for non-Blender workloads such as video conversion, image generation or modeling advice. Limits: up to 3,000 frames per instruction (automatically split internally under one job id), 1080p by default and up to 4K. Blender 3.6, 4.2, 4.5, 5.0 and 5.2 with Cycles or EEVEE on NVIDIA GPUs. No account is needed: connecting creates a key. Inputs and results are deleted automatically after a short retention period (24 hours after last use by default) and are never used for training. Operated by JasmyLab Inc. (Tokyo, Japan).",
+  "original_description_language": "英語",
+  "description_scope": "詳細ページの説明本文",
+  "summary_ja": "BlenderのシーンをクラウドGPUでプレビュー・レンダリングする。",
+  "usage_tags": [
+    "Blender",
+    "レンダリング",
+    "クラウドGPU"
+  ],
+  "limitations_ja": "接続時にキーを作成すると説明。入力と結果の標準保持期間は最終利用から24時間。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。"
+}

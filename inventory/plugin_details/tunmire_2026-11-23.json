@@ -1,0 +1,26 @@
+{
+  "name": "Tunmire",
+  "category": "Creativity",
+  "provider": "Tunmire Publishing and Media",
+  "version": "1.2.0",
+  "observed_at": "2026-11-23",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6adb6058dbb88191acd66542a534aaf6?category=creativity",
+  "original_description": "Book formatting for self-publishing authors: Tunmire turns your manuscript into a print-ready paperback interior (PDF) for KDP or IngramSpark, an EPUB ebook and a paperback cover, from the chat. Ask in your own words: \"format my book\", \"make an EPUB of my manuscript\", \"make my paperback cover\" or \"review my manuscript\".\n\nBring in your manuscript (Word, text or Markdown) and ask for what you need:\n- A print-ready interior PDF and an EPUB, laid out at your trim size and checked against KDP and IngramSpark rules before you get the files. The first pages appear in the chat.\n- A paperback cover from your own art: the full wrap with spine and back copy, sized from your page count, with an ebook cover. It appears in the chat.\n- An editorial review of the whole book: your assistant reads it chapter by chapter as Tunmire's editor and writes the editorial letter, and you get the report as a Word file. It reports; it never changes your words.\n- A check of a PDF, EPUB or cover you already have against KDP and IngramSpark rules.\n\nConnecting creates a Tunmire account, where your books are kept. Your work is yours: nothing you make is used to improve any AI, and finished files are built when you open their link, not kept.",
+  "summary_ja": "原稿から書籍本文PDF・EPUB・表紙を作り、出版規格の確認や編集レビューを行う。",
+  "limitations_ja": "接続時にTunmireアカウントが作成されると説明。実際の対応・料金は未検証。",
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "Tunmire",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "出版",
+    "電子書籍",
+    "原稿"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明",
+  "app_field_intro": "Manuscript formatting and book cover creation: Tunmire turns a writer's manuscript into a print-ready interior, an EPUB and a paperback cover, from the chat."
+}

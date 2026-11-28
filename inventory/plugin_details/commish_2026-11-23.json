@@ -1,0 +1,25 @@
+{
+  "name": "Commish",
+  "category": "Creativity",
+  "provider": "Ritabrata Industries",
+  "version": "0.1.0",
+  "observed_at": "2026-11-23",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6abdef9a9ab48191858b1b1e5d45b9f2?category=creativity",
+  "original_description": "Describe anything you want made or found, or start from a photo: merch, plush, apparel, shoes, bags, stickers, pins, figures, 3D prints, machined or molded parts, packaging, signs, furniture and more. Commish plans the production route and cost by quantity, guides ChatGPT to create the images manufacturers need from your spec (a realistic reference photo, a views sheet, or your own photo edited to match), and turns the chat into a request for quote with a shareable page and PDF. Find existing or similar products with visual search and shop links, send quote requests to manufacturers (factories and OEMs, self-serve print platforms and independent sellers), or publish an open request any manufacturer can quote on without an account. You compare quotes on landed cost and pay the manufacturer you choose directly.",
+  "summary_ja": "物品の製作方法・数量別費用を検討し、見積もり依頼をまとめる。",
+  "limitations_ja": "選んだメーカーに直接支払うと説明。",
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "Commish",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "グッズ制作",
+    "製造",
+    "見積もり"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}

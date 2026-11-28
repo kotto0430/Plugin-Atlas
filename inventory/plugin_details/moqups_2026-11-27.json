@@ -1,0 +1,25 @@
+{
+  "name": "Moqups",
+  "official_app_name": "Moqups",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "Evercoder Software SRL",
+  "version": "1.0.0",
+  "observed_at": "2026-11-27",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6adb6cfaf0548191a05ddd699a629ebd?category=creativity",
+  "original_description": "Add ChatGPT to your team so it can help you create, analyze and edit wireframes, diagrams and whiteboards – all in one context and workspace. ChatGPT can read project content, including designs, flows, screenshots, sticky notes, tables, annotations, and comments. ChatGPT can create and edit work directly in your Moqups projects, where your team can review, refine, and make decisions together.",
+  "summary_ja": "Moqupsのプロジェクト内でワイヤーフレームや図、ホワイトボードを確認・編集する。",
+  "limitations_ja": "対象となる編集機能や利用条件の詳細は未検証。",
+  "usage_tags": [
+    "UI設計",
+    "図解",
+    "ホワイトボード"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "description_scope": "詳細ページ本文の英語説明"
+}

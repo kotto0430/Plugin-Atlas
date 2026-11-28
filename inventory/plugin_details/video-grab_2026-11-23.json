@@ -1,0 +1,27 @@
+{
+  "name": "Video Grab",
+  "category": "Creativity",
+  "provider": "Agent Tools",
+  "version": "1.0.0",
+  "observed_at": "2026-11-23",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac4aac30ee081918a3a3f95afca1320?category=creativity",
+  "original_description": "Find freely licensed video you can reuse, with a download link, the licence and ready-to-paste attribution, and get the official steps to export videos you uploaded yourself.\n\nAsk \"find a freely licensed video of ocean waves\", \"how do I download my own YouTube videos?\" or \"what licence is on this Internet Archive film?\".\n\nSearch reads Wikimedia Commons and the Internet Archive. Every hit states the licence the source record gives (CC BY, CC BY-SA, CC0 or public domain) and an attribution line. Internet Archive search results link to the item's download directory; the metadata tool returns a direct file and any caption file the item lists. Commons files are free to reuse under the licence on the file page. An Internet Archive item is included only when its record states a free licence.\n\nWe do not rip videos: downloading from TikTok, YouTube, Instagram, X, Douyin, Bilibili or Xiaohongshu, or stripping a watermark, breaks those sites' terms. A request for one of those downloads, or for watermark removal, gets that explanation and no file. For your own videos, the export tool gives the official steps from YouTube Help, Instagram Help, TikTok's data-download help page and the X archive settings page.\n\nPexels and Pixabay are searched only when their API keys are configured (stored in the operator vault, never in this service's answers). A YouTube watch link returns public metadata: oEmbed when no YouTube Data API key is configured, or the Data API when one is. Neither path returns a download. Caption files are not downloaded; the Data API may name tracks when it allows that.\n\nNothing you ask is stored. Answers are cached for a few hours and the only lasting record is a daily count of calls per tool.",
+  "summary_ja": "再利用可能な動画とライセンス・出典表記を探し、自分の動画の公式書き出し手順を案内する。",
+  "limitations_ja": [
+    "動画サイトからのリッピングや透かし除去は提供しない。PexelsとPixabayの検索はAPIキー設定時のみ。"
+  ],
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "Video Grab",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "動画素材",
+    "ライセンス",
+    "出典確認"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "ShotClick: Screenplay & Script",
+  "provider": "DAVIDE BANDINI",
+  "version": "1.1.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6aa28e5a079c81919a66c838973eaa1d?category=creativity",
+  "developer_url": "https://shotclick.ai/",
+  "original_description": "ShotClick is a screenplay editor that keeps what you write with ChatGPT in real screenplay format: scene headings, action, character cues, parentheticals and dialogue laid out to the industry standard, with scene numbers, revision passes, and PDF and Final Draft (.fdx) export.\n\nWith this plugin ChatGPT works inside your actual script instead of returning loose text in the chat. Ask it for a short film from an idea and it creates the project and writes the scenes straight into ShotClick. Ask it to rewrite a scene, tighten the dialogue or add a scene, and it reads the current version and saves the change in place, keeping scene numbers and formatting. It also reads and writes the subject, treatment and outline, sets scene loglines, keeps research notes, lists characters, searches the script and reads collaborators' comments. It can open a \"what if\" branch from any scene, so an alternate version of the story, such as a different ending, is written in parallel without touching the original. Every result links to the screenplay in the ShotClick editor, where the pages are already formatted and ready to export.\n\nConnect it with your ShotClick account and the screenplays you write in ChatGPT are saved as projects in ShotClick, ready to edit, revise and export, with every scene number and revision pass in place.\n\nYour existing permissions apply: on a shared project, a viewer stays read-only through the plugin too. No tool deletes anything (not a scene, not a project, not a note), and no tool spends ShotClick AI credits: the writing is done by ChatGPT.",
+  "summary_ja": "脚本形式でシーンの作成・編集や別案の管理を支援し、PDFやFinal Draft形式への書き出しを案内する。",
+  "usage_tags": [
+    "脚本",
+    "映画制作",
+    "動画制作",
+    "物語構成"
+  ],
+  "limitations_ja": "アプリ欄には接続にMCPコネクタを含むShotClickのStudioプランが必要と記載。既存権限が適用され閲覧者は読み取り専用、削除やShotClick AIクレジット消費は行わないと提供元は説明。実動作・料金は未検証。",
+  "official_app_name": "ShotClick: Screenplay & Script",
+  "official_name_basis": "ChatGPTのプラグイン詳細画面に表示された名称",
+  "category": "Creativity",
+  "observed_at": "2026-11-14",
+  "description_scope": "ChatGPT詳細画面の「続きを読む」を展開した提供元の英語説明。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "詳細画面の説明と情報欄を確認。接続・実機能の検証は行っていない。",
+  "catalog_status": "2026-11-14時点の一覧本体 index.html（blob 27fc7d17ee843cc9e0651a6c2913c06326f3b9db）に正式表示名の文字列なし。別名・同名製品との同一性は未確認。"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Tonebook Palette",
+  "category": "Creativity",
+  "provider": "Tyrian Horton",
+  "version": "1.0.1",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6abe98ea6960819183ec0c29bf5a56d0?category=creativity",
+  "original_description": "Answer eight explicit self-assessment questions or choose a palette, confirm or correct it, compare supplied digital colors, and create a labeled outfit, event or packing board. Portable references preserve the chosen palette and correction. Results are styling guidance. The connector does not process photos, infer your closet, retrieve account reports or unlock native purchases.",
+  "summary_ja": "質問への回答や指定色から配色を選び、服装や持ち物のボードを作る。",
+  "limitations_ja": "写真の解析、手持ち服の推測、アカウントレポートの取得には非対応。結果はスタイリングの参考。",
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "official_app_name": "Tonebook Palette",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "配色",
+    "ファッション",
+    "スタイリング"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}

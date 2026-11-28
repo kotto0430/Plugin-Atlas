@@ -1,0 +1,25 @@
+{
+  "name": "Cross-stitch Studio",
+  "category": "Creativity",
+  "provider": "Ideas All Day",
+  "version": "0.1.0",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ad8c1d5f9048191b475857b4471ea8e?category=creativity",
+  "original_description": "Convert a photo into an editable full-cross-stitch grid, choose a generic RGB palette, track progress and export a printable chart. Supports grids up to 96 x 96 stitches and 24 colours. Sign in to save projects privately in your Workshop account. Photo conversion happens on your device; saved charts contain the derived stitch grid. When embedded downloads are unavailable, save and reopen the chart in Workshop to export in your browser. No licensed thread catalogue, fractional stitches, floss length estimates or generated garment patterns.",
+  "summary_ja": "写真を編集可能なクロスステッチ図案に変換し、進捗を記録する。",
+  "limitations_ja": "最大96×96目・24色。市販糸のカタログ、部分ステッチ、糸長の推定、服の型紙生成は非対応。",
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "official_app_name": "Cross-stitch Studio",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "クロスステッチ",
+    "手芸",
+    "図案"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}

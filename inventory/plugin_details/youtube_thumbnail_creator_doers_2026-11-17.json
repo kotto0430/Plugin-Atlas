@@ -1,0 +1,23 @@
+{
+  "official_app_name": "YouTube Thumbnail Creator",
+  "provider": "The Doers Firm",
+  "version": "1.0.1",
+  "source_url": "https://chatgpt.com/plugins/plugins_6ac07829334881918dfdb95341d07848?category=creativity",
+  "observed_at": "2026-11-17",
+  "original_description": "Turn your YouTube title, topic, script, screenshot, product photo, or creator photo into clear thumbnail concepts. Create short text overlays, visual layouts, thumbnail prompts, multiple variants, critique existing thumbnails, and generate finished thumbnail images when image creation is available.",
+  "summary_ja": "動画の題名や台本、写真からサムネイルの構成案を作り、画像の制作や評価を支援。",
+  "usage_tags": [
+    "YouTube",
+    "サムネイル",
+    "画像制作",
+    "動画"
+  ],
+  "limitations": [
+    "完成画像の生成は画像作成機能が利用できる場合と説明。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

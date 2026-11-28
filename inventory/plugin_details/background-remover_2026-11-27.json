@@ -1,0 +1,26 @@
+{
+  "name": "Background Remover",
+  "official_app_name": "Background Remover",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "MegaScenes",
+  "version": "1.0.0",
+  "observed_at": "2026-11-27",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6aec7bbba8e4819183bd29919f4c7035?category=creativity",
+  "original_description": "Pick a photo or picture from your MegaScenes library, an upload or one made here, and get the subject cut out on a transparent background.\n\nChatGPT lists your recent images, tells you what the run needs and removes the background from the one you choose when you ask. The cutout opens in the chat and stays in your library as a PNG with transparency.\n\nFor product photos, stickers, profile pictures, slides and designs.\n\nLimitations: it starts from images in your MegaScenes library; pictures attached in the chat are not passed to the plugin. It keeps the main subject and does not repaint or add anything. Making a file needs a signed-in MegaScenes account and runs in it; nothing is made until you confirm. Not for sexual or adult content or for real people's likeness. Files are made by generative models and saved in your MegaScenes library.",
+  "original_description_language": "英語",
+  "summary_ja": "MegaScenesライブラリ内の画像から背景を除き透過PNGを作る。",
+  "limitations_ja": "チャットの添付画像は直接渡されず、MegaScenesライブラリの画像を使用。既存のYaps Background Removerとは別の掲載。",
+  "usage_tags": [
+    "画像編集",
+    "背景除去",
+    "商品写真"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "description_scope": "詳細ページ本文の英語説明"
+}

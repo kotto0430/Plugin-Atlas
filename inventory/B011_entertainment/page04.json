@@ -1,0 +1,560 @@
+{
+  "source": "エンターテイメント.pdf",
+  "sha256": "aca71709aaebf1c69ff91abd940401c8264de53b36cd298d4209656e7fe6b3f2",
+  "page": 4,
+  "baseline_index_sha": "084b9190ad915493272c9b67f9021e2bbc4a92e3",
+  "rows": [
+    {
+      "row_id": "p04L01",
+      "name": "IIDX DP Coach",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p04L02",
+      "name": "Plazmi",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p04L03",
+      "name": "TodayTix",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p04L04",
+      "name": "RIFFCADE",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p04L05",
+      "name": "Encounter Workbench",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p04L06",
+      "name": "Bedtime Stories Read Aloud",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p04L07",
+      "name": "Winrate",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p04L08",
+      "name": "Bingers",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p04L09",
+      "name": "Dododo Game",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p04L10",
+      "name": "AI Raiders",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p04L11",
+      "name": "Chess Workshop",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p04L12",
+      "name": "Naksha",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p04L13",
+      "name": "Cardmine",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p04L14",
+      "name": "AI Bar",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p04L15",
+      "name": "StarBind",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p04L16",
+      "name": "Med Relax",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p04L17",
+      "name": "Pet Videos from Photos",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p04L18",
+      "name": "Natuurijs.nl",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p04L19",
+      "name": "Pandy Tickets",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p04L20",
+      "name": "Everloot",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p04L21",
+      "name": "Kineticist",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p04L22",
+      "name": "Moving Stars",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p04L23",
+      "name": "HeyNakama",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p04L24",
+      "name": "Treat Tracker",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p04L25",
+      "name": "Keel Stats",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p04L26",
+      "name": "Nobex Radio",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p04L27",
+      "name": "Boxerbook",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p04L28",
+      "name": "Praetorium",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p04L29",
+      "name": "Can You Beat AI?",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p04L30",
+      "name": "Breakroom",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p04L31",
+      "name": "WOIII.me",
+      "match": false,
+      "status": "要再確認"
+    },
+    {
+      "row_id": "p04L32",
+      "name": "Happy Birthday",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p04L33",
+      "name": "In Someone Else's Shoes",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p04L34",
+      "name": "GoodWatch",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p04L35",
+      "name": "LineCrush",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p04L36",
+      "name": "Mini Games",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p04L37",
+      "name": "Starcrossed",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p04L38",
+      "name": "Soundchek",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p04L39",
+      "name": "Asobun",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p04L40",
+      "name": "CSW Darts",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p04L41",
+      "name": "Shorti",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p04L42",
+      "name": "PlugPup Wordle Solver",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p04L43",
+      "name": "Live Football API",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p04L44",
+      "name": "MyAnimeTracker",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p04L45",
+      "name": "RaceMate",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p04L46",
+      "name": "GriezelGids",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p04R01",
+      "name": "PerfectSens",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p04R02",
+      "name": "Software Notion",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p04R03",
+      "name": "Pickleheads",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p04R04",
+      "name": "Which One's Me?",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p04R05",
+      "name": "Horror Stories",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p04R06",
+      "name": "Sonarlex Word Puzzle",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p04R07",
+      "name": "CuppaZee",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p04R08",
+      "name": "TrulyCricket",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p04R09",
+      "name": "Chunkplay Stats",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p04R10",
+      "name": "Freecords — Music Distribution",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p04R11",
+      "name": "Freegama Daily Practice",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p04R12",
+      "name": "Birthday Videos",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p04R13",
+      "name": "Greedy Worm",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p04R14",
+      "name": "Astrofaith",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p04R15",
+      "name": "Describe the Word Game",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p04R16",
+      "name": "O'Hara Where to Watch",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p04R17",
+      "name": "ontown",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p04R18",
+      "name": "Mystery Games: Daily Whodunit",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p04R19",
+      "name": "Zonori",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p04R20",
+      "name": "Synthesis Astrology",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p04R21",
+      "name": "StageReview",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p04R22",
+      "name": "5.5e SRD Oracle",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p04R23",
+      "name": "pickaru",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p04R24",
+      "name": "00Quiz: Your AI Quizmaster",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p04R25",
+      "name": "Hushword Imposter",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p04R26",
+      "name": "Vinyl Record Scanner - VinylAI",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p04R27",
+      "name": "AstrologyApp.net",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p04R28",
+      "name": "Smart Cricket Scores & Matches",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p04R29",
+      "name": "Agenda du coin",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p04R30",
+      "name": "Electric State",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p04R31",
+      "name": "CharGen",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p04R32",
+      "name": "Fanatical",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p04R33",
+      "name": "Cubbby",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p04R34",
+      "name": "GamesLike",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p04R35",
+      "name": "Manchester Tonight",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p04R36",
+      "name": "Scoreboard by Ideas All Day",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p04R37",
+      "name": "Rashi Lord",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p04R38",
+      "name": "Custom Tarot Deck & Card Maker",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p04R39",
+      "name": "Clawfight",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p04R40",
+      "name": "MTG Deck Price Checker",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p04R41",
+      "name": "PlayNavi",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p04R42",
+      "name": "Rauhnacht-Orakel",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p04R43",
+      "name": "Zovo Bingo Card Maker",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p04R44",
+      "name": "American Mahjong Hand Helper",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p04R45",
+      "name": "Pushing Tin over Grafton",
+      "match": false,
+      "status": "画像照合済み"
+    },
+    {
+      "row_id": "p04R46",
+      "name": "AstroTarget",
+      "match": false,
+      "status": "画像照合済み"
+    }
+  ]
+}

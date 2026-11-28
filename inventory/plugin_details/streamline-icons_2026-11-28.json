@@ -1,0 +1,25 @@
+{
+  "official_app_name": "Streamline Icons",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "Streamline Design Inc",
+  "version": "1.1.1",
+  "observed_at": "2026-11-28",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ad08a8b50c48191be699cd07db86bf0?category=creativity",
+  "original_description": "Search the Streamline library of icons, illustrations and emojis, and download the ones you pick as SVG or PNG.\n\nDescribe what you need in plain language, such as a concept, a UI element or a visual style, and Streamline returns matching assets to preview and download.\n\nYou can also ask which icon family suits your product, browse the sets inside a family, and get advice on picking clear, consistent icon metaphors for your interface or design system.",
+  "original_description_language": "英語",
+  "description_scope": "詳細ページの説明本文",
+  "summary_ja": "アイコン・イラスト・絵文字の素材を検索し、SVGやPNGで取得する。",
+  "usage_tags": [
+    "アイコン",
+    "素材検索",
+    "UI"
+  ],
+  "limitations_ja": "料金・ライセンス条件は別途確認。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。"
+}

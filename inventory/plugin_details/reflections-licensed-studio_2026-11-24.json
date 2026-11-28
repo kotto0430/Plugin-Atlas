@@ -1,0 +1,25 @@
+{
+  "name": "Reflections Licensed Studio",
+  "official_app_name": "Reflections Licensed Studio",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "DAVID S RAPHAEL",
+  "version": "1.0.3",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6acfd96a48bc8191b0b2e75d1bc039ef?category=creativity",
+  "original_description": "Reflections Licensed Studio is for brands that hold a signed Reflections license to a talent's likeness. A signed license and an approved source are required before anything can be created: choose an accepted license and approved source, create three watermarked candidates by default, request rights changes, submit an exact final for talent approval, and download the released asset with its certificate. Available in English.",
+  "summary_ja": "契約済みの肖像ライセンスを使った画像の候補作成と承認を支援する。",
+  "limitations_ja": "作成には署名済みライセンスと承認済み素材が必要。英語対応。",
+  "usage_tags": [
+    "画像制作",
+    "ライセンス",
+    "広告"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "description_scope": "詳細ページ本文の英語説明"
+}

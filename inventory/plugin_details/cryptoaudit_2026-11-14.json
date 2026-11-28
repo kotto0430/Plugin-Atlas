@@ -1,0 +1,28 @@
+{
+  "name": "CryptoAudit",
+  "official_app_name": "CryptoAudit",
+  "official_name_basis": "ChatGPTのアプリ詳細画面に表示された名称",
+  "category": "Finance",
+  "provider": "Pyxl",
+  "version": "1.0.0",
+  "observed_at": "2026-11-14",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_69b16de19fd08191b4f6d53aff130970?category=finance",
+  "original_description": "CryptoAudit: Crypto AI helps people analyze cryptocurrency markets inside ChatGPT. Users can view live charts, check market summaries, compare coins, review technical indicators like RSI and MACD, see support and resistance levels, track market sentiment, spot unusual whale activity, and explore AI-based price outlooks. It is built for quick research and clearer decision-making with simple, practical crypto insights.",
+  "description_scope": "ChatGPTのアプリ詳細に表示された提供元の英語説明",
+  "summary_ja": "暗号資産のチャートや指標、市場の動き、AIによる価格見通しを調べるツール。",
+  "usage_tags": [
+    "暗号資産",
+    "市場分析",
+    "投資調査"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "limitations_ja": "価格見通しを含む分析結果の正確性やライブデータの鮮度は未検証。",
+  "review": "詳細画面の説明と情報欄を確認。表示されたアプリ名はCryptoAuditで、説明文冒頭の名称はCryptoAudit: Crypto AI。機能は試していない。",
+  "catalog_status": "一覧本体との名称照合は未確認。",
+  "example_prompts": [
+    "Give me the Bitcoin price chart"
+  ]
+}

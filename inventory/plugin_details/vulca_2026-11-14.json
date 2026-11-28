@@ -1,0 +1,27 @@
+{
+  "name": "Vulca",
+  "official_app_name": "Vulca",
+  "official_name_basis": "ChatGPTのプラグイン詳細画面に表示された名称",
+  "category": "Creativity",
+  "provider": "Vulca",
+  "version": "1.0.0",
+  "observed_at": "2026-11-14",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_69f500f58fa8819180ade6416b6b86b0?category=creativity",
+  "developer_url": "https://vulcaart.art/",
+  "original_description": "Vulca helps users turn fuzzy visual intent into reviewable creative artifacts: visual direction discovery, cultural tradition lookup, structured prompt composition, and L1-L5 visual or cultural evaluation. This submitted remote profile is local-first and review-oriented; provider-backed image generation, redraw, inpainting, and publishing workflows are intentionally outside this app profile.",
+  "description_scope": "ChatGPTの詳細画面に表示された提供元の英語説明。",
+  "summary_ja": "ビジュアルの方向性や文化的な表現を調べ、プロンプトの構成や視覚・文化面の評価を支援する。",
+  "usage_tags": [
+    "デザイン",
+    "ビジュアル表現",
+    "文化調査",
+    "プロンプト作成"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "limitations_ja": "このアプリの対象範囲には、提供元を使った画像生成、描き直し、インペインティング、公開のワークフローは含まれないと説明。動作や料金は未検証。",
+  "review": "詳細画面の説明と情報欄を確認。実際の機能は試していない。",
+  "catalog_status": "2026-11-14時点の一覧本体 index.html（blob 27fc7d17ee843cc9e0651a6c2913c06326f3b9db）に Vulca の文字列なし。別名や同名項目との同一性は未確認。"
+}

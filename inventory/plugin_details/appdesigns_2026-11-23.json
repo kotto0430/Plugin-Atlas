@@ -1,0 +1,24 @@
+{
+  "official_app_name": "appdesigns",
+  "provider": "Haider Nawaz",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ace783673008191b51a46fdfdc64c9c?category=creativity",
+  "observed_at": "2026-11-23",
+  "original_description": "appdesigns turns your app's screenshots into a store-ready screenshot set for the App Store or Google Play, then opens it as a project you can keep editing.\n\nAttach 1 to 6 screenshots of your app and say which store they are for. ChatGPT writes a short screen name and a headline for each screen from what it shows, and appdesigns puts every screenshot in a real device frame (iPhone, iPad, iPhone Duo, Pixel or Galaxy) on a background, at the exact canvas size the store asks for, such as 1320 x 2868 for iPhone or 1080 x 1920 for Google Play.\n\nYou get a link that opens the set in the appdesigns editor. Sign in there to save it to your library, change any text, colour, device or layout, and export PNGs at store size, ready to upload to App Store Connect or the Play Console.\n\nIn Codex and other coding agents, appdesigns can also capture the screenshots for you: the agent plans the screens from your app's code, checks the demo data with you, captures each screen in the iOS Simulator, Android emulator or a browser, and hands over the same editable set.\n\nScreenshots are stored privately and deleted once you save the set, or after 72 hours if you never open it. No account is needed until you choose to save.",
+  "summary_ja": "アプリ画面からストア掲載用スクリーンショットを作る。",
+  "usage_tags": [
+    "アプリ開発",
+    "スクリーンショット",
+    "デザイン"
+  ],
+  "limitations": [
+    "1〜6枚を添付する方式。ライブラリへの保存時にサインインが必要。",
+    "画像を非公開で保存し、指定時点で削除するとの提供元の説明は未検証。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証",
+    "説明だけでは不明"
+  ]
+}

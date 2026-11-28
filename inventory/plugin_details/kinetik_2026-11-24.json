@@ -1,0 +1,26 @@
+{
+  "name": "Kinetik",
+  "category": "Creativity",
+  "provider": "Kineto Limited",
+  "version": "1.0.6",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ad2507998dc81919e9919425ea50c5f?category=creativity",
+  "original_description": "Your screen time is high enough already. Kinetik is your AI agent for social media: it edits reels, generates videos and carousel posts, and suggests trends and new post ideas every day.\n\nKinetik helps you:\n• Create trending carousels and posts in minutes: give Kinetik a topic and get every slide plus a ready caption in your brand voice.\n• Turn your own photos into this week's trending effects, from a template or a custom effect.\n• Edit your reels or generate short videos: send a raw clip or an idea and get a finished reel with cuts, a hook and on-screen graphics, sized for Instagram, TikTok and LinkedIn.\n• Publish when you're ready: approve a post and Kinetik puts it on your Instagram or sends a video to your TikTok drafts.\n• Get data-driven recommendations: Kinetik analyzes the trends and your content performance, then suggests topics, hooks and formats.\n\nConnect your Kinetik account to start.",
+  "summary_ja": "SNS向けの投稿や動画を作り、トレンド調査や投稿の管理を支援する。",
+  "limitations_ja": "Kinetikアカウントが必要。アプリ欄は承認後のInstagram・LinkedIn投稿とTikTok下書き保存に言及。",
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "Kinetik",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "SNS",
+    "動画制作",
+    "マーケティング"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明",
+  "app_description": "You bring the idea, Kinetik does the work. Kinetik is an AI agent that researches what's trending in your niche, writes and designs your content, publishes it to your social accounts when you approve it, and shows you what actually works. Built for creators and businesses that need to show up consistently without a dedicated content team. • Trend radar: Kinetik tracks emerging trends in your niche and surfaces ideas worth recreating, with references you can use in one tap. • Content made for you: carousels, Reels, photo effects and videos, created in your brand voice and sized for Instagram, TikTok and LinkedIn. • Publishing with your OK: approve a post and Kinetik publishes it to Instagram or LinkedIn, or saves a video to your TikTok drafts. • Analytics that answer the real questions: what should you post next? What should you stop doing? How is your account actually performing? • Ideas on demand: ask for a month of content, a launch plan or 10 hooks for tomorrow, and get it all in chat."
+}

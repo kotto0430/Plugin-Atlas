@@ -1,0 +1,25 @@
+{
+  "name": "Freegma",
+  "official_app_name": "Freegma",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "Freegma",
+  "version": "1.0.0",
+  "observed_at": "2026-11-27",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ad681ab4ad48191b1b5b1072d03ce54?category=creativity",
+  "original_description": "Freegma is a design tool for ChatGPT: it designs web pages and app screens, such as landing pages, websites, app layouts and design systems, and saves them as HTML files in your Freegma project. Describe what you need the way you would brief a designer, and ChatGPT creates the screens. You follow along at freegma.app/estudio: each screen shows up on a canvas while ChatGPT works, and you ask for changes in the chat until it looks right.\n\nWho it is for\nDesigners who want to skip the repetitive part, and people with no design or coding experience who need a landing page, a website or an app layout.\n\nWhat you can make\n- Landing pages and multi-page websites\n- Simple systems and dashboards, like order lists and admin panels\n- App screen layouts for mobile and desktop\n- Game UI and HUDs\n- Brand identities and design systems: colors, fonts, spacing and components live in one DESIGN.md, and every screen follows them\n\nWhat ChatGPT can do with Freegma\n- Create projects, and write, move and remove screens on the canvas\n- Update design tokens, so one change restyles every screen\n- Add images from a link (converted to WebP) and install Google Fonts\n- Read the notes you leave on a screen in the studio, or that a client leaves through a share link, and apply them\n- Browse and restore earlier versions of a screen (the last 20 are kept)\n- Export a project backup, or build a static website ready for Netlify, Cloudflare Pages, Vercel or GitHub Pages, delivered as a download link\n\nIn the studio you can also edit texts directly, leave notes, share a read-only link and download everything. Your screens are plain HTML files and stay yours.\n\nLimitations\n- Screens are HTML pages, not Figma or Sketch files, and Freegma does not edit files from other design tools.\n- Freegma does not publish to a hosting service: you download the built site and upload it yourself.\n- Images up to 10 MB (JPEG, PNG, WebP, GIF or AVIF); SVG is written inline in the screen. Each project holds up to 50 MB.\n- Every tool call counts as one AI action toward the account's monthly allowance.\n- The freegma.app website is in Portuguese (Brazil).",
+  "summary_ja": "チャットからウェブやアプリの画面を設計し、HTMLとしてプロジェクトに保存する。",
+  "limitations_ja": "画面はHTMLで、他のデザインツールのファイルは編集しない。公開は利用者自身が行う。",
+  "usage_tags": [
+    "ウェブデザイン",
+    "UI",
+    "ゲーム制作"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "description_scope": "詳細ページ本文の英語説明"
+}

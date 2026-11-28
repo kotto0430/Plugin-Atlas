@@ -1,0 +1,461 @@
+{
+  "source": "Chrome ChatGPT 教育",
+  "date": "2026-11-14",
+  "method": "画面を重ねてスクロールし表示名を目視転記。誤記・重複の可能性あり。Clarityは2枠を記録。",
+  "catalog_blob": "fd13ece4009fcf170733daf819bb2e7424328a60",
+  "counts": {
+    "rows": 112,
+    "matched": 110,
+    "unmatched": 2
+  },
+  "rows": [
+    {
+      "name": "DAFi",
+      "matched": true
+    },
+    {
+      "name": "Kanonix",
+      "matched": true
+    },
+    {
+      "name": "Sigma Prep Worksheets",
+      "matched": true
+    },
+    {
+      "name": "Our World in Data",
+      "matched": true
+    },
+    {
+      "name": "AstralRead",
+      "matched": true
+    },
+    {
+      "name": "Tự học",
+      "matched": true
+    },
+    {
+      "name": "PastPaperPrep",
+      "matched": true
+    },
+    {
+      "name": "Card.ai",
+      "matched": true
+    },
+    {
+      "name": "Talkio Practice",
+      "matched": true
+    },
+    {
+      "name": "Plans de leçon",
+      "matched": true
+    },
+    {
+      "name": "Tomo",
+      "matched": true
+    },
+    {
+      "name": "Talmud Scroller",
+      "matched": true
+    },
+    {
+      "name": "Sweden Driving Theory",
+      "matched": true
+    },
+    {
+      "name": "Fiveable for AP Teachers",
+      "matched": true
+    },
+    {
+      "name": "Mütalaa: Hukuk, Vergi, İçtihat",
+      "matched": true
+    },
+    {
+      "name": "Spitsbergen Library",
+      "matched": true
+    },
+    {
+      "name": "Paperguide",
+      "matched": true
+    },
+    {
+      "name": "MasterKi",
+      "matched": true
+    },
+    {
+      "name": "MockPrep",
+      "matched": true
+    },
+    {
+      "name": "Shamela Link",
+      "matched": true
+    },
+    {
+      "name": "Celpify",
+      "matched": true
+    },
+    {
+      "name": "PPL Free Ground School",
+      "matched": true
+    },
+    {
+      "name": "AGAPES Studio",
+      "matched": true
+    },
+    {
+      "name": "Praktikal",
+      "matched": true
+    },
+    {
+      "name": "DSTI School of Engineering",
+      "matched": true
+    },
+    {
+      "name": "Cosmic Chemistry",
+      "matched": true
+    },
+    {
+      "name": "Julius: AI Homework Helper",
+      "matched": true
+    },
+    {
+      "name": "HitJam Piano",
+      "matched": true
+    },
+    {
+      "name": "CL for Desmos & Amplify",
+      "matched": true
+    },
+    {
+      "name": "MedicinaHub Pathways",
+      "matched": true
+    },
+    {
+      "name": "Body Insights",
+      "matched": true
+    },
+    {
+      "name": "TCFCAN",
+      "matched": true
+    },
+    {
+      "name": "Pandectis",
+      "matched": true
+    },
+    {
+      "name": "MyBoatGuru",
+      "matched": true
+    },
+    {
+      "name": "GridSmith Puzzle Maker",
+      "matched": true
+    },
+    {
+      "name": "Gizmo",
+      "matched": true
+    },
+    {
+      "name": "Wonder AI Filmmaking",
+      "matched": true
+    },
+    {
+      "name": "Educaplay",
+      "matched": true
+    },
+    {
+      "name": "WhitelistVideo",
+      "matched": true
+    },
+    {
+      "name": "MszaAI",
+      "matched": true
+    },
+    {
+      "name": "Pre-Med Coach",
+      "matched": true
+    },
+    {
+      "name": "The Stoic Library",
+      "matched": true
+    },
+    {
+      "name": "Derive",
+      "matched": true
+    },
+    {
+      "name": "Okay News",
+      "matched": true
+    },
+    {
+      "name": "3GPP Scout",
+      "matched": true
+    },
+    {
+      "name": "USAFacts Spending Explorer",
+      "matched": true
+    },
+    {
+      "name": "DeducePuzzles",
+      "matched": true
+    },
+    {
+      "name": "Research Assistant",
+      "matched": true
+    },
+    {
+      "name": "HonestDog",
+      "matched": true
+    },
+    {
+      "name": "Opterio",
+      "matched": true
+    },
+    {
+      "name": "Usercall: User Interviews",
+      "matched": true
+    },
+    {
+      "name": "Clarity",
+      "matched": true
+    },
+    {
+      "name": "Clarity",
+      "matched": true
+    },
+    {
+      "name": "CertArc",
+      "matched": true
+    },
+    {
+      "name": "Language Trainer EN",
+      "matched": true
+    },
+    {
+      "name": "Esbiko Science Lab",
+      "matched": true
+    },
+    {
+      "name": "LingoBab",
+      "matched": true
+    },
+    {
+      "name": "RegAI Legal (Taiwan)",
+      "matched": true
+    },
+    {
+      "name": "Endless U",
+      "matched": true
+    },
+    {
+      "name": "Patent Bear",
+      "matched": true
+    },
+    {
+      "name": "Nek5000 Assistant",
+      "matched": true
+    },
+    {
+      "name": "Scoring64",
+      "matched": true
+    },
+    {
+      "name": "Scoutpost",
+      "matched": true
+    },
+    {
+      "name": "TRX Search Comm Compass™",
+      "matched": true
+    },
+    {
+      "name": "QLASE",
+      "matched": true
+    },
+    {
+      "name": "StepGenie",
+      "matched": true
+    },
+    {
+      "name": "Maximos",
+      "matched": true
+    },
+    {
+      "name": "Typeciao: Language Learning",
+      "matched": true
+    },
+    {
+      "name": "HLP Thesis Review",
+      "matched": true
+    },
+    {
+      "name": "blablabla: Learn Lines & Tape",
+      "matched": true
+    },
+    {
+      "name": "English Speaking Coach",
+      "matched": true
+    },
+    {
+      "name": "Dike",
+      "matched": true
+    },
+    {
+      "name": "Urantia Papers",
+      "matched": true
+    },
+    {
+      "name": "Manulyx",
+      "matched": true
+    },
+    {
+      "name": "GraphChinese",
+      "matched": true
+    },
+    {
+      "name": "Axiom Exam Practice",
+      "matched": true
+    },
+    {
+      "name": "Kiểm định trùng lặp NCKH",
+      "matched": true
+    },
+    {
+      "name": "PokerInk Study",
+      "matched": true
+    },
+    {
+      "name": "CFDAgent",
+      "matched": true
+    },
+    {
+      "name": "INSPIRe AI Sales Coach",
+      "matched": true
+    },
+    {
+      "name": "University AI Policy Tracker",
+      "matched": true
+    },
+    {
+      "name": "Translator Pro",
+      "matched": true
+    },
+    {
+      "name": "Bible Study Companion",
+      "matched": true
+    },
+    {
+      "name": "AristAI Thinker",
+      "matched": true
+    },
+    {
+      "name": "QuizOffice",
+      "matched": true
+    },
+    {
+      "name": "Talent Augmentation OS",
+      "matched": false
+    },
+    {
+      "name": "The Archivist",
+      "matched": true
+    },
+    {
+      "name": "The Founding Reader",
+      "matched": false
+    },
+    {
+      "name": "uNotes",
+      "matched": true
+    },
+    {
+      "name": "JusticeNow Library",
+      "matched": true
+    },
+    {
+      "name": "Text-First Scriptural Exegesis",
+      "matched": true
+    },
+    {
+      "name": "Five-Minute Math",
+      "matched": true
+    },
+    {
+      "name": "Creative Educator",
+      "matched": true
+    },
+    {
+      "name": "Voidly Atlas",
+      "matched": true
+    },
+    {
+      "name": "HL Business Advisor",
+      "matched": true
+    },
+    {
+      "name": "Smarty PANCE",
+      "matched": true
+    },
+    {
+      "name": "Sommelier's Window",
+      "matched": true
+    },
+    {
+      "name": "Aisystant Open",
+      "matched": true
+    },
+    {
+      "name": "Universal Primer",
+      "matched": true
+    },
+    {
+      "name": "AI Rechtshulp",
+      "matched": true
+    },
+    {
+      "name": "Verity",
+      "matched": true
+    },
+    {
+      "name": "Khattet",
+      "matched": true
+    },
+    {
+      "name": "AnyLawyer",
+      "matched": true
+    },
+    {
+      "name": "Juriv'IA",
+      "matched": true
+    },
+    {
+      "name": "Record",
+      "matched": true
+    },
+    {
+      "name": "HanyuGuide",
+      "matched": true
+    },
+    {
+      "name": "LSAT Unplugged",
+      "matched": true
+    },
+    {
+      "name": "Citation Checker",
+      "matched": true
+    },
+    {
+      "name": "Medical Paper Converter",
+      "matched": true
+    },
+    {
+      "name": "Muslim Expert",
+      "matched": true
+    },
+    {
+      "name": "Trợ lý tiếng Việt",
+      "matched": true
+    },
+    {
+      "name": "MockMaster AI",
+      "matched": true
+    }
+  ]
+}

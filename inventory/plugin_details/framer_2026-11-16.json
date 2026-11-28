@@ -1,0 +1,21 @@
+{
+  "official_app_name": "Framer",
+  "provider": "Framer",
+  "version": "1.0.1",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac3c5787b388191a9fad3e356d1bd3f?category=creativity",
+  "observed_at": "2026-11-16",
+  "original_description": "Design, update, and publish Framer websites from your chat. Connect your Framer account, share a project link, and describe what you want to build or change. Create pages using your existing styles and components, adjust layouts, update copy, and manage CMS collections.\nKeep iterating with your agent, or open Framer to review and refine the result in the visual editor. When you’re ready, publish your changes yourself or ask your agent to publish them for you.",
+  "summary_ja": "Framerのサイトを会話で作成・修正し、CMSや公開を管理する。",
+  "usage_tags": [
+    "ウェブサイト制作",
+    "CMS",
+    "サイト公開"
+  ],
+  "limitations": [
+    "Framerアカウントの接続とプロジェクトリンクが必要との説明。実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

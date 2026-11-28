@@ -1,0 +1,22 @@
+{
+  "official_app_name": "Pretty",
+  "provider": "Make Pretty Inc",
+  "version": "1.0.7",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6abcf5ede4248191b9eb8e5d0a1ccb91?category=creativity",
+  "observed_at": "2026-11-23",
+  "original_description": "Design and revise PowerPoint presentations in Pretty. Turn a supplied brief, source files, or links into slides, then request changes to the presentation's title, content, and design. Use Pretty to create project updates, client reports, and business presentations.\n\nStart a presentation in a Pretty chat or continue an existing one. The plugin sends your presentation instructions to Pretty, follows progress, and returns the chat link so you can inspect the slides and continue editing in the Pretty editor.\n\nUse files and presentation guidance from your connected workspace as source material. When the workspace offers the relevant tools, you can use brand kits, asset libraries, and reusable slide pools to guide the presentation's design.\n\nA Pretty account and access to a Pretty workspace are required. The connection respects the account's workspace permissions. Upload and download features depend on the tools available to that workspace. Pretty creates presentations; it does not execute payments.",
+  "summary_ja": "資料や指示からPowerPoint用プレゼンを作成・修正する。",
+  "usage_tags": [
+    "プレゼン",
+    "スライド制作"
+  ],
+  "limitations": [
+    "Prettyアカウントとワークスペースへのアクセスが必要。アップロード・ダウンロードはそのワークスペースのツールに依存する。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証",
+    "説明だけでは不明"
+  ]
+}

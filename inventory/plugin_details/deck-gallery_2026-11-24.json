@@ -1,0 +1,25 @@
+{
+  "name": "Deck.gallery",
+  "official_app_name": "Deck.gallery",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "deck.gallery",
+  "version": "0.1.5",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ae7dbf08ed881919ac1b6e6136d976a?category=creativity",
+  "original_description": "Find ideas for your next presentation in pitch decks, brand guidelines and annual reports. Find examples of a specific slide, explore how a deck is structured and compare ways to present a product, visual identity or set of results.\n\nDeck.gallery returns slide previews when available, deck outlines and links back to each reference. Connect your account to search the library; results follow your existing access.",
+  "summary_ja": "プレゼン資料やスライドの構成・デザイン事例を検索する。",
+  "limitations_ja": "ライブラリ検索にはアカウント接続が必要で、既存のアクセス権に従う。スキル欄では資料の作成・編集は行わないと説明。",
+  "usage_tags": [
+    "プレゼン",
+    "デザイン参考",
+    "調査"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "description_scope": "詳細ページ本文の英語説明"
+}

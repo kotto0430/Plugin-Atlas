@@ -1,0 +1,130 @@
+{
+  "source": "Chrome ChatGPT 教育",
+  "date": "2026-11-14",
+  "method": "画面を重ねてスクロールし表示名を目視転記。誤記・重複の可能性あり。",
+  "notes": "名称が省略されたちゃんべん項目、アラビア語を含む2項目は表記の確認待ち。",
+  "catalog_blob": "fd13ece4009fcf170733daf819bb2e7424328a60",
+  "counts": {
+    "rows": 29,
+    "matched": 0,
+    "unmatched": 29
+  },
+  "rows": [
+    {
+      "name": "TORENDIA 聞ける本屋",
+      "matched": false
+    },
+    {
+      "name": "LQT Differentiation Design",
+      "matched": false
+    },
+    {
+      "name": "Strand AI",
+      "matched": false
+    },
+    {
+      "name": "Math / Algo / Opti / Quantum",
+      "matched": false
+    },
+    {
+      "name": "実習の味方（認証付き）",
+      "matched": false
+    },
+    {
+      "name": "Compendia Bibliotheca",
+      "matched": false
+    },
+    {
+      "name": "ちゃんべん 応用情報技術者試験",
+      "matched": false
+    },
+    {
+      "name": "SynapseScope",
+      "matched": false
+    },
+    {
+      "name": "受験王",
+      "matched": false
+    },
+    {
+      "name": "Wondering",
+      "matched": false
+    },
+    {
+      "name": "AlgoApp",
+      "matched": false
+    },
+    {
+      "name": "Medgram Research",
+      "matched": false
+    },
+    {
+      "name": "Vital",
+      "matched": false
+    },
+    {
+      "name": "MIRRORBOT™",
+      "matched": false
+    },
+    {
+      "name": "GreyScienx",
+      "matched": false
+    },
+    {
+      "name": "chatPTA｜PTA実務・運営支援",
+      "matched": false
+    },
+    {
+      "name": "교보문고",
+      "matched": false
+    },
+    {
+      "name": "Alimki",
+      "matched": false
+    },
+    {
+      "name": "LQT Surface Deep Transfer",
+      "matched": false
+    },
+    {
+      "name": "Minerva Learn",
+      "matched": false
+    },
+    {
+      "name": "SimilarCase WCAB Research",
+      "matched": false
+    },
+    {
+      "name": "Blume",
+      "matched": false
+    },
+    {
+      "name": "Your Language Coach",
+      "matched": false
+    },
+    {
+      "name": "Patenta",
+      "matched": false
+    },
+    {
+      "name": "Verbamor",
+      "matched": false
+    },
+    {
+      "name": "Blupreme",
+      "matched": false
+    },
+    {
+      "name": "Bible",
+      "matched": false
+    },
+    {
+      "name": "Say Daily",
+      "matched": false
+    },
+    {
+      "name": "LangLearn",
+      "matched": false
+    }
+  ]
+}

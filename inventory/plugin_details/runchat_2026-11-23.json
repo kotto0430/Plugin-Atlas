@@ -1,0 +1,23 @@
+{
+  "official_app_name": "Runchat",
+  "provider": "Runchat Pty Ltd",
+  "version": "1.0.2",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac722cd198c8191966f393265bc727b?category=creativity",
+  "observed_at": "2026-11-23",
+  "original_description": "Runchat is a node-based canvas for design workflows used by architects, designers and computational designers. Connect your Runchat account to build, edit and run workflows from ChatGPT: chain language models, design-visualisation models and code into a reusable pipeline, then publish it as a tool or a hosted page.\n\nWith the Runchat plugin running in Rhino, Grasshopper, Revit, ArchiCAD or Blender, ChatGPT works as a CAD agent: it reads your open model, runs scripts in it, builds Grasshopper definitions and captures the viewport to check its work. In SketchUp it can capture the viewport. With the ClipChat desktop app, it can edit your screen recordings into finished videos.\n\nRequires a Runchat account. Desktop tools only work while the matching Runchat plugin or ClipChat app is open and signed in to the same account.",
+  "summary_ja": "設計ワークフローを構築し、対応するCADツールと連携する。",
+  "usage_tags": [
+    "CAD",
+    "設計",
+    "ワークフロー"
+  ],
+  "limitations": [
+    "アカウントが必要。デスクトップ機能は対応するプラグインまたはアプリが開かれ、同じアカウントにログインしている必要がある。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証",
+    "説明だけでは不明"
+  ]
+}

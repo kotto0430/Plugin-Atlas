@@ -1,0 +1,24 @@
+{
+  "name": "MyBeatz",
+  "category": "Creativity",
+  "provider": "MYBEATZAI LLC",
+  "version": "1.0.5",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac29548b4f08191907a4617c9c89ac8?category=creativity",
+  "original_description": "Create original instrumental beats and type beats with MyBeatz. Ask for a supported style, such as a Jul type beat at 130 BPM, choose from the available BPM options, review and confirm your request, then follow the generation and open your beats in your MyBeatz library. A connected MyBeatz account is required for creation and private library access; existing account permissions apply. Requested BPM is a target rather than a guaranteed measurement. MyBeatz does not clone voices, copy existing recordings or imply endorsement by a reference artist. As a secondary feature, explore tracks, artists, albums and composers with known BPM, musical keys and dated Spotify stream observations. Missing data stays unknown and stream totals may be partial. Country rankings use documented streams from the selected listening territory; missing territorial data stays unavailable. Drumbeatz opens the MyBeatz audio-upload workflow, not an extraction inside ChatGPT.",
+  "summary_ja": "指定したスタイルやテンポを目標にインストゥルメンタルのビートを作る。",
+  "limitations_ja": "作成と非公開ライブラリには接続済みアカウントが必要。指定BPMは目標値で保証されない。",
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "MyBeatz",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "音楽制作",
+    "ビート"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}

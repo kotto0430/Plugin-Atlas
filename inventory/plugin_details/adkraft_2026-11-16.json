@@ -1,0 +1,21 @@
+{
+  "official_app_name": "AdKraft",
+  "provider": "Adkraft AI",
+  "version": "1.0.1",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6aa15df8f0e88191935d169a1ba55443?category=creativity",
+  "observed_at": "2026-11-16",
+  "original_description": "AdKraft turns product photos into finished video ads. Give it a product name, a short description and a product photo (attach it in the chat or paste a link), and it writes the script, generates the footage with a voiceover in any of 16 languages and hands back an MP4 you can post, in portrait, square or landscape, usually in under a minute. Ads are made on your own AdKraft account and use its credits; new accounts start with free credits, and you can check the balance or list the ads you have made without leaving the chat.",
+  "summary_ja": "商品写真と説明からナレーション付きの動画広告を作り、MP4を受け取る。",
+  "usage_tags": [
+    "動画広告",
+    "商品写真",
+    "マーケティング"
+  ],
+  "limitations": [
+    "AdKraftアカウントのクレジットを使用し、新規アカウントには無料分があるとの説明。実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

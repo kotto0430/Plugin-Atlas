@@ -1,0 +1,22 @@
+{
+  "official_app_name": "Fuji X100VI Look Emulator",
+  "provider": "RONALD FERRARI SOARES",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugins_6ab01dc12d2481918aab3cecf3ba2042?category=creativity",
+  "observed_at": "2026-11-17",
+  "original_description": "Guides image editing toward a Fujifilm X100VI-inspired look while preserving the scene, composition, and subject. Image transformation depends on the host image tools.",
+  "summary_ja": "被写体や構図を維持し、富士フイルムX100VI風の画像編集を支援。",
+  "usage_tags": [
+    "写真",
+    "画像編集",
+    "色調補正"
+  ],
+  "limitations": [
+    "画像変換は利用環境の画像ツールに依存すると説明。提供元はRONALD FERRARI SOARESと表示。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

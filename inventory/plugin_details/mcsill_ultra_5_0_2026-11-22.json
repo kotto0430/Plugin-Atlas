@@ -1,0 +1,21 @@
+{
+  "official_app_name": "McSill Ultra 5.0",
+  "provider": "JAMES MCSILL",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ab5bee11070819194c6610303a0a876?category=creativity",
+  "observed_at": "2026-11-22",
+  "original_description": "McSill Ultra 5.0 is a storytelling and narrative development plugin based on James McSill’s methodology. It helps users analyse, structure, develop, edit, and refine stories, manuscripts, scenes, characters, dialogue, point of view, subtext, emotional progression, tension, pacing, and reader experience. It can work with fiction, non-fiction, professional narratives, and early-stage ideas, providing practical narrative analysis and editorial guidance while preserving the author’s voice, creative intent, and final decision-making.",
+  "summary_ja": "物語や原稿の構成・人物・対話などを分析し、改稿を支援。",
+  "usage_tags": [
+    "小説",
+    "物語制作",
+    "文章編集"
+  ],
+  "limitations": [
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

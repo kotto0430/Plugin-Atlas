@@ -1,0 +1,20 @@
+{
+  "official_app_name": "esigna",
+  "provider": "esigna",
+  "version": "0.4.2",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac41b329f3481919b2efaa1fa9f38df?category=creativity",
+  "observed_at": "2026-11-22",
+  "original_description": "Describe yourself and the impression you want; esigna designs with you. See design directions side by side, refine by conversation or by hand in the full Editor, add your own Photo and logo, preview it in light and dark inboxes and on a phone, then copy it into Gmail, Outlook or Apple Mail.",
+  "summary_ja": "メール署名をデザインし、プレビューや編集を行う。",
+  "usage_tags": [
+    "メール",
+    "デザイン"
+  ],
+  "limitations": [
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Simple Photo Gallery",
+  "official_app_name": "Simple Photo Gallery",
+  "provider": "Creafex Lab",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ae50419ada48191b4523435e7041a7d",
+  "developer_url": "https://app.simple.photo/connect-ai",
+  "category": "Creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Create photo galleries and albums, organize your pictures, and share a photo story from ChatGPT. Simple Photo Gallery gives you a visual workspace with photo previews, gallery sections and your connected Simple Photo Gallery library. Work with photos uploaded to this service; it does not connect directly to Apple Photos, Google Photos or your phone’s camera roll.\n\nWhat you can do:\n\n• Make a travel album, family gallery, wedding collection, event recap or photography portfolio.\n• Start a new private draft, or open and improve an existing gallery.\n• Upload photos and videos from chat attachments, or reuse pictures already in your library.\n• Arrange photos into sections by day, place, subject or the story you want to tell.\n• Rearrange pictures, move them between sections, write captions and choose a cover photo.\n• Review duplicate candidates and hide pictures from a gallery while keeping the originals.\n• Ask for an organization proposal and review it in the visual editor before applying changes.\n• Browse filenames, captions and available photo metadata; use visual inspection and optional AI analysis for curation.\n• Publish an online gallery or share a private link when you ask, using the access settings you choose.\n\nTry “Create a gallery from these vacation photos,” “Organize my trip into days and places,” or “Help me choose the best photos for a family album.”\n\nRequires a Simple Photo Gallery account. Edits are saved as drafts; publishing and access changes are separate actions. Uploads, storage and optional AI analysis follow your account’s available features and allowances.",
+  "original_description_language": "en",
+  "summary_ja": "サービスにアップロードした写真をアルバムに整理し、共有用ギャラリーを作る。",
+  "usage_tags": [
+    "写真整理",
+    "アルバム",
+    "旅行"
+  ],
+  "limitations_ja": "Apple Photos・Google Photos・端末の写真への直接接続はしない。アカウントが必要で、公開・アクセス変更は下書きの編集と別操作と説明。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "一覧本体との名称照合は未確認。同名・別名の同一性は未確認。",
+  "review": "詳細画面の説明・情報欄を確認。動作、料金、品質は未検証。"
+}

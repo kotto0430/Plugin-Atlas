@@ -1,0 +1,25 @@
+{
+  "official_app_name": "Kinetune",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "Prismosoft",
+  "version": "1.0.26",
+  "observed_at": "2026-11-29",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac8644fd31c8191a871ef900fb7cb41?category=creativity",
+  "original_description": "Kinetune makes every video a song needs: AI music videos, lyric videos and Spotify Canvas loops. Connect your Kinetune account and ask in plain words. For a music video, an AI director reads the song and writes a shot list you can read and change before anything is made; the artist then sings on camera, lip-synced, from their character. Lyric videos are timed to every word and built from the song, in any of 63 lyric styles, and a Canvas loop is cut from Stock or the artist's own clips, the cover or a visualizer, or generated for the song, all in 9:16, 16:9 or 1:1. Before anything is made, Kinetune tells you exactly what it will create and waits for your go, then returns download links. You can also upload songs and lyrics, set up the artist's character and kit, and make new songs for an artist with AI.",
+  "original_description_language": "英語",
+  "description_scope": "詳細ページの説明本文",
+  "summary_ja": "楽曲からミュージックビデオ、歌詞動画、Spotify Canvasなどを作る。",
+  "usage_tags": [
+    "音楽制作",
+    "動画制作",
+    "歌詞動画"
+  ],
+  "limitations_ja": "Kinetuneアカウント連携。内包アプリ欄は歌詞動画とカバー画像由来のCanvasなどを説明しており、本文より範囲が狭い。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。"
+}

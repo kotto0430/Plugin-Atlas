@@ -1,0 +1,22 @@
+{
+  "official_app_name": "Kombai",
+  "provider": "Kombai",
+  "version": "0.6.2",
+  "source_url": "https://chatgpt.com/plugins/plugins_6abcbe51bb2c81918103a2f1ef01a8e3?category=creativity",
+  "observed_at": "2026-11-23",
+  "original_description": "Kombai is an AI design engineer with built-in taste. Use the Kombai plugin to design a new page or product UI, or improve an existing screen.\n\nFor every task, Kombai's taste agent creates a design direction grounded in your brief and product. It follows the choices you've already made and makes creative decisions where needed. It draws on 20,000+ curated references to guide page structure, hierarchy, visual style, content, motion and interactions.\n\nKombai also provides an infinite, editable canvas where you can explore and compare design approaches side by side, refine them with the agent, or edit any element's text, styles or layout directly.",
+  "summary_ja": "Codexでページや製品UIのデザイン案を作り、編集可能なキャンバスで比較・修正する。",
+  "usage_tags": [
+    "UIデザイン",
+    "Web制作",
+    "プログラミング"
+  ],
+  "limitations": [
+    "デスクトップアプリで開く形式。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

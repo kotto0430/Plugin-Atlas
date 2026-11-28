@@ -1,0 +1,23 @@
+{
+  "official_app_name": "English Query Refiner",
+  "provider": "Anfreville",
+  "version": "0.7.1+bundle.8b2fcdeb52e00e0a2556f8c0b4e1ad99",
+  "source_url": "https://chatgpt.com/plugins/plugins_6ab49bd136108191bca3c030d5e019c8?search=English+Query+Refiner",
+  "observed_at": "2026-11-22",
+  "original_description": "Refines English and answers bilingually, then mirrors the exact answer in interactive HTML.",
+  "summary_ja": "英語表現を整えて二言語で回答し、その内容をHTMLでも表示する。",
+  "usage_tags": [
+    "英語学習",
+    "文章作成",
+    "翻訳"
+  ],
+  "limitations": [
+    "説明は二言語とするが具体的な対応言語の範囲は明記されていない。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証",
+    "説明だけでは不明"
+  ]
+}

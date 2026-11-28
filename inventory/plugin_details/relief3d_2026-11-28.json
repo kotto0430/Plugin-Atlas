@@ -1,0 +1,25 @@
+{
+  "official_app_name": "Relief3D",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "Imagineers Studio Inc",
+  "version": "0.1.2",
+  "observed_at": "2026-11-28",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6aea971231ac819194e40f992f15d8d8?category=creativity",
+  "original_description": "Turn an actual supplied opaque height map into a closed rectangular relief mesh with explicit width, height, base, amplitude, grid and optional inversion. Export STL with millimeter scale assumptions, meter-scaled self-contained GLB and exact parameter JSON, then inspect the actual 3D result. Image luminance is a chosen height signal, not measured geometry; this tool does not estimate depth from a photograph. No certified printability, CAD accuracy, physical calibration or machine toolpaths. Inputs: JPEG/PNG/WebP up to 20 MB and 16 megapixels. Requires a connected account; mesh export links are public.",
+  "original_description_language": "英語",
+  "description_scope": "詳細ページの説明本文",
+  "summary_ja": "用意した高さマップからレリーフ形状の3Dメッシュを作る。",
+  "usage_tags": [
+    "3D",
+    "レリーフ",
+    "3Dプリント"
+  ],
+  "limitations_ja": "写真から奥行きを推定しない。接続アカウントが必要で、書き出しリンクは公開されると説明。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。"
+}

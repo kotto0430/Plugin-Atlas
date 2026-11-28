@@ -1,0 +1,122 @@
+{
+  "source": "教育.pdf",
+  "sha256": "55f8221b4acb622a175b4c4537221fed9bedeb0bfe364f888805f181a7d0fab7",
+  "page": 8,
+  "baseline_index_sha": "40bd858149169eeaa64708cbda961ecdacf31bce",
+  "rows": [
+    {
+      "row_id": "p08L01",
+      "name": "Ped ENT Systematic Review",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p08L02",
+      "name": "ReportGem Research",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p08L03",
+      "name": "Puzzel.org",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p08L04",
+      "name": "Mentora E-Math Resources",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p08L05",
+      "name": "Career NorthStar Compass™",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p08L06",
+      "name": "Sanctum Reflections",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p08L07",
+      "name": "AcaTrove",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p08L08",
+      "name": "ComputePrep",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p08L09",
+      "name": "FluentSide",
+      "status": "画像再確認済み",
+      "match": false,
+      "review_note": "原本の拡大画像で表示名を再確認",
+      "catalog_id": "atlas-pdf-education-p08l09"
+    },
+    {
+      "row_id": "p08R01",
+      "name": "ELEN Story AI",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p08R02",
+      "name": "sito: Kids & Baby Food",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p08R03",
+      "name": "WeStudy",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p08R04",
+      "name": "Intention Bot",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p08R05",
+      "name": "Trợ lý YHCT",
+      "status": "画像再確認済み",
+      "match": false,
+      "review_note": "原本の拡大画像で表示名を再確認",
+      "catalog_id": "atlas-pdf-education-p08r05"
+    },
+    {
+      "row_id": "p08R06",
+      "name": "Bibelbegleiter",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p08R07",
+      "name": "Dive Kit",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p08R08",
+      "name": "LEXI",
+      "status": "画像照合済み",
+      "match": false
+    },
+    {
+      "row_id": "p08R09",
+      "name": "Their First Words",
+      "status": "画像再確認済み",
+      "match": false,
+      "review_note": "原本の拡大画像で表示名を再確認",
+      "catalog_id": "atlas-pdf-education-p08r09"
+    }
+  ]
+}

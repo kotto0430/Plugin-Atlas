@@ -1,0 +1,22 @@
+{
+  "official_app_name": "Carat",
+  "provider": "Paradot (Carat)",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a94efba550881919f5e51d81d7e5374?category=creativity",
+  "observed_at": "2026-11-16",
+  "original_description": "Create images, video, audio, branded assets, and social content directly in ChatGPT. Start with an idea or reference files, and use Carat to plan, generate, review, edit, and export your work in one conversation.\nWith Carat, you can:\n• Generate images and videos from text or reference media. Create portraits, illustrations, product visuals, cinematic scenes, social content, and ad creatives, or turn a still image into a video.\n• Create product and brand content, including product photos, campaign visuals, short-form video ads, and coordinated social assets.\n• Edit and transform existing media. Upload files for analysis, upscale images, create variations, and refine the results through conversation.\n• Generate and work with audio for your creative projects.\n• Inspect images, video, and audio before editing. Analyze uploaded content and technical metadata to choose suitable source material and workflows.\n• Build and revise video projects in Carat Studio. Edit timelines, preview changes, and export the finished video.\n• Review generated results in chat and build on previous creations without starting over.\nDescribe what you want to make and attach any references you need. From a single image to a multi-step video project, plan, create, and keep refining your work in the same conversation.\nConnect your Carat account to get started. No separate API key is required. Generations use the same credit balance as the Carat platform.",
+  "summary_ja": "画像・動画・音声や広告素材を生成・編集し、動画のタイムライン編集や書き出しを支援する。",
+  "usage_tags": [
+    "画像生成",
+    "動画制作",
+    "音声制作",
+    "広告"
+  ],
+  "limitations": [
+    "Caratアカウントに接続し、生成には同サービスのクレジットを使用すると説明。実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

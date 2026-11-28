@@ -1,0 +1,24 @@
+{
+  "official_app_name": "Image to 3D",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "Image to 3D",
+  "version": "1.0.3",
+  "observed_at": "2026-11-28",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6af1cc23d21881918bb95a34cffbad54?category=creativity",
+  "original_description": "Image to 3D turns one photo, or a short description of a single object, into a textured 3D model you can preview right in the chat and download as a GLB file.\n\nHow it works: upload a photo of an object or describe one, and ask for a 3D model. The model is usually ready in one to three minutes, shown in an interactive viewer in the conversation, and offered as a GLB download that opens in most 3D viewers, Blender, game engines and slicers that support it.\n\nTwo qualities: Pro (Trellis 2) for more detail, Quick (Rodin 2.5 Fast) when speed matters more. Every generation uses the credits of the Image to 3D account you connect; the chat tells you what a model used and how many credits are left, and you can ask for your balance at any time.\n\nConnecting takes a moment: press Connect, then enter the six-digit code in the Image to 3D app, under Settings. On a phone the connect page can open the app for you. You can disconnect from the app or from ChatGPT at any time.\n\nGood to know: one object per model, photographed or described on its own, gives the best result. The plugin does not edit, convert or inspect existing 3D files, and it does not generate scenes with several objects. Photos and descriptions are processed by our generation partners to create the model; see the privacy policy for details.",
+  "original_description_language": "英語",
+  "description_scope": "詳細ページの説明本文",
+  "summary_ja": "写真1枚や文章から単体の3Dモデルを作りGLB形式で出力する。",
+  "usage_tags": [
+    "3D",
+    "3Dモデル"
+  ],
+  "limitations_ja": "連携アカウントのクレジットを使用。既存3Dファイルの編集や複数物体のシーン生成は対象外。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。"
+}

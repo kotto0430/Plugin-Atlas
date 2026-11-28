@@ -1,0 +1,22 @@
+{
+  "official_app_name": "Aaina Product Photos",
+  "provider": "Sanju Kumari",
+  "version": "1.0.2",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6abe506331808191be94a34a9cef1491?category=creativity",
+  "observed_at": "2026-11-23",
+  "original_description": "Aaina is a product photo studio for online sellers. Share one photo of your product (clothing and ethnic wear such as kurtas, sarees and lehengas, jewellery, bags, shoes or accessories) and Aaina shows it worn or held by a realistic studio model, in poses and scenes that suit the product, ready for listings on marketplaces and your own shop.\n\nWhat you can do in ChatGPT:\n- Tag @Aaina, attach a product photo and ask for model photos. The Aaina card reads the product and suggests models, poses and scenes; you can name a model or scene yourself (for example \"on Aaina in a white studio\").\n- Check the choices on the card, then press Make. Photos are made only when you press Make.\n- Watch the photos arrive, download them, or open the shoot in Aaina for marketplace sizes.\n- Ask to see your photos: the Your photos tab shows the photos you made with Aaina on the website or in ChatGPT, newest first, ready to download.\n- Ask which poses or scenes suit your product.\n\nWho it's for: sellers and brands who need consistent catalogue photos without a photoshoot.\n\nGood to know:\n- You need an Aaina account (sign in or create one when you connect).\n- Studio models are fictional people created for Aaina. Aaina works from product photos only: it doesn't edit photos of real people, and in ChatGPT it offers adult models only.\n- Each photo takes about a minute.",
+  "summary_ja": "商品写真から架空のモデルが着用・所持する商品画像を作成する。",
+  "usage_tags": [
+    "商品写真",
+    "ネット販売",
+    "画像生成"
+  ],
+  "limitations": [
+    "Aainaアカウントが必要。実在人物の写真は編集せず、ChatGPTでは成人モデルのみと説明。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

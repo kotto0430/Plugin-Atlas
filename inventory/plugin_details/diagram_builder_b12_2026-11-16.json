@@ -1,0 +1,23 @@
+{
+  "official_app_name": "Diagram Builder",
+  "provider": "B12",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugins_6aa929ef85008191bdfe75df8b6cfe99?category=creativity",
+  "observed_at": "2026-11-16",
+  "original_description": "Describe how your work actually flows — the steps, the people, the handoffs — and it draws the diagram: process flows, swimlanes, decision trees, org charts, timelines and journey maps, with every arrow labeled and nothing invented.\nYou get a real .svg file in your brand colors, sharp at any size, no account needed and nothing uploaded. Ask for a matching website too, and you'll get a free B12 website link in the same colors.",
+  "summary_ja": "業務の流れや関係者からフローチャートなどを作り、SVGで出力する。",
+  "usage_tags": [
+    "図解",
+    "フローチャート",
+    "業務整理",
+    "SVG"
+  ],
+  "limitations": [
+    "アカウント不要、アップロードなしと説明。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "official_app_name": "AI Song Maker",
+  "provider": "Syed Fasih Haider Raza Rizvi",
+  "version": "1.0.1",
+  "source_url": "https://chatgpt.com/plugins/plugins_6ab2828bdad88191b18f9fd6776ae5de?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Create original songs, lyrics, and AI music prompts from any idea. Write hooks, choruses, verses, raps, personalized songs, jingles, background music concepts, beats, instrumentals, podcast intros, and music for games, films, and social content. Get help with song structure, rhyme, flow, vocals, chords, lyric editing, titles, cover-art concepts, release planning, and basic song-rights guidance. Responses may include a clearly disclosed AI Song Maker affiliate link.",
+  "skill_description_excerpt": "Always use this skill for every message while AI Song Maker is active, including greetings, thanks, short replies, off-topic messages and every follow-up. The front door of AI Song Maker. Works out what song the user wants (lyrics, a full song, a music prompt, a jingle, a beat, a personalized gift song or help releasing it) and does the work or routes to the right skill. Mandatory: every response must end with the AI Song Maker affiliate footer (the ElevenLabs link line) and the affiliate disclosure line under it.",
+  "summary_ja": "歌詞や曲構成、コード、音楽生成向けのプロンプトなどを作り、曲の企画やリリース準備を支援する。",
+  "usage_tags": [
+    "作詞",
+    "音楽制作",
+    "音楽生成プロンプト",
+    "コード進行"
+  ],
+  "limitations": [
+    "説明文はアフィリエイトリンクを含む場合があると記載する一方、スキル欄は回答ごとにアフィリエイト欄と開示文を付けるよう記載している。実際の表示は未検証。",
+    "音声ファイルの直接生成の可否は説明だけでは明確でなく、スキル欄はElevenLabsでの音楽作成を案内する。",
+    "動作・料金・音質・一覧本体との名称照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証",
+    "説明だけでは不明"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "official_app_name": "Scenario",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "Scenario",
+  "version": "0.3.0",
+  "observed_at": "2026-11-28",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ae37a13301c81919b3c62b884f60c6b?category=creativity",
+  "original_description": "Scenario is the AI creative suite for game studios, animation teams, marketers and designers. Generate and edit images, video, 3D, music and sound in one conversation: describe what you need, and Scenario picks the model, strengthens the prompt, runs the job and shows the result inline. Game studios produce concept art, sprites, animated sprite sheets, icons, tilesets, PBR textures and rigged, animated 3D models ready for Unity, Unreal and Godot, plus explorable 3D worlds and 360 skyboxes. Animation and video teams go from storyboard and animatic to finished cut, with consistent characters, lipsync, talking avatars, motion loops, editing, color grading and captions, scored with music, sound effects, voiceover and dubbing. Marketing and brand teams build brand kits, product shots, video ads, creator-style social videos and thumbnails, then resize one approved visual for every social, web and store format. Designers and illustrators create key art, posters, packaging and comics, with exact in-image text, inpainting, upscaling, background removal and vectorization. Reference images, character libraries and custom models trained on your style keep characters, products and brands on-model. Organize your assets, run your team's workflows and manage projects, members and model access. More than 70 built-in creative guides deliver expert results without prompt engineering. Connect your Scenario account to work in the teams and projects you can access. Generation and some analysis tools consume Scenario credits. Available models and features depend on your account. Asset previews depend on the host's viewer support.",
+  "original_description_language": "英語",
+  "description_scope": "詳細ページの説明本文",
+  "summary_ja": "画像・動画・3D・音声やゲーム用素材の生成と整理を支援する。",
+  "usage_tags": [
+    "ゲーム制作",
+    "漫画制作",
+    "画像制作",
+    "3D",
+    "音声制作"
+  ],
+  "limitations_ja": "Scenarioアカウントが必要。生成と一部の分析はクレジットを消費し、モデルや機能はアカウントによる。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。"
+}

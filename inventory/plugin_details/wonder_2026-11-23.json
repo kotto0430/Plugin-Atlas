@@ -1,0 +1,27 @@
+{
+  "name": "Wonder",
+  "category": "Creativity",
+  "provider": "Wonder",
+  "version": "0.2.2",
+  "observed_at": "2026-11-23",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac54f9b26888191ad969856167e6262?category=creativity",
+  "original_description": "Wonder connects ChatGPT and Codex to a canvas where every design is real code. Your agent can inspect existing designs, components, variables, and documentation, create new screens and flows, and edit designs in place. It works with the actual HTML and CSS structure instead of screenshots, so you can design from your codebase and move approved designs back into production without rebuilding them. Wonder requires a Wonder account. It works on any Wonder file you can reach, and the Wonder app does not need to be open.",
+  "summary_ja": "実際のHTML・CSSを使うキャンバスで画面の設計や編集を支援する。",
+  "limitations_ja": [
+    "Wonderアカウントが必要。"
+  ],
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "Wonder",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "UIデザイン",
+    "ウェブ開発",
+    "プログラミング"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}

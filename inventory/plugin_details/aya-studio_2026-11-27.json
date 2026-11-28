@@ -1,0 +1,25 @@
+{
+  "name": "Aya Studio",
+  "official_app_name": "Aya Studio",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "Aya Studio LLC",
+  "version": "1.0.3",
+  "observed_at": "2026-11-27",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ad6fbad8b9c819185f8a9914599be57?category=creativity",
+  "original_description": "Aya Studio is a cartoon studio for kids' creators, teachers and parents. Describe a scene and get cartoon pictures in styles like 3D, 2D, anime or storybook. Save a character once and keep it looking the same in every picture and clip. Turn a picture into a short animated clip with sound, make a character talk with lip sync, compose original kids' songs, and record voice-overs in English, Arabic, French and many other languages.\n\nAya Studio makes cartoons only, never photorealistic images. Sign in with your Aya Studio account to use it. Clips, talking characters and songs take a few minutes to finish. For full episodes with a timeline editor, open the studio at ayastudio.si.",
+  "summary_ja": "子ども向けの絵や短いアニメ、歌、ナレーションを制作する。",
+  "limitations_ja": "Aya Studioアカウントが必要。写実的な画像には非対応と説明。",
+  "usage_tags": [
+    "アニメ制作",
+    "子ども向け",
+    "音楽"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "description_scope": "詳細ページ本文の英語説明"
+}

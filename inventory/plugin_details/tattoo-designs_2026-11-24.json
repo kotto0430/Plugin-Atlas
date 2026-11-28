@@ -1,0 +1,25 @@
+{
+  "name": "Tattoo Designs",
+  "category": "Creativity",
+  "provider": "Abracadabrax",
+  "version": "1.0.2",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ace8edf88a481918889544eb6e84026?category=creativity",
+  "original_description": "Describe your tattoo idea and get an original design in the style you choose, black-and-gray, black-only or color, shaped for the placement on the body, as a single stencil-ready design or a flash sheet of small designs.\n\nThe plugin prepares a draft with the style, the ink, the placement and the layout. When you confirm, Abracadabrax renders it and ChatGPT returns the link to the image to bring to your tattoo artist.\n\nFor people planning a tattoo and for tattoo artists sketching ideas.\n\nLimitations: original designs from text only. It does not preview a tattoo on a photo of your body, copy another artist's work or brand logos, or give medical advice. Producing needs a signed-in Abracadabrax account. If you are not signed in, the plugin gives a link where the same draft opens on Abracadabrax. Outputs are AI-generated.",
+  "summary_ja": "文章からタトゥーのデザイン案を作る。",
+  "limitations_ja": "身体写真へのプレビューや他者の作品・ロゴのコピー、医療助言には非対応。制作にはアカウントが必要。",
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "official_app_name": "Tattoo Designs",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "デザイン",
+    "タトゥー"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明",
+  "embedded_app_name": "Abracadabrax Tattoo Designs"
+}

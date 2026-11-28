@@ -1,0 +1,27 @@
+{
+  "name": "Linepace Teleprompter",
+  "category": "Creativity",
+  "provider": "Zovo",
+  "version": "1.0.0",
+  "observed_at": "2026-11-23",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6acb801fe52881919f8df2f124e23f3c?category=creativity",
+  "original_description": "Linepace Teleprompter is for people who record video or give a speech. Plan and read a speech or video script in a live teleprompter inside the conversation. Linepace calculates spoken-word timing, adds [PAUSE] cue time, shows section timing, and helps plan words for a target duration. The reader has a fixed reading line, elapsed and remaining time, mirror mode, font controls, fullscreen, and reduced-motion step controls.\n\nUse it for a presentation, video script, wedding toast, classroom talk, product demo, or practice run. Choose slow (110), conversational (130), presentation (150), fast (170), or a whole number from 60 to 300 words per minute.\n\nNumeric pause cues accept whole seconds from 1 to 86,400 per cue. Limitations: no camera or recording. The widget runs only while it is on screen, and speaking speed differs by person.",
+  "summary_ja": "原稿をスクロール表示し、スピーチの読み上げ時間を見積もる。",
+  "limitations_ja": [
+    "カメラや録画機能はない。ウィジェットは画面表示中のみ動作する。"
+  ],
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "Linepace Teleprompter",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "スピーチ",
+    "動画制作",
+    "原稿"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "PartyPass",
+  "category": "Creativity",
+  "provider": "DCM DEVS",
+  "version": "1.0.0",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac931d457b481919fb952ad4cc06d48?category=creativity",
+  "original_description": "PartyPass turns an invitation you created with your AI assistant into a hosted, shareable event page. Generate an invitation in chat as HTML or an image, then host it on PartyPass to get a preview link and a claim link. After claiming, you can publish the invitation and send it to guests on WhatsApp, with QR passes, reminders, and RSVP tracking handled by PartyPass. This integration only hosts the invitation and returns links; it never sends messages or charges on its own.",
+  "summary_ja": "招待状を共有可能なイベントページとして設置する。",
+  "limitations_ja": "この連携は招待状を設置してリンクを返し、自動でメッセージ送信や課金はしない。",
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "PartyPass",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "招待状",
+    "イベント"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}

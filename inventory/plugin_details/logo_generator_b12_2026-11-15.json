@@ -1,0 +1,21 @@
+{
+  "official_app_name": "Logo Generator",
+  "provider": "B12",
+  "version": "1.0.1",
+  "source_url": "https://chatgpt.com/plugins/plugins_6a83056fe3608191a0ec6dc109bfa9a6?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Say what the logo is for, and give a business name only if you want one in the design. It draws the logo, shows you a preview, and hands over the files in a zip — SVG and PNG, as a horizontal lockup plus a square icon for avatars and favicons when there is a name, or a text-free mark when there isn't. Then it can generate a matching B12 website using the same brand colors.",
+  "summary_ja": "用途や任意の事業名からロゴを作り、SVG・PNGのZIPを提供し、同じ配色のサイトも作れると説明。",
+  "usage_tags": [
+    "ロゴ制作",
+    "ブランディング",
+    "ウェブ制作"
+  ],
+  "limitations": [
+    "実動作、料金、生成物の権利や商用利用条件は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

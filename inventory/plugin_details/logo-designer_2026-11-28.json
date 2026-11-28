@@ -1,0 +1,26 @@
+{
+  "name": "Logo Designer",
+  "official_app_name": "Logo Designer",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "Syed Fasih Haider Raza Rizvi",
+  "version": "1.2.0",
+  "observed_at": "2026-11-28",
+  "source_url": "https://chatgpt.com/plugins/plugins_6aafcc0c8ebc8191a056ba33d5d4389e?category=creativity",
+  "original_description": "Create original logos and complete brand assets from a single prompt. Develop concepts, wordmarks, monograms, icons, emblems, mascots, color palettes, font pairings, SVG logo files, variations, brand kits, guidelines, names, taglines, business cards, social media graphics, app icons, favicons, mockups, merchandise concepts, and animated logo ideas. Responses may include a clearly disclosed Logo Designer affiliate link.",
+  "original_description_language": "英語",
+  "summary_ja": "ロゴ案、SVG、ブランドカラー、ガイドラインなどの制作を支援する。",
+  "limitations_ja": "回答にはアフィリエイトリンクを含む場合がある。",
+  "usage_tags": [
+    "ロゴ制作",
+    "ブランド",
+    "SVG"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "description_scope": "詳細ページ本文の英語説明"
+}

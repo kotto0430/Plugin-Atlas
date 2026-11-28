@@ -1,0 +1,23 @@
+{
+  "official_app_name": "Meshy 3D",
+  "provider": "Meshy LLC",
+  "version": "1.1.1",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ae4d5c0fba881918af7877ef49308f2?category=creativity",
+  "observed_at": "2026-11-17",
+  "original_description": "Meshy 3D is an AI 3D model generator for ChatGPT and Codex. Turn text, photos or sketches into 3D assets for games, animation, AR and 3D printing, usually in about a minute.\nCreate models with text to 3D and image to 3D, starting from an AI reference picture when the look is not settled yet. Make game-ready props and characters with low-poly topology and a target polygon count. Generate PBR textures from a prompt or a reference image, for new models and for models you already have. Follow progress and preview the result in the conversation, browse your model library in the Meshy 3D app, and download GLB, FBX, OBJ, USDZ or STL.\nIn Codex and other hosts with a terminal, Meshy 3D goes further by running the Meshy CLI on your computer. Rig humanoid characters, add animations and generate motion clips from text. Remesh models, build LODs, unwrap UVs and convert formats. Prepare models for 3D printing with printability checks, mesh repair, splitting into parts and single-color or multicolor 3MF files, or explore Creative Lab to create figurines, lamps, keychains and fridge magnets. Hand print files to your slicer and save assets directly into your project.\nRequires a Meshy account; what you can generate and download depends on that account.",
+  "summary_ja": "文章や写真から3Dモデルを作り、ゲーム素材や3Dプリント向けの編集を支援。",
+  "usage_tags": [
+    "3Dモデル",
+    "ゲーム制作",
+    "3Dプリント",
+    "アニメーション"
+  ],
+  "limitations": [
+    "Meshyアカウントが必要。生成はクレジットを使用し、ダウンロードはプランによると説明。リギングや印刷準備などは端末のある環境でCLIを使うと説明。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

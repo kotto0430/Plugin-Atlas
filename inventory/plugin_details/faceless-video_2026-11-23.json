@@ -1,0 +1,27 @@
+{
+  "name": "Faceless.video",
+  "category": "Creativity",
+  "provider": "Faceless.video",
+  "version": "1.0.0",
+  "observed_at": "2026-11-23",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6acfd3df74948191b6e0ee6fc3afc1b2?category=creativity",
+  "original_description": "Create your own automated faceless channel simply by talking with ChatGPT. This plugin writes, edits, and posts videos to your TikTok, YouTube, and Instagram accounts entirely on autopilot.",
+  "summary_ja": "顔出しなしの動画を作り、SNSへの投稿を自動化すると説明する。",
+  "limitations_ja": [
+    "提供元の短い説明に基づく。実際の対応範囲や投稿条件は未検証。"
+  ],
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "Faceless.video",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "動画制作",
+    "SNS",
+    "投稿"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}

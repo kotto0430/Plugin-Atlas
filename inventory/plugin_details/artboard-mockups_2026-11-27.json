@@ -1,0 +1,25 @@
+{
+  "name": "Artboard Mockups",
+  "official_app_name": "Artboard Mockups",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "Artboard Studio Inc.",
+  "version": "1.2.9",
+  "observed_at": "2026-11-27",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac94767c6508191b1aef19a01e20cdd?category=creativity",
+  "original_description": "Artboard Mockups brings the Artboard Studio library, interactive editor and design tools into ChatGPT in one plugin. Create editable apparel, packaging and device mockups using your own images or videos. Change colors, backgrounds, artwork placement and canvas composition. Set up 3D device poses, keyframes and playback, or customize motion templates, then export the actual rendered design as a PNG or MP4. You can also reopen your saved Artboard projects and continue editing them by hand or through conversation.\n\nConnect your Artboard account to access its projects and files. Available features and limits follow your existing Artboard plan. When an action is unavailable, Artboard explains the specific restriction and links to your normal Artboard account page. Purchases and checkout are not available inside this plugin.\n\nOptional analytics help Artboard understand plugin activity and account-link visits and associate later website purchases with them. You can decline analytics or change your choice through Analytics & privacy in the Artboard menu. Plugin analytics exclude chat text, prompts, uploaded media and session replay.\n\nFor some follow-up requests, ChatGPT may require you to select Artboard Mockups again.",
+  "summary_ja": "衣服やパッケージ、端末のモックアップや3Dアニメーションを編集する。",
+  "limitations_ja": "アカウント接続が必要。利用機能と上限はプランによる。任意の分析機能に関する提供元の説明あり。",
+  "usage_tags": [
+    "モックアップ",
+    "3D",
+    "デザイン"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "description_scope": "詳細ページ本文の英語説明"
+}

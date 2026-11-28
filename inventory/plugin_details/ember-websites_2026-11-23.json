@@ -1,0 +1,27 @@
+{
+  "name": "Ember Websites",
+  "category": "Creativity",
+  "provider": "StableModels LLC",
+  "version": "2.1.0",
+  "observed_at": "2026-11-23",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a6bc882ce608191baad0229e7bc6a48?category=creativity",
+  "original_description": "Ember helps small businesses, independent professionals, and creators build polished content websites through conversation. Describe your business, or point Ember at an existing website or Google Business profile, and ChatGPT builds the site with you: choose a design in Ember's Design Studio, write and edit pages, add real photos and files, and validate every page before anything goes live.\n\nLive preview shows your working site at desktop or mobile size and updates as each change lands. Select any part of the page in Live preview to point ChatGPT at exactly what you want changed. My websites, in the ChatGPT sidebar, lists every site with its publish status, live address, custom-domain status, and new form submissions.\n\nEmber sites can include working contact, quote, and booking forms. Ember stores form submissions, emails the addresses you choose, and lets you read and triage them from ChatGPT. When you're ready, publish to a public URL, and roll back to an earlier version of your draft if you change your mind.\n\nEmber builds static content sites such as business sites, portfolios, blogs, and documentation. It does not build web applications with live databases, background jobs, or custom server code.",
+  "summary_ja": "事業紹介やポートフォリオなどのサイトを会話で作り、プレビュー・公開する。",
+  "limitations_ja": [
+    "静的なコンテンツサイト向け。データベースや独自サーバーコードを伴うウェブアプリは作らないと説明。"
+  ],
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "Ember Websites",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "ウェブ制作",
+    "事業",
+    "サイト管理"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}

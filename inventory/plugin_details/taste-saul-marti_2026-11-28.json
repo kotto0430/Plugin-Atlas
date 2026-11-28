@@ -1,0 +1,25 @@
+{
+  "official_app_name": "Taste",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "Saul Martí",
+  "version": "2.0.0",
+  "observed_at": "2026-11-28",
+  "source_url": "https://chatgpt.com/plugins/plugins_6aa2fccc2d448191aee5e7e54b7bdaac?category=creativity",
+  "original_description": "Create premium non-generic frontend interfaces with Taste, choosing appropriate visual rules and production UI engineering without switching into image-only workflows.",
+  "original_description_language": "英語",
+  "description_scope": "詳細ページの説明本文",
+  "summary_ja": "フロントエンドの画面デザインとUI実装を支援する。",
+  "usage_tags": [
+    "UI",
+    "フロントエンド",
+    "ウェブ制作"
+  ],
+  "limitations_ja": "同名の別提供元の掲載とは別URL。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。"
+}

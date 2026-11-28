@@ -1,0 +1,25 @@
+{
+  "official_app_name": "TranslateImage",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "TranslateImage",
+  "version": "1.0.0",
+  "observed_at": "2026-11-28",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6b00da4a03c88191a20ed56da89744b5?category=creativity",
+  "original_description": "TranslateImage translates the text inside images and redraws it in place, so a manga page, screenshot, product photo, menu, sign or document comes back in your language with its layout intact.\n\nAttach an image in ChatGPT, or give a link to one, and ask:\n\n• \"Translate this manga page into English\" — speech bubbles are cleaned and re-lettered.\n\n• \"What does this menu say?\" — the text is read out (OCR) with the detected language.\n\n• \"Remove the text from this banner\" — the lettering is erased and the background rebuilt.\n\nYou get a preview in the chat, a link to the full-size result, and the original and translated text side by side. More than 130 languages are supported, including Japanese, Korean, Chinese, English, Spanish, French, German, Portuguese, Russian and Arabic.\n\nSign in with your TranslateImage account to connect. Results are also saved to your history at translateimage.io.",
+  "original_description_language": "英語",
+  "description_scope": "詳細ページの説明本文",
+  "summary_ja": "漫画などの画像内文字を翻訳して描き直し、OCRや文字除去も行う。",
+  "usage_tags": [
+    "漫画制作",
+    "画像翻訳",
+    "OCR"
+  ],
+  "limitations_ja": "TranslateImageアカウントが必要。既存記録のImage Translator（提供元MegaScenes）とは掲載名と提供元が異なる。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。"
+}

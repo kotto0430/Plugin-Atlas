@@ -1,0 +1,583 @@
+{
+  "source": "Chrome ChatGPT エンターテインメント",
+  "date": "2026-11-14",
+  "catalog_blob": "fd13ece4009fcf170733daf819bb2e7424328a60",
+  "method": "先頭はアクセシビリティ出力のカテゴリ付きリンク、続きは画面を重ねてスクロールし目視転記。表示名を大文字小文字を区別せず比較。",
+  "notes": "出力の切断・転記誤り・重複の可能性あり。一致は同一性、不一致は新規件数を意味しない。",
+  "counts": {
+    "links": {
+      "rows": 24,
+      "matched": 24,
+      "unmatched": 0
+    },
+    "visual": {
+      "rows": 110,
+      "matched": 110,
+      "unmatched": 0
+    }
+  },
+  "links": [
+    {
+      "name": "Flaim Fantasy",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_69a8f78087e081919e52cacacf00ff36?category=entertainment",
+      "matched": true
+    },
+    {
+      "name": "Daily Tarot",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_6943a2c078b0819188de39e4fe168d9b?category=entertainment",
+      "matched": true
+    },
+    {
+      "name": "Spotify",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_68de829bf7648191acd70a907364c67c?category=entertainment",
+      "matched": true
+    },
+    {
+      "name": "Apple Music",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_6938a94a61d881918ef32cb999ff937c?category=entertainment",
+      "matched": true
+    },
+    {
+      "name": "Steer Astro",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_69655fed917081918a100b069ceb963f?category=entertainment",
+      "matched": true
+    },
+    {
+      "name": "FantasyBot Sports",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_69d319ffb64c8191a1c1abcd30fae202?category=entertainment",
+      "matched": true
+    },
+    {
+      "name": "SoundBreak",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_6a68b707c6cc819181fdb2bc0b1fb045?category=entertainment",
+      "matched": true
+    },
+    {
+      "name": "Destiny AI Astrology",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_6a53190aea1481919a9070ad976cc283?category=entertainment",
+      "matched": true
+    },
+    {
+      "name": "Chessy",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_69a0e374670c819190761772d2092135?category=entertainment",
+      "matched": true
+    },
+    {
+      "name": "Smart Chess:Train+Learn to win",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_69c28d6aedac81919502a88c2179e20c?category=entertainment",
+      "matched": true
+    },
+    {
+      "name": "Sonos",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_6aa1cd6835e48191b9ade73ac9fcd180?category=entertainment",
+      "matched": true
+    },
+    {
+      "name": "Background Music",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_6a23043f0aa48191aaecfc90cc2d317e?category=entertainment",
+      "matched": true
+    },
+    {
+      "name": "AstroBella Astrology",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_6a84a4f2dc2c81919cc136a20a9ad638?category=entertainment",
+      "matched": true
+    },
+    {
+      "name": "Evelyn Tarot",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_6a74401e1c848191874fa2c6df91546f?category=entertainment",
+      "matched": true
+    },
+    {
+      "name": "Shazam",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_6944570636288191b7944d8c4a3fb857?category=entertainment",
+      "matched": true
+    },
+    {
+      "name": "Football- Games+results+scores",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_69a8532b7a3c81918652609af9d6ee11?category=entertainment",
+      "matched": true
+    },
+    {
+      "name": "Chess by Max Health",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_69ffb5641b108191867408bc05ee0646?category=entertainment",
+      "matched": true
+    },
+    {
+      "name": "SAJU",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_6965d2c379208191b3ac773e1b6ae30a?category=entertainment",
+      "matched": true
+    },
+    {
+      "name": "PC Toplama Aracı",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_6a837ebb63688191887b5c55c3a6e072?category=entertainment",
+      "matched": true
+    },
+    {
+      "name": "Caveman Mode",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_6a3a995dbb348191af64a75893577d60?category=entertainment",
+      "matched": true
+    },
+    {
+      "name": "Eventbrite",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_6a0da0b7e3bc81918024f32099b2405b?category=entertainment",
+      "matched": true
+    },
+    {
+      "name": "Flixor",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_694515af58088191a8b0a0f5f0b6d767?category=entertainment",
+      "matched": true
+    },
+    {
+      "name": "Astera Tarot & Astrology",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_6a895058858081919db46716857c63b0?category=entertainment",
+      "matched": true
+    },
+    {
+      "name": "Piano 1024",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_6a37593da1d481918460edebfdc1a756?category=entertainment",
+      "matched": true
+    }
+  ],
+  "visual": [
+    {
+      "name": "PocketMind: Texas Hold'em",
+      "matched": true
+    },
+    {
+      "name": "Podcast App",
+      "matched": true
+    },
+    {
+      "name": "Chess Position Analyzer",
+      "matched": true
+    },
+    {
+      "name": "789 Sudoku",
+      "matched": true
+    },
+    {
+      "name": "Archivist AI",
+      "matched": true
+    },
+    {
+      "name": "Movie Pick",
+      "matched": true
+    },
+    {
+      "name": "Sportily",
+      "matched": true
+    },
+    {
+      "name": "Ask Palmistry",
+      "matched": true
+    },
+    {
+      "name": "Battleships Classic Naval Game",
+      "matched": true
+    },
+    {
+      "name": "2048",
+      "matched": true
+    },
+    {
+      "name": "Vivin",
+      "matched": true
+    },
+    {
+      "name": "Word Search- Daily Puzzle Game",
+      "matched": true
+    },
+    {
+      "name": "Rock Paper Scissors (RoShamBo)",
+      "matched": true
+    },
+    {
+      "name": "Cheat-Database",
+      "matched": true
+    },
+    {
+      "name": "Snake Retro: Neon Arcade",
+      "matched": true
+    },
+    {
+      "name": "Poker: play, practice, improve",
+      "matched": true
+    },
+    {
+      "name": "Truth or Dare - Party game+fun",
+      "matched": true
+    },
+    {
+      "name": "Astera Oracle & Numerology",
+      "matched": true
+    },
+    {
+      "name": "Backstage",
+      "matched": true
+    },
+    {
+      "name": "Fandango",
+      "matched": true
+    },
+    {
+      "name": "Pocket FM",
+      "matched": true
+    },
+    {
+      "name": "Yoroll",
+      "matched": true
+    },
+    {
+      "name": "Imagina RPG",
+      "matched": true
+    },
+    {
+      "name": "Achriom",
+      "matched": true
+    },
+    {
+      "name": "Eventfrog",
+      "matched": true
+    },
+    {
+      "name": "Color Card - Party Card Game",
+      "matched": true
+    },
+    {
+      "name": "District",
+      "matched": true
+    },
+    {
+      "name": "ABC Crossword",
+      "matched": true
+    },
+    {
+      "name": "Gomoku",
+      "matched": true
+    },
+    {
+      "name": "Baseball-Teams/Schedules/Stats",
+      "matched": true
+    },
+    {
+      "name": "Trivia & Quiz Games by Trivana",
+      "matched": true
+    },
+    {
+      "name": "Accelerator Checkers(Draughts)",
+      "matched": true
+    },
+    {
+      "name": "Amazing Nature Sounds",
+      "matched": true
+    },
+    {
+      "name": "Radio FM",
+      "matched": true
+    },
+    {
+      "name": "Movie Find: Film Lookup+Search",
+      "matched": true
+    },
+    {
+      "name": "Enzo Reader for RSS Feeds",
+      "matched": true
+    },
+    {
+      "name": "SessionKeeper",
+      "matched": true
+    },
+    {
+      "name": "VeyrPiano",
+      "matched": true
+    },
+    {
+      "name": "Savecraft",
+      "matched": true
+    },
+    {
+      "name": "diggercamp",
+      "matched": true
+    },
+    {
+      "name": "Soundcharts",
+      "matched": true
+    },
+    {
+      "name": "Lots of Lotteries",
+      "matched": true
+    },
+    {
+      "name": "Vidmoat",
+      "matched": true
+    },
+    {
+      "name": "Domono",
+      "matched": true
+    },
+    {
+      "name": "Seatpin",
+      "matched": true
+    },
+    {
+      "name": "The Astro Diary",
+      "matched": true
+    },
+    {
+      "name": "Pitch 1024",
+      "matched": true
+    },
+    {
+      "name": "Magic Tips",
+      "matched": true
+    },
+    {
+      "name": "Cinemô",
+      "matched": true
+    },
+    {
+      "name": "ABEMA",
+      "matched": true
+    },
+    {
+      "name": "FICTURN",
+      "matched": true
+    },
+    {
+      "name": "FrightMaps",
+      "matched": true
+    },
+    {
+      "name": "PoGo Showcase Manager",
+      "matched": true
+    },
+    {
+      "name": "Xiangqi",
+      "matched": true
+    },
+    {
+      "name": "Tarotap",
+      "matched": true
+    },
+    {
+      "name": "No Bike No Life",
+      "matched": true
+    },
+    {
+      "name": "OTTASIA",
+      "matched": true
+    },
+    {
+      "name": "mysaas.lol",
+      "matched": true
+    },
+    {
+      "name": "Hockey- Scores+Standings+Stats",
+      "matched": true
+    },
+    {
+      "name": "Questforge",
+      "matched": true
+    },
+    {
+      "name": "Laminor",
+      "matched": true
+    },
+    {
+      "name": "Watchr",
+      "matched": true
+    },
+    {
+      "name": "Scout by gamedai",
+      "matched": true
+    },
+    {
+      "name": "Fairy Forge",
+      "matched": true
+    },
+    {
+      "name": "Fever Event Discovery",
+      "matched": true
+    },
+    {
+      "name": "Go Game by BlueMoon",
+      "matched": true
+    },
+    {
+      "name": "Phish.in",
+      "matched": true
+    },
+    {
+      "name": "Sudoku by BlueMoon",
+      "matched": true
+    },
+    {
+      "name": "JamBase",
+      "matched": true
+    },
+    {
+      "name": "Pixmoto Recipe Videos",
+      "matched": true
+    },
+    {
+      "name": "Inviton",
+      "matched": true
+    },
+    {
+      "name": "Wordspace",
+      "matched": true
+    },
+    {
+      "name": "Ticketbox.vn",
+      "matched": true
+    },
+    {
+      "name": "AskLingxi",
+      "matched": true
+    },
+    {
+      "name": "The Big Answer",
+      "matched": true
+    },
+    {
+      "name": "Spiderette - Card Game",
+      "matched": true
+    },
+    {
+      "name": "TownSpot Events",
+      "matched": true
+    },
+    {
+      "name": "Born To Banger",
+      "matched": true
+    },
+    {
+      "name": "Vedara Vedic Birth Chart",
+      "matched": true
+    },
+    {
+      "name": "Seat Unique",
+      "matched": true
+    },
+    {
+      "name": "Rovyn",
+      "matched": true
+    },
+    {
+      "name": "Tonk",
+      "matched": true
+    },
+    {
+      "name": "Etkinlinkler",
+      "matched": true
+    },
+    {
+      "name": "udictio",
+      "matched": true
+    },
+    {
+      "name": "StreamExpose",
+      "matched": true
+    },
+    {
+      "name": "Interestnaut",
+      "matched": true
+    },
+    {
+      "name": "U.S. Open Golf Companion",
+      "matched": true
+    },
+    {
+      "name": "Leela Online",
+      "matched": true
+    },
+    {
+      "name": "AjmerAstro",
+      "matched": true
+    },
+    {
+      "name": "Dino Run+",
+      "matched": true
+    },
+    {
+      "name": "Champfy",
+      "matched": true
+    },
+    {
+      "name": "KinElo",
+      "matched": true
+    },
+    {
+      "name": "Sena",
+      "matched": true
+    },
+    {
+      "name": "Rightboat",
+      "matched": true
+    },
+    {
+      "name": "Happens.mk",
+      "matched": true
+    },
+    {
+      "name": "Cartomante FC",
+      "matched": true
+    },
+    {
+      "name": "AI-DM 4 Engine",
+      "matched": true
+    },
+    {
+      "name": "FilmEase",
+      "matched": true
+    },
+    {
+      "name": "Unbound Limitless Story Writer",
+      "matched": true
+    },
+    {
+      "name": "FantasyPros: Fantasy Advice",
+      "matched": true
+    },
+    {
+      "name": "Celebrity Look Alike",
+      "matched": true
+    },
+    {
+      "name": "Bardkeeper",
+      "matched": true
+    },
+    {
+      "name": "CineOS",
+      "matched": true
+    },
+    {
+      "name": "SofiaStage Events",
+      "matched": true
+    },
+    {
+      "name": "SceneF Showtimes",
+      "matched": true
+    },
+    {
+      "name": "Play Face to Face",
+      "matched": true
+    },
+    {
+      "name": "Hinge Profile Optimiser",
+      "matched": true
+    },
+    {
+      "name": "Magister",
+      "matched": true
+    },
+    {
+      "name": "Passo",
+      "matched": true
+    },
+    {
+      "name": "The Magic Shell",
+      "matched": true
+    }
+  ]
+}

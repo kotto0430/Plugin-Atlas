@@ -1,0 +1,26 @@
+{
+  "name": "Image Maker",
+  "official_app_name": "Image Maker",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "AI Sciences Lab",
+  "version": "2.5.3",
+  "observed_at": "2026-11-28",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6af0a88588708191946a115378737ac3?category=creativity",
+  "original_description": "Image Maker designs graphics from your words right in your ChatGPT conversation, in the right size for each platform, and edits pictures you attach.\n\nWhat it can make:\n• Social media posts for Instagram, Facebook, X, LinkedIn and Pinterest, including stories and portrait posts.\n• Quote cards, announcements, sale and event posters, invitations and simple flyers.\n• Banners and headers for websites, blogs, emails and YouTube channels, and YouTube thumbnails.\n• Your own photo as the background, darkened so the text stays readable.\n\nChoose from 12 color themes or your own colors and gradients, five layouts and five font styles. Text works in Latin, Cyrillic, Greek, Hebrew and Arabic letters.\n\nIt also edits images: add captions, memes and watermarks, place a logo, make plain backgrounds transparent, put pictures in a collage, make favicons, and resize, crop, convert (including iPhone HEIC photos) or compress any picture. Steps can be chained in one conversation without uploading again, and your original file is never changed.\n\nPrivacy: images are processed on the AI Sciences Lab server only to do what you ask. Reading an image keeps nothing. New images are kept behind a private download link for 60 minutes and then deleted automatically. Converting and resizing remove camera and location data. Image contents and file names are not logged.\n\nLimits: files up to 25 MB. Text on images supports Latin, Cyrillic, Greek, Hebrew and Arabic letters; emoji are left out. Transparent backgrounds work for plain backgrounds such as white, not busy photos. For new pictures of scenes, people or objects, use ChatGPT's own image generation, then edit the result here.",
+  "original_description_language": "英語",
+  "summary_ja": "SNS投稿やバナーを作成し、添付画像の文字入れやサイズ変更を行う。",
+  "limitations_ja": "最大25MB。画像の文字は説明に列挙された文字体系に対応し、絵文字は除外。生成画像は一時リンクで60分保持と説明。",
+  "usage_tags": [
+    "画像編集",
+    "SNS",
+    "バナー"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "description_scope": "詳細ページ本文の英語説明"
+}

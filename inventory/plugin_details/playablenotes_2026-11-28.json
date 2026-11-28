@@ -1,0 +1,25 @@
+{
+  "official_app_name": "PlayableNotes",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "PlayableNotes",
+  "version": "1.2.5",
+  "observed_at": "2026-11-28",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac6c59baa5881919dc6fa7330476942?category=creativity",
+  "original_description": "PlayableNotes turns piano sheet music into scores you can play, edit and arrange, right in ChatGPT.\n\nSend photos, scans, screenshots or a PDF of piano music and PlayableNotes reads it, note by note, into an engraved score you can hear at any tempo, edit measure by measure, and download as PDF, MIDI or MusicXML. Or start from the library of public-domain piano pieces (Bach, Mozart, Beethoven, Chopin, Satie, hymns and more), or ask ChatGPT to write a new piece or exercise from a description, such as \"a short waltz in F for a first-year student\".\n\nThen ask ChatGPT for the version you need:\n\n• Simplify a piece for a beginner, or for your student's level\n\n• Transpose it to any key\n\n• Make the left hand easier, or change the rhythm or style\n\n• Fix a wrong note, or check the score for reading mistakes\n\n• Make a copy for each student, and a practice link they can open, play, loop and print without an account\n\nEvery change is saved as a new version, so nothing is lost. Your scores live in your PlayableNotes account, the same one as playablenotes.com, where you can keep editing on a bigger screen.\n\nWho it's for: piano teachers and their students, church and school musicians, and anyone who plays piano from sheet music.\n\nLimitations: PlayableNotes reads piano music (a treble and a bass staff), from music you own or may use for teaching. Blurry or dark photos read less well; any measure can be fixed by hand or by asking ChatGPT.",
+  "original_description_language": "英語",
+  "description_scope": "詳細ページの説明本文",
+  "summary_ja": "ピアノ楽譜を読み取って再生・編集・編曲し、PDFやMIDIなどに出力する。",
+  "usage_tags": [
+    "音楽",
+    "ピアノ",
+    "楽譜"
+  ],
+  "limitations_ja": "対象はピアノの大譜表。楽譜はアカウントに保存され、暗い・ぼやけた写真は読み取りにくい。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。"
+}

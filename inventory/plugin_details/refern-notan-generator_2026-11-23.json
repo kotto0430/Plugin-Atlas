@@ -1,0 +1,27 @@
+{
+  "name": "refern Notan Generator",
+  "category": "Creativity",
+  "provider": "refern",
+  "version": "1.0.0",
+  "observed_at": "2026-11-23",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ad7c8be93ac81919fd821bd4d650f90?category=creativity",
+  "original_description": "The refern notan generator turns an image you attach into a notan, a value study for artists: the picture reduced to two to five flat values that show its big light and dark shapes. Artists use a notan to check the value design of a painting, drawing, or photo, and to see why a picture reads well or poorly from a distance.\n\nAttach an image and ask for a notan or a value study. The generator opens in the chat with your image. You can:\n- Switch between 2, 3, 4, and 5 values.\n- Move the split between light and dark, or let the generator place it automatically.\n- Simplify the shapes, like squinting, so small details merge into large masses.\n- Compare the notan with the original side by side or with a divider, and flip the image to check the design.\n- Save the notan as a PNG.\n\nYou can also choose, drop, or paste another image into the generator at any time. The notan is made on your device. An image you attach is resized in memory on refern's server and is not stored.\n\nMade by refern, a desktop app for collecting and organizing visual references.",
+  "summary_ja": "画像を2〜5段階の明暗に分け、絵や写真の構図を確認する。",
+  "limitations_ja": [
+    "明暗画像は端末上で作成し、添付画像はサーバーのメモリー上でサイズ変更され保存されないという提供元の説明。実動作は未検証。"
+  ],
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "refern Notan Generator",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "漫画制作",
+    "イラスト",
+    "明暗"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}

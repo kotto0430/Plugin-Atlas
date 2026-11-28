@@ -1,0 +1,25 @@
+{
+  "name": "ACAE Portfolio",
+  "category": "Creativity",
+  "provider": "Anthony Clarke",
+  "version": "1.0.5",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6acb781e235c8191bfda3e87d16377a6?category=creativity",
+  "original_description": "Explore Anthony Clarke's ACAE motion-design portfolio to find creative references for a project. Search published 3D, AI, broadcast and motion-design work, inspect real portfolio images and videos in a gallery, learn about published services, and prepare an editable project-enquiry draft. Work labels come from the published portfolio. Enquiries remain unsent; the plugin does not book work or process payments.",
+  "summary_ja": "ACAEのモーションデザイン作品を検索し、問い合わせ文を下書きする。",
+  "limitations_ja": "問い合わせは未送信の下書きで、発注や決済は行わない。",
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "official_app_name": "ACAE Portfolio",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "モーションデザイン",
+    "作品検索",
+    "デザイン資料"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}

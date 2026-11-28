@@ -1,0 +1,25 @@
+{
+  "name": "Kubera",
+  "official_app_name": "Kubera",
+  "official_name_basis": "ChatGPTのプラグイン詳細画面に表示された名称",
+  "category": "Finance",
+  "provider": "Kubera Apps, Inc.",
+  "version": "2.1.0",
+  "observed_at": "2026-11-14",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_699835ec8b9c8191b2c6cda1f78076ee?category=finance",
+  "original_description": "Ask questions about your Kubera portfolio.\n\nConnect your Kubera account to access your live balance sheet data, including net worth, assets, liabilities, and allocation.\n\nThe assistant uses this data to answer questions, surface patterns, and explain what’s in your portfolio.\n\nExample questions:\n• What is my current net worth?\n• What stands out in my balance sheet?\n• Where am I overly concentrated?\n• Summarize my assets, liabilities, and entities\n• What questions should I ask my advisor?\n• Update my Tesla shares to 100 units\n\nKubera is the Balance Sheet for those who manage their own wealth. https://www.kubera.com/",
+  "description_scope": "ChatGPTのプラグイン詳細に表示された提供元の英語説明",
+  "summary_ja": "Kuberaの資産・負債や配分について質問し、保有情報の更新も例示されている。",
+  "usage_tags": [
+    "資産管理",
+    "ポートフォリオ",
+    "家計管理"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "limitations_ja": "Kuberaアカウントとの連携が必要。説明には保有株数を更新する例があり、読み取り専用とは記載されていない。更新の範囲や実動作は未確認。",
+  "review": "詳細画面の説明と情報欄を確認。個人口座を連携しておらず、機能は試していない。",
+  "catalog_status": "一覧本体との名称照合は未確認。"
+}

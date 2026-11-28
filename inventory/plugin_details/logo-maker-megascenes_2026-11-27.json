@@ -1,0 +1,26 @@
+{
+  "name": "Logo Maker",
+  "official_app_name": "Logo Maker",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "MegaScenes",
+  "version": "1.0.1",
+  "observed_at": "2026-11-27",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ae31756aec481919e4117ecbefa586a?category=creativity",
+  "original_description": "Give the brand name, what the business does and a style, and get logo concepts as image files: wordmarks, lettermarks, emblems, mascots or abstract marks.\n\nChatGPT turns your brief into a design request, tells you what the run needs and creates the concepts in your MegaScenes account when you ask. The logos open in the chat and stay in your library.\n\nFor new businesses, side projects and quick brand explorations.\n\nLimitations: new concepts as image files; it does not redraw an existing logo, export vector files or check trademarks. Making a file needs a signed-in MegaScenes account and runs in it; nothing is made until you confirm. Not for sexual or adult content or for real people's likeness. Files are made by generative models and saved in your MegaScenes library.",
+  "original_description_language": "英語",
+  "summary_ja": "ブランド名や業種、スタイルを指定してロゴ案の画像を作る。",
+  "limitations_ja": "MegaScenesアカウントが必要。ベクター書き出し・既存ロゴの描き直し・商標確認は対象外。同じ提供元のAI Logoとの関係は未確認。",
+  "usage_tags": [
+    "ロゴ制作",
+    "ブランド",
+    "画像生成"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "description_scope": "詳細ページ本文の英語説明"
+}

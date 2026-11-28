@@ -1,0 +1,25 @@
+{
+  "name": "Fantasy Maps",
+  "official_app_name": "Fantasy Maps",
+  "provider": "Abracadabrax",
+  "version": "1.0.1",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ae320c4f5cc8191adbc9a6273316427?category=creativity",
+  "developer_url": "https://abracadabrax.app/",
+  "category": "Creativity",
+  "observed_at": "2026-11-14",
+  "original_description": "Describe an imaginary place and its geography and get a map with the place names you choose labeled on it: a world, a continent, a kingdom, an island, a city or a dungeon.\n\nThe plugin prepares a draft with the map type, the style (aged parchment, black ink, full-color atlas) and the format. When you confirm, Abracadabrax renders the map and ChatGPT returns the link to the image.\n\nFor game masters, novelists and game designers.\n\nLimitations: imaginary places from text only. It does not map real places, provide navigation, or edit an uploaded map. Producing needs a signed-in Abracadabrax account. If you are not signed in, the plugin gives a link where the same draft opens on Abracadabrax. Outputs are AI-generated.",
+  "original_description_language": "en",
+  "summary_ja": "文章で架空の国や都市、ダンジョンなどの地図画像を作る。",
+  "usage_tags": [
+    "創作",
+    "地図",
+    "ゲーム制作"
+  ],
+  "limitations_ja": "架空の場所のみ。現実の地図・道案内・画像の編集は対象外。 生成にはAbracadabraxへのサインインと生成前の確認が必要と説明。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "詳細画面の説明と情報欄を確認。実動作・料金・品質・権利条件は未検証。",
+  "catalog_status": "一覧本体との名称照合は未確認。同名・別名の同一性は未確認。"
+}

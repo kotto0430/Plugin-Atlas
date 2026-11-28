@@ -1,0 +1,22 @@
+{
+  "official_app_name": "3D CAD Converter",
+  "provider": "ContentaSoft AB",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugins_6abfd3e5283c81919c08d2d4d3d945cc?category=creativity",
+  "observed_at": "2026-11-22",
+  "original_description": "Convert CAD and 3D model files (STEP, IGES, STL, OBJ, FBX, glTF, 3MF) on your Windows PC, for 3D printing, the web or another CAD tool. 3D CAD Converter is a Windows desktop app for converting STEP, IGES, STL, OBJ, FBX, glTF, 3MF and other 3D/CAD files; this skill teaches the agent its command-line tool (cadconvert), so you ask in plain words and the work runs on your own PC, on your own files, with nothing uploaded. It needs 3D CAD Converter installed (https://www.contenta-software.com/3dcadconverter/download.php). In Codex the agent runs the commands for you; in ChatGPT it tells you which command to run. Support: bruno@contenta-software.com",
+  "summary_ja": "Windows上でCAD・3Dファイルの形式変換を支援。",
+  "usage_tags": [
+    "CAD",
+    "3Dプリント",
+    "ファイル変換"
+  ],
+  "limitations": [
+    "Windows用3D CAD Converterのインストールが必要。Codexではコマンドを実行し、ChatGPTでは実行すべきコマンドを案内すると説明。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

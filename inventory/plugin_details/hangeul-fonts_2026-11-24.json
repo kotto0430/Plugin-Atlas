@@ -1,0 +1,25 @@
+{
+  "name": "Hangeul Fonts",
+  "category": "Creativity",
+  "provider": "Youngji Kim",
+  "version": "1.0.0",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6acfde44aa6c8191b3168267eae087fb?category=creativity",
+  "original_description": "Find free Korean (Hangeul) fonts that fit your design and check whether each one is allowed for your use: web, print, video, logo, packaging, app embedding or PDF embedding. License verdicts come from a curated dataset with links to each font's official license text, and fonts that can't be verified are marked unknown. Results include ready-to-use CSS, Tailwind and Figma values, direct links to the official font files, and steps for using them in local files such as PDFs, slides and HTML. No account is required.",
+  "summary_ja": "無料の韓国語フォントを探し、用途別のライセンス情報を確認する。",
+  "limitations_ja": "確認できないライセンスは不明と表示。判定の正確性や個別の利用条件は未検証。",
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "official_app_name": "Hangeul Fonts",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "フォント",
+    "韓国語",
+    "デザイン"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}

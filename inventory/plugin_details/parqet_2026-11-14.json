@@ -1,0 +1,32 @@
+{
+  "name": "Parqet",
+  "official_app_name": "Parqet",
+  "official_name_basis": "ChatGPTのアプリ詳細画面に表示された名称",
+  "category": "Finance",
+  "provider": "Parqet Fintech GmbH",
+  "version": "5.0.1",
+  "observed_at": "2026-11-14",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_69b68652f0308191a27d7c7096cab4f6?category=finance",
+  "developer_url": "https://parqet.com/",
+  "privacy_url": "https://parqet.com/en/data-protection",
+  "original_description": "Parqet helps users inspect portfolio values, holdings, performance, dividends, allocations, and transaction history from their connected Parqet account. Users can also create portfolios and holdings and record confirmed transactions as activities. Recording an activity only updates portfolio-tracking data; Parqet never places orders, executes trades, transfers assets, or moves money. Parqet does not provide standalone live market-price lookup or investment recommendations.",
+  "description_scope": "ChatGPTのアプリ詳細画面に表示された提供元の説明全文",
+  "summary_ja": "連携したParqet口座の保有資産や配当、取引履歴を確認し、ポートフォリオの記録も作成できる。",
+  "usage_tags": [
+    "資産管理",
+    "ポートフォリオ",
+    "配当管理"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "review": "ChatGPTのアプリ詳細に掲載された提供元の説明を確認。実際の機能や提供元の主張は検証していない。",
+  "catalog_status": "既存一覧との名称照合は別途確認",
+  "limitations_ja": "提供元の説明では、活動の記録は管理データの更新のみで、注文・売買執行・資産移転・送金は行わない。単独のリアルタイム価格検索や投資推奨も提供しない。",
+  "example_prompts": [
+    "Show an overview of my Parqet portfolios, including value, gains, returns, and top holdings.",
+    "List all holdings in my Parqet portfolio with shares and current values.",
+    "Summarize all activities in my Parqet portfolio and tell me whether the result is complete."
+  ]
+}

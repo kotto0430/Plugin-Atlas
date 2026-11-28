@@ -1,0 +1,27 @@
+{
+  "name": "One4Wall",
+  "category": "Creativity",
+  "provider": "One4Studio",
+  "version": "1.0.2",
+  "observed_at": "2026-11-23",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac6977dc8a08191af8398be52d39d17?category=creativity",
+  "original_description": "One4Wall brings a catalog of original phone wallpapers into ChatGPT. Describe what you want, such as a mood, a subject or a color, and ChatGPT shows matching wallpapers as a gallery. Tap one to see it large, download it in full resolution, or open it on one4wall.app.\n\nThings you can ask:\n- Find a cozy rainy city wallpaper for my phone\n- Show me pastel flower wallpapers\n- I want a dark minimal mountain lock screen\n- Something blue and calm with the ocean\n\nEvery wallpaper is made by One4Studio for portrait phone screens. The gallery shows up to eight results at a time; ask again with different words to see more.",
+  "summary_ja": "雰囲気や色からスマートフォン向け壁紙を探し、表示・保存する。",
+  "limitations_ja": [
+    "ギャラリー表示は一度に最大8件。"
+  ],
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "One4Wall",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "壁紙",
+    "画像検索",
+    "スマートフォン"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}

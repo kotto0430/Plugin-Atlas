@@ -1,0 +1,23 @@
+{
+  "official_app_name": "SkeuDesign",
+  "provider": "Wave Tech LLC",
+  "version": "1.0.4",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6abe6dddc78c81919511608d0c2ce608?category=creativity",
+  "observed_at": "2026-11-22",
+  "original_description": "Explore the SkeuDesign library of 12,000+ icons for apps, websites, and presentations. Connect your SkeuDesign account to search by category, compare PNG previews, collect a matching set in Icon Tray, and export the icons included with your account.",
+  "summary_ja": "アイコン素材を検索・比較し、利用可能なPNGを出力。",
+  "usage_tags": [
+    "アイコン",
+    "デザイン",
+    "ウェブ制作"
+  ],
+  "limitations": [
+    "アカウント接続が必要。アプリ説明では各カテゴリの固定アイコン最大20個、既存ライブラリ権限があれば全コレクションにアクセスでき、独自アイコン生成は含まれないと記載。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "app_description": "Find PNG icons for websites, apps and presentations. Search every category, compare previews, collect a matching set in Icon Tray, and export selected files. Every connected account can use up to 20 fixed icons per category. Existing library entitlements include the full collection. Custom icon generation is not included."
+}

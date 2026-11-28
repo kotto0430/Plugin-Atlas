@@ -1,0 +1,24 @@
+{
+  "official_app_name": "Taste",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "ALEXANDER ETHAN KEHR",
+  "version": "0.2.0",
+  "observed_at": "2026-11-28",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6aa199e8775c819193fc3a315f8a4ef2?category=creativity",
+  "original_description": "Find and browse designs you have saved in Taste. Search your references and collections, view designs in a visual gallery, and use your taste profile to guide design work. Connect your Taste account to access your library.",
+  "original_description_language": "英語",
+  "description_scope": "詳細ページの説明本文",
+  "summary_ja": "保存したデザインの参考資料を検索・閲覧し制作の参考にする。",
+  "usage_tags": [
+    "デザイン参考資料",
+    "UI"
+  ],
+  "limitations_ja": "Tasteアカウントの接続が必要。同名の別提供元の掲載とは別URL。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。"
+}

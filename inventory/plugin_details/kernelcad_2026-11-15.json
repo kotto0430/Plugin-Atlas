@@ -1,0 +1,23 @@
+{
+  "official_app_name": "kernelCAD",
+  "provider": "kernelCAD",
+  "version": "0.17.4",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6a2fcd20e8008191b0c688ca1bc7abb5?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Create and edit dimensioned parametric CAD parts and assemblies from natural-language instructions. Design enclosures, brackets, gears and motor mounts; change dimensions, inspect an interactive 3D model, and run supported geometry and manufacturability checks. Export CAD and manufacturing files in STEP, STL or 3MF, and drawings in DXF or PDF. Check results describe the supported checks performed; manufacturing requirements still depend on the chosen process and material.",
+  "summary_ja": "自然言語から寸法を変更できる3D CAD部品や組立を作り、形状確認や各種ファイル出力を行う。",
+  "usage_tags": [
+    "CAD",
+    "3Dモデリング",
+    "設計",
+    "製造"
+  ],
+  "limitations": [
+    "検査の範囲には制限があり、製造要件は工法・材料によると説明。",
+    "実際の精度・動作・料金は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

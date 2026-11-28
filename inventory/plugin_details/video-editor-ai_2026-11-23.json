@@ -1,0 +1,25 @@
+{
+  "name": "Video Editor AI",
+  "category": "Creativity",
+  "provider": "MegaScenes",
+  "version": "1.0.0",
+  "observed_at": "2026-11-23",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ae993cb862c819197968c32385ad88b?category=creativity",
+  "original_description": "Pick a video from your library and say what to change: turn it into a watercolor painting, swap the sky for a sunset, change an outfit, reframe a wide clip to vertical 9:16, make it a few seconds longer, or sync the lips to a voice-over.\n\nChatGPT finds your files, picks a model that fits the edit, tells you what the run needs and starts it in your MegaScenes account when you ask. The edited video plays in the chat when it is ready and stays in your library next to the original.\n\nFor social media, ads, product videos and quick fixes to clips you already have.\n\nLimitations: it edits videos already in your MegaScenes library, usually up to 15 seconds; attachments from the chat are not passed to the plugin, and it does not cut or join clips on a timeline. Making a file needs a signed-in MegaScenes account and runs in it; nothing is made until you confirm. Not for sexual or adult content or for real people's likeness. Files are made by generative models and saved in your MegaScenes library.",
+  "summary_ja": "ライブラリの動画を指示に沿って画風変更・リフレーム・延長する。",
+  "limitations_ja": "MegaScenesアカウントが必要。動画は通常15秒まで、チャット添付不可。タイムライン上の切断・結合は不可。",
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "Video Editor AI",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "動画編集",
+    "SNS",
+    "広告"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}

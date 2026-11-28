@@ -1,0 +1,25 @@
+{
+  "official_app_name": "Birthday Card Maker",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "MegaScenes",
+  "version": "1.0.0",
+  "observed_at": "2026-11-28",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6af37b2f331c8191844bd9a24e66b34f?category=creativity",
+  "original_description": "Give who the card is for, the greeting, a short message and how you sign it, and pick the look: elegant gold, balloons and confetti, floral watercolor, a funny cartoon, minimal. You get a birthday card with your words set in the design, portrait, square or wide, ready to print, post or send.\n\nChatGPT tells you what the card needs and creates it in your MegaScenes account when you ask. The card opens in the chat and stays in your library.\n\nGive only the words you want printed on the card: no addresses or contact details are needed.\n\nFor friends, family, coworkers and milestone birthdays.\n\nLimitations: designs as image files; your text is passed to the model as written, so check the lettering in the result. It does not mail the cards or keep a list of birthdays. Making a file needs a signed-in MegaScenes account and runs in it; nothing is made until you confirm. Not for sexual or adult content or for real people's likeness. Files are made by generative models and saved in your MegaScenes library.",
+  "original_description_language": "英語",
+  "description_scope": "詳細ページの説明本文",
+  "summary_ja": "メッセージや署名を入れた誕生日カード画像を作る。",
+  "usage_tags": [
+    "誕生日",
+    "カード",
+    "画像制作"
+  ],
+  "limitations_ja": "文字の仕上がりは要確認。郵送や誕生日リスト管理は行わない。MegaScenesアカウントが必要。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。"
+}

@@ -1,0 +1,23 @@
+{
+  "official_app_name": "Algorithmic Ink",
+  "provider": "MAHFOUZ ALCHEIKH",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6aa5925ddc408191bd149b3adc2788e9?category=creativity",
+  "observed_at": "2026-11-22",
+  "original_description": "Algorithmic Ink turns your photos into geometric artwork directly inside ChatGPT. Transform a portrait, pet photo, object or landscape into spiral FM line art, scribble drawings, circle stippling or triangle art, then preview and refine the result in an interactive studio.\n\nStart by attaching a JPEG, PNG or WebP photo to your conversation, or choose a photo through the studio’s file picker. Describe the style you want, select ink and background colors, and adjust the drawing controls to change detail, contrast, line weight and other style-specific settings. Optional background removal isolates the subject; turn it off to preserve the complete scene.\n\nContinue refining your artwork through conversation or the studio’s controls. For example, ask to switch from spiral lines to scribble art, make the lines thinner, or change the colors while keeping the same photo. When the artwork is ready, download an SVG for further editing in compatible design software or a PNG for convenient viewing and sharing.\n\nImage processing and artwork generation run locally in your browser while the studio is open. Algorithmic Ink does not maintain a server-side library of your photos or finished artwork. The ChatGPT integration processes photo references and drawing settings, and shares rendering status, settings and a small artwork preview with ChatGPT to support follow-up requests. Photos selected in the studio are uploaded to ChatGPT when its upload feature is available, and exports may pass through ChatGPT’s download feature. The privacy policy explains these data flows, recipients, retention and user controls.\n\nNo separate Algorithmic Ink account is required, and Algorithmic Ink currently charges no usage fee. The app creates artwork from existing photos; it does not generate images from text alone, produce videos, or provide printing and shipping services. Processing speed and download availability depend on your device, browser and ChatGPT’s supported features.",
+  "summary_ja": "写真を幾何学的な線画に変換し、SVG・PNGとして出力。",
+  "usage_tags": [
+    "画像編集",
+    "ベクター画像",
+    "イラスト"
+  ],
+  "limitations": [
+    "画像処理はブラウザー内で動作する一方、設定・小さなプレビューをChatGPTと共有し、選択した写真はChatGPTへアップロードされる場合があると説明。",
+    "専用アカウント不要、現在利用料なしと説明。テキストのみからの画像生成や動画制作は対象外。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

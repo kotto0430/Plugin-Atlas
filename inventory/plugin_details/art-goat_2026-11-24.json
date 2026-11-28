@@ -1,0 +1,25 @@
+{
+  "name": "Art Goat",
+  "category": "Creativity",
+  "provider": "Art Goat",
+  "version": "1.0.0",
+  "observed_at": "2026-11-24",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac7f1729148819189268bc67c1017d6?category=creativity",
+  "original_description": "Art Goat is a search tool that helps visual artists find opportunities to apply for that are open, rolling, or with applications opening later: grants, residencies, fellowships, open calls and juried exhibitions, awards, commissions, scholarships, workshops, art jobs and internships. Ask in plain language, for example \"ceramics residencies in Europe\", \"photography grants closing this month\", \"funded residencies for a painter in New York\" or \"fellowships for emerging artists\", and Art Goat returns matching listings with the deadline, the award or stipend amount on file (for commissions this is the total project budget covering all project costs, not take-home pay; a stipend may be a per-period rate with the period given on the listing), any fee amounts on file, the stored eligibility scope, and a link to the full listing on artgoat.com. Listings come from Art Goat's directory and are shown as filed there, refreshed about every minute; listings with a past deadline are excluded unless marked rolling or deadline to be announced. Art Goat is anonymous to use in ChatGPT (no account or sign-in) and never drafts or edits application materials. Always verify deadline, eligibility and fees on the listing page before applying.",
+  "summary_ja": "美術家向けの助成金・公募・滞在制作などを検索する。",
+  "limitations_ja": "応募書類は作成・編集しない。期限や応募資格、手数料は募集ページで確認するよう説明。",
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "Art Goat",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "美術",
+    "公募",
+    "助成金"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}

@@ -1,0 +1,24 @@
+{
+  "official_app_name": "Viral Hook Suite",
+  "provider": "Savva Altman",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugins_6aafe51b1ff8819197b360f828e746f7?category=creativity",
+  "observed_at": "2026-11-17",
+  "original_description": "Create German Reel hooks, five-part captions, copy-ready text blocks, sets of 24 headlines, and guided Instagram Stories warm-up and launch plans. Designed for creators, coaches, and small businesses. The plugin drafts editable text only—it does not publish posts, send messages, or guarantee reach.",
+  "summary_ja": "ドイツ語のReels用文章や見出し、Instagramストーリーの企画を作る。",
+  "usage_tags": [
+    "SNS",
+    "文章作成",
+    "ドイツ語",
+    "マーケティング"
+  ],
+  "limitations": [
+    "文章の下書きを作成し、投稿・送信はしないと説明。",
+    "同提供元のViral Hook Suite 1.0とは別URL・別の掲載名とスキル構成。両者の関係は未確認。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

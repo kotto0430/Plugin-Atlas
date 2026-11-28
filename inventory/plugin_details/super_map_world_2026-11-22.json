@@ -1,0 +1,23 @@
+{
+  "official_app_name": "Super Map World",
+  "provider": "RORY DUNCAN GIANNI",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ab10b31ee5c8191b4dff56e0559c35c?category=creativity",
+  "observed_at": "2026-11-22",
+  "original_description": "Search more than 18,000 ready-made map graphics from Super Map World, covering over 200 countries and the world. Find flat country maps and globe views, filter by projection, colour, and borders - including administrative levels such as regions, provinces, and counties where available. Most maps are free to download and reuse with attribution under Creative Commons and other open licences.",
+  "summary_ja": "世界や国の地図画像を投影法や色、境界などで検索。",
+  "usage_tags": [
+    "地図",
+    "画像素材",
+    "資料作成"
+  ],
+  "limitations": [
+    "多くの地図は出典表記のもとで無料利用できると説明。個々のライセンスは要確認。",
+    "市街地・道路・ラベル付き地図は対象外とスキル欄に記載。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

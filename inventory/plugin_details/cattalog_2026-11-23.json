@@ -1,0 +1,27 @@
+{
+  "name": "Cattalog",
+  "category": "Creativity",
+  "provider": "cattalog",
+  "version": "1.0.1",
+  "observed_at": "2026-11-23",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6accd7d22c4c819185caabcd9539fef7?category=creativity",
+  "original_description": "Create and edit product catalogues in your connected Cattalog workspace. Work with spreadsheet data and image libraries, manage reusable layout components, inspect rendered pages, and export PDFs. Edits can overwrite existing content. PDF exports use your workspace export quota. Cattalog cannot purchase products or administer workspace membership through this plugin.",
+  "summary_ja": "表データや画像を使って商品カタログを作成・編集し、PDFに出力する。",
+  "limitations_ja": [
+    "編集は既存内容を上書きする場合があり、PDF出力はワークスペースの上限を消費する。"
+  ],
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "Cattalog",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "カタログ",
+    "PDF",
+    "商品管理"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}

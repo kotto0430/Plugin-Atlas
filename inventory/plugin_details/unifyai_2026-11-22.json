@@ -1,0 +1,22 @@
+{
+  "official_app_name": "UnifyAI",
+  "provider": "Unify",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6aba771badc08191b3ba96a4b9c8bf45?category=creativity",
+  "observed_at": "2026-11-22",
+  "original_description": "Create Videos and Images inside Chat-GPT with Unify",
+  "summary_ja": "ChatGPT内で動画と画像の制作を支援。",
+  "usage_tags": [
+    "動画制作",
+    "画像生成"
+  ],
+  "limitations": [
+    "説明は短く、対応する入力・機能や利用条件の詳細は不明。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証",
+    "説明だけでは不明"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "official_app_name": "Make A Viz",
+  "provider": "Chirag Shetty",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_69463c3af6a48191aef5c21055cd32bf?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Make A Viz app in ChatGPT lets you create and edit visual diagrams—flowcharts, sequence diagrams, and mind maps—directly inside ChatGPT.\n\nDiagrams are generated instantly within ChatGPT, with no external tools or tabs required. You can ask for things like “create a flowchart for our sales approval process” or “build a sequence diagram for user authentication,” and see the diagram rendered inline.\n\nDiagrams are fully editable through conversation and a visual editor. You can refine them by sending instructions such as “add an error-handling branch” or by directly adjusting nodes and connections.\n\nAll diagrams are saved automatically and remain accessible inside ChatGPT. You can retrieve and continue editing them later by asking “list my diagrams” or “show the onboarding flow I created.”",
+  "summary_ja": "フローチャートやマインドマップを会話・画面操作で作成して編集する。",
+  "usage_tags": [
+    "図解",
+    "フローチャート",
+    "マインドマップ"
+  ],
+  "limitations": [
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

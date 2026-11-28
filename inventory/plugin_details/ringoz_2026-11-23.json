@@ -1,0 +1,27 @@
+{
+  "name": "Ringoz",
+  "category": "Creativity",
+  "provider": "YESH",
+  "version": "1.0.9",
+  "observed_at": "2026-11-23",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac652de6ea08191b6180e17e85b1fdd?category=creativity",
+  "original_description": "Type a few words. Get a ringtone that sings them. Your name, your line, real sung vocals, in the style you pick, played right here in the chat. Sung alarms too. Twelve styles, 49 languages. Built by music producers, tuned by ear.",
+  "summary_ja": "入力した言葉を歌う着信音やアラームを作る。",
+  "limitations_ja": [
+    "12スタイル・49言語と説明。利用条件や実動作は未検証。"
+  ],
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "Ringoz",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "着信音",
+    "音声",
+    "音楽"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}

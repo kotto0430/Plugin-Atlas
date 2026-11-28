@@ -1,0 +1,25 @@
+{
+  "name": "Textile Designer AI",
+  "category": "Creativity",
+  "provider": "Scientia AI",
+  "version": "1.1.0",
+  "observed_at": "2026-11-23",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6aca069f0738819185446f14d268ab1b?category=creativity",
+  "original_description": "Textile Designer AI brings the design tools of your Textile Designer AI account into ChatGPT. Share a print, a garment photo or a sketch, and ChatGPT runs the right tool on it: make a design print ready for a chosen DPI, turn it into a seamless repeat, extract a flat print from a garment photo, generate colourways, separate colours into layered PSD files, vectorize artwork, or create new designs from an image and a description. Results appear as previews and download links in the chat and are saved to your Textile Designer AI library. Sign in with your existing Textile Designer AI account; runs use your organisation's credits.",
+  "summary_ja": "柄を印刷用に調整し、繰り返し模様や色違いを作る。",
+  "limitations_ja": "既存アカウントが必要で、組織のクレジットを使用する。",
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "Textile Designer AI",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "テキスタイル",
+    "デザイン",
+    "印刷"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}

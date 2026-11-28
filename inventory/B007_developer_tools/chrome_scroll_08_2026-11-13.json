@@ -1,0 +1,269 @@
+{
+  "source": "Chrome ChatGPT 開発者ツール",
+  "date": "2026-11-13",
+  "method": "一覧を重ねてスクロールし表示名を目視転記。テンプレートも名前として記録。転記誤りや重複の可能性あり。",
+  "catalog_blob": "fd13ece4009fcf170733daf819bb2e7424328a60",
+  "counts": {
+    "rows": 64,
+    "matched": 1,
+    "unmatched": 63
+  },
+  "rows": [
+    {
+      "name": "Infracost",
+      "matched": false
+    },
+    {
+      "name": "Softhills",
+      "matched": false
+    },
+    {
+      "name": "Cohuno Studio",
+      "matched": false
+    },
+    {
+      "name": "Executor",
+      "matched": false
+    },
+    {
+      "name": "ML Referee",
+      "matched": false
+    },
+    {
+      "name": "Eddyter",
+      "matched": false
+    },
+    {
+      "name": "Keboola",
+      "matched": false
+    },
+    {
+      "name": "Appstack",
+      "matched": false
+    },
+    {
+      "name": "Codiedev Reports",
+      "matched": false
+    },
+    {
+      "name": "Snipara",
+      "matched": false
+    },
+    {
+      "name": "Build Web Apps",
+      "matched": false
+    },
+    {
+      "name": "NodeMender",
+      "matched": false
+    },
+    {
+      "name": "Agility CMS",
+      "matched": false
+    },
+    {
+      "name": "Robotics Lab",
+      "matched": false
+    },
+    {
+      "name": "DNS Pilot",
+      "matched": false
+    },
+    {
+      "name": "Honeycomb (EU)",
+      "matched": false
+    },
+    {
+      "name": "LookupLab",
+      "matched": false
+    },
+    {
+      "name": "Postlane",
+      "matched": false
+    },
+    {
+      "name": "Software Architect",
+      "matched": false
+    },
+    {
+      "name": "Treg",
+      "matched": false
+    },
+    {
+      "name": "Perture",
+      "matched": false
+    },
+    {
+      "name": "Uiprobe",
+      "matched": false
+    },
+    {
+      "name": "Veridu",
+      "matched": false
+    },
+    {
+      "name": "CircleCI",
+      "matched": false
+    },
+    {
+      "name": "ClickStack",
+      "matched": false
+    },
+    {
+      "name": "Port Agent Skills (US)",
+      "matched": false
+    },
+    {
+      "name": "SlopClips",
+      "matched": false
+    },
+    {
+      "name": "MiniGrove",
+      "matched": false
+    },
+    {
+      "name": "Wever Labs",
+      "matched": false
+    },
+    {
+      "name": "Redocly",
+      "matched": false
+    },
+    {
+      "name": "Voidpay Compatibility",
+      "matched": false
+    },
+    {
+      "name": "Docket SEO",
+      "matched": false
+    },
+    {
+      "name": "Prompt Engineer",
+      "matched": false
+    },
+    {
+      "name": "Skillquiver",
+      "matched": false
+    },
+    {
+      "name": "Watchman Tower",
+      "matched": false
+    },
+    {
+      "name": "BillDog",
+      "matched": false
+    },
+    {
+      "name": "Dwellir",
+      "matched": false
+    },
+    {
+      "name": "Polylane",
+      "matched": false
+    },
+    {
+      "name": "Pingpile",
+      "matched": false
+    },
+    {
+      "name": "Vinktar",
+      "matched": false
+    },
+    {
+      "name": "Mermaid Diagrams",
+      "matched": false
+    },
+    {
+      "name": "Game Studio",
+      "matched": false
+    },
+    {
+      "name": "Macroscope",
+      "matched": false
+    },
+    {
+      "name": "Enoki",
+      "matched": false
+    },
+    {
+      "name": "Valohai Skills",
+      "matched": false
+    },
+    {
+      "name": "Local Commander",
+      "matched": false
+    },
+    {
+      "name": "GAdvisory",
+      "matched": false
+    },
+    {
+      "name": "Pabbly Studio",
+      "matched": false
+    },
+    {
+      "name": "Fokusflow",
+      "matched": false
+    },
+    {
+      "name": "AtReady",
+      "matched": false
+    },
+    {
+      "name": "ClawMaven",
+      "matched": false
+    },
+    {
+      "name": "Hypertaks",
+      "matched": false
+    },
+    {
+      "name": "HealthCheckEmail",
+      "matched": false
+    },
+    {
+      "name": "Tmailor Temp Mail",
+      "matched": false
+    },
+    {
+      "name": "Maker",
+      "matched": false
+    },
+    {
+      "name": "GUI95",
+      "matched": false
+    },
+    {
+      "name": "Pi Security",
+      "matched": false
+    },
+    {
+      "name": "Build macOS Apps",
+      "matched": false
+    },
+    {
+      "name": "Datadog",
+      "matched": true
+    },
+    {
+      "name": "App Listing Agent",
+      "matched": false
+    },
+    {
+      "name": "Firezone",
+      "matched": false
+    },
+    {
+      "name": "Redthread",
+      "matched": false
+    },
+    {
+      "name": "dbt",
+      "matched": false
+    },
+    {
+      "name": "Retool",
+      "matched": false
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "official_app_name": "Atlas Cloud",
+  "provider": "Atlas Cloud AI Inc",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6aa8f97285d08191bc987b06277134b9?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Generate images, videos, audio, 3D assets, and text with a live catalog of 400+ AI models. Choose video models such as Seedance, Veo, Kling, MiniMax, and Wan; image models such as GPT Image, Nano Banana, Seedream, FLUX, and Qwen; 3D models from Hunyuan and Tripo; plus audio models from Suno, ElevenLabs, MiniMax, and Seed Audio.\nWith this plugin, you can:\n• Generate and edit images from text, images, or supported references.\n• Create text-to-video, image-to-video, and reference-to-video clips; use supported video editing, avatar, and motion-control workflows.\n• Turn text or images into 3D assets; create speech and music; transcribe audio; and run supported LLMs.\n• Search the live model catalog, inspect each model’s inputs, output type, and pricing, upload source media for a generation task, and track asynchronous jobs to completion.\nConnect your Atlas Cloud account in the browser—no API key is required. Billable jobs charge your Atlas balance and may require confirmation before submission. Availability, inputs, output formats, processing time, and cost vary by selected model. Uploads are temporary generation inputs, not permanent file storage.",
+  "summary_ja": "複数のAIモデルを検索し、画像・動画・音声・3D素材などを生成する。",
+  "usage_tags": [
+    "画像生成",
+    "動画生成",
+    "音声生成",
+    "3D",
+    "AIモデル"
+  ],
+  "limitations": [
+    "アカウント連携が必要で、課金対象の処理は残高から請求されると説明。",
+    "モデルごとに利用可否・料金・出力形式が異なると説明。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

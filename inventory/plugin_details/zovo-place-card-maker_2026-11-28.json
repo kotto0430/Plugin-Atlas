@@ -1,0 +1,25 @@
+{
+  "official_app_name": "Zovo Place Card Maker",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "Zovo",
+  "version": "1.0.1",
+  "observed_at": "2026-11-28",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ae45be9643c81918791e4888f5e155f?category=creativity",
+  "original_description": "Make place cards printable from your guest list: tent-fold table name cards with the name on both sides, ready to cut and fold. Paste names with optional table numbers and meal choices, and Zovo Place Card Maker lays them out on a print-ready PDF.\n\nEach card is 3.5 x 2 in when folded (the common place card template size), or 105 x 74 mm (A7, four cut from one A4 sheet). Cards come 4 to a page, or 6 to a Letter page in landscape. The name prints on both faces and the back face is upside down on the sheet, so once you fold on the dashed line it reads correctly from both sides of the table. Crop marks (or thin cut lines on the A7 sheet) show where to cut.\n\nAdd an event line such as \"Thanksgiving 2026\" or \"Emma & Liam\", the table number, and a small meal tag (Fish, Beef, Vegetarian). Cards are sorted by table and name, by name, by last name, or kept in your order. Long names (up to 120 characters) are set smaller and then wrapped to two lines, so they are not cut off. Names print in Latin, Greek, Cyrillic, Vietnamese, Arabic, Hebrew, Thai, Indian scripts, Chinese, Japanese and Korean.\n\nIt also makes flat escort cards with the table number under each name, and a table plan PDF that lists the guests at each table with meal counts.\n\nGood for weddings, Thanksgiving and holiday dinners, banquets, galas and conferences.\n\nLimits: up to 300 guests per PDF, one clean sans-serif font with one accent colour, and it does not decide who sits where. Print at 100% (actual size).",
+  "original_description_language": "英語",
+  "description_scope": "詳細ページの説明本文",
+  "summary_ja": "ゲスト名簿から二つ折り席札やテーブル表のPDFを作る。",
+  "usage_tags": [
+    "席札",
+    "イベント",
+    "PDF"
+  ],
+  "limitations_ja": "PDFあたり最大300人。日本語を含む複数文字への対応を説明。座席の割り当ては行わない。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。"
+}

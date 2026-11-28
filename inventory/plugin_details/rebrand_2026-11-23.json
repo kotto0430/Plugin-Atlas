@@ -1,0 +1,27 @@
+{
+  "name": "Rebrand",
+  "category": "Creativity",
+  "provider": "Rebrand",
+  "version": "1.0.1",
+  "observed_at": "2026-11-23",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6acbab640e40819194bb01613a797cee?category=creativity",
+  "original_description": "Find brand identities and visual assets in Rebrand's published design catalog. Search by creative brief, design studio, industry, visual style, typography, color or year. Explore individual assets and discover similar identities using references returned by the catalog, or attach a picture to find assets and identities that look like it. Results include gallery thumbnails and links to their sources. Designed for designers, creative teams and developers researching visual directions. Rebrand searches its published catalog; it does not edit catalog content, keep attached pictures or generate new artwork. Sign in to an existing Rebrand account with access to this feature.",
+  "summary_ja": "公開デザインカタログからブランドやビジュアル素材を検索し、似た参考例を探す。",
+  "limitations_ja": [
+    "利用にはこの機能にアクセスできる既存Rebrandアカウントが必要。カタログの編集や新しい作品の生成はしないと説明。"
+  ],
+  "review": "ChatGPTの詳細画面の表示に基づく記録。実動作・料金・一覧本体との照合は未検証。",
+  "catalog_status": "詳細記録。既存一覧本体への照合は未確認。",
+  "official_app_name": "Rebrand",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "usage_tags": [
+    "ブランド",
+    "デザイン",
+    "素材検索"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "description_scope": "詳細ページ本文の英語説明"
+}

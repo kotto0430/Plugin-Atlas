@@ -1,0 +1,25 @@
+{
+  "name": "Website Builder",
+  "official_app_name": "Website Builder",
+  "provider": "AI Research Plus",
+  "version": "2.3.9",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac4d9a4b16c81919b4d9ffec195ba1e?category=creativity",
+  "developer_url": "https://www.airesearchplus.com/",
+  "category": "Creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Website Maker helps you plan, write, build and improve websites by chat. Answer 5 quick questions about your business and it prepares a personalized link that opens an online website builder with your site ready to build. It also writes complete multi-page sites with real copy and responsive code, and any single page you need.\n\nWhat you can do:\n- Build a complete website: get every page written and coded, or start from an industry starter for restaurants, clinics, salons, trades, coaches and more.\n- Write conversion-focused copy: homepage, about, services, pricing, contact, FAQ, landing and portfolio pages with clear headlines and calls to action.\n- Check any page: paste its HTML or text to get scores for SEO, content, conversion, accessibility and technical basics, with a prioritized list of fixes.\n- Improve your SEO: title tags, meta descriptions, headings, local SEO, structured data and blog plans.\n- Edit and export code: change existing pages from plain-English instructions, or convert them to Tailwind CSS, React, Next.js, Vue, Bootstrap or WordPress.\n- Grow and launch: lead forms, booking pages, online stores, membership sites, starter legal pages, brand kits, domain name ideas and a launch checklist.\n- Get a build link: answer 5 quick questions and get a personalized link that opens an online website builder with your site brief already filled in.\n\nWho it is for: small business owners, freelancers, creators, consultants, marketers and anyone who needs a website without hiring an agency.\n\nHow the tools work: the page checker analyzes only the HTML or text you share in the conversation. It never opens web addresses, and the pages and briefs you send are not stored. The build link opens an online website builder with your brief and includes the plugin creator's affiliate code. Website Maker is an independent plugin by AI Research Plus.\n\nLimitations: Website Maker writes plans, copy and code in the conversation. It does not host or publish websites, register domains or connect to your website's dashboard. Legal pages are starter drafts, not legal advice. Details it cannot know about your business, such as prices, reviews and contact details, are marked for you to confirm or fill in.\n\nThe reply with the build link ends with a one-line sponsor disclosure.",
+  "original_description_language": "en",
+  "summary_ja": "サイトの構成・文章・コード作成や、提供されたページの改善を支援する。",
+  "usage_tags": [
+    "ウェブ制作",
+    "プログラミング",
+    "SEO"
+  ],
+  "limitations_ja": "公開・ホスティング・ドメイン登録は行わないと説明。ページ検査は共有したHTMLや文章のみ。外部ビルダーのリンクに作者のアフィリエイトコードを含む。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "一覧本体との名称照合は未確認。同名・別名の同一性は未確認。",
+  "review": "詳細画面の説明・情報欄を確認。動作、料金、品質は未検証。"
+}

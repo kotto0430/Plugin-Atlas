@@ -1,0 +1,22 @@
+{
+  "official_app_name": "Grapes Studio",
+  "provider": "Grapes Studio Inc.",
+  "version": "2.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_69dd38930d64819196c02d0f9db061b5?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Create beautiful websites and emails with AI and edit them directly in ChatGPT. This app helps you generate new pages, update existing layouts, rewrite content, adjust styling, and build reusable sections faster. Whether you’re drafting a campaign email or shaping a full landing page, it keeps design and content work in one streamlined workflow.",
+  "summary_ja": "ウェブサイトやメールのページ・レイアウト・文章を作成し、ChatGPT内で編集する。",
+  "usage_tags": [
+    "ウェブサイト制作",
+    "メール制作",
+    "デザイン",
+    "文章編集"
+  ],
+  "limitations": [
+    "実際の機能は未検証。公開・送信・書き出しの可否は説明だけでは不明。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

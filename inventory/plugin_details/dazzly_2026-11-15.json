@@ -1,0 +1,23 @@
+{
+  "official_app_name": "Dazzly",
+  "provider": "SolvedIt Limited",
+  "version": "1.0.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_698d462b7cdc81919f262bb8c55f3483?category=creativity",
+  "observed_at": "2026-11-15",
+  "original_description": "Dazzly is an all‑in‑one website builder that helps small businesses and creators get a professional site online quickly—without stitching together hosting, security, design tools, and add‑ons.\n\nStart from polished templates and customize your pages while Dazzly handles the technical essentials in the background: website hosting, free SSL security, and performance-focused image optimization so your site loads smoothly across devices.\n\nNeed content fast? Dazzly includes access to stock image/video/icon libraries to help you publish with less time spent searching and buying assets.\n\nIf you sell products, Dazzly’s built‑in ecommerce shopping cart lets you take payments and offer options like click & collect, delivery, or cash on pickup—so your website can support real day‑to‑day sales, not just look good.\n\nFor teams who want strong foundations without endless setup, Dazzly also includes built‑in SEO and performance fundamentals (like sitemaps and structured data) to help your site be discoverable and dependable from day one.",
+  "summary_ja": "小規模事業向けのウェブサイト制作や商品販売、サイト管理を支援する。",
+  "usage_tags": [
+    "ウェブサイト制作",
+    "EC",
+    "中小企業",
+    "SEO"
+  ],
+  "limitations": [
+    "説明にはDazzlyサービス全体の機能が含まれ、ChatGPT連携から操作できる範囲は未確認。",
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}

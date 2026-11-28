@@ -1,0 +1,21 @@
+{
+  "official_app_name": "GoFaceless",
+  "provider": "Franck Nijimbere",
+  "version": "0.2.0",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6ac39ca0c6d48191ba0eac9ee040261d?category=creativity",
+  "observed_at": "2026-11-23",
+  "original_description": "Turn one photo into a short video: put yourself into trending templates like Hotel Lobby, Couture Crowns, Fan Fits, and NDA Glow Up, see a preview of you in it, then make the full video. Or create and refine faceless videos, UGC-style ads, and explainers from an idea, in the same GoFaceless account.",
+  "summary_ja": "写真とテンプレートを使った短い動画や顔出しなしの動画を制作する。",
+  "usage_tags": [
+    "動画制作",
+    "広告",
+    "SNS"
+  ],
+  "limitations": [
+    "実動作・料金・一覧本体との照合は未検証。"
+  ],
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ]
+}
