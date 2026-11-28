@@ -1,0 +1,24 @@
+{
+  "official_app_name": "NameReef Domain Generator",
+  "official_name_basis": "ChatGPTプラグイン詳細画面の表示名",
+  "category": "Creativity",
+  "provider": "TYZO Sp. z o.o.",
+  "version": "1.0.4",
+  "observed_at": "2026-11-28",
+  "source_url": "https://chatgpt.com/plugins/plugin_asdk_app_6b04c32f6bc48191b3fca172a94e56d1?category=creativity",
+  "original_description": "NameReef Domain Generator finds domain names for your project that no one has registered yet.\n\nTell ChatGPT what you're starting, in your own words: what it is, where it is, the language, the tone, the length and the extensions you'd like. NameReef's AI thinks it through, invents names that fit and checks each one against registry data, so only names that registry data shows as unregistered come back, each with a one-sentence reason it fits. Finds arrive while the search runs, and you can steer it with follow-ups such as \"10 more\", \"shorter\" or \"only .io\".\n\nWhat you can do:\n• Generate domain names from a plain-language brief, for many extensions and languages\n• Check names you already have in mind, up to 50 at a time\n• See a finished search's names as cards, with every extension each one is free on\n• Keep every search in your NameReef account, pick it up again later and sort your searches into projects\n• Shortlist the names you like, grouped by project\n• Spot premium names, which cost more than the standard registration fee\n\nWho it's for: anyone naming a business, product, app, project or event who wants a name whose domain is still available.\n\nGood to know: NameReef does not register or sell domains, so register a name you like with any registrar. Availability reflects registry data at the time of the check, so confirm with a registrar before you buy. A NameReef account is required, and searches use the account's weekly allowance. Names, reasons and briefs are written by AI.",
+  "original_description_language": "英語",
+  "description_scope": "詳細ページの説明本文",
+  "summary_ja": "ドメイン名を提案し、登録情報に基づいて空き状況を調べる。",
+  "usage_tags": [
+    "ドメイン",
+    "ネーミング"
+  ],
+  "limitations_ja": "アカウントと週ごとの利用枠が必要。登録や販売は行わず、購入前の再確認を推奨。",
+  "verification_status": [
+    "公式説明を確認済み",
+    "機能未検証"
+  ],
+  "catalog_status": "詳細記録。一覧本体との照合は未確認。",
+  "review": "ChatGPTの詳細画面に基づく記録。実動作・料金・一覧本体との照合は未検証。"
+}
